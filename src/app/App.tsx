@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { Ctx, type AppCtx } from './context';
 import { useUrlState } from '@/state/url';
 import { useWatched } from '@/state/watched';
@@ -18,9 +18,17 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Toaster } from '@/components/ui/sonner';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import { SpineView } from '@/views/SpineView';
-import { ReleaseView } from '@/views/ReleaseView';
-import { ContinuitiesView, GroupingsView, PlatformView, StudioView, TagsView } from '@/views/LaneViews';
-import { ConnectionsView, DualAxisView } from '@/views/ChartViews';
+// Secondary views are split into lazy chunks (D-4); the default story view stays in the main bundle.
+const ReleaseView = lazy(() => import('@/views/ReleaseView').then((m) => ({ default: m.ReleaseView })));
+const lanes = () => import('@/views/LaneViews');
+const PlatformView = lazy(() => lanes().then((m) => ({ default: m.PlatformView })));
+const StudioView = lazy(() => lanes().then((m) => ({ default: m.StudioView })));
+const GroupingsView = lazy(() => lanes().then((m) => ({ default: m.GroupingsView })));
+const TagsView = lazy(() => lanes().then((m) => ({ default: m.TagsView })));
+const ContinuitiesView = lazy(() => lanes().then((m) => ({ default: m.ContinuitiesView })));
+const charts = () => import('@/views/ChartViews');
+const DualAxisView = lazy(() => charts().then((m) => ({ default: m.DualAxisView })));
+const ConnectionsView = lazy(() => charts().then((m) => ({ default: m.ConnectionsView })));
 
 export const VIEW_LABELS: Record<ViewId, string> = {
   spine: 'In-universe', release: 'Release order', platform: 'Platform', studio: 'Studio', groupings: 'Phase / Saga',
@@ -134,7 +142,7 @@ export function App() {
                 {VIEWS.map((v) => (
                   <TabsContent key={v} value={v} tabIndex={-1}>
                     {state.view === v && (
-                      <>
+                      <Suspense fallback={<p className="p-6 text-sm text-muted-foreground" role="status">Loading view…</p>}>
                         {v === 'spine' && <SpineView rows={filtered} />}
                         {v === 'release' && <ReleaseView rows={filtered} />}
                         {v === 'platform' && <PlatformView rows={filtered} />}
@@ -144,7 +152,7 @@ export function App() {
                         {v === 'continuities' && <ContinuitiesView rows={filtered} />}
                         {v === 'dual' && <DualAxisView rows={filtered} />}
                         {v === 'connections' && <ConnectionsView rows={filtered} />}
-                      </>
+                      </Suspense>
                     )}
                   </TabsContent>
                 ))}

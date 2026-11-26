@@ -16,6 +16,7 @@ export interface WikidataFacts {
   tmdb_movie: string | null; // P4947
   tmdb_tv: string | null; // P4983
   imdb: string | null; // P345
+  pages: number | null; // P1104 (books)
 }
 
 const API = 'https://www.wikidata.org/w/api.php';
@@ -48,7 +49,7 @@ export async function lookupByEnwiki(titles: string[]): Promise<WikidataFacts[]>
     }
     for (const t of chunk) {
       const e = bySite.get(t) ?? [...bySite.values()].find((x) => x.sitelinks.enwiki.title.replace(/_/g, ' ') === t.replace(/_/g, ' '));
-      if (!e) { out.push({ enwiki: t, qid: null, label: null, publication_dates: [], duration_min: null, episodes: null, seasons: null, tmdb_movie: null, tmdb_tv: null, imdb: null }); continue; }
+      if (!e) { out.push({ enwiki: t, qid: null, label: null, publication_dates: [], duration_min: null, episodes: null, seasons: null, tmdb_movie: null, tmdb_tv: null, imdb: null, pages: null }); continue; }
       const dur = claimValues(e, 'P2047')[0]?.mainsnak?.datavalue?.value;
       const num = (pid: string) => {
         const v = claimValues(e, pid)[0]?.mainsnak?.datavalue?.value;
@@ -72,6 +73,7 @@ export async function lookupByEnwiki(titles: string[]): Promise<WikidataFacts[]>
         tmdb_movie: str('P4947'),
         tmdb_tv: str('P4983'),
         imdb: str('P345'),
+        pages: num('P1104'),
       });
     }
     await politePause(1000);

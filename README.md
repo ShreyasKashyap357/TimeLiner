@@ -72,7 +72,6 @@ npm run build        # typecheck + production build to dist/
 ## Deploy
 
 - **GitHub Pages (primary).** `.github/workflows/ci-deploy.yml` runs typecheck, data verification, unit tests and e2e tests, then builds with `BASE_PATH=/TimeLiner/` and deploys. One-time setup: repo **Settings → Pages → Source: GitHub Actions**.
-- **Vercel (optional).** Import the repo; the defaults work (`npm run build`, output `dist`, base path `/`). Each PR gets a preview URL.
 
 ## Keeping data current
 

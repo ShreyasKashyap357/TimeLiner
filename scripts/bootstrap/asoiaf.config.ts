@@ -3,7 +3,7 @@
 import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
 
 const W = 'https://en.wikipedia.org/wiki/';
-const AC = { kind: 'era' as const, before_label: 'BC', after_label: 'AC', has_year_zero: false };
+const AC = { kind: 'era' as const, before_label: 'BC', after_label: 'AC', has_year_zero: false, note: "Years counted from Aegon's Conquest: 1 AC is the year of Aegon I's coronation, and the year before it is 1 BC (there is no year 0). Inferred from A Wiki of Ice and Fire; no source states the no-year-0 rule in words (D-21)." };
 
 export const UNIVERSE: Universe = {
   id: 'asoiaf', name: 'A Song of Ice and Fire', short_name: 'Ice & Fire', order: 4, enabled: true,

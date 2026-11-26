@@ -4,51 +4,23 @@ Work continues stage to stage without stopping (user instruction, 2026-11-26). O
 
 ## Open: waiting on you
 
-| # | Stage | Question | Default being used |
-|---|---|---|---|
-| D-1 | 1 | **How to present the two "Marvel Television" studios.** They are now distinct registry entries (see below). Options: **(a)** one "Marvel Television" filter group with two clearly labelled checkboxes, "Division, 2010–2019 (ABC / Netflix / Hulu / Freeform)" and "Marvel Studios banner, 2024–"; **(b)** two unrelated filters with no grouping; **(c)** show only the parent studio (Marvel Studios) for the 2024 banner and hide the banner name. | **(a)**. Badges also differ: "Marvel TV ’10–’19" (outlined, archive style) vs "Marvel Studios › Marvel TV banner" (breadcrumb). Each has a tooltip explaining they are different entities. |
-| ~~D-2~~ | 2 | (superseded by R-13) **Default canon-tier filter.** The brief says "default: core only", but your reference image also shows the purple-diamond entries (FF: First Steps, Deadpool & Wolverine, YFNSM, Marvel Zombies), which are tier `outside-set-date`. | Default = **core + outside-set-date**, so the default view matches your image. Adjacent and non-placeable are off by default. |
-| D-3 | 2 | **The brief's toggles "Marvel Television, adjacent, animated, non-placeable".** Netflix shows are Marvel Television (division) but `core`, and they appear in your image, so a "Marvel Television" toggle that is off by default would hide them. | Tier checkboxes for adjacent and non-placeable; the "Animated" quick toggle; Marvel Television (either entity) via the grouped Studio filter. Nothing Marvel-specific is hard-coded. |
-| D-4 | 2 | **Bundle size.** The main JS chunk is about 200 KB gzipped (Zod validation and Radix). Data is already split per universe. | Leave as is for now. Optional later: skip runtime validation in production, or split views into lazy chunks. |
-| D-5 | 2 | **GitHub Pages switch-on.** It needs the repo setting Pages → Source: GitHub Actions. | I'll try to enable it through the GitHub API. If that isn't permitted, you need to flip it once. |
-
-### Stage 3: schema and app changes required by DC
-
-All are backward compatible, and the Marvel data validates unchanged with 0 errors. Under R-10 I'm applying them with these defaults; any can be reverted.
-
-| # | Change | Why |
-|---|---|---|
-| D-6 | **`Branch.merges_into` (optional)**: `{ branch, at, note }` | Arrowverse *Crisis on Infinite Earths* (Jan 2020) merges Earth-1, Earth-38 and others into Earth-Prime. Branches could already split (`parent` / `diverges_at`) but had no way to merge. |
-| D-7 | **Episode-level crossover constituents**: `constituents` entries may be `"<unit id>#e<episode>"` | Arrowverse crossovers span single episodes inside season units (e.g. Arrow S8E8). Integrity checks that the unit exists, is in the same continuity, and that the episode number is within `episode_count`. Watched state stays on the event's own unit. Ticking an event does not tick whole seasons. |
-| D-8 | **Removed Marvel defaults from app code** (`defaultState`/`fromQuery` fallbacks, connections colour) | Required by the "nothing Marvel-specific in app logic" rule. Universe and continuity defaults now come from `universes.json`. |
-| D-9 | **New registry entries** (data only): DC Studios, DC Films, Warner Bros. Pictures/TV/Animation; The CW, The WB, Fox, Max/HBO Max, HBO, DC Universe streaming, Kids' WB, Cartoon Network, CW Seed | Open vocabularies, no code change. |
-| D-10 | **Peacemaker split into two titles**: S1 → `dceu`, S2 → `dcu`, linked `continues` | Wikipedia says S2 is "set in the DCU continuity". A title belongs to exactly one continuity, and the alternative (a per-unit continuity override) would weaken the never-merge rule. |
-| D-11 | **DC launch scope.** Included: DCU, DCEU, Arrowverse (+ Stargirl, Superman & Lois as determined by research), Reeves, Nolan, Burton/Schumacher, Joker, Reeve-era Superman films, Smallville, Gotham, Titans, Doom Patrol, DCAU, DCAMU, Tomorrowverse. **Deferred:** Lucifer, Swamp Thing (2019), Krypton, Pennyworth, Watchmen, Constantine (NBC, unless the research puts it in the Arrowverse), Teen Titans / Young Justice / Harley Quinn and other animation, and the standalone DC Universe Animated Original Movies. | Keeps Stage 3 reviewable. All deferred titles fit the existing model as `standalone-collection` continuities. |
-
-### Added after Checkpoint 2 feedback
+Defaults are in use until you answer. Answered items are under Resolved (R-20 onward).
 
 | # | Question | Default being used |
 |---|---|---|
-| D-12 | **Do *Ultimate Spider-Man* and *Hulk and the Agents of S.M.A.S.H.* share the Disney XD continuity** with *Avengers Assemble*, *Guardians of the Galaxy* and *Spider-Man* (2017)? The fetched sources only state it for the last three. | Kept in the standalone collection until a source states it. |
-| D-13 | **Per-season split for the Disney XD-era cartoons.** Their articles have no season table, so each is one "Series" entry. | Fine for now; split later from their episode-list pages. |
-| D-14 | **"Recommended watch order".** No source names a single recommended order. Marvel publishes its Disney+ timeline order, which is in the data. | The Watch order card offers Story, Release and official orders (with source), and doesn't call any one of them "recommended". |
-| D-15 | **Non-MCU animated features and specials** (e.g. *Planet Hulk*, *Hulk vs.*, LEGO Marvel specials, Marvel Knights Animation) and the anime films. | Not added yet. They fit as `standalone-collection` entries; say if you want them. |
-
-### Expansion: other universes and books
-
-| # | Question | Default being used |
-|---|---|---|
-| D-16 | **Approve the book-support changes** in PLAN.md §8.2: book types, publishers, pages, `adapts` links, "Done" wording with read/watched, a Books toggle, and a spoiler-safe mode. | Not built until you approve. Then: schema first, then ASOIAF/GoT as the pilot (B1). |
-| D-17 | **Order after DC.** Proposed: Godzilla & Kong → Star Wars → books pilot (ASOIAF/GoT) → Star Trek → Terminator/Halloween → Wizarding World/Middle-earth → Wheel of Time → Riordan → Indian universes → batches. | This order, unless you reprioritise. |
-| D-18 | **Games** (The Witcher, Halo, Mass Effect, Star Wars games) as a third medium. | Out of scope for now. The book changes are designed so a "game" medium could be added the same way. |
-| D-19 | **US re-edits of Toho films** (Godzilla, King of the Monsters!; Gigantis; Godzilla 1985) | Not separate titles; mentioned in the original's release note. Could be added as `remake`-linked entries. |
-| D-20 | **Game of Thrones books vs HBO shows as separate continuities.** No source uses the word "continuity". Wikipedia does say "only the novels count as canon", and the show deviates from the novels from season 5–6. | Separate continuities, linked with `adapts`. |
-| D-21 | **AC calendar without a year 0** (1 AC = Aegon's coronation; the Conquest war is 2–1 BC). Inferred from A Wiki of Ice and Fire; no source states it in words. | `has_year_zero: false`. |
-| D-22 | **Wheel of Time calendar.** NE years with no year 0; inferred from the fan wiki. Wikipedia gives no in-universe years at all. | Applied; every NE year marked inferred. |
-| D-23 | **Wheel of Time books vs Amazon series as separate continuities.** Based on reviews; no explicit source. | Separate continuities, linked with `adapts`. |
+| D-3 | **Plain version:** your brief asked for on/off switches named "Marvel Television", "adjacent", "animated" and "non-placeable". A "Marvel Television" switch is awkward: Daredevil, Jessica Jones and the other Netflix shows were made by Marvel Television *and* are fully part of the MCU timeline in your reference image, so switching "Marvel Television" off would also hide them. Is it fine that these are covered by the existing controls instead? | Yes, covered by: the **Canon tier** checkboxes (Adjacent, Non-placeable), the **Animated** quick button, and the **Studio** filter (pick either Marvel Television). No separate switch. |
+| D-6 | Branch merges (Arrowverse *Crisis*): you said OK, with no ideas for improving it. | Kept as is. One possible improvement later: draw the merge as a converging line in the Continuities view. Say if you want it. |
+| D-11 | **Why some DC titles were deferred:** only to keep the first DC release small enough to check; there was no data problem. | Now being added (researched 2026-11-26): Lucifer, Swamp Thing, Krypton, Pennyworth, Watchmen, Constantine, Teen Titans, Teen Titans Go!, Young Justice, Harley Quinn, Kite Man, Brave and the Bold, Beware the Batman, Justice League Action, and the standalone animated films. |
+| D-12 | ***Ultimate Spider-Man* (2012–17) and *Hulk and the Agents of S.M.A.S.H.* (2013–15)** are Disney XD cartoons. Marvel later linked *Avengers Assemble*, *Guardians of the Galaxy* (2015) and *Spider-Man* (2017) to them as one shared cartoon world, but the sources only say so for those three. | Both stay in the standalone collection until a source says they share that world. |
 | D-24 | **Star Wars years from Lucasfilm reference books.** Wookieepedia cites many years to official books (*Star Wars: Timelines*, 2023; *Galactic Atlas*). Should those count as stated? | Yes: `stated`, with the book-via-Wookieepedia chain in the note. Years Wookieepedia works out itself are `inferred`. |
 | D-25 | **Star Wars Holiday Special.** Lucasfilm put it in Legends in 2014, but J. J. Abrams later called it canon. | In Legends, with the date marked disputed. |
-| D-26 | **LEGO Star Wars and Visions.** Wikipedia is silent on LEGO canon; Visions "not required to adhere" to the timeline. | Two separate non-canon collections (tier adjacent), not placed on the BBY/ABY timeline. |
+| D-26 | **LEGO Star Wars and Visions.** Wikipedia is silent on LEGO canon; Visions was "not required to adhere" to the timeline. | Two separate non-canon collections (tier adjacent), not placed on the BBY/ABY timeline. |
+| D-27 | **Pennyworth** is called a prequel to *Gotham*, but is also set in an alternate-history London (a *V for Vendetta* prequel). | Its own continuity, linked to *Gotham*, rather than inside the Gotham continuity. |
+| D-28 | **Constantine (NBC, 2014).** Wikipedia: Matt Ryan's role in the Arrowverse "retroactively established Constantine as part of the same continuity". | Placed in the Arrowverse (Earth-1), before *Arrow* S4 "Haunted"; the in-universe year stays unstated. |
+| D-29 | **Cast and crew (your request).** Source: Wikidata (cast P161, director P57, producer P162, screenwriter P58, composer P86, based-on P144), the same source already used for ids and dates. Big casts would make the data much larger. | Store the top-billed 10 cast members and all directors, writers, producers and composers per title. Show them in the detail panel, searchable, with a People filter. Per-season credits only where Wikidata has season items. |
+| D-30 | **Marvel animated specials (D-15).** Origin lines: Marvel Animated Features (Lionsgate), Marvel Knights motion comics, Marvel anime films, Heroes United, Hulk: Where Monsters Dwell, Marvel Rising, LEGO Marvel, and Phineas and Ferb: Mission Marvel. | One "Specials" collection with an **Origin** filter. 10 LEGO/other entries have only a year (no day), kept year-only. The motion comics use a new `motion-comic` type. |
+| D-31 | **Word counts.** Wikipedia's tables (citing Accelerated Reader) give counts for the 15 Wheel of Time books and ASOIAF 1–5. *The Princess and the Queen* is about 30,000 words (George R. R. Martin's blog). Nothing reliable was found for the Dunk & Egg novellas, *Fire & Blood* or the companions. | Use the Accelerated Reader counts, note where other sources differ (e.g. *The Shadow Rising*: 341,730 vs 386,000), and leave the rest blank. |
+| D-32 | **Toho US re-edits (D-19 categorisation).** | A new title type, **"Re-edit (US version)"**, linked to the original with a new `re-edit-of` link kind. 7 titles, including *Godzilla 2000* (US). Dub-only US releases are not listed separately. |
 
 ## Resolved
 
@@ -60,7 +32,7 @@ All are backward compatible, and the Marvel data validates unchanged with 0 erro
 | R-4 | 0 | TMDB skipped (no key); Wikidata for ids | Yes |
 | R-5 | 0 | Data licence CC BY-SA 4.0 | Yes |
 | R-6 | 0 | UI library | shadcn/ui |
-| R-7 | 0 | Hosting | GitHub Pages primary, Vercel optional |
+| R-7 | 0 | Hosting | GitHub Pages (Vercel later dropped, R-22) |
 | R-8 | 1 | Two "Marvel Television"s: keep separate | Yes. Ids `marvel-television-division` and `marvel-television-banner`, plus `group`, `short_label` and `active` years (migration 2026-11-26) |
 | R-9 | 1 | X-Men: The Animated Series | Split into seasons 1–5 from Wikipedia's episode list. The old combined id is aliased so watched progress carries over. |
 | R-11 | 1 | ABC/Hulu/Freeform placement | Researched: 14 seasons placed from Wikipedia tie-ins and MCU Fandom year pages (inferred/disputed, quoted in DATA_NOTES §5). Tier stays `adjacent`. |
@@ -73,3 +45,13 @@ All are backward compatible, and the Marvel data validates unchanged with 0 erro
 | R-18 | B1 | Books pilot | Book support built with the D-16 defaults; A Song of Ice and Fire / Game of Thrones built and enabled (19 titles). Separate book and HBO continuities (D-20), AC calendar without a year 0 (D-21). |
 | R-19 | B2 | The Wheel of Time | Built and enabled (books, Amazon series, Winter Dragon). |
 | R-12 | 2 | UI look | The user's shadcn preset (`b3JSApUsds`, style **radix-lyra**, base **mauve**, Roboto + JetBrains Mono). It owns surfaces, cards, colours, fonts and radius. Universe accents (Marvel gold/red, DC blue) are used only for timeline chrome: spine, year headings and the main-branch marker. Root font size is 112.5% for readability. The header and filters are sticky, the top of the page is dashboard-style stat cards, and charts have tooltip cards. |
+| R-20 | 1 | D-1 Marvel Television naming | "Marvel Television (2010–2019)" and "Marvel Television (Marvel Studios)" (migration 2026-11-26-marvel-tv-labels). |
+| R-21 | 2 | D-4 bundle size | Done: Zod validation skipped in production (CI and dev still validate), secondary views lazy-loaded. Main chunk 206 → 174 KB gzip. First paint loads only the current universe. |
+| R-22 | 2 | D-5 Pages | Already enabled. Hosting is GitHub Pages only; Vercel dropped (user, 2026-11-26). |
+| R-23 | 2 | D-7 crossover episode keys | OK, on condition nothing internal leaks to the UI. Added an e2e audit that fails on raw ids, "#e8"-style keys, "undefined", "NaN" or "[object Object]" in any view at four screen sizes. |
+| R-24 | 3 | D-8, D-9, D-10, D-13, D-17, D-18, D-20, D-21, D-23 | Approved as proposed. |
+| R-25 | 2 | D-14 watch order | Add a recommended order for new viewers, collated from several guides. Built for the MCU from six guides (Popverse, SuperHeroHype, JustWatch, Screen Rant ×2, Rotten Tomatoes): release order, with essentials vs optional and an "Essentials only" switch. |
+| R-26 | 2 | D-15 specials | Add them under a Specials category with a filter for their origin (LEGO, Marvel Knights, etc.). See D-30. |
+| R-27 | B | D-16 books | Approved. Also: word counts (D-31), and spoiler-safe mode applies site-wide. "GoT" means the HBO shows: Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms are all in (others get added once they have release dates). |
+| R-28 | 5 | D-19 US re-edits | Add them, properly categorised by what they are. See D-32. |
+| R-29 | B | D-21, D-22 calendars without a year 0 | OK, and say so clearly in the UI (shown in the Key and on the continuity). |

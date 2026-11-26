@@ -13,7 +13,7 @@ Nothing in this file is verified data. Every continuity and title list below is 
 
 ## 1. Stack
 
-**Vite + TypeScript + React 18, Vitest, Playwright, Zod.** Static build. Production is GitHub Pages, deployed by a GitHub Actions workflow on every push to `main`. Vercel is optional and adds a preview link for each PR. The Vite `base` path comes from an env var (`/TimeLiner/` on Pages, `/` on Vercel), so the same build works on both. There are no server features, so nothing ties the app to either host.
+**Vite + TypeScript + React 18, Vitest, Playwright, Zod.** Static build. Hosting is GitHub Pages only (Vercel dropped, R-22), deployed by a GitHub Actions workflow on every push to `main`. The Vite `base` path comes from an env var (`/TimeLiner/` on Pages). There are no server features, so nothing ties the app to one host.
 
 Why React over Svelte:
 - Nine views share one filter/state model. React plus a small URL-state hook (no router needed) keeps that simple, and the derived data comes from pure TypeScript functions that are easy to unit test whichever framework renders them.

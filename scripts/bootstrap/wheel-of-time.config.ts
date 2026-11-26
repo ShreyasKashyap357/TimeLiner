@@ -3,7 +3,7 @@
 import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
 
 const W = 'https://en.wikipedia.org/wiki/';
-const NE = { kind: 'era' as const, before_label: 'before NE', after_label: 'NE', has_year_zero: false };
+const NE = { kind: 'era' as const, before_label: 'before NE', after_label: 'NE', has_year_zero: false, note: "New Era (Farede calendar) years. There is no year 0, and the series spans 998–1000 NE. Inferred from the Wheel of Time Wiki; Wikipedia gives no in-universe years (D-22)." };
 const main = { id: 'main', label: 'Main', marker: 'dot' as const, description: '', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: true };
 
 export const UNIVERSE: Universe = {

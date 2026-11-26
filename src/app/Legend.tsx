@@ -5,7 +5,8 @@ import { ConfidenceBadge } from '@/components/Badges';
 
 /** Legend built from what is on screen: every marker shown also has a text meaning. */
 export function Legend({ rows }: { rows: Row[] }) {
-  const { state } = useApp();
+  const { state, ds } = useApp();
+  const cal = ds.continuities.find((c) => c.id === state.c)?.calendar;
   // One entry per marker (shape + colour); branches sharing a marker are listed together.
   const groups = new Map<string, { row: Row; meanings: string[] }>();
   for (const r of rows) {
@@ -30,6 +31,13 @@ export function Legend({ rows }: { rows: Row[] }) {
         <span>In-universe date confidence:</span>
         <ConfidenceBadge c="stated" small /><ConfidenceBadge c="inferred" small /><ConfidenceBadge c="disputed" small />
       </div>
+      {cal?.kind === 'era' && (
+        <p className="mt-3 border-l-2 pl-3 text-sm" style={{ borderColor: 'var(--u-secondary)' }} data-testid="calendar-note">
+          <strong className="font-semibold">Calendar ({cal.before_label} / {cal.after_label}):</strong>{' '}
+          {cal.has_year_zero ? `has a year 0 (shown as 0 ${cal.after_label}).` : `no year 0: 1 ${cal.before_label} is followed directly by 1 ${cal.after_label}.`}
+          {cal.note && <span className="text-muted-foreground"> {cal.note}</span>}
+        </p>
+      )}
       <p className="mt-2 text-xs text-muted-foreground">Shapes, not just colours, distinguish branches and tiers. Hollow shapes have no fixed point; ▲ marks adjacent-tier titles.</p>
     </section>
   );

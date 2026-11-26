@@ -47,6 +47,8 @@ export const Calendar = z.discriminatedUnion('kind', [
     before_label: z.string(), // e.g. "BBY"
     after_label: z.string(), // e.g. "ABY"
     has_year_zero: z.boolean(),
+    /** Plain-language explanation shown in the Key (e.g. how the epoch and year 0 work, and the source). */
+    note: z.string().default(''),
   }),
   z.object({ kind: z.literal('ordered-only') }),
 ]);

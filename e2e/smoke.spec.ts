@@ -127,6 +127,10 @@ test.describe('TimeLiner smoke', () => {
 });
 
 test.describe('URL defaults and pickers (regressions)', () => {
+  test('era calendars explain the missing year 0 in the Key', async ({ page }) => {
+    await page.goto('/?u=asoiaf');
+    await expect(page.getByTestId('calendar-note')).toContainText('no year 0');
+  });
   test('an opened picker shows its whole list, even after choosing a lower option', async ({ page }) => {
     await page.goto('/?u=asoiaf');
     await page.getByRole('combobox', { name: 'Universe', exact: true }).click();

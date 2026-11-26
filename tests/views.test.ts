@@ -161,7 +161,7 @@ describe('view transforms', () => {
 describe('dates and watched store', () => {
   it('formats BC and era calendars', () => {
     expect(formatYear(-1260, { kind: 'gregorian' })).toBe('1260 BC');
-    expect(formatYear(-19, { kind: 'era', before_label: 'BBY', after_label: 'ABY', has_year_zero: true })).toBe('19 BBY');
+    expect(formatYear(-19, { kind: 'era', before_label: 'BBY', after_label: 'ABY', has_year_zero: true, note: '' })).toBe('19 BBY');
     expect(formatRelease('2027-03')).toBe('Mar 2027');
   });
   it('migrates watched ids through aliases and keeps unknown ids', () => {

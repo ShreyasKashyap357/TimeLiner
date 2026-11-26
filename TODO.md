@@ -43,7 +43,21 @@
 ## Later stages (proposed, each with a data checkpoint)
 - [ ] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)
 - [ ] Stage 6: Star Wars (Canon / Legends, BBY/ABY calendar)
-- [ ] Candidates: Star Trek, Wizarding World, Middle-earth, Alien & Predator, Conjuring, Transformers
+- [ ] Stage 7: Star Trek
+- [ ] Stage 8: Terminator, Halloween (branching / reboot timelines)
+- [ ] Stage 9: Wizarding World, Middle-earth
+- [ ] Stage 10: Indian universes (YRF Spy, LCU, Maddock Horror Comedy, Cop Universe)
+- [ ] Stage 11: Hollywood batch (Alien & Predator, Conjuring, Jurassic, Apes, F&F, M:I, John Wick, Bond, Transformers, Ghostbusters, Indiana Jones, Rocky/Creed, Matrix, Mad Max, Avatar)
+- [ ] Stage 12: other superhero (The Boys, Spider-Verse, Invincible, Hellboy)
+- [ ] Stage 13: horror batch (Scream, Saw, Evil Dead, Friday the 13th, Texas Chain Saw, Universal Monsters)
+- [ ] Later: anime / tokusatsu (Gundam, Ultraman, Kamen Rider, Dragon Ball)
+
+## Books (PLAN.md §8.1–8.2): needs the schema changes approved first (D-16)
+- [ ] Schema/app: book types, publishers, pages, `adapts` links, "Done" wording, Books toggle, spoiler-safe mode
+- [ ] B1: A Song of Ice and Fire + HBO Game of Thrones universe (AC calendar)
+- [ ] B2: The Wheel of Time (NE calendar) + Amazon series
+- [ ] B3: Rick Riordan books + films + Disney+ series
+- [ ] B4+: Cosmere, Narnia, Dune, Witcher, Hunger Games, Shadowhunters, Discworld, Expanse, Dark Tower
 
 ## Revision workflow (see PLAN.md §9)
 - [x] verify-data --refetch produces a drift report (new titles / date / status / revid changes)

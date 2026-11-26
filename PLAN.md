@@ -248,7 +248,33 @@ Adding a universe should mean adding data, with no app code changes. To make tha
 |---|---|---|---|
 | 5 | Godzilla & Kong | Legendary MonsterVerse (films, Monarch: Legacy of Monsters, Skull Island); Toho Shōwa / Heisei / Millennium (mostly standalone) / Reiwa (Shin Godzilla, Minus One, anime trilogy); standalone King Kong films | standalone-collection continuities, Japanese release vs US release dates |
 | 6 | Star Wars | Canon (Disney-era plus the grandfathered films and The Clone Wars); Legends; non-canon anthology (Visions) | era calendar BBY/ABY, very large episode-level data |
-| later candidates | Star Trek (Prime / Kelvin / others, stardates), Wizarding World, Middle-earth, Alien & Predator, the Conjuring Universe, Transformers | nested branches, era calendars |
+| 7 | Star Trek | Prime, Kelvin, other timelines; stardates | nested branches |
+| 8 | Terminator, Halloween | multiple mutually exclusive timelines / sequel reboots | branching, never-merge |
+| 9 | Wizarding World, Middle-earth | WW: films + HBO reboot series; ME: Third/Second Age calendar | era calendars |
+| 10 | Indian universes | YRF Spy Universe, Lokesh Cinematic Universe, Maddock Horror Comedy Universe, Rohit Shetty Cop Universe | small, quick |
+| 11 | Hollywood batch | Alien & Predator, Conjuring, Jurassic, Planet of the Apes (2 continuities), Fast & Furious, Mission: Impossible, John Wick, Bond (Craig reboot), Transformers, Ghostbusters, Indiana Jones, Rocky/Creed, Matrix, Mad Max, Avatar | release-vs-story disorder |
+| 12 | Superhero (other) | The Boys universe, Spider-Verse (Sony animation), Invincible, Hellboy (3 continuities) | |
+| 13 | Horror batch | Scream, Saw, Evil Dead, Friday the 13th, Texas Chain Saw, Universal Monsters | reboots that ignore sequels |
+| later | Anime / tokusatsu | Gundam, Ultraman, Kamen Rider, Dragon Ball | very large; standalone collections |
+
+### 8.1 Books (proposed: needs the schema changes in §8.2 first)
+
+| Stage | Universe | Continuities | Notes |
+|---|---|---|---|
+| B1 | A Song of Ice and Fire / Game of Thrones | Books (5 novels, Dunk & Egg novellas, Fire & Blood); HBO shows (GoT, House of the Dragon, A Knight of the Seven Kingdoms) | Era calendar "AC" (After Aegon's Conquest). The books and the shows are separate continuities, joined by `adapts` links. Unfinished books are `upcoming` with no date. |
+| B2 | The Wheel of Time | 14 novels + New Spring; Amazon series | "NE" calendar; prequel published late (alternate orders) |
+| B3 | Rick Riordan (Camp Half-Blood and beyond) | Book universe (PJO, HoO, ToA, Kane, Magnus Chase, crossover novellas); 2010/2013 films; Disney+ series | Interleaving series, crossover novellas like Arrowverse events |
+| B4+ | Candidates | Cosmere (Sanderson), Narnia (publication vs chronological order), Dune (books + films + Prophecy), The Witcher (books / games / Netflix), Hunger Games, Shadowhunters, Discworld, The Expanse, Stephen King / Dark Tower | |
+
+### 8.2 Schema / app changes required for books (to approve before building; all backward compatible)
+
+1. **Title types:** `novel`, `novella`, `short-story`, `anthology`, `comic`, `graphic-novel`; a derived `medium` (screen / print). Quick toggle "Books".
+2. **Registries:** publishers and imprints, as `studios` kinds `publisher` and `imprint`. Platforms get kinds `print`, `ebook` and `serialized` (magazines) for the first-edition format.
+3. **Unit length:** add `pages` (optional `word_count`) next to `runtime_min`.
+4. **Links:** add `adapts` (book → screen). Adaptations stay separate continuities.
+5. **Progress wording:** "Watched" becomes "Done", with per-medium verbs (read / watched) and per-medium progress.
+6. **Sources:** Wikipedia + Wikidata (P577 publication date, P1104 pages, P50 author), Open Library API and ISFDB (free, no key), and the relevant fan wikis for in-universe dates (rated `inferred` at most).
+7. **Spoiler-safe mode (recommended):** hide notes, and optionally later entries, for anything not yet marked done.
 
 Marvel and DC stay first, as the brief requires. The schema items above (per-universe folders, registries, calendars, nested branches) are built into Stage 1, so later universes don't force migrations.
 

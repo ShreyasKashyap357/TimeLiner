@@ -34,6 +34,14 @@ All are backward compatible, and the Marvel data validates unchanged with 0 erro
 | D-14 | **"Recommended watch order".** No source names a single recommended order. Marvel publishes its Disney+ timeline order, which is in the data. | The Watch order card offers Story, Release and official orders (with source), and doesn't call any one of them "recommended". |
 | D-15 | **Non-MCU animated features and specials** (e.g. *Planet Hulk*, *Hulk vs.*, LEGO Marvel specials, Marvel Knights Animation) and the anime films. | Not added yet. They fit as `standalone-collection` entries; say if you want them. |
 
+### Expansion: other universes and books
+
+| # | Question | Default being used |
+|---|---|---|
+| D-16 | **Approve the book-support changes** in PLAN.md §8.2: book types, publishers, pages, `adapts` links, "Done" wording with read/watched, a Books toggle, and a spoiler-safe mode. | Not built until you approve. Then: schema first, then ASOIAF/GoT as the pilot (B1). |
+| D-17 | **Order after DC.** Proposed: Godzilla & Kong → Star Wars → books pilot (ASOIAF/GoT) → Star Trek → Terminator/Halloween → Wizarding World/Middle-earth → Wheel of Time → Riordan → Indian universes → batches. | This order, unless you reprioritise. |
+| D-18 | **Games** (The Witcher, Halo, Mass Effect, Star Wars games) as a third medium. | Out of scope for now. The book changes are designed so a "game" medium could be added the same way. |
+
 ## Resolved
 
 | # | Stage | Decision | Answer |

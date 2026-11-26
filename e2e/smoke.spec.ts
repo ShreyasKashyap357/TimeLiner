@@ -35,7 +35,7 @@ test.describe('TimeLiner smoke', () => {
     if (isMobile) await page.getByRole('button', { name: 'Filters' }).click();
     const scope = isMobile ? page.getByRole('dialog') : page.getByRole('complementary', { name: 'Filters sidebar' });
     await scope.getByLabel(/^Adjacent/).click();
-    await expect(page).toHaveURL(/tier=core%2Coutside-set-date%2Cadjacent|tier=core,outside-set-date,adjacent/);
+    await expect(page).toHaveURL(/tier=adjacent/);
     // reload: state restored from URL
     await page.reload();
     await expect(page.getByRole('radio', { name: 'Movies only' })).toHaveAttribute('data-state', 'on');

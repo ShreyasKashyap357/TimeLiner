@@ -34,10 +34,13 @@ describe('URL state', () => {
 });
 
 describe('filters', () => {
-  it('defaults to core + outside-set-date tiers only', () => {
+  it('shows every tier by default (Loki, What If, ABC series included)', () => {
     const r = mcu();
-    expect(r.every((x) => x.tier === 'core' || x.tier === 'outside-set-date')).toBe(true);
-    expect(r.some((x) => x.key === 'agents-of-shield-s1')).toBe(false);
+    for (const k of ['loki-s1', 'what-if-s1', 'agents-of-shield-s1', 'werewolf-by-night']) expect(r.some((x) => x.key === k)).toBe(true);
+  });
+  it('the Loki character finds the Loki series', () => {
+    const r = applyFilters(rows, { ...defaultState('marvel', 'mcu'), tags: ['loki'] }, { scopeContinuity: false, scopeUniverse: true });
+    expect(r.some((x) => x.title.id === 'loki')).toBe(true);
   });
   it('quick toggles: movies / series / animated', () => {
     const base = { ...defaultState('marvel', 'mcu'), tiers: [] };
@@ -80,8 +83,17 @@ describe('view transforms', () => {
   it('spine with alternate (Disney+) order', () => {
     const alt = ds.continuities.find((c) => c.id === 'mcu')!.alt_orders[0]!.unit_ids;
     const res = spine(mcu(), 'alt', { altOrder: alt });
-    expect(res.sections).toHaveLength(1);
     expect(res.sections[0]!.rows[0]!.key).toBe('eyes-of-wakanda-ep1');
+  });
+  it('Disney+ order keeps list order, adds period headings, numbers entries', () => {
+    const alt = ds.continuities.find((c) => c.id === 'mcu')!.alt_orders[0]!.unit_ids;
+    const res = spine(mcu(), 'alt', { altOrder: alt });
+    const flat = res.sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(flat).toEqual(alt.filter((id) => flat.includes(id)));
+    expect(res.sections[0]!.label).toBe('1260 BC');
+    expect(res.sections.some((s) => s.label === 'Outside time (TVA)')).toBe(true);
+    expect(res.unplaced[0]?.lane).toBe('not-in-order');
+    expect(res.unplaced[0]!.rows.some((r) => r.key === 'spider-man-brand-new-day')).toBe(true);
   });
   it('spine never mixes continuities', () => {
     const res = spine(mcu(), 'in-universe');

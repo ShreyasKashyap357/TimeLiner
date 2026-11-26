@@ -44,6 +44,7 @@ export function onSpine(r: Row): boolean {
 }
 
 export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; watched?: Set<string> } = {}): SpineResult {
+  if (sort === 'alt' && opts.altOrder) return altSpine(rows, opts.altOrder);
   const placed = rows.filter(onSpine);
   const unplacedRows = rows.filter((r) => !onSpine(r));
   const sections: SpineSection[] = [];
@@ -67,6 +68,29 @@ export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; wa
     lanes.get(key)!.rows.push(r);
   }
   return { sections, unplaced: [...lanes.values()] };
+}
+
+/** Alternate (e.g. Disney+) order: strictly that list's sequence, with a heading whenever the in-universe
+ *  period changes, so the list reads like the timeline. Units not in the list go to their own lane. */
+export function altSpine(rows: Row[], altOrder: string[]): SpineResult {
+  const pos = new Map(altOrder.map((id, i) => [id, i]));
+  const inList = rows.filter((r) => pos.has(r.key)).sort((a, b) => pos.get(a.key)! - pos.get(b.key)!);
+  const sections: SpineSection[] = [];
+  for (const r of inList) {
+    const label = r.placed ? r.unit.in_universe.label.replace(/\s*\(.*\)$/, '') : !r.branch.placeable ? r.branch.label : 'No confirmed placement';
+    const last = sections.at(-1);
+    if (last && last.label === label) last.rows.push(r);
+    else sections.push({ id: `a${sections.length}`, label, startY: r.unit.in_universe.start?.y ?? null, rows: [r] });
+  }
+  const rest = sortRows(rows.filter((r) => !pos.has(r.key)), 'in-universe');
+  return { sections, unplaced: rest.length ? [{ lane: 'not-in-order', label: 'Not part of this order', rows: rest }] : [] };
+}
+
+/** 1-based position of a unit in an alternate order, if any. */
+export function altPosition(altOrder: string[] | undefined, key: string): number | null {
+  if (!altOrder) return null;
+  const i = altOrder.indexOf(key);
+  return i < 0 ? null : i + 1;
 }
 
 // ---------------------------------------------------------------- 2. release order

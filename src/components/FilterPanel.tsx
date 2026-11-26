@@ -1,6 +1,8 @@
 import { useId, useMemo } from 'react';
 import { useApp } from '@/app/context';
-import { DEFAULT_TIERS, defaultState, type FilterState } from '@/domain/filters';
+import { defaultState, type FilterState, type SortId } from '@/domain/filters';
+import { SortSelect } from '@/app/Toolbar';
+import { TagPicker } from './TagPicker';
 import type { Row } from '@/domain/model';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Label } from '@/components/ui/label';
@@ -59,7 +61,7 @@ const count = (rows: Row[], f: (r: Row) => string | null | undefined | (string |
   return m;
 };
 
-export function FilterPanel({ scoped }: { scoped: Row[] }) {
+export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOptions: { id: SortId; label: string; alt?: string }[] }) {
   const { state, update, ds } = useApp();
   const set = (p: Partial<FilterState>) => update(p);
 
@@ -120,8 +122,14 @@ export function FilterPanel({ scoped }: { scoped: Row[] }) {
         <h2 className="text-base font-semibold">Filters</h2>
         <Button variant="ghost" size="sm" onClick={() => update({ ...d, u: state.u, c: state.c, view: state.view, sort: state.sort, unit: null })}>Reset</Button>
       </div>
+      <fieldset className="space-y-2">
+        <legend className="mb-1 text-sm font-semibold">Sort</legend>
+        <SortSelect sortOptions={sortOptions} className="w-full" />
+      </fieldset>
+      <TagPicker scoped={scoped} />
+      <Separator />
       <CheckGroup legend="Canon tier" value={state.tiers} onChange={(v) => set({ tiers: v as FilterState['tiers'] })} options={opts.tiers}
-        hint={`Default: ${DEFAULT_TIERS.map((t) => TIER_TEXT[t]!.label).join(' + ')}. Untick all to show everything.`} />
+        hint="All tiers are shown by default. Tick one or more to narrow the list." />
       <Separator />
       <CheckGroup legend="Type" value={state.types} onChange={(v) => set({ types: v as FilterState['types'] })} options={opts.types} />
       <CheckGroup legend="Original platform" value={state.platforms} onChange={(platforms) => set({ platforms })} options={opts.platforms} />

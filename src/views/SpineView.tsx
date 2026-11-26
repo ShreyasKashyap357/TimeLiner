@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import { useApp } from '@/app/context';
-import { spine } from '@/domain/views';
+import { altPosition, spine } from '@/domain/views';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
+import { Badge } from '@/components/ui/badge';
 import type { Row } from '@/domain/model';
 import { UnitItem } from '@/components/UnitItem';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible';
@@ -17,6 +20,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
   if (!rows.length) return <Empty />;
   return (
     <div className="space-y-8">
+      <WatchOrderCard />
       {calendarless && (
         <p className="border border-border bg-muted/40 p-3 text-sm text-muted-foreground">
           {cont!.name} has no in-universe calendar in the sources, so entries are shown in story order only.
@@ -28,7 +32,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
             <span aria-hidden className="absolute -left-[33px] top-1 size-4 rounded-full border-2 bg-background" style={{ borderColor: 'var(--u-secondary)' }} />
             {s.label && <h3 className="font-heading text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{s.label}</h3>}
             <ul className="mt-1 space-y-0.5">
-              {s.rows.map((r) => <SpineEntry key={r.key} row={r} />)}
+              {s.rows.map((r) => <SpineEntry key={r.key} row={r} position={altPosition(state.sort === 'alt' ? altOrder : undefined, r.key)} />)}
             </ul>
           </li>
         ))}
@@ -36,7 +40,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
       {res.unplaced.map((lane) => (
         <section key={lane.lane} aria-labelledby={`lane-${lane.lane}`} className="border border-dashed border-border p-4">
           <h3 id={`lane-${lane.lane}`} className="font-heading text-base font-semibold text-muted-foreground">{lane.label}</h3>
-          <p className="mb-2 text-xs text-muted-foreground">No fixed point on this timeline. Shown in relative order where sources give one.</p>
+          <p className="mb-2 text-xs text-muted-foreground">{lane.lane === 'not-in-order' ? 'These entries do not appear in the selected order (for example titles not available on that service).' : 'No fixed point on this timeline. Shown in relative order where sources give one.'}</p>
           <ul className="space-y-0.5">{lane.rows.map((r) => <SpineEntry key={r.key} row={r} />)}</ul>
         </section>
       ))}
@@ -44,13 +48,14 @@ export function SpineView({ rows }: { rows: Row[] }) {
   );
 }
 
-function SpineEntry({ row }: { row: Row }) {
+function SpineEntry({ row, position = null }: { row: Row; position?: number | null }) {
   const [open, setOpen] = useState(false);
   const iu = row.unit.in_universe;
   return (
     <Collapsible open={open} onOpenChange={setOpen} asChild>
       <li className="list-none">
         <div className="flex items-start">
+          {position !== null && <Badge variant="secondary" className="mr-1 mt-0.5 min-w-9 justify-center tabular-nums" aria-label={`Position ${position}`}>#{position}</Badge>}
           <ul className="min-w-0 flex-1"><UnitItem row={row} meta={row.placed ? 'release' : 'in-universe'} /></ul>
           <CollapsibleTrigger className="ml-1 rounded p-1 text-muted-foreground hover:text-foreground" aria-label={`${open ? 'Hide' : 'Show'} details for ${row.name}`}>
             <ChevronDown className={`size-4 transition-transform ${open ? 'rotate-180' : ''}`} aria-hidden />
@@ -69,4 +74,33 @@ function SpineEntry({ row }: { row: Row }) {
 
 export function Empty() {
   return <p className="py-12 text-center text-muted-foreground">Nothing matches the current filters.</p>;
+}
+
+/** Watch-order chooser: story order, release order and any official orders the continuity defines (with sources). */
+function WatchOrderCard() {
+  const { state, update, ds } = useApp();
+  const cont = ds.continuities.find((c) => c.id === state.c);
+  const alts = cont?.alt_orders ?? [];
+  const value = state.sort === 'alt' && state.alt ? `alt:${state.alt}` : state.sort === 'release' ? 'release' : 'in-universe';
+  const current = alts.find((a) => `alt:${a.id}` === value);
+  const describe = value === 'release'
+    ? 'Release order: the order in which the titles were first released.'
+    : current ? `${current.label}: the official order published for this continuity. ${current.note}`
+    : 'Story order: chronological by when events happen in-universe (this continuity only).';
+  return (
+    <Card size="sm">
+      <CardHeader>
+        <CardTitle>Watch order</CardTitle>
+        <CardDescription>{describe}{current && <> Source: <a className="underline" href={current.source_url} target="_blank" rel="noreferrer noopener">{new URL(current.source_url).hostname}</a> (as of {current.as_of}).</>}</CardDescription>
+      </CardHeader>
+      <CardContent>
+        <ToggleGroup type="single" variant="outline" value={value} aria-label="Watch order"
+          onValueChange={(v) => { if (!v) return; if (v.startsWith('alt:')) update({ sort: 'alt', alt: v.slice(4) }); else update({ sort: v as 'release' | 'in-universe', alt: null }); }}>
+          <ToggleGroupItem value="in-universe">Story (in-universe)</ToggleGroupItem>
+          <ToggleGroupItem value="release">Release</ToggleGroupItem>
+          {alts.map((a) => <ToggleGroupItem key={a.id} value={`alt:${a.id}`}>{a.label}</ToggleGroupItem>)}
+        </ToggleGroup>
+      </CardContent>
+    </Card>
+  );
 }

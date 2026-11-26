@@ -32,7 +32,8 @@ export interface FilterState {
   unit: string | null; // open detail drawer
 }
 
-export const DEFAULT_TIERS: CanonTier[] = ['core', 'outside-set-date'];
+/** Empty = every tier (user decision R-13: every title, incl. non-placeable and adjacent, is visible by default). */
+export const DEFAULT_TIERS: CanonTier[] = [];
 
 export function defaultState(u: string, c: string | null): FilterState {
   return {

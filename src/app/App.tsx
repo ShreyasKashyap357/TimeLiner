@@ -11,6 +11,7 @@ import { Toolbar } from './Toolbar';
 import { Footer } from './Footer';
 import { Legend } from './Legend';
 import { FilterPanel } from '@/components/FilterPanel';
+import { ActiveFilters } from '@/components/ActiveFilters';
 import { DetailDrawer } from '@/components/DetailDrawer';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Toaster } from '@/components/ui/sonner';
@@ -117,15 +118,16 @@ export function App() {
             </div>
           </header>
           <div className="mx-auto max-w-7xl px-4">
-            <Toolbar sortOptions={sortOptions} prog={prog} next={next} counts={{ shown: filtered.length, total: scoped.length, released: filtered.filter((r) => r.unit.status === 'released').length }} filterPanel={<FilterPanel scoped={scoped} />} />
+            <Toolbar sortOptions={sortOptions} prog={prog} next={next} counts={{ shown: filtered.length, total: scoped.length, released: filtered.filter((r) => r.unit.status === 'released').length }} filterPanel={<FilterPanel scoped={scoped} sortOptions={sortOptions} />} />
             <div className="grid gap-6 lg:grid-cols-[19rem_1fr]">
               <aside className="hidden lg:block" aria-label="Filters sidebar">
                 <div className="sticky overflow-y-auto border border-sidebar-border bg-sidebar p-4 text-sidebar-foreground" style={{ top: 'calc(var(--header-h, 0px) + 1rem)', maxHeight: 'calc(100dvh - var(--header-h, 0px) - 2rem)' }}>
-                  <FilterPanel scoped={scoped} />
+                  <FilterPanel scoped={scoped} sortOptions={sortOptions} />
                 </div>
               </aside>
               <main id="main" tabIndex={-1} className="min-w-0 pb-16" aria-busy={false}>
                 <h1 className="sr-only">{VIEW_LABELS[state.view]}{CONTINUITY_SCOPED.includes(state.view) && continuity ? ` — ${continuity.name}` : ''}</h1>
+                <ActiveFilters />
                 <p className="sr-only" aria-live="polite" data-testid="result-count">{filtered.length} of {scoped.length} entries</p>
                 {VIEWS.map((v) => (
                   <TabsContent key={v} value={v} tabIndex={-1}>

@@ -26,7 +26,6 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
   filterPanel: React.ReactNode;
 }) {
   const { state, update } = useApp();
-  const sortValue = state.sort === 'alt' && state.alt ? `alt:${state.alt}` : state.sort;
   return (
     <div className="my-4 flex flex-col gap-4">
       {/* dashboard stats */}
@@ -72,22 +71,7 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
             </ToggleGroupItem>
           ))}
         </ToggleGroup>
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <div>
-              <Select value={sortValue} onValueChange={(v) => {
-                if (v.startsWith('alt:')) update({ sort: 'alt', alt: v.slice(4) });
-                else update({ sort: v as SortId, alt: null });
-              }}>
-                <SelectTrigger aria-label="Sort order" className="w-64"><SelectValue /></SelectTrigger>
-                <SelectContent>
-                  {sortOptions.map((o) => <SelectItem key={o.alt ? `alt:${o.alt}` : o.id} value={o.alt ? `alt:${o.alt}` : o.id}>{o.label}</SelectItem>)}
-                </SelectContent>
-              </Select>
-            </div>
-          </TooltipTrigger>
-          <TooltipContent>Sort order (alternate orders such as Disney+ appear when the continuity defines them)</TooltipContent>
-        </Tooltip>
+        <SortSelect sortOptions={sortOptions} />
         <Sheet>
           <SheetTrigger asChild>
             <Button variant="outline" className="lg:hidden"><SlidersHorizontal aria-hidden className="size-4" /> Filters</Button>
@@ -99,5 +83,22 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
         </Sheet>
       </div>
     </div>
+  );
+}
+
+/** Sort order picker, shared by the toolbar and the filter sidebar. */
+export function SortSelect({ sortOptions, className = 'w-64' }: { sortOptions: { id: SortId; label: string; alt?: string }[]; className?: string }) {
+  const { state, update } = useApp();
+  const sortValue = state.sort === 'alt' && state.alt ? `alt:${state.alt}` : state.sort;
+  return (
+    <Select value={sortValue} onValueChange={(v) => {
+      if (v.startsWith('alt:')) update({ sort: 'alt', alt: v.slice(4) });
+      else update({ sort: v as SortId, alt: null });
+    }}>
+      <SelectTrigger aria-label="Sort order" className={className}><SelectValue /></SelectTrigger>
+      <SelectContent>
+        {sortOptions.map((o) => <SelectItem key={o.alt ? `alt:${o.alt}` : o.id} value={o.alt ? `alt:${o.alt}` : o.id}>{o.label}</SelectItem>)}
+      </SelectContent>
+    </Select>
   );
 }

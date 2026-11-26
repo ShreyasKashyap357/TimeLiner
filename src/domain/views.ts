@@ -1,6 +1,6 @@
 // One pure transform per view. React components only render these results.
 import { isoToNumber } from './dates.ts';
-import { byInUniverse, byRelease, type Dataset, type Row } from './model.ts';
+import { byInUniverse, byRelease, titleLabel, type Dataset, type Row } from './model.ts';
 import type { FilterState, SortId } from './filters.ts';
 import type { Branch } from './schema.ts';
 
@@ -244,7 +244,7 @@ export function connections(rows: Row[], ds: Dataset): { nodes: { id: string; la
   edges.splice(0, edges.length, ...unique);
   const linked = new Set(edges.flatMap((e) => [e.from, e.to]));
   const nodes = titles.filter((t) => linked.has(t.id)).map((t) => ({
-    id: t.id, label: t.title, year: t.units[0]?.release.year ?? null, continuity: t.continuity,
+    id: t.id, label: titleLabel(ds.titles, t.id), year: t.units[0]?.release.year ?? null, continuity: t.continuity,
   })).sort((a, b) => (a.year ?? 9999) - (b.year ?? 9999) || a.label.localeCompare(b.label));
   return { nodes, edges };
 }
@@ -278,14 +278,14 @@ export function connectionsFor(titleId: string, ds: Pick<Dataset, 'titles'>): Ti
   const out: TitleConnection[] = [];
   for (const l of t.links) {
     const o = ds.titles.find((x) => x.id === l.to);
-    if (o) out.push({ titleId: o.id, title: o.title, kind: l.kind, note: l.note, direction: 'from-this' });
+    if (o) out.push({ titleId: o.id, title: titleLabel(ds.titles, o.id), kind: l.kind, note: l.note, direction: 'from-this' });
   }
   const unitIds = new Set(t.units.map((u) => u.id));
   for (const o of ds.titles) {
     if (o.id === t.id) continue;
-    for (const l of o.links) if (l.to === t.id && !out.some((c) => c.titleId === o.id && c.kind === l.kind)) out.push({ titleId: o.id, title: o.title, kind: l.kind, note: l.note, direction: 'to-this' });
-    if (o.constituents.some((ref) => unitIds.has(ref.split('#e')[0]!))) out.push({ titleId: o.id, title: o.title, kind: 'crossover event', note: '', direction: 'event' });
-    if (t.constituents.length && t.constituents.some((ref) => o.units.some((u) => u.id === ref.split('#e')[0]))) out.push({ titleId: o.id, title: o.title, kind: 'part of this event', note: '', direction: 'event' });
+    for (const l of o.links) if (l.to === t.id && !out.some((c) => c.titleId === o.id && c.kind === l.kind)) out.push({ titleId: o.id, title: titleLabel(ds.titles, o.id), kind: l.kind, note: l.note, direction: 'to-this' });
+    if (o.constituents.some((ref) => unitIds.has(ref.split('#e')[0]!))) out.push({ titleId: o.id, title: titleLabel(ds.titles, o.id), kind: 'crossover event', note: '', direction: 'event' });
+    if (t.constituents.length && t.constituents.some((ref) => o.units.some((u) => u.id === ref.split('#e')[0]))) out.push({ titleId: o.id, title: titleLabel(ds.titles, o.id), kind: 'part of this event', note: '', direction: 'event' });
   }
   return out;
 }

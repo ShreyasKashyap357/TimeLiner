@@ -102,7 +102,7 @@ function WatchOrderCard() {
           {current && current.kind !== 'recommended' && <> Source: <a className="underline" href={current.source_url} target="_blank" rel="noreferrer noopener">{new URL(current.source_url).hostname}</a> (as of {current.as_of}).</>}
           {current?.kind === 'recommended' && (
             <span className="mt-1 block">Sources (as of {current.as_of}):{' '}
-              {current.sources.map((src, i) => <span key={src.url}>{i > 0 && ', '}<a className="underline" href={src.url} target="_blank" rel="noreferrer noopener" title={src.title}>{new URL(src.url).hostname.replace(/^www./, '')}</a></span>)}.
+              {current.sources.map((src, i) => <span key={src.url}>{i > 0 && ', '}<a className="underline" href={src.url} target="_blank" rel="noreferrer noopener" title={src.title}>{new URL(src.url).hostname.replace(/^www\./, '')}</a></span>)}.
             </span>
           )}
         </CardDescription>

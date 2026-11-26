@@ -97,3 +97,14 @@ describe('Recommended MCU order (D-14)', () => {
     expect(res.unplaced.find((l) => l.lane === 'optional')!.rows.length).toBeGreaterThan(0);
   });
 });
+
+describe('Display titles (years in square brackets)', () => {
+  it('moves parenthesised years into brackets and disambiguates same-name titles by year', async () => {
+    const { displayTitles } = await import('../src/domain/model.ts');
+    const names = displayTitles(ds.titles);
+    expect(names.get('spider-man-2017-animated')).toBe('Spider-Man (animated series) [2017]');
+    const supermen = ds.titles.filter((t) => t.title === 'Superman').map((t) => names.get(t.id));
+    expect(supermen).toEqual(expect.arrayContaining(['Superman [1978]', 'Superman [2025]']));
+    for (const n of names.values()) expect(n).not.toMatch(/\(\d{4}/);
+  });
+});

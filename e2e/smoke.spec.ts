@@ -1,6 +1,8 @@
 import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
+const VIEW_NAMES: Record<string, string> = { release: 'Release order', platform: 'Platform', studio: 'Studio', groupings: 'Phase / Saga', tags: 'Characters', continuities: 'Continuities', dual: 'Dual axis', connections: 'Connections' };
+
 test.describe('TimeLiner smoke', () => {
   test('in-universe spine renders the MCU in order', async ({ page }) => {
     await page.goto('/?u=marvel&c=mcu');
@@ -16,7 +18,13 @@ test.describe('TimeLiner smoke', () => {
       ['release', /view=release/], ['platform', /view=platform/], ['studio', /view=studio/], ['groupings', /view=groupings/],
       ['tags', /view=tags/], ['continuities', /view=continuities/], ['dual', /view=dual/], ['connections', /view=connections/],
     ] as const) {
-      await page.locator(`[data-view="${view}"]`).click();
+      await page.getByTestId('result-count').waitFor({ state: 'attached' });
+      const tab = page.locator(`[data-view="${view}"]`);
+      if (await tab.isVisible()) await tab.click();
+      else { // phones: the tab strip is replaced by a View picker
+        await page.getByRole('combobox', { name: 'View', exact: true }).click();
+        await page.getByRole('option', { name: VIEW_NAMES[view], exact: true }).click();
+      }
       await expect(page).toHaveURL(check);
     }
     await page.goBack();
@@ -75,7 +83,7 @@ test.describe('TimeLiner smoke', () => {
   test('header stays visible when scrolling and nothing overflows horizontally', async ({ page }) => {
     await page.goto('/?u=marvel&c=mcu');
     await page.mouse.wheel(0, 3000);
-    await expect(page.getByRole('tablist', { name: 'Views' })).toBeInViewport();
+    await expect(page.getByRole('banner')).toBeInViewport();
     for (const q of ['/?u=marvel&c=mcu', '/?u=marvel&c=mcu&view=dual', '/?u=marvel&view=release']) {
       await page.goto(q);
       await page.getByTestId('result-count').waitFor({ state: 'attached' });
@@ -115,5 +123,23 @@ test.describe('TimeLiner smoke', () => {
       const res = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa']).analyze();
       expect(res.violations.map((v) => `${v.id}: ${v.nodes.length} (${v.nodes[0]?.target})`)).toEqual([]);
     }
+  });
+});
+
+test.describe('URL defaults and pickers (regressions)', () => {
+  test('an opened picker shows its whole list, even after choosing a lower option', async ({ page }) => {
+    await page.goto('/?u=asoiaf');
+    await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
+    await expect(page.getByRole('option', { name: 'Marvel' })).toBeInViewport();
+    await expect(page.getByRole('option', { name: 'All universes' })).toBeInViewport();
+  });
+  test('a universe link without a continuity opens its default continuity', async ({ page }) => {
+    await page.goto('/?u=star-wars&view=dual');
+    await expect(page.getByRole('combobox', { name: 'Continuity (in-universe views)' })).toContainText('Star Wars canon');
+    await expect(page.getByText('Nothing matches the current filters.')).toHaveCount(0);
+  });
+  test('non-timeline views never show a blank sort', async ({ page }) => {
+    await page.goto('/?u=star-wars&view=connections&sort=in-universe');
+    await expect(page.getByRole('combobox', { name: 'Sort order' }).first()).toHaveText(/\S/);
   });
 });

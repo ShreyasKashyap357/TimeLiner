@@ -178,7 +178,7 @@ export function DetailDrawer() {
               )}
 
               {siblings.length > 0 && (
-                <Section title={`Other parts of ${row.title.title}`}>
+                <Section title={`Other parts of ${row.titleName}`}>
                   <ul className="space-y-1 text-sm">
                     {siblings.map((u) => (
                       <li key={u.id}><button type="button" className="underline" onClick={() => go(u.id)}>{u.label}</button> <span className="text-muted-foreground">· {u.in_universe.label} · {formatRelease(u.release.date)}</span>{watched.set.has(u.id) && <span className="text-muted-foreground"> · {verb}</span>}</li>
@@ -197,7 +197,7 @@ export function DetailDrawer() {
               <Section title="Sources">
                 <ul className="space-y-1 text-sm">
                   {[...new Set([...row.unit.source_urls, ...row.title.source_urls])].map((u) => (
-                    <li key={u} className="truncate">
+                    <li key={u} className="[overflow-wrap:anywhere]">
                       <a href={u} target="_blank" rel="noreferrer noopener" className="inline-flex items-center gap-1 underline">
                         {decodeURIComponent(u.replace(/^https?:\/\/(en\.)?/, '').replace(/_/g, ' '))}<ExternalLink aria-hidden className="size-3" />
                         <span className="sr-only">(opens in new tab)</span>

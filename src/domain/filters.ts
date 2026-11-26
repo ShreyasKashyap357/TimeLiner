@@ -79,9 +79,14 @@ function range(v: string | null): [number, number] | null {
   return m ? [Number(m[1]), Number(m[2])] : null;
 }
 
-export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinuity: string | null): FilterState {
+/** Views ordered within one continuity (story order / official orders only make sense there). */
+export const CONTINUITY_VIEWS: ViewId[] = ['spine', 'dual'];
+
+/** fallbackContinuity may be a function of the universe, so "?u=x" opens x's default continuity. */
+export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinuity: string | null | ((u: string) => string | null)): FilterState {
   const p = new URLSearchParams(qs);
-  const s = defaultState(p.get('u') ?? fallbackUniverse, p.has('c') ? p.get('c') : fallbackContinuity);
+  const u = p.get('u') ?? fallbackUniverse;
+  const s = defaultState(u, p.has('c') ? p.get('c') : typeof fallbackContinuity === 'function' ? fallbackContinuity(u) : fallbackContinuity);
   const view = p.get('view');
   if (view && (VIEWS as readonly string[]).includes(view)) s.view = view as ViewId;
   const sort = p.get('sort');
@@ -102,6 +107,8 @@ export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinui
   s.lanes = p.get('lanes') === '1';
   s.ess = p.get('ess') === '1';
   s.unit = p.get('unit');
+  // A story-order sort only exists in continuity views; elsewhere fall back to release order.
+  if (!CONTINUITY_VIEWS.includes(s.view) && (s.sort === 'in-universe' || s.sort === 'alt')) { s.sort = 'release'; s.alt = null; }
   return s;
 }
 

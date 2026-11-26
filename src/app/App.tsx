@@ -5,9 +5,10 @@ import { useWatched } from '@/state/watched';
 import { usePrefs } from '@/state/prefs';
 import { loadDataset, universes as allUniverses } from '@/state/data';
 import { buildRows, type Dataset } from '@/domain/model';
-import { applyFilters, VIEWS, type ViewId, type SortId } from '@/domain/filters';
+import { applyFilters, CONTINUITY_VIEWS, VIEWS, type ViewId, type SortId } from '@/domain/filters';
 import { nextUp, orderedForView, progress } from '@/domain/views';
 import { HeaderBar } from './Header';
+import { HeaderSelect } from './HeaderSelect';
 import { Toolbar } from './Toolbar';
 import { Footer } from './Footer';
 import { Legend } from './Legend';
@@ -34,7 +35,9 @@ export const VIEW_LABELS: Record<ViewId, string> = {
   spine: 'In-universe', release: 'Release order', platform: 'Platform', studio: 'Studio', groupings: 'Phase / Saga',
   tags: 'Characters', continuities: 'Continuities', dual: 'Dual axis', connections: 'Connections',
 };
-const CONTINUITY_SCOPED: ViewId[] = ['spine', 'dual'];
+const CONTINUITY_SCOPED: ViewId[] = CONTINUITY_VIEWS;
+/** Universe's default continuity ("all" uses the first enabled universe's). Module-level so it is a stable reference. */
+const defaultContinuityFor = (u: string) => (allUniverses.find((x) => x.id === u) ?? allUniverses.find((x) => x.enabled))?.default_continuity ?? null;
 
 function contrastOn(hex: string): string {
   const [r, g, b] = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
@@ -44,7 +47,7 @@ function contrastOn(hex: string): string {
 
 export function App() {
   const first = allUniverses.find((u) => u.enabled) ?? allUniverses[0]!;
-  const [state, update] = useUrlState(first.id, first.default_continuity);
+  const [state, update] = useUrlState(first.id, defaultContinuityFor);
   const [ds, setDs] = useState<Dataset | null>(null);
   const headerRef = useRef<HTMLElement>(null);
   // expose the sticky header height so sticky sidebars sit right below it
@@ -57,7 +60,14 @@ export function App() {
   });
   const [error, setError] = useState<string | null>(null);
 
-  useEffect(() => { loadDataset().then(setDs, (e) => setError(String(e))); }, []);
+  // First paint needs only the universe in the URL; every other universe (search, cross-universe links,
+  // "All universes") loads right after and replaces the partial dataset. Chunks are cached in loadDataset.
+  useEffect(() => {
+    let full = false;
+    if (state.u !== 'all') loadDataset([state.u]).then((d) => { if (!full) setDs(d); }, () => {});
+    loadDataset().then((d) => { full = true; setDs(d); }, (e) => setError(String(e)));
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- once, on mount
+  }, []);
   const watched = useWatched(ds?.aliases ?? {});
   const [prefs, setPrefs] = usePrefs();
 
@@ -109,26 +119,33 @@ export function App() {
     { id: 'unwatched', label: 'Unwatched first' },
   ];
 
+  const changeView = (v: string) => {
+    const view = v as ViewId;
+    const sort: SortId = CONTINUITY_SCOPED.includes(view) ? (state.sort === 'release' || state.sort === 'in-universe' ? 'in-universe' : state.sort) : (state.sort === 'in-universe' || state.sort === 'alt' ? 'release' : state.sort);
+    update({ view, sort, alt: sort === 'alt' ? state.alt : null }, true);
+  };
+
   return (
     <Ctx.Provider value={ctx}>
       <TooltipProvider>
         <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:left-2 focus:top-2 focus:z-50 focus:rounded focus:bg-primary focus:px-3 focus:py-2 focus:text-primary-foreground">Skip to content</a>
-        <Tabs value={state.view} onValueChange={(v) => {
-          const view = v as ViewId;
-          const sort: SortId = CONTINUITY_SCOPED.includes(view) ? (state.sort === 'release' || state.sort === 'in-universe' ? 'in-universe' : state.sort) : (state.sort === 'in-universe' || state.sort === 'alt' ? 'release' : state.sort);
-          update({ view, sort, alt: sort === 'alt' ? state.alt : null }, true);
-        }}>
+        <Tabs value={state.view} onValueChange={changeView}>
           <header ref={headerRef} className="sticky top-0 z-40 border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
-            <div className="mx-auto max-w-7xl px-4">
+            <div className="mx-auto max-w-7xl px-4 2xl:max-w-[110rem]">
               <HeaderBar />
-              <div className="-mx-4 overflow-x-auto px-4 pb-2">
+              {/* Phones: one full-width view picker instead of a tab strip that would be cut off. */}
+              <div className="pb-2 sm:hidden">
+                <HeaderSelect label="View" hint="Choose how to look at the timeline" value={state.view} minRem={0}
+                  options={VIEWS.map((v) => ({ value: v, label: VIEW_LABELS[v] }))} onChange={changeView} />
+              </div>
+              <div className="-mx-4 overflow-x-auto px-4 pb-2 max-sm:hidden">
                 <TabsList aria-label="Views" className="w-max">
                   {VIEWS.map((v) => <TabsTrigger key={v} value={v} data-view={v}>{VIEW_LABELS[v]}</TabsTrigger>)}
                 </TabsList>
               </div>
             </div>
           </header>
-          <div className="mx-auto max-w-7xl px-4">
+          <div className="mx-auto max-w-7xl px-4 2xl:max-w-[110rem]">
             <Toolbar sortOptions={sortOptions} prog={prog} next={next} counts={{ shown: filtered.length, total: scoped.length, released: filtered.filter((r) => r.unit.status === 'released').length }} filterPanel={<FilterPanel scoped={scoped} sortOptions={sortOptions} />} />
             <div className="grid gap-6 lg:grid-cols-[19rem_1fr]">
               <aside className="hidden lg:block" aria-label="Filters sidebar">

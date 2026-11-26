@@ -2,7 +2,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { fromQuery, toQuery, type FilterState } from '@/domain/filters';
 
-export function useUrlState(fallbackUniverse: string, fallbackContinuity: string | null) {
+export function useUrlState(fallbackUniverse: string, fallbackContinuity: string | null | ((u: string) => string | null)) {
   const [state, setState] = useState<FilterState>(() => fromQuery(window.location.search, fallbackUniverse, fallbackContinuity));
   const current = useRef(state);
   current.current = state;

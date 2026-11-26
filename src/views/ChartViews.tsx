@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useApp } from '@/app/context';
 import { connections, dualAxis } from '@/domain/views';
-import type { Row } from '@/domain/model';
+import { titleLabel, type Row } from '@/domain/model';
 import { Marker, markerColor, markerMeaning, markerShape } from '@/components/Marker';
 import { formatRelease, formatYear } from '@/domain/dates';
 import { UnitItem } from '@/components/UnitItem';
@@ -123,7 +123,7 @@ export function ConnectionsView({ rows }: { rows: Row[] }) {
   const step = 36, w = Math.max(680, nodes.length * step + 40), h = 320, base = 220;
   const x = (id: string) => 20 + idx.get(id)! * step + step / 2;
   const firstUnit = (titleId: string) => rows.find((r) => r.title.id === titleId)?.key;
-  const titleOf = (id: string) => ds.titles.find((t) => t.id === id)!;
+  const titleOf = (id: string) => ({ title: titleLabel(ds.titles, id) });
   const contName = (id: string) => ds.continuities.find((c) => c.id === id)?.name ?? id;
   const KIND_DASH: Record<string, string> = { sequel: '', continues: '', spinoff: '6 3', crossover: '2 3', cameo: '1 4', 'feeds-into': '8 3 2 3', remake: '4 4', 'shares-characters': '1 2' };
   return (

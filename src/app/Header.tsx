@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useApp } from './context';
 import { universes as allUniverses } from '@/state/data';
-import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { HeaderSelect } from './HeaderSelect';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Command, CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command';
@@ -23,45 +23,16 @@ export function HeaderBar() {
       <a href={import.meta.env.BASE_URL} className="mr-1 flex items-baseline gap-2" aria-label="TimeLiner home">
         <span className="font-heading text-xl font-bold tracking-widest" style={{ color: 'var(--u-primary)' }}>TIMELINER</span>
       </a>
-      <div className="flex flex-wrap items-center gap-2">
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <div>
-              <Select value={state.u} onValueChange={(u) => {
-                const uni = allUniverses.find((x) => x.id === u);
-                update({ u, c: uni ? uni.default_continuity : state.c, unit: null }, true);
-              }}>
-                <SelectTrigger aria-label="Universe" className="w-36"><SelectValue /></SelectTrigger>
-                <SelectContent>
-                  <SelectGroup>
-                    <SelectLabel>Universe</SelectLabel>
-                    {universes.map((u) => <SelectItem key={u.id} value={u.id}>{u.name}</SelectItem>)}
-                    {universes.length > 1 && <SelectItem value="all">All universes</SelectItem>}
-                  </SelectGroup>
-                </SelectContent>
-              </Select>
-            </div>
-          </TooltipTrigger>
-          <TooltipContent>Franchise universe</TooltipContent>
-        </Tooltip>
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <div>
-              <Select value={state.c ?? ''} onValueChange={(c) => update({ c, unit: null }, true)}>
-                <SelectTrigger aria-label="Continuity (for in-universe views)" className="w-64"><SelectValue placeholder="Continuity" /></SelectTrigger>
-                <SelectContent>
-                  <SelectGroup>
-                    <SelectLabel>Continuity (in-universe views)</SelectLabel>
-                    {conts.map((c) => <SelectItem key={c.id} value={c.id}>{c.name}</SelectItem>)}
-                  </SelectGroup>
-                </SelectContent>
-              </Select>
-            </div>
-          </TooltipTrigger>
-          <TooltipContent className="max-w-xs">Continuity used by the In-universe and Dual-axis views. In-universe order only exists within one continuity.</TooltipContent>
-        </Tooltip>
+      <div className="flex min-w-0 flex-[1_1_auto] items-center gap-2">
+        <HeaderSelect label="Universe" hint="Franchise universe" value={state.u}
+          options={[...universes.map((u) => ({ value: u.id, label: u.name, color: u.accent.primary })), ...(universes.length > 1 ? [{ value: 'all', label: 'All universes' }] : [])]}
+          onChange={(u) => { const uni = allUniverses.find((x) => x.id === u); update({ u, c: uni ? uni.default_continuity : state.c, unit: null }, true); }} />
+        <HeaderSelect label="Continuity (in-universe views)" hint="Continuity used by the In-universe and Dual-axis views. In-universe order only exists within one continuity."
+          value={state.c ?? ''} placeholder="Continuity" minRem={9}
+          options={conts.map((c) => ({ value: c.id, label: c.name }))}
+          onChange={(c) => update({ c, unit: null }, true)} />
       </div>
-      <div className="ml-auto flex items-center gap-2">
+      <div className="ml-auto flex min-w-0 max-w-full flex-[1_1_auto] flex-wrap items-center justify-end gap-2 sm:flex-none">
         <FilterBox />
         <SearchPalette />
         <SpoilerToggle />
@@ -91,11 +62,11 @@ function FilterBox() {
   const t = useRef<number | undefined>(undefined);
   useEffect(() => setText(state.q), [state.q]);
   return (
-    <div className="relative">
+    <div className="relative min-w-0 flex-1 basis-28 sm:flex-none">
       <Search aria-hidden className="pointer-events-none absolute left-2 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
       <Input
-        type="search" value={text} placeholder="Filter by title or character" aria-label="Filter by title or character"
-        className="w-52 pl-8"
+        type="search" value={text} placeholder="Filter titles…" title="Filter by title or character" aria-label="Filter by title or character"
+        className="w-full pl-8 sm:w-52"
         onChange={(e) => { const v = e.target.value; setText(v); window.clearTimeout(t.current); t.current = window.setTimeout(() => update({ q: v }), 200); }}
       />
     </div>
@@ -116,7 +87,7 @@ function SearchPalette() {
       <Tooltip>
         <TooltipTrigger asChild>
           <Button variant="outline" onClick={() => setOpen(true)} aria-keyshortcuts="Control+K Meta+K">
-            <Search aria-hidden className="size-4" /> Search <kbd className="ml-1 hidden rounded border border-border px-1 text-[0.7em] text-muted-foreground sm:inline">Ctrl K</kbd>
+            <Search aria-hidden className="size-4" /> <span className="max-sm:sr-only">Search</span> <kbd className="ml-1 hidden rounded border border-border px-1 text-[0.7em] text-muted-foreground sm:inline">Ctrl K</kbd>
           </Button>
         </TooltipTrigger>
         <TooltipContent>Jump to any title or character (Ctrl+K / ⌘K)</TooltipContent>

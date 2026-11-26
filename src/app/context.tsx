@@ -17,6 +17,8 @@ export interface AppCtx {
     grouping: (id: string) => string;
   };
   altOrder: string[] | undefined;
+  /** Rows of the current view in display order (for prev/next and what's next). */
+  ordered: Row[];
 }
 
 export const Ctx = createContext<AppCtx | null>(null);

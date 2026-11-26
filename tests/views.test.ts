@@ -2,7 +2,7 @@ import { beforeAll, describe, expect, it } from 'vitest';
 import { loadDataset } from '../scripts/verify-data.ts';
 import { buildRows, releaseSortKey, type Dataset, type Row } from '../src/domain/model.ts';
 import { applyFilters, defaultState, fromQuery, toQuery } from '../src/domain/filters.ts';
-import { connections, continuityLanes, dualAxis, groupings, nextUp, progress, releaseLanes, sortRows, spine, studioKey, swimlanes, tagIndex } from '../src/domain/views.ts';
+import { connectionsFor, describeConnection, connections, continuityLanes, dualAxis, groupings, nextUp, progress, releaseLanes, sortRows, spine, studioKey, swimlanes, tagIndex } from '../src/domain/views.ts';
 import { formatYear, formatRelease } from '../src/domain/dates.ts';
 import { migrate, parseImport } from '../src/state/watched.ts';
 
@@ -140,6 +140,15 @@ describe('view transforms', () => {
     const nwh = c.edges.filter((e) => (e.from === 'venom-let-there-be-carnage' || e.to === 'venom-let-there-be-carnage') && (e.from === 'spider-man-no-way-home' || e.to === 'spider-man-no-way-home'));
     expect(nwh).toHaveLength(1);
     expect(nwh[0]!.from).toBe('venom-let-there-be-carnage');
+  });
+  it('connectionsFor finds links in both directions', () => {
+    const nwh = connectionsFor('spider-man-no-way-home', ds);
+    expect(nwh.map((c) => c.titleId)).toEqual(expect.arrayContaining(['spider-man-2002', 'the-amazing-spider-man', 'venom-let-there-be-carnage']));
+    const raimi = connectionsFor('spider-man-2002', ds);
+    const back = raimi.find((c) => c.titleId === 'spider-man-no-way-home')!;
+    expect(back.direction).toBe('to-this');
+    expect(describeConnection(back)).toBe('crosses over with');
+    expect(describeConnection(connectionsFor('spider-man-2', ds).find((c) => c.titleId === 'spider-man-2002')!)).toBe('sequel to');
   });
   it('progress and what-is-next', () => {
     const ordered = sortRows(mcu(), 'in-universe');

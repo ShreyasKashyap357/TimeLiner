@@ -252,3 +252,33 @@ export function orderedForView(rows: Row[], s: FilterState, altOrder?: string[],
   }
   return sortRows(rows, s.sort === 'in-universe' ? 'release' : s.sort, { altOrder, watched });
 }
+
+// ---------------------------------------------------------------- per-title connections (both directions)
+export interface TitleConnection { titleId: string; title: string; kind: string; note: string; direction: 'from-this' | 'to-this' | 'event' }
+/** Everything a title is connected to: links it records, links other titles record to it, and crossover
+ *  events that include one of its units. */
+export function connectionsFor(titleId: string, ds: Pick<Dataset, 'titles'>): TitleConnection[] {
+  const t = ds.titles.find((x) => x.id === titleId);
+  if (!t) return [];
+  const out: TitleConnection[] = [];
+  for (const l of t.links) {
+    const o = ds.titles.find((x) => x.id === l.to);
+    if (o) out.push({ titleId: o.id, title: o.title, kind: l.kind, note: l.note, direction: 'from-this' });
+  }
+  const unitIds = new Set(t.units.map((u) => u.id));
+  for (const o of ds.titles) {
+    if (o.id === t.id) continue;
+    for (const l of o.links) if (l.to === t.id && !out.some((c) => c.titleId === o.id && c.kind === l.kind)) out.push({ titleId: o.id, title: o.title, kind: l.kind, note: l.note, direction: 'to-this' });
+    if (o.constituents.some((ref) => unitIds.has(ref.split('#e')[0]!))) out.push({ titleId: o.id, title: o.title, kind: 'crossover event', note: '', direction: 'event' });
+    if (t.constituents.length && t.constituents.some((ref) => o.units.some((u) => u.id === ref.split('#e')[0]))) out.push({ titleId: o.id, title: o.title, kind: 'part of this event', note: '', direction: 'event' });
+  }
+  return out;
+}
+
+/** Human phrasing of a connection from the viewpoint of the current title. */
+export function describeConnection(c: TitleConnection): string {
+  const inverse: Record<string, string> = { sequel: 'followed by', continues: 'continued by', spinoff: 'spun off into', crossover: 'crosses over with', cameo: 'has a cameo in', 'feeds-into': 'leads into', remake: 'remade as', 'shares-characters': 'shares characters with' };
+  const forward: Record<string, string> = { sequel: 'sequel to', continues: 'continues', spinoff: 'spin-off of', crossover: 'crosses over with', cameo: 'cameo from', 'feeds-into': 'follows on from', remake: 'remake of', 'shares-characters': 'shares characters with' };
+  if (c.direction === 'event') return c.kind;
+  return (c.direction === 'from-this' ? forward : inverse)[c.kind] ?? c.kind;
+}

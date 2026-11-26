@@ -6,10 +6,14 @@ import { cn } from '@/lib/utils';
 import { RowMarker, markerMeaning } from './Marker';
 import { ConfidenceBadge } from './Badges';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
+import { connectionsFor, describeConnection } from '@/domain/views';
+import { Link2 } from 'lucide-react';
+import { useMemo } from 'react';
 
 /** One unit as a list item: marker, name (opens drawer), meta, watched checkbox. */
 export function UnitItem({ row, meta = 'release', compact = false }: { row: Row; meta?: 'release' | 'in-universe' | 'both' | 'none'; compact?: boolean }) {
-  const { update, watched, label } = useApp();
+  const { update, watched, label, ds } = useApp();
+  const conns = useMemo(() => (compact ? [] : connectionsFor(row.title.id, ds)), [row.title.id, ds, compact]);
   const isWatched = watched.set.has(row.key);
   const iu = row.unit.in_universe;
   const metaText = meta === 'none' ? null
@@ -43,6 +47,19 @@ export function UnitItem({ row, meta = 'release', compact = false }: { row: Row;
           </span>
         )}
       </button>
+      {conns.length > 0 && (
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <button type="button" onClick={() => update({ unit: row.key })} className="mt-0.5 inline-flex items-center gap-0.5 text-xs text-muted-foreground hover:text-foreground" aria-label={`${conns.length} connection${conns.length > 1 ? 's' : ''} – open details`}>
+              <Link2 className="size-3.5" aria-hidden />{conns.length}
+            </button>
+          </TooltipTrigger>
+          <TooltipContent className="max-w-sm">
+            <ul className="space-y-0.5">{conns.slice(0, 8).map((c, i) => <li key={i}>{describeConnection(c)} <strong>{c.title}</strong></li>)}</ul>
+            {conns.length > 8 && <div>…and {conns.length - 8} more</div>}
+          </TooltipContent>
+        </Tooltip>
+      )}
       {!compact && iu.confidence !== 'stated' && meta !== 'release' && <ConfidenceBadge c={iu.confidence} small />}
       {!compact && <span className="hidden text-xs text-muted-foreground md:inline">{label.platform(row.platform)}</span>}
     </li>

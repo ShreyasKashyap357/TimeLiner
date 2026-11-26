@@ -1,134 +1,192 @@
+import { useEffect, useMemo } from 'react';
 import { useApp } from '@/app/context';
 import { formatRelease } from '@/domain/dates';
+import { connectionsFor, describeConnection } from '@/domain/views';
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import { Badge } from '@/components/ui/badge';
-import { ExternalLink } from 'lucide-react';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
+import { ChevronLeft, ChevronRight, ExternalLink, Check, SkipForward, Link2 } from 'lucide-react';
 import { ConfidenceBadge } from './Badges';
 import { RowMarker, markerMeaning } from './Marker';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
   return (
-    <div className="grid grid-cols-[8.5rem_1fr] gap-2 py-1 text-sm">
+    <div className="grid grid-cols-[9rem_1fr] gap-2 py-1.5 text-sm">
       <dt className="text-muted-foreground">{k}</dt>
       <dd className="min-w-0">{children}</dd>
     </div>
   );
 }
 
+function Section({ title, children }: { title: string; children: React.ReactNode }) {
+  return (
+    <section className="space-y-1.5">
+      <Separator className="my-3" />
+      <h3 className="text-sm font-semibold">{title}</h3>
+      {children}
+    </section>
+  );
+}
+
 export function DetailDrawer() {
-  const { rows, state, update, watched, label, ds } = useApp();
+  const { rows, state, update, watched, label, ds, ordered } = useApp();
   const row = state.unit ? rows.find((r) => r.key === state.unit) : undefined;
   const open = Boolean(row);
+  const idx = row ? ordered.findIndex((r) => r.key === row.key) : -1;
+  const prev = idx > 0 ? ordered[idx - 1] : undefined;
+  const next = idx >= 0 && idx < ordered.length - 1 ? ordered[idx + 1] : undefined;
+  const go = (key?: string) => { if (key) update({ unit: key }); };
+
+  // Alt+← / Alt+→ step through the current order while the panel is open
+  useEffect(() => {
+    if (!open) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (!e.altKey) return;
+      if (e.key === 'ArrowLeft' && prev) { e.preventDefault(); go(prev.key); }
+      if (e.key === 'ArrowRight' && next) { e.preventDefault(); go(next.key); }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  });
+
+  const conns = useMemo(() => (row ? connectionsFor(row.title.id, ds) : []), [row, ds]);
   const studio = row ? ds.studios.find((s) => s.id === row.studio) : undefined;
   const lbl = row?.label ? ds.studios.find((s) => s.id === row.label) : undefined;
   const iu = row?.unit.in_universe;
   const siblings = row ? row.title.units.filter((u) => u.id !== row.key) : [];
+  const isWatched = row ? watched.set.has(row.key) : false;
+  const firstUnitOf = (titleId: string) => rows.find((r) => r.title.id === titleId)?.key;
+
   return (
     <Sheet open={open} onOpenChange={(o) => { if (!o) update({ unit: null }); }}>
-      <SheetContent side="right" className="w-full overflow-y-auto sm:max-w-lg">
+      <SheetContent side="right" className="w-full gap-0 overflow-y-auto sm:max-w-xl">
         {row && iu && (
           <>
-            <SheetHeader>
-              <SheetTitle className="font-heading text-xl text-primary">{row.name}</SheetTitle>
+            <SheetHeader className="border-b border-border">
+              <div className="flex items-center gap-1 pr-8 text-xs text-muted-foreground">
+                <Tooltip>
+                  <TooltipTrigger asChild>
+                    <Button variant="ghost" size="icon" disabled={!prev} onClick={() => go(prev?.key)} aria-label={prev ? `Previous: ${prev.name}` : 'No previous entry'} aria-keyshortcuts="Alt+ArrowLeft"><ChevronLeft className="size-4" /></Button>
+                  </TooltipTrigger>
+                  <TooltipContent>{prev ? `Previous: ${prev.name} (Alt+←)` : 'Start of this order'}</TooltipContent>
+                </Tooltip>
+                <span className="tabular-nums">{idx >= 0 ? `${idx + 1} of ${ordered.length} in this view` : 'Not in the current filtered view'}</span>
+                <Tooltip>
+                  <TooltipTrigger asChild>
+                    <Button variant="ghost" size="icon" disabled={!next} onClick={() => go(next?.key)} aria-label={next ? `Next: ${next.name}` : 'No next entry'} aria-keyshortcuts="Alt+ArrowRight"><ChevronRight className="size-4" /></Button>
+                  </TooltipTrigger>
+                  <TooltipContent>{next ? `Next: ${next.name} (Alt+→)` : 'End of this order'}</TooltipContent>
+                </Tooltip>
+              </div>
+              <SheetTitle className="font-heading text-xl" style={{ color: 'var(--u-primary)' }}>{row.name}</SheetTitle>
               <SheetDescription className="flex flex-wrap items-center gap-2">
                 <RowMarker row={row} /> <span>{markerMeaning(row)}</span>
                 <span aria-hidden>·</span> <span>{row.continuity.name}</span>
               </SheetDescription>
+              <div className="flex flex-wrap gap-2 pt-2">
+                <Button variant={isWatched ? 'secondary' : 'default'} onClick={() => watched.toggle(row.key)} aria-pressed={isWatched}>
+                  <Check className="size-4" aria-hidden />{isWatched ? 'Watched' : 'Mark as watched'}
+                </Button>
+                {next && !isWatched && (
+                  <Button variant="outline" onClick={() => { watched.toggle(row.key, true); go(next.key); }}>
+                    <SkipForward className="size-4" aria-hidden />Watched, go to next
+                  </Button>
+                )}
+              </div>
             </SheetHeader>
-            <div className="px-4 pb-6">
-              <Button
-                variant={watched.set.has(row.key) ? 'secondary' : 'default'}
-                className="mb-3 w-full"
-                onClick={() => watched.toggle(row.key)}
-                aria-pressed={watched.set.has(row.key)}
-              >
-                {watched.set.has(row.key) ? '✓ Watched (click to undo)' : 'Mark as watched'}
-              </Button>
+            <div className="px-4 pb-8 pt-3">
               <dl>
                 <Field k="In-universe">
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="font-medium">{iu.label}</span>
                     <ConfidenceBadge c={iu.confidence} />
-                    <Badge variant="outline">{iu.precision}</Badge>
                   </div>
                   {iu.note && <p className="mt-1 text-xs leading-relaxed text-muted-foreground">{iu.note}</p>}
                 </Field>
-                <Field k="Release">{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
+                <Field k="Released">{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
                   {row.unit.release.note && <p className="text-xs text-muted-foreground">{row.unit.release.note}</p>}</Field>
                 <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}</Field>
                 <Field k="Original platform">{label.platform(row.platform)}</Field>
                 <Field k="Studio">
-                  <span className="flex flex-col gap-1">
+                  <span className="flex flex-col gap-0.5">
                     <span>{studio?.label ?? row.studio}</span>
                     {lbl && <span className="text-xs text-muted-foreground">Label / banner: {lbl.label}</span>}
-                    {(lbl?.group || studio?.group) && (lbl?.note || studio?.note) && <span className="text-xs text-muted-foreground">{lbl?.note || studio?.note}</span>}
                   </span>
                 </Field>
                 <Field k="Continuity">{row.continuity.name} · {row.branch.label}</Field>
                 <Field k="Canon tier">{row.tier}</Field>
-                {Object.entries(row.unit.groupings).filter(([, v]) => v).length > 0 && (
-                  <Field k="Grouping">{Object.entries(row.unit.groupings).filter(([, v]) => v).map(([, v]) => label.grouping(v!)).join(' · ')}</Field>
-                )}
-                {(row.title.characters.length > 0 || row.title.franchises.length > 0) && (
-                  <Field k="Characters / teams">
-                    <span className="flex flex-wrap gap-1">
-                      {[...row.title.characters, ...row.title.franchises].map((t) => (
-                        <button key={t} type="button" onClick={() => update({ view: 'tags', tags: [t], unit: null }, true)}>
-                          <Badge variant="secondary" className="cursor-pointer hover:bg-accent">{label.tag(t)}</Badge>
-                        </button>
-                      ))}
-                    </span>
-                  </Field>
+                {Object.values(row.unit.groupings).some(Boolean) && (
+                  <Field k="Grouping">{Object.values(row.unit.groupings).filter(Boolean).map((v) => label.grouping(v!)).join(' · ')}</Field>
                 )}
               </dl>
-              {row.title.notes && <p className="mt-3 text-sm text-muted-foreground">{row.title.notes}</p>}
-              {row.unit.notes && <p className="mt-2 text-sm text-muted-foreground">{row.unit.notes}</p>}
-              {row.title.links.length > 0 && (
-                <>
-                  <Separator className="my-3" />
-                  <h3 className="mb-1 text-sm font-semibold">Connections</h3>
-                  <ul className="space-y-1 text-sm">
-                    {row.title.links.map((l) => {
-                      const target = rows.find((r) => r.title.id === l.to);
-                      return (
-                        <li key={l.to + l.kind}>
-                          <span className="text-muted-foreground">{l.kind}: </span>
-                          {target ? <button type="button" className="underline" onClick={() => update({ unit: target.key })}>{target.title.title}</button> : l.to}
-                          {l.note && <span className="text-muted-foreground"> ({l.note})</span>}
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </>
-              )}
-              {siblings.length > 0 && (
-                <>
-                  <Separator className="my-3" />
-                  <h3 className="mb-1 text-sm font-semibold">Other parts of {row.title.title}</h3>
-                  <ul className="space-y-1 text-sm">
-                    {siblings.map((u) => (
-                      <li key={u.id}><button type="button" className="underline" onClick={() => update({ unit: u.id })}>{u.label}</button> <span className="text-muted-foreground">· {u.in_universe.label}</span></li>
+
+              {conns.length > 0 && (
+                <Section title={`Connections (${conns.length})`}>
+                  <ul className="space-y-1.5 text-sm">
+                    {conns.map((c, i) => (
+                      <li key={i} className="flex flex-wrap items-baseline gap-x-2">
+                        <Link2 className="size-3.5 self-center text-muted-foreground" aria-hidden />
+                        <span className="text-muted-foreground">{describeConnection(c)}</span>
+                        <button type="button" className="font-medium underline" onClick={() => go(firstUnitOf(c.titleId))}>{c.title}</button>
+                        {c.note && <span className="text-xs text-muted-foreground">({c.note})</span>}
+                      </li>
                     ))}
                   </ul>
-                </>
+                  <Button variant="link" className="h-auto p-0" onClick={() => update({ view: 'connections', unit: null }, true)}>Open the Connections view →</Button>
+                </Section>
               )}
-              <Separator className="my-3" />
-              <h3 className="mb-1 text-sm font-semibold">Sources</h3>
-              <ul className="space-y-1 text-sm">
-                {[...new Set([...row.unit.source_urls, ...row.title.source_urls])].map((u) => (
-                  <li key={u} className="truncate">
-                    <a href={u} target="_blank" rel="noreferrer noopener" className="inline-flex items-center gap-1 underline">
-                      {decodeURIComponent(u.replace(/^https?:\/\/(en\.)?/, '').replace(/_/g, ' '))}<ExternalLink aria-hidden className="size-3" />
-                      <span className="sr-only">(opens in new tab)</span>
-                    </a>
-                  </li>
-                ))}
-                {row.title.external_ids.wikidata && (
-                  <li><a className="underline" href={`https://www.wikidata.org/wiki/${row.title.external_ids.wikidata}`} target="_blank" rel="noreferrer noopener">Wikidata {row.title.external_ids.wikidata}</a></li>
-                )}
-              </ul>
+
+              {(row.title.characters.length > 0 || row.title.franchises.length > 0) && (
+                <Section title="Characters & teams">
+                  <div className="flex flex-wrap gap-1">
+                    {[...row.title.characters, ...row.title.franchises].map((t) => (
+                      <Tooltip key={t}>
+                        <TooltipTrigger asChild>
+                          <button type="button" onClick={() => update({ view: 'tags', tags: [t], unit: null }, true)}>
+                            <Badge variant="secondary" className="cursor-pointer hover:bg-accent">{label.tag(t)}</Badge>
+                          </button>
+                        </TooltipTrigger>
+                        <TooltipContent>Show everything with {label.tag(t)}</TooltipContent>
+                      </Tooltip>
+                    ))}
+                  </div>
+                </Section>
+              )}
+
+              {siblings.length > 0 && (
+                <Section title={`Other parts of ${row.title.title}`}>
+                  <ul className="space-y-1 text-sm">
+                    {siblings.map((u) => (
+                      <li key={u.id}><button type="button" className="underline" onClick={() => go(u.id)}>{u.label}</button> <span className="text-muted-foreground">· {u.in_universe.label} · {formatRelease(u.release.date)}</span>{watched.set.has(u.id) && <span className="text-muted-foreground"> · watched</span>}</li>
+                    ))}
+                  </ul>
+                </Section>
+              )}
+
+              {(row.title.notes || row.unit.notes) && (
+                <Section title="Notes">
+                  {row.title.notes && <p className="text-sm text-muted-foreground">{row.title.notes}</p>}
+                  {row.unit.notes && <p className="text-sm text-muted-foreground">{row.unit.notes}</p>}
+                </Section>
+              )}
+
+              <Section title="Sources">
+                <ul className="space-y-1 text-sm">
+                  {[...new Set([...row.unit.source_urls, ...row.title.source_urls])].map((u) => (
+                    <li key={u} className="truncate">
+                      <a href={u} target="_blank" rel="noreferrer noopener" className="inline-flex items-center gap-1 underline">
+                        {decodeURIComponent(u.replace(/^https?:\/\/(en\.)?/, '').replace(/_/g, ' '))}<ExternalLink aria-hidden className="size-3" />
+                        <span className="sr-only">(opens in new tab)</span>
+                      </a>
+                    </li>
+                  ))}
+                  {row.title.external_ids.wikidata && (
+                    <li><a className="underline" href={`https://www.wikidata.org/wiki/${row.title.external_ids.wikidata}`} target="_blank" rel="noreferrer noopener">Wikidata {row.title.external_ids.wikidata}</a></li>
+                  )}
+                </ul>
+              </Section>
             </div>
           </>
         )}

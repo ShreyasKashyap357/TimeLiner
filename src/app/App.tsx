@@ -87,7 +87,7 @@ export function App() {
   if (error) return <main className="p-8 text-destructive">Failed to load data: {error}</main>;
   if (!ds) return <main className="p-8 text-muted-foreground" aria-busy="true">Loading timeline…</main>;
 
-  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder };
+  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, ordered };
   const sortOptions: { id: SortId; label: string; alt?: string }[] = [
     ...(CONTINUITY_SCOPED.includes(state.view) ? [{ id: 'in-universe' as SortId, label: 'In-universe order' }] : []),
     ...(state.view === 'spine' ? (continuity?.alt_orders ?? []).map((a) => ({ id: 'alt' as SortId, label: a.label, alt: a.id })) : []),

@@ -1,6 +1,15 @@
 # TimeLiner: Plan (Stage 0)
 
-Status: **draft, waiting for approval**. Nothing in this file is verified data. Every continuity and title list below is a proposal that Stage 1 (Marvel) and Stage 3 (DC) must confirm against sources.
+Status: **approved 2026-11-26.** Decisions:
+1. MCU is one continuity with branches.
+2. Marvel scope: MCU, Fox X-Men, SSU, Raimi, Webb, X-Men TAS/'97.
+3. Netflix Defenders shows are core; the ABC/Hulu/Freeform shows are `adjacent`.
+4. No TMDB; use Wikidata.
+5. Data is CC BY-SA.
+
+Sections 7–8 (scalability, future universes) were added after approval.
+
+Nothing in this file is verified data. Every continuity and title list below is a proposal that Stage 1 (Marvel) and Stage 3 (DC) must confirm against sources.
 
 ## 1. Stack
 
@@ -21,7 +30,11 @@ Other choices:
 
 ```
 data/
-  universes.json  continuities.json  titles.json
+  universes.json        # index of universes
+  registry/             # studios.json, platforms.json (shared open vocabularies)
+  marvel/               # continuities.json, titles.json, characters.json
+  dc/                   # (Stage 3)
+  _template/            # copy to start a new universe
   DATA_NOTES.md
   sources/              # cached raw fetches (wikitext/HTML + revid + fetch date) for reproducibility
 scripts/
@@ -172,6 +185,33 @@ Cross-continuity appearances (No Way Home, The Flash, Crisis cameos) are **links
 - **Footer**: sources, last-verified date, Wikipedia CC BY-SA attribution, and an unofficial/unaffiliated disclaimer.
 - **No images**: text and inline SVG only.
 
-## 7. Licensing note
+## 7. Scalability: adding universes, multiverses and timelines
+
+Adding a universe should mean adding data, with no app code changes. To make that true beyond Marvel and DC:
+
+1. **Data split per universe.** `data/universes.json` is the index. Each universe gets its own folder (`data/marvel/continuities.json`, `data/marvel/titles.json`, `data/dc/…`). The app lazy-loads one universe's chunk at a time; cross-universe views (release order) load the chunks they need. `verify-data` validates each folder separately and then checks references across folders.
+2. **Open vocabularies, not hard-coded enums.** Studios, platforms/networks, characters and franchises live in registries (`data/registry/studios.json`, `platforms.json`, and `data/<universe>/characters.json`). The schema checks that ids exist rather than matching a fixed list, so Lucasfilm, Legendary, Toho or Paramount+ are just new rows. The canon tiers and title types stay fixed: they drive filtering semantics, and new ones would be a deliberate schema change.
+3. **Calendars defined per continuity.** Each continuity declares its calendar:
+   - `gregorian` (AD/BC) for Marvel and DC.
+   - `era` with named epochs, for example Star Wars BBY/ABY (which has a year 0) or Middle-earth Ages.
+   - `ordered-only` (no years, just `order_index`).
+
+   Units store a number on the continuity's own scale, and a formatter shows it as "1260 BC" or "19 BBY". Calendars are never compared across continuities, which is consistent with the never-merge rule.
+4. **Branches can nest.** A branch can have `parent` and `diverges_at` (e.g. Star Trek Prime → Kelvin; X-Men original vs revised after DoFP; Loki's branches). The spine draws child branches as offshoots from their divergence point. Multiverses are therefore branches when they share a calendar, and separate continuities when they don't.
+5. **Theme from data.** Each universe supplies its accent colour pair. CSS tokens are derived from it at runtime and checked against WCAG AA by a test, so a new universe can't ship unreadable colours.
+6. **Performance headroom.** The spine and release lists are virtualised above roughly 500 rows. Search uses a small prebuilt index per universe. Star Wars with The Clone Wars season by season, plus Legends, is the stress case to design against (low thousands of units).
+7. **README "how to add a universe" checklist**, plus a template folder `data/_template/`.
+
+## 8. Future universes (after Stage 4, each its own data stage + checkpoint)
+
+| Stage | Universe | Likely continuities (to research) | Model stress it adds |
+|---|---|---|---|
+| 5 | Godzilla & Kong | Legendary MonsterVerse (films, Monarch: Legacy of Monsters, Skull Island); Toho Shōwa / Heisei / Millennium (mostly standalone) / Reiwa (Shin Godzilla, Minus One, anime trilogy); standalone King Kong films | standalone-collection continuities, Japanese release vs US release dates |
+| 6 | Star Wars | Canon (Disney-era plus the grandfathered films and The Clone Wars); Legends; non-canon anthology (Visions) | era calendar BBY/ABY, very large episode-level data |
+| later candidates | Star Trek (Prime / Kelvin / others, stardates), Wizarding World, Middle-earth, Alien & Predator, the Conjuring Universe, Transformers | nested branches, era calendars |
+
+Marvel and DC stay first, as the brief requires. The schema items above (per-universe folders, registries, calendars, nested branches) are built into Stage 1, so later universes don't force migrations.
+
+## 9. Licensing note
 
 Code stays MIT (existing LICENSE). Data derived from Wikipedia and Fandom is CC BY-SA 4.0, so `data/` gets its own `data/LICENSE` (CC BY-SA 4.0) with attribution.

@@ -3,7 +3,7 @@
 ## Stage 0: Plan
 - [x] Inspect reference image and repo
 - [x] Draft PLAN.md (stack, schema, continuities)
-- [ ] **CHECKPOINT 0: user approval of plan + open questions**
+- [x] CHECKPOINT 0 approved 2026-11-26
 
 ## Stage 1: Marvel data
 - [ ] Scaffold repo (Vite/TS/React, zod schema, tsx scripts)
@@ -23,3 +23,8 @@
 
 ## Stage 4: DC in app
 - [ ] **CHECKPOINT 4**
+
+## Later stages (proposed, each with a data checkpoint)
+- [ ] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)
+- [ ] Stage 6: Star Wars (Canon / Legends, BBY/ABY calendar)
+- [ ] Candidates: Star Trek, Wizarding World, Middle-earth, Alien & Predator, Conjuring, Transformers

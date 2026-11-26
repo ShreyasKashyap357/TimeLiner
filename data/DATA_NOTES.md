@@ -16,9 +16,9 @@ This file records every judgement call, every disagreement between sources, and 
 | Titles | 109 |
 | Units (films, seasons, episode ranges) | 146 |
 | Continuities | MCU 115 units · Fox X-Men 13 · SSU 6 · Raimi 3 · Webb 2 · X-Men TAS/'97 7 |
-| Canon tier | core 111 · outside-set-date 9 · adjacent 16 · non-placeable 6 |
-| In-universe confidence | stated 88 · inferred 32 · disputed 22 |
-| Status | released 130 · upcoming 12 |
+| Canon tier | core 115 · outside-set-date 9 · adjacent 16 · non-placeable 6 |
+| In-universe confidence | stated 88 · inferred 32 · disputed 26 |
+| Status | released 134 · upcoming 12 |
 | `verify` result | 0 integrity errors, 0 warnings, 0 un-ignored drift items |
 
 ### 2. How the data was produced
@@ -99,10 +99,28 @@ The other `disputed` units:
   - Disney+ places *Loki* S1 and *What If…?* S1 between *Endgame* and *WandaVision*, and their S2s after *The Marvels*. *What If…?* S3 sits between *Agatha All Along* and *Born Again*, and *Werewolf by Night* after *Ironheart* (Wikipedia's Disney+ list).
 - **Netflix series are `core`** on the Sacred Timeline (Stage 0 decision 3). Wikipedia's diagram and the Disney+ timeline both place them by season.
 - **ABC / Hulu / Freeform series are `adjacent`.** This covers *Agents of S.H.I.E.L.D.* (7 seasons), *Inhumans*, *Runaways* (3), *Cloak & Dagger* (2), *Helstrom* and *Agent Carter* (2).
-  - Wikipedia's diagram and the Disney+ timeline both leave them out.
-  - The series articles give no in-universe year for any season except *Agent Carter*: S1 "takes place in 1946"; S2 is "in 1947".
-  - The rest are marked "Not placed by sources" and sit after all dated units, in release order.
-  - **Not done:** these could be placed from the MCU Fandom wiki's episode-level dating. That is a sizeable research task, and the brief allows Fandom only for dating rationale, so I left them unplaced rather than guess. Tell me if you want it done.
+  - Wikipedia's diagram and the Disney+ timeline both leave them out. They stay `adjacent`, hidden by default.
+  - *Agent Carter*'s years are **stated** in its Wikipedia article: S1 "takes place in 1946"; S2 is "in 1947".
+  - The other 14 seasons are placed from research done at the user's request (Checkpoint 1, decision D-2). Every quote was checked against the cached pages in `data/sources/`. Each unit's note quotes its sources, and `source_urls` lists them.
+    - **Wikipedia** season and series articles give *relative* anchors: tie-in episodes, "six months after", and "Television series set in YYYY" categories (AoS S1 and S7 only).
+    - **The MCU Fandom wiki year pages** (2013–2020, revisions in `data/sources/manifest.json`) give calendar dates. Fandom reasons these from on-screen props and dialogue, so they are rated `inferred`, never `stated`.
+
+    | Season | Placed | Confidence | Basis |
+    |---|---|---|---|
+    | AoS S1 | 2013–2014 | inferred | WP: "The Well" "takes place directly after the events of *Thor: The Dark World*", plus a Winter Soldier tie-in; Fandom: ID badge "2013SEP09" |
+    | AoS S2 | 2014–2015 | inferred | WP: "resumes months after the end of season one", leads into *Age of Ultron*; Fandom: "late May or early June 2014", "Scars" May 2015 |
+    | AoS S3 | 2015–2016 | inferred | WP: "six months after" S2, "Emancipation" "in the aftermath of *Civil War*"; Fandom: "December 13, 2015 to January 24, 2016" |
+    | AoS S4 | 2017 | inferred | WP: *GotG Vol. 2* "takes place earlier in the MCU continuity than the season is set"; Fandom: "picks up in March 2017" |
+    | AoS S5 | 2017–2018 (part in 2091) | inferred | WP: last four episodes "set during the events of *Infinity War*"; Fandom: on-screen "12-06-2017"; the year 2091 |
+    | AoS S6 | 2019 | **disputed** | WP: "one year after" S5, and the producers acknowledged it "no longer lined-up with the films' timeline" (Endgame's five-year Blip) |
+    | AoS S7 | 2019–2020 (time travel 1931–1983) | **disputed** | WP categories 1931…2020; Fandom: epilogue "July 4, 2020". Inherits S6's conflict |
+    | Inhumans | 2016 | inferred | Wikipedia: no timing. Fandom: after the Sokovia Accords, "August 26-31, 2016" |
+    | Runaways S1 / S2 / S3 | 2017 / 2017 / 2017–2018 | inferred | Fandom: "October 2017"; then "24 hours" later; then "36 hours" later through "May 26, 2018" |
+    | Cloak & Dagger S1 | 2017 | **disputed** | Fandom: evidence "extremely contradictory" (2015–2018 considered); 2017 "the strongest option" |
+    | Cloak & Dagger S2 | 2017 | inferred | Fandom: "October 28, 2017 to November 4, 2017" |
+    | Helstrom | 2020 | **disputed** | Fandom: "October 13-30, 2020", but the section is flagged dubious on Fandom itself |
+
+  - These units are slotted into the MCU order after the last unit with the same or an earlier start year (ties broken by release date).
 - **Episode-range splits** follow Wikipedia's diagram exactly:
   - *Daredevil: Born Again* S1 is split into ep. 1 (2026) and eps. 2–9 (2027).
   - *Eyes of Wakanda* is split into eps. 1–4 (1260 BC, 1200 BC, 1400, 1896).
@@ -172,7 +190,7 @@ None of these are placed on the calendar ("Not yet placed (unreleased)", `disput
 
 ### 9. What could not be verified
 
-- **Fandom (MCU wiki).** The API was reachable, but its season pages have no structured in-universe dates. **No date in the dataset comes from Fandom.** All dating rationale is from Wikipedia (diagram, book table, Disney+ list, series articles).
+- **Fandom (MCU wiki)** is used **only** for the 14 adjacent-tier ABC/Hulu/Freeform seasons (see §5), and always as `inferred` or `disputed`. Every Marvel Studios and Netflix placement comes from Wikipedia.
 - ***An Official Timeline*** was read only as transcribed on Wikipedia, not from the book itself. The same goes for the Disney+ order (Wikipedia cites Marvel.com, 2026-10-22).
 - **TMDB.** No API key, so TMDB was never called. The `tmdb` ids are Wikidata's P4947/P4983 values and were not cross-checked.
 - **Wikidata gaps.** There is no QID for the Untitled X-Men film, *Black Panther III* or *Zodiac*. Runtimes are filled for films, One-Shots and specials only. Wikidata's series runtimes are per episode and inconsistent, so `runtime_min` is `null` for series and `episode_count` is given instead.

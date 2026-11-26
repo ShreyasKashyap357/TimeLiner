@@ -146,6 +146,7 @@ async function referenceDiff(ds: Dataset): Promise<RefDiff[]> {
   for (const [id, x] of units) {
     if (x.t.continuity !== 'mcu' || !x.u.in_universe.start || refIds.has(id)) continue;
     const tier = x.u.canon_tier ?? x.t.canon_tier;
+    if (tier === 'adjacent') continue; // the reference image (like Wikipedia's diagram) covers Marvel Studios + Netflix only
     out.push({ unit: id, message: `dated in dataset (${x.u.in_universe.label}, tier ${tier}) but absent from reference image` });
   }
   return out;

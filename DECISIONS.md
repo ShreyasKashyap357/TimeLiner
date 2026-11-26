@@ -7,7 +7,6 @@ Work continues stage to stage without stopping (user instruction, 2026-11-26). O
 | # | Stage | Question | Default being used |
 |---|---|---|---|
 | D-1 | 1 | **How to present the two "Marvel Television" studios.** They are now distinct registry entries (see below). Options: **(a)** one "Marvel Television" filter group with two clearly labelled checkboxes, "Division, 2010–2019 (ABC / Netflix / Hulu / Freeform)" and "Marvel Studios banner, 2024–"; **(b)** two unrelated filters with no grouping; **(c)** show only the parent studio (Marvel Studios) for the 2024 banner and hide the banner name. | **(a)**. Badges also differ: "Marvel TV ’10–’19" (outlined, archive style) vs "Marvel Studios › Marvel TV banner" (breadcrumb). Each has a tooltip explaining they are different entities. |
-| D-2 | 1 | **ABC / Hulu / Freeform seasons.** Research into placing them from Wikipedia season articles and the MCU Fandom wiki is in progress. Found placements will be added as `inferred` (derived from film tie-ins) or `stated`, each with a quote and source. | Apply what's found, quote the sources in DATA_NOTES, and keep tier `adjacent` (hidden by default). |
 
 ## Resolved
 
@@ -22,4 +21,5 @@ Work continues stage to stage without stopping (user instruction, 2026-11-26). O
 | R-7 | 0 | Hosting | GitHub Pages primary, Vercel optional |
 | R-8 | 1 | Two "Marvel Television"s: keep separate | Yes. Ids `marvel-television-division` and `marvel-television-banner`, plus `group`, `short_label` and `active` years (migration 2026-11-26) |
 | R-9 | 1 | X-Men: The Animated Series | Split into seasons 1–5 from Wikipedia's episode list. The old combined id is aliased so watched progress carries over. |
+| R-11 | 1 | ABC/Hulu/Freeform placement | Researched: 14 seasons placed from Wikipedia tie-ins and MCU Fandom year pages (inferred/disputed, quoted in DATA_NOTES §5). Tier stays `adjacent`. |
 | R-10 | 1 | Workflow | Don't stop at checkpoints; batch decisions here |

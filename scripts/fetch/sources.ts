@@ -40,5 +40,11 @@ export const SOURCES: Record<string, SourceSpec[]> = {
     { site: 'wikipedia', title: 'Loki (TV series)', why: 'non-placeable placement' },
     { site: 'wikipedia', title: 'I Am Groot', why: 'episode split' },
     { site: 'wikipedia', title: 'Daredevil: Born Again', why: 'season 3 status, episode split' },
+    { site: 'wikipedia', title: 'Agents of S.H.I.E.L.D.', why: 'adjacent series: setting statements' },
+    { site: 'wikipedia', title: 'Agent Carter (TV series)', why: 'adjacent series: 1946/1947 setting' },
+    { site: 'wikipedia', title: 'Inhumans (TV series)', why: 'adjacent series' },
+    { site: 'wikipedia', title: 'Runaways (TV series)', why: 'adjacent series' },
+    { site: 'wikipedia', title: 'Cloak & Dagger (TV series)', why: 'adjacent series' },
+    { site: 'wikipedia', title: 'Helstrom (TV series)', why: 'adjacent series: release date (infobox)' },
   ],
 };

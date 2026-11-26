@@ -7,7 +7,7 @@
 
 ## Stage 1: Marvel data
 - [x] Scaffold (TS, zod schema, tsx scripts; Vite/React/shadcn in Stage 2)
-- [x] Fetchers: Wikipedia (36 pages), Wikidata; cached in data/sources/ (Fandom reachable but not used for dates)
+- [x] Fetchers: Wikipedia (41 pages), Wikidata; cached in data/sources/ (Fandom reachable but not used for dates)
 - [x] Parsers → data/candidates/marvel.json
 - [x] Curate Marvel dataset (seed + bootstrap → data/marvel/*.json)
 - [x] Reconcile against reference image (reference/mcu_timeline_current.json + verify diff)

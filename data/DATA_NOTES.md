@@ -23,7 +23,7 @@ This file records every judgement call, every disagreement between sources, and 
 
 ### 2. How the data was produced
 
-1. **Fetch.** `scripts/fetch/*` downloaded 36 Wikipedia pages through the MediaWiki API on 2026-11-26. Wikitext and rendered HTML are cached in `data/sources/wikipedia/`, and each page's revision id is in `data/sources/manifest.json`. Wikidata facts (QIDs, US release dates, runtimes, TMDB/IMDb ids) were fetched with `wbgetentities` and cached in `data/sources/wikidata/marvel.json`. No API key was used, and TMDB was not called.
+1. **Fetch.** `scripts/fetch/*` downloaded 41 Wikipedia pages through the MediaWiki API on 2026-11-26. Wikitext and rendered HTML are cached in `data/sources/wikipedia/`, and each page's revision id is in `data/sources/manifest.json`. Wikidata facts (QIDs, US release dates, runtimes, TMDB/IMDb ids) were fetched with `wbgetentities` and cached in `data/sources/wikidata/marvel.json`. No API key was used, and TMDB was not called.
 2. **Extract.** `scripts/build/marvel.ts` turns the cached pages into `data/candidates/marvel.json`. It reads:
    - the `{{Film overview}}` and `{{Series overview}}` tables on the six Phase pages, the film list, the two TV lists, the Netflix / ABC / young-adult pages, and the X-Men page;
    - the TV-specials tables;

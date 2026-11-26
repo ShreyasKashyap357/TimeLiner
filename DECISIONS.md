@@ -42,6 +42,10 @@ All are backward compatible, and the Marvel data validates unchanged with 0 erro
 | D-17 | **Order after DC.** Proposed: Godzilla & Kong → Star Wars → books pilot (ASOIAF/GoT) → Star Trek → Terminator/Halloween → Wizarding World/Middle-earth → Wheel of Time → Riordan → Indian universes → batches. | This order, unless you reprioritise. |
 | D-18 | **Games** (The Witcher, Halo, Mass Effect, Star Wars games) as a third medium. | Out of scope for now. The book changes are designed so a "game" medium could be added the same way. |
 
+| D-19 | **US re-edits of Toho films** (Godzilla, King of the Monsters!; Gigantis; Godzilla 1985) | Not separate titles; mentioned in the original's release note. Could be added as `remake`-linked entries. |
+| D-20 | **Game of Thrones books vs HBO shows as separate continuities.** No source uses the word "continuity". Wikipedia does say "only the novels count as canon", and the show deviates from the novels from season 5–6. | Separate continuities, linked with `adapts`. |
+| D-21 | **AC calendar without a year 0** (1 AC = Aegon's coronation; the Conquest war is 2–1 BC). Inferred from A Wiki of Ice and Fire; no source states it in words. | `has_year_zero: false`. |
+
 ## Resolved
 
 | # | Stage | Decision | Answer |

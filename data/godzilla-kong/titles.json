@@ -1,0 +1,4517 @@
+[
+  {
+    "id": "kong-skull-island",
+    "title": "Kong: Skull Island",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [
+      "monarch"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Kong: Skull Island",
+      "wikidata": "Q21203766",
+      "tmdb": "293167",
+      "imdb": "tt3731562"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kong:_Skull_Island",
+      "https://en.wikipedia.org/wiki/Monsterverse"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "kong-skull-island",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 118,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1973
+          },
+          "end": {
+            "y": 1973
+          },
+          "label": "1973 (prologue 1944)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set in 1973, the film follows…\"; \"In 1973, Bill Randa…\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-03-10",
+          "end_date": null,
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kong:_Skull_Island",
+          "https://en.wikipedia.org/wiki/Monsterverse"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "skull-island-series",
+    "title": "Skull Island",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Skull Island (TV series)",
+      "wikidata": "Q118641155",
+      "tmdb": "117678",
+      "imdb": "tt13929756"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skull_Island_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "skull-island-series-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1993
+          },
+          "end": {
+            "y": 1993
+          },
+          "label": "1993",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 1993 a group of explorers venture out to sea\"; \"a sequel to Kong: Skull Island\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-06-22",
+          "end_date": null,
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Skull_Island_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "kong-skull-island",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-2014",
+    "title": "Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [
+      "monarch"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla (2014 film)",
+      "wikidata": "Q7731172",
+      "tmdb": "124905",
+      "imdb": "tt0831387"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(2014_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-2014",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 123,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2014
+          },
+          "end": {
+            "y": 2014
+          },
+          "label": "2014 (flashbacks 1954, 1999)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 1954, Godzilla… is lured to Bikini Atoll… In 1999, Monarch scientists… In 2014, Joe and Sandra's son Ford…\"",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-05-16",
+          "end_date": null,
+          "year": 2014,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_(2014_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "monarch-legacy-of-monsters",
+    "title": "Monarch: Legacy of Monsters",
+    "sort_title": null,
+    "type": "series",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "apple-tv-plus",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "kong"
+    ],
+    "franchises": [
+      "monarch"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Monarch: Legacy of Monsters",
+      "wikidata": "Q113114887",
+      "tmdb": "202411",
+      "imdb": "tt17220216"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "monarch-legacy-of-monsters-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2015
+          },
+          "end": {
+            "y": 2015
+          },
+          "label": "2015 (and the 1950s)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2015, one year after the re-emergence of Godzilla…\"; \"In 1952, Shaw is assigned as Keiko's escort\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-11-17",
+          "end_date": "2024-01-12",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "monarch-legacy-of-monsters-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2017
+          },
+          "end": {
+            "y": 2017
+          },
+          "label": "2017",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2017, Kong attacks the Apex station on Skull Island\".",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-02-27",
+          "end_date": "2026-05-01",
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-king-of-the-monsters",
+    "title": "Godzilla: King of the Monsters",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah",
+      "mothra",
+      "rodan"
+    ],
+    "franchises": [
+      "monarch"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: King of the Monsters (2019 film)",
+      "wikidata": "Q17501972",
+      "tmdb": "373571",
+      "imdb": "tt3741700"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_King_of_the_Monsters_(2019_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-king-of-the-monsters",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 132,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2019
+          },
+          "end": {
+            "y": 2019
+          },
+          "label": "2019",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Five years after the revelation of giant monsters\"; category \"Films set in 2019\".",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-05-31",
+          "end_date": null,
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_King_of_the_Monsters_(2019_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-kong",
+    "title": "Godzilla vs. Kong",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "kong",
+      "mechagodzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Kong",
+      "wikidata": "Q56307503",
+      "tmdb": "399566",
+      "imdb": "tt5034838"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Kong"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-kong",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 153,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2024
+          },
+          "end": {
+            "y": 2024
+          },
+          "label": "2024",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Five years after… King Ghidorah… was defeated\"; category \"Films set in 2024\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-03-31",
+          "end_date": null,
+          "year": 2021,
+          "note": "US release (also HBO Max); international 2021-03-24."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Kong"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-x-kong-the-new-empire",
+    "title": "Godzilla x Kong: The New Empire",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "kong",
+      "mothra"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla x Kong: The New Empire",
+      "wikidata": "Q113360912",
+      "tmdb": "823464",
+      "imdb": "tt14539740"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_x_Kong:_The_New_Empire"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-x-kong-the-new-empire",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 115,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2027
+          },
+          "end": {
+            "y": 2027
+          },
+          "label": "2027",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Three years after defeating Mechagodzilla\"; category \"Films set in 2027\".",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-03-29",
+          "end_date": null,
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_x_Kong:_The_New_Empire"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-x-kong-supernova",
+    "title": "Godzilla x Kong: Supernova",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "legendary",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "kong",
+      "spacegodzilla"
+    ],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "Godzilla x Kong: Supernova",
+      "wikidata": "Q133820356",
+      "tmdb": "1288438",
+      "imdb": "tt32561550"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_x_Kong:_Supernova"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-x-kong-supernova",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "No placement published (unreleased).",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027-03-26",
+          "end_date": null,
+          "year": 2027,
+          "note": ""
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_x_Kong:_Supernova"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-1954",
+    "title": "Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla (1954 film)",
+      "wikidata": "Q860461",
+      "tmdb": "1678",
+      "imdb": "tt0047034"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(1954_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-1954",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1954
+          },
+          "end": {
+            "y": 1954
+          },
+          "label": "1954",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category \"Films set in 1954\" only.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1954-11-03",
+          "end_date": null,
+          "year": 1954,
+          "note": "Japanese release; US: 1956-04-04 as the re-edited Godzilla, King of the Monsters!."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_(1954_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-raids-again",
+    "title": "Godzilla Raids Again",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "anguirus"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla Raids Again",
+      "wikidata": "Q1273736",
+      "tmdb": "1679",
+      "imdb": "tt0048127"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Raids_Again"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-raids-again",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 82,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Sequel to Godzilla (1954)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"a sequel to Godzilla (1954)\".",
+          "order_index": 20,
+          "relative_to": {
+            "after": "godzilla-1954",
+            "before": "king-kong-vs-godzilla"
+          }
+        },
+        "release": {
+          "date": "1955-04-24",
+          "end_date": null,
+          "year": 1955,
+          "note": "Japanese release; US: 1959 as Gigantis, the Fire Monster (the date is disputed: 1959-05-21 or 1959-06-02)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_Raids_Again"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-vs-godzilla",
+    "title": "King Kong vs. Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong vs. Godzilla",
+      "wikidata": "Q1215918",
+      "tmdb": "1680",
+      "imdb": "tt13364334"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_vs._Godzilla"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "king-kong-vs-godzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 98,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1960
+          },
+          "end": {
+            "y": 1969
+          },
+          "label": "1960s",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "Godzilla \"had been trapped within it since 1955\"; category \"Films set in the 1960s\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1962-08-11",
+          "end_date": null,
+          "year": 1962,
+          "note": "Japanese release; US: 1963-06-26 (Universal)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_vs._Godzilla"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "mothra-vs-godzilla",
+    "title": "Mothra vs. Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mothra"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Mothra vs. Godzilla",
+      "wikidata": "Q633073",
+      "tmdb": "1682",
+      "imdb": "tt0058379"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mothra_vs._Godzilla"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "mothra-vs-godzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 89,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1964
+          },
+          "end": {
+            "y": 1964
+          },
+          "label": "1964",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category \"Films set in 1964\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1964-04-29",
+          "end_date": null,
+          "year": 1964,
+          "note": "Japanese release; US: 1964-08-26 (AIP)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mothra_vs._Godzilla"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "ghidorah-the-three-headed-monster",
+    "title": "Ghidorah, the Three-Headed Monster",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah",
+      "mothra",
+      "rodan"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghidorah, the Three-Headed Monster",
+      "wikidata": "Q588011",
+      "tmdb": "15766",
+      "imdb": "tt0058544"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghidorah,_the_Three-Headed_Monster",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ghidorah-the-three-headed-monster",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 93,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "mothra-vs-godzilla",
+            "before": "invasion-of-astro-monster"
+          }
+        },
+        "release": {
+          "date": "1964-12-20",
+          "end_date": null,
+          "year": 1964,
+          "note": "Japanese release; US: 1965-09-29."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghidorah,_the_Three-Headed_Monster",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "invasion-of-astro-monster",
+    "title": "Invasion of Astro-Monster",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah",
+      "rodan"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Invasion of Astro-Monster",
+      "wikidata": "Q814166",
+      "tmdb": "19545",
+      "imdb": "tt0059346"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Invasion_of_Astro-Monster"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "invasion-of-astro-monster",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 101,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1960
+          },
+          "end": {
+            "y": 1969
+          },
+          "label": "196X",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "\"In the year 196X, two astronauts…\" (decade stated, year withheld).",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1965-12-19",
+          "end_date": null,
+          "year": 1965,
+          "note": "Japanese release; US: 1970-07-29."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invasion_of_Astro-Monster"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "ebirah-horror-of-the-deep",
+    "title": "Ebirah, Horror of the Deep",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ebirah, Horror of the Deep",
+      "wikidata": "Q775709",
+      "tmdb": "3115",
+      "imdb": "tt0060464"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ebirah,_Horror_of_the_Deep",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ebirah-horror-of-the-deep",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 87,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "invasion-of-astro-monster",
+            "before": "son-of-godzilla"
+          }
+        },
+        "release": {
+          "date": "1966-12-17",
+          "end_date": null,
+          "year": 1966,
+          "note": "Japanese release; US: US television 1968."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ebirah,_Horror_of_the_Deep",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "son-of-godzilla",
+    "title": "Son of Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "minilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Son of Godzilla",
+      "wikidata": "Q1444768",
+      "tmdb": "18627",
+      "imdb": "tt0061856"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Son_of_Godzilla",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "son-of-godzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 86,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "ebirah-horror-of-the-deep",
+            "before": "destroy-all-monsters"
+          }
+        },
+        "release": {
+          "date": "1967-12-16",
+          "end_date": null,
+          "year": 1967,
+          "note": "Japanese release; US: US television 1969."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Son_of_Godzilla",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "destroy-all-monsters",
+    "title": "Destroy All Monsters",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah",
+      "mothra",
+      "rodan",
+      "anguirus",
+      "minilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Destroy All Monsters",
+      "wikidata": "Q1444720",
+      "tmdb": "3107",
+      "imdb": "tt0063172"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Destroy_All_Monsters"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "destroy-all-monsters",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 89,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1999
+          },
+          "end": {
+            "y": 1999
+          },
+          "label": "End of the 20th century (1999)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"At the end of the 20th century, all of the Earth's giant monsters have been collected…\"; category \"Films set in 1999\". Set later than the films released after it.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1968-08-01",
+          "end_date": null,
+          "year": 1968,
+          "note": "Japanese release; US: 1969-05-23 (AIP)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Destroy_All_Monsters"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "all-monsters-attack",
+    "title": "All Monsters Attack",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "minilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "All Monsters Attack",
+      "wikidata": "Q1534456",
+      "tmdb": "39462",
+      "imdb": "tt0064373"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/All_Monsters_Attack",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "all-monsters-attack",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 69,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 100,
+          "relative_to": {
+            "after": "destroy-all-monsters",
+            "before": "godzilla-vs-hedorah"
+          }
+        },
+        "release": {
+          "date": "1969-12-20",
+          "end_date": null,
+          "year": 1969,
+          "note": "Japanese release; US: 1971."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/All_Monsters_Attack",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-hedorah",
+    "title": "Godzilla vs. Hedorah",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Hedorah",
+      "wikidata": "Q200432",
+      "tmdb": "39464",
+      "imdb": "tt0067148"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Hedorah",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-hedorah",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 96,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 110,
+          "relative_to": {
+            "after": "all-monsters-attack",
+            "before": "godzilla-vs-gigan"
+          }
+        },
+        "release": {
+          "date": "1971-07-24",
+          "end_date": null,
+          "year": 1971,
+          "note": "Japanese release."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Hedorah",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-gigan",
+    "title": "Godzilla vs. Gigan",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "gigan",
+      "anguirus",
+      "king-ghidorah"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Gigan",
+      "wikidata": "Q1444750",
+      "tmdb": "19336",
+      "imdb": "tt0068371"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Gigan",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-gigan",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 89,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 120,
+          "relative_to": {
+            "after": "godzilla-vs-hedorah",
+            "before": "godzilla-vs-megalon"
+          }
+        },
+        "release": {
+          "date": "1972-03-12",
+          "end_date": null,
+          "year": 1972,
+          "note": "Japanese release; US: 1977."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Gigan",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-megalon",
+    "title": "Godzilla vs. Megalon",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "gigan"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Megalon",
+      "wikidata": "Q1742061",
+      "tmdb": "39264",
+      "imdb": "tt0070122"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Megalon"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-megalon",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 82,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1971
+          },
+          "end": {
+            "y": 1971
+          },
+          "label": "1971",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In the first part of 1971, the second of a series of underground nuclear tests is conducted\".",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1973-03-17",
+          "end_date": null,
+          "year": 1973,
+          "note": "Japanese release; US: summer 1976."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Megalon"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "zone-fighter",
+    "title": "Zone Fighter",
+    "sort_title": null,
+    "type": "series",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "nippon-tv",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah",
+      "gigan"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Zone Fighter",
+      "wikidata": "Q943185",
+      "tmdb": "12886",
+      "imdb": "tt0069625"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zone_Fighter"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "zone-fighter-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between Megalon and Mechagodzilla",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"Supplementary materials published by Toho have confirmed Zone Fighter to be part of the same continuity as the Showa era Godzilla series, taking place in between Godzilla vs. Megalon and Godzilla vs. Mechagodzilla.\"",
+          "order_index": 140,
+          "relative_to": {
+            "after": "godzilla-vs-megalon",
+            "before": "godzilla-vs-mechagodzilla"
+          }
+        },
+        "release": {
+          "date": "1973-04-02",
+          "end_date": "1973-09-24",
+          "year": 1973,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Zone_Fighter"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-mechagodzilla",
+    "title": "Godzilla vs. Mechagodzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mechagodzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Mechagodzilla",
+      "wikidata": "Q251335",
+      "tmdb": "38582",
+      "imdb": "tt0071565"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Mechagodzilla",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-mechagodzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 84,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Shōwa sequel",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in sources; Shōwa films follow one another.",
+          "order_index": 150,
+          "relative_to": {
+            "after": "zone-fighter-s1",
+            "before": "terror-of-mechagodzilla"
+          }
+        },
+        "release": {
+          "date": "1974-03-21",
+          "end_date": null,
+          "year": 1974,
+          "note": "Japanese release; US: March 1977."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Mechagodzilla",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "terror-of-mechagodzilla",
+    "title": "Terror of Mechagodzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-showa",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mechagodzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terror of Mechagodzilla",
+      "wikidata": "Q1211778",
+      "tmdb": "19333",
+      "imdb": "tt0073373"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terror_of_Mechagodzilla"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "terror-of-mechagodzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 83,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Direct sequel to Godzilla vs. Mechagodzilla",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"serving as a direct sequel to the 1974 film Godzilla vs. Mechagodzilla\".",
+          "order_index": 160,
+          "relative_to": {
+            "after": "godzilla-vs-mechagodzilla",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "1975-03-15",
+          "end_date": null,
+          "year": 1975,
+          "note": "Japanese release; US: March 1978."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "showa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terror_of_Mechagodzilla"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "godzilla-vs-mechagodzilla",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-return-of-godzilla",
+    "title": "The Return of Godzilla",
+    "sort_title": "Return of Godzilla",
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Return of Godzilla",
+      "wikidata": "Q1518701",
+      "tmdb": "421467",
+      "imdb": "tt9015178"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Return_of_Godzilla",
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Biollante"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-return-of-godzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 103,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1985
+          },
+          "end": {
+            "y": 1985
+          },
+          "label": "1985",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category \"Films set in 1985\"; Biollante's plot recalls \"Godzilla's attack on Tokyo… in 1985\". \"a direct sequel to the original 1954 film\".",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-12-15",
+          "end_date": null,
+          "year": 1984,
+          "note": "Japanese release; US: 1985-08-23 as the re-edited Godzilla 1985."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Return_of_Godzilla",
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Biollante"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-biollante",
+    "title": "Godzilla vs. Biollante",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "biollante"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Biollante",
+      "wikidata": "Q1514098",
+      "tmdb": "18289",
+      "imdb": "tt0097444"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Biollante"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-biollante",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 105,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1990
+          },
+          "end": {
+            "y": 1990
+          },
+          "label": "1990 (prologue 1985)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Five years later, in 1990, Shiragami has returned to Japan\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-12-16",
+          "end_date": null,
+          "year": 1989,
+          "note": "Japanese release; US: direct-to-video 1992-11-25."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Biollante"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-king-ghidorah",
+    "title": "Godzilla vs. King Ghidorah",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. King Ghidorah",
+      "wikidata": "Q1464998",
+      "tmdb": "36679",
+      "imdb": "tt0101962"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._King_Ghidorah"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-king-ghidorah",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 103,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1992
+          },
+          "end": {
+            "y": 1992
+          },
+          "label": "1992 (time travel to 1944)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"The Futurians… travel back to 1944… Returning to 1992\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-12-14",
+          "end_date": null,
+          "year": 1991,
+          "note": "Japanese release; US: direct-to-video 1998."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._King_Ghidorah"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-mothra",
+    "title": "Godzilla vs. Mothra",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mothra"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Mothra",
+      "wikidata": "Q1284313",
+      "tmdb": "39465",
+      "imdb": "tt0104352"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Mothra"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-mothra",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 102,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1993
+          },
+          "end": {
+            "y": 1993
+          },
+          "label": "1992–1993",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "\"Following the battle with Mecha-King Ghidorah in mid-1992… Six months later\"; category 1993.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-12-12",
+          "end_date": null,
+          "year": 1992,
+          "note": "Japanese release; US: home video 1998-04-28."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Mothra"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-mechagodzilla-ii",
+    "title": "Godzilla vs. Mechagodzilla II",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mechagodzilla",
+      "rodan"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Mechagodzilla II",
+      "wikidata": "Q1533972",
+      "tmdb": "6593",
+      "imdb": "tt0107027"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Mechagodzilla_II"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-mechagodzilla-ii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 108,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1994
+          },
+          "end": {
+            "y": 1994
+          },
+          "label": "1994",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Two years later and one year after Godzilla battled Mothra\"; category 1994.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-12-11",
+          "end_date": null,
+          "year": 1993,
+          "note": "Japanese release; US: pay-per-view 1998."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Mechagodzilla_II"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-spacegodzilla",
+    "title": "Godzilla vs. SpaceGodzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "spacegodzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. SpaceGodzilla",
+      "wikidata": "Q1533970",
+      "tmdb": "39466",
+      "imdb": "tt0109916"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._SpaceGodzilla"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-spacegodzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 109,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1995
+          },
+          "end": {
+            "y": 1995
+          },
+          "label": "1995",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category \"Films set in 1995\" only.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-12-10",
+          "end_date": null,
+          "year": 1994,
+          "note": "Japanese release; US: direct-to-video 1999."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._SpaceGodzilla"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-destoroyah",
+    "title": "Godzilla vs. Destoroyah",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "toho-heisei",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "destoroyah"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Destoroyah",
+      "wikidata": "Q1514075",
+      "tmdb": "12561",
+      "imdb": "tt0113187"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Destoroyah"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-destoroyah",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 103,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1996
+          },
+          "end": {
+            "y": 1996
+          },
+          "label": "1996",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"One year after the defeat of SpaceGodzilla\"; category 1996.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-12-09",
+          "end_date": null,
+          "year": 1995,
+          "note": "Japanese release; US: direct-to-video 1999."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Destoroyah"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-against-mechagodzilla",
+    "title": "Godzilla Against Mechagodzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kiryu-duology",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mechagodzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla Against Mechagodzilla",
+      "wikidata": "Q660666",
+      "tmdb": "12636",
+      "imdb": "tt0314111"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Against_Mechagodzilla"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-against-mechagodzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 85,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2003
+          },
+          "end": {
+            "y": 2003
+          },
+          "label": "2003 (prologue 1999)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Forty-five years after the first Godzilla's attack and death… Four years later\"; categories 1999 and 2003.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-12-14",
+          "end_date": null,
+          "year": 2002,
+          "note": "Japanese release; US one-day Fathom showing 2022-11-03."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "millennium"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_Against_Mechagodzilla"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-tokyo-sos",
+    "title": "Godzilla: Tokyo S.O.S.",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kiryu-duology",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mechagodzilla",
+      "mothra"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: Tokyo S.O.S.",
+      "wikidata": "Q677987",
+      "tmdb": "39469",
+      "imdb": "tt0366526"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_Tokyo_S.O.S."
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-tokyo-sos",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2004
+          },
+          "end": {
+            "y": 2004
+          },
+          "label": "2004",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Set one year after the events of the previous film\"; category 2004.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-12-13",
+          "end_date": null,
+          "year": 2003,
+          "note": "Japanese release."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "millennium"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_Tokyo_S.O.S."
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "godzilla-against-mechagodzilla",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-1998",
+    "title": "Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "tristar-gmk",
+    "studio_brand": "tristar",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla (1998 film)",
+      "wikidata": "Q24075",
+      "tmdb": "929",
+      "imdb": "tt0120685"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(1998_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-1998",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 138,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1998
+          },
+          "end": {
+            "y": 1998
+          },
+          "label": "1998",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category \"Films set in 1998\" only.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-05-20",
+          "end_date": null,
+          "year": 1998,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_(1998_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-the-series",
+    "title": "Godzilla: The Series",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "tristar-gmk",
+    "studio_brand": "tristar",
+    "label": null,
+    "platform_or_network": "fox-kids",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: The Series",
+      "wikidata": "Q2583799",
+      "tmdb": "11100",
+      "imdb": "tt0177443"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_The_Series"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-the-series-s1-2",
+        "label": "Seasons 1–2",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After Godzilla (1998)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"is a sequel to Godzilla (1998)\"; monsters \"appear in the wake of the events depicted in the 1998 film\".",
+          "order_index": 20,
+          "relative_to": {
+            "after": "godzilla-1998",
+            "before": "godzilla-mothra-and-king-ghidorah"
+          }
+        },
+        "release": {
+          "date": "1998-09-12",
+          "end_date": "2000-04-22",
+          "year": 1998,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_The_Series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "godzilla-1998",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-mothra-and-king-ghidorah",
+    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "tristar-gmk",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mothra",
+      "king-ghidorah"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+      "wikidata": "Q1533961",
+      "tmdb": "36243",
+      "imdb": "tt0279112"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla,_Mothra_and_King_Ghidorah:_Giant_Monsters_All-Out_Attack"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-mothra-and-king-ghidorah",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 101,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2002
+          },
+          "end": {
+            "y": 2002
+          },
+          "label": "2002",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2002, during a JSDF briefing…\"; it \"shares a standalone continuity with the 1998 American film, ignoring the events of every other installment\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-12-15",
+          "end_date": null,
+          "year": 2001,
+          "note": "Japanese release; US premiere 2003-07-19 (G-Fest)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "millennium"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla,_Mothra_and_King_Ghidorah:_Giant_Monsters_All-Out_Attack"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-planet-of-the-monsters",
+    "title": "Godzilla: Planet of the Monsters",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-anime-trilogy",
+    "studio_brand": "polygon-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: Planet of the Monsters",
+      "wikidata": "Q26456695",
+      "tmdb": "449574",
+      "imdb": "tt5979874"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_Planet_of_the_Monsters"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-planet-of-the-monsters",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 89,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Part 1",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Backstory \"last summer of the 20th century\"; \"almost 20,000 years have elapsed due to relativistic effects\" (the page is also in the category \"Animated films set in the 2040s\": disputed).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-11-17",
+          "end_date": null,
+          "year": 2017,
+          "note": "Japanese theatrical release; Netflix worldwide 2018-01-17."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_Planet_of_the_Monsters"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-city-on-the-edge-of-battle",
+    "title": "Godzilla: City on the Edge of Battle",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-anime-trilogy",
+    "studio_brand": "polygon-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "mechagodzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: City on the Edge of Battle",
+      "wikidata": "Q48671838",
+      "tmdb": "492719",
+      "imdb": "tt8015080"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_City_on_the_Edge_of_Battle"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-city-on-the-edge-of-battle",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Part 2",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"A sequel to the 2017 film Godzilla: Planet of the Monsters\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-05-18",
+          "end_date": null,
+          "year": 2018,
+          "note": "Japanese release; Netflix 2018-07-18."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_City_on_the_Edge_of_Battle"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "godzilla-planet-of-the-monsters",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-the-planet-eater",
+    "title": "Godzilla: The Planet Eater",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-anime-trilogy",
+    "studio_brand": "polygon-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "king-ghidorah"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: The Planet Eater",
+      "wikidata": "Q56275759",
+      "tmdb": "536115",
+      "imdb": "tt8478602"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_The_Planet_Eater"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-the-planet-eater",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 90,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Part 3",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"concludes the narrative of the anime trilogy\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-11-09",
+          "end_date": null,
+          "year": 2018,
+          "note": "Japanese release (TIFF premiere 2018-11-03); Netflix."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_The_Planet_Eater"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "godzilla-city-on-the-edge-of-battle",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-minus-one",
+    "title": "Godzilla Minus One",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-minus",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla Minus One",
+      "wikidata": "Q115053037",
+      "tmdb": "940721",
+      "imdb": "tt23289160"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Minus_One"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-minus-one",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 124,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1945
+          },
+          "end": {
+            "y": 1947
+          },
+          "label": "1945–1947",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"In 1945, near the end of World War II…\"; \"In May 1947, Kōichi and his minesweeper crew…\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-11-03",
+          "end_date": null,
+          "year": 2023,
+          "note": "Japanese release; US 2023-12-01."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_Minus_One"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-minus-zero",
+    "title": "Godzilla Minus Zero",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-minus",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla Minus Zero",
+      "wikidata": "Q136700760",
+      "tmdb": "1381071",
+      "imdb": "tt34384661"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-minus-zero",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 135,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1949
+          },
+          "end": {
+            "y": 1949
+          },
+          "label": "1949",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 1949, two years after Godzilla's apparent death in Sagami Bay\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-11-03",
+          "end_date": null,
+          "year": 2026,
+          "note": "Japanese release (NYFF premiere 2026-09-26); US 2026-11-06 (GKIDS)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "godzilla-minus-one",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-hanna-barbera",
+    "title": "Godzilla (1978 animated series)",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "hanna-barbera",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla (1978 TV series)",
+      "wikidata": "Q2406442",
+      "tmdb": "5246",
+      "imdb": "tt0177814"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(1978_TV_series)",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-hanna-barbera-s1-2",
+        "label": "Seasons 1–2",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No continuity or year stated.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1978-09-09",
+          "end_date": "1979-12-08",
+          "year": 1978,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_(1978_TV_series)",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilland",
+    "title": "Godzilland",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilland",
+      "wikidata": "Q65049733",
+      "tmdb": null,
+      "imdb": "tt10519754"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilland"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilland-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Kids' series; no continuity stated.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992",
+          "end_date": "1996",
+          "year": 1992,
+          "note": "Years only (1992–1996)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilland"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-island",
+    "title": "Godzilla Island",
+    "sort_title": null,
+    "type": "series",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla Island",
+      "wikidata": "Q941750",
+      "tmdb": "12966",
+      "imdb": "tt3345858"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Island"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-island-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2097
+          },
+          "end": {
+            "y": 2097
+          },
+          "label": "2097",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set in 2097\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-10-06",
+          "end_date": "1998-09-30",
+          "year": 1997,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "heisei"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_Island"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-2000-millennium",
+    "title": "Godzilla 2000: Millennium",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla 2000",
+      "wikidata": "Q1768462",
+      "tmdb": "10643",
+      "imdb": "tt0188640"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_2000"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-2000-millennium",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2000
+          },
+          "end": {
+            "y": 2000
+          },
+          "label": "2000",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "It \"ignores the events of the previous installment, as well as every other entry… aside from the original 1954 film\"; category 2000.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-12-11",
+          "end_date": null,
+          "year": 1999,
+          "note": "Japanese release; US 2000-08-18 (TriStar)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "millennium"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_2000"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-vs-megaguirus",
+    "title": "Godzilla vs. Megaguirus",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla vs. Megaguirus",
+      "wikidata": "Q664983",
+      "tmdb": "39468",
+      "imdb": "tt0255198"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_vs._Megaguirus"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-vs-megaguirus",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 101,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2001
+          },
+          "end": {
+            "y": 2001
+          },
+          "label": "2001 (flashbacks 1954, 1966, 1996)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2001, the G-Graspers… have developed…\"",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-12-16",
+          "end_date": null,
+          "year": 2000,
+          "note": "Japanese release."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "millennium"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_vs._Megaguirus"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-final-wars",
+    "title": "Godzilla: Final Wars",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "gigan",
+      "king-ghidorah",
+      "mothra",
+      "rodan",
+      "anguirus",
+      "minilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla: Final Wars",
+      "wikidata": "Q431660",
+      "tmdb": "15767",
+      "imdb": "tt0399102"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_Final_Wars",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-final-wars",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 120,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"the events of the 1954 film are ignored here\"; backstory \"Over the course of the 20th century…\"; no year stated.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-12-04",
+          "end_date": null,
+          "year": 2004,
+          "note": "Japanese release; US premiere date disputed (LA 2004-11-29)."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "millennium"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla:_Final_Wars",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "shin-godzilla",
+    "title": "Shin Godzilla",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Shin Godzilla",
+      "wikidata": "Q20899737",
+      "tmdb": "315011",
+      "imdb": "tt4262980"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shin_Godzilla"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "shin-godzilla",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 118,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2016
+          },
+          "end": {
+            "y": 2016
+          },
+          "label": "2016",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2016, the Japan Coast Guard investigates an abandoned yacht in Tokyo Bay.\" A reboot with \"no ties to Legendary's MonsterVerse\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-07-29",
+          "end_date": null,
+          "year": 2016,
+          "note": "Japanese release; US limited 2016-10-11."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Shin_Godzilla"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "godzilla-singular-point",
+    "title": "Godzilla Singular Point",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "bones",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla",
+      "rodan",
+      "anguirus"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Godzilla Singular Point",
+      "wikidata": "Q100977481",
+      "tmdb": "111177",
+      "imdb": "tt13229934"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Singular_Point",
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "godzilla-singular-point-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2030
+          },
+          "end": {
+            "y": 2030
+          },
+          "label": "2030",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In Nigashio City, Chiba Prefecture in the year 2030…\"; \"no relation to Polygon's anime film trilogy\".",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-03-25",
+          "end_date": "2021-06-24",
+          "year": 2021,
+          "note": "Netflix Japan; TV broadcast 2021-04-01 to 06-24."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Godzilla_Singular_Point",
+          "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "chibi-godzilla-raids-again",
+    "title": "Chibi Godzilla Raids Again",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "godzilla-standalone",
+    "studio_brand": "pie-in-the-sky",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [
+      "godzilla"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Chibi Godzilla Raids Again",
+      "wikidata": "Q117713351",
+      "tmdb": "221725",
+      "imdb": "tt27531662"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chibi_Godzilla_Raids_Again"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "chibi-godzilla-raids-again-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Comedy shorts; no continuity stated.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-04",
+          "end_date": null,
+          "year": 2023,
+          "note": "Season 1 April–June 2023; season 4 premiered 2026-04-01."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reiwa"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chibi_Godzilla_Raids_Again"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-1933",
+    "title": "King Kong",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-1933",
+    "studio_brand": "rko",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong (1933 film)",
+      "wikidata": "Q309048",
+      "tmdb": "244",
+      "imdb": "tt0024216"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_(1933_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "king-kong-1933",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "First film",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No year stated (no year category).",
+          "order_index": 10,
+          "relative_to": {
+            "after": null,
+            "before": "the-son-of-kong"
+          }
+        },
+        "release": {
+          "date": "1933-04-07",
+          "end_date": null,
+          "year": 1933,
+          "note": "US general release (NYC premiere 1933-03-02)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_(1933_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-son-of-kong",
+    "title": "The Son of Kong",
+    "sort_title": "Son of Kong",
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-1933",
+    "studio_brand": "rko",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Son of Kong",
+      "wikidata": "Q127632",
+      "tmdb": "43149",
+      "imdb": "tt0024593"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Son_of_Kong"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-son-of-kong",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 70,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "A month after King Kong",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"A month after the destruction in New York City by Kong\"; \"the sequel to King Kong\".",
+          "order_index": 20,
+          "relative_to": {
+            "after": "king-kong-1933",
+            "before": "kong-the-animated-series-s1"
+          }
+        },
+        "release": {
+          "date": "1933-12-22",
+          "end_date": null,
+          "year": 1933,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Son_of_Kong"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "king-kong-1933",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "kong-the-animated-series",
+    "title": "Kong: The Animated Series",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "kong-1933",
+    "studio_brand": "bkn",
+    "label": null,
+    "platform_or_network": "m6",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Kong: The Animated Series",
+      "wikidata": "Q2345280",
+      "tmdb": "12620",
+      "imdb": "tt0285377"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kong:_The_Animated_Series",
+      "https://en.wikipedia.org/wiki/King_Kong_(franchise)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "kong-the-animated-series-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 40,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Many years after 1933",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"a direct sequel to the 1933 film\"; \"When King Kong fell… in 1933… Many years later…\"",
+          "order_index": 30,
+          "relative_to": {
+            "after": "the-son-of-kong",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2000-09-09",
+          "end_date": "2001-03-26",
+          "year": 2000,
+          "note": "Disputed: the franchise page gives 2000-09-09 to 2001-03-26 on M6; the series article gives a 2001 French premiere."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_(franchise)",
+          "https://en.wikipedia.org/wiki/Kong:_The_Animated_Series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "king-kong-1933",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-1976",
+    "title": "King Kong",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-1976",
+    "studio_brand": "de-laurentiis",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong (1976 film)",
+      "wikidata": "Q1142862",
+      "tmdb": "10730",
+      "imdb": "tt0074751"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_(1976_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "king-kong-1976",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 134,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "First film",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No year stated.",
+          "order_index": 10,
+          "relative_to": {
+            "after": null,
+            "before": "king-kong-lives"
+          }
+        },
+        "release": {
+          "date": "1976-12-17",
+          "end_date": null,
+          "year": 1976,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_(1976_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "king-kong-1933",
+        "kind": "remake",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-lives",
+    "title": "King Kong Lives",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-1976",
+    "studio_brand": "de-laurentiis",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong Lives",
+      "wikidata": "Q127421",
+      "tmdb": "31947",
+      "imdb": "tt0091344"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_Lives"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "king-kong-lives",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 98,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Ten years later",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"a sequel to King Kong (1976) set ten years later\".",
+          "order_index": 20,
+          "relative_to": {
+            "after": "king-kong-1976",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "1986-12-19",
+          "end_date": null,
+          "year": 1986,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_Lives"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "king-kong-1976",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-king-kong-show",
+    "title": "The King Kong Show",
+    "sort_title": "King Kong Show",
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "kong-standalone",
+    "studio_brand": "rankin-bass",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The King Kong Show",
+      "wikidata": "Q1628294",
+      "tmdb": "15126",
+      "imdb": "tt0293728"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_King_Kong_Show"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-king-kong-show-s1",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No continuity stated.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1966-09-06",
+          "end_date": "1967-03-04",
+          "year": 1966,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_King_Kong_Show"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-escapes",
+    "title": "King Kong Escapes",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-standalone",
+    "studio_brand": "toho",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong Escapes",
+      "wikidata": "Q127430",
+      "tmdb": "39276",
+      "imdb": "tt0061868"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_Escapes"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "king-kong-escapes",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 104,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"loosely based on… The King Kong Show\"; no link to King Kong vs. Godzilla is stated (standalone is an inference).",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1967-07-22",
+          "end_date": null,
+          "year": 1967,
+          "note": "Japanese release; US 1968-06-19."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_Escapes"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-mighty-kong",
+    "title": "The Mighty Kong",
+    "sort_title": "Mighty Kong",
+    "type": "animated-film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-standalone",
+    "studio_brand": "lana-productions",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mighty Kong",
+      "wikidata": "Q7751365",
+      "tmdb": "291309",
+      "imdb": "tt0158780"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mighty_Kong"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-mighty-kong",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 78,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1933
+          },
+          "end": {
+            "y": 1933
+          },
+          "label": "1933",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"an adaptation of the classic King Kong story\"; category \"Films set in 1933\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-06-16",
+          "end_date": null,
+          "year": 1998,
+          "note": "VHS release (LA screening 1998-05-29)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mighty_Kong"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-2005",
+    "title": "King Kong",
+    "sort_title": null,
+    "type": "film",
+    "universe": "godzilla-kong",
+    "continuity": "kong-standalone",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong (2005 film)",
+      "wikidata": "Q160215",
+      "tmdb": "254",
+      "imdb": "tt0360717"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_(2005_film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "king-kong-2005",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 187,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1933
+          },
+          "end": {
+            "y": 1933
+          },
+          "label": "1933",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set in 1933, it follows…\"; \"the second remake of the 1933 film\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-12-14",
+          "end_date": null,
+          "year": 2005,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/King_Kong_(2005_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "king-kong-1933",
+        "kind": "remake",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "kong-king-of-the-apes",
+    "title": "Kong: King of the Apes",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "godzilla-kong",
+    "continuity": "kong-standalone",
+    "studio_brand": "arad-animation",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [
+      "kong"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Kong: King of the Apes",
+      "wikidata": "Q24278800",
+      "tmdb": "66248",
+      "imdb": "tt5462936"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kong:_King_of_the_Apes"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "kong-king-of-the-apes-s1",
+        "label": "Seasons 1–2",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2050
+          },
+          "end": {
+            "y": 2050
+          },
+          "label": "2050",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set in 2050, Kong becomes a wanted fugitive…\"",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-04-15",
+          "end_date": "2018-05-04",
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kong:_King_of_the_Apes"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  }
+]

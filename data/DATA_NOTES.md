@@ -317,3 +317,45 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
 
 - Wikipedia revision ids for pages fetched only by the research agents (season articles, film articles) are recorded in the research but not cached in `data/sources/`. Their quotes were spot-checked where the page is cached: the DCEU, DCU, Joker and The Penguin quotes all matched.
 - Gunn's October 2026 statements are very recent, and those pages may change. The weekly drift check will flag them.
+
+---
+
+## Godzilla & Kong (Stage 5)
+
+60 titles, 61 units, 11 continuities, built with the generic pipeline (`scripts/bootstrap/godzilla-kong.*`).
+
+- **Sources:** English Wikipedia, with revisions recorded in the research. Key pages are cached (Godzilla (franchise), Monsterverse, King Kong (franchise), and the main film articles). Wikidata supplies QIDs and runtimes. Wikizilla was not used.
+- **Spot-check:** nine quotes were checked against the cached pages, and all matched (two differ only by link markup).
+
+**Continuities**, each established by a quoted sentence:
+
+| Continuity | What it contains |
+|---|---|
+| Monsterverse | Legendary's films and series |
+| Toho Shōwa | "1954 … to 1975", plus *Zone Fighter*, which Toho places between *Megalon* and *Mechagodzilla* |
+| Toho Heisei | "a direct sequel to the original 1954 film and ignores the subsequent events of the Shōwa series" |
+| Kiryu duology | "the only films in the Millennium era to share continuity with each other" |
+| TriStar 1998 + *Godzilla: The Series* + *GMK* | GMK "shares a standalone continuity with the 1998 American film" |
+| Polygon anime trilogy | order only |
+| *Minus One* / *Minus Zero* | "A sequel to Godzilla Minus One" |
+| Standalone Godzilla titles | collection: Millennium anthology films, *Shin Godzilla* ("no ties to Legendary's MonsterVerse"), *Singular Point* ("no relation to Polygon's anime film trilogy"), the Hanna-Barbera series, *Godzilland*, *Godzilla Island*, *Chibi Godzilla* |
+| King Kong 1933 line | 1933, *Son of Kong*, *Kong: The Animated Series* |
+| King Kong 1976 line | 1976, *King Kong Lives* |
+| Standalone King Kong titles | collection: 2005, *King Kong Escapes*, *The King Kong Show*, *The Mighty Kong*, *Kong: King of the Apes* |
+
+- **Toho eras** are a grouping scheme (Shōwa / Heisei / Millennium / Reiwa), not continuities.
+- **Release dates:** Toho titles use the Japanese release, with the US date (often a re-edited or retitled cut) in the release note. Hollywood titles use the US release.
+- **In-universe years:**
+  - **Stated:** e.g. Kong: Skull Island 1973, Godzilla (2014), Monarch (2015 and 2017), Megalon 1971, Biollante 1990, King Ghidorah 1992, GMK 2002, Shin Godzilla 2016, Singular Point 2030, Minus One 1945–47, Minus Zero 1949.
+  - **Inferred:** where a year comes only from a "Films set in YYYY" category or from arithmetic.
+  - **Relative:** many Shōwa films, the Kong lines.
+  - **Disputed:** *Planet of the Monsters* ("20,000 years" vs a "2040s" category).
+  - *Destroy All Monsters* is set in 1999, so it is later in-universe than the Shōwa films released after it. Seed order follows release; the year label shows the jump.
+- **Not added:**
+  - The US re-edits (*Godzilla, King of the Monsters!*, *Gigantis*, *Godzilla 1985*) are noted on their originals rather than added as separate titles (D-19).
+  - Excluded: undated projects (the Lee Shaw spin-off, the Disney+ King Kong series), and titles without a Wikipedia article (*Godziban*, *Godziburst*, BKN's Kong direct-to-video sequels).
+  - *Godzilla x Kong: Supernova* (2027-03-26) is upcoming and not placed.
+- **Conflicts kept in notes:**
+  - US date of *Gigantis* (1959-05-21 vs 06-02);
+  - *Final Wars* US date;
+  - *Kong: The Animated Series* air dates (franchise page vs series article).

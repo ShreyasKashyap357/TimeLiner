@@ -113,5 +113,53 @@
     "data_dir": "dc",
     "description": "DC Universe (Gunn), DC Extended Universe, Arrowverse, Batman film continuities, DC live-action TV and DC animation.",
     "last_verified": "2026-11-26"
+  },
+  {
+    "id": "godzilla-kong",
+    "name": "Godzilla & Kong",
+    "short_name": "Godzilla & Kong",
+    "order": 3,
+    "enabled": true,
+    "accent": {
+      "primary": "#7CDB8A",
+      "secondary": "#3FA9F5"
+    },
+    "default_continuity": "monsterverse",
+    "grouping_schemes": [
+      {
+        "id": "era",
+        "label": "Toho era",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "showa",
+            "label": "Shōwa era (1954–1975)",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "heisei",
+            "label": "Heisei era (1984–1995)",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "millennium",
+            "label": "Millennium era (1999–2004)",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "reiwa",
+            "label": "Reiwa era (2016–)",
+            "order": 4,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "godzilla-kong",
+    "description": "Toho's Godzilla eras, Legendary's Monsterverse, TriStar's Godzilla and the King Kong films and series.",
+    "last_verified": "2026-11-26"
   }
 ]

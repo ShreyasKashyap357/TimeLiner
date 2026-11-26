@@ -1,0 +1,359 @@
+[
+  {
+    "id": "monsterverse",
+    "universe": "godzilla-kong",
+    "name": "Monsterverse (Legendary)",
+    "short_name": "Monsterverse",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Legendary's shared universe: \"five films and two television series\" (plus announced titles).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Monsterverse"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "toho-showa",
+    "universe": "godzilla-kong",
+    "name": "Toho Shōwa series",
+    "short_name": "Shōwa",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "\"This Shōwa timeline spanned from 1954, with Godzilla, to 1975, with Terror of Mechagodzilla.\" Zone Fighter is placed inside it by Toho.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)",
+      "https://en.wikipedia.org/wiki/Zone_Fighter"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "toho-heisei",
+    "universe": "godzilla-kong",
+    "name": "Toho Heisei series",
+    "short_name": "Heisei",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "\"The Return of Godzilla serves as a direct sequel to the original 1954 film and ignores the subsequent events of the Shōwa series.\" \"The Heisei films are set in a single, continuous timeline\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "kiryu-duology",
+    "universe": "godzilla-kong",
+    "name": "Kiryu duology (Millennium)",
+    "short_name": "Kiryu",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "\"…the only films in the Millennium era to share continuity with each other\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tristar-gmk",
+    "universe": "godzilla-kong",
+    "name": "TriStar Godzilla & GMK",
+    "short_name": "TriStar/GMK",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "Godzilla (1998) and its sequel series; GMK \"shares a standalone continuity with the 1998 American film\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(1998_film)",
+      "https://en.wikipedia.org/wiki/Godzilla,_Mothra_and_King_Ghidorah:_Giant_Monsters_All-Out_Attack"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "godzilla-anime-trilogy",
+    "universe": "godzilla-kong",
+    "name": "Godzilla anime trilogy (Polygon)",
+    "short_name": "Anime trilogy",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "\"Godzilla: The Planet Eater concludes the narrative of the anime trilogy\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla:_The_Planet_Eater"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "godzilla-minus",
+    "universe": "godzilla-kong",
+    "name": "Godzilla Minus One / Minus Zero",
+    "short_name": "Minus",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "Godzilla Minus Zero is \"A sequel to Godzilla Minus One (2023)\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "godzilla-standalone",
+    "universe": "godzilla-kong",
+    "name": "Standalone Godzilla titles",
+    "short_name": "Standalone",
+    "order": 8,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "Each title is its own continuity (Millennium anthology films, Shin Godzilla, Singular Point, TV series).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "kong-1933",
+    "universe": "godzilla-kong",
+    "name": "King Kong (1933) line",
+    "short_name": "Kong 1933",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "King Kong (1933), The Son of Kong (\"the sequel to King Kong\") and Kong: The Animated Series (\"a direct sequel to the 1933 film\").",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_(franchise)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "kong-1976",
+    "universe": "godzilla-kong",
+    "name": "King Kong (1976) line",
+    "short_name": "Kong 1976",
+    "order": 10,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "King Kong (1976) and King Kong Lives (\"a sequel to King Kong (1976) set ten years later\").",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_Lives"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "kong-standalone",
+    "universe": "godzilla-kong",
+    "name": "Standalone King Kong titles",
+    "short_name": "Kong standalone",
+    "order": 11,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Each title is its own continuity.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_(franchise)"
+    ],
+    "notes": ""
+  }
+]

@@ -1,6 +1,7 @@
 // Layout + leak audit (user requests: every aspect ratio / mobile friendly, nothing cut short without a way
 // to read it, no internal text leaking into the UI – D-7). Runs every view at four viewport shapes.
 import { test, expect, type Page } from '@playwright/test';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 
 const VIEWPORTS = [
   { name: 'phone', width: 360, height: 740 },
@@ -17,8 +18,27 @@ const LEAKS: [string, RegExp][] = [
   ['[object Object]', /\[object Object\]/],
   ['NaN', /\bNaN\b/],
   ['episode constituent key', /\b[a-z0-9-]+#e\d+\b/],
-  ['raw unit/title id', /(?<![\w/.-])[a-z0-9]+(?:-[a-z0-9]+){2,}(?![\w/.-])/],
+  ['internal decision code', /\b[DR]-\d+\b/],
 ];
+
+/** Every hyphenated title/unit id in the dataset. A leak is one of these appearing as a bare word in the UI
+ *  (matching real ids, not a pattern, so ordinary words like "direct-to-video" are fine). */
+const IDS = new Set<string>();
+for (const dir of readdirSync('data')) {
+  const f = `data/${dir}/titles.json`;
+  if (!existsSync(f)) continue;
+  for (const t of JSON.parse(readFileSync(f, 'utf8')) as { id: string; units: { id: string }[] }[]) {
+    for (const id of [t.id, ...t.units.map((u) => u.id)]) if (id.includes('-')) IDS.add(id);
+  }
+}
+function leakedId(text: string): string | null {
+  for (const m of text.matchAll(/[a-z0-9]+(?:-[a-z0-9]+)+/g)) {
+    const before = text[m.index - 1] ?? ' ';
+    const after = text[m.index + m[0].length] ?? ' ';
+    if (IDS.has(m[0]) && !/[\w/.-]/.test(before) && !/[\w/.-]/.test(after)) return m[0];
+  }
+  return null;
+}
 
 async function audit(page: Page) {
   return page.evaluate(() => {
@@ -54,6 +74,8 @@ for (const vp of VIEWPORTS) {
           if (r.overflowX > 1) problems.push(`${v}: page scrolls horizontally by ${r.overflowX}px`);
           for (const c of r.clipped) problems.push(`${v}: clipped without tooltip: ${c}`);
           for (const [name, re] of LEAKS) { const m = re.exec(r.text); if (m) problems.push(`${v}: leaked ${name}: "${m[0]}"`); }
+          const id = leakedId(r.text);
+          if (id) problems.push(`${v}: leaked raw id: "${id}"`);
           if (SHOTS) await page.screenshot({ path: `${SHOTS}/${vp.name}-${u}-${v}.png`, fullPage: false });
         }
         expect(problems, problems.join('\n')).toEqual([]);

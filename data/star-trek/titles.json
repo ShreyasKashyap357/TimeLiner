@@ -1,0 +1,3977 @@
+[
+  {
+    "id": "enterprise",
+    "title": "Star Trek: Enterprise",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-television",
+    "label": null,
+    "platform_or_network": "upn",
+    "canon_tier": "core",
+    "characters": [
+      "archer"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Enterprise",
+      "wikidata": "Q380519",
+      "tmdb": "314",
+      "imdb": "tt0244365"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_1",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_2",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_3",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_4"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "enterprise-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2151
+          },
+          "end": {
+            "y": 2152
+          },
+          "label": "2151–2152",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Season 1: in-universe episode dates run 2151-04-16 to 2152-02-18; Timeline \"2151–2152\".",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-09-26",
+          "end_date": "2002-05-22",
+          "year": 2001,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_1",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "enterprise-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2152
+          },
+          "end": {
+            "y": 2153
+          },
+          "label": "2152–2153",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Episode dates 2152-04-12 to 2153-04-24; Timeline \"2152–2153\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-09-18",
+          "end_date": "2003-05-21",
+          "year": 2002,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_2",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "enterprise-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2153
+          },
+          "end": {
+            "y": 2154
+          },
+          "label": "2153–2154",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Episode dates 2153-12-06 to 2154-02-14; Timeline \"2153–2154\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-10",
+          "end_date": "2004-05-26",
+          "year": 2003,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_3",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "enterprise-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2154
+          },
+          "end": {
+            "y": 2155
+          },
+          "label": "2154–2155",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Episode dates 2154-05-17 to 2155-01-22. The finale \"takes place in 2370\" (a holodeck story about 2161).",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-10-08",
+          "end_date": "2005-05-13",
+          "year": 2004,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_4",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "discovery",
+    "title": "Star Trek: Discovery",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "cbs-all-access",
+    "canon_tier": "core",
+    "characters": [
+      "burnham",
+      "pike",
+      "spock",
+      "georgiou"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Discovery",
+      "wikidata": "Q21296543",
+      "tmdb": "67198",
+      "imdb": "tt5171438"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_1",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_2",
+      "https://memory-alpha.fandom.com/wiki/Brother_(episode)",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_3",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_4",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "discovery-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 15,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2256
+          },
+          "end": {
+            "y": 2257
+          },
+          "label": "2256–2257",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"set a decade before Star Trek: The Original Series\"; Timeline \"2256–2257\".",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-09-24",
+          "end_date": "2018-02-11",
+          "year": 2017,
+          "note": "Premiered on CBS, then moved to CBS All Access."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_1",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "discovery-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 14,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2257
+          },
+          "end": {
+            "y": 2258
+          },
+          "label": "2257–2258 (or 2258–2259)",
+          "precision": "range",
+          "confidence": "disputed",
+          "note": "Timeline of Star Trek contradicts itself: its list says \"2257-2258 The events of Discovery season 2\", its table \"2258–2259\". Memory Alpha dates the season 2257–2258.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-01-17",
+          "end_date": "2019-04-18",
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_2",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://memory-alpha.fandom.com/wiki/Brother_(episode)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "discovery-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3188
+          },
+          "end": {
+            "y": 3189
+          },
+          "label": "3188–3189",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Burnham \"arrives in the year 3188\"; Timeline \"3188-89\".",
+          "order_index": 580,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-10-15",
+          "end_date": "2021-01-07",
+          "year": 2020,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": "cbs-all-access",
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_3",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "discovery-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3190
+          },
+          "end": {
+            "y": 3190
+          },
+          "label": "3190",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The season article only says \"in the 32nd century\"; Timeline 3190; Memory Alpha \"Kobayashi Maru\" 3190.",
+          "order_index": 590,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-11-18",
+          "end_date": "2022-03-17",
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": "paramount-plus",
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_4",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "discovery-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3191
+          },
+          "end": {
+            "y": 3191
+          },
+          "label": "3191",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Timeline 3191 (epilogue c. 3225).",
+          "order_index": 600,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-04-04",
+          "end_date": "2024-05-30",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": "paramount-plus",
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_5",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "strange-new-worlds",
+    "title": "Star Trek: Strange New Worlds",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [
+      "pike",
+      "spock",
+      "uhura"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Strange New Worlds",
+      "wikidata": "Q94527193",
+      "tmdb": "103516",
+      "imdb": "tt12327578"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_1",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_2",
+      "https://memory-alpha.fandom.com/wiki/Hegemony_(episode)",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_4",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_5"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "strange-new-worlds-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2259
+          },
+          "end": {
+            "y": 2259
+          },
+          "label": "2259",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"during the decade before Star Trek: The Original Series\"; Timeline \"2259\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-05-05",
+          "end_date": "2022-07-07",
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_1",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "strange-new-worlds-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2259
+          },
+          "end": {
+            "y": 2261
+          },
+          "label": "2259 (finale 2261)",
+          "precision": "range",
+          "confidence": "disputed",
+          "note": "Timeline \"2259\"; Memory Alpha dates the finale \"Hegemony\" to 2261.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-06-15",
+          "end_date": "2023-08-10",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_2",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://memory-alpha.fandom.com/wiki/Hegemony_(episode)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "strange-new-worlds-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2261
+          },
+          "end": {
+            "y": 2261
+          },
+          "label": "2261",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Timeline \"2261\".",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-07-17",
+          "end_date": "2025-09-11",
+          "year": 2025,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_3",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "strange-new-worlds-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2262
+          },
+          "end": {
+            "y": 2262
+          },
+          "label": "2262",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Timeline \"2262\"; Memory Alpha dates the finale to 2262–2263.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-07-23",
+          "end_date": "2026-09-24",
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_4",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "strange-new-worlds-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "\"in the 23rd century\"; final season, in post-production.",
+          "order_index": 620,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "TBA."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_5"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-original-series",
+    "title": "Star Trek: The Original Series",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "desilu-paramount-tv",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy",
+      "uhura"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: The Original Series",
+      "wikidata": "Q1077",
+      "tmdb": "253",
+      "imdb": "tt0060028"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_1",
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_2",
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_3"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-original-series-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 29,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2266
+          },
+          "end": {
+            "y": 2267
+          },
+          "label": "2266–2267",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Series \"set … c. 2266–2269\"; Timeline \"2266–2267\" (\"Where No Man Has Gone Before\" is 2265).",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1966-09-08",
+          "end_date": "1967-04-13",
+          "year": 1966,
+          "note": "The series infobox says 1966-09-06; the season article and the series list say 1966-09-08."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_1",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-original-series-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2267
+          },
+          "end": {
+            "y": 2268
+          },
+          "label": "2267–2268",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Timeline \"2267–2268\".",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1967-09-15",
+          "end_date": "1968-03-29",
+          "year": 1967,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_2",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-original-series-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2268
+          },
+          "end": {
+            "y": 2269
+          },
+          "label": "2268–2269",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Timeline \"2268–2269\".",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1968-09-20",
+          "end_date": "1969-06-03",
+          "year": 1968,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_3",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-animated-series",
+    "title": "Star Trek: The Animated Series",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "filmation",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy",
+      "uhura"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: The Animated Series",
+      "wikidata": "Q20922",
+      "tmdb": "1992",
+      "imdb": "tt0069637"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-animated-series-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2269
+          },
+          "end": {
+            "y": 2270
+          },
+          "label": "2269–2270",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"Voyages of the Imagination dates the events of the series to 2269–2270\"; the Okuda Chronology leaves TAS out.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1973-09-08",
+          "end_date": "1974-01-12",
+          "year": 1973,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-animated-series-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2270
+          },
+          "end": {
+            "y": 2270
+          },
+          "label": "2270",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Timeline \"2270\".",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1974-09-07",
+          "end_date": "1974-10-12",
+          "year": 1974,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-motion-picture",
+    "title": "Star Trek: The Motion Picture",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: The Motion Picture",
+      "wikidata": "Q107940",
+      "tmdb": "152",
+      "imdb": "tt0079945"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-motion-picture",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 132,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2271
+          },
+          "end": {
+            "y": 2271
+          },
+          "label": "2270s (2271 or 2273)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "\"set in the 2270s\". Timeline of Star Trek: the Okuda Chronology says it takes place in 2271; Ayers says 2273 (its table uses 2273).",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1979-12-07",
+          "end_date": null,
+          "year": 1979,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-wrath-of-khan",
+    "title": "Star Trek II: The Wrath of Khan",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek II: The Wrath of Khan",
+      "wikidata": "Q465478",
+      "tmdb": "154",
+      "imdb": "tt0084726"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-wrath-of-khan",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 113,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2285
+          },
+          "end": {
+            "y": 2285
+          },
+          "label": "2285",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2285, Admiral James T. Kirk…\".",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1982-06-04",
+          "end_date": null,
+          "year": 1982,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-search-for-spock",
+    "title": "Star Trek III: The Search for Spock",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek III: The Search for Spock",
+      "wikidata": "Q221305",
+      "tmdb": "157",
+      "imdb": "tt0088170"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-search-for-spock",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 105,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2285
+          },
+          "end": {
+            "y": 2285
+          },
+          "label": "2285",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Okuda: \"Wrath of Khan and Search for Spock take place in 2285\".",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-06-01",
+          "end_date": null,
+          "year": 1984,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-voyage-home",
+    "title": "Star Trek IV: The Voyage Home",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek IV: The Voyage Home",
+      "wikidata": "Q471842",
+      "tmdb": "168",
+      "imdb": "tt0092007"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-voyage-home",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 119,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2286
+          },
+          "end": {
+            "y": 2286
+          },
+          "label": "2286 (and 1986 Earth)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2286, an enormous cylindrical probe…\".",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1986-11-26",
+          "end_date": null,
+          "year": 1986,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-final-frontier",
+    "title": "Star Trek V: The Final Frontier",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek V: The Final Frontier",
+      "wikidata": "Q241218",
+      "tmdb": "172",
+      "imdb": "tt0098382"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-final-frontier",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2287
+          },
+          "end": {
+            "y": 2287
+          },
+          "label": "2287",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Okuda: \"take place in 2287\".",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-06-09",
+          "end_date": null,
+          "year": 1989,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-undiscovered-country",
+    "title": "Star Trek VI: The Undiscovered Country",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek VI: The Undiscovered Country",
+      "wikidata": "Q579757",
+      "tmdb": "174",
+      "imdb": "tt0102975"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-undiscovered-country",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 113,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2293
+          },
+          "end": {
+            "y": 2293
+          },
+          "label": "2293",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2293, the Federation starship Excelsior…\".",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-12-06",
+          "end_date": null,
+          "year": 1991,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "section-31",
+    "title": "Star Trek: Section 31",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [
+      "georgiou"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Section 31",
+      "wikidata": "Q106948764",
+      "tmdb": "1114894",
+      "imdb": "tt9603060"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Section_31",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://memory-alpha.fandom.com/wiki/Star_Trek:_Section_31"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "section-31",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 96,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2324
+          },
+          "end": {
+            "y": 2324
+          },
+          "label": "Early 24th century (2324)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "\"In the Prime Universe in the early 24th century…\". Timeline of Star Trek: its table says \"2324, stardate 1292.4\", its list says 2257; Memory Alpha: \"the movie is set in 2324\".",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-01-24",
+          "end_date": null,
+          "year": 2025,
+          "note": "Streaming film."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Section_31",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://memory-alpha.fandom.com/wiki/Star_Trek:_Section_31"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-next-generation",
+    "title": "Star Trek: The Next Generation",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-television",
+    "label": null,
+    "platform_or_network": "first-run-syndication",
+    "canon_tier": "core",
+    "characters": [
+      "picard",
+      "data",
+      "worf"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: The Next Generation",
+      "wikidata": "Q16290",
+      "tmdb": "655",
+      "imdb": "tt0092455"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-next-generation-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2364
+          },
+          "end": {
+            "y": 2364
+          },
+          "label": "2364",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2364 for season 1 (Okuda: the stardate's first digits are the season).",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1987-09-28",
+          "end_date": "1988-05-16",
+          "year": 1987,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_1",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-next-generation-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2365
+          },
+          "end": {
+            "y": 2365
+          },
+          "label": "2365",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2365 for season 2 (Okuda: the stardate's first digits are the season).",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1988-11-21",
+          "end_date": "1989-07-17",
+          "year": 1988,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_2",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-next-generation-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2366
+          },
+          "end": {
+            "y": 2366
+          },
+          "label": "2366",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2366 for season 3 (Okuda: the stardate's first digits are the season).",
+          "order_index": 250,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-09-25",
+          "end_date": "1990-06-18",
+          "year": 1989,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_3",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-next-generation-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2367
+          },
+          "end": {
+            "y": 2367
+          },
+          "label": "2367",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2367 for season 4 (Okuda: the stardate's first digits are the season).",
+          "order_index": 260,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-09-24",
+          "end_date": "1991-06-17",
+          "year": 1990,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_4",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-next-generation-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2368
+          },
+          "end": {
+            "y": 2368
+          },
+          "label": "2368",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2368 for season 5 (Okuda: the stardate's first digits are the season).",
+          "order_index": 270,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-09-23",
+          "end_date": "1992-06-15",
+          "year": 1991,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_5",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-next-generation-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2369
+          },
+          "end": {
+            "y": 2369
+          },
+          "label": "2369",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2369 for season 6 (Okuda: the stardate's first digits are the season).",
+          "order_index": 280,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-09-21",
+          "end_date": "1993-06-21",
+          "year": 1992,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_6",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-next-generation-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2370
+          },
+          "end": {
+            "y": 2370
+          },
+          "label": "2370",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2364–2370)\"; Timeline gives 2370 for season 7 (Okuda: the stardate's first digits are the season).",
+          "order_index": 300,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-09-20",
+          "end_date": "1994-05-23",
+          "year": 1993,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_7",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "deep-space-nine",
+    "title": "Star Trek: Deep Space Nine",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-television",
+    "label": null,
+    "platform_or_network": "first-run-syndication",
+    "canon_tier": "core",
+    "characters": [
+      "sisko",
+      "worf"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Deep Space Nine",
+      "wikidata": "Q108774",
+      "tmdb": "580",
+      "imdb": "tt0106145"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "deep-space-nine-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2369
+          },
+          "end": {
+            "y": 2369
+          },
+          "label": "2369",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2369 for season 1.",
+          "order_index": 290,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-01-03",
+          "end_date": "1993-06-21",
+          "year": 1993,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "deep-space-nine-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2370
+          },
+          "end": {
+            "y": 2370
+          },
+          "label": "2370",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2370 for season 2.",
+          "order_index": 310,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-09-27",
+          "end_date": "1994-06-13",
+          "year": 1993,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "deep-space-nine-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2371
+          },
+          "end": {
+            "y": 2371
+          },
+          "label": "2371",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2371 for season 3.",
+          "order_index": 320,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-09-26",
+          "end_date": "1995-06-19",
+          "year": 1994,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "deep-space-nine-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2372
+          },
+          "end": {
+            "y": 2372
+          },
+          "label": "2372",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2372 for season 4.",
+          "order_index": 360,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-10-02",
+          "end_date": "1996-06-17",
+          "year": 1995,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "deep-space-nine-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2373
+          },
+          "end": {
+            "y": 2373
+          },
+          "label": "2373",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2373 for season 5.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-09-30",
+          "end_date": "1997-06-16",
+          "year": 1996,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "deep-space-nine-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2374
+          },
+          "end": {
+            "y": 2374
+          },
+          "label": "2374",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2374 for season 6.",
+          "order_index": 410,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-09-29",
+          "end_date": "1998-06-15",
+          "year": 1997,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "deep-space-nine-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2375
+          },
+          "end": {
+            "y": 2375
+          },
+          "label": "2375",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2369–2375)\"; Timeline gives 2375 for season 7.",
+          "order_index": 420,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-09-28",
+          "end_date": "1999-05-31",
+          "year": 1998,
+          "note": "Last episode: the series list says 1999-05-31; the infobox and prose say 1999-06-02."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "generations",
+    "title": "Star Trek Generations",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "picard",
+      "data",
+      "worf",
+      "kirk"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek Generations",
+      "wikidata": "Q723679",
+      "tmdb": "193",
+      "imdb": "tt0111280"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_Generations"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "generations",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 118,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2371
+          },
+          "end": {
+            "y": 2371
+          },
+          "label": "2371 (prologue 2293)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2293, retired Starfleet officers…\"; \"In 2371, the crew of the USS Enterprise-D…\".",
+          "order_index": 330,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-11-18",
+          "end_date": null,
+          "year": 1994,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_Generations"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "voyager",
+    "title": "Star Trek: Voyager",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-television",
+    "label": null,
+    "platform_or_network": "upn",
+    "canon_tier": "core",
+    "characters": [
+      "janeway",
+      "seven-of-nine"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Voyager",
+      "wikidata": "Q156329",
+      "tmdb": "1855",
+      "imdb": "tt0112178"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "voyager-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2371
+          },
+          "end": {
+            "y": 2371
+          },
+          "label": "2371",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2371 for season 1.",
+          "order_index": 340,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-01-16",
+          "end_date": "1995-05-22",
+          "year": 1995,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "voyager-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2372
+          },
+          "end": {
+            "y": 2372
+          },
+          "label": "2372",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2372 for season 2.",
+          "order_index": 350,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-08-28",
+          "end_date": "1996-05-20",
+          "year": 1995,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "voyager-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2373
+          },
+          "end": {
+            "y": 2373
+          },
+          "label": "2373",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2373 for season 3.",
+          "order_index": 370,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-09-04",
+          "end_date": "1997-05-21",
+          "year": 1996,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "voyager-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2374
+          },
+          "end": {
+            "y": 2374
+          },
+          "label": "2374",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2374 for season 4.",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-09-03",
+          "end_date": "1998-05-20",
+          "year": 1997,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager_season_4",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "voyager-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2375
+          },
+          "end": {
+            "y": 2375
+          },
+          "label": "2375",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2375 for season 5.",
+          "order_index": 430,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-10-14",
+          "end_date": "1999-05-26",
+          "year": 1998,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "voyager-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2376
+          },
+          "end": {
+            "y": 2376
+          },
+          "label": "2376",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2376 for season 6.",
+          "order_index": 450,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-09-22",
+          "end_date": "2000-05-24",
+          "year": 1999,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "voyager-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2377
+          },
+          "end": {
+            "y": 2378
+          },
+          "label": "2377–2378",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"(2371–2378)\"; Timeline gives 2377–2378 for season 7.",
+          "order_index": 460,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-10-04",
+          "end_date": "2001-05-23",
+          "year": 2000,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "first-contact",
+    "title": "Star Trek: First Contact",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "picard",
+      "data",
+      "worf"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: First Contact",
+      "wikidata": "Q221236",
+      "tmdb": "199",
+      "imdb": "tt0117731"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_First_Contact",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "first-contact",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 111,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2373
+          },
+          "end": {
+            "y": 2373
+          },
+          "label": "2373",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"travel back in time from the 24th century to the 21st century\"; Timeline rows 2373 and 2063.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-11-22",
+          "end_date": null,
+          "year": 1996,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_First_Contact",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "insurrection",
+    "title": "Star Trek: Insurrection",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "picard",
+      "data",
+      "worf"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Insurrection",
+      "wikidata": "Q673198",
+      "tmdb": "200",
+      "imdb": "tt0120844"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Insurrection",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "insurrection",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 103,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2375
+          },
+          "end": {
+            "y": 2375
+          },
+          "label": "2375",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Timeline row 2375; the film article gives no year.",
+          "order_index": 440,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-12-11",
+          "end_date": null,
+          "year": 1998,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Insurrection",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "nemesis",
+    "title": "Star Trek: Nemesis",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "picard",
+      "data",
+      "worf"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Nemesis",
+      "wikidata": "Q388319",
+      "tmdb": "201",
+      "imdb": "tt0253754"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Nemesis",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "Los Angeles premiere 2002-12-09.",
+    "units": [
+      {
+        "id": "nemesis",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 116,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2379
+          },
+          "end": {
+            "y": 2379
+          },
+          "label": "2379",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"2379 The events of Star Trek: Nemesis\".",
+          "order_index": 470,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-12-13",
+          "end_date": null,
+          "year": 2002,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Nemesis",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lower-decks",
+    "title": "Star Trek: Lower Decks",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Lower Decks",
+      "wikidata": "Q62573569",
+      "tmdb": "85948",
+      "imdb": "tt9184820"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_1",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_2",
+      "https://memory-alpha.fandom.com/wiki/Strange_Energies_(episode)",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_3",
+      "https://memory-alpha.fandom.com/wiki/Grounded_(episode)",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_4",
+      "https://memory-alpha.fandom.com/wiki/Twovix_(episode)",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_5",
+      "https://memory-alpha.fandom.com/wiki/Dos_Cerritos_(episode)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lower-decks-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2380
+          },
+          "end": {
+            "y": 2380
+          },
+          "label": "2380",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"The series is set in 2380, one year after the film Star Trek: Nemesis\".",
+          "order_index": 480,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-08-06",
+          "end_date": "2020-10-08",
+          "year": 2020,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": "cbs-all-access",
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_1"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lower-decks-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2381
+          },
+          "end": {
+            "y": 2381
+          },
+          "label": "2381",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Memory Alpha: \"Strange Energies\" and \"First First Contact\" are dated 2381.",
+          "order_index": 490,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-08-12",
+          "end_date": "2021-10-14",
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_2",
+          "https://memory-alpha.fandom.com/wiki/Strange_Energies_(episode)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lower-decks-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2381
+          },
+          "end": {
+            "y": 2381
+          },
+          "label": "2381",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Memory Alpha: \"Grounded\" and \"The Stars at Night\" are dated 2381.",
+          "order_index": 500,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-08-25",
+          "end_date": "2022-10-27",
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_3",
+          "https://memory-alpha.fandom.com/wiki/Grounded_(episode)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lower-decks-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2381
+          },
+          "end": {
+            "y": 2381
+          },
+          "label": "2381",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Memory Alpha: \"Twovix\" and \"Old Friends, New Planets\" are dated 2381.",
+          "order_index": 510,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-09-07",
+          "end_date": "2023-11-02",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_4",
+          "https://memory-alpha.fandom.com/wiki/Twovix_(episode)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lower-decks-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2381
+          },
+          "end": {
+            "y": 2382
+          },
+          "label": "2381–2382",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Memory Alpha: weak: the sidebar dates are blank; one log says \"2382\"; the Timeline series span ends in 2382.",
+          "order_index": 520,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-10-24",
+          "end_date": "2024-12-19",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks_season_5",
+          "https://memory-alpha.fandom.com/wiki/Dos_Cerritos_(episode)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "prodigy",
+    "title": "Star Trek: Prodigy",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [
+      "janeway"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Prodigy",
+      "wikidata": "Q65250765",
+      "tmdb": "106393",
+      "imdb": "tt9795876"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy",
+      "https://memory-alpha.fandom.com/wiki/Supernova,_Part_2_(episode)",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_2",
+      "https://memory-alpha.fandom.com/wiki/Ouroboros,_Part_II_(episode)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "prodigy-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2383
+          },
+          "end": {
+            "y": 2384
+          },
+          "label": "2383–2384",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"In 2383, five years after the USS Voyager returned…\"; Memory Alpha dates the finale to 2384.",
+          "order_index": 530,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-10-28",
+          "end_date": "2022-12-29",
+          "year": 2021,
+          "note": "Also on Nickelodeon from 2021-12-17; removed in June 2023 and added to Netflix on 2023-12-25."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_1",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy",
+          "https://memory-alpha.fandom.com/wiki/Supernova,_Part_2_(episode)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "prodigy-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2384
+          },
+          "end": {
+            "y": 2385
+          },
+          "label": "2384–2385",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Memory Alpha: \"Into the Breach, Part I\" is 2384; \"Ouroboros, Part II\" is \"April 5, 2385\".",
+          "order_index": 540,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-07-01",
+          "end_date": null,
+          "year": 2024,
+          "note": "All episodes at once on Netflix."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": "netflix",
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_2",
+          "https://memory-alpha.fandom.com/wiki/Ouroboros,_Part_II_(episode)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "short-treks",
+    "title": "Star Trek: Short Treks",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "cbs-all-access",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Short Treks",
+      "wikidata": "Q56816581",
+      "tmdb": "82491",
+      "imdb": "tt9059594"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "short-treks-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 4,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Various eras (2238 – 43rd century)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Anthology: \"The Brightest Star\" 2238 and \"Calypso\" in \"the 43rd century or later\" (Timeline); \"Runaway\" 2257 and \"The Escape Artist\" 2250s (Memory Alpha).",
+          "order_index": 630,
+          "relative_to": {
+            "after": "starfleet-academy-s1",
+            "before": "short-treks-s2"
+          }
+        },
+        "release": {
+          "date": "2018-10-04",
+          "end_date": "2019-01-03",
+          "year": 2018,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "short-treks-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Various eras (2232 – 2385)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Anthology: \"The Girl Who Made the Stars\" 2232, \"Q&A\" 2254, \"Children of Mars\" 2385 (Timeline); others 2250s–2280s (Memory Alpha).",
+          "order_index": 640,
+          "relative_to": {
+            "after": "short-treks-s1",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2019-10-05",
+          "end_date": "2020-01-09",
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "picard",
+    "title": "Star Trek: Picard",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [
+      "picard",
+      "data",
+      "worf",
+      "seven-of-nine"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Picard",
+      "wikidata": "Q62573305",
+      "tmdb": "85949",
+      "imdb": "tt8806524"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Picard",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_1",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_2",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_3"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "picard-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2399
+          },
+          "end": {
+            "y": 2399
+          },
+          "label": "2399",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"The series begins in 2399, 20 years after…\".",
+          "order_index": 550,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-01-23",
+          "end_date": "2020-03-26",
+          "year": 2020,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": "cbs-all-access",
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_1",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Picard"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "picard-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2401
+          },
+          "end": {
+            "y": 2401
+          },
+          "label": "2401 (and 2024 Los Angeles)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Season article: \"Jean-Luc Picard in the year 2401\", travelling \"back to 2024 Los Angeles\"; the Timeline table says 2400.",
+          "order_index": 560,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-03-03",
+          "end_date": "2022-05-05",
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_2",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "picard-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2401
+          },
+          "end": {
+            "y": 2402
+          },
+          "label": "2401 (epilogue 2402)",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"in the year 2401\"; Timeline \"2401-2402\".",
+          "order_index": 570,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-02-16",
+          "end_date": "2023-04-20",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_3",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "starfleet-academy",
+    "title": "Star Trek: Starfleet Academy",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [
+      "burnham"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Starfleet Academy",
+      "wikidata": "Q117350388",
+      "tmdb": "223530",
+      "imdb": "tt8622160"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "starfleet-academy-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3195
+          },
+          "end": {
+            "y": 3195
+          },
+          "label": "3195",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set in the 32nd century…\"; Timeline \"3195 … Starfleet Academy season 1\". Memory Alpha: \"3190s\".",
+          "order_index": 610,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-01-15",
+          "end_date": "2026-03-12",
+          "year": 2026,
+          "note": "The series overview says 2026-01-15; the list prose says 2026-01-16."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "starfleet-academy-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "32nd century.",
+          "order_index": 650,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027-03",
+          "end_date": null,
+          "year": 2027,
+          "note": "Dated to March 2027 only (Deadline, 2026-10-10)."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Star_Trek_television_series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-2009",
+    "title": "Star Trek (2009)",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-kelvin",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy",
+      "uhura"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek (2009 film)",
+      "wikidata": "Q213081",
+      "tmdb": "13475",
+      "imdb": "tt0796366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_(2009_film)",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": "Sydney premiere 2009-04-07.",
+    "units": [
+      {
+        "id": "star-trek-2009",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 127,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2258
+          },
+          "end": {
+            "y": 2258
+          },
+          "label": "2258 (prologue 2233)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2233…\"; Timeline: \"2258 (alternate timeline) The events of Star Trek take place\" (its table says 2258–2259).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-05-08",
+          "end_date": null,
+          "year": 2009,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_(2009_film)",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-into-darkness",
+    "title": "Star Trek Into Darkness",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-kelvin",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy",
+      "uhura"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek Into Darkness",
+      "wikidata": "Q171711",
+      "tmdb": "54138",
+      "imdb": "tt1408101"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_Into_Darkness"
+    ],
+    "notes": "The list of films gives 2013-05-17; the infobox gives 2013-05-15 (US).",
+    "units": [
+      {
+        "id": "star-trek-into-darkness",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 132,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2259
+          },
+          "end": {
+            "y": 2259
+          },
+          "label": "2259",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"In 2259, Captain James T. Kirk is removed from command…\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-05-17",
+          "end_date": null,
+          "year": 2013,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_Into_Darkness"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-trek-2009",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-beyond",
+    "title": "Star Trek Beyond",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-trek",
+    "continuity": "st-kelvin",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "kirk",
+      "spock",
+      "mccoy",
+      "uhura"
+    ],
+    "franchises": [
+      "starfleet"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek Beyond",
+      "wikidata": "Q15929448",
+      "tmdb": "188927",
+      "imdb": "tt2660888"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek_Beyond",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://memory-alpha.fandom.com/wiki/Star_Trek_Beyond"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-trek-beyond",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 122,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2263
+          },
+          "end": {
+            "y": 2263
+          },
+          "label": "2263",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Timeline \"2263 Star Trek Beyond\"; on screen: \"stardate 2263.2. Today is our 966th day in deep space\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-07-22",
+          "end_date": null,
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek_Beyond",
+          "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+          "https://memory-alpha.fandom.com/wiki/Star_Trek_Beyond"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-trek-into-darkness",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "very-short-treks",
+    "title": "Star Trek: Very Short Treks",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-trek",
+    "continuity": "st-other",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "youtube",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Very Short Treks",
+      "wikidata": "Q122241007",
+      "tmdb": "249278",
+      "imdb": "tt29064560"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "very-short-treks",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Non-canon",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"five non-canon shorts\".",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-09-08",
+          "end_date": "2023-10-04",
+          "year": 2023,
+          "note": "5 shorts on StarTrek.com and YouTube."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  }
+]

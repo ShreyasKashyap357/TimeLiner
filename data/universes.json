@@ -384,5 +384,21 @@
     "data_dir": "star-wars",
     "description": "Star Wars films and series: Lucasfilm canon, Legends, and the non-canon Visions and LEGO productions.",
     "last_verified": "2026-11-26"
+  },
+  {
+    "id": "star-trek",
+    "name": "Star Trek",
+    "short_name": "Star Trek",
+    "order": 7,
+    "enabled": true,
+    "accent": {
+      "primary": "#F2C14E",
+      "secondary": "#4C8DDB"
+    },
+    "default_continuity": "st-prime",
+    "grouping_schemes": [],
+    "data_dir": "star-trek",
+    "description": "Star Trek films and series: the Prime timeline, the Kelvin timeline films, and non-canon shorts.",
+    "last_verified": "2026-11-27"
   }
 ]

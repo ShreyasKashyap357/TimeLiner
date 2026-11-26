@@ -580,5 +580,563 @@
       "https://en.wikipedia.org/wiki/DC_Animated_Movie_Universe"
     ],
     "notes": ""
+  },
+  {
+    "id": "lucifer",
+    "universe": "dc",
+    "name": "Lucifer (Fox / Netflix)",
+    "short_name": "Lucifer",
+    "order": 16,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Crisis on Infinite Earths labels it Earth-666 through a cameo, as with Titans and Doom Patrol; it is not merged into the Arrowverse.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lucifer_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "swamp-thing-2019",
+    "universe": "dc",
+    "name": "Swamp Thing (2019)",
+    "short_name": "Swamp Thing",
+    "order": 17,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Labelled Earth-19 in Crisis on Infinite Earths through archival footage only.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Swamp_Thing_(2019_TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "krypton",
+    "universe": "dc",
+    "name": "Krypton (Syfy)",
+    "short_name": "Krypton",
+    "order": 18,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Set \"approximately 200 years before\" Superman's birth.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Krypton_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pennyworth",
+    "universe": "dc",
+    "name": "Pennyworth (Epix / HBO Max)",
+    "short_name": "Pennyworth",
+    "order": 19,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Called a prequel to Gotham, but set in an alternate-history London; its own continuity, linked to Gotham.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pennyworth_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "watchmen-hbo",
+    "universe": "dc",
+    "name": "Watchmen (HBO, 2019)",
+    "short_name": "Watchmen (HBO)",
+    "order": 20,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "A sequel to the comic, not to the 2009 film.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Watchmen_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "watchmen-2009",
+    "universe": "dc",
+    "name": "Watchmen (2009 film)",
+    "short_name": "Watchmen (2009)",
+    "order": 21,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Watchmen_(2009_film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "watchmen-2024",
+    "universe": "dc",
+    "name": "Watchmen (2024 animated)",
+    "short_name": "Watchmen (2024)",
+    "order": 22,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "No source links it to the 2009 film or the HBO series.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Watchmen_(2024_film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "teen-titans-2003",
+    "universe": "dc",
+    "name": "Teen Titans (2003)",
+    "short_name": "Teen Titans",
+    "order": 23,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teen_Titans_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "teen-titans-go",
+    "universe": "dc",
+    "name": "Teen Titans Go!",
+    "short_name": "Teen Titans Go!",
+    "order": 24,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teen_Titans_Go!"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "young-justice",
+    "universe": "dc",
+    "name": "Young Justice (Earth-16)",
+    "short_name": "Young Justice",
+    "order": 25,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Season 2 \"picks up five years after the first season ended\"; no calendar years in the sources.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Young_Justice_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "harley-quinn-animated",
+    "universe": "dc",
+    "name": "Harley Quinn (2019) and Kite Man: Hell Yeah!",
+    "short_name": "Harley Quinn",
+    "order": 26,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Kite Man \"serves as a spin-off of Harley Quinn\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Harley_Quinn_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "batman-brave-and-the-bold",
+    "universe": "dc",
+    "name": "Batman: The Brave and the Bold",
+    "short_name": "Brave and the Bold",
+    "order": 27,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman:_The_Brave_and_the_Bold"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "beware-the-batman",
+    "universe": "dc",
+    "name": "Beware the Batman",
+    "short_name": "Beware the Batman",
+    "order": 28,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beware_the_Batman"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "justice-league-action",
+    "universe": "dc",
+    "name": "Justice League Action",
+    "short_name": "JL Action",
+    "order": 29,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Justice_League_Action"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "superman-batman-dtv",
+    "universe": "dc",
+    "name": "Superman/Batman animated films",
+    "short_name": "Superman/Batman",
+    "order": 30,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Public Enemies and its sequel Apocalypse.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Superman%2FBatman:_Public_Enemies"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "crisis-on-two-earths-doom",
+    "universe": "dc",
+    "name": "Crisis on Two Earths / Doom",
+    "short_name": "Two Earths / Doom",
+    "order": 31,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Justice League: Doom follows Crisis on Two Earths.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Justice_League:_Crisis_on_Two_Earths"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "arkhamverse",
+    "universe": "dc",
+    "name": "Arkhamverse (screen)",
+    "short_name": "Arkhamverse",
+    "order": 32,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Assault on Arkham is the only screen entry; its canon status is disputed because Suicide Squad: Kill the Justice League (2024) contradicts it. The games are out of scope.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman:_Assault_on_Arkham"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dc-animated-standalone",
+    "universe": "dc",
+    "name": "DC Universe Animated Original Movies (standalone)",
+    "short_name": "DC animated (standalone)",
+    "order": 33,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Each film stands alone. DCAMU and Tomorrowverse films are in their own continuities.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Creature_Commandos_(TV_series)"
+    ],
+    "notes": ""
   }
 ]

@@ -226,5 +226,47 @@
     "label": "Digital release (download / on demand)",
     "kind": "home-media",
     "note": ""
+  },
+  {
+    "id": "syfy",
+    "label": "Syfy",
+    "kind": "cable",
+    "note": ""
+  },
+  {
+    "id": "epix",
+    "label": "Epix (MGM+)",
+    "kind": "cable",
+    "note": ""
+  },
+  {
+    "id": "adult-swim",
+    "label": "Adult Swim",
+    "kind": "cable",
+    "note": ""
+  },
+  {
+    "id": "first-run-syndication",
+    "label": "First-run syndication",
+    "kind": "broadcast",
+    "note": ""
+  },
+  {
+    "id": "upn",
+    "label": "UPN",
+    "kind": "broadcast",
+    "note": ""
+  },
+  {
+    "id": "cbs-all-access",
+    "label": "CBS All Access",
+    "kind": "streaming",
+    "note": "Renamed Paramount+ on 2021-03-04."
+  },
+  {
+    "id": "paramount-plus",
+    "label": "Paramount+",
+    "kind": "streaming",
+    "note": ""
   }
 ]

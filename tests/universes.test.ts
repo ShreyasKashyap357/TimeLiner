@@ -108,3 +108,19 @@ describe('Display titles (years in square brackets)', () => {
     for (const n of names.values()) expect(n).not.toMatch(/\(\d{4}/);
   });
 });
+
+describe('Star Trek', () => {
+  it('keeps Prime and Kelvin as separate continuities', () => {
+    const c = (id: string) => ds.titles.find((t) => t.id === id)!.continuity;
+    expect(c('the-original-series')).toBe('st-prime');
+    expect(c('star-trek-2009')).toBe('st-kelvin');
+    expect(c('very-short-treks')).toBe('st-other');
+  });
+  it('Prime story order: Enterprise < Discovery S1 < TOS < TNG < Picard < Discovery S3 (32nd century)', () => {
+    const order = spine(scoped('star-trek', 'st-prime'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    const ix = (k: string) => order.indexOf(k);
+    const seq = ['enterprise-s1', 'discovery-s1', 'the-original-series-s1', 'the-next-generation-s1', 'picard-s1', 'discovery-s3'];
+    for (const k of seq) expect(ix(k)).toBeGreaterThanOrEqual(0);
+    for (let i = 1; i < seq.length; i++) expect(ix(seq[i - 1]!)).toBeLessThan(ix(seq[i]!));
+  });
+});

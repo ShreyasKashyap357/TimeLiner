@@ -449,3 +449,47 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - *Marvel Rising: Heart of Iron* has two dates (2019-04-03 vs 03-31); the article's date is used.
   - For the YouTube specials, the public release date is used rather than the convention premiere.
 - **Calendar notes (D-21, D-22).** Every era calendar now says in the Key how its years count and whether it has a year 0.
+- **DC deferred titles (D-11).** These had been held back only to keep the first DC release small. They are now added from English Wikipedia (pinned revisions, no fan wikis): 15 series (one more, *Creature Commandos*, was already in), the standalone DC Universe Animated Original Movies, and their tie-in films and specials. That is 55 titles. Placement:
+  - *Constantine* (NBC) is in the Arrowverse on Earth-1, just before *Arrow* S4. Source: Ryan's role "retroactively established Constantine as part of the same continuity". No in-universe year is given.
+  - *Batman: Gotham Knight* sits between *Batman Begins* and *The Dark Knight*, because it is set "specifically between" them.
+  - *Batman and Harley Quinn* and *Justice League vs. the Fatal Five* go in the DCAU as adjacent and unplaced, because their DCAU canon status is open. The only years for them come from Wikipedia categories, so they are not used.
+  - *Pennyworth* has its own continuity, linked to *Gotham* (D-27). *Kite Man* shares *Harley Quinn*'s continuity ("serves as a spin-off").
+  - Several small continuities group sequels: Superman/Batman (*Public Enemies*, *Apocalypse*), *Crisis on Two Earths* with *Doom*, and the Arkhamverse (disputed).
+  - Everything else is its own continuity. One-off films go in `dc-animated-standalone`.
+  - *Lucifer* and *Swamp Thing* stay separate. Like *Titans* and *Doom Patrol*, *Crisis on Infinite Earths* only gives them Earth numbers through cameos.
+  - Years are set only where prose states them: *Watchmen* (2019) "in 2019", and the *Watchmen* film (1985).
+- **Conflicting release dates.** The film article's date is used and the list article's date is noted: *Superman: Doomsday*, *Under the Red Hood*, *Emerald Knights*, *The Killing Joke*, and *Knightfall* Part 2. *Knightfall* Part 3 is "2027" only.
+- **Ids.** Tie-in films and specials without their own article get ids built from their titles (e.g. `teen-titans-go-to-the-movies`).
+
+## Star Trek (Stage 7)
+
+28 titles and 69 units, built with the generic pipeline (`scripts/bootstrap/star-trek.*`). Wikipedia revision ids: "Timeline of Star Trek" 1383643145, "List of Star Trek television series" 1381814313, "List of Star Trek films" 1387901605, and each season or film article (the revids are in the research report).
+
+- **Continuities**
+  - `st-prime`: every series plus the 1979–2002 films and *Section 31*. Source: Discovery "would be set in the 'Prime Timeline' alongside the previous Star Trek series, rather than in the alternate 'Kelvin Timeline'".
+  - `st-kelvin`: the 2009, 2013 and 2016 films. The Okudas named the timeline in official reference guides; it begins with Nero's attack on the USS Kelvin in 2233.
+  - `st-other`: *Very Short Treks*, "five non-canon shorts".
+- **Years (D-33)**
+  - Most years come from the settings table in "Timeline of Star Trek". That table is tagged "more citations needed", but Wikipedia does state the years, so they are rated `stated`.
+  - Where Wikipedia contradicts itself, the year is `disputed`:
+    - *The Motion Picture*: 2271 (Okuda) or 2273 (Ayers). 2271 is used.
+    - *Discovery* S2: 2257–2258 or 2258–2259.
+    - *Strange New Worlds* S2: 2259, but Memory Alpha dates the finale to 2261.
+    - *Section 31*: 2324 or 2257. The film article says "early 24th century", so 2324 is used.
+    - *Picard* S2: 2401 or 2400.
+  - Memory Alpha years (from on-screen stardates) are `inferred`: *Lower Decks* S2–S5 and *Prodigy* S2. The *Lower Decks* S5 dating is weak.
+  - TNG seasons follow Okuda's rule that each season is one year (2364–2370). DS9 (2369–2375) and Voyager (2371–2378) are dated the same way.
+- **Order:** within the Prime timeline, units sort by start year, then by release date. *Discovery* S3–S5 sit in the 32nd century (3188–3191), after *Picard*, because "they travel to the 32nd century, which is the setting for subsequent seasons".
+- **Short Treks** episodes are set in many eras (2232 to the 43rd century), so both seasons are relative entries with the episode years in the note.
+- **Release-date conflicts:**
+  - TOS premiere: 1966-09-08, or 09-06 per the series infobox.
+  - DS9 finale: 1999-05-31 or 06-02.
+  - *Starfleet Academy* premiere: 01-15 or 01-16.
+  - *Into Darkness*: 2013-05-17, or 05-15 per the infobox.
+- **Not added:**
+  - "The Cage" (unaired pilot): no release date was captured.
+  - *Star Trek: Scouts*: no Wikipedia article and no setting.
+  - The untitled live-action comedy.
+  - The cancelled *Star Trek 4*.
+- **Upcoming:** *Strange New Worlds* S5 (TBA) and *Starfleet Academy* S2 (March 2027) stay unplaced until release.
+- **Official viewing order (D-34):** StarTrek.com publishes a series-level "Viewing Order Guide" (2026-07-20). It was read only through a summarising fetch, so it has not been added as an official order yet.

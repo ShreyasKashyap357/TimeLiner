@@ -52,3 +52,19 @@ describe('DC universe', () => {
     expect([...new Set(flat.map((x) => x.universe.id))]).toEqual(expect.arrayContaining(['marvel', 'dc']));
   });
 });
+
+describe('DC deferred titles (D-11)', () => {
+  it('places Constantine on Arrowverse Earth-1 before Arrow S4, and Gotham Knight between Begins and The Dark Knight', () => {
+    const units = ds.titles.flatMap((t) => t.units.map((u) => ({ u, c: t.continuity })));
+    const unit = (id: string) => units.find((x) => x.u.id === id)!;
+    const con = unit('constantine-2014-s1');
+    expect(con.c).toBe('arrowverse');
+    expect(con.u.timeline_branch).toBe('earth-1');
+    expect(con.u.in_universe.order_index).toBeLessThan(unit('arrow-s4').u.in_universe.order_index);
+    const gk = unit('batman-gotham-knight').u.in_universe.order_index;
+    expect(gk).toBeGreaterThan(unit('batman-begins').u.in_universe.order_index);
+    expect(gk).toBeLessThan(unit('the-dark-knight').u.in_universe.order_index);
+    expect(ds.titles.find((t) => t.id === 'pennyworth')!.continuity).toBe('pennyworth');
+    expect(ds.titles.some((t) => /-extra-\d+$/.test(t.id))).toBe(false);
+  });
+});

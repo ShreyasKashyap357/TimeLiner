@@ -1,0 +1,98 @@
+[
+  {
+    "id": "st-prime",
+    "universe": "star-trek",
+    "name": "Prime timeline",
+    "short_name": "Prime",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The original continuity: every series from The Original Series to Starfleet Academy, the ten films from 1979 to 2002, and Section 31. Wikipedia: Discovery \"would be set in the 'Prime Timeline' alongside the previous Star Trek series, rather than in the alternate 'Kelvin Timeline'\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_1"
+    ],
+    "notes": "Most years come from the settings table in Wikipedia's \"Timeline of Star Trek\", which is tagged as needing citations. They are rated stated, with conflicts marked disputed. Memory Alpha years (from on-screen stardates) are rated inferred."
+  },
+  {
+    "id": "st-kelvin",
+    "universe": "star-trek",
+    "name": "Kelvin timeline (2009–2016 films)",
+    "short_name": "Kelvin",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"a narrative continuation set in an alternate timeline called the 'Kelvin Timeline'\", named \"by Michael and Denise Okuda for use in official Star Trek reference guides\". It begins in 2233, when Nero's attack on the USS Kelvin \"creates the Kelvin Timeline\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Star_Trek_films",
+      "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "st-other",
+    "universe": "star-trek",
+    "name": "Non-canon shorts",
+    "short_name": "Non-canon",
+    "order": 3,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Very Short Treks: \"five non-canon shorts\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks"
+    ],
+    "notes": ""
+  }
+]

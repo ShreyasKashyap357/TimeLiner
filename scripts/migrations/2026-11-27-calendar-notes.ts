@@ -4,8 +4,8 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { ContinuitiesFile } from '../../src/domain/schema.ts';
 
 const NOTES: Record<string, string> = {
-  "BC": "Years counted from Aegon's Conquest: 1 AC is the year of Aegon I's coronation, and the year before it is 1 BC (there is no year 0). Inferred from A Wiki of Ice and Fire; no source states the no-year-0 rule in words (D-21).",
-  "NE": "New Era (Farede calendar) years. There is no year 0, and the series spans 998–1000 NE. Inferred from the Wheel of Time Wiki; Wikipedia gives no in-universe years (D-22).",
+  "BC": "Years counted from Aegon's Conquest: 1 AC is the year of Aegon I's coronation, and the year before it is 1 BC (there is no year 0). Inferred from A Wiki of Ice and Fire; no source states this rule in words.",
+  "NE": "New Era (Farede calendar) years. There is no year 0, and the series spans 998–1000 NE. Inferred from the Wheel of Time Wiki; Wikipedia gives no in-universe years.",
   "BBY": "Years before / after the Battle of Yavin (A New Hope). The battle year is shown as 0 ABY; there is no \"0 BBY\" in canon."
 };
 for (const dir of ['asoiaf', 'wheel-of-time', 'star-wars']) {

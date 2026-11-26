@@ -6,17 +6,25 @@
 - [x] CHECKPOINT 0 approved 2026-11-26
 
 ## Stage 1: Marvel data
-- [x] Scaffold (TS, zod schema, tsx scripts; Vite/React/shadcn in Stage 2)
-- [x] Fetchers: Wikipedia (41 pages), Wikidata; cached in data/sources/ (Fandom reachable but not used for dates)
+- [x] Scaffold (TS, zod schema, tsx scripts)
+- [x] Fetchers: Wikipedia, Wikidata, MCU Fandom; cached in data/sources/ with revision ids
 - [x] Parsers → data/candidates/marvel.json
 - [x] Curate Marvel dataset (seed + bootstrap → data/marvel/*.json)
 - [x] Reconcile against reference image (reference/mcu_timeline_current.json + verify diff)
 - [x] scripts/verify-data.ts (schema, dupes, ref integrity, drift, --refetch)
 - [x] data/DATA_NOTES.md
-- [ ] **CHECKPOINT 1**
+- [x] CHECKPOINT 1 reviewed; follow-ups applied (Marvel TV split, TAS seasons, adjacent placements)
 
 ## Stage 2: Marvel app
-- [ ] **CHECKPOINT 2**
+- [x] Vite + React + TS + Tailwind v4 + shadcn/ui (radix-nova), dark navy/gold/red theme, per-universe accent
+- [x] Domain transforms for all 9 views (src/domain/views.ts) + URL codec + filters, unit-tested
+- [x] Views: in-universe spine, release (lanes), platform, studio, phase/saga, characters, continuities, dual axis, connections
+- [x] Detail drawer, legend (shape-coded), search (⌘K), watched tracking + export/import + progress + what's next
+- [x] Playwright smoke (desktop + mobile) incl. axe WCAG 2.1 AA
+- [x] README, CLAUDE.md, CI + Pages deploy workflow, weekly data-drift workflow
+- [ ] update:propose script (auto PR for mechanical drift fixes)
+- [ ] Virtualise long lists (>500 rows) once Star Wars-scale data lands
+- [x] CHECKPOINT 2 delivered (continuing to Stage 3 per R-10)
 
 ## Stage 3: DC data
 - [ ] **CHECKPOINT 3**
@@ -30,13 +38,11 @@
 - [ ] Candidates: Star Trek, Wizarding World, Middle-earth, Alien & Predator, Conjuring, Transformers
 
 ## Revision workflow (see PLAN.md §9)
-- [x] Stage 1: verify-data --refetch produces a drift report (new titles / date / status / revid changes)
-- [x] Stage 1: `aliases` map in schema for watched-state migration
-- [ ] Stage 2: scheduled GitHub Action (weekly + manual) opening a "Data drift report" issue
-- [ ] Stage 2: update:propose script → PR for mechanical fields only
+- [x] verify-data --refetch produces a drift report (new titles / date / status / revid changes)
+- [x] `aliases` map in schema for watched-state migration
+- [x] Scheduled GitHub Action (weekly + manual) opening a "Data drift report" issue
+- [ ] update:propose script → PR for mechanical fields only
 
-## Open follow-ups from Stage 1
-- [ ] Split X-Men: The Animated Series into seasons (needs a per-season source)
-- [ ] Optional: place ABC/Hulu/Freeform seasons using MCU Fandom episode dating (awaiting user decision)
-- [ ] Re-check Avengers: Doomsday + Born Again S3 placement after release
-- [ ] Windows note: run vitest from `C:\` (uppercase drive); lowercase `c:\` cwd breaks vitest module resolution
+## Open follow-ups
+- [ ] Re-check Avengers: Doomsday + Born Again S3 placement after release (Doomsday: 2026-12-18)
+- [x] Windows: run vitest from `C:\` (documented in README/CLAUDE.md)

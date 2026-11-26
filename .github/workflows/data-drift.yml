@@ -1,0 +1,48 @@
+name: Data drift report
+
+# Weekly (Mondays 06:00 UTC) and on demand: re-fetch every source, diff against the curated
+# dataset, and open/update a single "Data drift report" issue. Never edits data automatically:
+# in-universe placement, new titles and tier changes need human review (see PLAN.md §9).
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Re-fetch sources and verify
+        id: verify
+        run: |
+          set +e
+          npx tsx scripts/verify-data.ts --refetch --json drift.json > verify.log 2>&1
+          echo "exit=$?" >> "$GITHUB_OUTPUT"
+          cat verify.log
+      - name: Open or update the drift issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node scripts/ci/drift-issue-body.mjs drift.json verify.log > body.md
+          if grep -q 'NO_DRIFT' body.md; then
+            echo "No drift."
+            exit 0
+          fi
+          num=$(gh issue list --state open --label data-drift --json number --jq '.[0].number')
+          gh label create data-drift --color FBCA04 --description "Automated source drift report" 2>/dev/null || true
+          if [ -n "$num" ]; then
+            gh issue edit "$num" --body-file body.md
+            gh issue comment "$num" --body "Report refreshed by run ${{ github.run_id }}."
+          else
+            gh issue create --title "Data drift report" --label data-drift --body-file body.md
+          fi

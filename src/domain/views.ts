@@ -35,16 +35,24 @@ export function effectiveLength(r: Row): number {
 export interface SpineSection { id: string; label: string; startY: number | null; rows: Row[] }
 export interface SpineResult { sections: SpineSection[]; unplaced: { lane: string; label: string; rows: Row[] }[] }
 
+/** A unit sits on the spine if it has a calendar date, OR it is undated but its story position is known:
+ *  released and on a placeable branch, in an order-only continuity or with explicit relative anchors. */
+export function onSpine(r: Row): boolean {
+  if (r.placed) return true;
+  if (!r.branch.placeable || r.unit.status !== 'released') return false;
+  return r.continuity.calendar.kind === 'ordered-only' || r.unit.in_universe.relative_to !== null;
+}
+
 export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; watched?: Set<string> } = {}): SpineResult {
-  const placed = rows.filter((r) => r.placed);
-  const unplacedRows = rows.filter((r) => !r.placed);
+  const placed = rows.filter(onSpine);
+  const unplacedRows = rows.filter((r) => !onSpine(r));
   const sections: SpineSection[] = [];
   if (sort === 'in-universe' || sort === 'unwatched') {
     for (const r of sortRows(placed, 'in-universe')) {
-      const label = r.unit.in_universe.label.replace(/\s*\(.*\)$/, '');
+      const label = r.placed ? r.unit.in_universe.label.replace(/\s*\(.*\)$/, '') : r.continuity.calendar.kind === 'ordered-only' ? '' : 'No year given';
       const last = sections.at(-1);
       if (last && last.label === label) last.rows.push(r);
-      else sections.push({ id: `s${sections.length}`, label, startY: r.unit.in_universe.start!.y, rows: [r] });
+      else sections.push({ id: `s${sections.length}`, label, startY: r.unit.in_universe.start?.y ?? null, rows: [r] });
     }
     if (sort === 'unwatched') for (const s of sections) s.rows = sortRows(s.rows, 'unwatched', opts);
   } else {

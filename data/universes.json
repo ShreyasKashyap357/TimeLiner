@@ -83,5 +83,35 @@
     "data_dir": "marvel",
     "description": "Marvel Cinematic Universe plus related Marvel film and animation continuities.",
     "last_verified": "2026-11-26"
+  },
+  {
+    "id": "dc",
+    "name": "DC",
+    "short_name": "DC",
+    "order": 2,
+    "enabled": false,
+    "accent": {
+      "primary": "#5DA9FF",
+      "secondary": "#2F7BEF"
+    },
+    "default_continuity": "dcu",
+    "grouping_schemes": [
+      {
+        "id": "chapter",
+        "label": "Chapter",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "chapter-1",
+            "label": "Chapter One: Gods and Monsters",
+            "order": 1,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "dc",
+    "description": "DC Universe (Gunn), DC Extended Universe, Arrowverse, Batman film continuities, DC live-action TV and DC animation.",
+    "last_verified": "2026-11-26"
   }
 ]

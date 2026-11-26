@@ -1,0 +1,584 @@
+[
+  {
+    "id": "dcu",
+    "universe": "dc",
+    "name": "DC Universe (DC Studios)",
+    "short_name": "DCU",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "chapter"
+    ],
+    "alt_orders": [],
+    "description": "James Gunn and Peter Safran's DC Studios shared universe (2024–).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Universe_(franchise)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dceu",
+    "universe": "dc",
+    "name": "DC Extended Universe",
+    "short_name": "DCEU",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      },
+      {
+        "id": "snyder-cut",
+        "label": "Snyder Cut (slightly alternate)",
+        "marker": "diamond",
+        "description": "Zack Snyder's Justice League: \"takes place in a slightly alternate universe\" (Snyder).",
+        "placeable": true,
+        "parent": "main",
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": false
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Warner Bros./DC Films shared universe (2013–2023).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Extended_Universe"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "arrowverse",
+    "universe": "dc",
+    "name": "Arrowverse",
+    "short_name": "Arrowverse",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "earth-1",
+        "label": "Earth-1",
+        "marker": "dot",
+        "description": "Arrow, The Flash, Legends of Tomorrow, Batwoman (before Crisis).",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": {
+          "branch": "earth-prime",
+          "at": {
+            "y": 2019,
+            "m": 12
+          },
+          "note": "Merged into Earth-Prime during Crisis on Infinite Earths"
+        },
+        "is_main": true
+      },
+      {
+        "id": "earth-38",
+        "label": "Earth-38",
+        "marker": "diamond",
+        "description": "Supergirl (before Crisis): \"confirmed as an alternate universe, later designated Earth-38\".",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": {
+          "branch": "earth-prime",
+          "at": {
+            "y": 2019,
+            "m": 12
+          },
+          "note": "Merged into Earth-Prime during Crisis on Infinite Earths"
+        },
+        "is_main": false
+      },
+      {
+        "id": "jeffersons-earth",
+        "label": "Jefferson's Earth",
+        "marker": "square",
+        "description": "Black Lightning (before Crisis): \"Black Lightning, which had been separate up to that point\".",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": {
+          "branch": "earth-prime",
+          "at": {
+            "y": 2019,
+            "m": 12
+          },
+          "note": "Merged into Earth-Prime during Crisis on Infinite Earths"
+        },
+        "is_main": false
+      },
+      {
+        "id": "earth-x",
+        "label": "Earth-X",
+        "marker": "triangle",
+        "description": "Freedom Fighters: The Ray: \"primarily set on the dystopian Earth-X\".",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": false
+      },
+      {
+        "id": "earth-prime",
+        "label": "Earth-Prime",
+        "marker": "star",
+        "description": "Created by Crisis on Infinite Earths (Dec 2019): \"Earth-1, Earth-38, and Jefferson's Earth were merged into Earth-Prime\".",
+        "placeable": true,
+        "parent": "earth-1",
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": false
+      },
+      {
+        "id": "earth-2-post-crisis",
+        "label": "Earth-2 (post-Crisis)",
+        "marker": "hollow-diamond",
+        "description": "Stargirl: \"set on a new Earth-2, created during the crossover\".",
+        "placeable": true,
+        "parent": "earth-prime",
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": false
+      },
+      {
+        "id": "adjacent-earth",
+        "label": "Earth adjacent to Earth-Prime",
+        "marker": "hollow-dot",
+        "description": "Superman & Lois: \"takes place adjacent to Earth-Prime\" (retconned in the season 2 finale; season 1 was presented as Earth-Prime).",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": false
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The CW's shared universe of DC series (2012–2023), with a multiverse of Earths.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arrowverse",
+      "https://en.wikipedia.org/wiki/List_of_Arrowverse_episodes",
+      "https://en.wikipedia.org/wiki/Crisis_on_Infinite_Earths_(Arrowverse)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "batman-epic-crime-saga",
+    "universe": "dc",
+    "name": "The Batman Epic Crime Saga (Reeves)",
+    "short_name": "Reeves",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Matt Reeves' Batman films and spin-off series.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Batman_(film)",
+      "https://en.wikipedia.org/wiki/The_Penguin_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "nolan-dark-knight",
+    "universe": "dc",
+    "name": "The Dark Knight trilogy (Nolan)",
+    "short_name": "Nolan",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Christopher Nolan's Batman films (2005–2012).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_in_film"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "burton-schumacher",
+    "universe": "dc",
+    "name": "Batman 1989–1997 (Burton / Schumacher)",
+    "short_name": "Burton/Schumacher",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Warner Bros. Batman films directed by Tim Burton and Joel Schumacher.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_in_film"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "joker-films",
+    "universe": "dc",
+    "name": "Joker films (Phillips)",
+    "short_name": "Joker",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Todd Phillips' standalone Joker films.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+      "https://en.wikipedia.org/wiki/Joker:_Folie_à_Deux"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "reeve-superman",
+    "universe": "dc",
+    "name": "Superman films (1978–2006)",
+    "short_name": "Reeve Superman",
+    "order": 8,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Theatrical sequels (I–IV)",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      },
+      {
+        "id": "returns",
+        "label": "Superman Returns line",
+        "marker": "diamond",
+        "description": "Superman Returns follows I and II, \"ignoring the events of Superman III, Supergirl, and Superman IV\".",
+        "placeable": true,
+        "parent": "main",
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": false
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Superman I–IV, Supergirl (1984) and Superman Returns (2006).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Superman_in_film"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "smallville",
+    "universe": "dc",
+    "name": "Smallville",
+    "short_name": "Smallville",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The WB / The CW series (2001–2011).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Smallville",
+      "https://en.wikipedia.org/wiki/List_of_Smallville_episodes"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gotham",
+    "universe": "dc",
+    "name": "Gotham",
+    "short_name": "Gotham",
+    "order": 10,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Fox series (2014–2019).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gotham_(TV_series)",
+      "https://en.wikipedia.org/wiki/List_of_Gotham_episodes"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "titans",
+    "universe": "dc",
+    "name": "Titans",
+    "short_name": "Titans",
+    "order": 11,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "DC Universe / HBO Max series (2018–2023).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Titans_(2018_TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "doom-patrol",
+    "universe": "dc",
+    "name": "Doom Patrol",
+    "short_name": "Doom Patrol",
+    "order": 12,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "DC Universe / HBO Max series (2019–2023). Wikipedia: a separate continuity from Titans.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dcau",
+    "universe": "dc",
+    "name": "DC Animated Universe",
+    "short_name": "DCAU",
+    "order": 13,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Animated shared universe from Batman: The Animated Series (1992) to Justice League Unlimited (2006).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Animated_Universe"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dcamu",
+    "universe": "dc",
+    "name": "DC Animated Movie Universe",
+    "short_name": "DCAMU",
+    "order": 14,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Direct-to-video animated films, \"New 52\" arc (2013–2020).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Animated_Movie_Universe"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tomorrowverse",
+    "universe": "dc",
+    "name": "Tomorrowverse",
+    "short_name": "Tomorrowverse",
+    "order": 15,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Direct-to-video animated films (2020–2024), the second DCAMU-era arc.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Animated_Movie_Universe"
+    ],
+    "notes": ""
+  }
+]

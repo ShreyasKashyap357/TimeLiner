@@ -49,7 +49,8 @@ export function extractSeriesOverview(src: string, page: string, fallbackSeries?
     const seriesRaw = t.params['series'] ?? (fallbackSeries ? `[[${fallbackSeries}]]` : undefined);
     if (!seriesRaw) continue;
     for (let n = 1; n < 40; n++) {
-      const start = t.params[`start${n}`] ?? t.params[`released${n}`];
+      // split seasons ("4A"/"4B") fall back to the first half's start and the last half's end
+      const start = t.params[`start${n}`] ?? t.params[`released${n}`] ?? t.params[`start${n}A`] ?? t.params[`released${n}A`];
       const eps = t.params[`episodes${n}`];
       if (start === undefined && eps === undefined) continue;
       out.push({
@@ -61,7 +62,7 @@ export function extractSeriesOverview(src: string, page: string, fallbackSeries?
         season_link: t.params[`link${n}`]?.trim() || null,
         episodes: eps && /^\d+$/.test(cleanText(eps)) ? Number(cleanText(eps)) : null,
         start: parseDateTemplate(start),
-        end: parseDateTemplate(t.params[`end${n}`]) ?? null,
+        end: parseDateTemplate(t.params[`end${n}`] ?? t.params[`end${n}B`] ?? t.params[`end${n}A`]) ?? null,
         status_text: start && !parseDateTemplate(start) ? cleanText(start) : null,
         label: t.params[`infoA${n}`] ? cleanText(t.params[`infoA${n}`]!) || null : null,
       });

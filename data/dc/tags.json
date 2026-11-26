@@ -1,0 +1,284 @@
+[
+  {
+    "id": "superman",
+    "label": "Superman",
+    "kind": "character",
+    "aliases": [
+      "Clark Kent",
+      "Kal-El"
+    ]
+  },
+  {
+    "id": "batman",
+    "label": "Batman",
+    "kind": "character",
+    "aliases": [
+      "Bruce Wayne"
+    ]
+  },
+  {
+    "id": "wonder-woman",
+    "label": "Wonder Woman",
+    "kind": "character",
+    "aliases": [
+      "Diana Prince"
+    ]
+  },
+  {
+    "id": "flash",
+    "label": "The Flash",
+    "kind": "character",
+    "aliases": [
+      "Barry Allen"
+    ]
+  },
+  {
+    "id": "green-arrow",
+    "label": "Green Arrow",
+    "kind": "character",
+    "aliases": [
+      "Oliver Queen"
+    ]
+  },
+  {
+    "id": "supergirl",
+    "label": "Supergirl",
+    "kind": "character",
+    "aliases": [
+      "Kara Zor-El",
+      "Kara Danvers"
+    ]
+  },
+  {
+    "id": "aquaman",
+    "label": "Aquaman",
+    "kind": "character",
+    "aliases": [
+      "Arthur Curry"
+    ]
+  },
+  {
+    "id": "cyborg",
+    "label": "Cyborg",
+    "kind": "character",
+    "aliases": [
+      "Victor Stone"
+    ]
+  },
+  {
+    "id": "shazam",
+    "label": "Shazam",
+    "kind": "character",
+    "aliases": [
+      "Billy Batson"
+    ]
+  },
+  {
+    "id": "joker",
+    "label": "Joker",
+    "kind": "character",
+    "aliases": [
+      "Arthur Fleck"
+    ]
+  },
+  {
+    "id": "harley-quinn",
+    "label": "Harley Quinn",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "penguin",
+    "label": "Penguin",
+    "kind": "character",
+    "aliases": [
+      "Oswald Cobblepot",
+      "Oz Cobb"
+    ]
+  },
+  {
+    "id": "catwoman",
+    "label": "Catwoman",
+    "kind": "character",
+    "aliases": [
+      "Selina Kyle"
+    ]
+  },
+  {
+    "id": "peacemaker",
+    "label": "Peacemaker",
+    "kind": "character",
+    "aliases": [
+      "Christopher Smith"
+    ]
+  },
+  {
+    "id": "black-adam",
+    "label": "Black Adam",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "blue-beetle",
+    "label": "Blue Beetle",
+    "kind": "character",
+    "aliases": [
+      "Jaime Reyes"
+    ]
+  },
+  {
+    "id": "green-lantern",
+    "label": "Green Lantern",
+    "kind": "character",
+    "aliases": [
+      "Hal Jordan",
+      "John Stewart",
+      "Guy Gardner"
+    ]
+  },
+  {
+    "id": "lois-lane",
+    "label": "Lois Lane",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "lex-luthor",
+    "label": "Lex Luthor",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "batwoman",
+    "label": "Batwoman",
+    "kind": "character",
+    "aliases": [
+      "Kate Kane",
+      "Ryan Wilder"
+    ]
+  },
+  {
+    "id": "black-lightning",
+    "label": "Black Lightning",
+    "kind": "character",
+    "aliases": [
+      "Jefferson Pierce"
+    ]
+  },
+  {
+    "id": "stargirl",
+    "label": "Stargirl",
+    "kind": "character",
+    "aliases": [
+      "Courtney Whitmore"
+    ]
+  },
+  {
+    "id": "atom",
+    "label": "The Atom",
+    "kind": "character",
+    "aliases": [
+      "Ray Palmer"
+    ]
+  },
+  {
+    "id": "james-gordon",
+    "label": "James Gordon",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "robin",
+    "label": "Robin",
+    "kind": "character",
+    "aliases": [
+      "Dick Grayson",
+      "Damian Wayne",
+      "Tim Drake"
+    ]
+  },
+  {
+    "id": "clayface",
+    "label": "Clayface",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "amanda-waller",
+    "label": "Amanda Waller",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "static",
+    "label": "Static",
+    "kind": "character",
+    "aliases": [
+      "Virgil Hawkins"
+    ]
+  },
+  {
+    "id": "batman-beyond",
+    "label": "Batman (Terry McGinnis)",
+    "kind": "character",
+    "aliases": [
+      "Terry McGinnis"
+    ]
+  },
+  {
+    "id": "justice-league",
+    "label": "Justice League",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "suicide-squad",
+    "label": "Suicide Squad",
+    "kind": "team",
+    "aliases": [
+      "Task Force X"
+    ]
+  },
+  {
+    "id": "teen-titans",
+    "label": "Teen Titans / Titans",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "doom-patrol",
+    "label": "Doom Patrol",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "justice-society",
+    "label": "Justice Society of America",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "legends",
+    "label": "Legends of Tomorrow",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "creature-commandos",
+    "label": "Creature Commandos",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "batman-franchise",
+    "label": "Batman (franchise)",
+    "kind": "franchise",
+    "aliases": []
+  },
+  {
+    "id": "superman-franchise",
+    "label": "Superman (franchise)",
+    "kind": "franchise",
+    "aliases": []
+  }
+]

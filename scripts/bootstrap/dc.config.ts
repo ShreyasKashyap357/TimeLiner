@@ -23,13 +23,21 @@ const C = (id: string, name: string, short: string, order: number, description: 
 
 export const DC_CONTINUITIES: Continuity[] = [
   C('dcu', 'DC Universe (DC Studios)', 'DCU', 1, "James Gunn and Peter Safran's DC Studios shared universe (2024–).", ['DC_Universe_(franchise)'], { grouping_schemes: ['chapter'] }),
-  C('dceu', 'DC Extended Universe', 'DCEU', 2, 'Warner Bros./DC Films shared universe (2013–2023).', ['DC_Extended_Universe']),
-  C('arrowverse', 'Arrowverse', 'Arrowverse', 3, "The CW's shared universe of DC series (2012–2023), with a multiverse of Earths.", ['Arrowverse', 'List_of_Arrowverse_episodes']),
+  C('dceu', 'DC Extended Universe', 'DCEU', 2, 'Warner Bros./DC Films shared universe (2013–2023).', ['DC_Extended_Universe'], { branches: [main(), { id: 'snyder-cut', label: "Snyder Cut (slightly alternate)", marker: 'diamond', description: "Zack Snyder's Justice League: \"takes place in a slightly alternate universe\" (Snyder).", placeable: true, parent: 'main', diverges_at: null, merges_into: null, is_main: false }] }),
+  C('arrowverse', 'Arrowverse', 'Arrowverse', 3, "The CW's shared universe of DC series (2012–2023), with a multiverse of Earths.", ['Arrowverse', 'List_of_Arrowverse_episodes', 'Crisis_on_Infinite_Earths_(Arrowverse)'], { branches: [
+      { id: 'earth-1', label: "Earth-1", marker: 'dot', description: "Arrow, The Flash, Legends of Tomorrow, Batwoman (before Crisis).", placeable: true, parent: null, diverges_at: null, merges_into: { branch: 'earth-prime', at: { y: 2019, m: 12 }, note: 'Merged into Earth-Prime during Crisis on Infinite Earths' }, is_main: true },
+      { id: 'earth-38', label: "Earth-38", marker: 'diamond', description: "Supergirl (before Crisis): \"confirmed as an alternate universe, later designated Earth-38\".", placeable: true, parent: null, diverges_at: null, merges_into: { branch: 'earth-prime', at: { y: 2019, m: 12 }, note: 'Merged into Earth-Prime during Crisis on Infinite Earths' }, is_main: false },
+      { id: 'jeffersons-earth', label: "Jefferson's Earth", marker: 'square', description: "Black Lightning (before Crisis): \"Black Lightning, which had been separate up to that point\".", placeable: true, parent: null, diverges_at: null, merges_into: { branch: 'earth-prime', at: { y: 2019, m: 12 }, note: 'Merged into Earth-Prime during Crisis on Infinite Earths' }, is_main: false },
+      { id: 'earth-x', label: "Earth-X", marker: 'triangle', description: "Freedom Fighters: The Ray: \"primarily set on the dystopian Earth-X\".", placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: false },
+      { id: 'earth-prime', label: "Earth-Prime", marker: 'star', description: "Created by Crisis on Infinite Earths (Dec 2019): \"Earth-1, Earth-38, and Jefferson's Earth were merged into Earth-Prime\".", placeable: true, parent: 'earth-1', diverges_at: null, merges_into: null, is_main: false },
+      { id: 'earth-2-post-crisis', label: "Earth-2 (post-Crisis)", marker: 'hollow-diamond', description: "Stargirl: \"set on a new Earth-2, created during the crossover\".", placeable: true, parent: 'earth-prime', diverges_at: null, merges_into: null, is_main: false },
+      { id: 'adjacent-earth', label: "Earth adjacent to Earth-Prime", marker: 'hollow-dot', description: "Superman & Lois: \"takes place adjacent to Earth-Prime\" (retconned in the season 2 finale; season 1 was presented as Earth-Prime).", placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: false },
+    ] }),
   C('batman-epic-crime-saga', 'The Batman Epic Crime Saga (Reeves)', 'Reeves', 4, "Matt Reeves' Batman films and spin-off series.", ['The_Batman_(film)', 'The_Penguin_(TV_series)']),
   C('nolan-dark-knight', 'The Dark Knight trilogy (Nolan)', 'Nolan', 5, "Christopher Nolan's Batman films (2005–2012).", ['Batman_in_film']),
   C('burton-schumacher', 'Batman 1989–1997 (Burton / Schumacher)', 'Burton/Schumacher', 6, 'Warner Bros. Batman films directed by Tim Burton and Joel Schumacher.', ['Batman_in_film']),
   C('joker-films', 'Joker films (Phillips)', 'Joker', 7, "Todd Phillips' standalone Joker films.", ['Joker_(2019_film)', 'Joker:_Folie_à_Deux']),
-  C('reeve-superman', 'Superman films (1978–2006)', 'Reeve Superman', 8, 'Superman I–IV, Supergirl (1984) and Superman Returns (2006).', ['Superman_in_film']),
+  C('reeve-superman', 'Superman films (1978–2006)', 'Reeve Superman', 8, 'Superman I–IV, Supergirl (1984) and Superman Returns (2006).', ['Superman_in_film'], { branches: [main('Theatrical sequels (I–IV)'), { id: 'returns', label: "Superman Returns line", marker: 'diamond', description: "Superman Returns follows I and II, \"ignoring the events of Superman III, Supergirl, and Superman IV\".", placeable: true, parent: 'main', diverges_at: null, merges_into: null, is_main: false }] }),
   C('smallville', 'Smallville', 'Smallville', 9, 'The WB / The CW series (2001–2011).', ['Smallville', 'List_of_Smallville_episodes']),
   C('gotham', 'Gotham', 'Gotham', 10, 'Fox series (2014–2019).', ['Gotham_(TV_series)', 'List_of_Gotham_episodes']),
   C('titans', 'Titans', 'Titans', 11, 'DC Universe / HBO Max series (2018–2023).', ['Titans_(2018_TV_series)']),
@@ -57,6 +65,7 @@ export const DC_PLATFORMS: Platform[] = [
   { id: 'kids-wb', label: "Kids' WB", kind: 'broadcast', note: '' },
   { id: 'cartoon-network', label: 'Cartoon Network', kind: 'cable', note: '' },
   { id: 'cw-seed', label: 'CW Seed', kind: 'streaming', note: '' },
+  { id: 'cbs', label: 'CBS', kind: 'broadcast', note: '' },
 ];
 
 const ch = (id: string, label: string, aliases: string[] = []): Tag => ({ id, label, kind: 'character', aliases });

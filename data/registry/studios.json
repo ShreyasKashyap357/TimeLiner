@@ -100,5 +100,61 @@
     "group": null,
     "active": null,
     "note": ""
+  },
+  {
+    "id": "dc-studios",
+    "label": "DC Studios",
+    "short_label": "DC Studios",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": {
+      "from": 2022,
+      "to": null
+    },
+    "note": ""
+  },
+  {
+    "id": "dc-films",
+    "label": "DC Films",
+    "short_label": "DC Films",
+    "kind": "division",
+    "parent": null,
+    "group": null,
+    "active": {
+      "from": 2016,
+      "to": 2022
+    },
+    "note": "Warner Bros. division succeeded by DC Studios in 2022."
+  },
+  {
+    "id": "warner-bros-pictures",
+    "label": "Warner Bros. Pictures",
+    "short_label": "Warner Bros.",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "warner-bros-television",
+    "label": "Warner Bros. Television",
+    "short_label": "WBTV",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "warner-bros-animation",
+    "label": "Warner Bros. Animation",
+    "short_label": "WB Animation",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
   }
 ]

@@ -82,3 +82,18 @@ describe('Star Wars', () => {
     expect(ix('a-new-hope')).toBeLessThan(ix('the-mandalorian-s1'));
   });
 });
+
+describe('Recommended MCU order (D-14)', () => {
+  it('is collated, release-ordered, and essentials-only moves optional units to their own lane', () => {
+    const rec = ds.continuities.find((c) => c.id === 'mcu')!.alt_orders.find((a) => a.id === 'recommended')!;
+    expect(rec.kind).toBe('recommended');
+    expect(rec.sources.length).toBeGreaterThanOrEqual(4);
+    expect(rec.unit_ids.indexOf('iron-man')).toBeLessThan(rec.unit_ids.indexOf('the-avengers'));
+    const rows = scoped('marvel', 'mcu');
+    const res = spine(rows, 'alt', { altOrder: rec.unit_ids, alt: { headings: 'release', optional: new Set(rec.optional_unit_ids), essentialsOnly: true } });
+    const main = res.sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(main).toContain('avengers-endgame');
+    expect(main.some((k) => rec.optional_unit_ids.includes(k))).toBe(false);
+    expect(res.unplaced.find((l) => l.lane === 'optional')!.rows.length).toBeGreaterThan(0);
+  });
+});

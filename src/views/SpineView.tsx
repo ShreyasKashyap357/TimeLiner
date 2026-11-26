@@ -11,12 +11,15 @@ import { ChevronDown } from 'lucide-react';
 import { ConfidenceBadge } from '@/components/Badges';
 import { formatRelease } from '@/domain/dates';
 import { SpoilerText } from '@/components/SpoilerText';
+import { Switch } from '@/components/ui/switch';
+import { Label } from '@/components/ui/label';
 
 /** In-universe chronology of one continuity, drawn as a vertical spine (as in the reference image). */
 export function SpineView({ rows }: { rows: Row[] }) {
-  const { state, altOrder, watched, ds } = useApp();
+  const { state, altOrder, alt, watched, ds } = useApp();
   const cont = ds.continuities.find((c) => c.id === state.c);
-  const res = spine(rows, state.sort, { altOrder, watched: watched.set });
+  const optional = new Set(state.sort === 'alt' ? alt?.optional_unit_ids ?? [] : []);
+  const res = spine(rows, state.sort, { altOrder, watched: watched.set, alt: { headings: alt?.kind === 'recommended' ? 'release' : 'in-universe', optional, essentialsOnly: state.ess } });
   const calendarless = cont?.calendar.kind === 'ordered-only';
   if (!rows.length) return <Empty />;
   return (
@@ -33,7 +36,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
             <span aria-hidden className="absolute -left-[33px] top-1 size-4 rounded-full border-2 bg-background" style={{ borderColor: 'var(--u-secondary)' }} />
             {s.label && <h3 className="font-heading text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{s.label}</h3>}
             <ul className="mt-1 space-y-0.5">
-              {s.rows.map((r) => <SpineEntry key={r.key} row={r} position={altPosition(state.sort === 'alt' ? altOrder : undefined, r.key)} />)}
+              {s.rows.map((r) => <SpineEntry key={r.key} row={r} position={altPosition(state.sort === 'alt' ? altOrder : undefined, r.key)} optional={optional.has(r.key)} />)}
             </ul>
           </li>
         ))}
@@ -41,15 +44,15 @@ export function SpineView({ rows }: { rows: Row[] }) {
       {res.unplaced.map((lane) => (
         <section key={lane.lane} aria-labelledby={`lane-${lane.lane}`} className="border border-dashed border-border p-4">
           <h3 id={`lane-${lane.lane}`} className="font-heading text-base font-semibold text-muted-foreground">{lane.label}</h3>
-          <p className="mb-2 text-xs text-muted-foreground">{lane.lane === 'not-in-order' ? 'These entries do not appear in the selected order (for example titles not available on that service).' : 'No fixed point on this timeline. Shown in relative order where sources give one.'}</p>
-          <ul className="space-y-0.5">{lane.rows.map((r) => <SpineEntry key={r.key} row={r} />)}</ul>
+          <p className="mb-2 text-xs text-muted-foreground">{lane.lane === 'not-in-order' ? 'These entries do not appear in the selected order (for example titles not available on that service).' : lane.lane === 'optional' ? 'The guides behind this order treat these as optional on a first watch. They are listed in order.' : 'No fixed point on this timeline. Shown in relative order where sources give one.'}</p>
+          <ul className="space-y-0.5">{lane.rows.map((r) => <SpineEntry key={r.key} row={r} position={lane.lane === 'optional' ? altPosition(altOrder, r.key) : null} optional={lane.lane === 'optional'} />)}</ul>
         </section>
       ))}
     </div>
   );
 }
 
-function SpineEntry({ row, position = null }: { row: Row; position?: number | null }) {
+function SpineEntry({ row, position = null, optional = false }: { row: Row; position?: number | null; optional?: boolean }) {
   const [open, setOpen] = useState(false);
   const iu = row.unit.in_universe;
   return (
@@ -58,6 +61,7 @@ function SpineEntry({ row, position = null }: { row: Row; position?: number | nu
         <div className="flex items-start">
           {position !== null && <Badge variant="secondary" className="mr-1 mt-0.5 min-w-9 justify-center tabular-nums" aria-label={`Position ${position}`}>#{position}</Badge>}
           <ul className="min-w-0 flex-1"><UnitItem row={row} meta={row.placed ? 'release' : 'in-universe'} /></ul>
+          {optional && <Badge variant="outline" className="ml-1 mt-0.5 shrink-0 text-muted-foreground" title="Optional on a first watch, per the guides behind this order">Optional</Badge>}
           <CollapsibleTrigger className="ml-1 rounded p-1 text-muted-foreground hover:text-foreground" aria-label={`${open ? 'Hide' : 'Show'} details for ${row.name}`}>
             <ChevronDown className={`size-4 transition-transform ${open ? 'rotate-180' : ''}`} aria-hidden />
           </CollapsibleTrigger>
@@ -86,13 +90,22 @@ function WatchOrderCard() {
   const current = alts.find((a) => `alt:${a.id}` === value);
   const describe = value === 'release'
     ? 'Release order: the order in which the titles were first released.'
+    : current?.kind === 'recommended' ? `${current.label}: collated from ${current.sources.length} published guides for new viewers. ${current.note}`
     : current ? `${current.label}: the official order published for this continuity. ${current.note}`
     : 'Story order: chronological by when events happen in-universe (this continuity only).';
   return (
     <Card size="sm">
       <CardHeader>
         <CardTitle>Watch order</CardTitle>
-        <CardDescription>{describe}{current && <> Source: <a className="underline" href={current.source_url} target="_blank" rel="noreferrer noopener">{new URL(current.source_url).hostname}</a> (as of {current.as_of}).</>}</CardDescription>
+        <CardDescription>
+          {describe}
+          {current && current.kind !== 'recommended' && <> Source: <a className="underline" href={current.source_url} target="_blank" rel="noreferrer noopener">{new URL(current.source_url).hostname}</a> (as of {current.as_of}).</>}
+          {current?.kind === 'recommended' && (
+            <span className="mt-1 block">Sources (as of {current.as_of}):{' '}
+              {current.sources.map((src, i) => <span key={src.url}>{i > 0 && ', '}<a className="underline" href={src.url} target="_blank" rel="noreferrer noopener" title={src.title}>{new URL(src.url).hostname.replace(/^www./, '')}</a></span>)}.
+            </span>
+          )}
+        </CardDescription>
       </CardHeader>
       <CardContent>
         <ToggleGroup type="single" variant="outline" className="flex-wrap" value={value} aria-label="Watch order"
@@ -101,6 +114,12 @@ function WatchOrderCard() {
           <ToggleGroupItem value="release">Release</ToggleGroupItem>
           {alts.map((a) => <ToggleGroupItem key={a.id} value={`alt:${a.id}`}>{a.label}</ToggleGroupItem>)}
         </ToggleGroup>
+        {current && current.optional_unit_ids.length > 0 && (
+          <div className="mt-3 flex items-center gap-2">
+            <Switch id="essentials-only" checked={state.ess} onCheckedChange={(v) => update({ ess: v })} />
+            <Label htmlFor="essentials-only">Essentials only (hide {current.optional_unit_ids.length} optional)</Label>
+          </div>
+        )}
       </CardContent>
     </Card>
   );

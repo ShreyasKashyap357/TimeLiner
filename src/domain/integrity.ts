@@ -87,6 +87,7 @@ export function checkIntegrity(ds: Dataset, today: string): Issue[] {
         if (seen.has(id)) err('dup-alt-order', `${c.id}/${a.id}`, `unit "${id}" listed twice`);
         seen.add(id);
       }
+      for (const id of a.optional_unit_ids) if (!seen.has(id)) err('alt-order-optional', `${c.id}/${a.id}`, `optional unit "${id}" is not in unit_ids`);
     }
     // order_index unique per continuity
     const idx = new Map<number, string>();

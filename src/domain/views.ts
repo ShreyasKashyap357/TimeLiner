@@ -44,8 +44,8 @@ export function onSpine(r: Row): boolean {
   return r.continuity.calendar.kind === 'ordered-only' || r.unit.in_universe.relative_to !== null;
 }
 
-export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; watched?: Set<string> } = {}): SpineResult {
-  if (sort === 'alt' && opts.altOrder) return altSpine(rows, opts.altOrder);
+export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; watched?: Set<string>; alt?: AltSpineOpts } = {}): SpineResult {
+  if (sort === 'alt' && opts.altOrder) return altSpine(rows, opts.altOrder, opts.alt);
   const placed = rows.filter(onSpine);
   const unplacedRows = rows.filter((r) => !onSpine(r));
   const sections: SpineSection[] = [];
@@ -73,18 +73,32 @@ export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; wa
 
 /** Alternate (e.g. Disney+) order: strictly that list's sequence, with a heading whenever the in-universe
  *  period changes, so the list reads like the timeline. Units not in the list go to their own lane. */
-export function altSpine(rows: Row[], altOrder: string[]): SpineResult {
+export interface AltSpineOpts {
+  /** Section headings: in-universe period (official timeline orders) or release year (release-based recommended orders). */
+  headings?: 'in-universe' | 'release';
+  optional?: Set<string>;
+  /** Move the order's optional units out of the list into their own lane. */
+  essentialsOnly?: boolean;
+}
+export function altSpine(rows: Row[], altOrder: string[], o: AltSpineOpts = {}): SpineResult {
   const pos = new Map(altOrder.map((id, i) => [id, i]));
-  const inList = rows.filter((r) => pos.has(r.key)).sort((a, b) => pos.get(a.key)! - pos.get(b.key)!);
+  const skip = (r: Row) => Boolean(o.essentialsOnly && o.optional?.has(r.key));
+  const byPos = (a: Row, b: Row) => pos.get(a.key)! - pos.get(b.key)!;
+  const inList = rows.filter((r) => pos.has(r.key) && !skip(r)).sort(byPos);
   const sections: SpineSection[] = [];
   for (const r of inList) {
-    const label = r.placed ? r.unit.in_universe.label.replace(/\s*\(.*\)$/, '') : !r.branch.placeable ? r.branch.label : 'No confirmed placement';
+    const label = o.headings === 'release' ? (r.unit.release.year !== null ? `Released ${r.unit.release.year}` : 'Release date unknown')
+      : r.placed ? r.unit.in_universe.label.replace(/\s*\(.*\)$/, '') : !r.branch.placeable ? r.branch.label : 'No confirmed placement';
     const last = sections.at(-1);
     if (last && last.label === label) last.rows.push(r);
     else sections.push({ id: `a${sections.length}`, label, startY: r.unit.in_universe.start?.y ?? null, rows: [r] });
   }
+  const optionalRows = rows.filter((r) => pos.has(r.key) && skip(r)).sort(byPos);
   const rest = sortRows(rows.filter((r) => !pos.has(r.key)), 'in-universe');
-  return { sections, unplaced: rest.length ? [{ lane: 'not-in-order', label: 'Not part of this order', rows: rest }] : [] };
+  return { sections, unplaced: [
+    ...(optionalRows.length ? [{ lane: 'optional', label: 'Optional (hidden by "Essentials only")', rows: optionalRows }] : []),
+    ...(rest.length ? [{ lane: 'not-in-order', label: 'Not part of this order', rows: rest }] : []),
+  ] };
 }
 
 /** 1-based position of a unit in an alternate order, if any. */

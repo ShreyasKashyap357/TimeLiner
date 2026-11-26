@@ -73,7 +73,8 @@ export function App() {
 
   const rows = useMemo(() => (ds ? buildRows(ds) : []), [ds]);
   const continuity = ds?.continuities.find((c) => c.id === state.c);
-  const altOrder = continuity?.alt_orders.find((a) => a.id === state.alt)?.unit_ids;
+  const alt = continuity?.alt_orders.find((a) => a.id === state.alt);
+  const altOrder = alt?.unit_ids;
 
   const label = useMemo<AppCtx['label']>(() => ({
     studio: (id) => ds?.studios.find((s) => s.id === id)?.label ?? id,
@@ -97,7 +98,7 @@ export function App() {
   if (error) return <main className="p-8 text-destructive">Failed to load data: {error}</main>;
   if (!ds) return <main className="p-8 text-muted-foreground" aria-busy="true">Loading timeline…</main>;
 
-  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, ordered, spoilerSafe: prefs.spoilerSafe, setSpoilerSafe: (v) => setPrefs({ spoilerSafe: v }) };
+  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, alt, ordered, spoilerSafe: prefs.spoilerSafe, setSpoilerSafe: (v) => setPrefs({ spoilerSafe: v }) };
   const sortOptions: { id: SortId; label: string; alt?: string }[] = [
     ...(CONTINUITY_SCOPED.includes(state.view) ? [{ id: 'in-universe' as SortId, label: 'In-universe order' }] : []),
     ...(state.view === 'spine' ? (continuity?.alt_orders ?? []).map((a) => ({ id: 'alt' as SortId, label: a.label, alt: a.id })) : []),

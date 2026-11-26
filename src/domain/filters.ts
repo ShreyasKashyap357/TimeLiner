@@ -29,6 +29,7 @@ export interface FilterState {
   iu: [number, number] | null; // in-universe year range
   rel: [number, number] | null; // release year range
   lanes: boolean; // release view: lanes per universe
+  ess: boolean; // alternate order: essentials only (hide the order's optional units)
   unit: string | null; // open detail drawer
 }
 
@@ -39,7 +40,7 @@ export function defaultState(u: string, c: string | null): FilterState {
   return {
     u, c, view: 'spine', sort: 'in-universe', alt: null, quick: 'all', q: '',
     types: [], tiers: [...DEFAULT_TIERS], platforms: [], studios: [], groupings: [], status: [],
-    tags: [], conf: [], branches: [], watched: 'all', iu: null, rel: null, lanes: false, unit: null,
+    tags: [], conf: [], branches: [], watched: 'all', iu: null, rel: null, lanes: false, ess: false, unit: null,
   };
 }
 
@@ -67,6 +68,7 @@ export function toQuery(s: FilterState, defaults = defaultState(s.u, s.c)): stri
   if (s.iu) p.set('iu', s.iu.join('..'));
   if (s.rel) p.set('rel', s.rel.join('..'));
   if (s.lanes) p.set('lanes', '1');
+  if (s.ess) p.set('ess', '1');
   if (s.unit) p.set('unit', s.unit);
   return p.toString();
 }
@@ -98,6 +100,7 @@ export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinui
   s.iu = range(p.get('iu'));
   s.rel = range(p.get('rel'));
   s.lanes = p.get('lanes') === '1';
+  s.ess = p.get('ess') === '1';
   s.unit = p.get('unit');
   return s;
 }

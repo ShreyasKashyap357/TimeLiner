@@ -99,6 +99,12 @@ export const AltOrder = z.object({
   as_of: isoDate,
   note: z.string().default(''),
   unit_ids: z.array(z.string()),
+  /** official = published by the rights holder; recommended = collated from several published guides. */
+  kind: z.enum(['official', 'recommended']).default('official'),
+  /** Units the sources treat as skippable on a first watch (subset of unit_ids). */
+  optional_unit_ids: z.array(z.string()).default([]),
+  /** All sources a collated order draws on (source_url is the primary one). */
+  sources: z.array(z.object({ url, title: z.string(), date: isoDate.nullable() })).default([]),
 });
 export const Continuity = z.object({
   id: slug,
@@ -210,6 +216,7 @@ export const AliasesFile = z.record(z.string(), z.array(z.string()));
 
 export type Universe = z.infer<typeof Universe>;
 export type Continuity = z.infer<typeof Continuity>;
+export type AltOrder = z.infer<typeof AltOrder>;
 export type Branch = z.infer<typeof Branch>;
 export type Title = z.infer<typeof Title>;
 export type Unit = z.infer<typeof Unit>;

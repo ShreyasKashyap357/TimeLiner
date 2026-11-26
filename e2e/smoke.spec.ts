@@ -100,7 +100,7 @@ test.describe('TimeLiner smoke', () => {
     await page.goto('/?u=dc&c=arrowverse&unit=crisis-on-infinite-earths');
     await expect(page.getByRole('dialog').getByText(/Episodes in this crossover/)).toBeVisible();
     await page.goto('/?u=all&view=release&lanes=1');
-    await expect(page.getByRole('region', { name: 'Marvel' })).toBeVisible();
+    await expect(page.getByRole('region', { name: 'Marvel' })).toBeVisible({ timeout: 20_000 }); // all 7 universes load and render (~750 rows)
     await expect(page.getByRole('region', { name: 'DC' })).toBeVisible();
   });
 

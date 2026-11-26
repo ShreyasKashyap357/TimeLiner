@@ -1,0 +1,2685 @@
+{
+  "generated_at": "2026-11-26T07:31:23.294Z",
+  "note": "Machine-extracted candidates. Not curated. See data/marvel/*.json for the dataset.",
+  "source_revisions": {
+    "Agent Carter (TV series)": 1387495185,
+    "Agents of S.H.I.E.L.D.": 1387834943,
+    "Avengers: Doomsday": 1387923397,
+    "Cloak & Dagger (TV series)": 1387199575,
+    "Daredevil: Born Again": 1387202609,
+    "Eyes of Wakanda": 1387208618,
+    "Helstrom (TV series)": 1387219159,
+    "I Am Groot": 1387222307,
+    "Inhumans (TV series)": 1387223595,
+    "List of Marvel Cinematic Universe films": 1387458286,
+    "List of Marvel Cinematic Universe television series (Marvel Studios)": 1383914541,
+    "List of Marvel Cinematic Universe television series (Marvel Television)": 1382881078,
+    "Loki (TV series)": 1387231944,
+    "Marvel Animation": 1380858278,
+    "Marvel Cinematic Universe": 1387922147,
+    "Marvel Cinematic Universe timeline": 1386966004,
+    "Marvel Cinematic Universe: Phase Five": 1386854265,
+    "Marvel Cinematic Universe: Phase Four": 1384729145,
+    "Marvel Cinematic Universe: Phase One": 1384729100,
+    "Marvel Cinematic Universe: Phase Six": 1387475977,
+    "Marvel Cinematic Universe: Phase Three": 1387410277,
+    "Marvel Cinematic Universe: Phase Two": 1387410290,
+    "Marvel One-Shots": 1368277098,
+    "Marvel Studios Animation": 1381773269,
+    "Marvel Television": 1368277081,
+    "Marvel Zombies (TV series)": 1387234945,
+    "Marvel's ABC television series": 1387585798,
+    "Marvel's Netflix television series": 1387586353,
+    "Marvel's Special Presentations": 1381084468,
+    "Marvel's young adult television series": 1387585851,
+    "Runaways (TV series)": 1387247905,
+    "Sony's Spider-Man Universe": 1384290782,
+    "Spider-Man in film": 1386997014,
+    "Spider-Man: Brand New Day": 1387814872,
+    "VisionQuest": 1387348101,
+    "Werewolf by Night (TV special)": 1380255456,
+    "What If...? (TV series)": 1382836181,
+    "X-Men '97": 1387262639,
+    "X-Men (film series)": 1387754325,
+    "X-Men: The Animated Series": 1387978161,
+    "Your Friendly Neighborhood Spider-Man": 1387263209
+  },
+  "releases": [
+    {
+      "source_page": "Marvel Cinematic Universe: Phase One",
+      "kind": "film",
+      "title": "Iron Man",
+      "link": "Iron Man (2008 film)",
+      "start": "2008-05-02",
+      "status_text": null,
+      "phase": "phase-1"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase One",
+      "kind": "film",
+      "title": "The Incredible Hulk",
+      "link": "The Incredible Hulk (film)",
+      "start": "2008-06-13",
+      "status_text": null,
+      "phase": "phase-1"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase One",
+      "kind": "film",
+      "title": "Iron Man 2",
+      "link": "Iron Man 2",
+      "start": "2010-05-07",
+      "status_text": null,
+      "phase": "phase-1"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase One",
+      "kind": "film",
+      "title": "Thor",
+      "link": "Thor (film)",
+      "start": "2011-05-06",
+      "status_text": null,
+      "phase": "phase-1"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase One",
+      "kind": "film",
+      "title": "Captain America: The First Avenger",
+      "link": "Captain America: The First Avenger",
+      "start": "2011-07-22",
+      "status_text": null,
+      "phase": "phase-1"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase One",
+      "kind": "film",
+      "title": "The Avengers",
+      "link": "The Avengers (2012 film)",
+      "start": "2012-05-04",
+      "status_text": null,
+      "phase": "phase-1"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Two",
+      "kind": "film",
+      "title": "Iron Man 3",
+      "link": "Iron Man 3",
+      "start": "2013-05-03",
+      "status_text": null,
+      "phase": "phase-2"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Two",
+      "kind": "film",
+      "title": "Thor: The Dark World",
+      "link": "Thor: The Dark World",
+      "start": "2013-11-08",
+      "status_text": null,
+      "phase": "phase-2"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Two",
+      "kind": "film",
+      "title": "Captain America: The Winter Soldier",
+      "link": "Captain America: The Winter Soldier",
+      "start": "2014-04-04",
+      "status_text": null,
+      "phase": "phase-2"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Two",
+      "kind": "film",
+      "title": "Guardians of the Galaxy",
+      "link": "Guardians of the Galaxy (film)",
+      "start": "2014-08-01",
+      "status_text": null,
+      "phase": "phase-2"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Two",
+      "kind": "film",
+      "title": "Avengers: Age of Ultron",
+      "link": "Avengers: Age of Ultron",
+      "start": "2015-05-01",
+      "status_text": null,
+      "phase": "phase-2"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Two",
+      "kind": "film",
+      "title": "Ant-Man",
+      "link": "Ant-Man (film)",
+      "start": "2015-07-17",
+      "status_text": null,
+      "phase": "phase-2"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Captain America: Civil War",
+      "link": "Captain America: Civil War",
+      "start": "2016-05-06",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Doctor Strange",
+      "link": "Doctor Strange (2016 film)",
+      "start": "2016-11-04",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "link": "Guardians of the Galaxy Vol. 2",
+      "start": "2017-05-05",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Spider-Man: Homecoming",
+      "link": "Spider-Man: Homecoming",
+      "start": "2017-07-07",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Thor: Ragnarok",
+      "link": "Thor: Ragnarok",
+      "start": "2017-11-03",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Black Panther",
+      "link": "Black Panther (film)",
+      "start": "2018-02-16",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Avengers: Infinity War",
+      "link": "Avengers: Infinity War",
+      "start": "2018-04-27",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Ant-Man and the Wasp",
+      "link": "Ant-Man and the Wasp",
+      "start": "2018-07-06",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Captain Marvel",
+      "link": "Captain Marvel (film)",
+      "start": "2019-03-08",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Avengers: Endgame",
+      "link": "Avengers: Endgame",
+      "start": "2019-04-26",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Three",
+      "kind": "film",
+      "title": "Spider-Man: Far From Home",
+      "link": "Spider-Man: Far From Home",
+      "start": "2019-07-02",
+      "status_text": null,
+      "phase": "phase-3"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Black Widow",
+      "link": "Black Widow (2021 film)",
+      "start": "2021-07-09",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "link": "Shang-Chi and the Legend of the Ten Rings",
+      "start": "2021-09-03",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Eternals",
+      "link": "Eternals (film)",
+      "start": "2021-11-05",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Spider-Man: No Way Home",
+      "link": "Spider-Man: No Way Home",
+      "start": "2021-12-17",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "link": "Doctor Strange in the Multiverse of Madness",
+      "start": "2022-05-06",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Thor: Love and Thunder",
+      "link": "Thor: Love and Thunder",
+      "start": "2022-07-08",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "film",
+      "title": "Black Panther: Wakanda Forever",
+      "link": "Black Panther: Wakanda Forever",
+      "start": "2022-11-11",
+      "status_text": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "WandaVision",
+      "link": "WandaVision",
+      "season": 1,
+      "season_link": null,
+      "episodes": 9,
+      "start": "2021-01-15",
+      "end": "2021-03-05",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "The Falcon and the Winter Soldier",
+      "link": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "season_link": null,
+      "episodes": 6,
+      "start": "2021-03-19",
+      "end": "2021-04-23",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "Loki",
+      "link": "Loki (TV series)",
+      "season": 1,
+      "season_link": "Loki season 1",
+      "episodes": 6,
+      "start": "2021-06-09",
+      "end": "2021-07-14",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "What If...?",
+      "link": "What If...? (TV series)",
+      "season": 1,
+      "season_link": "What If...? season 1",
+      "episodes": 9,
+      "start": "2021-08-11",
+      "end": "2021-10-06",
+      "status_text": null,
+      "label": "Marvel Studios Animation",
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "Hawkeye",
+      "link": "Hawkeye (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 6,
+      "start": "2021-11-24",
+      "end": "2021-12-22",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "Moon Knight",
+      "link": "Moon Knight (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 6,
+      "start": "2022-03-30",
+      "end": "2022-05-04",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "Ms. Marvel",
+      "link": "Ms. Marvel (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 6,
+      "start": "2022-06-08",
+      "end": "2022-07-13",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "She-Hulk: Attorney at Law",
+      "link": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "season_link": null,
+      "episodes": 9,
+      "start": "2022-08-18",
+      "end": "2022-10-13",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "season",
+      "title": "I Am Groot",
+      "link": "I Am Groot",
+      "season": 1,
+      "season_link": null,
+      "episodes": 5,
+      "start": "2022-08-10",
+      "end": null,
+      "status_text": null,
+      "label": "Kirsten Lepore",
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "special",
+      "title": "Werewolf by Night",
+      "link": "Werewolf by Night (TV special)",
+      "start": "2022-10-07",
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Four",
+      "kind": "special",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "link": "The Guardians of the Galaxy Holiday Special",
+      "start": "2022-11-25",
+      "phase": "phase-4"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "film",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "link": "Ant-Man and the Wasp: Quantumania",
+      "start": "2023-02-17",
+      "status_text": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "film",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "link": "Guardians of the Galaxy Vol. 3",
+      "start": "2023-05-05",
+      "status_text": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "film",
+      "title": "The Marvels",
+      "link": "The Marvels",
+      "start": "2023-11-10",
+      "status_text": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "film",
+      "title": "Deadpool & Wolverine",
+      "link": "Deadpool & Wolverine",
+      "start": "2024-07-26",
+      "status_text": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "film",
+      "title": "Captain America: Brave New World",
+      "link": "Captain America: Brave New World",
+      "start": "2025-02-14",
+      "status_text": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "film",
+      "title": "Thunderbolts*",
+      "link": "Thunderbolts*",
+      "start": "2025-05-02",
+      "status_text": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Secret Invasion",
+      "link": "Secret Invasion (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 6,
+      "start": "2023-06-21",
+      "end": "2023-07-26",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Loki",
+      "link": "Loki (TV series)",
+      "season": 2,
+      "season_link": "Loki season 2",
+      "episodes": 6,
+      "start": "2023-10-05",
+      "end": "2023-11-09",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "What If...?",
+      "link": "What If...? (TV series)",
+      "season": 2,
+      "season_link": "What If...? season 2",
+      "episodes": 9,
+      "start": "2023-12-22",
+      "end": "2023-12-30",
+      "status_text": null,
+      "label": "Marvel Studios Animation",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "What If...?",
+      "link": "What If...? (TV series)",
+      "season": 3,
+      "season_link": "What If...? season 3",
+      "episodes": 8,
+      "start": "2024-12-22",
+      "end": "2024-12-29",
+      "status_text": null,
+      "label": "Marvel Animation",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Echo",
+      "link": "Echo (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 5,
+      "start": "2024-01-09",
+      "end": null,
+      "status_text": null,
+      "label": "Marvel Spotlight",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Agatha All Along",
+      "link": "Agatha All Along",
+      "season": 1,
+      "season_link": null,
+      "episodes": 9,
+      "start": "2024-09-18",
+      "end": "2024-10-30",
+      "status_text": null,
+      "label": "Marvel Television",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "link": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "season_link": "Your Friendly Neighborhood Spider-Man season 1",
+      "episodes": 10,
+      "start": "2025-01-29",
+      "end": "2025-02-19",
+      "status_text": null,
+      "label": "Marvel Animation",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Daredevil: Born Again",
+      "link": "Daredevil: Born Again",
+      "season": 1,
+      "season_link": "Daredevil: Born Again season 1",
+      "episodes": 9,
+      "start": "2025-03-04",
+      "end": "2025-04-15",
+      "status_text": null,
+      "label": "Marvel Television",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "Ironheart",
+      "link": "Ironheart (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 6,
+      "start": "2025-06-24",
+      "end": "2025-07-01",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Five",
+      "kind": "season",
+      "title": "I Am Groot",
+      "link": "I Am Groot",
+      "season": 2,
+      "season_link": null,
+      "episodes": 5,
+      "start": "2023-09-06",
+      "end": null,
+      "status_text": null,
+      "label": "Kirsten Lepore",
+      "phase": "phase-5"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "film",
+      "title": "The Fantastic Four: First Steps",
+      "link": "The Fantastic Four: First Steps",
+      "start": "2025-07-25",
+      "status_text": "Released",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "film",
+      "title": "Spider-Man: Brand New Day",
+      "link": "Spider-Man: Brand New Day",
+      "start": "2026-07-31",
+      "status_text": null,
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "film",
+      "title": "Avengers: Doomsday",
+      "link": "Avengers: Doomsday",
+      "start": "2026-12-18",
+      "status_text": "Post-production",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "film",
+      "title": "Avengers: Secret Wars",
+      "link": "Avengers: Secret Wars",
+      "start": "2027-12-17",
+      "status_text": "Pre-production",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "Eyes of Wakanda",
+      "link": "Eyes of Wakanda",
+      "season": 1,
+      "season_link": null,
+      "episodes": 4,
+      "start": "2025-08-01",
+      "end": null,
+      "status_text": null,
+      "label": "Marvel Animation",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "Marvel Zombies",
+      "link": "Marvel Zombies (TV series)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 4,
+      "start": "2025-09-24",
+      "end": null,
+      "status_text": null,
+      "label": null,
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "Wonder Man",
+      "link": "Wonder Man (TV series)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 8,
+      "start": "2026-01-27",
+      "end": null,
+      "status_text": null,
+      "label": "Marvel Television Marvel Spotlight",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "Daredevil: Born Again",
+      "link": "Daredevil: Born Again",
+      "season": 2,
+      "season_link": "Daredevil: Born Again season 2",
+      "episodes": 8,
+      "start": "2026-03-24",
+      "end": "2026-05-05",
+      "status_text": null,
+      "label": "Marvel Television",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "Daredevil: Born Again",
+      "link": "Daredevil: Born Again",
+      "season": 3,
+      "season_link": "Daredevil: Born Again season 3",
+      "episodes": 8,
+      "start": "2027-03",
+      "end": null,
+      "status_text": null,
+      "label": null,
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "VisionQuest",
+      "link": "VisionQuest",
+      "season": 1,
+      "season_link": null,
+      "episodes": 8,
+      "start": "2026-10-13",
+      "end": "2026-11-10",
+      "status_text": null,
+      "label": null,
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "season",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "link": "Your Friendly Neighborhood Spider-Man",
+      "season": 2,
+      "season_link": "Your Friendly Neighborhood Spider-Man season 2",
+      "episodes": null,
+      "start": "2027-01-13",
+      "end": null,
+      "status_text": null,
+      "label": "Marvel Animation",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "Marvel Cinematic Universe: Phase Six",
+      "kind": "special",
+      "title": "The Punisher: One Last Kill",
+      "link": "The Punisher: One Last Kill",
+      "start": "2026-05-12",
+      "phase": "phase-6"
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe films",
+      "kind": "film",
+      "title": "Untitled X-Men film",
+      "link": "Untitled X-Men film",
+      "start": "2028-05-05",
+      "status_text": "Pre-production",
+      "phase": "phase-7"
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe films",
+      "kind": "film",
+      "title": "Ghost Rider",
+      "link": "Ghost Rider (2028 film)",
+      "start": "2028-07-28",
+      "status_text": null,
+      "phase": "phase-7"
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe films",
+      "kind": "film",
+      "title": "Black Panther III",
+      "link": "Black Panther III",
+      "start": "2028-12-15",
+      "status_text": "In development",
+      "phase": "phase-7"
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe films",
+      "kind": "film",
+      "title": "Armor Wars",
+      "link": "List of Marvel Cinematic Universe films",
+      "start": null,
+      "status_text": "In development",
+      "phase": "phase-7"
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe television series (Marvel Studios)",
+      "kind": "season",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "link": "Your Friendly Neighborhood Spider-Man",
+      "season": 3,
+      "season_link": null,
+      "episodes": null,
+      "start": "2028",
+      "end": null,
+      "status_text": null,
+      "label": "Marvel Animation"
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe television series (Marvel Studios)",
+      "kind": "season",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "link": "Your Friendly Neighborhood Spider-Man",
+      "season": 4,
+      "season_link": null,
+      "episodes": null,
+      "start": "2029",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe television series (Marvel Studios)",
+      "kind": "season",
+      "title": "Marvel Zombies",
+      "link": "Marvel Zombies (TV series)",
+      "season": 3,
+      "season_link": "Marvel Zombies: The Fist of Khonshu",
+      "episodes": 2,
+      "start": "2028-10",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe television series (Marvel Studios)",
+      "kind": "season",
+      "title": "Marvel Zombies",
+      "link": "Marvel Zombies (TV series)",
+      "season": 4,
+      "season_link": "Marvel Zombies: The Last Guardian",
+      "episodes": 2,
+      "start": "2029-10",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "List of Marvel Cinematic Universe television series (Marvel Studios)",
+      "kind": "season",
+      "title": "Zodiac",
+      "link": "Zodiac (TV series)",
+      "season": 1,
+      "season_link": null,
+      "episodes": null,
+      "start": "2028",
+      "end": null,
+      "status_text": null,
+      "label": "Marvel Television"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Daredevil",
+      "link": "Daredevil (TV series)",
+      "season": 1,
+      "season_link": "Daredevil season 1",
+      "episodes": 13,
+      "start": "2015-04-10",
+      "end": null,
+      "status_text": null,
+      "label": "Steven S. DeKnight"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Daredevil",
+      "link": "Daredevil (TV series)",
+      "season": 2,
+      "season_link": "Daredevil season 2",
+      "episodes": 13,
+      "start": "2016-03-18",
+      "end": null,
+      "status_text": null,
+      "label": "Douglas Petrie and Marco Ramirez"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Daredevil",
+      "link": "Daredevil (TV series)",
+      "season": 3,
+      "season_link": "Daredevil season 3",
+      "episodes": 13,
+      "start": "2018-10-19",
+      "end": null,
+      "status_text": null,
+      "label": "Erik Oleson"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Jessica Jones",
+      "link": "Jessica Jones (TV series)",
+      "season": 1,
+      "season_link": "Jessica Jones season 1",
+      "episodes": 13,
+      "start": "2015-11-20",
+      "end": null,
+      "status_text": null,
+      "label": "Melissa Rosenberg"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Jessica Jones",
+      "link": "Jessica Jones (TV series)",
+      "season": 2,
+      "season_link": "Jessica Jones season 2",
+      "episodes": 13,
+      "start": "2018-03-08",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Jessica Jones",
+      "link": "Jessica Jones (TV series)",
+      "season": 3,
+      "season_link": "Jessica Jones season 3",
+      "episodes": 13,
+      "start": "2019-06-14",
+      "end": null,
+      "status_text": null,
+      "label": "Melissa Rosenberg and Scott Reynolds"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Luke Cage",
+      "link": "Luke Cage (TV series)",
+      "season": 1,
+      "season_link": "Luke Cage season 1",
+      "episodes": 13,
+      "start": "2016-09-30",
+      "end": null,
+      "status_text": null,
+      "label": "Cheo Hodari Coker"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Luke Cage",
+      "link": "Luke Cage (TV series)",
+      "season": 2,
+      "season_link": "Luke Cage season 2",
+      "episodes": 13,
+      "start": "2018-06-22",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Iron Fist",
+      "link": "Iron Fist (TV series)",
+      "season": 1,
+      "season_link": "Iron Fist season 1",
+      "episodes": 13,
+      "start": "2017-03-17",
+      "end": null,
+      "status_text": null,
+      "label": "Scott Buck"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "Iron Fist",
+      "link": "Iron Fist (TV series)",
+      "season": 2,
+      "season_link": "Iron Fist season 2",
+      "episodes": 10,
+      "start": "2018-09-07",
+      "end": null,
+      "status_text": null,
+      "label": "M. Raven Metzner"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "The Defenders",
+      "link": "The Defenders (miniseries)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 8,
+      "start": "2017-08-18",
+      "end": null,
+      "status_text": null,
+      "label": "Marco Ramirez"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "The Punisher",
+      "link": "The Punisher (TV series)",
+      "season": 1,
+      "season_link": "The Punisher season 1",
+      "episodes": 13,
+      "start": "2017-11-17",
+      "end": null,
+      "status_text": null,
+      "label": "Steve Lightfoot"
+    },
+    {
+      "source_page": "Marvel's Netflix television series",
+      "kind": "season",
+      "title": "The Punisher",
+      "link": "The Punisher (TV series)",
+      "season": 2,
+      "season_link": "The Punisher season 2",
+      "episodes": 13,
+      "start": "2019-01-18",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "season_link": "Agents of S.H.I.E.L.D. season 1",
+      "episodes": 22,
+      "start": "2013-09-24",
+      "end": "2014-05-13",
+      "status_text": null,
+      "label": "Jed Whedon, Maurissa Tancharoen, and Jeffrey Bell"
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "season_link": "Agents of S.H.I.E.L.D. season 2",
+      "episodes": 22,
+      "start": "2014-09-23",
+      "end": "2015-05-12",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "season_link": "Agents of S.H.I.E.L.D. season 3",
+      "episodes": 22,
+      "start": "2015-09-29",
+      "end": "2016-05-17",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "season_link": "Agents of S.H.I.E.L.D. season 4",
+      "episodes": 22,
+      "start": "2016-09-20",
+      "end": "2017-05-16",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "season_link": "Agents of S.H.I.E.L.D. season 5",
+      "episodes": 22,
+      "start": "2017-12-01",
+      "end": "2018-05-18",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "season_link": "Agents of S.H.I.E.L.D. season 6",
+      "episodes": 13,
+      "start": "2019-05-10",
+      "end": "2019-08-02",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agents of S.H.I.E.L.D.",
+      "link": "Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "season_link": "Agents of S.H.I.E.L.D. season 7",
+      "episodes": 13,
+      "start": "2020-05-27",
+      "end": "2020-08-12",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agent Carter",
+      "link": "Agent Carter (TV series)",
+      "season": 1,
+      "season_link": "Agent Carter season 1",
+      "episodes": 8,
+      "start": "2015-01-06",
+      "end": "2015-02-24",
+      "status_text": null,
+      "label": "Tara Butters, Michele Fazekas, and Chris Dingess"
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Agent Carter",
+      "link": "Agent Carter (TV series)",
+      "season": 2,
+      "season_link": "Agent Carter season 2",
+      "episodes": 10,
+      "start": "2016-01-19",
+      "end": "2016-03-01",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's ABC television series",
+      "kind": "season",
+      "title": "Inhumans",
+      "link": "Inhumans (TV series)",
+      "season": 1,
+      "season_link": null,
+      "episodes": 8,
+      "start": "2017-09-29",
+      "end": "2017-11-10",
+      "status_text": null,
+      "label": "Scott Buck"
+    },
+    {
+      "source_page": "Marvel's young adult television series",
+      "kind": "season",
+      "title": "Runaways",
+      "link": "Runaways (TV series)",
+      "season": 1,
+      "season_link": "Runaways season 1",
+      "episodes": 10,
+      "start": "2017-11-21",
+      "end": "2018-01-09",
+      "status_text": null,
+      "label": "Josh Schwartz and Stephanie Savage"
+    },
+    {
+      "source_page": "Marvel's young adult television series",
+      "kind": "season",
+      "title": "Runaways",
+      "link": "Runaways (TV series)",
+      "season": 2,
+      "season_link": "Runaways season 2",
+      "episodes": 13,
+      "start": "2018-12-21",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's young adult television series",
+      "kind": "season",
+      "title": "Runaways",
+      "link": "Runaways (TV series)",
+      "season": 3,
+      "season_link": "Runaways season 3",
+      "episodes": 10,
+      "start": "2019-12-13",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Marvel's young adult television series",
+      "kind": "season",
+      "title": "Cloak & Dagger",
+      "link": "Cloak & Dagger (TV series)",
+      "season": 1,
+      "season_link": "Cloak & Dagger season 1",
+      "episodes": 10,
+      "start": "2018-06-07",
+      "end": "2018-08-02",
+      "status_text": null,
+      "label": "Joe Pokaski"
+    },
+    {
+      "source_page": "Marvel's young adult television series",
+      "kind": "season",
+      "title": "Cloak & Dagger",
+      "link": "Cloak & Dagger (TV series)",
+      "season": 2,
+      "season_link": "Cloak & Dagger season 2",
+      "episodes": 10,
+      "start": "2019-04-04",
+      "end": "2019-05-30",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X-Men",
+      "link": "X-Men (film)",
+      "start": "2000-07-14",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X2",
+      "link": "X2 (film)",
+      "start": "2003-05-02",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X-Men: The Last Stand",
+      "link": "X-Men: The Last Stand",
+      "start": "2006-05-26",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X-Men: First Class",
+      "link": "X-Men: First Class",
+      "start": "2011-06-03",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X-Men: Days of Future Past",
+      "link": "X-Men: Days of Future Past",
+      "start": "2014-05-23",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X-Men: Apocalypse",
+      "link": "X-Men: Apocalypse",
+      "start": "2016-05-27",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "Dark Phoenix",
+      "link": "Dark Phoenix (film)",
+      "start": "2019-06-07",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "X-Men Origins: Wolverine",
+      "link": "X-Men Origins: Wolverine",
+      "start": "2009-05-01",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "The Wolverine",
+      "link": "The Wolverine (film)",
+      "start": "2013-07-26",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "Logan",
+      "link": "Logan (film)",
+      "start": "2017-03-03",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "Deadpool",
+      "link": "Deadpool (film)",
+      "start": "2016-02-12",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "Deadpool 2",
+      "link": "Deadpool 2",
+      "start": "2018-05-18",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "film",
+      "title": "The New Mutants",
+      "link": "The New Mutants (film)",
+      "start": "2020-08-28",
+      "status_text": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "season",
+      "title": "Legion",
+      "link": "Legion (TV series)",
+      "season": 1,
+      "season_link": "Legion (season 1)",
+      "episodes": 8,
+      "start": "2017-02-08",
+      "end": "2017-03-29",
+      "status_text": null,
+      "label": "Noah Hawley"
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "season",
+      "title": "Legion",
+      "link": "Legion (TV series)",
+      "season": 2,
+      "season_link": "Legion (season 2)",
+      "episodes": 11,
+      "start": "2018-04-03",
+      "end": "2018-06-12",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "season",
+      "title": "Legion",
+      "link": "Legion (TV series)",
+      "season": 3,
+      "season_link": "Legion (season 3)",
+      "episodes": 8,
+      "start": "2019-06-24",
+      "end": "2019-08-12",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "season",
+      "title": "The Gifted",
+      "link": "The Gifted (American TV series)",
+      "season": 1,
+      "season_link": "The Gifted (season 1)",
+      "episodes": 13,
+      "start": "2017-10-02",
+      "end": "2018-01-15",
+      "status_text": null,
+      "label": "Matt Nix"
+    },
+    {
+      "source_page": "X-Men (film series)",
+      "kind": "season",
+      "title": "The Gifted",
+      "link": "The Gifted (American TV series)",
+      "season": 2,
+      "season_link": "The Gifted (season 2)",
+      "episodes": 16,
+      "start": "2018-09-25",
+      "end": "2019-02-26",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "X-Men '97",
+      "kind": "season",
+      "title": "X-Men '97",
+      "link": "X-Men '97",
+      "season": 1,
+      "season_link": "#Season 1 (2024)",
+      "episodes": 10,
+      "start": "2024-03-20",
+      "end": "2024-05-15",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "X-Men '97",
+      "kind": "season",
+      "title": "X-Men '97",
+      "link": "X-Men '97",
+      "season": 2,
+      "season_link": "#Season 2 (2026)",
+      "episodes": 9,
+      "start": "2026-07-01",
+      "end": "2026-08-12",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "I Am Groot",
+      "kind": "season",
+      "title": "I Am Groot",
+      "link": "I Am Groot",
+      "season": 1,
+      "season_link": "I Am Groot#Season 1 (2022)",
+      "episodes": 5,
+      "start": "2022-08-10",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "I Am Groot",
+      "kind": "season",
+      "title": "I Am Groot",
+      "link": "I Am Groot",
+      "season": 2,
+      "season_link": "I Am Groot#Season 2 (2023)",
+      "episodes": 5,
+      "start": "2023-09-06",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Daredevil: Born Again",
+      "kind": "season",
+      "title": "Daredevil: Born Again",
+      "link": "Daredevil: Born Again",
+      "season": 1,
+      "season_link": "#Season 1 (2025)",
+      "episodes": 9,
+      "start": "2025-03-04",
+      "end": "2025-04-15",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Daredevil: Born Again",
+      "kind": "season",
+      "title": "Daredevil: Born Again",
+      "link": "Daredevil: Born Again",
+      "season": 2,
+      "season_link": "#Season 2 (2026)",
+      "episodes": 8,
+      "start": "2026-03-24",
+      "end": "2026-05-05",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Daredevil: Born Again",
+      "kind": "season",
+      "title": "Daredevil: Born Again",
+      "link": "Daredevil: Born Again",
+      "season": 3,
+      "season_link": "#Season 3",
+      "episodes": 8,
+      "start": "2027-03",
+      "end": null,
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Loki (TV series)",
+      "kind": "season",
+      "title": "Loki (TV series)",
+      "link": "Loki (TV series)",
+      "season": 1,
+      "season_link": "#Season 1 (2021)",
+      "episodes": 6,
+      "start": "2021-06-09",
+      "end": "2021-07-14",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "Loki (TV series)",
+      "kind": "season",
+      "title": "Loki (TV series)",
+      "link": "Loki (TV series)",
+      "season": 2,
+      "season_link": "#Season 2 (2023)",
+      "episodes": 6,
+      "start": "2023-10-05",
+      "end": "2023-11-09",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "What If...? (TV series)",
+      "kind": "season",
+      "title": "What If...? (TV series)",
+      "link": "What If...? (TV series)",
+      "season": 1,
+      "season_link": "#Season 1 (2021)",
+      "episodes": 9,
+      "start": "2021-08-11",
+      "end": "2021-10-06",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "What If...? (TV series)",
+      "kind": "season",
+      "title": "What If...? (TV series)",
+      "link": "What If...? (TV series)",
+      "season": 2,
+      "season_link": "#Season 2 (2023)",
+      "episodes": 9,
+      "start": "2023-12-22",
+      "end": "2023-12-30",
+      "status_text": null,
+      "label": null
+    },
+    {
+      "source_page": "What If...? (TV series)",
+      "kind": "season",
+      "title": "What If...? (TV series)",
+      "link": "What If...? (TV series)",
+      "season": 3,
+      "season_link": "#Season 3 (2024)",
+      "episodes": 8,
+      "start": "2024-12-22",
+      "end": "2024-12-29",
+      "status_text": null,
+      "label": null
+    }
+  ],
+  "timeline": [
+    {
+      "year_label": "1260 BC",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Eyes of Wakanda ep. 1",
+          "link": "Eyes of Wakanda",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1259 BC–1201 BC",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "1200 BC",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Eyes of Wakanda ep. 2",
+          "link": null,
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1199 BC–1399",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "1400",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Eyes of Wakanda ep. 3",
+          "link": null,
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1401–1895",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "1896",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Eyes of Wakanda ep. 4",
+          "link": null,
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1897–1942",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "1943–1945",
+      "is_break": false,
+      "items": [
+        {
+          "text": "The First Avenger",
+          "link": "Captain America: The First Avenger",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1946",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Agent Carter",
+          "link": "Agent Carter (film)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1947–1963",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "1964",
+      "is_break": false,
+      "items": [
+        {
+          "text": "The Fantastic Four: First Steps",
+          "link": "The Fantastic Four: First Steps",
+          "multiverse": true,
+          "footnote": "The Fantastic Four: First Steps takes place on Earth-828 in 1964."
+        }
+      ]
+    },
+    {
+      "year_label": "1965–1994",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "1995",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Captain Marvel",
+          "link": "Captain Marvel (film)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "1996–2009",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "2010",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Iron Man",
+          "link": "Iron Man (2008 film)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2011",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Iron Man 2",
+          "link": "Iron Man 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Incredible Hulk",
+          "link": "The Incredible Hulk (film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "A Funny Thing...",
+          "link": "A Funny Thing Happened on the Way to Thor's Hammer",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Thor",
+          "link": "Thor (film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Consultant",
+          "link": "The Consultant (film)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2012",
+      "is_break": false,
+      "items": [
+        {
+          "text": "The Avengers",
+          "link": "The Avengers (2012 film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Item 47",
+          "link": "Item 47",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2013",
+      "is_break": false,
+      "items": [
+        {
+          "text": "The Dark World",
+          "link": "Thor: The Dark World",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Iron Man 3",
+          "link": "Iron Man 3",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2014",
+      "is_break": false,
+      "items": [
+        {
+          "text": "All Hail the King",
+          "link": "All Hail the King",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Winter Soldier",
+          "link": "Captain America: The Winter Soldier",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Guardians of the Galaxy",
+          "link": "Guardians of the Galaxy (film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "I Am Groot ep. 1",
+          "link": "I Am Groot",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Guardians of the Galaxy Vol. 2",
+          "link": "Guardians of the Galaxy Vol. 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "I Am Groot eps. 2–10",
+          "link": null,
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2015",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Daredevil season 1",
+          "link": "Daredevil season 1",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Jessica Jones season 1",
+          "link": "Jessica Jones season 1",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Age of Ultron",
+          "link": "Avengers: Age of Ultron",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Ant-Man",
+          "link": "Ant-Man (film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Daredevil season 2",
+          "link": "Daredevil season 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Luke Cage season 1",
+          "link": "Luke Cage season 1",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2016",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Iron Fist season 1",
+          "link": "Iron Fist season 1",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Defenders",
+          "link": "The Defenders (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Civil War",
+          "link": "Captain America: Civil War",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Your Friendly Neighborhood Spider-Man season 1",
+          "link": "Your Friendly Neighborhood Spider-Man season 1",
+          "multiverse": true,
+          "footnote": "Your Friendly Neighborhood Spider-Man season 1 takes place on Earth-86445 around the events of Civil War."
+        },
+        {
+          "text": "Black Widow",
+          "link": "Black Widow (2021 film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Black Panther",
+          "link": "Black Panther (film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Homecoming",
+          "link": "Spider-Man: Homecoming",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Punisher season 1",
+          "link": "The Punisher season 1",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2016–2017",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Doctor Strange",
+          "link": "Doctor Strange (2016 film)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2017",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Jessica Jones season 2",
+          "link": "Jessica Jones season 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Luke Cage season 2",
+          "link": "Luke Cage season 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Iron Fist season 2",
+          "link": "Iron Fist season 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Daredevil season 3",
+          "link": "Daredevil season 3",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Ragnarok",
+          "link": "Thor: Ragnarok",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2018",
+      "is_break": false,
+      "items": [
+        {
+          "text": "The Punisher season 2",
+          "link": "The Punisher season 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Jessica Jones season 3",
+          "link": "Jessica Jones season 3",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Ant-Man and the Wasp",
+          "link": "Ant-Man and the Wasp",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Infinity War",
+          "link": "Avengers: Infinity War",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2019–2022",
+      "is_break": true,
+      "items": []
+    },
+    {
+      "year_label": "2023",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Endgame",
+          "link": "Avengers: Endgame",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Marvel Zombies season 1",
+          "link": "Marvel Zombies (TV series)",
+          "multiverse": true,
+          "footnote": "Marvel Zombies takes place on the alternate reality from the What If...? episode \"What If... Zombies?!\" (2021)."
+        },
+        {
+          "text": "WandaVision",
+          "link": "WandaVision",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2024",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Deadpool & Wolverine",
+          "link": "Deadpool & Wolverine",
+          "multiverse": true,
+          "footnote": "Deadpool & Wolverine takes place on Earth-10005 and in the Void; it occurs after the events of Loki season 2."
+        },
+        {
+          "text": "Shang-Chi",
+          "link": "Shang-Chi and the Legend of the Ten Rings",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Falcon and the Winter Soldier",
+          "link": "The Falcon and the Winter Soldier",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Far From Home",
+          "link": "Spider-Man: Far From Home",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Eternals",
+          "link": "Eternals (film)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "No Way Home",
+          "link": "Spider-Man: No Way Home",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Multiverse of Madness",
+          "link": "Doctor Strange in the Multiverse of Madness",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Hawkeye",
+          "link": "Hawkeye (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2025",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Moon Knight",
+          "link": "Moon Knight (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Wakanda Forever",
+          "link": "Black Panther: Wakanda Forever",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Echo",
+          "link": "Echo (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "She-Hulk",
+          "link": "She-Hulk: Attorney at Law",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Ms. Marvel",
+          "link": "Ms. Marvel (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Love and Thunder",
+          "link": "Thor: Love and Thunder",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Ironheart",
+          "link": "Ironheart (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Guardians of the Galaxy Holiday Special",
+          "link": "The Guardians of the Galaxy Holiday Special",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2025–2027",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Wonder Man",
+          "link": "Wonder Man (TV series)",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2026",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Quantumania",
+          "link": "Ant-Man and the Wasp: Quantumania",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Guardians of the Galaxy Vol. 3",
+          "link": "Guardians of the Galaxy Vol. 3",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Secret Invasion",
+          "link": "Secret Invasion (miniseries)",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Marvels",
+          "link": "The Marvels",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Agatha All Along",
+          "link": "Agatha All Along",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Born Again season 1 ep. 1",
+          "link": "Daredevil: Born Again season 1",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2027",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Born Again season 1 eps. 2–9",
+          "link": null,
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Brave New World",
+          "link": "Captain America: Brave New World",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Thunderbolts*",
+          "link": "Thunderbolts*",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "Born Again season 2",
+          "link": "Daredevil: Born Again season 2",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "The Punisher: One Last Kill",
+          "link": "The Punisher: One Last Kill",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    },
+    {
+      "year_label": "2028",
+      "is_break": false,
+      "items": [
+        {
+          "text": "Brand New Day",
+          "link": "Spider-Man: Brand New Day",
+          "multiverse": false,
+          "footnote": null
+        },
+        {
+          "text": "VisionQuest",
+          "link": "VisionQuest",
+          "multiverse": false,
+          "footnote": null
+        }
+      ]
+    }
+  ],
+  "disney_plus_order": [
+    "Eyes of Wakanda",
+    "Captain America: The First Avenger",
+    "Agent Carter",
+    "Captain Marvel",
+    "Iron Man",
+    "Iron Man 2",
+    "The Incredible Hulk",
+    "A Funny Thing Happened on the Way to Thor's Hammer",
+    "Thor",
+    "The Consultant",
+    "The Avengers",
+    "Item 47",
+    "Thor: The Dark World",
+    "Iron Man 3",
+    "All Hail the King",
+    "Captain America: The Winter Soldier",
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy Vol. 2",
+    "I Am Groot season 1",
+    "I Am Groot season 2",
+    "Daredevil season 1",
+    "Jessica Jones season 1",
+    "Avengers: Age of Ultron",
+    "Ant-Man",
+    "Daredevil season 2",
+    "Luke Cage season 1",
+    "Iron Fist season 1",
+    "The Defenders",
+    "Captain America: Civil War",
+    "Black Widow",
+    "Black Panther",
+    "Spider-Man: Homecoming",
+    "The Punisher season 1",
+    "Doctor Strange",
+    "Jessica Jones season 2",
+    "Luke Cage season 2",
+    "Iron Fist season 2",
+    "Daredevil season 3",
+    "Thor: Ragnarok",
+    "The Punisher season 2",
+    "Jessica Jones season 3",
+    "Ant-Man and the Wasp",
+    "Avengers: Infinity War",
+    "Avengers: Endgame",
+    "Loki season 1",
+    "What If...? season 1",
+    "Marvel Zombies",
+    "WandaVision",
+    "Shang-Chi and the Legend of the Ten Rings",
+    "The Falcon and the Winter Soldier",
+    "Spider-Man: Far From Home",
+    "Eternals",
+    "Spider-Man: No Way Home",
+    "Doctor Strange in the Multiverse of Madness",
+    "Hawkeye",
+    "Moon Knight",
+    "Black Panther: Wakanda Forever",
+    "Echo",
+    "She-Hulk: Attorney at Law",
+    "Ms. Marvel",
+    "Thor: Love and Thunder",
+    "Ironheart",
+    "Werewolf by Night",
+    "The Guardians of the Galaxy Holiday Special",
+    "Ant-Man and the Wasp: Quantumania",
+    "Guardians of the Galaxy Vol. 3",
+    "Secret Invasion",
+    "The Marvels",
+    "Loki season 2",
+    "What If...? season 2",
+    "Deadpool & Wolverine",
+    "Agatha All Along",
+    "What If...? season 3",
+    "Daredevil: Born Again season 1",
+    "Captain America: Brave New World",
+    "Thunderbolts*",
+    "The Fantastic Four: First Steps",
+    "Wonder Man",
+    "Daredevil: Born Again season 2",
+    "The Punisher: One Last Kill",
+    "VisionQuest"
+  ],
+  "official_timeline_book": [
+    {
+      "label": "June 1943 – March 1945",
+      "works": [
+        {
+          "text": "Captain America: The First Avenger",
+          "note": "pg 31–35"
+        }
+      ]
+    },
+    {
+      "label": "1946",
+      "works": [
+        {
+          "text": "Agent Carter",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Summer 1995",
+      "works": [
+        {
+          "text": "Captain Marvel",
+          "note": "pg 54–64"
+        }
+      ]
+    },
+    {
+      "label": "Early–Spring 2008",
+      "works": [
+        {
+          "text": "Iron Man",
+          "note": "pg 70–73"
+        }
+      ]
+    },
+    {
+      "label": "Spring 2010",
+      "works": [
+        {
+          "text": "Iron Man 2",
+          "note": null
+        },
+        {
+          "text": "The Incredible Hulk",
+          "note": null
+        },
+        {
+          "text": "Thor",
+          "note": "pg 77–88"
+        }
+      ]
+    },
+    {
+      "label": "Summer 2010",
+      "works": [
+        {
+          "text": "The Consultant",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Spring 2012",
+      "works": [
+        {
+          "text": "The Avengers",
+          "note": "pg 92–97"
+        },
+        {
+          "text": "Item 47",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Fall 2013",
+      "works": [
+        {
+          "text": "Thor: The Dark World",
+          "note": "pg 100–103"
+        }
+      ]
+    },
+    {
+      "label": "December 2013 – Early 2014",
+      "works": [
+        {
+          "text": "Iron Man 3",
+          "note": "pg 106–109"
+        }
+      ]
+    },
+    {
+      "label": "Early 2014",
+      "works": [
+        {
+          "text": "All Hail the King",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Spring 2014",
+      "works": [
+        {
+          "text": "Captain America: The Winter Soldier",
+          "note": "pg 114–124"
+        }
+      ]
+    },
+    {
+      "label": "Summer 2014",
+      "works": [
+        {
+          "text": "Guardians of the Galaxy",
+          "note": "pg 124–129"
+        },
+        {
+          "text": "I Am Groot episode 1",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Fall 2014",
+      "works": [
+        {
+          "text": "Guardians of the Galaxy Vol. 2",
+          "note": "pg 132–135"
+        },
+        {
+          "text": "I Am Groot episodes 2–5",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Spring 2015",
+      "works": [
+        {
+          "text": "Avengers: Age of Ultron",
+          "note": "pg 138–143"
+        }
+      ]
+    },
+    {
+      "label": "Summer 2015",
+      "works": [
+        {
+          "text": "Ant-Man",
+          "note": "pg 146–149"
+        }
+      ]
+    },
+    {
+      "label": "Spring 2016",
+      "works": [
+        {
+          "text": "Captain America: Civil War",
+          "note": "pg 150–159"
+        }
+      ]
+    },
+    {
+      "label": "Spring–Summer 2016",
+      "works": [
+        {
+          "text": "Black Widow",
+          "note": "pg 159–166"
+        }
+      ]
+    },
+    {
+      "label": "Summer 2016",
+      "works": [
+        {
+          "text": "Black Panther",
+          "note": "pg 166–172"
+        }
+      ]
+    },
+    {
+      "label": "Fall 2016",
+      "works": [
+        {
+          "text": "Spider-Man: Homecoming",
+          "note": "pg 172–176"
+        }
+      ]
+    },
+    {
+      "label": "Fall 2016–2017",
+      "works": [
+        {
+          "text": "Doctor Strange",
+          "note": "pg 176–180"
+        }
+      ]
+    },
+    {
+      "label": "Fall 2017",
+      "works": [
+        {
+          "text": "Thor: Ragnarok",
+          "note": "pg 181–186"
+        }
+      ]
+    },
+    {
+      "label": "Spring 2018",
+      "works": [
+        {
+          "text": "Ant-Man and the Wasp",
+          "note": "pg 187–191"
+        },
+        {
+          "text": "Avengers: Infinity War",
+          "note": "pg 192–205"
+        }
+      ]
+    },
+    {
+      "label": "Fall 2023",
+      "works": [
+        {
+          "text": "Avengers: Endgame",
+          "note": "pg 210–235"
+        },
+        {
+          "text": "WandaVision",
+          "note": "pg 237–243"
+        }
+      ]
+    },
+    {
+      "label": "Spring 2024",
+      "works": [
+        {
+          "text": "Shang-Chi and the Legend of the Ten Rings",
+          "note": "pg 244–247"
+        },
+        {
+          "text": "The Falcon and the Winter Soldier episodes 1–5",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Summer 2024",
+      "works": [
+        {
+          "text": "Spider-Man: Far From Home",
+          "note": "pg 258–264"
+        },
+        {
+          "text": "The Falcon and the Winter Soldier episode 6",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Fall 2024",
+      "works": [
+        {
+          "text": "She-Hulk: Attorney at Law episode 1, Eternals",
+          "note": "pg 268–272"
+        },
+        {
+          "text": "Spider-Man: No Way Home",
+          "note": "pg 272–278"
+        },
+        {
+          "text": "Doctor Strange in the Multiverse of Madness",
+          "note": "pg 278–286"
+        }
+      ]
+    },
+    {
+      "label": "December 2024",
+      "works": [
+        {
+          "text": "Hawkeye",
+          "note": "pg 287–291"
+        }
+      ]
+    },
+    {
+      "label": "Spring 2025",
+      "works": [
+        {
+          "text": "She-Hulk: Attorney at Law episodes 2–3, Moon Knight",
+          "note": "pg 296–301"
+        },
+        {
+          "text": "Black Panther: Wakanda Forever",
+          "note": "pg 301–307"
+        }
+      ]
+    },
+    {
+      "label": "Summer 2025",
+      "works": [
+        {
+          "text": "She-Hulk: Attorney at Law episodes 4–8",
+          "note": null
+        }
+      ]
+    },
+    {
+      "label": "Fall 2025",
+      "works": [
+        {
+          "text": "She-Hulk: Attorney at Law episode 9, Ms. Marvel",
+          "note": "pg 313–318"
+        },
+        {
+          "text": "Thor: Love and Thunder",
+          "note": "pg 319–323"
+        },
+        {
+          "text": "Werewolf by Night",
+          "note": "pg 324"
+        }
+      ]
+    },
+    {
+      "label": "December 2025",
+      "works": [
+        {
+          "text": "The Guardians of the Galaxy Holiday Special",
+          "note": "pg 325"
+        }
+      ]
+    }
+  ]
+}

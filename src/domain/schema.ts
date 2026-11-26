@@ -1,0 +1,212 @@
+// Canonical data schema for TimeLiner. Shared by the app, scripts/verify-data.ts and tests.
+// Model: UNIVERSE -> CONTINUITY -> (BRANCH) -> TITLE -> UNIT.
+// Nothing franchise-specific lives here: phases, sagas, branches, studios, platforms are data.
+import { z } from 'zod';
+
+const slug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'lower-kebab-case slug');
+const isoDate = z.string().regex(/^-?\d{1,4}(-\d{2}(-\d{2})?)?$/, 'ISO date: yyyy, yyyy-mm or yyyy-mm-dd');
+const url = z.string().url();
+const hexColor = z.string().regex(/^#[0-9a-fA-F]{6}$/);
+
+// ---------- Registries (open vocabularies) ----------
+export const Studio = z.object({
+  id: slug,
+  label: z.string(),
+  kind: z.enum(['studio', 'division', 'label', 'distributor', 'other']),
+  parent: slug.nullable().default(null),
+  note: z.string().default(''),
+});
+export const Platform = z.object({
+  id: slug,
+  label: z.string(),
+  kind: z.enum(['theatrical', 'streaming', 'broadcast', 'cable', 'home-media', 'other']),
+  note: z.string().default(''),
+});
+export const Tag = z.object({
+  id: slug,
+  label: z.string(),
+  kind: z.enum(['character', 'team', 'franchise']),
+  aliases: z.array(z.string()).default([]),
+});
+
+// ---------- Calendars ----------
+/** Partial date on the continuity's own calendar scale. Gregorian: y<0 is BC (no year 0). */
+export const PartialDate = z.object({
+  y: z.number().int(),
+  m: z.number().int().min(1).max(12).optional(),
+  d: z.number().int().min(1).max(31).optional(),
+});
+export const Calendar = z.discriminatedUnion('kind', [
+  z.object({ kind: z.literal('gregorian') }),
+  z.object({
+    kind: z.literal('era'),
+    before_label: z.string(), // e.g. "BBY"
+    after_label: z.string(), // e.g. "ABY"
+    has_year_zero: z.boolean(),
+  }),
+  z.object({ kind: z.literal('ordered-only') }),
+]);
+
+// ---------- Universe ----------
+export const GroupingValue = z.object({
+  id: slug,
+  label: z.string(),
+  order: z.number(),
+  parent: slug.nullable().default(null), // e.g. phase -> saga value
+});
+export const GroupingScheme = z.object({
+  id: slug,
+  label: z.string(),
+  parent_scheme: slug.nullable().default(null),
+  values: z.array(GroupingValue),
+});
+export const Universe = z.object({
+  id: slug,
+  name: z.string(),
+  short_name: z.string(),
+  order: z.number(),
+  enabled: z.boolean(), // false = data present but hidden in app
+  accent: z.object({ primary: hexColor, secondary: hexColor }),
+  default_continuity: slug,
+  grouping_schemes: z.array(GroupingScheme).default([]),
+  data_dir: z.string(), // relative to data/, e.g. "marvel"
+  description: z.string().default(''),
+  last_verified: isoDate.nullable(),
+});
+
+// ---------- Continuity ----------
+export const Marker = z.enum(['dot', 'diamond', 'square', 'triangle', 'hollow-dot', 'hollow-diamond', 'hollow-square', 'star']);
+export const Branch = z.object({
+  id: slug,
+  label: z.string(),
+  marker: Marker,
+  description: z.string().default(''),
+  placeable: z.boolean().default(true), // false: units live in a "no fixed point" lane
+  parent: slug.nullable().default(null),
+  diverges_at: PartialDate.nullable().default(null),
+  is_main: z.boolean().default(false),
+});
+export const AltOrder = z.object({
+  id: slug,
+  label: z.string(),
+  source_url: url,
+  as_of: isoDate,
+  note: z.string().default(''),
+  unit_ids: z.array(z.string()),
+});
+export const Continuity = z.object({
+  id: slug,
+  universe: slug,
+  name: z.string(),
+  short_name: z.string(),
+  order: z.number(),
+  kind: z.enum(['shared', 'standalone-collection']),
+  calendar: Calendar,
+  branches: z.array(Branch).min(1),
+  grouping_schemes: z.array(slug).default([]),
+  alt_orders: z.array(AltOrder).default([]),
+  description: z.string().default(''),
+  source_urls: z.array(url).default([]),
+  notes: z.string().default(''),
+});
+
+// ---------- Title & Unit ----------
+export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 'crossover-event']);
+export const CanonTier = z.enum(['core', 'outside-set-date', 'multiverse-variant', 'adjacent', 'non-placeable']);
+export const Status = z.enum(['released', 'upcoming', 'cancelled', 'in-production']);
+export const Precision = z.enum(['exact', 'year', 'approx', 'range', 'relative']);
+export const Confidence = z.enum(['stated', 'inferred', 'disputed']);
+
+export const InUniverse = z.object({
+  start: PartialDate.nullable(),
+  end: PartialDate.nullable(),
+  label: z.string(), // human label, e.g. "1943–1945", "Spring 2014", "No fixed point"
+  precision: Precision,
+  confidence: Confidence,
+  note: z.string().default(''),
+  /** Position within the continuity. Always present; unique per continuity. Drives in-universe order. */
+  order_index: z.number(),
+  /** For precision "relative": anchors by unit id. */
+  relative_to: z.object({ after: z.string().nullable(), before: z.string().nullable() }).nullable().default(null),
+});
+
+export const EpisodeRef = z.object({ season: z.number().int().min(0), episode: z.number().int().min(1) });
+
+export const Unit = z.object({
+  id: slug,
+  label: z.string(), // e.g. "Film", "Season 1", "Season 1, ep. 1"
+  season: z.number().int().nullable().default(null),
+  episode_range: z.object({ from: EpisodeRef, to: EpisodeRef }).nullable().default(null),
+  episode_count: z.number().int().nullable().default(null),
+  runtime_min: z.number().nullable().default(null),
+  timeline_branch: slug,
+  canon_tier: CanonTier.nullable().default(null), // null = inherit title's
+  in_universe: InUniverse,
+  release: z.object({
+    date: isoDate.nullable(), // first release (original platform); partial allowed for upcoming
+    end_date: isoDate.nullable().default(null), // last episode of a season
+    year: z.number().int().nullable(),
+    note: z.string().default(''),
+  }),
+  status: Status,
+  groupings: z.record(z.string(), slug.nullable()).default({}),
+  platform_or_network: slug.nullable().default(null), // null = inherit
+  /** How this unit is named in each tracked source (drift detection). e.g. {"mcu-timeline-diagram": "Iron Man"} */
+  source_keys: z.record(z.string(), z.string()).default({}),
+  source_urls: z.array(url).default([]),
+  notes: z.string().default(''),
+});
+
+export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters']);
+export const TitleLink = z.object({ to: slug, kind: LinkKind, note: z.string().default('') });
+
+export const Title = z.object({
+  id: slug,
+  title: z.string(),
+  sort_title: z.string().nullable().default(null),
+  type: TitleType,
+  universe: slug,
+  continuity: slug,
+  studio_brand: slug, // registry: studios
+  label: slug.nullable().default(null), // registry: studios (kind=label), e.g. Marvel Spotlight
+  platform_or_network: slug, // registry: platforms (original release)
+  canon_tier: CanonTier,
+  characters: z.array(slug).default([]),
+  franchises: z.array(slug).default([]),
+  status: Status, // roll-up of units
+  external_ids: z.object({
+    enwiki: z.string().nullable().default(null), // English Wikipedia article title
+    wikidata: z.string().regex(/^Q\d+$/).nullable().default(null),
+    tmdb: z.string().nullable().default(null),
+    imdb: z.string().nullable().default(null),
+  }).default({ enwiki: null, wikidata: null, tmdb: null, imdb: null }),
+  source_urls: z.array(url).min(1),
+  notes: z.string().default(''),
+  units: z.array(Unit).min(1),
+  links: z.array(TitleLink).default([]),
+  /** crossover-event only: unit ids (owned by other titles) that make up the event. */
+  constituents: z.array(z.string()).default([]),
+});
+
+export const UniversesFile = z.array(Universe);
+export const ContinuitiesFile = z.array(Continuity);
+export const TitlesFile = z.array(Title);
+export const TagsFile = z.array(Tag);
+export const StudiosFile = z.array(Studio);
+export const PlatformsFile = z.array(Platform);
+/** old unit id -> replacement unit ids (watched-state migration). */
+export const AliasesFile = z.record(z.string(), z.array(z.string()));
+
+export type Universe = z.infer<typeof Universe>;
+export type Continuity = z.infer<typeof Continuity>;
+export type Branch = z.infer<typeof Branch>;
+export type Title = z.infer<typeof Title>;
+export type Unit = z.infer<typeof Unit>;
+export type PartialDate = z.infer<typeof PartialDate>;
+export type InUniverse = z.infer<typeof InUniverse>;
+export type Studio = z.infer<typeof Studio>;
+export type Platform = z.infer<typeof Platform>;
+export type Tag = z.infer<typeof Tag>;
+export type CanonTier = z.infer<typeof CanonTier>;
+export type TitleType = z.infer<typeof TitleType>;
+export type Status = z.infer<typeof Status>;

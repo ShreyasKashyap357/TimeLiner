@@ -1,0 +1,65 @@
+[
+  {
+    "id": "marvel-studios",
+    "label": "Marvel Studios",
+    "kind": "studio",
+    "parent": null,
+    "note": ""
+  },
+  {
+    "id": "marvel-television",
+    "label": "Marvel Television (2010–2019 division)",
+    "kind": "division",
+    "parent": null,
+    "note": "The original division behind the ABC, Netflix, Hulu and Freeform series. Folded into Marvel Studios in 2019."
+  },
+  {
+    "id": "marvel-television-label",
+    "label": "Marvel Television (Marvel Studios label)",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "note": "Banner introduced by Marvel Studios in 2024. Not the same as the 2010–2019 division."
+  },
+  {
+    "id": "marvel-studios-animation",
+    "label": "Marvel Studios Animation",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "note": ""
+  },
+  {
+    "id": "marvel-animation",
+    "label": "Marvel Animation",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "note": "Label used by Marvel Studios for animation from 2024."
+  },
+  {
+    "id": "marvel-spotlight",
+    "label": "Marvel Spotlight",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "note": "Banner for more grounded, character-focused stories (2024–)."
+  },
+  {
+    "id": "marvel-entertainment-group",
+    "label": "Marvel Entertainment Group",
+    "kind": "studio",
+    "parent": null,
+    "note": "With Saban Entertainment, Graz Entertainment and AKOM for X-Men: The Animated Series."
+  },
+  {
+    "id": "fox",
+    "label": "20th Century Fox",
+    "kind": "studio",
+    "parent": null,
+    "note": ""
+  },
+  {
+    "id": "sony",
+    "label": "Sony Pictures (Columbia)",
+    "kind": "studio",
+    "parent": null,
+    "note": ""
+  }
+]

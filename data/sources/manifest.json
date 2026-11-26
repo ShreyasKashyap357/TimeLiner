@@ -1,6 +1,32 @@
 [
   {
     "site": "wikipedia",
+    "requested_title": "Agent Carter (TV series)",
+    "resolved_title": "Agent Carter (TV series)",
+    "url": "https://en.wikipedia.org/wiki/Agent_Carter_(TV_series)",
+    "revid": 1387495185,
+    "fetched_at": "2026-11-26T07:28:08.470Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Agent_Carter_(TV_series).wikitext",
+      "html": "wikipedia/Agent_Carter_(TV_series).html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "Agents of S.H.I.E.L.D.",
+    "resolved_title": "Agents of S.H.I.E.L.D.",
+    "url": "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.",
+    "revid": 1387834943,
+    "fetched_at": "2026-11-26T07:28:05.013Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Agents_of_SHIELD.wikitext",
+      "html": "wikipedia/Agents_of_SHIELD.html"
+    }
+  },
+  {
+    "site": "wikipedia",
     "requested_title": "Avengers: Doomsday",
     "resolved_title": "Avengers: Doomsday",
     "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
@@ -10,6 +36,19 @@
     "files": {
       "wikitext": "wikipedia/Avengers_Doomsday.wikitext",
       "html": "wikipedia/Avengers_Doomsday.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "Cloak & Dagger (TV series)",
+    "resolved_title": "Cloak & Dagger (TV series)",
+    "url": "https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(TV_series)",
+    "revid": 1387199575,
+    "fetched_at": "2026-11-26T07:28:18.600Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Cloak_Dagger_(TV_series).wikitext",
+      "html": "wikipedia/Cloak_Dagger_(TV_series).html"
     }
   },
   {
@@ -40,6 +79,19 @@
   },
   {
     "site": "wikipedia",
+    "requested_title": "Helstrom (TV series)",
+    "resolved_title": "Helstrom (TV series)",
+    "url": "https://en.wikipedia.org/wiki/Helstrom_(TV_series)",
+    "revid": 1387219159,
+    "fetched_at": "2026-11-26T07:28:21.635Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Helstrom_(TV_series).wikitext",
+      "html": "wikipedia/Helstrom_(TV_series).html"
+    }
+  },
+  {
+    "site": "wikipedia",
     "requested_title": "I Am Groot",
     "resolved_title": "I Am Groot",
     "url": "https://en.wikipedia.org/wiki/I_Am_Groot",
@@ -49,6 +101,19 @@
     "files": {
       "wikitext": "wikipedia/I_Am_Groot.wikitext",
       "html": "wikipedia/I_Am_Groot.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "Inhumans (TV series)",
+    "resolved_title": "Inhumans (TV series)",
+    "url": "https://en.wikipedia.org/wiki/Inhumans_(TV_series)",
+    "revid": 1387223595,
+    "fetched_at": "2026-11-26T07:28:11.884Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Inhumans_(TV_series).wikitext",
+      "html": "wikipedia/Inhumans_(TV_series).html"
     }
   },
   {
@@ -326,11 +391,24 @@
   },
   {
     "site": "wikipedia",
-    "requested_title": "Sony's Spider-Man Universe",
+    "requested_title": "Runaways (TV series)",
+    "resolved_title": "Runaways (TV series)",
+    "url": "https://en.wikipedia.org/wiki/Runaways_(TV_series)",
+    "revid": 1387247905,
+    "fetched_at": "2026-11-26T07:28:15.339Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Runaways_(TV_series).wikitext",
+      "html": "wikipedia/Runaways_(TV_series).html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "Venom (film series)",
     "resolved_title": "Sony's Spider-Man Universe",
     "url": "https://en.wikipedia.org/wiki/Sony's_Spider-Man_Universe",
     "revid": 1384290782,
-    "fetched_at": "2026-11-26T07:19:26.535Z",
+    "fetched_at": "2026-11-26T07:28:25.393Z",
     "license": "CC BY-SA 4.0",
     "files": {
       "wikitext": "wikipedia/Sonys_Spider-Man_Universe.wikitext",

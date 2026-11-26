@@ -1,0 +1,486 @@
+[
+  {
+    "id": "iron-man",
+    "label": "Iron Man",
+    "kind": "character",
+    "aliases": [
+      "Tony Stark"
+    ]
+  },
+  {
+    "id": "hulk",
+    "label": "Hulk",
+    "kind": "character",
+    "aliases": [
+      "Bruce Banner"
+    ]
+  },
+  {
+    "id": "black-widow",
+    "label": "Black Widow",
+    "kind": "character",
+    "aliases": [
+      "Natasha Romanoff"
+    ]
+  },
+  {
+    "id": "nick-fury",
+    "label": "Nick Fury",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "thor",
+    "label": "Thor",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "loki",
+    "label": "Loki",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "captain-america",
+    "label": "Captain America",
+    "kind": "character",
+    "aliases": [
+      "Steve Rogers",
+      "Sam Wilson"
+    ]
+  },
+  {
+    "id": "peggy-carter",
+    "label": "Peggy Carter",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "bucky-barnes",
+    "label": "Bucky Barnes",
+    "kind": "character",
+    "aliases": [
+      "Winter Soldier"
+    ]
+  },
+  {
+    "id": "hawkeye",
+    "label": "Hawkeye",
+    "kind": "character",
+    "aliases": [
+      "Clint Barton"
+    ]
+  },
+  {
+    "id": "falcon",
+    "label": "Falcon",
+    "kind": "character",
+    "aliases": [
+      "Sam Wilson"
+    ]
+  },
+  {
+    "id": "star-lord",
+    "label": "Star-Lord",
+    "kind": "character",
+    "aliases": [
+      "Peter Quill"
+    ]
+  },
+  {
+    "id": "groot",
+    "label": "Groot",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "scarlet-witch",
+    "label": "Scarlet Witch",
+    "kind": "character",
+    "aliases": [
+      "Wanda Maximoff"
+    ]
+  },
+  {
+    "id": "vision",
+    "label": "Vision",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "ant-man",
+    "label": "Ant-Man",
+    "kind": "character",
+    "aliases": [
+      "Scott Lang"
+    ]
+  },
+  {
+    "id": "wasp",
+    "label": "Wasp",
+    "kind": "character",
+    "aliases": [
+      "Hope van Dyne"
+    ]
+  },
+  {
+    "id": "black-panther",
+    "label": "Black Panther",
+    "kind": "character",
+    "aliases": [
+      "T'Challa",
+      "Shuri"
+    ]
+  },
+  {
+    "id": "spider-man",
+    "label": "Spider-Man",
+    "kind": "character",
+    "aliases": [
+      "Peter Parker"
+    ]
+  },
+  {
+    "id": "doctor-strange",
+    "label": "Doctor Strange",
+    "kind": "character",
+    "aliases": [
+      "Stephen Strange"
+    ]
+  },
+  {
+    "id": "thanos",
+    "label": "Thanos",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "captain-marvel",
+    "label": "Captain Marvel",
+    "kind": "character",
+    "aliases": [
+      "Carol Danvers"
+    ]
+  },
+  {
+    "id": "yelena-belova",
+    "label": "Yelena Belova",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "shang-chi",
+    "label": "Shang-Chi",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "ironheart",
+    "label": "Ironheart",
+    "kind": "character",
+    "aliases": [
+      "Riri Williams"
+    ]
+  },
+  {
+    "id": "kang",
+    "label": "Kang",
+    "kind": "character",
+    "aliases": [
+      "He Who Remains"
+    ]
+  },
+  {
+    "id": "ms-marvel",
+    "label": "Ms. Marvel",
+    "kind": "character",
+    "aliases": [
+      "Kamala Khan"
+    ]
+  },
+  {
+    "id": "monica-rambeau",
+    "label": "Monica Rambeau",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "deadpool",
+    "label": "Deadpool",
+    "kind": "character",
+    "aliases": [
+      "Wade Wilson"
+    ]
+  },
+  {
+    "id": "wolverine",
+    "label": "Wolverine",
+    "kind": "character",
+    "aliases": [
+      "Logan"
+    ]
+  },
+  {
+    "id": "doctor-doom",
+    "label": "Doctor Doom",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "ghost-rider",
+    "label": "Ghost Rider",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "phil-coulson",
+    "label": "Phil Coulson",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "werewolf-by-night",
+    "label": "Werewolf by Night",
+    "kind": "character",
+    "aliases": [
+      "Jack Russell"
+    ]
+  },
+  {
+    "id": "punisher",
+    "label": "Punisher",
+    "kind": "character",
+    "aliases": [
+      "Frank Castle"
+    ]
+  },
+  {
+    "id": "agatha-harkness",
+    "label": "Agatha Harkness",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "the-watcher",
+    "label": "The Watcher",
+    "kind": "character",
+    "aliases": [
+      "Uatu"
+    ]
+  },
+  {
+    "id": "kate-bishop",
+    "label": "Kate Bishop",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "kingpin",
+    "label": "Kingpin",
+    "kind": "character",
+    "aliases": [
+      "Wilson Fisk"
+    ]
+  },
+  {
+    "id": "echo",
+    "label": "Echo",
+    "kind": "character",
+    "aliases": [
+      "Maya Lopez"
+    ]
+  },
+  {
+    "id": "moon-knight",
+    "label": "Moon Knight",
+    "kind": "character",
+    "aliases": [
+      "Marc Spector"
+    ]
+  },
+  {
+    "id": "she-hulk",
+    "label": "She-Hulk",
+    "kind": "character",
+    "aliases": [
+      "Jennifer Walters"
+    ]
+  },
+  {
+    "id": "daredevil",
+    "label": "Daredevil",
+    "kind": "character",
+    "aliases": [
+      "Matt Murdock"
+    ]
+  },
+  {
+    "id": "wonder-man",
+    "label": "Wonder Man",
+    "kind": "character",
+    "aliases": [
+      "Simon Williams"
+    ]
+  },
+  {
+    "id": "jessica-jones",
+    "label": "Jessica Jones",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "luke-cage",
+    "label": "Luke Cage",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "iron-fist",
+    "label": "Iron Fist",
+    "kind": "character",
+    "aliases": [
+      "Danny Rand"
+    ]
+  },
+  {
+    "id": "cloak-and-dagger",
+    "label": "Cloak & Dagger",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "helstrom",
+    "label": "Helstrom",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "professor-x",
+    "label": "Professor X",
+    "kind": "character",
+    "aliases": [
+      "Charles Xavier"
+    ]
+  },
+  {
+    "id": "magneto",
+    "label": "Magneto",
+    "kind": "character",
+    "aliases": [
+      "Erik Lehnsherr"
+    ]
+  },
+  {
+    "id": "jean-grey",
+    "label": "Jean Grey",
+    "kind": "character",
+    "aliases": [
+      "Phoenix"
+    ]
+  },
+  {
+    "id": "venom",
+    "label": "Venom",
+    "kind": "character",
+    "aliases": [
+      "Eddie Brock"
+    ]
+  },
+  {
+    "id": "morbius",
+    "label": "Morbius",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "madame-web",
+    "label": "Madame Web",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "kraven",
+    "label": "Kraven the Hunter",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "avengers",
+    "label": "Avengers",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "shield",
+    "label": "S.H.I.E.L.D.",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "guardians-of-the-galaxy",
+    "label": "Guardians of the Galaxy",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "wakanda",
+    "label": "Wakanda",
+    "kind": "franchise",
+    "aliases": []
+  },
+  {
+    "id": "eternals",
+    "label": "Eternals",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "x-men",
+    "label": "X-Men",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "thunderbolts",
+    "label": "Thunderbolts",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "fantastic-four",
+    "label": "Fantastic Four",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "tva",
+    "label": "Time Variance Authority",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "defenders",
+    "label": "Defenders",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "inhumans",
+    "label": "Inhumans",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "runaways",
+    "label": "Runaways",
+    "kind": "team",
+    "aliases": []
+  },
+  {
+    "id": "spider-man-franchise",
+    "label": "Spider-Man (franchise)",
+    "kind": "franchise",
+    "aliases": []
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "mcu",
+    "universe": "marvel",
+    "name": "Marvel Cinematic Universe",
+    "short_name": "MCU",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "sacred-timeline",
+        "label": "Sacred Timeline",
+        "marker": "dot",
+        "description": "Occurs on the MCU's Sacred Timeline (Earth-616).",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": true
+      },
+      {
+        "id": "earth-828",
+        "label": "Earth-828",
+        "marker": "diamond",
+        "description": "The Fantastic Four: First Steps reality.",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": false
+      },
+      {
+        "id": "earth-10005",
+        "label": "Earth-10005 / the Void",
+        "marker": "diamond",
+        "description": "Deadpool & Wolverine. Earth-10005 is Marvel's designation for the Fox X-Men film universe.",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": false
+      },
+      {
+        "id": "earth-86445",
+        "label": "Earth-86445",
+        "marker": "diamond",
+        "description": "Your Friendly Neighborhood Spider-Man reality.",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": false
+      },
+      {
+        "id": "zombies-reality",
+        "label": "Zombies reality",
+        "marker": "diamond",
+        "description": "Reality of What If...? \"What If... Zombies?!\" (Marvel Zombies).",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": false
+      },
+      {
+        "id": "outside-time",
+        "label": "Outside time (TVA)",
+        "marker": "hollow-square",
+        "description": "Outside the timeline with no set timeframe (Loki).",
+        "placeable": false,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": false
+      },
+      {
+        "id": "multiverse",
+        "label": "Multiverse (no set timeframe)",
+        "marker": "hollow-diamond",
+        "description": "Alternate realities with no set timeframe (What If...?).",
+        "placeable": false,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": false
+      }
+    ],
+    "grouping_schemes": [
+      "saga",
+      "phase"
+    ],
+    "alt_orders": [
+      {
+        "id": "disney-plus",
+        "label": "Disney+ timeline order",
+        "source_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_timeline",
+        "as_of": "2026-11-26",
+        "note": "As transcribed on Wikipedia (\"as of VisionQuest\"). Season-level entries expanded to all units of that season.",
+        "unit_ids": [
+          "eyes-of-wakanda-ep1",
+          "eyes-of-wakanda-ep2",
+          "eyes-of-wakanda-ep3",
+          "eyes-of-wakanda-ep4",
+          "captain-america-the-first-avenger",
+          "agent-carter-one-shot",
+          "captain-marvel",
+          "iron-man",
+          "iron-man-2",
+          "the-incredible-hulk",
+          "a-funny-thing-happened-on-the-way-to-thors-hammer",
+          "thor",
+          "the-consultant",
+          "the-avengers",
+          "item-47",
+          "thor-the-dark-world",
+          "iron-man-3",
+          "all-hail-the-king",
+          "captain-america-the-winter-soldier",
+          "guardians-of-the-galaxy",
+          "guardians-of-the-galaxy-vol-2",
+          "i-am-groot-ep1",
+          "i-am-groot-ep2-10",
+          "daredevil-s1",
+          "jessica-jones-s1",
+          "avengers-age-of-ultron",
+          "ant-man",
+          "daredevil-s2",
+          "luke-cage-s1",
+          "iron-fist-s1",
+          "the-defenders-s1",
+          "captain-america-civil-war",
+          "black-widow",
+          "black-panther",
+          "spider-man-homecoming",
+          "the-punisher-s1",
+          "doctor-strange",
+          "jessica-jones-s2",
+          "luke-cage-s2",
+          "iron-fist-s2",
+          "daredevil-s3",
+          "thor-ragnarok",
+          "the-punisher-s2",
+          "jessica-jones-s3",
+          "ant-man-and-the-wasp",
+          "avengers-infinity-war",
+          "avengers-endgame",
+          "loki-s1",
+          "what-if-s1",
+          "marvel-zombies-s1",
+          "wandavision-s1",
+          "shang-chi-and-the-legend-of-the-ten-rings",
+          "the-falcon-and-the-winter-soldier-s1",
+          "spider-man-far-from-home",
+          "eternals",
+          "spider-man-no-way-home",
+          "doctor-strange-in-the-multiverse-of-madness",
+          "hawkeye-s1",
+          "moon-knight-s1",
+          "black-panther-wakanda-forever",
+          "echo-s1",
+          "she-hulk-attorney-at-law-s1",
+          "ms-marvel-s1",
+          "thor-love-and-thunder",
+          "ironheart-s1",
+          "werewolf-by-night",
+          "the-guardians-of-the-galaxy-holiday-special",
+          "ant-man-and-the-wasp-quantumania",
+          "guardians-of-the-galaxy-vol-3",
+          "secret-invasion-s1",
+          "the-marvels",
+          "loki-s2",
+          "what-if-s2",
+          "deadpool-and-wolverine",
+          "agatha-all-along-s1",
+          "what-if-s3",
+          "daredevil-born-again-s1-e1",
+          "daredevil-born-again-s1-e2-9",
+          "captain-america-brave-new-world",
+          "thunderbolts",
+          "the-fantastic-four-first-steps",
+          "wonder-man-s1",
+          "daredevil-born-again-s2",
+          "the-punisher-one-last-kill",
+          "visionquest-s1"
+        ]
+      }
+    ],
+    "description": "Marvel Studios' shared universe. Branches share one calendar; the Sacred Timeline is the main branch.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_timeline",
+      "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+    ],
+    "notes": "Other realities that Wikipedia places at a set timeframe are branches. Titles with no set timeframe are on non-placeable branches."
+  },
+  {
+    "id": "fox-x-men",
+    "universe": "marvel",
+    "name": "X-Men film series (20th Century Fox)",
+    "short_name": "Fox X-Men",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "original",
+        "label": "Original timeline",
+        "marker": "dot",
+        "description": "Through X-Men: Days of Future Past (future).",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": true
+      },
+      {
+        "id": "revised",
+        "label": "Revised timeline",
+        "marker": "triangle",
+        "description": "Created in 1973 by Days of Future Past.",
+        "placeable": true,
+        "parent": "original",
+        "diverges_at": {
+          "y": 1973
+        },
+        "is_main": false
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Fox's X-Men films (2000–2020). Days of Future Past creates a revised timeline from 1973.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/X-Men_(film_series)"
+    ],
+    "notes": "Wikipedia: continuity 'is not uniform'. Deadpool films, Logan and The New Mutants are flagged disputed."
+  },
+  {
+    "id": "ssu",
+    "universe": "marvel",
+    "name": "Sony's Spider-Man Universe",
+    "short_name": "SSU",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Sony's live-action films built around Spider-Man characters (2018–2024).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sony's_Spider-Man_Universe"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "raimi-spider-man",
+    "universe": "marvel",
+    "name": "Spider-Man trilogy (Raimi)",
+    "short_name": "Raimi",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Sam Raimi’s Spider-Man films (2002–2007). Linked to the MCU only through No Way Home.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spider-Man_in_film"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "webb-spider-man",
+    "universe": "marvel",
+    "name": "The Amazing Spider-Man (Webb)",
+    "short_name": "Webb",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Marc Webb’s Amazing Spider-Man films (2012–2014). Linked to the MCU only through No Way Home.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spider-Man_in_film"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "x-men-animated",
+    "universe": "marvel",
+    "name": "X-Men: The Animated Series / X-Men ’97",
+    "short_name": "X-Men TAS",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The 1992–1997 animated series and its 2024 continuation X-Men ’97. Not part of the MCU.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series",
+      "https://en.wikipedia.org/wiki/X-Men_'97"
+    ],
+    "notes": ""
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "description": "Manual transcription of reference/mcu_timeline_current.png (user-supplied baseline, 'as of Spider-Man: Brand New Day'). Order within each year is as drawn. marker: dot = Sacred Timeline, diamond = outside the Sacred Timeline at a set timeframe.",
+  "transcribed": "2026-11-26",
+  "excluded_footer": ["loki-s1", "loki-s2", "what-if-s1", "what-if-s2", "what-if-s3", "werewolf-by-night", "visionquest-s1"],
+  "rows": [
+    { "label": "1260 BC", "units": [["eyes-of-wakanda-ep1", "dot"]] },
+    { "label": "1200 BC", "units": [["eyes-of-wakanda-ep2", "dot"]] },
+    { "label": "1400 AD", "units": [["eyes-of-wakanda-ep3", "dot"]] },
+    { "label": "1896 AD", "units": [["eyes-of-wakanda-ep4", "dot"]] },
+    { "label": "1943-1945", "units": [["captain-america-the-first-avenger", "dot"]] },
+    { "label": "1946", "units": [["agent-carter-one-shot", "dot"]] },
+    { "label": "1964", "units": [["the-fantastic-four-first-steps", "diamond"]] },
+    { "label": "1995", "units": [["captain-marvel", "dot"]] },
+    { "label": "2010", "units": [["iron-man", "dot"]] },
+    { "label": "2011", "units": [["iron-man-2", "dot"], ["the-incredible-hulk", "dot"], ["a-funny-thing-happened-on-the-way-to-thors-hammer", "dot"], ["thor", "dot"], ["the-consultant", "dot"]] },
+    { "label": "2012", "units": [["the-avengers", "dot"], ["item-47", "dot"]] },
+    { "label": "2013", "units": [["thor-the-dark-world", "dot"], ["iron-man-3", "dot"]] },
+    { "label": "2014", "units": [["all-hail-the-king", "dot"], ["captain-america-the-winter-soldier", "dot"], ["guardians-of-the-galaxy", "dot"], ["i-am-groot-ep1", "dot"], ["guardians-of-the-galaxy-vol-2", "dot"], ["i-am-groot-ep2-10", "dot"]] },
+    { "label": "2015", "units": [["daredevil-s1", "dot"], ["jessica-jones-s1", "dot"], ["avengers-age-of-ultron", "dot"], ["ant-man", "dot"], ["daredevil-s2", "dot"], ["luke-cage-s1", "dot"]] },
+    { "label": "2016", "units": [["iron-fist-s1", "dot"], ["the-defenders-s1", "dot"], ["captain-america-civil-war", "dot"], ["your-friendly-neighborhood-spider-man-s1", "diamond"], ["black-widow", "dot"], ["black-panther", "dot"], ["spider-man-homecoming", "dot"], ["the-punisher-s1", "dot"]] },
+    { "label": "2016-2017", "units": [["doctor-strange", "dot"]] },
+    { "label": "2017", "units": [["jessica-jones-s2", "dot"], ["luke-cage-s2", "dot"], ["iron-fist-s2", "dot"], ["daredevil-s3", "dot"], ["thor-ragnarok", "dot"]] },
+    { "label": "2018", "units": [["the-punisher-s2", "dot"], ["jessica-jones-s3", "dot"], ["ant-man-and-the-wasp", "dot"], ["avengers-infinity-war", "dot"]] },
+    { "label": "2023", "units": [["avengers-endgame", "dot"], ["marvel-zombies-s1", "diamond"], ["wandavision-s1", "dot"]] },
+    { "label": "2024", "units": [["deadpool-and-wolverine", "diamond"], ["shang-chi-and-the-legend-of-the-ten-rings", "dot"], ["the-falcon-and-the-winter-soldier-s1", "dot"], ["spider-man-far-from-home", "dot"], ["eternals", "dot"], ["spider-man-no-way-home", "dot"], ["doctor-strange-in-the-multiverse-of-madness", "dot"], ["hawkeye-s1", "dot"]] },
+    { "label": "2025", "units": [["moon-knight-s1", "dot"], ["black-panther-wakanda-forever", "dot"], ["echo-s1", "dot"], ["she-hulk-attorney-at-law-s1", "dot"], ["ms-marvel-s1", "dot"], ["thor-love-and-thunder", "dot"], ["ironheart-s1", "dot"], ["the-guardians-of-the-galaxy-holiday-special", "dot"]] },
+    { "label": "2025-2027", "units": [["wonder-man-s1", "dot"]] },
+    { "label": "2026", "units": [["ant-man-and-the-wasp-quantumania", "dot"], ["guardians-of-the-galaxy-vol-3", "dot"], ["secret-invasion-s1", "dot"], ["the-marvels", "dot"], ["agatha-all-along-s1", "dot"], ["daredevil-born-again-s1-e1", "dot"]] },
+    { "label": "2027", "units": [["daredevil-born-again-s1-e2-9", "dot"], ["captain-america-brave-new-world", "dot"], ["thunderbolts", "dot"], ["daredevil-born-again-s2", "dot"], ["the-punisher-one-last-kill", "dot"], ["daredevil-born-again-s3", "dot"]] },
+    { "label": "2028", "units": [["avengers-doomsday", "dot"], ["spider-man-brand-new-day", "dot"]] }
+  ],
+  "row_notes": { "daredevil-born-again-s3": "drawn as 'season 3 (into 2028)'" }
+}

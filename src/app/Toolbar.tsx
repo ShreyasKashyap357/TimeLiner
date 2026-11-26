@@ -6,54 +6,97 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger, SheetDescription } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
-import { SlidersHorizontal } from 'lucide-react';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
+import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight } from 'lucide-react';
+import { formatRelease } from '@/domain/dates';
 
-export function Toolbar({ sortOptions, prog, next, filterPanel }: {
+const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: string }>; tip: string }[] = [
+  { v: 'all', label: 'All', icon: LayoutList, tip: 'Show every type' },
+  { v: 'movies', label: 'Movies only', icon: Film, tip: 'Films, one-shots and specials' },
+  { v: 'series', label: 'Series only', icon: Tv, tip: 'Series seasons, episode ranges and crossover events' },
+  { v: 'animated', label: 'Animated', icon: Sparkles, tip: 'Animated series and films only' },
+];
+
+export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
   sortOptions: { id: SortId; label: string; alt?: string }[];
   prog: { done: number; total: number; pct: number };
   next: Row | null;
+  counts: { shown: number; total: number; released: number };
   filterPanel: React.ReactNode;
 }) {
   const { state, update } = useApp();
   const sortValue = state.sort === 'alt' && state.alt ? `alt:${state.alt}` : state.sort;
   return (
-    <div className="my-3 flex flex-col gap-3">
+    <div className="my-4 flex flex-col gap-4">
+      {/* dashboard stats */}
+      <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+        <Card size="sm">
+          <CardHeader>
+            <CardDescription>Entries in this view</CardDescription>
+            <CardTitle className="text-2xl tabular-nums">{counts.shown}<span className="text-base font-normal text-muted-foreground"> / {counts.total}</span></CardTitle>
+          </CardHeader>
+          <CardContent className="text-muted-foreground">{counts.released} released · {counts.shown - counts.released} upcoming</CardContent>
+        </Card>
+        <Card size="sm">
+          <CardHeader>
+            <CardDescription id="progress-label">Watched in this view</CardDescription>
+            <CardTitle className="text-2xl tabular-nums">{prog.pct}%<span className="text-base font-normal text-muted-foreground"> · {prog.done} / {prog.total}</span></CardTitle>
+          </CardHeader>
+          <CardContent><Progress value={prog.pct} aria-labelledby="progress-label" /></CardContent>
+        </Card>
+        <Card size="sm" className="sm:col-span-2">
+          <CardHeader>
+            <CardDescription>What’s next in this order</CardDescription>
+            {next ? (
+              <CardTitle className="text-lg">
+                <button type="button" className="inline-flex items-center gap-2 text-left hover:underline" onClick={() => update({ unit: next.key })} data-testid="next-up">
+                  {next.name} <ArrowRight aria-hidden className="size-4" />
+                </button>
+              </CardTitle>
+            ) : <CardTitle className="text-lg text-muted-foreground">All caught up</CardTitle>}
+          </CardHeader>
+          {next && <CardContent className="text-muted-foreground">{next.unit.in_universe.label} · released {formatRelease(next.unit.release.date)} · {next.continuity.short_name}</CardContent>}
+        </Card>
+      </div>
+      {/* controls */}
       <div className="flex flex-wrap items-center gap-2">
-        <ToggleGroup type="single" variant="outline" size="sm" value={state.quick} onValueChange={(v) => update({ quick: (v || 'all') as Quick })} aria-label="Quick type filter">
-          <ToggleGroupItem value="all">All</ToggleGroupItem>
-          <ToggleGroupItem value="movies">Movies only</ToggleGroupItem>
-          <ToggleGroupItem value="series">Series only</ToggleGroupItem>
-          <ToggleGroupItem value="animated">Animated</ToggleGroupItem>
+        <ToggleGroup type="single" variant="outline" value={state.quick} onValueChange={(v) => update({ quick: (v || 'all') as Quick })} aria-label="Quick type filter">
+          {QUICK.map((q) => (
+            <ToggleGroupItem key={q.v} value={q.v}>
+              {/* tooltip on an inner span: a TooltipTrigger on the item itself would overwrite its data-state="on" */}
+              <Tooltip>
+                <TooltipTrigger asChild><span className="inline-flex items-center gap-1"><q.icon className="size-4" aria-hidden />{q.label}</span></TooltipTrigger>
+                <TooltipContent>{q.tip}</TooltipContent>
+              </Tooltip>
+            </ToggleGroupItem>
+          ))}
         </ToggleGroup>
-        <Select value={sortValue} onValueChange={(v) => {
-          if (v.startsWith('alt:')) update({ sort: 'alt', alt: v.slice(4) });
-          else update({ sort: v as SortId, alt: null });
-        }}>
-          <SelectTrigger aria-label="Sort order" size="sm" className="w-60"><SelectValue /></SelectTrigger>
-          <SelectContent>
-            {sortOptions.map((o) => <SelectItem key={o.alt ? `alt:${o.alt}` : o.id} value={o.alt ? `alt:${o.alt}` : o.id}>{o.label}</SelectItem>)}
-          </SelectContent>
-        </Select>
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <div>
+              <Select value={sortValue} onValueChange={(v) => {
+                if (v.startsWith('alt:')) update({ sort: 'alt', alt: v.slice(4) });
+                else update({ sort: v as SortId, alt: null });
+              }}>
+                <SelectTrigger aria-label="Sort order" className="w-64"><SelectValue /></SelectTrigger>
+                <SelectContent>
+                  {sortOptions.map((o) => <SelectItem key={o.alt ? `alt:${o.alt}` : o.id} value={o.alt ? `alt:${o.alt}` : o.id}>{o.label}</SelectItem>)}
+                </SelectContent>
+              </Select>
+            </div>
+          </TooltipTrigger>
+          <TooltipContent>Sort order (alternate orders such as Disney+ appear when the continuity defines them)</TooltipContent>
+        </Tooltip>
         <Sheet>
           <SheetTrigger asChild>
-            <Button variant="outline" size="sm" className="lg:hidden"><SlidersHorizontal aria-hidden className="size-4" /> Filters</Button>
+            <Button variant="outline" className="lg:hidden"><SlidersHorizontal aria-hidden className="size-4" /> Filters</Button>
           </SheetTrigger>
-          <SheetContent side="left" className="w-[90vw] overflow-y-auto p-4 sm:max-w-sm">
+          <SheetContent side="left" className="w-[90vw] overflow-y-auto bg-sidebar p-4 text-sidebar-foreground sm:max-w-sm">
             <SheetHeader className="px-0"><SheetTitle>Filters</SheetTitle><SheetDescription>Changes apply immediately.</SheetDescription></SheetHeader>
             {filterPanel}
           </SheetContent>
         </Sheet>
-      </div>
-      <div className="flex flex-wrap items-center gap-3 rounded-lg border border-border bg-card px-3 py-2 text-sm">
-        <span id="progress-label" className="whitespace-nowrap">Watched <strong>{prog.done}</strong> / {prog.total} in this view</span>
-        <Progress value={prog.pct} aria-labelledby="progress-label" className="h-2 min-w-24 flex-1" />
-        <span className="whitespace-nowrap text-muted-foreground">{prog.pct}%</span>
-        {next && (
-          <span className="w-full sm:w-auto">
-            <span className="text-muted-foreground">What’s next: </span>
-            <button type="button" className="font-medium underline" onClick={() => update({ unit: next.key })} data-testid="next-up">{next.name}</button>
-          </span>
-        )}
       </div>
     </div>
   );

@@ -60,11 +60,35 @@ test.describe('TimeLiner smoke', () => {
     expect(JSON.parse(stored!).watched).toHaveProperty('eyes-of-wakanda-ep1');
   });
 
+  test('search palette opens, finds a title and opens its details (regression: blank screen)', async ({ page }) => {
+    const errors: string[] = [];
+    page.on('pageerror', (err) => errors.push(String(err)));
+    await page.goto('/?u=marvel&c=mcu');
+    await page.getByRole('button', { name: /^Search/ }).click();
+    await page.keyboard.type('Thunderbolts');
+    await expect(page.getByRole('option').first()).toBeVisible();
+    await page.keyboard.press('Enter');
+    await expect(page.getByRole('dialog').getByRole('heading', { name: 'Thunderbolts*' })).toBeVisible();
+    expect(errors).toEqual([]);
+  });
+
+  test('header stays visible when scrolling and nothing overflows horizontally', async ({ page }) => {
+    await page.goto('/?u=marvel&c=mcu');
+    await page.mouse.wheel(0, 3000);
+    await expect(page.getByRole('tablist', { name: 'Views' })).toBeInViewport();
+    for (const q of ['/?u=marvel&c=mcu', '/?u=marvel&c=mcu&view=dual', '/?u=marvel&view=release']) {
+      await page.goto(q);
+      await page.getByTestId('result-count').waitFor({ state: 'attached' });
+      const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+      expect(overflow, q).toBeLessThanOrEqual(1);
+    }
+  });
+
   test('no WCAG A/AA violations on main views', async ({ page }) => {
     test.setTimeout(180_000);
     for (const q of ['/?u=marvel&c=mcu', '/?u=marvel&view=release', '/?u=marvel&c=mcu&view=dual']) {
       await page.goto(q);
-      await page.getByTestId('result-count').waitFor();
+      await page.getByTestId('result-count').waitFor({ state: 'attached' });
       await page.waitForTimeout(300);
       const res = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa']).analyze();
       expect(res.violations.map((v) => `${v.id}: ${v.nodes.length} (${v.nodes[0]?.target})`)).toEqual([]);

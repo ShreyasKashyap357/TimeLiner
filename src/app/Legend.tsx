@@ -13,7 +13,7 @@ export function Legend({ rows }: { rows: Row[] }) {
   }
   const cont = ds.continuities.find((c) => c.id === state.c);
   return (
-    <section aria-labelledby="legend-h" className="mt-10 rounded-lg border border-border bg-card p-4 text-sm">
+    <section aria-labelledby="legend-h" className="mt-10 border border-border bg-card p-4 text-sm">
       <h2 id="legend-h" className="mb-2 font-semibold">Key</h2>
       <ul className="grid gap-1.5 sm:grid-cols-2">
         {[...seen.values()].map((r) => (

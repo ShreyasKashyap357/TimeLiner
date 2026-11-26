@@ -5,6 +5,7 @@ import { Checkbox } from '@/components/ui/checkbox';
 import { cn } from '@/lib/utils';
 import { RowMarker, markerMeaning } from './Marker';
 import { ConfidenceBadge } from './Badges';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 
 /** One unit as a list item: marker, name (opens drawer), meta, watched checkbox. */
 export function UnitItem({ row, meta = 'release', compact = false }: { row: Row; meta?: 'release' | 'in-universe' | 'both' | 'none'; compact?: boolean }) {
@@ -16,14 +17,17 @@ export function UnitItem({ row, meta = 'release', compact = false }: { row: Row;
     : meta === 'in-universe' ? iu.label
     : `${iu.label} · ${formatRelease(row.unit.release.date)}`;
   return (
-    <li className={cn('group flex items-start gap-2 rounded-md px-1 py-0.5', isWatched && 'opacity-70')} data-unit={row.key}>
+    <li className={cn('group flex items-start gap-2 px-1 py-0.5', isWatched && 'opacity-70')} data-unit={row.key}>
       <Checkbox
         checked={isWatched}
         onCheckedChange={(v) => watched.toggle(row.key, v === true)}
         aria-label={`Mark "${row.name}" as watched`}
         className="mt-0.5"
       />
-      <span className="mt-[3px]" title={markerMeaning(row)}><RowMarker row={row} /></span>
+      <Tooltip>
+        <TooltipTrigger asChild><span className="mt-[5px] cursor-help"><RowMarker row={row} /></span></TooltipTrigger>
+        <TooltipContent>{markerMeaning(row)} · {row.continuity.short_name}</TooltipContent>
+      </Tooltip>
       <span className="sr-only">{markerMeaning(row)}:</span>
       <button
         type="button"

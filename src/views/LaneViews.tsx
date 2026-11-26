@@ -9,7 +9,7 @@ import { Empty } from './SpineView';
 
 function Lane({ title, subtitle, rows, meta = 'release' }: { title: string; subtitle?: string; rows: Row[]; meta?: 'release' | 'in-universe' | 'both' }) {
   return (
-    <section className="rounded-lg border border-border bg-card p-3" aria-label={title}>
+    <section className="border border-border bg-card p-3" aria-label={title}>
       <h3 className="font-heading text-base font-bold" style={{ color: 'var(--u-primary)' }}>{title} <span className="text-sm font-normal text-muted-foreground">({rows.length})</span></h3>
       {subtitle && <p className="mb-1 text-xs text-muted-foreground">{subtitle}</p>}
       <ul className="mt-1 space-y-0.5">{rows.map((r) => <UnitItem key={r.key} row={r} meta={meta} />)}</ul>
@@ -97,7 +97,7 @@ export function ContinuitiesView({ rows }: { rows: Row[] }) {
     <div className="space-y-6">
       <p className="text-sm text-muted-foreground">Each continuity has its own in-universe chronology. They are never merged; cross-continuity links appear in the Connections view.</p>
       {lanes.map((l) => (
-        <section key={l.id} className="rounded-lg border border-border bg-card p-4" aria-label={l.label}>
+        <section key={l.id} className="border border-border bg-card p-4" aria-label={l.label}>
           <div className="mb-2 flex flex-wrap items-baseline justify-between gap-2">
             <h2 className="font-heading text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{l.label}</h2>
             <span className="text-sm text-muted-foreground">{l.count} entries · released {l.first}–{l.last}</span>

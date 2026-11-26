@@ -4,92 +4,122 @@ import { universes as allUniverses } from '@/state/data';
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command';
+import { Command, CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from '@/components/ui/dropdown-menu';
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from 'sonner';
 import { Search, ListChecks } from 'lucide-react';
 import { RowMarker } from '@/components/Marker';
 
-export function Header() {
+/** Top bar: brand, universe + continuity pickers, filter-by-text, search palette, watched menu. */
+export function HeaderBar() {
   const { ds, state, update } = useApp();
   const universes = allUniverses.filter((u) => u.enabled);
   const conts = ds.continuities.filter((c) => state.u === 'all' || c.universe === state.u).sort((a, b) => a.order - b.order);
   return (
-    <header className="border-b border-border">
-      <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-4 py-3">
-        <a href={import.meta.env.BASE_URL} className="mr-2 flex items-baseline gap-2" aria-label="TimeLiner home">
-          <span className="font-heading text-2xl font-bold tracking-widest" style={{ color: 'var(--u-primary)' }}>TIMELINER</span>
-        </a>
-        <div className="flex flex-wrap items-center gap-2">
-          <Select value={state.u} onValueChange={(u) => {
-            const uni = allUniverses.find((x) => x.id === u);
-            update({ u, c: uni ? uni.default_continuity : state.c, tiers: state.tiers, unit: null }, true);
-          }}>
-            <SelectTrigger aria-label="Universe" className="w-40"><SelectValue /></SelectTrigger>
-            <SelectContent>
-              <SelectGroup>
-                <SelectLabel>Universe</SelectLabel>
-                {universes.map((u) => <SelectItem key={u.id} value={u.id}>{u.name}</SelectItem>)}
-                {universes.length > 1 && <SelectItem value="all">All universes</SelectItem>}
-              </SelectGroup>
-            </SelectContent>
-          </Select>
-          <Select value={state.c ?? ''} onValueChange={(c) => update({ c, unit: null }, true)}>
-            <SelectTrigger aria-label="Continuity (for in-universe views)" className="w-64"><SelectValue placeholder="Continuity" /></SelectTrigger>
-            <SelectContent>
-              <SelectGroup>
-                <SelectLabel>Continuity (in-universe views)</SelectLabel>
-                {conts.map((c) => <SelectItem key={c.id} value={c.id}>{c.name}</SelectItem>)}
-              </SelectGroup>
-            </SelectContent>
-          </Select>
-        </div>
-        <div className="ml-auto flex items-center gap-2">
-          <SearchBox />
-          <WatchedMenu />
-        </div>
+    <div className="flex flex-wrap items-center gap-x-3 gap-y-2 py-2">
+      <a href={import.meta.env.BASE_URL} className="mr-1 flex items-baseline gap-2" aria-label="TimeLiner home">
+        <span className="font-heading text-xl font-bold tracking-widest" style={{ color: 'var(--u-primary)' }}>TIMELINER</span>
+      </a>
+      <div className="flex flex-wrap items-center gap-2">
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <div>
+              <Select value={state.u} onValueChange={(u) => {
+                const uni = allUniverses.find((x) => x.id === u);
+                update({ u, c: uni ? uni.default_continuity : state.c, unit: null }, true);
+              }}>
+                <SelectTrigger aria-label="Universe" className="w-36"><SelectValue /></SelectTrigger>
+                <SelectContent>
+                  <SelectGroup>
+                    <SelectLabel>Universe</SelectLabel>
+                    {universes.map((u) => <SelectItem key={u.id} value={u.id}>{u.name}</SelectItem>)}
+                    {universes.length > 1 && <SelectItem value="all">All universes</SelectItem>}
+                  </SelectGroup>
+                </SelectContent>
+              </Select>
+            </div>
+          </TooltipTrigger>
+          <TooltipContent>Franchise universe</TooltipContent>
+        </Tooltip>
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <div>
+              <Select value={state.c ?? ''} onValueChange={(c) => update({ c, unit: null }, true)}>
+                <SelectTrigger aria-label="Continuity (for in-universe views)" className="w-64"><SelectValue placeholder="Continuity" /></SelectTrigger>
+                <SelectContent>
+                  <SelectGroup>
+                    <SelectLabel>Continuity (in-universe views)</SelectLabel>
+                    {conts.map((c) => <SelectItem key={c.id} value={c.id}>{c.name}</SelectItem>)}
+                  </SelectGroup>
+                </SelectContent>
+              </Select>
+            </div>
+          </TooltipTrigger>
+          <TooltipContent className="max-w-xs">Continuity used by the In-universe and Dual-axis views. In-universe order only exists within one continuity.</TooltipContent>
+        </Tooltip>
       </div>
-    </header>
+      <div className="ml-auto flex items-center gap-2">
+        <FilterBox />
+        <SearchPalette />
+        <WatchedMenu />
+      </div>
+    </div>
   );
 }
 
-function SearchBox() {
-  const { state, update, rows } = useApp();
-  const [open, setOpen] = useState(false);
+function FilterBox() {
+  const { state, update } = useApp();
   const [text, setText] = useState(state.q);
   const t = useRef<number | undefined>(undefined);
   useEffect(() => setText(state.q), [state.q]);
+  return (
+    <div className="relative">
+      <Search aria-hidden className="pointer-events-none absolute left-2 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
+      <Input
+        type="search" value={text} placeholder="Filter by title or character" aria-label="Filter by title or character"
+        className="w-52 pl-8"
+        onChange={(e) => { const v = e.target.value; setText(v); window.clearTimeout(t.current); t.current = window.setTimeout(() => update({ q: v }), 200); }}
+      />
+    </div>
+  );
+}
+
+function SearchPalette() {
+  const { state, update, rows } = useApp();
+  const [open, setOpen] = useState(false);
   useEffect(() => {
-    const onKey = (e: KeyboardEvent) => { if (e.key === 'k' && (e.metaKey || e.ctrlKey)) { e.preventDefault(); setOpen((o) => !o); } };
+    const onKey = (e: KeyboardEvent) => { if (e.key.toLowerCase() === 'k' && (e.metaKey || e.ctrlKey)) { e.preventDefault(); setOpen((o) => !o); } };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
   }, []);
   const inUniverse = rows.filter((r) => state.u === 'all' || r.universe.id === state.u);
   return (
     <>
-      <div className="relative">
-        <Search aria-hidden className="pointer-events-none absolute left-2 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
-        <Input
-          type="search" value={text} placeholder="Filter by title or character" aria-label="Filter by title or character"
-          className="w-56 pl-8"
-          onChange={(e) => { const v = e.target.value; setText(v); window.clearTimeout(t.current); t.current = window.setTimeout(() => update({ q: v }), 200); }}
-        />
-      </div>
-      <Button variant="outline" size="sm" onClick={() => setOpen(true)} aria-label="⌘K open search (Ctrl+K)" className="hidden sm:inline-flex">⌘K</Button>
-      <CommandDialog open={open} onOpenChange={setOpen} title="Search titles and characters" description="Jump to a title">
-        <CommandInput placeholder="Search titles, characters, teams…" />
-        <CommandList>
-          <CommandEmpty>No results.</CommandEmpty>
-          <CommandGroup heading="Titles">
-            {inUniverse.map((r) => (
-              <CommandItem key={r.key} value={`${r.name} ${r.search}`} onSelect={() => { setOpen(false); update({ unit: r.key }); }}>
-                <RowMarker row={r} /> <span>{r.name}</span><span className="ml-auto text-xs text-muted-foreground">{r.continuity.short_name}</span>
-              </CommandItem>
-            ))}
-          </CommandGroup>
-        </CommandList>
+      <Tooltip>
+        <TooltipTrigger asChild>
+          <Button variant="outline" onClick={() => setOpen(true)} aria-keyshortcuts="Control+K Meta+K">
+            <Search aria-hidden className="size-4" /> Search <kbd className="ml-1 hidden rounded border border-border px-1 text-[0.7em] text-muted-foreground sm:inline">Ctrl K</kbd>
+          </Button>
+        </TooltipTrigger>
+        <TooltipContent>Jump to any title or character (Ctrl+K / ⌘K)</TooltipContent>
+      </Tooltip>
+      <CommandDialog open={open} onOpenChange={setOpen} title="Search titles and characters" description="Type to find a title; Enter opens its details.">
+        <Command>
+          <CommandInput placeholder="Search titles, characters, teams…" />
+          <CommandList>
+            <CommandEmpty>No results.</CommandEmpty>
+            <CommandGroup heading="Titles">
+              {inUniverse.map((r) => (
+                <CommandItem key={r.key} value={`${r.name} ${r.search} ${r.key}`} onSelect={() => { setOpen(false); update({ unit: r.key }); }}>
+                  <RowMarker row={r} /> <span>{r.name}</span><span className="ml-auto text-muted-foreground">{r.continuity.short_name}</span>
+                </CommandItem>
+              ))}
+            </CommandGroup>
+          </CommandList>
+        </Command>
       </CommandDialog>
     </>
   );
@@ -120,7 +150,7 @@ function WatchedMenu() {
     <>
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
-          <Button variant="outline" size="sm" aria-label={`Watched: ${watched.set.size}. Open watched menu`}><ListChecks aria-hidden className="size-4" />{watched.set.size}</Button>
+          <Button variant="outline" aria-label={`Watched: ${watched.set.size}. Open watched menu`} title="Watched list: export, import or clear (stored in this browser)"><ListChecks aria-hidden className="size-4" />{watched.set.size}</Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end">
           <DropdownMenuLabel>Watched ({watched.set.size}) · stored in this browser</DropdownMenuLabel>

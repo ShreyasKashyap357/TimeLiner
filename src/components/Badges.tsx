@@ -1,6 +1,7 @@
 import { Badge } from '@/components/ui/badge';
 import { cn } from '@/lib/utils';
 import { CircleCheck, CircleHelp, TriangleAlert } from 'lucide-react';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 
 const CONF = {
   stated: { label: 'Stated', icon: CircleCheck, cls: 'border-emerald-400/60 text-emerald-200', help: 'A source states this date explicitly.' },
@@ -12,10 +13,15 @@ export function ConfidenceBadge({ c, small }: { c: keyof typeof CONF; small?: bo
   const x = CONF[c];
   const Icon = x.icon;
   return (
-    <Badge variant="outline" className={cn('gap-1', x.cls, small && 'h-5 px-1.5 text-[11px]')} title={x.help}>
-      <Icon aria-hidden className="size-3" />
-      {x.label}
-    </Badge>
+    <Tooltip>
+      <TooltipTrigger asChild>
+        <Badge variant="outline" className={cn('cursor-help gap-1', x.cls, small && 'h-5 px-1.5')}>
+          <Icon aria-hidden className="size-3" />
+          {x.label}
+        </Badge>
+      </TooltipTrigger>
+      <TooltipContent className="max-w-xs">In-universe date confidence: {x.help}</TooltipContent>
+    </Tooltip>
   );
 }
 

@@ -18,7 +18,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
   return (
     <div className="space-y-8">
       {calendarless && (
-        <p className="rounded-md border border-border bg-muted/40 p-3 text-sm text-muted-foreground">
+        <p className="border border-border bg-muted/40 p-3 text-sm text-muted-foreground">
           {cont!.name} has no in-universe calendar in the sources, so entries are shown in story order only.
         </p>
       )}
@@ -34,7 +34,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
         ))}
       </ol>
       {res.unplaced.map((lane) => (
-        <section key={lane.lane} aria-labelledby={`lane-${lane.lane}`} className="rounded-lg border border-dashed border-border p-4">
+        <section key={lane.lane} aria-labelledby={`lane-${lane.lane}`} className="border border-dashed border-border p-4">
           <h3 id={`lane-${lane.lane}`} className="font-heading text-base font-semibold text-muted-foreground">{lane.label}</h3>
           <p className="mb-2 text-xs text-muted-foreground">No fixed point on this timeline. Shown in relative order where sources give one.</p>
           <ul className="space-y-0.5">{lane.rows.map((r) => <SpineEntry key={r.key} row={r} />)}</ul>
@@ -56,7 +56,7 @@ function SpineEntry({ row }: { row: Row }) {
             <ChevronDown className={`size-4 transition-transform ${open ? 'rotate-180' : ''}`} aria-hidden />
           </CollapsibleTrigger>
         </div>
-        <CollapsibleContent className="mb-2 ml-12 rounded-md bg-muted/40 p-2 text-xs text-muted-foreground">
+        <CollapsibleContent className="mb-2 ml-12 bg-muted/40 p-2 text-xs text-muted-foreground">
           <div className="mb-1 flex flex-wrap items-center gap-2 text-foreground">
             <span>{iu.label}</span><ConfidenceBadge c={iu.confidence} small /><span className="text-muted-foreground">Released {formatRelease(row.unit.release.date)}</span>
           </div>

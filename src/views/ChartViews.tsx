@@ -85,6 +85,7 @@ export function ConnectionsView({ rows }: { rows: Row[] }) {
   const { nodes, edges } = connections(rows, ds);
   if (!edges.length) return <p className="text-muted-foreground">No recorded connections among the filtered titles. Try widening the canon tier filter (e.g. include other continuities).</p>;
   const idx = new Map(nodes.map((n, i) => [n.id, i]));
+  const mainConts = new Set(ds.universes.map((u) => u.default_continuity));
   const step = 34, w = Math.max(640, nodes.length * step + 40), h = 300, base = 210;
   const x = (id: string) => 20 + idx.get(id)! * step + step / 2;
   const firstUnit = (titleId: string) => rows.find((r) => r.title.id === titleId)?.key;
@@ -100,7 +101,7 @@ export function ConnectionsView({ rows }: { rows: Row[] }) {
           })}
           {nodes.map((n) => (
             <g key={n.id} transform={`translate(${x(n.id)} ${base})`}>
-              <circle r={5} fill={n.continuity === 'mcu' ? 'var(--marker-main)' : 'var(--marker-variant)'} />
+              <circle r={5} fill={mainConts.has(n.continuity) ? 'var(--marker-main)' : 'var(--marker-variant)'}><title>{ds.continuities.find((c) => c.id === n.continuity)?.name}</title></circle>
               <text transform="rotate(55)" x={8} y={4} fontSize="10" fill="var(--foreground)">{n.label.length > 28 ? n.label.slice(0, 27) + '…' : n.label}</text>
             </g>
           ))}

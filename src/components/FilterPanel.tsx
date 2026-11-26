@@ -12,7 +12,7 @@ const TIER_TEXT: Record<string, { label: string; help: string }> = {
   core: { label: 'Core', help: 'On the main line of its continuity' },
   'outside-set-date': { label: 'Other branch, set date', help: 'Another reality/branch placed at a set time' },
   'multiverse-variant': { label: 'Multiverse variant', help: 'Variant reality' },
-  adjacent: { label: 'Adjacent', help: 'Canon status ambiguous (e.g. ABC / Hulu / Freeform Marvel series)' },
+  adjacent: { label: 'Adjacent', help: 'Linked to the continuity but canon status is ambiguous' },
   'non-placeable': { label: 'Non-placeable', help: 'No fixed point in the timeline' },
 };
 const TYPE_TEXT: Record<string, string> = {

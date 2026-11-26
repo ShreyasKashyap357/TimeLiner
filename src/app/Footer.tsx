@@ -8,8 +8,8 @@ export function Footer() {
     <footer className="border-t border-border bg-card/50">
       <div className="mx-auto max-w-7xl space-y-2 px-4 py-6 text-xs leading-relaxed text-muted-foreground">
         <p>
-          <strong className="text-foreground">Sources:</strong> English Wikipedia (MCU timeline, film and television lists, phase pages, series articles),
-          Wikidata, and the Marvel Cinematic Universe Wiki on Fandom (only for adjacent-tier series dating).
+          <strong className="text-foreground">Sources:</strong> English Wikipedia (franchise timeline articles, film and television lists, series and season articles),
+          Wikidata, and Fandom wikis (fan-reasoned dating, used only where a title's note says so).
           Full list with revision ids: <a className="underline" href={`${repo}/blob/main/data/sources/manifest.json`}>data/sources/manifest.json</a>.
           Judgement calls: <a className="underline" href={`${repo}/blob/main/data/DATA_NOTES.md`}>DATA_NOTES.md</a>.
           {verified && <> Last verified <time dateTime={verified}>{verified}</time>.</>}

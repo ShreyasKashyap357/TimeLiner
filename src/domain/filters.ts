@@ -34,7 +34,7 @@ export interface FilterState {
 
 export const DEFAULT_TIERS: CanonTier[] = ['core', 'outside-set-date'];
 
-export function defaultState(u = 'marvel', c: string | null = 'mcu'): FilterState {
+export function defaultState(u: string, c: string | null): FilterState {
   return {
     u, c, view: 'spine', sort: 'in-universe', alt: null, quick: 'all', q: '',
     types: [], tiers: [...DEFAULT_TIERS], platforms: [], studios: [], groupings: [], status: [],
@@ -76,7 +76,7 @@ function range(v: string | null): [number, number] | null {
   return m ? [Number(m[1]), Number(m[2])] : null;
 }
 
-export function fromQuery(qs: string, fallbackUniverse = 'marvel', fallbackContinuity: string | null = 'mcu'): FilterState {
+export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinuity: string | null): FilterState {
   const p = new URLSearchParams(qs);
   const s = defaultState(p.get('u') ?? fallbackUniverse, p.has('c') ? p.get('c') : fallbackContinuity);
   const view = p.get('view');

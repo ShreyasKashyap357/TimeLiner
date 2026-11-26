@@ -18,18 +18,18 @@ const mcu = () => applyFilters(rows, defaultState('marvel', 'mcu'), { scopeConti
 
 describe('URL state', () => {
   it('round-trips through the query string', () => {
-    const s = { ...defaultState(), view: 'release' as const, sort: 'release-desc' as const, quick: 'movies' as const, q: 'spider', tags: ['spider-man'], iu: [2010, 2020] as [number, number], unit: 'iron-man' };
-    expect(fromQuery(toQuery(s))).toEqual(s);
+    const s = { ...defaultState('marvel', 'mcu'), view: 'release' as const, sort: 'release-desc' as const, quick: 'movies' as const, q: 'spider', tags: ['spider-man'], iu: [2010, 2020] as [number, number], unit: 'iron-man' };
+    expect(fromQuery(toQuery(s), 'marvel', 'mcu')).toEqual(s);
   });
   it('omits defaults to keep links short', () => {
-    expect(toQuery(defaultState())).toBe('u=marvel&c=mcu');
+    expect(toQuery(defaultState('marvel', 'mcu'))).toBe('u=marvel&c=mcu');
   });
   it('can encode an explicitly empty list (show all tiers)', () => {
-    const s = { ...defaultState(), tiers: [] };
-    expect(fromQuery(toQuery(s)).tiers).toEqual([]);
+    const s = { ...defaultState('marvel', 'mcu'), tiers: [] };
+    expect(fromQuery(toQuery(s), 'marvel', 'mcu').tiers).toEqual([]);
   });
   it('ignores unknown views', () => {
-    expect(fromQuery('u=marvel&view=bogus').view).toBe('spine');
+    expect(fromQuery('u=marvel&view=bogus', 'marvel', 'mcu').view).toBe('spine');
   });
 });
 
@@ -40,7 +40,7 @@ describe('filters', () => {
     expect(r.some((x) => x.key === 'agents-of-shield-s1')).toBe(false);
   });
   it('quick toggles: movies / series / animated', () => {
-    const base = { ...defaultState(), tiers: [] };
+    const base = { ...defaultState('marvel', 'mcu'), tiers: [] };
     const o = { scopeContinuity: true, scopeUniverse: true };
     expect(applyFilters(rows, { ...base, quick: 'movies' }, o).every((r) => ['film', 'one-shot', 'special', 'animated-film'].includes(r.type))).toBe(true);
     expect(applyFilters(rows, { ...base, quick: 'series' }, o).some((r) => r.type === 'film')).toBe(false);
@@ -48,27 +48,27 @@ describe('filters', () => {
   });
   it('studio filter matches labels and keeps the two Marvel Televisions apart', () => {
     const o = { scopeContinuity: false, scopeUniverse: true };
-    const division = applyFilters(rows, { ...defaultState(), tiers: [], studios: ['marvel-television-division'] }, o);
-    const banner = applyFilters(rows, { ...defaultState(), tiers: [], studios: ['marvel-television-banner'] }, o);
+    const division = applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [], studios: ['marvel-television-division'] }, o);
+    const banner = applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [], studios: ['marvel-television-banner'] }, o);
     expect(division.some((r) => r.title.id === 'daredevil')).toBe(true);
     expect(division.some((r) => r.title.id === 'daredevil-born-again')).toBe(false);
     expect(banner.some((r) => r.title.id === 'daredevil-born-again')).toBe(true);
     expect(banner.some((r) => r.title.id === 'daredevil')).toBe(false);
   });
   it('search matches character aliases', () => {
-    const r = applyFilters(rows, { ...defaultState(), tiers: [], q: 'matt murdock' }, { scopeContinuity: false, scopeUniverse: true });
+    const r = applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [], q: 'matt murdock' }, { scopeContinuity: false, scopeUniverse: true });
     expect(r.some((x) => x.title.id === 'daredevil')).toBe(true);
   });
   it('watched filter', () => {
     const w = new Set(['iron-man']);
-    const r = applyFilters(rows, { ...defaultState(), watched: 'watched' }, { scopeContinuity: true, scopeUniverse: true, watched: w });
+    const r = applyFilters(rows, { ...defaultState('marvel', 'mcu'), watched: 'watched' }, { scopeContinuity: true, scopeUniverse: true, watched: w });
     expect(r.map((x) => x.key)).toEqual(['iron-man']);
   });
 });
 
 describe('view transforms', () => {
   it('spine: in-universe order, year sections, unplaced lanes', () => {
-    const res = spine(applyFilters(rows, { ...defaultState(), tiers: [] }, { scopeContinuity: true, scopeUniverse: true }), 'in-universe');
+    const res = spine(applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [] }, { scopeContinuity: true, scopeUniverse: true }), 'in-universe');
     expect(res.sections[0]!.label).toBe('1260 BC');
     const order = res.sections.flatMap((s) => s.rows.map((r) => r.key));
     expect(order.indexOf('iron-man')).toBeLessThan(order.indexOf('the-avengers'));
@@ -89,19 +89,19 @@ describe('view transforms', () => {
   });
   it('release order sorts partial dates after full dates of the same year', () => {
     expect(releaseSortKey('2028') > releaseSortKey('2028-12-15')).toBe(true);
-    const lanes = releaseLanes(applyFilters(rows, defaultState(), { scopeContinuity: false, scopeUniverse: true }), 'release', false, ds);
+    const lanes = releaseLanes(applyFilters(rows, defaultState('marvel', 'mcu'), { scopeContinuity: false, scopeUniverse: true }), 'release', false, ds);
     const years = lanes[0]!.groups.map((g) => g.year ?? 9999);
     expect([...years].sort((a, b) => a - b)).toEqual(years);
   });
   it('platform and studio swimlanes', () => {
-    const r = applyFilters(rows, { ...defaultState(), tiers: [] }, { scopeContinuity: false, scopeUniverse: true });
+    const r = applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [] }, { scopeContinuity: false, scopeUniverse: true });
     const pl = swimlanes(r, (x) => x.platform, (id) => id);
     expect(pl.find((l) => l.id === 'netflix')!.rows.every((x) => x.platform === 'netflix')).toBe(true);
     const st = swimlanes(r, studioKey, (id) => id);
     expect(st.map((l) => l.id)).toEqual(expect.arrayContaining(['marvel-television-division', 'marvel-television-banner', 'fox', 'sony']));
   });
   it('groupings: sagas contain phases; no-phase bucket', () => {
-    const tree = groupings(applyFilters(rows, { ...defaultState(), tiers: [] }, { scopeContinuity: false, scopeUniverse: true }), ds, 'marvel');
+    const tree = groupings(applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [] }, { scopeContinuity: false, scopeUniverse: true }), ds, 'marvel');
     const infinity = tree.find((n) => n.id === 'infinity-saga')!;
     expect(infinity.children.map((c) => c.id)).toEqual(['phase-1', 'phase-2', 'phase-3']);
     expect(tree.at(-1)!.id).toBe('none');
@@ -111,7 +111,7 @@ describe('view transforms', () => {
     expect(idx.find((t) => t.id === 'spider-man')!.count).toBeGreaterThan(5);
   });
   it('continuity lanes keep non-placeable branches separate', () => {
-    const lanes = continuityLanes(applyFilters(rows, { ...defaultState(), tiers: [] }, { scopeContinuity: false, scopeUniverse: true }), ds);
+    const lanes = continuityLanes(applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [] }, { scopeContinuity: false, scopeUniverse: true }), ds);
     const m = lanes.find((l) => l.id === 'mcu')!;
     expect(m.branches.find((b) => b.id === 'outside-time')!.placeable).toBe(false);
     expect(lanes.map((l) => l.id)).toContain('fox-x-men');
@@ -124,7 +124,7 @@ describe('view transforms', () => {
     expect(cafa.y1).toBeGreaterThan(1945);
   });
   it('connections are de-duplicated and chronological', () => {
-    const c = connections(applyFilters(rows, { ...defaultState(), tiers: [] }, { scopeContinuity: false, scopeUniverse: true }), ds);
+    const c = connections(applyFilters(rows, { ...defaultState('marvel', 'mcu'), tiers: [] }, { scopeContinuity: false, scopeUniverse: true }), ds);
     const nwh = c.edges.filter((e) => (e.from === 'venom-let-there-be-carnage' || e.to === 'venom-let-there-be-carnage') && (e.from === 'spider-man-no-way-home' || e.to === 'spider-man-no-way-home'));
     expect(nwh).toHaveLength(1);
     expect(nwh[0]!.from).toBe('venom-let-there-be-carnage');

@@ -162,3 +162,27 @@ export function extractInfobox(src: string): Record<string, string> {
   }
   return out;
 }
+
+/** Wikitable where the work is in the FIRST DATA CELL (not a row header) and the date in the next cell.
+ *  `! colspan=…` rows are treated as group headers (e.g. story arcs). */
+export function extractFirstCellTable(src: string, headingRe: RegExp, page: string): (ReleaseRow & { group: string | null })[] {
+  const lines = stripNoise(src).split('\n');
+  const start = lines.findIndex((l) => /^=+/.test(l) && headingRe.test(l));
+  if (start < 0) return [];
+  let end = lines.findIndex((l, i) => i > start && /^=+[^=]/.test(l));
+  if (end < 0) end = lines.length;
+  const block = lines.slice(start + 1, end).join('\n').split(/\n\|\}/)[0]!;
+  const out: (ReleaseRow & { group: string | null })[] = [];
+  let group: string | null = null;
+  for (const row of block.split(/\n\|-/)) {
+    const hdr = /^\s*!\s*colspan="?\d+"?\s*\|\s*(.+)$/m.exec(row);
+    if (hdr) { group = cleanText(hdr[1]!); continue; }
+    const cells = row.split('\n').filter((l) => l.startsWith('|') && !l.startsWith('|-') && !l.startsWith('|}') && !l.startsWith('|+'))
+      .map((l) => l.replace(/^\|\s*(?:[^|[{]*?\|(?!\|))?/, ''));
+    if (cells.length < 2) continue;
+    const title = cells[0]!;
+    if (!/\[\[|''/.test(title)) continue;
+    out.push({ source_page: page, kind: 'film', title: cleanText(title), link: firstLinkTarget(title), start: parseDateTemplate(cells[1]), group });
+  }
+  return out;
+}

@@ -11,9 +11,13 @@ const hexColor = z.string().regex(/^#[0-9a-fA-F]{6}$/);
 // ---------- Registries (open vocabularies) ----------
 export const Studio = z.object({
   id: slug,
-  label: z.string(),
+  label: z.string(), // full, unambiguous name
+  short_label: z.string().nullable().default(null), // compact badge text
   kind: z.enum(['studio', 'division', 'label', 'distributor', 'other']),
   parent: slug.nullable().default(null),
+  /** UI grouping for entities that share a public name (e.g. two different "Marvel Television"s). */
+  group: z.string().nullable().default(null),
+  active: z.object({ from: z.number().int(), to: z.number().int().nullable() }).nullable().default(null),
   note: z.string().default(''),
 });
 export const Platform = z.object({

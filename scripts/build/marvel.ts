@@ -44,6 +44,7 @@ export async function buildMarvelCandidates() {
     releases.push(...extractFilmOverview(src, page), ...extractSeriesOverview(src, page));
   }
   releases.push(...extractSeriesOverview(await loadWikitext("X-Men '97"), "X-Men '97", "X-Men '97"));
+  releases.push(...extractSeriesOverview(await loadWikitext('List of X-Men: The Animated Series episodes'), 'List of X-Men: The Animated Series episodes', 'X-Men: The Animated Series'));
   releases.push(...extractSeriesOverview(await loadWikitext('I Am Groot'), 'I Am Groot', 'I Am Groot'));
   releases.push(...extractSeriesOverview(await loadWikitext('Daredevil: Born Again'), 'Daredevil: Born Again', 'Daredevil: Born Again'));
   releases.push(...extractSeriesOverview(await loadWikitext('Loki (TV series)'), 'Loki (TV series)', 'Loki (TV series)'));

@@ -14,8 +14,8 @@ This file records every judgement call, every disagreement between sources, and 
 | | |
 |---|---|
 | Titles | 109 |
-| Units (films, seasons, episode ranges) | 142 |
-| Continuities | MCU 115 units · Fox X-Men 13 · SSU 6 · Raimi 3 · Webb 2 · X-Men TAS/'97 3 |
+| Units (films, seasons, episode ranges) | 146 |
+| Continuities | MCU 115 units · Fox X-Men 13 · SSU 6 · Raimi 3 · Webb 2 · X-Men TAS/'97 7 |
 | Canon tier | core 111 · outside-set-date 9 · adjacent 16 · non-placeable 6 |
 | In-universe confidence | stated 88 · inferred 32 · disputed 22 |
 | Status | released 130 · upcoming 12 |
@@ -110,10 +110,11 @@ The other `disputed` units:
 - **Phases and sagas** come from each Phase page's tables.
   - The One-Shots, the Netflix shows and the ABC/Hulu/Freeform shows have **no phase**: no source assigns one. (The One-Shots appear on the Phase Two box set, which is not a phase assignment.)
   - Phase Seven has no published saga name, so its saga is `null`.
-- **Studio vs label.** Wikipedia uses "Marvel Television" for two different things, so they are kept apart:
-  - `marvel-television` is the 2010–2019 division (ABC, Netflix, Hulu, Freeform).
-  - `marvel-television-label` is the banner Marvel Studios introduced in 2024 (*Agatha All Along*, *Daredevil: Born Again*, *VisionQuest*, *Zodiac*, *One Last Kill*).
-  - Marvel Studios Animation, Marvel Animation and Marvel Spotlight are labels under Marvel Studios. The studio filter will match on either studio or label, so "Marvel Animation" works as expected.
+- **Two different "Marvel Television"s** (decision R-8). Wikipedia uses the name for two separate entities, and the dataset keeps them apart:
+  - `marvel-television-division`: "Marvel Television (division, 2010–2019)". Marvel Entertainment's TV division, founded 2010-06-28 and "folded into Marvel Studios" on 2019-12-10 (Wikipedia, *Marvel Television*). It made the ABC, Netflix, Hulu and Freeform series.
+  - `marvel-television-banner`: "Marvel Television (Marvel Studios banner, 2024–)". Wikipedia: "a new 'Marvel Television' banner, separate from the Marvel Television division, starting with *Agatha All Along*". Used for *Agatha All Along*, *Daredevil: Born Again*, *VisionQuest*, *Zodiac* and *One Last Kill*.
+  - Both carry `group: "Marvel Television"`, a distinct `short_label` and `active` years, so the UI can show them side by side without confusing them (presentation: D-1 in [DECISIONS.md](../DECISIONS.md)).
+  - Marvel Studios Animation, Marvel Animation and Marvel Spotlight are labels under Marvel Studios. The studio filter matches on either studio or label.
 - ***Wonder Man*** is listed by Wikipedia under both "Marvel Television" and "Marvel Spotlight". It is recorded as Marvel Spotlight.
 - ***Echo*** was released on Disney+ and Hulu at the same time. Disney+ is recorded as the original platform.
 - ***Endgame*** opens in 2018 but is placed in 2023, where most of it happens (Wikipedia's rule: "majority of the project").
@@ -135,7 +136,7 @@ The other `disputed` units:
   - *No Way Home* is linked to Raimi, Webb and *Let There Be Carnage*.
   - SSU release dates come from the SSU page table. Raimi and Webb dates come from Wikidata (US date).
 - **X-Men: The Animated Series / X-Men '97** (`x-men-animated`) is `ordered-only`.
-  - TAS is **one unit** (S1–5, 76 episodes, 1992-10-31 to 1997-09-20, from its infobox). The article has no per-season table that the extractor can read. **TODO:** split it into seasons.
+  - TAS is split into **seasons 1–5** (13, 13, 19, 21 and 10 episodes) from the `{{Series overview}}` on *List of X-Men: The Animated Series episodes* (decision R-9). Season 3's and season 4's air dates overlap, as Wikipedia lists them. The old combined id `x-men-the-animated-series-s1-5` is in `data/marvel/aliases.json`, so watched progress migrates.
   - X-Men '97 S1–S2 come from its Series overview.
 
 ### 7. Excluded or out of scope (kept visible in the drift report via `data/drift-ignore.json`)

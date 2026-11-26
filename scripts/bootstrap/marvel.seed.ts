@@ -119,7 +119,7 @@ export const MCU_SHORTS: SeedTitle[] = [
       iu: { label: 'No confirmed placement', precision: 'relative', confidence: 'disputed', note: "Excluded from Wikipedia's diagram: the special does not say where it takes place. An Official Timeline (2023) dates it late 2025 but calls the placement uncertain. Disney+ lists it after Ironheart.", src: 'Marvel Cinematic Universe timeline' } }] },
   { id: 'the-guardians-of-the-galaxy-holiday-special', title: 'The Guardians of the Galaxy Holiday Special', type: 'special', wiki: 'The Guardians of the Galaxy Holiday Special', continuity: 'mcu', studio: 'marvel-studios', platform: 'disney-plus', tier: 'core', chars: ['star-lord'], teams: ['guardians-of-the-galaxy'],
     units: [{ key: '', label: 'Special', tl: 'The Guardians of the Galaxy Holiday Special', book: 'The Guardians of the Galaxy Holiday Special', disney: 'The Guardians of the Galaxy Holiday Special' }] },
-  { id: 'the-punisher-one-last-kill', title: 'The Punisher: One Last Kill', type: 'special', wiki: 'The Punisher: One Last Kill', continuity: 'mcu', studio: 'marvel-studios', label: 'marvel-television-label', platform: 'disney-plus', tier: 'core', chars: ['punisher'],
+  { id: 'the-punisher-one-last-kill', title: 'The Punisher: One Last Kill', type: 'special', wiki: 'The Punisher: One Last Kill', continuity: 'mcu', studio: 'marvel-studios', label: 'marvel-television-banner', platform: 'disney-plus', tier: 'core', chars: ['punisher'],
     units: [{ key: '', label: 'Special', tl: 'The Punisher: One Last Kill', disney: 'The Punisher: One Last Kill' }] },
 ];
 
@@ -148,11 +148,11 @@ export const MCU_SERIES: SeedTitle[] = [
   mini('she-hulk-attorney-at-law', 'She-Hulk: Attorney at Law', 'She-Hulk: Attorney at Law', 'She-Hulk', ['she-hulk', 'hulk', 'daredevil']),
   mini('secret-invasion', 'Secret Invasion', 'Secret Invasion (miniseries)', 'Secret Invasion', ['nick-fury']),
   mini('echo', 'Echo', 'Echo (miniseries)', 'Echo', ['echo', 'kingpin', 'daredevil'], ['defenders'], { label: 'marvel-spotlight', notes: 'Released simultaneously on Disney+ and Hulu; Disney+ recorded as original platform.' }),
-  mini('agatha-all-along', 'Agatha All Along', 'Agatha All Along', 'Agatha All Along', ['agatha-harkness'], [], { label: 'marvel-television-label' }),
+  mini('agatha-all-along', 'Agatha All Along', 'Agatha All Along', 'Agatha All Along', ['agatha-harkness'], [], { label: 'marvel-television-banner' }),
   mini('ironheart', 'Ironheart', 'Ironheart (miniseries)', 'Ironheart', ['ironheart']),
   mini('wonder-man', 'Wonder Man', 'Wonder Man (TV series)', 'Wonder Man', ['wonder-man'], [], { label: 'marvel-spotlight', notes: 'Wikipedia lists both Marvel Television and Marvel Spotlight banners; recorded as Marvel Spotlight.' }),
-  mini('visionquest', 'VisionQuest', 'VisionQuest', 'VisionQuest', ['vision'], [], { label: 'marvel-television-label' }),
-  dplus({ id: 'daredevil-born-again', title: 'Daredevil: Born Again', wiki: 'Daredevil: Born Again', label: 'marvel-television-label', chars: ['daredevil', 'kingpin', 'punisher'], teams: ['defenders'],
+  mini('visionquest', 'VisionQuest', 'VisionQuest', 'VisionQuest', ['vision'], [], { label: 'marvel-television-banner' }),
+  dplus({ id: 'daredevil-born-again', title: 'Daredevil: Born Again', wiki: 'Daredevil: Born Again', label: 'marvel-television-banner', chars: ['daredevil', 'kingpin', 'punisher'], teams: ['defenders'],
     links: [{ to: 'daredevil', kind: 'continues', note: 'Revival of the Netflix series' }],
     units: [
       { key: 's1-e1', label: 'Season 1, ep. 1', season: 1, eps: [1, 1, 1, 1], episodes: 1, tl: 'Born Again season 1 ep. 1', disney: 'Daredevil: Born Again season 1' },
@@ -186,13 +186,13 @@ export const MCU_SERIES: SeedTitle[] = [
       { key: 'the-last-guardian', label: 'The Last Guardian', season: 4, phase: 'phase-7', branch: 'zombies-reality',
         iu: { label: 'Not yet placed (unreleased)', precision: 'relative', confidence: 'disputed', note: 'No placement published.', src: 'List of Marvel Cinematic Universe television series (Marvel Studios)' } },
     ] }),
-  dplus({ id: 'zodiac', title: 'Zodiac', wiki: 'Zodiac (TV series)', label: 'marvel-television-label',
+  dplus({ id: 'zodiac', title: 'Zodiac', wiki: 'Zodiac (TV series)', label: 'marvel-television-banner',
     units: [{ key: 's1', label: 'Season 1', season: 1, phase: 'phase-7', iu: { label: 'Not yet placed (unreleased)', precision: 'relative', confidence: 'disputed', note: 'No placement published.', src: 'List of Marvel Cinematic Universe television series (Marvel Studios)' } }] }),
 ];
 
 // ---------------------------------------------------------------- Marvel Television (legacy division)
 const netflix = (id: string, title: string, wiki: string, short: string, seasons: number, chars: string[]): SeedTitle => ({
-  id, title, type: 'series', wiki, continuity: 'mcu', studio: 'marvel-television', platform: 'netflix', tier: 'core', chars, teams: ['defenders'],
+  id, title, type: 'series', wiki, continuity: 'mcu', studio: 'marvel-television-division', platform: 'netflix', tier: 'core', chars, teams: ['defenders'],
   notes: "Marvel Television (legacy division). Placed on the Sacred Timeline by Wikipedia's diagram and the Disney+ timeline (season-level).",
   units: Array.from({ length: seasons }, (_, i) => ({ key: `s${i + 1}`, label: `Season ${i + 1}`, season: i + 1, tl: `${short} season ${i + 1}`, disney: `${short} season ${i + 1}` })),
 });
@@ -214,7 +214,7 @@ export const MARVEL_TV: SeedTitle[] = [
       ['helstrom', 'Helstrom', 'Helstrom (TV series)', 'hulu', 1, ['helstrom'], []],
     ] as const
   ).map(([id, title, wiki, platform, seasons, chars, teams]): SeedTitle => ({
-    id, title, type: 'series', wiki, continuity: 'mcu', studio: 'marvel-television', platform, tier: 'adjacent', chars: [...chars], teams: [...teams],
+    id, title, type: 'series', wiki, continuity: 'mcu', studio: 'marvel-television-division', platform, tier: 'adjacent', chars: [...chars], teams: [...teams],
     notes: "Marvel Television (legacy division). Not part of Wikipedia's MCU timeline diagram or the Disney+ timeline; canon status is ambiguous, so tier is 'adjacent'.",
     units: Array.from({ length: seasons }, (_, i) => ({
       key: `s${i + 1}`, label: `Season ${i + 1}`, season: i + 1,
@@ -222,7 +222,7 @@ export const MARVEL_TV: SeedTitle[] = [
       ...(id === 'helstrom' ? { rel: { date: '2020-10-16', note: 'All episodes released at once.', src: 'Helstrom (TV series)' } } : {}),
     })),
   })),
-  { id: 'agent-carter-series', title: 'Agent Carter', type: 'series', wiki: 'Agent Carter (TV series)', continuity: 'mcu', studio: 'marvel-television', platform: 'abc', tier: 'adjacent', chars: ['peggy-carter'], teams: ['shield'],
+  { id: 'agent-carter-series', title: 'Agent Carter', type: 'series', wiki: 'Agent Carter (TV series)', continuity: 'mcu', studio: 'marvel-television-division', platform: 'abc', tier: 'adjacent', chars: ['peggy-carter'], teams: ['shield'],
     notes: "Marvel Television (legacy division). Not in Wikipedia's MCU timeline diagram; years come from the series article.",
     links: [{ to: 'agent-carter-one-shot', kind: 'continues' }],
     units: [

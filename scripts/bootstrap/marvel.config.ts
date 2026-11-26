@@ -66,16 +66,110 @@ export const MARVEL_CONTINUITIES: Continuity[] = [
   ordered('x-men-animated', 'X-Men: The Animated Series / X-Men ’97', 'X-Men TAS', 6, 'The 1992–1997 animated series and its 2024 continuation X-Men ’97. Not part of the MCU.', ['X-Men:_The_Animated_Series', "X-Men_'97"]),
 ];
 
+// Synced with data/registry/studios.json after the 2026-11-26 migration.
 export const STUDIOS: Studio[] = [
-  { id: 'marvel-studios', label: 'Marvel Studios', kind: 'studio', parent: null, note: '' },
-  { id: 'marvel-television', label: 'Marvel Television (2010–2019 division)', kind: 'division', parent: null, note: 'The original division behind the ABC, Netflix, Hulu and Freeform series. Folded into Marvel Studios in 2019.' },
-  { id: 'marvel-television-label', label: 'Marvel Television (Marvel Studios label)', kind: 'label', parent: 'marvel-studios', note: 'Banner introduced by Marvel Studios in 2024. Not the same as the 2010–2019 division.' },
-  { id: 'marvel-studios-animation', label: 'Marvel Studios Animation', kind: 'label', parent: 'marvel-studios', note: '' },
-  { id: 'marvel-animation', label: 'Marvel Animation', kind: 'label', parent: 'marvel-studios', note: 'Label used by Marvel Studios for animation from 2024.' },
-  { id: 'marvel-spotlight', label: 'Marvel Spotlight', kind: 'label', parent: 'marvel-studios', note: 'Banner for more grounded, character-focused stories (2024–).' },
-  { id: 'marvel-entertainment-group', label: 'Marvel Entertainment Group', kind: 'studio', parent: null, note: 'With Saban Entertainment, Graz Entertainment and AKOM for X-Men: The Animated Series.' },
-  { id: 'fox', label: '20th Century Fox', kind: 'studio', parent: null, note: '' },
-  { id: 'sony', label: 'Sony Pictures (Columbia)', kind: 'studio', parent: null, note: '' },
+  {
+    "id": "marvel-studios",
+    "label": "Marvel Studios",
+    "short_label": null,
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "marvel-television-division",
+    "label": "Marvel Television (division, 2010–2019)",
+    "short_label": "Marvel TV ’10–’19",
+    "kind": "division",
+    "parent": null,
+    "group": "Marvel Television",
+    "active": {
+      "from": 2010,
+      "to": 2019
+    },
+    "note": "The original Marvel Entertainment division (ABC, Netflix, Hulu, Freeform series). Folded into Marvel Studios in December 2019. Not the same as the 2024 Marvel Studios banner."
+  },
+  {
+    "id": "marvel-television-banner",
+    "label": "Marvel Television (Marvel Studios banner, 2024–)",
+    "short_label": "Marvel TV banner",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "group": "Marvel Television",
+    "active": {
+      "from": 2024,
+      "to": null
+    },
+    "note": "Production banner Marvel Studios introduced in 2024 for its live-action series (e.g. Agatha All Along, Daredevil: Born Again). Shares a name with, but is not, the 2010–2019 division."
+  },
+  {
+    "id": "marvel-studios-animation",
+    "label": "Marvel Studios Animation",
+    "short_label": "Marvel Studios Animation",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "group": "Marvel Animation",
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "marvel-animation",
+    "label": "Marvel Animation",
+    "short_label": "Marvel Animation",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "group": "Marvel Animation",
+    "active": {
+      "from": 2024,
+      "to": null
+    },
+    "note": "Label used by Marvel Studios for animation from 2024."
+  },
+  {
+    "id": "marvel-spotlight",
+    "label": "Marvel Spotlight",
+    "short_label": "Marvel Spotlight",
+    "kind": "label",
+    "parent": "marvel-studios",
+    "group": null,
+    "active": {
+      "from": 2024,
+      "to": null
+    },
+    "note": "Banner for more grounded, character-focused stories (2024–)."
+  },
+  {
+    "id": "marvel-entertainment-group",
+    "label": "Marvel Entertainment Group",
+    "short_label": null,
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": "With Saban Entertainment, Graz Entertainment and AKOM for X-Men: The Animated Series."
+  },
+  {
+    "id": "fox",
+    "label": "20th Century Fox",
+    "short_label": null,
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "sony",
+    "label": "Sony Pictures (Columbia)",
+    "short_label": null,
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  }
 ];
 
 export const PLATFORMS: Platform[] = [

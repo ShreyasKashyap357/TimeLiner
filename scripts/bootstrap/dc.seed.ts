@@ -36,6 +36,9 @@ export const DCU_TITLES: DcTitle[] = [
     iu: R('Between Superman and Man of Tomorrow', '"Supergirl (2026) takes place in between Superman and Man of Tomorrow".', [DCU], 'stated') }),
   film({ id: 'man-of-tomorrow', title: 'Man of Tomorrow', wiki: 'Man of Tomorrow (film)', continuity: 'dcu', studio: 'dc-studios', chars: ['superman', 'lex-luthor'], teams: ['superman-franchise'], grp: CH1,
     iu: UNRELEASED('Reported as set "in \'real time\' after Superman, roughly occurring in mid-2027" (Man of Tomorrow article). Not placed until release.', ['Man of Tomorrow (film)']) }),
+  { id: 'the-people-v-gorilla-grodd', title: 'The People v. Gorilla Grodd', type: 'series', wiki: 'The People v. Gorilla Grodd', continuity: 'dcu', studio: 'dc-studios', platform: 'max',
+    notes: '"an upcoming American mockumentary crime comedy superhero television series … for HBO Max".',
+    units: [{ key: 's1', label: 'Season 1', season: 1, grp: CH1, iu: UNRELEASED('Listed in the Chapter One slate for 2027; no placement published.', [DCU]) }] },
 ];
 
 // ================================================================ DCEU (story order per DCEU#Timeline)

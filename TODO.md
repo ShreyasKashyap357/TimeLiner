@@ -27,10 +27,18 @@
 - [x] CHECKPOINT 2 delivered (continuing to Stage 3 per R-10)
 
 ## Stage 3: DC data
-- [ ] **CHECKPOINT 3**
+- [x] 39 DC sources cached; candidates via scripts/build/dc.ts; Wikidata film dates
+- [x] In-universe research (Wikipedia first, Fandom only as inferred), DC seed + bootstrap
+- [x] Schema additions: Branch.merges_into, episode-level crossover constituents (backward compatible)
+- [x] DATA_NOTES DC section; verify-data drift for DC
+- [x] CHECKPOINT 3 delivered (continuing per R-10)
+- [ ] TODO: Mister Miracle (2028) once the DCU overview links an article; split Arrowverse mid-season Earth switches if per-episode dates are added
 
 ## Stage 4: DC in app
-- [ ] **CHECKPOINT 4**
+- [x] DC enabled (blue accent, continuity picker, Arrowverse Earth markers, crossover episodes in detail panel)
+- [x] Combined Marvel + DC release order with per-universe lanes
+- [x] DC unit tests + e2e (switch, Arrowverse, crossover panel, combined lanes, axe)
+- [x] CHECKPOINT 4 delivered
 
 ## Later stages (proposed, each with a data checkpoint)
 - [ ] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)

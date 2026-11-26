@@ -84,9 +84,21 @@ test.describe('TimeLiner smoke', () => {
     }
   });
 
+  test('DC universe: switch, Arrowverse timeline, crossover episodes, combined release lanes', async ({ page }) => {
+    await page.goto('/?u=dc&c=arrowverse');
+    await expect(page.locator('[data-unit="arrow-s1"]')).toBeVisible();
+    const accent = await page.evaluate(() => getComputedStyle(document.documentElement).getPropertyValue('--u-primary').trim().toLowerCase());
+    expect(accent).toBe('#5da9ff');
+    await page.goto('/?u=dc&c=arrowverse&unit=crisis-on-infinite-earths');
+    await expect(page.getByRole('dialog').getByText(/Episodes in this crossover/)).toBeVisible();
+    await page.goto('/?u=all&view=release&lanes=1');
+    await expect(page.getByRole('region', { name: 'Marvel' })).toBeVisible();
+    await expect(page.getByRole('region', { name: 'DC' })).toBeVisible();
+  });
+
   test('no WCAG A/AA violations on main views', async ({ page }) => {
     test.setTimeout(180_000);
-    for (const q of ['/?u=marvel&c=mcu', '/?u=marvel&view=release', '/?u=marvel&c=mcu&view=dual']) {
+    for (const q of ['/?u=marvel&c=mcu', '/?u=marvel&view=release', '/?u=marvel&c=mcu&view=dual', '/?u=dc&c=arrowverse']) {
       await page.goto(q);
       await page.getByTestId('result-count').waitFor({ state: 'attached' });
       await page.waitForTimeout(300);

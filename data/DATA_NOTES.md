@@ -228,3 +228,92 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
 - The Marvel Animation company is a new registry entry, `marvel-animation-inc`. It is grouped with, but kept distinct from, the 2024 Marvel Studios "Marvel Animation" label. This is the same treatment as the two Marvel Televisions.
 
 **Not added:** unaired pilots (*Marvel's Most Wanted*, *New Warriors*), and non-MCU animated features and specials (decision D-15).
+
+---
+
+## DC (Stage 3)
+
+### 1. Summary
+
+| | |
+|---|---|
+| Titles / units | 100 / 172 |
+| Continuities | DCU 7 · DCEU 17 · Arrowverse 57 (incl. 9 crossover events) · Reeves 3 · Nolan 3 · Burton/Schumacher 4 · Joker 2 · Reeve-era Superman 6 · Smallville 10 · Gotham 5 · Titans 4 · Doom Patrol 4 · DCAU 24 · DCAMU 16 · Tomorrowverse 10 |
+| In-universe confidence | stated 41 · inferred 120 · disputed 11 |
+| Canon tier | core 168 · adjacent 4 (*Superman & Lois*) |
+| Status (2026-11-26) | released 170 · upcoming 2 (*Man of Tomorrow* 2027-07-09, *The Batman: Part II* 2028-02-18) |
+
+**Method:**
+- `scripts/fetch` cached 39 DC Wikipedia pages (plus the Smallville and Gotham episode lists).
+- `scripts/build/dc.ts` extracted the release tables: `{{Film overview}}`, `{{Series overview}}` (including split seasons such as "4A/4B"), the DCAMU first-cell table, and infoboxes.
+- Wikidata supplied US release dates for films outside the overview tables.
+- `scripts/bootstrap/dc.seed.ts` holds the curated decisions, and `scripts/bootstrap/dc.ts` writes `data/dc/`.
+- In-universe research was done against Wikipedia (revision ids recorded in the research), with the Arrowverse Wiki and DC Database (Fandom) used only where Wikipedia is silent, and rated `inferred` at most. Every unit's note quotes its source.
+
+**Unlike the MCU, DC has no single Wikipedia timeline diagram.** The DCEU and DCU pages each have a "Timeline" section, and everything else is assembled from article prose and categories.
+
+### 2. Continuity decisions
+
+- **DCU vs DCEU are separate continuities** (never merged).
+  - **Peacemaker** is split into two titles (D-10): S1 → `dceu`, S2 → `dcu`, linked `continues`. The DCU page says "The majority of Peacemaker's first season is canon to the DCU, except for the cameo appearance of the DCEU Justice League".
+  - **The Suicide Squad** stays DCEU (2021). Its note records Gunn's October 2026 statement that it is mostly DCU-canon but "would need to occur around 2023 or 2024".
+  - **Blue Beetle** stays DCEU ("the final film in the DCEU timeline"). Its note records that the DCU only confirms the character.
+- **DCEU branches:**
+  - *Zack Snyder's Justice League* is on a "Snyder Cut (slightly alternate)" branch: Snyder said it "takes place in a slightly alternate universe".
+  - *The Flash* (2023) stays on the main branch with a disputed note: it is set "in 2023 and 2013 of an alternative timeline".
+- **Arrowverse Earths** are branches:
+
+  | Branch | Notes |
+  |---|---|
+  | Earth-1 | main |
+  | Earth-38 | Supergirl |
+  | Jefferson's Earth | Black Lightning |
+  | Earth-X | The Ray |
+  | Earth-Prime | created at Crisis |
+  | Earth-2 (post-Crisis) | Stargirl |
+  | Earth adjacent to Earth-Prime | Superman & Lois, tier `adjacent` |
+
+  - Earth-1, Earth-38 and Jefferson's Earth carry `merges_into: earth-prime` at December 2019. Source: *Crisis on Infinite Earths* (Arrowverse): they "were merged into Earth-Prime".
+  - Seasons that switch Earth mid-season (Arrow S8 after E8, Flash S6 from E10, Supergirl S5 and Batwoman S1 after E9, Black Lightning S3 after E9) are kept on their pre-Crisis branch, with the switch in the unit note. Splitting them would need per-episode air dates.
+- **Arrowverse crossover events** are watchable units of type `crossover-event`, with episode-level constituents (D-7): Flash vs. Arrow, Heroes Join Forces, Worlds Finest, Invasion!, Duet, Crisis on Earth-X, Elseworlds, Crisis on Infinite Earths, Armageddon. Crisis Part Five (a Legends special outside LoT S5 numbering) and the Black Lightning tie-in are mentioned in the note, not as constituents.
+- **Titans and Doom Patrol are separate continuities.** Source: "Doom Patrol occupies a separate continuity from Titans". They are linked as `shares-characters`.
+- **Reeve-era Superman** has two branches:
+  - I → II → III → *Supergirl* (1984) → IV;
+  - I → II → *Superman Returns*, which ignores "the events of Superman III, Supergirl, and Superman IV".
+- **DCAMU and Tomorrowverse** are separate, order-only continuities. Tomorrowverse is "set after … Apokolips War, which ends the first story arc with a universal reset". Wikipedia gives no story order separate from release order. Category years exist for some DCAMU films but are not used.
+
+### 3. Dating rules applied
+
+- **Stated:** a sentence gives the year. Examples:
+  - Wonder Woman 1918
+  - Joker 1981
+  - Shazam! "Christmas season of 2018"
+  - Birds of Prey 2020
+  - The Suicide Squad 2021
+  - Superman "mid-2025"
+  - Lanterns 2016/2026
+  - The Penguin "November 2022"
+  - Batman Beyond 2039
+  - Arrow S1 2012, Flash S5 2018–19, Flash S8 2021–22, Flash S9 2023, LoT 2016–2020
+- **Inferred:** year only from a "Films/Television series set in YYYY" category, from relative arithmetic, or from Fandom.
+  - Arrowverse seasons without a stated year are "assumed contemporaneous with broadcast". The stated anchors all match broadcast years, which supports this.
+  - Smallville S2–S9 are inferred the same way, between the S1 (2001) and finale (c. 2011) anchors.
+- **Disputed:**
+  - Zack Snyder's Justice League
+  - Aquaman ("right after" vs "one year after")
+  - Shazam! Fury of the Gods ("four years" vs "about two years")
+  - The Flash (2023 vs categories)
+  - Batwoman S1 (Fandom arithmetic gives 2018)
+  - Superman & Lois (Earth retconned)
+  - the two unreleased films
+- **No year at all** (relative, ordered by sequel statements or release): Burton/Schumacher films, Superman I–II and Returns, Gotham, Titans, Doom Patrol, most of the DCAU, the DCAMU and the Tomorrowverse.
+
+### 4. Not included (D-11)
+
+- Lucifer, Swamp Thing (2019), Krypton, Pennyworth, Watchmen, Constantine (NBC; the research found it was retroactively folded into the Arrowverse via Matt Ryan's appearances), Teen Titans, Young Justice, Harley Quinn, the Lobo and Gotham Girls web shorts, and the standalone DC Universe Animated Original Movies.
+- Upcoming DCU titles without a release date (*The Brave and the Bold*, *Swamp Thing*, Wonder Woman, Teen Titans, *Booster Gold*, …). *The People v. Gorilla Grodd* (2027) and *Mister Miracle* (2028) were not added because the overview row lacked an article link; this is a TODO.
+
+### 5. Not verified
+
+- Wikipedia revision ids for pages fetched only by the research agents (season articles, film articles) are recorded in the research but not cached in `data/sources/`. Their quotes were spot-checked where the page is cached: the DCEU, DCU, Joker and The Penguin quotes all matched.
+- Gunn's October 2026 statements are very recent, and those pages may change. The weekly drift check will flag them.

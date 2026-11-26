@@ -6,5 +6,33 @@
   {
     "match": "i-am-groot: season 2",
     "reason": "Season 2 is covered by unit i-am-groot-ep2-10, which spans S1E2-S2E5 as in Wikipedia's diagram."
+  },
+  {
+    "match": "(no date) not in dataset",
+    "reason": "Announced titles without a release date are added once dated or in production (rule used for both universes)."
+  },
+  {
+    "match": "season 2 (no date) listed",
+    "reason": "Renewed seasons without a release date are added once dated."
+  },
+  {
+    "match": "\"Lobo\"",
+    "reason": "DCAU web shorts are out of scope (D-11)."
+  },
+  {
+    "match": "\"Gotham Girls\"",
+    "reason": "DCAU web shorts are out of scope (D-11)."
+  },
+  {
+    "match": "serial\"",
+    "reason": "1940s–50s Superman serials/films: separate early continuity, deferred (D-11)."
+  },
+  {
+    "match": "\"Superman and the Mole Men\"",
+    "reason": "1951 film: separate early continuity, deferred (D-11)."
+  },
+  {
+    "match": "Richard Donner Cut",
+    "reason": "Alternate cut of Superman II; not a separate story (could be added as a remake link)."
   }
 ]

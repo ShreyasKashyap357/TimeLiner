@@ -100,6 +100,26 @@ async function driftMarvel(ds: Dataset): Promise<Drift[]> {
   return drifts;
 }
 
+/** Generic release drift for any universe with data/candidates/<universe>.json (rows with link/season/start). */
+async function driftReleases(ds: Dataset, universe: string): Promise<Drift[]> {
+  const file = `data/candidates/${universe}.json`;
+  if (!existsSync(file)) return [];
+  const C = JSON.parse(await readFile(file, 'utf8'));
+  const titles = ds.titles.filter((t) => t.universe === universe);
+  const byWiki = new Map<string, Title[]>();
+  for (const t of titles) if (t.external_ids.enwiki) byWiki.set(t.external_ids.enwiki, [...(byWiki.get(t.external_ids.enwiki) ?? []), t]);
+  const out: Drift[] = [];
+  for (const r of C.releases as { kind: string; link: string | null; title: string; season?: number; start: string | null; source_page: string; status_text?: string | null }[]) {
+    if (!r.link) continue;
+    const ts = byWiki.get(r.link);
+    if (!ts) { out.push({ kind: 'new-title', where: r.source_page, message: `${r.kind} "${r.title}"${r.season ? ` S${r.season}` : ''} (${r.start ?? 'no date'}) not in dataset` }); continue; }
+    if (r.kind !== 'season' || r.season === undefined) continue;
+    const has = ts.some((t) => t.units.some((u) => u.source_keys['release-season'] === String(r.season)));
+    if (!has && r.status_text !== 'infobox (series-level)') out.push({ kind: 'new-title', where: ts[0]!.id, message: `season ${r.season} (${r.start ?? 'no date'}) listed on ${r.source_page} but not in dataset` });
+  }
+  return out;
+}
+
 async function revisionDrift(): Promise<Drift[]> {
   // Compare cached manifest against the revision ids recorded when the dataset was last curated.
   const manifestFile = 'data/sources/manifest.json';
@@ -163,7 +183,7 @@ async function main() {
   const ds = await loadDataset(issues);
   if (ds) issues.push(...checkIntegrity(ds, TODAY));
   const ignore: { match: string; reason: string }[] = existsSync("data/drift-ignore.json") ? JSON.parse(await readFile("data/drift-ignore.json", "utf8")) : [];
-  const allDrift = ds ? [...(await driftMarvel(ds)), ...(await revisionDrift())] : [];
+  const allDrift = ds ? [...(await driftMarvel(ds)), ...(await driftReleases(ds, 'dc')), ...(await revisionDrift())] : [];
   const drift = allDrift.filter((d) => !ignore.some((i) => `${d.where}: ${d.message}`.includes(i.match)));
   const ignored = allDrift.length - drift.length;
   const ref = ds ? await referenceDiff(ds) : [];

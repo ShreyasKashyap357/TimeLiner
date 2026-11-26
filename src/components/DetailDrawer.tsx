@@ -122,6 +122,23 @@ export function DetailDrawer() {
                 )}
               </dl>
 
+              {row.title.constituents.length > 0 && (
+                <Section title={`Episodes in this crossover (${row.title.constituents.length})`}>
+                  <ol className="list-decimal space-y-1 pl-5 text-sm">
+                    {row.title.constituents.map((ref) => {
+                      const [uid, ep] = ref.split('#e');
+                      const part = rows.find((r) => r.key === uid);
+                      return (
+                        <li key={ref}>
+                          {part ? <button type="button" className="underline" onClick={() => go(part.key)}>{part.name}</button> : uid}
+                          {ep && <span className="text-muted-foreground">, episode {ep}</span>}
+                        </li>
+                      );
+                    })}
+                  </ol>
+                </Section>
+              )}
+
               {conns.length > 0 && (
                 <Section title={`Connections (${conns.length})`}>
                   <ul className="space-y-1.5 text-sm">

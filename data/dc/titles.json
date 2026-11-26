@@ -527,6 +527,74 @@
     "constituents": []
   },
   {
+    "id": "the-people-v-gorilla-grodd",
+    "title": "The People v. Gorilla Grodd",
+    "sort_title": "People v. Gorilla Grodd",
+    "type": "series",
+    "universe": "dc",
+    "continuity": "dcu",
+    "studio_brand": "dc-studios",
+    "label": null,
+    "platform_or_network": "max",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "The People v. Gorilla Grodd",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_People_v._Gorilla_Grodd",
+      "https://en.wikipedia.org/wiki/DC_Universe_(franchise)"
+    ],
+    "notes": "\"an upcoming American mockumentary crime comedy superhero television series … for HBO Max\".",
+    "units": [
+      {
+        "id": "the-people-v-gorilla-grodd-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Listed in the Chapter One slate for 2027; no placement published.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027",
+          "end_date": null,
+          "year": 2027,
+          "note": ""
+        },
+        "status": "upcoming",
+        "groupings": {
+          "chapter": "chapter-1"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/DC_Universe_(franchise)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
     "id": "wonder-woman-2017",
     "title": "Wonder Woman",
     "sort_title": null,

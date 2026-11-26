@@ -71,7 +71,7 @@ const SPECS: Spec[] = [
     chars: a === 'Iron Man' ? ['iron-man'] : a === 'Wolverine' ? ['wolverine'] : a === 'X-Men' ? ['professor-x', 'wolverine'] : [], teams: a === 'X-Men' ? ['x-men'] : [], anime: a, note: 'One of four 12-episode Madhouse series; release order.' })),
   { id: 'spidey-and-his-amazing-friends', title: 'Spidey and His Amazing Friends', wiki: 'Spidey and His Amazing Friends', type: 'animated-series', continuity: 'spidey-friends', studio: 'marvel-studios', label: 'marvel-studios-animation', platform: 'disney-jr', chars: ['spider-man'], teams: ['spider-man-franchise'], note: 'Preschool series; release order.' },
   { id: 'iron-man-and-his-awesome-friends', title: 'Iron Man and His Awesome Friends', wiki: 'Iron Man and His Awesome Friends', type: 'animated-series', continuity: 'spidey-friends', studio: 'marvel-studios', label: 'marvel-studios-animation', platform: 'disney-jr', chars: ['iron-man'],
-    note: '"Produced by Marvel Studios Animation and Atomic Cartoons as a spin-off of Spidey and His Amazing Friends".', links: [{ to: 'spidey-and-his-amazing-friends', kind: 'spinoff' }] },
+    note: '"Produced by Marvel Studios Animation and Atomic Cartoons as a spin-off of Spidey and His Amazing Friends".', links: [{ to: 'spidey-and-his-amazing-friends', kind: 'spinoff', note: '' }] },
   ...([
     ['the-super-hero-squad-show', 'The Super Hero Squad Show', 'The Super Hero Squad Show', 'cartoon-network', [], ['avengers']],
     ['iron-man-armored-adventures', 'Iron Man: Armored Adventures', 'Iron Man: Armored Adventures', 'nicktoons', ['iron-man'], []],

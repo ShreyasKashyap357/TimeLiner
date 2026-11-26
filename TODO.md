@@ -68,7 +68,7 @@
 - [x] D-11 DC deferred titles (55)
 - [x] D-16 word counts (WoT, ASOIAF 1–5) + reading time; spoiler-safe covers connection notes
 - [x] D-21/D-22 calendar notes in the Key
-- [ ] D-29 cast & crew from Wikidata (top-billed cast, directors, writers, producers, composers) + People filter
+- [x] D-29 cast & crew from Wikidata (top-billed cast, crew, authors) in the detail panel, search, and a Cast & crew filter
 - [x] UI batch: pickers (width, full list, colour swatches, layering), phone layout, [year] titles, URL defaults
 
 ## Revision workflow (see PLAN.md §9)

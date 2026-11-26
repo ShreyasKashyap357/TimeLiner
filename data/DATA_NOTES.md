@@ -493,3 +493,14 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - The cancelled *Star Trek 4*.
 - **Upcoming:** *Strange New Worlds* S5 (TBA) and *Starfleet Academy* S2 (March 2027) stay unplaced until release.
 - **Official viewing order (D-34):** StarTrek.com publishes a series-level "Viewing Order Guide" (2026-07-20). It was read only through a summarising fetch, so it has not been added as an official order yet.
+
+## Cast & crew (D-29)
+
+- **Source:** Wikidata (CC0), looked up by each title's English Wikipedia article. The properties used are author (P50), cast (P161, with character role P453 or P4633), director (P57), screenwriter (P58), producer (P162), executive producer (P1431), composer (P86) and creator (P170).
+- **What is stored:** the first 10 cast members in Wikidata's statement order, which is usually billing order but not guaranteed, and up to 8 people per crew role.
+- **What is left out:**
+  - people with no English label;
+  - titles whose article is shared with other titles (list pages such as the LEGO or Tales anthologies), since the article does not describe any one of them.
+- **Credits are per title, not per season.** Wikidata rarely has season-level items.
+- **Coverage on 2026-11-27:** 408 of 523 titles.
+- **Refresh:** `npm run credits`.

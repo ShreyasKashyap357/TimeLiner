@@ -15,6 +15,7 @@ export interface AppCtx {
     studioShort: (id: string) => string;
     platform: (id: string) => string;
     tag: (id: string) => string;
+    person: (qid: string) => string;
     grouping: (id: string) => string;
   };
   altOrder: string[] | undefined;

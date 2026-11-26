@@ -124,3 +124,15 @@ describe('Star Trek', () => {
     for (let i = 1; i < seq.length; i++) expect(ix(seq[i - 1]!)).toBeLessThan(ix(seq[i]!));
   });
 });
+
+describe('Cast & crew (D-29)', () => {
+  it('stores Wikidata credits and filters by person', () => {
+    const im = ds.titles.find((t) => t.id === 'iron-man')!;
+    expect(im.credits.some((c) => c.role === 'director' && c.name === 'Jon Favreau')).toBe(true);
+    expect(im.credits.filter((c) => c.role === 'cast').length).toBeLessThanOrEqual(10);
+    const favreau = im.credits.find((c) => c.name === 'Jon Favreau')!.qid!;
+    const r = applyFilters(rows, { ...defaultState('marvel', null), people: [favreau] }, { scopeContinuity: false, scopeUniverse: true });
+    expect(r.some((x) => x.title.id === 'iron-man')).toBe(true);
+    expect(r.every((x) => x.title.credits.some((c) => c.qid === favreau))).toBe(true);
+  });
+});

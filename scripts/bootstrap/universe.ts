@@ -122,7 +122,7 @@ for (const st of SEED) {
     external_ids: { enwiki: st.wiki, wikidata: wd?.qid ?? null, tmdb: wd?.tmdb_movie ?? wd?.tmdb_tv ?? null, imdb: wd?.imdb ?? null },
     source_urls: [...pages].map(srcUrl), notes: st.notes ?? '', units,
     links: (st.links ?? []).map((l) => ({ to: l.to, kind: l.kind as Title['links'][number]['kind'], note: l.note ?? '' })),
-    constituents: st.constituents ?? [],
+    constituents: st.constituents ?? [], credits: [],
   });
 }
 

@@ -1,0 +1,5436 @@
+{
+ "fetched_at": "2026-11-26T20:20:12.035Z",
+ "license": "CC0",
+ "credits": [
+  {
+   "enwiki": "Star Trek: Enterprise",
+   "qid": "Q380519",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q311699",
+      "character_qids": [
+       "Q1101459"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q453724",
+      "character_qids": [
+       "Q2600949"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q234466",
+      "character_qids": [
+       "Q1315662"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q550115",
+      "character_qids": [
+       "Q738817"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q241873",
+      "character_qids": [
+       "Q1055776"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q552103",
+      "character_qids": [
+       "Q860266"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q713738",
+      "character_qids": [
+       "Q2631797"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2571025",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1189355",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q540510",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Discovery",
+   "qid": "Q21296543",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q7560935",
+      "character_qids": [
+       "Q40935468"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q214289",
+      "character_qids": [
+       "Q43740811",
+       "Q47391140"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q39983",
+      "character_qids": [
+       "Q42716550"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q461309",
+      "character_qids": [
+       "Q42713428"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q28921867",
+      "character_qids": [
+       "Q43217835"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q535507",
+      "character_qids": [
+       "Q2712069"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q7491731",
+      "character_qids": [
+       "Q44569965"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q50359274",
+      "character_qids": [
+       "Q63136230"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q63124741",
+      "character_qids": [
+       "Q63125084"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q214223",
+      "character_qids": [
+       "Q41796329"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q449561",
+      "character_qids": [
+       "Q48080009"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q349548",
+      "character_qids": [
+       "Q3127322"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q3270529",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q516483",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16201541",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q231660",
+      "character_qids": [
+       "Q1412447"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1190037",
+      "character_qids": [
+       "Q48032489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q30039197",
+      "character_qids": [
+       "Q48078634"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q651681",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q50974754",
+      "character_qids": [
+       "Q48081407"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q570006",
+      "character_qids": [
+       "Q612625"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q732763",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68038158",
+      "character_qids": [
+       "Q40935468"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q67648349",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q24963319",
+      "character_qids": [
+       "Q62077334"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16145966",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68339088",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1338610",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1320452",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16911059",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q57002079",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68441369",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q62077689",
+      "character_qids": [
+       "Q62077334"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q948310",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68492294",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q42418858",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3515945",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7801308",
+      "character_qids": [
+       "Q61655496"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q68630001",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68647093",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5162503",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68775694",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68817272",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q52236130",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q63285715",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69054814",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69087443",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q69506379",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q202792",
+      "character_qids": [
+       "Q1568510"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q441836",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69525944",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69527493",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69544731",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q56927373",
+      "character_qids": [
+       "Q56926823"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1990966",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69841809",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5317847",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69903446",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2837131",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69974862",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q59579779",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q70357284",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q70846755",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q70873739",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q71106466",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q71358379",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q434844",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q57452613",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q24335234",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3163137",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q233575",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5591276",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q71971463",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q57002298",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1101612",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q72147765",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6162357",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2903668",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q72230620",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q72366928",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5162584",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q72577921",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q72670384",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q66819366",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q72941488",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q73891277",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q74071333",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q74213433",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q74520881",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2569647",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q662257",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q64891312",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q74728418",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q74970086",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5360620",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q77043583",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4942414",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q23061598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q56062807",
+      "character_qids": [
+       "Q104760690"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q99673126",
+      "character_qids": [
+       "Q101059840"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q28113147",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69750156",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q3018772",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4679312",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q17090902",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6514839",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q11856301",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5231164",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2129942",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q20987428",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q18705002",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3018806",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q63114170",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16745401",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q29341423",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q21663076",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q995026",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7356345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3018772",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q6174877",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q995026",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Strange New Worlds",
+   "qid": "Q94527193",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q570006",
+      "character_qids": [
+       "Q612625"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1320452",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q202792",
+      "character_qids": [
+       "Q1568510"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q40571737",
+      "character_qids": [
+       "Q77657722"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q14954989",
+      "character_qids": [
+       "Q111983179"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q100702045",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q111024535",
+      "character_qids": [
+       "Q2737692"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q111039022",
+      "character_qids": [
+       "Q111983180"
+      ],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q29341423",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q16341114",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: The Original Series",
+   "qid": "Q1077",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q232917",
+      "character_qids": [
+       "Q2737692"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16349",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q272214",
+      "character_qids": [
+       "Q2707157"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2736038",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3370585",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5336388",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q721288",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q450706",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q721288",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1452295",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1282874",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6228142",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1394107",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: The Animated Series",
+   "qid": "Q20922",
+   "roles": {
+    "director": [
+     {
+      "qid": "Q5640945",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q3343707",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1369625",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: The Motion Picture",
+   "qid": "Q107940",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16349",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q432731",
+      "character_qids": [
+       "Q55083084"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q435434",
+      "character_qids": [
+       "Q18233872"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q272214",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q940971",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q44450",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q711870",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1894431",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [
+       "Q2737692"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2905190",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5257735",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7648346",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q59821",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q5661509",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q575345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q235077",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek II: The Wrath of Khan",
+   "qid": "Q465478",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q333595",
+      "character_qids": [
+       "Q23031"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16349",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q623999",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q344576",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q151935",
+      "character_qids": [
+       "Q607452"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q84696",
+      "character_qids": [
+       "Q13218515"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2736038",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q3148398",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q8312",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q1676969",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q8312",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7349543",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q106221",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek III: The Search for Spock",
+   "qid": "Q221305",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16349",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q109324",
+      "character_qids": [
+       "Q124213536"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q623999",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q469827",
+      "character_qids": [
+       "Q607452"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q230415",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q463497",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q940971",
+      "character_qids": [
+       "Q2712069"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1371134",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2260984",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2157603",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1681105",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q106221",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek IV: The Voyage Home",
+   "qid": "Q471842",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16297",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16349",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q469827",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q230789",
+      "character_qids": [
+       "Q3106613"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q234089",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1389759",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q940971",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1312600",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q580587",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q3499020",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7175285",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q8312",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1346580",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek V: The Final Frontier",
+   "qid": "Q241218",
+   "roles": {
+    "author": [
+     {
+      "qid": "Q1208954",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "cast": [
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16349",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q363271",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q356846",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2667506",
+      "character_qids": [
+       "Q65016702"
+      ],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q16297",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q3018318",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q235077",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q1386741",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3018318",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek VI: The Undiscovered Country",
+   "qid": "Q579757",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16297",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16349",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q254038",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q110154",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q209175",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q363271",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q190523",
+      "character_qids": [
+       "Q22992"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q338396",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q317228",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q256531",
+      "character_qids": [
+       "Q53858092"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q348445",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q204590",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q940971",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q580587",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q12043973",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1389759",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q599274",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q8312",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q5259203",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q8312",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4572341",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6769506",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q7288285",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7614407",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q16345",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1101136",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Section 31",
+   "qid": "Q106948764",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q214289",
+      "character_qids": [
+       "Q47391140"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q7089885",
+      "character_qids": [],
+      "character_text": "Alok Sahar"
+     },
+     {
+      "qid": "Q719878",
+      "character_qids": [
+       "Q106620964"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q24050468",
+      "character_qids": [],
+      "character_text": "Quasi"
+     },
+     {
+      "qid": "Q65553191",
+      "character_qids": [],
+      "character_text": "Fuzz"
+     },
+     {
+      "qid": "Q3938329",
+      "character_qids": [],
+      "character_text": "Zeph"
+     },
+     {
+      "qid": "Q64548873",
+      "character_qids": [],
+      "character_text": "Melle"
+     },
+     {
+      "qid": "Q8215223",
+      "character_qids": [],
+      "character_text": "San"
+     },
+     {
+      "qid": "Q106997",
+      "character_qids": [
+       "Q62992395"
+      ],
+      "character_text": "Control"
+     },
+     {
+      "qid": "Q118489324",
+      "character_qids": [
+       "Q47391140"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q6211805",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6136339",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q42719638",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q68492294",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q102745297",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q69527493",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4273299",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q17090902",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q5181513",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5181513",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q17090902",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7356345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q214289",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q6174877",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: The Next Generation",
+   "qid": "Q16290",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16296",
+      "character_qids": [
+       "Q16276"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [
+       "Q752877",
+       "Q7793556"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [
+       "Q22983",
+       "Q2609295"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312570",
+      "character_qids": [
+       "Q384569"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q234474",
+      "character_qids": [
+       "Q2069947"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253764",
+      "character_qids": [
+       "Q794335"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232945",
+      "character_qids": [
+       "Q625731"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q264699",
+      "character_qids": [
+       "Q2000355"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q269599",
+      "character_qids": [
+       "Q55191"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [
+       "Q3173451"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q708777",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q253578",
+      "character_qids": [
+       "Q6741449"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q550778",
+      "character_qids": [
+       "Q15857"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q49001",
+      "character_qids": [
+       "Q1078955"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q239075",
+      "character_qids": [
+       "Q629953"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2158428",
+      "character_qids": [
+       "Q1027770"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q313671",
+      "character_qids": [
+       "Q2020365"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q355344",
+      "character_qids": [
+       "Q627820"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q467709",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1396070",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1189355",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q191716",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Deep Space Nine",
+   "qid": "Q108774",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q366012",
+      "character_qids": [
+       "Q546404"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q348445",
+      "character_qids": [
+       "Q2195486"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q238168",
+      "character_qids": [
+       "Q2171485"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q258612",
+      "character_qids": [
+       "Q774719"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1093124",
+      "character_qids": [
+       "Q3160645"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q313671",
+      "character_qids": [
+       "Q2020365"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q353101",
+      "character_qids": [
+       "Q2473641"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311165",
+      "character_qids": [
+       "Q1882443"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q231576",
+      "character_qids": [
+       "Q1960052"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253578",
+      "character_qids": [
+       "Q6741449"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q716247",
+      "character_qids": [
+       "Q3440554"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q322750",
+      "character_qids": [
+       "Q3342685"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q506958",
+      "character_qids": [
+       "Q22971"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1396278",
+      "character_qids": [
+       "Q3829419"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q926194",
+      "character_qids": [
+       "Q22954"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q239328",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q182372",
+      "character_qids": [
+       "Q7046149"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [
+       "Q3173451"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q164372",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1504763",
+      "character_qids": [
+       "Q1166091"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1738645",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q544756",
+      "character_qids": [
+       "Q55347125"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2158428",
+      "character_qids": [
+       "Q1027770"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2086035",
+      "character_qids": [
+       "Q4009196"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2935069",
+      "character_qids": [
+       "Q3812476"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q452288",
+      "character_qids": [
+       "Q965598"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q2597610",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q272166",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432742",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7405616",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q809051",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1345794",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q976754",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q311068",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q442309",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q274883",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q580587",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q253561",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2251648",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q743723",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q281621",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1494853",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6307836",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q339902",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q13341430",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q152542",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q708097",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q6066272",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q957711",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q639937",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q957711",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek Generations",
+   "qid": "Q723679",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q346595",
+      "character_qids": [
+       "Q752877"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [
+       "Q22983"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312570",
+      "character_qids": [
+       "Q384569"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253764",
+      "character_qids": [
+       "Q794335"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232945",
+      "character_qids": [
+       "Q3173451"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16297",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q318412",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q376176",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q498263",
+      "character_qids": [
+       "Q1974328"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q117392",
+      "character_qids": [
+       "Q14414008"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q49001",
+      "character_qids": [
+       "Q1078955"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16296",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q3496511",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q549942",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q540510",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1189355",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Voyager",
+   "qid": "Q156329",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q313789",
+      "character_qids": [
+       "Q34359"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q230038",
+      "character_qids": [
+       "Q305387"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q367549",
+      "character_qids": [
+       "Q766141"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q272020",
+      "character_qids": [
+       "Q1107814"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q508333",
+      "character_qids": [
+       "Q1322354"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q452232",
+      "character_qids": [
+       "Q9108122"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253977",
+      "character_qids": [
+       "Q855969"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q551354",
+      "character_qids": [
+       "Q252900"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q435475",
+      "character_qids": [
+       "Q1216129"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q236809",
+      "character_qids": [
+       "Q7050346"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q6288759",
+      "character_qids": [
+       "Q12731392"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1964497",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2642039",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1891371",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q442453",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q329734",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q277099",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q57464",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q297552",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q311754",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q464425",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q445253",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2571025",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q316641",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q10738",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1384181",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q266814",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q229784",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q249865",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16455",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q229013",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q317228",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q692800",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q437693",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q530646",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q324114",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q550778",
+      "character_qids": [
+       "Q15857"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q538129",
+      "character_qids": [
+       "Q3958149"
+      ],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q275707",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4992506",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q540510",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q235077",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q957711",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q275707",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: First Contact",
+   "qid": "Q221236",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q253764",
+      "character_qids": [
+       "Q794335"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q299483",
+      "character_qids": [
+       "Q23000"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [
+       "Q22983"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312570",
+      "character_qids": [
+       "Q384569"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q526620",
+      "character_qids": [
+       "Q1130144"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16296",
+      "character_qids": [
+       "Q16276"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [
+       "Q752877"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q236479",
+      "character_qids": [
+       "Q14905899"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q445125",
+      "character_qids": [
+       "Q20435373"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232945",
+      "character_qids": [
+       "Q625731"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q355344",
+      "character_qids": [
+       "Q627820"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q313789",
+      "character_qids": [
+       "Q34359"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q201842",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q346595",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q540510",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q549942",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6777438",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7175371",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q235077",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Insurrection",
+   "qid": "Q673198",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16296",
+      "character_qids": [
+       "Q16276"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [
+       "Q752877"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [
+       "Q22983"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312570",
+      "character_qids": [
+       "Q384569"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253764",
+      "character_qids": [
+       "Q794335"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232945",
+      "character_qids": [
+       "Q625731"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q181936",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q439457",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q574190",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1355395",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q470112",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q345955",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q236463",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3011915",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q527941",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q716247",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q297552",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q353101",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q15483637",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q346595",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q957711",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q235077",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Nemesis",
+   "qid": "Q388319",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16296",
+      "character_qids": [
+       "Q16276"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [
+       "Q752877"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [
+       "Q22983"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312570",
+      "character_qids": [
+       "Q384569"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253764",
+      "character_qids": [
+       "Q794335"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232945",
+      "character_qids": [
+       "Q625731"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q208026",
+      "character_qids": [
+       "Q721672"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q220698",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q49001",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q542979",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q231438",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q733776",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q230038",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q350194",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q220751",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q264699",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1715774",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q201259",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q1715774",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q384004",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q502314",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q235077",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Lower Decks",
+   "qid": "Q62573569",
+   "roles": {
+    "producer": [
+     {
+      "qid": "Q21663076",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7356345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4376392",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q47517180",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Prodigy",
+   "qid": "Q65250765",
+   "roles": {
+    "creator": [
+     {
+      "qid": "Q105755862",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Short Treks",
+   "qid": "Q56816581",
+   "roles": {}
+  },
+  {
+   "enwiki": "Star Trek: Picard",
+   "qid": "Q62573305",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q16296",
+      "character_qids": [
+       "Q16276"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q352021",
+      "character_qids": [
+       "Q84566736"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q237781",
+      "character_qids": [
+       "Q83565067"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q63944057",
+      "character_qids": [
+       "Q83612365",
+       "Q83612215",
+       "Q88203017"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q138073",
+      "character_qids": [
+       "Q83612214"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q236809",
+      "character_qids": [
+       "Q7050346"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [
+       "Q752877"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232945",
+      "character_qids": [
+       "Q625731"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q66126525",
+      "character_qids": [
+       "Q85121080"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q311453",
+      "character_qids": [
+       "Q22983",
+       "Q88202814"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1291441",
+      "character_qids": [
+       "Q84153520"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q6272935",
+      "character_qids": [
+       "Q84566653"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q264391",
+      "character_qids": [
+       "Q84153357"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q28802743",
+      "character_qids": [
+       "Q87198715"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q265218",
+      "character_qids": [
+       "Q84153042"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q5048529",
+      "character_qids": [
+       "Q1098625"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q444292",
+      "character_qids": [
+       "Q83612202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q22943994",
+      "character_qids": [
+       "Q83612211"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q538546",
+      "character_qids": [
+       "Q84241280"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q4129281",
+      "character_qids": [
+       "Q87718112"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q83557770",
+      "character_qids": [
+       "Q83612245"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q439554",
+      "character_qids": [
+       "Q99049293"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q7035096",
+      "character_qids": [
+       "Q99049299"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q345038",
+      "character_qids": [
+       "Q117842097"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312570",
+      "character_qids": [
+       "Q384569"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q316955",
+      "character_qids": [
+       "Q826155"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q253764",
+      "character_qids": [
+       "Q794335"
+      ],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q18705002",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q346595",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6132893",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q16296",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q313466",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q7356345",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6132893",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q21663076",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q64853354",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q11856301",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q313466",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q42554338",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Starfleet Academy",
+   "qid": "Q117350388",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q105660",
+      "character_qids": [
+       "Q137825194"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q208649",
+      "character_qids": [],
+      "character_text": "Nus Braka"
+     },
+     {
+      "qid": "Q137793868",
+      "character_qids": [],
+      "character_text": "Caleb Mir"
+     },
+     {
+      "qid": "Q137793874",
+      "character_qids": [],
+      "character_text": "Jay-Den Kraag"
+     },
+     {
+      "qid": "Q127684962",
+      "character_qids": [],
+      "character_text": "Sam"
+     },
+     {
+      "qid": "Q127685004",
+      "character_qids": [],
+      "character_text": "Darem Reymi"
+     },
+     {
+      "qid": "Q116251175",
+      "character_qids": [],
+      "character_text": "Genesis Lythe"
+     },
+     {
+      "qid": "Q137793880",
+      "character_qids": [],
+      "character_text": "Tarima Sadal"
+     },
+     {
+      "qid": "Q313789",
+      "character_qids": [
+       "Q34359"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q7801308",
+      "character_qids": [
+       "Q61655496"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q127996",
+      "character_qids": [
+       "Q104759711"
+      ],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q104144959",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "creator": [
+     {
+      "qid": "Q127685023",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek (2009 film)",
+   "qid": "Q213081",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q139642",
+      "character_qids": [
+       "Q119142880"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q23466",
+      "character_qids": [
+       "Q119138548"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q238464",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q708256",
+      "character_qids": [
+       "Q2712069"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312705",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q314133",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q4349",
+      "character_qids": [
+       "Q119138548"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1638065",
+      "character_qids": [
+       "Q119142880"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q190162",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q101797",
+      "character_qids": [
+       "Q1412447"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q1332872",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q199929",
+      "character_qids": [
+       "Q23753831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q935167",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q54314",
+      "character_qids": [
+       "Q5877874"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q140181",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q437912",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q342788",
+      "character_qids": [
+       "Q612625"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q4440",
+      "character_qids": [
+       "Q14296686"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q132430",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q437799",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q13860314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2982372",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q464746",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q283504",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5302021",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q371972",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q309592",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1683879",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q290006",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q462162",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q232917",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2101495",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1379066",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q503036",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q49828",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1341761",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q441699",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q686301",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3148512",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q604485",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q264699",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q304997",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q641408",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7776830",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3178902",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q15260426",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6386759",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6163053",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3086608",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q744002",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6774144",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5549650",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6131168",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16200220",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16193082",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6272961",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4717550",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1388807",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q7437411",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q270664",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6175882",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q887857",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q4647221",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5212563",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q14949985",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q13701277",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q60355",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5140441",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q17124059",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q15436396",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1858299",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q188137",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q467500",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q188137",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q310556",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6175902",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q439543",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q467500",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q155124",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek Into Darkness",
+   "qid": "Q171711",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q190162",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312705",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q232786",
+      "character_qids": [
+       "Q13218515"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q360477",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q314133",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q23466",
+      "character_qids": [
+       "Q16311"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q139642",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q132430",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q244674",
+      "character_qids": [
+       "Q23031"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q238464",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q342788",
+      "character_qids": [
+       "Q612625"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q665139",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q238383",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6983534",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q16345",
+      "character_qids": [
+       "Q16341"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q437799",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1147104",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q2290587",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q54314",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3607216",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q199929",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q1141130",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q419454",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q14537",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q488335",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q13479530",
+      "character_qids": [
+       "Q60646616"
+      ],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q188137",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q467500",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q310556",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q188137",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q432598",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q467500",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q310556",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q439543",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q155124",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek Beyond",
+   "qid": "Q15929448",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q139642",
+      "character_qids": [
+       "Q119142880"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q23466",
+      "character_qids": [
+       "Q119138548"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q238464",
+      "character_qids": [
+       "Q607489"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q132430",
+      "character_qids": [
+       "Q16351"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q190162",
+      "character_qids": [
+       "Q616755"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q312705",
+      "character_qids": [
+       "Q606202"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q314133",
+      "character_qids": [
+       "Q385831"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q342604",
+      "character_qids": [
+       "Q58417612"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q258777",
+      "character_qids": [
+       "Q58417679"
+      ],
+      "character_text": null
+     },
+     {
+      "qid": "Q3459336",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q6707700",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q5663645",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q464746",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q229766",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q309592",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q3959303",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q551876",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q238464",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q467500",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q188137",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q439543",
+      "character_qids": [],
+      "character_text": null
+     },
+     {
+      "qid": "Q467500",
+      "character_qids": [],
+      "character_text": null
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q155124",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Star Trek: Very Short Treks",
+   "qid": "Q122241007",
+   "roles": {
+    "writer": [
+     {
+      "qid": "Q5105657",
+      "character_qids": [],
+      "character_text": null
+     }
+    ]
+   }
+  }
+ ],
+ "labels": {
+  "Q311699": "Scott Bakula",
+  "Q1101459": "Jonathan Archer",
+  "Q453724": "John Billingsley",
+  "Q2600949": "Phlox",
+  "Q234466": "Jolene Blalock",
+  "Q1315662": "T'Pol",
+  "Q550115": "Anthony Montgomery",
+  "Q738817": "Travis Mayweather",
+  "Q241873": "Linda Park",
+  "Q1055776": "Hoshi Sato",
+  "Q552103": "Connor Trinneer",
+  "Q860266": "Trip Tucker",
+  "Q713738": "Dominic Keating",
+  "Q2631797": "Malcolm Reed",
+  "Q2571025": "Gary Graham",
+  "Q1189355": "Dennis McCarthy",
+  "Q502314": "Rick Berman",
+  "Q540510": "Brannon Braga",
+  "Q7560935": "Sonequa Martin-Green",
+  "Q40935468": "Michael Burnham",
+  "Q214289": "Michelle Yeoh",
+  "Q43740811": "Philippa Georgiou",
+  "Q47391140": "Philippa Georgiou",
+  "Q39983": "Anthony Rapp",
+  "Q42716550": "Paul Stamets",
+  "Q461309": "Doug Jones",
+  "Q42713428": "Saru",
+  "Q28921867": "Mary Wiseman",
+  "Q43217835": "Sylvia Tilly",
+  "Q535507": "James Frain",
+  "Q2712069": "Sarek",
+  "Q7491731": "Shazad Latif",
+  "Q44569965": "Ash Tyler",
+  "Q50359274": "Emily Coutts",
+  "Q63136230": "Keyla Detmer",
+  "Q63124741": "Oyin Oladejo",
+  "Q63125084": "Joann Owosekun",
+  "Q214223": "Jason Isaacs",
+  "Q41796329": "Gabriel Lorca",
+  "Q449561": "Jayne Brook",
+  "Q48080009": "Katrina Cornwell",
+  "Q349548": "Rainn Wilson",
+  "Q3127322": "Harcourt Mudd",
+  "Q3270529": "Chris Violette",
+  "Q516483": "Peter MacNeill",
+  "Q16201541": "Michael Boisvert",
+  "Q231660": "Mia Kirshner",
+  "Q1412447": "Amanda Grayson",
+  "Q1190037": "Wilson Cruz",
+  "Q48032489": "Hugh Culber",
+  "Q30039197": "Chris Obi",
+  "Q48078634": "T'Kuvma",
+  "Q651681": "Rekha Sharma",
+  "Q50974754": "Mary Chieffo",
+  "Q48081407": "L'Rell",
+  "Q570006": "Anson Mount",
+  "Q612625": "Christopher Pike",
+  "Q732763": "Kenneth Mitchell",
+  "Q68038158": "Arista Arhin",
+  "Q67648349": "Kenric Green",
+  "Q24963319": "Hannah Cheesman",
+  "Q62077334": "Airiam",
+  "Q16145966": "Rachael Ancheril",
+  "Q68339088": "Clare McConnell",
+  "Q1338610": "Maulik Pancholy",
+  "Q1320452": "Ethan Peck",
+  "Q16341": "Spock",
+  "Q16911059": "Patrick Kwok-Choon",
+  "Q57002079": "Julianne Grossman",
+  "Q68441369": "Ronnie Rowe",
+  "Q62077689": "Sara Mitich",
+  "Q948310": "Alan van Sprang",
+  "Q68492294": "David Benjamin Tomlinson",
+  "Q42418858": "Raven Dauda",
+  "Q3515945": "Tasia Valenza",
+  "Q7801308": "Tig Notaro",
+  "Q61655496": "Jett Reno",
+  "Q68630001": "Ali Momen",
+  "Q68647093": "Bahia Watson",
+  "Q5162503": "Conrad Coates",
+  "Q68775694": "Michael Ayres",
+  "Q68817272": "Riley Gilchrist",
+  "Q52236130": "Romaine Waite",
+  "Q63285715": "Damon Runyan",
+  "Q69054814": "Harry Judge",
+  "Q69087443": "Liam Hughes",
+  "Q69506379": "Sam Vartholomeos",
+  "Q202792": "Rebecca Romijn",
+  "Q1568510": "Number One",
+  "Q441836": "Sonja Sohn",
+  "Q69525944": "Christopher Russell",
+  "Q69527493": "Nicole Dickinson",
+  "Q69544731": "Jeremy Crittenden",
+  "Q56927373": "Yadira Guevara-Prip",
+  "Q56926823": "Me Hani Ika Hali Ka Po",
+  "Q1990966": "Terry Serpico",
+  "Q69841809": "Devon MacDonald",
+  "Q5317847": "Dwain Murphy",
+  "Q69903446": "Anthony Grant",
+  "Q2837131": "Alisen Down",
+  "Q69974862": "Tyler Evan Webb",
+  "Q59579779": "Hannah Spear",
+  "Q70357284": "Tara Nicodemo",
+  "Q70846755": "Samora Smallwood",
+  "Q70873739": "Hanneke Talbot",
+  "Q71106466": "Chai Valladares",
+  "Q71358379": "Kyana Teresa",
+  "Q434844": "Sheila McCarthy",
+  "Q57452613": "Andrew Moodie",
+  "Q24335234": "Katherine Barrell",
+  "Q3163137": "Javier Botet",
+  "Q233575": "Melissa George",
+  "Q5591276": "Grace Lynn Kung",
+  "Q71971463": "Sam Asante",
+  "Q57002298": "Milton Barnes",
+  "Q1101612": "Clint Howard",
+  "Q72147765": "Dennis Andres",
+  "Q6162357": "Jason Deline",
+  "Q2903668": "Billy MacLellan",
+  "Q72230620": "Dee Pelletier",
+  "Q72366928": "Hamza Fouad",
+  "Q5162584": "Conrad Pla",
+  "Q72577921": "Matthew Binkley",
+  "Q72670384": "Rob Brownstein",
+  "Q66819366": "Jordana Blake",
+  "Q72941488": "Luke Humphrey",
+  "Q73891277": "Justin Howell",
+  "Q74071333": "Simon Northwood",
+  "Q74213433": "Marie Ward",
+  "Q74520881": "Noah Davis",
+  "Q2569647": "Tyler Hynes",
+  "Q662257": "Mark Pellington",
+  "Q64891312": "Saad Siddiqui",
+  "Q74728418": "Sean Connolly Affleck",
+  "Q74970086": "Kiara Groulx",
+  "Q5360620": "Elias Toufexis",
+  "Q77043583": "Claire Qute",
+  "Q4942414": "Bonnie Morgan",
+  "Q23061598": "Thamela Mpumlwana",
+  "Q56062807": "Ian Alexander",
+  "Q104760690": "Gray Tal",
+  "Q99673126": "Blu del Barrio",
+  "Q101059840": "Adira",
+  "Q28113147": "David Ajala",
+  "Q69750156": "Matkai Burmaster",
+  "Q3018772": "David Semel",
+  "Q4679312": "Adam Kane",
+  "Q419454": "Akiva Goldsman",
+  "Q17090902": "Olatunde Osunsanmi",
+  "Q6514839": "Lee Rose",
+  "Q11856301": "Douglas Aarniokoski",
+  "Q5231164": "David Barrett",
+  "Q2129942": "John Stuart Scott",
+  "Q346595": "Jonathan Frakes",
+  "Q20987428": "T. J. Scott",
+  "Q18705002": "Hanelle Culpepper",
+  "Q3018806": "David Solomon",
+  "Q63114170": "Christopher J. Byrne",
+  "Q16745401": "Marta Cunningham",
+  "Q432598": "Alex Kurtzman",
+  "Q29341423": "Maja Vrvilo",
+  "Q21663076": "Heather Kadin",
+  "Q995026": "Bryan Fuller",
+  "Q7356345": "Rod Roddenberry",
+  "Q6174877": "Jeff Russo",
+  "Q40571737": "Babs Olusanmokun",
+  "Q77657722": "Joseph M'Benga",
+  "Q14954989": "Christina Chong",
+  "Q111983179": "La'an Noonien-Singh",
+  "Q100702045": "Celia Rose Gooding",
+  "Q616755": "Nyota Uhura",
+  "Q111024535": "Jess Bush",
+  "Q2737692": "Christine Chapel",
+  "Q111039022": "Melissa Navia",
+  "Q111983180": "Erica Ortegas",
+  "Q16341114": "Nami Melumad",
+  "Q232917": "Majel Barrett",
+  "Q16297": "William Shatner",
+  "Q16311": "James T. Kirk",
+  "Q16345": "Leonard Nimoy",
+  "Q318412": "James Doohan",
+  "Q607489": "Montgomery Scott",
+  "Q254038": "Nichelle Nichols",
+  "Q16349": "DeForest Kelley",
+  "Q16351": "Leonard McCoy",
+  "Q110154": "George Takei",
+  "Q606202": "Hikaru Sulu",
+  "Q376176": "Walter Koenig",
+  "Q385831": "Pavel Chekov",
+  "Q272214": "Grace Lee Whitney",
+  "Q2707157": "Janice Rand",
+  "Q2736038": "John Winston",
+  "Q3370585": "Paul Baxley",
+  "Q5336388": "Eddie Paskey",
+  "Q721288": "Gene L. Coon",
+  "Q450706": "D. C. Fontana",
+  "Q1452295": "Fred Freiberger",
+  "Q1282874": "John Meredyth Lucas",
+  "Q6228142": "John D. F. Black",
+  "Q1394107": "Alexander Courage",
+  "Q191716": "Gene Roddenberry",
+  "Q5640945": "Hal Sutherland",
+  "Q3343707": "Norm Prescott",
+  "Q1369625": "Lou Scheimer",
+  "Q432731": "Persis Khambatta",
+  "Q55083084": "Ilia",
+  "Q435434": "Stephen Collins",
+  "Q18233872": "Willard Decker",
+  "Q940971": "Mark Lenard",
+  "Q44450": "Roger Aaron Brown",
+  "Q711870": "Franklyn Seales",
+  "Q1894431": "Marcy Lafferty",
+  "Q2905190": "Bjo Trimble",
+  "Q5257735": "Denise Okuda",
+  "Q7648346": "Susan Sackett",
+  "Q59821": "Robert Wise",
+  "Q5661509": "Harold Livingston",
+  "Q575345": "Alan Dean Foster",
+  "Q235077": "Jerry Goldsmith",
+  "Q333595": "Ricardo Montalbán",
+  "Q23031": "Khan Noonien Singh",
+  "Q623999": "Merritt Butrick",
+  "Q344576": "Paul Winfield",
+  "Q151935": "Kirstie Alley",
+  "Q607452": "Saavik",
+  "Q84696": "Bibi Besch",
+  "Q13218515": "Carol Marcus",
+  "Q3148398": "Ike Eisenmann",
+  "Q8312": "Nicholas Meyer",
+  "Q1676969": "Jack B. Sowards",
+  "Q1386741": "Harve Bennett",
+  "Q7349543": "Robert Sallin",
+  "Q106221": "James Horner",
+  "Q109324": "Christopher Lloyd",
+  "Q124213536": "Kruge",
+  "Q469827": "Robin Curtis",
+  "Q230415": "Judith Anderson",
+  "Q463497": "Miguel Ferrer",
+  "Q1371134": "Phil Morris",
+  "Q2260984": "Scott McGinnis",
+  "Q2157603": "Robert Hooks",
+  "Q1681105": "James Sikking",
+  "Q230789": "Catherine Hicks",
+  "Q3106613": "Gillian Taylor",
+  "Q234089": "Jane Wyatt",
+  "Q1389759": "John Schuck",
+  "Q1312600": "Robert Ellenstein",
+  "Q580587": "Brock Peters",
+  "Q3499020": "Steve Meerson",
+  "Q7175285": "Peter Krikes",
+  "Q1346580": "Leonard Rosenman",
+  "Q1208954": "Diane Carey",
+  "Q363271": "David Warner",
+  "Q356846": "Laurence Luckinbill",
+  "Q2667506": "Charles Cooper",
+  "Q65016702": "Korrd",
+  "Q3018318": "David Loughery",
+  "Q209175": "Kim Cattrall",
+  "Q190523": "Christopher Plummer",
+  "Q22992": "Chang",
+  "Q338396": "Rosanna DeSoto",
+  "Q317228": "Kurtwood Smith",
+  "Q256531": "Iman",
+  "Q53858092": "Martia",
+  "Q348445": "René Auberjonois",
+  "Q316955": "Michael Dorn",
+  "Q204590": "Christian Slater",
+  "Q12043973": "Paul Rossilli",
+  "Q599274": "Leon Russom",
+  "Q5259203": "Denny Martin Flinn",
+  "Q4572341": "Lawrence Konner",
+  "Q6769506": "Mark Rosenthal",
+  "Q7288285": "Ralph Winter",
+  "Q7614407": "Steven-Charles Jaffe",
+  "Q1101136": "Cliff Eidelman",
+  "Q7089885": "Omari Hardwick",
+  "Q719878": "Kacey Rohl",
+  "Q106620964": "Rachel Garrett",
+  "Q24050468": "Sam Richardson",
+  "Q65553191": "Sven Ruygrok",
+  "Q3938329": "Robert Kazinsky",
+  "Q64548873": "Humberly González",
+  "Q8215223": "James Hiroyuki Liao",
+  "Q106997": "Jamie Lee Curtis",
+  "Q62992395": "Control",
+  "Q118489324": "Miku Martineau",
+  "Q6211805": "Joe Pingue",
+  "Q6136339": "James Huang",
+  "Q42719638": "Nikki Grant",
+  "Q102745297": "Avaah Blackwell",
+  "Q4273299": "Rif Hutton",
+  "Q5181513": "Craig Sweeny",
+  "Q16296": "Patrick Stewart",
+  "Q16276": "Jean-Luc Picard",
+  "Q752877": "William Riker",
+  "Q7793556": "Thomas Riker",
+  "Q311453": "Brent Spiner",
+  "Q22983": "Data",
+  "Q2609295": "Lore",
+  "Q312570": "LeVar Burton",
+  "Q384569": "Geordi La Forge",
+  "Q234474": "Denise Crosby",
+  "Q2069947": "Tasha Yar",
+  "Q826155": "Worf",
+  "Q253764": "Gates McFadden",
+  "Q794335": "Beverly Crusher",
+  "Q232945": "Marina Sirtis",
+  "Q625731": "Deanna Troi",
+  "Q264699": "Wil Wheaton",
+  "Q2000355": "Wesley Crusher",
+  "Q269599": "Diana Muldaur",
+  "Q55191": "Katherine Pulaski",
+  "Q3173451": "Lwaxana Troi",
+  "Q708777": "Brian Bonsall",
+  "Q253578": "Rosalind Chao",
+  "Q6741449": "Keiko O'Brien",
+  "Q550778": "John de Lancie",
+  "Q15857": "Q",
+  "Q49001": "Whoopi Goldberg",
+  "Q1078955": "Guinan",
+  "Q239075": "Michelle Forbes",
+  "Q629953": "Ro Laren",
+  "Q2158428": "Robert O'Reilly",
+  "Q1027770": "Gowron",
+  "Q313671": "Colm Meaney",
+  "Q2020365": "Miles O'Brien",
+  "Q355344": "Dwight Schultz",
+  "Q627820": "Reginald Barclay",
+  "Q467709": "Patti Yasutake",
+  "Q1396070": "Suzie Plakson",
+  "Q366012": "Avery Brooks",
+  "Q546404": "Benjamin Sisko",
+  "Q2195486": "Odo",
+  "Q238168": "Nicole de Boer",
+  "Q2171485": "Ezri Dax",
+  "Q258612": "Terry Farrell",
+  "Q774719": "Jadzia Dax",
+  "Q1093124": "Cirroc Lofton",
+  "Q3160645": "Jake Sisko",
+  "Q353101": "Armin Shimerman",
+  "Q2473641": "Quark",
+  "Q311165": "Alexander Siddig",
+  "Q1882443": "Julian Bashir",
+  "Q231576": "Nana Visitor",
+  "Q1960052": "Kira Nerys",
+  "Q716247": "Max Grodénchik",
+  "Q3440554": "Rom",
+  "Q322750": "Aron Eisenberg",
+  "Q3342685": "Nog",
+  "Q506958": "Andrew Robinson",
+  "Q22971": "Garak",
+  "Q1396278": "Chase Masterson",
+  "Q3829419": "Leeta",
+  "Q926194": "Marc Alaimo",
+  "Q22954": "Dukat",
+  "Q239328": "Penny Johnson Jerald",
+  "Q182372": "Louise Fletcher",
+  "Q7046149": "Winn Adami",
+  "Q164372": "Mark Allen Shepherd",
+  "Q1504763": "J. G. Hertzler",
+  "Q1166091": "Martok",
+  "Q1738645": "Kenneth Marshall",
+  "Q544756": "Casey Biggs",
+  "Q55347125": "Damar",
+  "Q2086035": "Philip Anglim",
+  "Q4009196": "Bareil Antos",
+  "Q2935069": "Camille Saviola",
+  "Q3812476": "Kai Opaka",
+  "Q452288": "Jeffrey Combs",
+  "Q965598": "Weyoun",
+  "Q2597610": "Cyia Batten",
+  "Q272166": "Tracy Middendorf",
+  "Q432742": "Melanie Smith",
+  "Q7405616": "Salome Jens",
+  "Q809051": "Barry Jenner",
+  "Q1345794": "James Darren",
+  "Q976754": "Duncan Regehr",
+  "Q311068": "Wallace Shawn",
+  "Q442309": "Andrea Martin",
+  "Q274883": "Cecily Adams",
+  "Q253561": "Adrienne Barbeau",
+  "Q2251648": "Jeff McBride",
+  "Q743723": "Leigh McCloskey",
+  "Q281621": "John Glover",
+  "Q1494853": "Gary Frank",
+  "Q6307836": "Julianna McCarthy",
+  "Q339902": "James Sloyan",
+  "Q13341430": "Hana Hatae",
+  "Q152542": "William Sadler",
+  "Q708097": "Paul Dooley",
+  "Q6066272": "Ira Steven Behr",
+  "Q957711": "Michael Piller",
+  "Q639937": "Jay Chattaway",
+  "Q498263": "Alan Ruck",
+  "Q1974328": "John Harriman",
+  "Q117392": "Malcolm McDowell",
+  "Q14414008": "Tolian Soran",
+  "Q3496511": "David Carson",
+  "Q549942": "Ronald D. Moore",
+  "Q313789": "Robert Picardo",
+  "Q34359": "Doctor",
+  "Q230038": "Kate Mulgrew",
+  "Q305387": "Kathryn Janeway",
+  "Q367549": "Robert Beltran",
+  "Q766141": "Chakotay",
+  "Q272020": "Jennifer Lien",
+  "Q1107814": "Kes",
+  "Q508333": "Robert Duncan McNeill",
+  "Q1322354": "Tom Paris",
+  "Q452232": "Tim Russ",
+  "Q9108122": "Tuvok",
+  "Q253977": "Roxann Dawson",
+  "Q855969": "B'Elanna Torres",
+  "Q551354": "Garrett Wang",
+  "Q252900": "Harry Kim",
+  "Q435475": "Ethan Phillips",
+  "Q1216129": "Neelix",
+  "Q236809": "Jeri Ryan",
+  "Q7050346": "Seven of Nine",
+  "Q6288759": "Josh Clark",
+  "Q12731392": "Joe Carey",
+  "Q1964497": "Nancy Hower",
+  "Q2642039": "Alexander Enberg",
+  "Q1891371": "Manu Intiraymi",
+  "Q442453": "Scarlett Pomers",
+  "Q329734": "Brad Dourif",
+  "Q277099": "Raphael Sbarge",
+  "Q57464": "Abdullah II of Jordan",
+  "Q297552": "Tom Morello",
+  "Q311754": "Jason Alexander",
+  "Q464425": "Ed Begley, Jr.",
+  "Q445253": "David Graf",
+  "Q316641": "Joel Grey",
+  "Q10738": "Dwayne Johnson",
+  "Q1384181": "Michael McKean",
+  "Q266814": "Sharon Lawrence",
+  "Q229784": "Virginia Madsen",
+  "Q249865": "John Savage",
+  "Q16455": "John Rhys-Davies",
+  "Q229013": "Sarah Silverman",
+  "Q692800": "Ray Walston",
+  "Q437693": "Titus Welliver",
+  "Q530646": "Ray Wise",
+  "Q324114": "Scott Thompson",
+  "Q538129": "Martha Hackett",
+  "Q3958149": "Seska",
+  "Q275707": "Jeri Taylor",
+  "Q4992506": "Kenneth Biller",
+  "Q299483": "James Cromwell",
+  "Q23000": "Zefram Cochrane",
+  "Q526620": "Alfre Woodard",
+  "Q1130144": "Lily Sloane",
+  "Q236479": "Alice Krige",
+  "Q14905899": "Borg Queen",
+  "Q445125": "Neal McDonough",
+  "Q20435373": "Sean Hawk",
+  "Q201842": "Adam Scott",
+  "Q6777438": "Marty Hornstein",
+  "Q7175371": "Peter Lauritson",
+  "Q181936": "F. Murray Abraham",
+  "Q439457": "Donna Murphy",
+  "Q574190": "Anthony Zerbe",
+  "Q1355395": "Gregg Henry",
+  "Q470112": "Stephanie Niznik",
+  "Q345955": "Daniel Hugh Kelly",
+  "Q236463": "Michael Welch",
+  "Q3011915": "Rick Worthy",
+  "Q527941": "Jennifer Tung",
+  "Q15483637": "Joseph Ruskin",
+  "Q208026": "Tom Hardy",
+  "Q721672": "Shinzon",
+  "Q220698": "Ron Perlman",
+  "Q542979": "Shannon Cochran",
+  "Q231438": "Dina Meyer",
+  "Q733776": "Jude Ciccolella",
+  "Q350194": "Alan Dale",
+  "Q220751": "Bryan Singer",
+  "Q1715774": "Stuart Baird",
+  "Q201259": "John Berg",
+  "Q384004": "John Logan",
+  "Q4376392": "Chris Prynoski",
+  "Q47517180": "Mike McMahan",
+  "Q105755862": "The Hageman Brothers",
+  "Q352021": "Santiago Cabrera",
+  "Q84566736": "Cristóbal Rios",
+  "Q237781": "Alison Pill",
+  "Q83565067": "Agnes Jurati",
+  "Q63944057": "Isa Briones",
+  "Q83612365": "Dahj Asha",
+  "Q83612215": "Soji Asha",
+  "Q88203017": "Sutra",
+  "Q138073": "Harry Treadaway",
+  "Q83612214": "Narek",
+  "Q66126525": "Evan Evagora",
+  "Q85121080": "Elnor",
+  "Q88202814": "Altan Inigo Soong",
+  "Q1291441": "Michelle Hurd",
+  "Q84153520": "Raffi Musiker",
+  "Q6272935": "Jonathan Del Arco",
+  "Q84566653": "Hugh",
+  "Q264391": "Peyton List",
+  "Q84153357": "Narissa Rizzo",
+  "Q28802743": "Lulu Wilson",
+  "Q87198715": "Kestra Troi-Riker",
+  "Q265218": "Tamlyn Tomita",
+  "Q84153042": "Oh",
+  "Q5048529": "Casey King",
+  "Q1098625": "Icheb",
+  "Q444292": "Orla Brady",
+  "Q83612202": "Laris",
+  "Q22943994": "Jamie McShane",
+  "Q83612211": "Zhaban",
+  "Q538546": "Ann Magnuson",
+  "Q84241280": "Kirsten Clancy",
+  "Q4129281": "Rebecca Wisocky",
+  "Q87718112": "Ramdha",
+  "Q83557770": "Dinero",
+  "Q83612245": "Number One",
+  "Q439554": "Jade Ramsey",
+  "Q99049293": "Arcana",
+  "Q7035096": "Nikita Ramsey",
+  "Q99049299": "Saga",
+  "Q345038": "Ed Speleers",
+  "Q117842097": "Jack Crusher",
+  "Q6132893": "James Duff",
+  "Q313466": "Michael Chabon",
+  "Q64853354": "Terry Matalas",
+  "Q42554338": "Kirsten Beyer",
+  "Q105660": "Holly Hunter",
+  "Q137825194": "Nahla Ake",
+  "Q208649": "Paul Giamatti",
+  "Q137793868": "Sandro Rosta",
+  "Q137793874": "Karim Diané",
+  "Q127684962": "Kerrice Brooks",
+  "Q127685004": "George Hawkins",
+  "Q116251175": "Bella Shepard",
+  "Q137793880": "Zoë Steiner",
+  "Q127996": "Oded Fehr",
+  "Q104759711": "Charles Vance",
+  "Q104144959": "Noga Landau",
+  "Q127685023": "Gaia Violo",
+  "Q139642": "Zachary Quinto",
+  "Q119142880": "Spock",
+  "Q23466": "Chris Pine",
+  "Q119138548": "James T. Kirk",
+  "Q238464": "Simon Pegg",
+  "Q708256": "Ben Cross",
+  "Q312705": "John Cho",
+  "Q314133": "Anton Yelchin",
+  "Q4349": "Jimmy Bennett",
+  "Q1638065": "Jacob Kogan",
+  "Q190162": "Zoe Saldaña",
+  "Q101797": "Winona Ryder",
+  "Q1332872": "Greg Ellis",
+  "Q199929": "Jennifer Morrison",
+  "Q23753831": "Winona Kirk",
+  "Q935167": "Clifton Collins",
+  "Q54314": "Chris Hemsworth",
+  "Q5877874": "George Kirk",
+  "Q140181": "Rachel Nichols",
+  "Q437912": "Scottie Thompson",
+  "Q342788": "Bruce Greenwood",
+  "Q4440": "Eric Bana",
+  "Q14296686": "Nero",
+  "Q132430": "Karl Urban",
+  "Q437799": "Amanda Foreman",
+  "Q13860314": "Billy Brown",
+  "Q2982372": "Colby Paul",
+  "Q464746": "Deep Roy",
+  "Q283504": "Diora Baird",
+  "Q5302021": "Douglas Tait",
+  "Q371972": "Faran Tahir",
+  "Q309592": "Greg Grunberg",
+  "Q1683879": "Jason Brooks",
+  "Q290006": "Lisa Vidal",
+  "Q462162": "Lucia Rijker",
+  "Q2101495": "Marlene Forte",
+  "Q1379066": "Oz Perkins",
+  "Q503036": "Paul McGillion",
+  "Q49828": "Randy Pausch",
+  "Q1341761": "Reggie Lee",
+  "Q441699": "Tania Gunadi",
+  "Q686301": "Tyler Perry",
+  "Q3148512": "Anna Katarina",
+  "Q604485": "W. Morgan Sheppard",
+  "Q304997": "Pavel Lychnikoff",
+  "Q641408": "Brad William Henke",
+  "Q7776830": "list of The Young and the Restless characters (2013)",
+  "Q3178902": "Jim Nieb",
+  "Q15260426": "Tim Griffin",
+  "Q6386759": "Kelvin Yu",
+  "Q6163053": "Jason Matthew Smith",
+  "Q3086608": "Lorenzo Henrie",
+  "Q744002": "Jeff Chase",
+  "Q6774144": "Marta Martin",
+  "Q5549650": "Gerald W. Abrams",
+  "Q6131168": "James Cawley",
+  "Q16200220": "Sufe Bradshaw",
+  "Q16193082": "Chris Doohan",
+  "Q6272961": "Jonathan Dixon",
+  "Q4717550": "Alex Nevil",
+  "Q1388807": "Sala Baker",
+  "Q7437411": "Scott Trimble",
+  "Q270664": "Victor Garber",
+  "Q6175882": "Jeffrey Byron",
+  "Q887857": "Bob Clendenin",
+  "Q4647221": "A.J. Verel",
+  "Q5212563": "Damion Poitier",
+  "Q14949985": "Neville Page",
+  "Q13701277": "Michael Berry Jr.",
+  "Q60355": "Freda Foh Shen",
+  "Q5140441": "Cody Klop",
+  "Q17124059": "Kimberly Arland",
+  "Q15436396": "Patrizia Milano",
+  "Q1858299": "Spencer Daniels",
+  "Q188137": "J. J. Abrams",
+  "Q467500": "Roberto Orci",
+  "Q310556": "Damon Lindelof",
+  "Q6175902": "Jeffrey Chernov",
+  "Q439543": "Bryan Burk",
+  "Q155124": "Michael Giacchino",
+  "Q232786": "Alice Eve",
+  "Q360477": "Peter Weller",
+  "Q244674": "Benedict Cumberbatch",
+  "Q665139": "Noel Clarke",
+  "Q238383": "Heather Langenkamp",
+  "Q6983534": "Nazneen Contractor",
+  "Q1147104": "Nolan North",
+  "Q2290587": "Nick E. Tarabay",
+  "Q3607216": "Aisha Hinds",
+  "Q1141130": "Scott Lawrence",
+  "Q14537": "Bill Hader",
+  "Q488335": "Kevin Michael Richardson",
+  "Q13479530": "Joseph Gatt",
+  "Q60646616": "0718",
+  "Q342604": "Idris Elba",
+  "Q58417612": "Krall",
+  "Q258777": "Sofia Boutella",
+  "Q58417679": "Jaylah",
+  "Q3459336": "Joe Taslim",
+  "Q6707700": "Lydia Wilson",
+  "Q5663645": "Harpreet Sandhu",
+  "Q229766": "Shohreh Aghdashloo",
+  "Q3959303": "Shea Whigham",
+  "Q551876": "Justin Lin",
+  "Q5105657": "Casper Kelly"
+ }
+}

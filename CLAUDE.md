@@ -31,9 +31,13 @@ Static React app (Vite + TypeScript + shadcn/ui + Tailwind v4) over one canonica
 ## Commands
 `npm run dev | build | typecheck | test | e2e | verify`. On Windows, run from `C:\` with an upper-case drive letter, or Vitest breaks. Use `./node_modules/.bin/shadcn`, not `npx shadcn`, because of an npm allow-scripts quirk.
 
+## UI text rules
+- Nothing internal reaches the UI: no raw ids, no `#e8` keys, no decision codes like "(D-21)". `e2e/layout.spec.ts` fails on these at four viewport sizes.
+- Titles use `Row.titleName`/`titleLabel()`: years go in square brackets, and same-name titles get `[first year]`.
+
 ## Working style
 Small commits. Keep `TODO.md` and `DECISIONS.md` current. Be explicit about anything not verified.
 
 ## Adding universes / books
-- New universes use the generic pipeline: `scripts/bootstrap/<id>.config.ts` + `<id>.seed.ts` (helpers in `seed-kit.ts`), then `scripts/fetch/wikidata-seed.ts <id>` and `scripts/bootstrap/universe.ts <id> --enable`. Marvel and DC keep their own original bootstraps.
+- New universes use the generic pipeline: `scripts/bootstrap/<id>.config.ts` + `<id>.seed.ts` (helpers in `seed-kit.ts`), then `scripts/fetch/wikidata-seed.ts <id>`, `scripts/bootstrap/universe.ts <id> --enable`, and `npm run credits` (cast & crew from Wikidata; bootstraps write empty credits). Marvel and DC keep their own original bootstraps.
 - Books are first-class: print title types (novel … reference), publishers/imprints in the studios registry, `pages`, `adapts` links (book ↔ screen stay separate continuities), "Done" with per-medium verbs, and spoiler-safe mode.

@@ -139,7 +139,7 @@ ITEMS.forEach((i, idx) => {
     characters: orig.characters, franchises: orig.franchises, status: 'released',
     external_ids: { enwiki: i.wiki, wikidata: null, tmdb: null, imdb: null }, source_urls: src,
     notes: `Wikipedia: "${i.quote}" US distributor: ${i.distributor}.`,
-    links: [{ to: i.original, kind: 're-edit-of', note: '' }], constituents: [],
+    links: [{ to: i.original, kind: 're-edit-of', note: '' }], constituents: [], credits: [],
     units: [{
       id: i.id, label: 'Film', season: null, episode_range: null, episode_count: null, runtime_min: i.runtime, pages: null, word_count: null,
       timeline_branch: 'main', canon_tier: null,

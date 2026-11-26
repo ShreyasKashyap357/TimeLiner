@@ -82,6 +82,8 @@ npm run build        # typecheck + production build to dist/
 - statuses made stale by today's date;
 - source revision changes.
 
+**Cast & crew** come from Wikidata. Refresh them with `npm run credits`, which fetches into `data/sources/wikidata/credits-*.json` and then writes the top 10 cast and up to 8 people per crew role into each title. Titles whose Wikipedia article is a shared list page get no credits.
+
 Nothing is changed automatically. In-universe placements, new titles and tier changes always need a human (or Claude) review and a `DATA_NOTES.md` entry. Accepted exceptions go in `data/drift-ignore.json`. Unit ids are permanent; if a unit is split, add the old id to `data/<universe>/aliases.json` so people's watched progress migrates.
 
 ## How to add a new universe

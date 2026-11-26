@@ -1591,13 +1591,13 @@ for (const r of RAW) {
   if (r.already_present || /ALREADY PRESENT/.test(r.continuity_proposal ?? '')) continue;
   const cid = contOf(r.id);
   const src = [...OLD(r.revid), W(r.wiki_article)];
-  const mkTitle = (id: string, title: string, type: Title['type'], units: Unit[], extra: Partial<Title> = {}): Title => ({
+  const mkTitle = (id: string, title: string, type: Title['type'], units: Unit[], extra: Partial<Omit<Title, "credits">> = {}): Title => ({
     id, title, sort_title: /^(The|A|An)\s/.test(title) ? title.replace(/^(The|A|An)\s+/, '') : null, type, universe: 'dc', continuity: cid,
     studio_brand: r.studio, label: null, platform_or_network: plat(r.platform, 'home-media'),
     canon_tier: cid === 'dcau' ? 'adjacent' : 'core', characters: [], franchises: [], status: units.some((u) => u.status === 'released') ? 'released' : 'upcoming',
     external_ids: { enwiki: r.wiki_article, wikidata: null, tmdb: null, imdb: null }, source_urls: src,
     notes: [r.studio_detail ? `Studios: ${r.studio_detail}.` : '', r.continuity_quote ? `Continuity: ${r.continuity_quote}` : '', r.notes ?? ''].filter(Boolean).join(' '),
-    links: [], constituents: [], units, ...extra,
+    links: [], constituents: [], credits: [], units, ...extra,
   });
   const unit = (id: string, label: string, date: string | null, end: string | null, note: string, extra: Partial<Unit> = {}): Unit => {
     const u: Unit = { id, label, season: null, episode_range: null, episode_count: null, runtime_min: null, pages: null, word_count: null, timeline_branch: 'main', canon_tier: null,

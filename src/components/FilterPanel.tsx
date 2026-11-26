@@ -4,6 +4,7 @@ import { defaultState, type FilterState, type SortId } from '@/domain/filters';
 import { formatYear } from '@/domain/dates';
 import { SortSelect } from '@/app/Toolbar';
 import { TagPicker } from './TagPicker';
+import { PeoplePicker } from './PeoplePicker';
 import type { Row } from '@/domain/model';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Label } from '@/components/ui/label';
@@ -138,6 +139,7 @@ export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOption
         <SortSelect sortOptions={sortOptions} className="w-full" />
       </fieldset>
       <TagPicker scoped={scoped} />
+      <PeoplePicker scoped={scoped} />
       <Separator />
       <CheckGroup legend="Canon tier" value={state.tiers} onChange={(v) => set({ tiers: v as FilterState['tiers'] })} options={opts.tiers}
         hint="All tiers are shown by default. Tick one or more to narrow the list." />

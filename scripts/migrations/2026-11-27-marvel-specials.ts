@@ -937,7 +937,7 @@ for (const i of ITEMS) {
     platform_or_network: i.platform, canon_tier: 'core', characters: [], franchises: [], status: 'released',
     external_ids: { enwiki: i.wiki, wikidata: null, tmdb: null, imdb: null }, source_urls: src,
     notes: `Studio: ${i.studioText ?? 'not stated'}. First release: ${i.platformText}.${i.short ? ' A short.' : ''}`,
-    links: [], constituents: [],
+    links: [], constituents: [], credits: [],
     units: [{
       id: i.id, label: i.type === 'motion-comic' ? 'Series' : i.type === 'special' ? 'Special' : 'Film', season: null, episode_range: null, episode_count: null,
       runtime_min: i.runtime, pages: null, word_count: null, timeline_branch: 'main', canon_tier: null,

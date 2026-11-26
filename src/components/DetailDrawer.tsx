@@ -11,6 +11,7 @@ import { ChevronLeft, ChevronRight, ExternalLink, Check, SkipForward, Link2 } fr
 import { ConfidenceBadge } from './Badges';
 import { RowMarker, markerMeaning } from './Marker';
 import { SpoilerText } from './SpoilerText';
+import { Credits } from './Credits';
 import { doneVerb } from '@/domain/model';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
@@ -174,6 +175,12 @@ export function DetailDrawer() {
                       </Tooltip>
                     ))}
                   </div>
+                </Section>
+              )}
+
+              {row.title.credits.length > 0 && (
+                <Section title={row.medium === 'print' ? 'Credits' : 'Cast & crew'}>
+                  <Credits credits={row.title.credits} />
                 </Section>
               )}
 

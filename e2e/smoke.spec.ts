@@ -147,3 +147,12 @@ test.describe('URL defaults and pickers (regressions)', () => {
     await expect(page.getByRole('combobox', { name: 'Sort order' }).first()).toHaveText(/\S/);
   });
 });
+
+test('detail panel shows cast & crew, and a name filters by that person', async ({ page }) => {
+  await page.goto('/?u=marvel&c=mcu&unit=iron-man');
+  const drawer = page.getByRole('dialog');
+  await expect(drawer.getByText('Cast & crew')).toBeVisible();
+  await drawer.getByRole('button', { name: 'Jon Favreau' }).first().click();
+  await expect(page).toHaveURL(/ppl=Q\d+/);
+  await expect(page.getByText(/Person: Jon Favreau/)).toBeVisible();
+});

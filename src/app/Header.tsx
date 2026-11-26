@@ -65,7 +65,7 @@ function FilterBox() {
     <div className="relative min-w-0 flex-1 basis-28 sm:flex-none">
       <Search aria-hidden className="pointer-events-none absolute left-2 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
       <Input
-        type="search" value={text} placeholder="Filter titles…" title="Filter by title or character" aria-label="Filter by title or character"
+        type="search" value={text} placeholder="Filter titles…" title="Filter by title, character or person" aria-label="Filter by title, character or person"
         className="w-full pl-8 sm:w-52"
         onChange={(e) => { const v = e.target.value; setText(v); window.clearTimeout(t.current); t.current = window.setTimeout(() => update({ q: v }), 200); }}
       />

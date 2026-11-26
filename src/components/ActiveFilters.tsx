@@ -16,6 +16,7 @@ export function ActiveFilters() {
   if (state.q) chips.push({ key: 'q', text: `Text: “${state.q}”`, clear: { q: '' } });
   if (state.quick !== 'all') chips.push({ key: 'quick', text: { movies: 'Movies only', series: 'Series only', animated: 'Animated', books: 'Books' }[state.quick as 'movies'], clear: { quick: 'all' } });
   list('tags', 'Character', label.tag);
+  list('people', 'Person', label.person);
   list('tiers', 'Tier');
   list('types', 'Type');
   list('platforms', 'Platform', label.platform);

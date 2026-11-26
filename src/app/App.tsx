@@ -86,13 +86,15 @@ export function App() {
   const alt = continuity?.alt_orders.find((a) => a.id === state.alt);
   const altOrder = alt?.unit_ids;
 
+  const people = useMemo(() => new Map((ds?.titles ?? []).flatMap((t) => t.credits.filter((c) => c.qid).map((c) => [c.qid!, c.name] as const))), [ds]);
   const label = useMemo<AppCtx['label']>(() => ({
     studio: (id) => ds?.studios.find((s) => s.id === id)?.label ?? id,
     studioShort: (id) => { const s = ds?.studios.find((x) => x.id === id); return s?.short_label ?? s?.label ?? id; },
     platform: (id) => ds?.platforms.find((p) => p.id === id)?.label ?? id,
     tag: (id) => ds?.tags.find((t) => t.id === id)?.label ?? id,
+    person: (qid) => people.get(qid) ?? 'Unknown person',
     grouping: (id) => ds?.universes.flatMap((u) => u.grouping_schemes.flatMap((g) => g.values)).find((v) => v.id === id)?.label ?? id,
-  }), [ds]);
+  }), [ds, people]);
 
   const scoped = useMemo(() => {
     const continuityScoped = CONTINUITY_SCOPED.includes(state.view);

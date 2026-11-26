@@ -176,6 +176,13 @@ export const Unit = z.object({
 
 // 'adapts': this title adapts the linked one (e.g. a TV season adapts a novel). Adaptations stay separate continuities.
 export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters', 'adapts', 're-edit-of']);
+export const CreditRole = z.enum(['author', 'creator', 'director', 'writer', 'producer', 'executive-producer', 'composer', 'cast']);
+export const Credit = z.object({
+  role: CreditRole,
+  name: z.string(),
+  qid: z.string().regex(/^Q\d+$/).nullable().default(null), // Wikidata person id (stable key for the People filter)
+  character: z.string().nullable().default(null), // cast only
+});
 export const TitleLink = z.object({ to: slug, kind: LinkKind, note: z.string().default('') });
 
 export const Title = z.object({
@@ -202,6 +209,8 @@ export const Title = z.object({
   notes: z.string().default(''),
   units: z.array(Unit).min(1),
   links: z.array(TitleLink).default([]),
+  /** Cast and crew from Wikidata (D-29). Cast is in Wikidata's statement order (usually billing order). */
+  credits: z.array(Credit).default([]),
   /** crossover-event only: parts owned by other titles. Either a unit id (whole unit) or
    *  "<unit id>#e<episode>" for one episode inside a season unit (e.g. "arrow-s8#e8"). */
   constituents: z.array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*(#e\d+)?$/)).default([]),
@@ -230,3 +239,5 @@ export type Tag = z.infer<typeof Tag>;
 export type CanonTier = z.infer<typeof CanonTier>;
 export type TitleType = z.infer<typeof TitleType>;
 export type Status = z.infer<typeof Status>;
+export type Credit = z.infer<typeof Credit>;
+export type CreditRole = z.infer<typeof CreditRole>;

@@ -109,7 +109,7 @@ export function buildRows(ds: Dataset): Row[] {
         medium: mediumOf(t.type),
         placed: unit.in_universe.start !== null,
         releaseKey: releaseSortKey(unit.release.date),
-        search: [name, t.title, t.sort_title ?? '', ...tagWords].join(' ').toLowerCase(),
+        search: [name, t.title, t.sort_title ?? '', ...t.credits.map((c) => c.name), ...tagWords].join(' ').toLowerCase(),
       });
     }
   }

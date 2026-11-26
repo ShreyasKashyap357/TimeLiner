@@ -199,7 +199,7 @@ for (const t of MARVEL_SEED) {
     notes: t.notes ?? '',
     units,
     links: (t.links ?? []).map((l) => ({ to: l.to, kind: l.kind as Title['links'][number]['kind'], note: l.note ?? '' })),
-    constituents: [],
+    constituents: [], credits: [],
   };
   for (const c of t.chars ?? []) if (!MARVEL_TAGS.some((x) => x.id === c)) report.push(`WARN unknown character tag ${c} on ${t.id}`);
   for (const c of t.teams ?? []) if (!MARVEL_TAGS.some((x) => x.id === c)) report.push(`WARN unknown franchise tag ${c} on ${t.id}`);

@@ -118,7 +118,7 @@ for (const s of SPECS) {
     id: s.id, title: s.title, sort_title: s.title.startsWith('The ') ? s.title.slice(4) : null, type: s.type, universe: 'marvel', continuity: s.continuity,
     studio_brand: s.studio, label: s.label ?? null, platform_or_network: s.platform, canon_tier: s.tier ?? 'core',
     characters: s.chars ?? [], franchises: s.teams ?? [], status: units.some((u) => u.status === 'released') ? 'released' : 'upcoming',
-    external_ids: { enwiki: s.wiki, wikidata: null, tmdb: null, imdb: null }, source_urls: [enc(s.wiki)], notes: '', units, links: s.links ?? [], constituents: [],
+    external_ids: { enwiki: s.wiki, wikidata: null, tmdb: null, imdb: null }, source_urls: [enc(s.wiki)], credits: [], notes: '', units, links: s.links ?? [], constituents: [],
   });
   added++;
 }

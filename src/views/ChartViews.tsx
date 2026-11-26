@@ -3,7 +3,7 @@ import { useApp } from '@/app/context';
 import { connections, dualAxis } from '@/domain/views';
 import type { Row } from '@/domain/model';
 import { Marker, markerColor, markerMeaning, markerShape } from '@/components/Marker';
-import { formatRelease } from '@/domain/dates';
+import { formatRelease, formatYear } from '@/domain/dates';
 import { UnitItem } from '@/components/UnitItem';
 import { ConfidenceBadge } from '@/components/Badges';
 import { Empty } from './SpineView';
@@ -61,7 +61,7 @@ export function DualAxisView({ rows }: { rows: Row[] }) {
       <div className="relative overflow-x-auto border border-border bg-card">
         <div className="relative min-w-[640px]">
           <svg viewBox={`0 0 ${W} ${H}`} className="block w-full" role="group" aria-label={`Scatter plot of in-universe year against release date for ${cont?.name}. A table with the same data follows.`}>
-            {yTicks.map((y) => <g key={`y${y}`}><line x1={M.l} x2={W - M.r} y1={sy(y)} y2={sy(y)} stroke="var(--border)" /><text x={M.l - 6} y={sy(y) + 4} textAnchor="end" fontSize="12" fill="var(--muted-foreground)">{y < 0 ? `${-y} BC` : y}</text></g>)}
+            {yTicks.map((y) => <g key={`y${y}`}><line x1={M.l} x2={W - M.r} y1={sy(y)} y2={sy(y)} stroke="var(--border)" /><text x={M.l - 6} y={sy(y) + 4} textAnchor="end" fontSize="12" fill="var(--muted-foreground)">{cont ? formatYear(y, cont.calendar) : y}</text></g>)}
             {xTicks.map((x) => <g key={`x${x}`}><line y1={M.t} y2={H - M.b} x1={sx(x)} x2={sx(x)} stroke="var(--border)" strokeDasharray="2 4" /><text x={sx(x)} y={H - M.b + 16} textAnchor="middle" fontSize="12" fill="var(--muted-foreground)">{x}</text></g>)}
             {broken && <text x={M.l - 6} y={H - M.b - breakH / 2} textAnchor="end" fontSize="12" fill="var(--muted-foreground)">≤{yLo}</text>}
             <text x={M.l + innerW / 2} y={H - 6} textAnchor="middle" fontSize="13" fill="var(--foreground)">Release date</text>

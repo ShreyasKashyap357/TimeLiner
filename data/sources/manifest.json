@@ -131,6 +131,97 @@
   },
   {
     "site": "wikipedia",
+    "requested_title": "A Clash of Kings",
+    "resolved_title": "A Clash of Kings",
+    "url": "https://en.wikipedia.org/wiki/A_Clash_of_Kings",
+    "revid": 1384231488,
+    "fetched_at": "2026-11-26T15:01:54.285Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Clash_of_Kings.wikitext",
+      "html": "wikipedia/A_Clash_of_Kings.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "A Dance with Dragons",
+    "resolved_title": "A Dance with Dragons",
+    "url": "https://en.wikipedia.org/wiki/A_Dance_with_Dragons",
+    "revid": 1386507747,
+    "fetched_at": "2026-11-26T15:02:03.265Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Dance_with_Dragons.wikitext",
+      "html": "wikipedia/A_Dance_with_Dragons.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "A Feast for Crows",
+    "resolved_title": "A Feast for Crows",
+    "url": "https://en.wikipedia.org/wiki/A_Feast_for_Crows",
+    "revid": 1384537627,
+    "fetched_at": "2026-11-26T15:02:00.320Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Feast_for_Crows.wikitext",
+      "html": "wikipedia/A_Feast_for_Crows.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "A Game of Thrones",
+    "resolved_title": "A Game of Thrones",
+    "url": "https://en.wikipedia.org/wiki/A_Game_of_Thrones",
+    "revid": 1387552979,
+    "fetched_at": "2026-11-26T15:01:51.635Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Game_of_Thrones.wikitext",
+      "html": "wikipedia/A_Game_of_Thrones.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "A Knight of the Seven Kingdoms (TV series)",
+    "resolved_title": "A Knight of the Seven Kingdoms (TV series)",
+    "url": "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)",
+    "revid": 1387228413,
+    "fetched_at": "2026-11-26T15:02:36.676Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Knight_of_the_Seven_Kingdoms_(TV_series).wikitext",
+      "html": "wikipedia/A_Knight_of_the_Seven_Kingdoms_(TV_series).html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "A Song of Ice and Fire",
+    "resolved_title": "A Song of Ice and Fire",
+    "url": "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire",
+    "revid": 1387274616,
+    "fetched_at": "2026-11-26T15:01:48.517Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Song_of_Ice_and_Fire.wikitext",
+      "html": "wikipedia/A_Song_of_Ice_and_Fire.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "A Storm of Swords",
+    "resolved_title": "A Storm of Swords",
+    "url": "https://en.wikipedia.org/wiki/A_Storm_of_Swords",
+    "revid": 1384231497,
+    "fetched_at": "2026-11-26T15:01:57.019Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/A_Storm_of_Swords.wikitext",
+      "html": "wikipedia/A_Storm_of_Swords.html"
+    }
+  },
+  {
+    "site": "wikipedia",
     "requested_title": "Agent Carter (TV series)",
     "resolved_title": "Agent Carter (TV series)",
     "url": "https://en.wikipedia.org/wiki/Agent_Carter_(TV_series)",
@@ -573,6 +664,45 @@
   },
   {
     "site": "wikipedia",
+    "requested_title": "Fire & Blood (novel)",
+    "resolved_title": "Fire & Blood (novel)",
+    "url": "https://en.wikipedia.org/wiki/Fire_%26_Blood_(novel)",
+    "revid": 1384443955,
+    "fetched_at": "2026-11-26T15:02:12.396Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Fire_Blood_(novel).wikitext",
+      "html": "wikipedia/Fire_Blood_(novel).html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "Game of Thrones",
+    "resolved_title": "Game of Thrones",
+    "url": "https://en.wikipedia.org/wiki/Game_of_Thrones",
+    "revid": 1387883043,
+    "fetched_at": "2026-11-26T15:02:29.626Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Game_of_Thrones.wikitext",
+      "html": "wikipedia/Game_of_Thrones.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "Game of Thrones season 1",
+    "resolved_title": "Game of Thrones season 1",
+    "url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_1",
+    "revid": 1386857150,
+    "fetched_at": "2026-11-26T15:02:39.989Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Game_of_Thrones_season_1.wikitext",
+      "html": "wikipedia/Game_of_Thrones_season_1.html"
+    }
+  },
+  {
+    "site": "wikipedia",
     "requested_title": "Godzilla (2014 film)",
     "resolved_title": "Godzilla (2014 film)",
     "url": "https://en.wikipedia.org/wiki/Godzilla_(2014_film)",
@@ -699,6 +829,32 @@
     "files": {
       "wikitext": "wikipedia/Hit-Monkey_(TV_series).wikitext",
       "html": "wikipedia/Hit-Monkey_(TV_series).html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "House of the Dragon",
+    "resolved_title": "House of the Dragon",
+    "url": "https://en.wikipedia.org/wiki/House_of_the_Dragon",
+    "revid": 1387510963,
+    "fetched_at": "2026-11-26T15:02:33.127Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/House_of_the_Dragon.wikitext",
+      "html": "wikipedia/House_of_the_Dragon.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "House of the Dragon season 3",
+    "resolved_title": "House of the Dragon season 3",
+    "url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3",
+    "revid": 1387510979,
+    "fetched_at": "2026-11-26T15:02:43.227Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/House_of_the_Dragon_season_3.wikitext",
+      "html": "wikipedia/House_of_the_Dragon_season_3.html"
     }
   },
   {
@@ -1457,6 +1613,19 @@
   },
   {
     "site": "wikipedia",
+    "requested_title": "Tales of Dunk and Egg",
+    "resolved_title": "Tales of Dunk and Egg",
+    "url": "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+    "revid": 1385205054,
+    "fetched_at": "2026-11-26T15:02:09.706Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/Tales_of_Dunk_and_Egg.wikitext",
+      "html": "wikipedia/Tales_of_Dunk_and_Egg.html"
+    }
+  },
+  {
+    "site": "wikipedia",
     "requested_title": "The Avengers: Earth's Mightiest Heroes",
     "resolved_title": "The Avengers: Earth's Mightiest Heroes",
     "url": "https://en.wikipedia.org/wiki/The_Avengers%3A_Earth's_Mightiest_Heroes",
@@ -1548,6 +1717,58 @@
   },
   {
     "site": "wikipedia",
+    "requested_title": "The Princess and the Queen",
+    "resolved_title": "The Princess and the Queen",
+    "url": "https://en.wikipedia.org/wiki/The_Princess_and_the_Queen",
+    "revid": 1384395009,
+    "fetched_at": "2026-11-26T15:02:25.392Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/The_Princess_and_the_Queen.wikitext",
+      "html": "wikipedia/The_Princess_and_the_Queen.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "The Rise of the Dragon",
+    "resolved_title": "The Rise of the Dragon",
+    "url": "https://en.wikipedia.org/wiki/The_Rise_of_the_Dragon",
+    "revid": 1384481592,
+    "fetched_at": "2026-11-26T15:02:14.781Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/The_Rise_of_the_Dragon.wikitext",
+      "html": "wikipedia/The_Rise_of_the_Dragon.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "The Rogue Prince",
+    "resolved_title": "The Rogue Prince",
+    "url": "https://en.wikipedia.org/wiki/The_Rogue_Prince",
+    "revid": 1384399348,
+    "fetched_at": "2026-11-26T15:02:22.519Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/The_Rogue_Prince.wikitext",
+      "html": "wikipedia/The_Rogue_Prince.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "The Sons of the Dragon",
+    "resolved_title": "The Sons of the Dragon",
+    "url": "https://en.wikipedia.org/wiki/The_Sons_of_the_Dragon",
+    "revid": 1384429155,
+    "fetched_at": "2026-11-26T15:02:19.929Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/The_Sons_of_the_Dragon.wikitext",
+      "html": "wikipedia/The_Sons_of_the_Dragon.html"
+    }
+  },
+  {
+    "site": "wikipedia",
     "requested_title": "The Super Hero Squad Show",
     "resolved_title": "The Super Hero Squad Show",
     "url": "https://en.wikipedia.org/wiki/The_Super_Hero_Squad_Show",
@@ -1557,6 +1778,32 @@
     "files": {
       "wikitext": "wikipedia/The_Super_Hero_Squad_Show.wikitext",
       "html": "wikipedia/The_Super_Hero_Squad_Show.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "The Winds of Winter",
+    "resolved_title": "The Winds of Winter",
+    "url": "https://en.wikipedia.org/wiki/The_Winds_of_Winter",
+    "revid": 1387418744,
+    "fetched_at": "2026-11-26T15:02:06.442Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/The_Winds_of_Winter.wikitext",
+      "html": "wikipedia/The_Winds_of_Winter.html"
+    }
+  },
+  {
+    "site": "wikipedia",
+    "requested_title": "The World of Ice & Fire",
+    "resolved_title": "The World of Ice & Fire",
+    "url": "https://en.wikipedia.org/wiki/The_World_of_Ice_%26_Fire",
+    "revid": 1384374677,
+    "fetched_at": "2026-11-26T15:02:17.478Z",
+    "license": "CC BY-SA 4.0",
+    "files": {
+      "wikitext": "wikipedia/The_World_of_Ice_Fire.wikitext",
+      "html": "wikipedia/The_World_of_Ice_Fire.html"
     }
   },
   {

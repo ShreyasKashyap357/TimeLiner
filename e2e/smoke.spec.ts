@@ -96,6 +96,16 @@ test.describe('TimeLiner smoke', () => {
     await expect(page.getByRole('region', { name: 'DC' })).toBeVisible();
   });
 
+  test('books universe: Books toggle, read wording, adapts links', async ({ page }) => {
+    await page.goto('/?u=asoiaf&c=asoiaf-books');
+    await expect(page.locator('[data-unit="a-game-of-thrones"]')).toBeVisible();
+    await page.getByRole('radio', { name: 'Books' }).click();
+    await expect(page).toHaveURL(/quick=books/);
+    await expect(page.getByRole('checkbox', { name: 'Mark "A Game of Thrones" as read' })).toBeVisible();
+    await page.goto('/?u=asoiaf&c=asoiaf-books&unit=a-game-of-thrones');
+    await expect(page.getByRole('dialog').getByText('adapted as')).toBeVisible();
+  });
+
   test('no WCAG A/AA violations on main views', async ({ page }) => {
     test.setTimeout(180_000);
     for (const q of ['/?u=marvel&c=mcu', '/?u=marvel&view=release', '/?u=marvel&c=mcu&view=dual', '/?u=dc&c=arrowverse']) {

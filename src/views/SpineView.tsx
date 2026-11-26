@@ -95,7 +95,7 @@ function WatchOrderCard() {
         <CardDescription>{describe}{current && <> Source: <a className="underline" href={current.source_url} target="_blank" rel="noreferrer noopener">{new URL(current.source_url).hostname}</a> (as of {current.as_of}).</>}</CardDescription>
       </CardHeader>
       <CardContent>
-        <ToggleGroup type="single" variant="outline" value={value} aria-label="Watch order"
+        <ToggleGroup type="single" variant="outline" className="flex-wrap" value={value} aria-label="Watch order"
           onValueChange={(v) => { if (!v) return; if (v.startsWith('alt:')) update({ sort: 'alt', alt: v.slice(4) }); else update({ sort: v as 'release' | 'in-universe', alt: null }); }}>
           <ToggleGroupItem value="in-universe">Story (in-universe)</ToggleGroupItem>
           <ToggleGroupItem value="release">Release</ToggleGroupItem>

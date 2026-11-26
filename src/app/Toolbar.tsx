@@ -62,7 +62,7 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
       </div>
       {/* controls */}
       <div className="flex flex-wrap items-center gap-2">
-        <ToggleGroup type="single" variant="outline" value={state.quick} onValueChange={(v) => update({ quick: (v || 'all') as Quick })} aria-label="Quick type filter">
+        <ToggleGroup type="single" variant="outline" className="flex-wrap" value={state.quick} onValueChange={(v) => update({ quick: (v || 'all') as Quick })} aria-label="Quick type filter">
           {QUICK.filter((q) => q.v !== 'books' || hasPrint).map((q) => (
             <ToggleGroupItem key={q.v} value={q.v}>
               {/* tooltip on an inner span: a TooltipTrigger on the item itself would overwrite its data-state="on" */}

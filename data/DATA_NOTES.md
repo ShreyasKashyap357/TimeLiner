@@ -359,3 +359,31 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - US date of *Gigantis* (1959-05-21 vs 06-02);
   - *Final Wars* US date;
   - *Kong: The Animated Series* air dates (franchise page vs series article).
+
+---
+
+## A Song of Ice and Fire / Game of Thrones (books pilot)
+
+19 titles, 30 units, built with the generic pipeline (`scripts/bootstrap/asoiaf.*`).
+
+- **Two continuities, never merged** (D-20):
+  - `asoiaf-books`: novels, novellas, Fire & Blood, and two in-world histories.
+  - `got-hbo`: Game of Thrones S1–8, House of the Dragon S1–4, A Knight of the Seven Kingdoms S1–2.
+  - They are joined only by `adapts` links (e.g. GoT ↔ the five novels, HotD ↔ Fire & Blood / The Rogue Prince / The Princess and the Queen, AKOTSK ↔ The Hedge Knight / The Sworn Sword).
+  - No source uses the word "continuity". The basis for the split is Wikipedia: "only the novels count as canon", and the show "deviat[es] from the novels" and used original content from season 6.
+- **Calendar:** in-world AC/BC, with no year 0 (D-21). 1 AC is Aegon's coronation, and the Conquest war is 2–1 BC (A Wiki of Ice and Fire). BC years are stored as negative numbers.
+- **In-universe years:**
+  - Books: from A Wiki of Ice and Fire (awoiaf.westeros.org), which cites the books but doesn't quote them, so every book year is **inferred**.
+  - *The Mystery Knight* is **disputed** (212 AC on its own page vs the 211 AC Timeline row).
+  - TV years are inferred from what each season adapts (e.g. GoT S1 adapts A Game of Thrones, which is mostly 298 AC). GoT S5–8 have no year: they are mostly original content.
+  - HotD S1 years (101 → 129 AC) match the episode summaries to wiki dates; Wikipedia never prints the numbers.
+- **Release dates:**
+  - Books use the first publication anywhere. For example, A Clash of Kings uses the UK Voyager edition (1998-11-16), with the US date in the note.
+  - A Feast for Crows is month-only (2005-10); the exact days appear only in a hidden wikitext comment.
+  - Novellas use the date of the anthology that first printed them (platform "Print: in a multi-author anthology"). The Sworn Sword's publisher is not stated in the sources.
+- **Unpublished:** The Winds of Winter and A Dream of Spring are `upcoming` with no date or placement. HotD S4 (expected 2028) and AKOTSK S2 (expected 2027) are upcoming with year-only dates.
+- **Lore books:** The World of Ice & Fire and The Rise of the Dragon are type `reference` and tier `adjacent` (in-world histories, not narrative).
+- **Not added:**
+  - the 2015 collection *A Knight of the Seven Kingdoms* (it contains the three novellas, which are already listed);
+  - the announced film *Aegon's Conquest* (no date).
+- **Spot-check:** several quotes were checked against the cached pages, and all matched modulo link markup (e.g. "only the novels count as [[canon (fiction)|canon]]").

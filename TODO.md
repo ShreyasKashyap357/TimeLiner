@@ -41,7 +41,7 @@
 - [x] CHECKPOINT 4 delivered
 
 ## Later stages (proposed, each with a data checkpoint)
-- [ ] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)
+- [x] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)
 - [ ] Stage 6: Star Wars (Canon / Legends, BBY/ABY calendar)
 - [ ] Stage 7: Star Trek
 - [ ] Stage 8: Terminator, Halloween (branching / reboot timelines)
@@ -53,8 +53,8 @@
 - [ ] Later: anime / tokusatsu (Gundam, Ultraman, Kamen Rider, Dragon Ball)
 
 ## Books (PLAN.md §8.1–8.2): needs the schema changes approved first (D-16)
-- [ ] Schema/app: book types, publishers, pages, `adapts` links, "Done" wording, Books toggle, spoiler-safe mode
-- [ ] B1: A Song of Ice and Fire + HBO Game of Thrones universe (AC calendar)
+- [x] Schema/app: book types, publishers, pages, `adapts` links, "Done" wording, Books toggle, spoiler-safe mode
+- [x] B1: A Song of Ice and Fire + HBO Game of Thrones universe (AC calendar)
 - [ ] B2: The Wheel of Time (NE calendar) + Amazon series
 - [ ] B3: Rick Riordan books + films + Disney+ series
 - [ ] B4+: Cosmere, Narnia, Dune, Witcher, Hunger Games, Shadowhunters, Discworld, Expanse, Dark Tower

@@ -1,0 +1,2025 @@
+[
+  {
+    "id": "fire-and-blood",
+    "title": "Fire & Blood",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "aegon-the-conqueror",
+      "maegor",
+      "rhaenyra-targaryen",
+      "daemon-targaryen"
+    ],
+    "franchises": [
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fire & Blood (novel)",
+      "wikidata": "Q55611675",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fire_&_Blood_(novel)",
+      "https://awoiaf.westeros.org/index.php/136_AC"
+    ],
+    "notes": "Chronicle-style history; contains expanded versions of The Rogue Prince and The Princess and the Queen.",
+    "units": [
+      {
+        "id": "fire-and-blood",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 736,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -2
+          },
+          "end": {
+            "y": 136
+          },
+          "label": "2 BC – 136 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"covers the history of Westeros from Aegon's Conquest up to and through the regency of the boy king Aegon III Targaryen\"; the Conquest war is 2–1 BC and the regency ends in 136 AC (A Wiki of Ice and Fire).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-11-20",
+          "end_date": null,
+          "year": 2018,
+          "note": "First publication."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "targaryen-histories"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fire_&_Blood_(novel)",
+          "https://awoiaf.westeros.org/index.php/136_AC"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-rise-of-the-dragon",
+    "title": "The Rise of the Dragon",
+    "sort_title": "Rise of the Dragon",
+    "type": "reference",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "ten-speed-press",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Rise of the Dragon",
+      "wikidata": "Q111341122",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Rise_of_the_Dragon"
+    ],
+    "notes": "Illustrated companion \"written in a more encyclopedic style\"; not a narrative work, so tier adjacent.",
+    "units": [
+      {
+        "id": "the-rise-of-the-dragon",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 352,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -2
+          },
+          "end": {
+            "y": 131
+          },
+          "label": "2 BC – c. 131 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"describing the history of House Targaryen from Aegon Targaryen's conquest of Westeros to the Dance of the Dragons civil war\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-10-25",
+          "end_date": null,
+          "year": 2022,
+          "note": "First publication."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "targaryen-histories"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Rise_of_the_Dragon"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-sons-of-the-dragon",
+    "title": "The Sons of the Dragon",
+    "sort_title": "Sons of the Dragon",
+    "type": "novella",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-anthology",
+    "canon_tier": "core",
+    "characters": [
+      "aegon-the-conqueror",
+      "maegor"
+    ],
+    "franchises": [
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Sons of the Dragon",
+      "wikidata": "Q28753359",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Sons_of_the_Dragon",
+      "https://awoiaf.westeros.org/index.php/The_Sons_of_the_Dragon"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-sons-of-the-dragon",
+        "label": "Novella",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 37
+          },
+          "end": {
+            "y": 48
+          },
+          "label": "37–48 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"centers on the death of Aegon I … concludes with the death of Maegor\"; A Wiki of Ice and Fire: \"37 AC was the final year of Aegon the Conqueror's reign\" and \"In 48 AC Maegor the Cruel's reign crumbled\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-10",
+          "end_date": null,
+          "year": 2017,
+          "note": "First published in the anthology The Book of Swords."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "targaryen-histories"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Sons_of_the_Dragon",
+          "https://awoiaf.westeros.org/index.php/The_Sons_of_the_Dragon"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-rogue-prince",
+    "title": "The Rogue Prince",
+    "sort_title": "Rogue Prince",
+    "type": "novella",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-anthology",
+    "canon_tier": "core",
+    "characters": [
+      "daemon-targaryen",
+      "viserys-i",
+      "rhaenyra-targaryen"
+    ],
+    "franchises": [
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Rogue Prince",
+      "wikidata": "Q17027987",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Rogue_Prince",
+      "https://awoiaf.westeros.org/index.php/The_Rogue_Prince"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-rogue-prince",
+        "label": "Novella",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 103
+          },
+          "end": {
+            "y": 129
+          },
+          "label": "103–129 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"The story takes off in 103 AC with the death of King Jaehaerys I … and ends in 129 AC\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-06-17",
+          "end_date": null,
+          "year": 2014,
+          "note": "First published in the anthology Rogues."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "targaryen-histories"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Rogue_Prince",
+          "https://awoiaf.westeros.org/index.php/The_Rogue_Prince"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-princess-and-the-queen",
+    "title": "The Princess and the Queen",
+    "sort_title": "Princess and the Queen",
+    "type": "novella",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-anthology",
+    "canon_tier": "core",
+    "characters": [
+      "rhaenyra-targaryen",
+      "alicent-hightower",
+      "aegon-ii",
+      "daemon-targaryen"
+    ],
+    "franchises": [
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Princess and the Queen",
+      "wikidata": "Q17027653",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Princess_and_the_Queen",
+      "https://awoiaf.westeros.org/index.php/The_Princess_and_the_Queen"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-princess-and-the-queen",
+        "label": "Novella",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 129
+          },
+          "end": {
+            "y": 131
+          },
+          "label": "129–131 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"The story begins on the third day of the third month of 129 AC\"; the Dance lasts \"almost two and a half years\".",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-12-03",
+          "end_date": null,
+          "year": 2013,
+          "note": "First published in the anthology Dangerous Women."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "targaryen-histories"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Princess_and_the_Queen",
+          "https://awoiaf.westeros.org/index.php/The_Princess_and_the_Queen"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-hedge-knight",
+    "title": "The Hedge Knight",
+    "sort_title": "Hedge Knight",
+    "type": "novella",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "harpercollins-voyager",
+    "label": null,
+    "platform_or_network": "print-anthology",
+    "canon_tier": "core",
+    "characters": [
+      "dunk",
+      "egg"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Tales of Dunk and Egg",
+      "wikidata": "Q2975594",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+      "https://awoiaf.westeros.org/index.php/The_Hedge_Knight"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-hedge-knight",
+        "label": "Novella",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 209
+          },
+          "end": {
+            "y": 209
+          },
+          "label": "209 AC",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"The story takes place in 209 AC\"; Wikipedia: \"some 90 years before the events of the novels\".",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-08-25",
+          "end_date": null,
+          "year": 1998,
+          "note": "First published in the anthology Legends (ed. Silverberg). Publisher from A Wiki of Ice and Fire. Collected in A Knight of the Seven Kingdoms (2015)."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "dunk-and-egg"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+          "https://awoiaf.westeros.org/index.php/The_Hedge_Knight"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-sworn-sword",
+    "title": "The Sworn Sword",
+    "sort_title": "Sworn Sword",
+    "type": "novella",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "publisher-not-stated",
+    "label": null,
+    "platform_or_network": "print-anthology",
+    "canon_tier": "core",
+    "characters": [
+      "dunk",
+      "egg"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Tales of Dunk and Egg",
+      "wikidata": "Q2975594",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+      "https://awoiaf.westeros.org/index.php/The_Sworn_Sword",
+      "https://awoiaf.westeros.org/index.php/Timeline_of_major_events"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-sworn-sword",
+        "label": "Novella",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 211
+          },
+          "end": {
+            "y": 211
+          },
+          "label": "211 AC",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"a year and a half after the events of The Hedge Knight\"; the Timeline places it in 211 AC.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-12-30",
+          "end_date": null,
+          "year": 2003,
+          "note": "First published in the anthology Legends II."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "dunk-and-egg"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+          "https://awoiaf.westeros.org/index.php/The_Sworn_Sword",
+          "https://awoiaf.westeros.org/index.php/Timeline_of_major_events"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-mystery-knight",
+    "title": "The Mystery Knight",
+    "sort_title": "Mystery Knight",
+    "type": "novella",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-anthology",
+    "canon_tier": "core",
+    "characters": [
+      "dunk",
+      "egg"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Tales of Dunk and Egg",
+      "wikidata": "Q2975594",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+      "https://awoiaf.westeros.org/index.php/The_Mystery_Knight",
+      "https://awoiaf.westeros.org/index.php/Timeline_of_major_events"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-mystery-knight",
+        "label": "Novella",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 212
+          },
+          "end": {
+            "y": 212
+          },
+          "label": "212 AC",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Its A Wiki of Ice and Fire page: \"It is the year 212 AC\"; the same wiki's Timeline puts it in the 211 AC row.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-03-16",
+          "end_date": null,
+          "year": 2010,
+          "note": "First published in the anthology Warriors."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "dunk-and-egg"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tales_of_Dunk_and_Egg",
+          "https://awoiaf.westeros.org/index.php/The_Mystery_Knight",
+          "https://awoiaf.westeros.org/index.php/Timeline_of_major_events"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-world-of-ice-and-fire",
+    "title": "The World of Ice & Fire",
+    "sort_title": "World of Ice & Fire",
+    "type": "reference",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The World of Ice & Fire",
+      "wikidata": "Q18786788",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_World_of_Ice_&_Fire"
+    ],
+    "notes": "In-world encyclopedia narrated by a maester; not a narrative work, so tier adjacent.",
+    "units": [
+      {
+        "id": "the-world-of-ice-and-fire",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 326,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Dawn Age to just before the novels",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"details the fictional history of the Seven Kingdoms, from the pre-historic Dawn Age up to just before the main book series\".",
+          "order_index": 90,
+          "relative_to": {
+            "after": "the-mystery-knight",
+            "before": "a-game-of-thrones"
+          }
+        },
+        "release": {
+          "date": "2014-10-28",
+          "end_date": null,
+          "year": 2014,
+          "note": "First publication."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "targaryen-histories"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_World_of_Ice_&_Fire"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "a-game-of-thrones",
+    "title": "A Game of Thrones",
+    "sort_title": "Game of Thrones",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "eddard-stark",
+      "jon-snow",
+      "daenerys-targaryen",
+      "tyrion-lannister",
+      "arya-stark",
+      "sansa-stark",
+      "cersei-lannister",
+      "jaime-lannister",
+      "bran-stark"
+    ],
+    "franchises": [
+      "house-stark",
+      "house-lannister",
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "A Game of Thrones",
+      "wikidata": "Q1751870",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Game_of_Thrones",
+      "https://awoiaf.westeros.org/index.php/Timeline_of_major_events",
+      "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-game-of-thrones",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 807,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 297
+          },
+          "end": {
+            "y": 299
+          },
+          "label": "297–299 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"The Prologue of A Game of Thrones takes place in 297 AC\"; \"Nearly all chapters … take place during 298 AC\"; the final chapters are in 299 AC.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-08-01",
+          "end_date": null,
+          "year": 1996,
+          "note": "First publication (Bantam Spectra US; Voyager UK). Wikipedia's text says only \"August 1996\"."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Game_of_Thrones",
+          "https://awoiaf.westeros.org/index.php/Timeline_of_major_events",
+          "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "a-clash-of-kings",
+    "title": "A Clash of Kings",
+    "sort_title": "Clash of Kings",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "harpercollins-voyager",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "jon-snow",
+      "daenerys-targaryen",
+      "tyrion-lannister",
+      "arya-stark",
+      "sansa-stark",
+      "bran-stark"
+    ],
+    "franchises": [
+      "house-stark",
+      "house-lannister"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "A Clash of Kings",
+      "wikidata": "Q300370",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Clash_of_Kings",
+      "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-clash-of-kings",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 761,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 299
+          },
+          "label": "299 AC",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"all chapters from A Clash of Kings … take place during 299 AC\".",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-11-16",
+          "end_date": null,
+          "year": 1998,
+          "note": "First publication (Voyager UK); Bantam Spectra US 1999-02-02."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Clash_of_Kings",
+          "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "a-storm-of-swords",
+    "title": "A Storm of Swords",
+    "sort_title": "Storm of Swords",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "harpercollins-voyager",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "jon-snow",
+      "daenerys-targaryen",
+      "tyrion-lannister",
+      "arya-stark",
+      "jaime-lannister"
+    ],
+    "franchises": [
+      "house-stark",
+      "house-lannister"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "A Storm of Swords",
+      "wikidata": "Q431927",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Storm_of_Swords",
+      "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-storm-of-swords",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 973,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 300
+          },
+          "label": "299–300 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"most chapters of A Storm of Swords … 299 AC\"; \"The final chapters … take place in 300 AC\".",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-08-08",
+          "end_date": null,
+          "year": 2000,
+          "note": "First publication (Voyager UK); Bantam Spectra US November 2000."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Storm_of_Swords",
+          "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "a-feast-for-crows",
+    "title": "A Feast for Crows",
+    "sort_title": "Feast for Crows",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "harpercollins-voyager",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "cersei-lannister",
+      "jaime-lannister",
+      "arya-stark",
+      "sansa-stark"
+    ],
+    "franchises": [
+      "house-lannister"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "A Feast for Crows",
+      "wikidata": "Q1764445",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Feast_for_Crows",
+      "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-feast-for-crows",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 753,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 300
+          },
+          "label": "299–300 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"some chapters from A Feast for Crows take place during 299 AC\"; \"most of the chapters … 300 AC\".",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-10",
+          "end_date": null,
+          "year": 2005,
+          "note": "First publication October 2005 (UK, Voyager); November 2005 (US). Exact days appear only in a hidden wikitext comment, so they are not used."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Feast_for_Crows",
+          "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "a-dance-with-dragons",
+    "title": "A Dance with Dragons",
+    "sort_title": "Dance with Dragons",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "jon-snow",
+      "daenerys-targaryen",
+      "tyrion-lannister",
+      "bran-stark"
+    ],
+    "franchises": [
+      "house-stark",
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "A Dance with Dragons",
+      "wikidata": "Q28306",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Dance_with_Dragons",
+      "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-dance-with-dragons",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 1056,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 300
+          },
+          "end": {
+            "y": 300
+          },
+          "label": "300 AC",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "A Wiki of Ice and Fire: \"all chapters of A Dance with Dragons take place in 300 AC\".",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-07-12",
+          "end_date": null,
+          "year": 2011,
+          "note": "First publication (US and UK same day)."
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Dance_with_Dragons",
+          "https://awoiaf.westeros.org/index.php/Years_after_Aegon's_Conquest"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-winds-of-winter",
+    "title": "The Winds of Winter",
+    "sort_title": "Winds of Winter",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "The Winds of Winter",
+      "wikidata": "Q2712708",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Winds_of_Winter"
+    ],
+    "notes": "\"the planned sixth and penultimate novel … in the works since 2011\"; publication date TBD.",
+    "units": [
+      {
+        "id": "the-winds-of-winter",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Unpublished; no placement.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Unpublished; no date announced."
+        },
+        "status": "upcoming",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Winds_of_Winter"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "a-dream-of-spring",
+    "title": "A Dream of Spring",
+    "sort_title": "Dream of Spring",
+    "type": "novel",
+    "universe": "asoiaf",
+    "continuity": "asoiaf-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "A Song of Ice and Fire",
+      "wikidata": "Q45875",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire"
+    ],
+    "notes": "Planned final novel; \"In May 2019, Martin reiterated he had not started writing A Dream of Spring\".",
+    "units": [
+      {
+        "id": "a-dream-of-spring",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Unpublished; no placement.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Unpublished; no date announced."
+        },
+        "status": "upcoming",
+        "groupings": {
+          "book-series": "main-series"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "house-of-the-dragon",
+    "title": "House of the Dragon",
+    "sort_title": null,
+    "type": "series",
+    "universe": "asoiaf",
+    "continuity": "got-hbo",
+    "studio_brand": "hbo-entertainment",
+    "label": null,
+    "platform_or_network": "hbo",
+    "canon_tier": "core",
+    "characters": [
+      "rhaenyra-targaryen",
+      "daemon-targaryen",
+      "alicent-hightower",
+      "aegon-ii",
+      "viserys-i"
+    ],
+    "franchises": [
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "House of the Dragon",
+      "wikidata": "Q72930269",
+      "tmdb": "94997",
+      "imdb": "tt11198330"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/House_of_the_Dragon",
+      "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_1",
+      "https://awoiaf.westeros.org/index.php/Great_Council_of_101_AC",
+      "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_2",
+      "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "house-of-the-dragon-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 101
+          },
+          "end": {
+            "y": 129
+          },
+          "label": "101–129 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Episode 1 opens with \"old King Jaehaerys I Targaryen convenes a Great Council\" (A Wiki of Ice and Fire: \"The Great Council of 101 AC\"); episode 10 opens on Viserys's death (129 AC). Wikipedia never prints the years.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-08-21",
+          "end_date": "2022-10-23",
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "house-of-the-dragon"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_1",
+          "https://awoiaf.westeros.org/index.php/Great_Council_of_101_AC"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "house-of-the-dragon-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 129
+          },
+          "end": {
+            "y": 131
+          },
+          "label": "129–131 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"covers the events of the book Fire & Blood\"; the Dance of the Dragons is 129–131 AC (A Wiki of Ice and Fire).",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-06-16",
+          "end_date": "2024-08-04",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "house-of-the-dragon"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_2"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "house-of-the-dragon-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 129
+          },
+          "end": {
+            "y": 131
+          },
+          "label": "129–131 AC",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"the war known as the 'Dance of Dragons' … continues\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-06-21",
+          "end_date": "2026-08-09",
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "house-of-the-dragon"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "house-of-the-dragon-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "\"A fourth and final season is in development and expected to be released in 2028\".",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2028",
+          "end_date": null,
+          "year": 2028,
+          "note": "Expected 2028 (year only)."
+        },
+        "status": "upcoming",
+        "groupings": {
+          "book-series": "house-of-the-dragon"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/House_of_the_Dragon"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fire-and-blood",
+        "kind": "adapts",
+        "note": "The second half of the first volume"
+      },
+      {
+        "to": "the-rogue-prince",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-princess-and-the-queen",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "a-knight-of-the-seven-kingdoms",
+    "title": "A Knight of the Seven Kingdoms",
+    "sort_title": "Knight of the Seven Kingdoms",
+    "type": "series",
+    "universe": "asoiaf",
+    "continuity": "got-hbo",
+    "studio_brand": "hbo-entertainment",
+    "label": null,
+    "platform_or_network": "hbo",
+    "canon_tier": "core",
+    "characters": [
+      "dunk",
+      "egg"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "A Knight of the Seven Kingdoms (TV series)",
+      "wikidata": "Q120277524",
+      "tmdb": "224372",
+      "imdb": "tt27497448"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-knight-of-the-seven-kingdoms-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 209
+          },
+          "end": {
+            "y": 209
+          },
+          "label": "209 AC",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"taking place 90 years before A Song of Ice and Fire\", with \"the first season covering the events of The Hedge Knight\" (209 AC per A Wiki of Ice and Fire).",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-01-18",
+          "end_date": "2026-02-22",
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "akotsk"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "a-knight-of-the-seven-kingdoms-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "\"renewed for a second season, which will be based on The Sworn Sword and is expected to be released in 2027\".",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027",
+          "end_date": null,
+          "year": 2027,
+          "note": "Expected 2027 (year only)."
+        },
+        "status": "upcoming",
+        "groupings": {
+          "book-series": "akotsk"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-hedge-knight",
+        "kind": "adapts",
+        "note": "Season 1"
+      },
+      {
+        "to": "the-sworn-sword",
+        "kind": "adapts",
+        "note": "Season 2 (announced)"
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "game-of-thrones",
+    "title": "Game of Thrones",
+    "sort_title": null,
+    "type": "series",
+    "universe": "asoiaf",
+    "continuity": "got-hbo",
+    "studio_brand": "hbo-entertainment",
+    "label": null,
+    "platform_or_network": "hbo",
+    "canon_tier": "core",
+    "characters": [
+      "jon-snow",
+      "daenerys-targaryen",
+      "tyrion-lannister",
+      "arya-stark",
+      "sansa-stark",
+      "eddard-stark",
+      "cersei-lannister",
+      "jaime-lannister",
+      "bran-stark"
+    ],
+    "franchises": [
+      "house-stark",
+      "house-lannister",
+      "house-targaryen"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Game of Thrones",
+      "wikidata": "Q23572",
+      "tmdb": "1399",
+      "imdb": "tt0944947"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Game_of_Thrones",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_1",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_2",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_3",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_4",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_5",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_6",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_7",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_season_8"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "game-of-thrones-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 298
+          },
+          "end": {
+            "y": 298
+          },
+          "label": "c. 298 AC",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "\"The series is based on A Game of Thrones\" (mostly 298 AC in the books). The show gives no year.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-04-17",
+          "end_date": "2011-06-19",
+          "year": 2011,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_1"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 299
+          },
+          "label": "c. 299 AC",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "\"The season mostly covers the events of A Clash of Kings\" (299 AC in the books).",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-04-01",
+          "end_date": "2012-06-03",
+          "year": 2012,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_2"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 299
+          },
+          "label": "c. 299 AC",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "\"based roughly on the first half of A Storm of Swords\" (299 AC in the books).",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-03-31",
+          "end_date": "2013-06-09",
+          "year": 2013,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_3"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 300
+          },
+          "label": "c. 299–300 AC",
+          "precision": "approx",
+          "confidence": "inferred",
+          "note": "\"adapted primarily from the second half of A Storm of Swords, along with elements of A Feast for Crows and A Dance with Dragons\".",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-04-06",
+          "end_date": "2014-06-15",
+          "year": 2014,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_4"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"takes loose inspiration from A Feast for Crows and A Dance with Dragons … also contains original content\"; no year.",
+          "order_index": 90,
+          "relative_to": {
+            "after": "game-of-thrones-s4",
+            "before": "game-of-thrones-s6"
+          }
+        },
+        "release": {
+          "date": "2015-04-12",
+          "end_date": "2015-06-14",
+          "year": 2015,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_5"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"Much of the season's storyline is derived from content not yet published\"; no year.",
+          "order_index": 100,
+          "relative_to": {
+            "after": "game-of-thrones-s5",
+            "before": "game-of-thrones-s7"
+          }
+        },
+        "release": {
+          "date": "2016-04-24",
+          "end_date": "2016-06-26",
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_6"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 7,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"largely consisted of original content\"; no year.",
+          "order_index": 110,
+          "relative_to": {
+            "after": "game-of-thrones-s6",
+            "before": "game-of-thrones-s8"
+          }
+        },
+        "release": {
+          "date": "2017-07-16",
+          "end_date": "2017-08-27",
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_7"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "game-of-thrones-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"largely consists of original content … incorporating material that Martin has revealed\"; no year.",
+          "order_index": 120,
+          "relative_to": {
+            "after": "game-of-thrones-s7",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2019-04-14",
+          "end_date": "2019-05-19",
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": "game-of-thrones"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_8"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "a-game-of-thrones",
+        "kind": "adapts",
+        "note": "Season 1"
+      },
+      {
+        "to": "a-clash-of-kings",
+        "kind": "adapts",
+        "note": "Season 2"
+      },
+      {
+        "to": "a-storm-of-swords",
+        "kind": "adapts",
+        "note": "Seasons 3–4"
+      },
+      {
+        "to": "a-feast-for-crows",
+        "kind": "adapts",
+        "note": "Seasons 4–5, loosely"
+      },
+      {
+        "to": "a-dance-with-dragons",
+        "kind": "adapts",
+        "note": "Seasons 4–5, loosely"
+      }
+    ],
+    "constituents": []
+  }
+]

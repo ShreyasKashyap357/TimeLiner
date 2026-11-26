@@ -1,6 +1,7 @@
 import { useId, useMemo } from 'react';
 import { useApp } from '@/app/context';
 import { defaultState, type FilterState, type SortId } from '@/domain/filters';
+import { formatYear } from '@/domain/dates';
 import { SortSelect } from '@/app/Toolbar';
 import { TagPicker } from './TagPicker';
 import type { Row } from '@/domain/model';
@@ -115,6 +116,7 @@ export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOption
   const relMin = Math.min(...opts.relYears), relMax = Math.max(...opts.relYears);
   const d = defaultState(state.u, state.c);
   const uid = useId();
+  const cal = ds.continuities.find((c) => c.id === state.c)?.calendar;
 
   return (
     <div className="space-y-5">
@@ -148,7 +150,7 @@ export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOption
         ))}
       </fieldset>
       {Number.isFinite(iuMin) && iuMax > iuMin && (
-        <RangeField label="In-universe years" min={iuMin} max={iuMax} value={state.iu} onChange={(iu) => set({ iu })} fmt={(y) => (y < 0 ? `${-y} BC` : String(y))} />
+        <RangeField label="In-universe years" min={iuMin} max={iuMax} value={state.iu} onChange={(iu) => set({ iu })} fmt={(y) => (cal ? formatYear(y, cal) : String(y))} />
       )}
       {Number.isFinite(relMin) && relMax > relMin && (
         <RangeField label="Release years" min={relMin} max={relMax} value={state.rel} onChange={(rel) => set({ rel })} />

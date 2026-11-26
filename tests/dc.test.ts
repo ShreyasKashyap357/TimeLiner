@@ -47,8 +47,8 @@ describe('DC universe', () => {
   it('combined Marvel + DC release order has one lane per universe', () => {
     const r = applyFilters(rows, defaultState('all', null), { scopeContinuity: false, scopeUniverse: true });
     const lanes = releaseLanes(r, 'release', true, ds);
-    expect(lanes.map((l) => l.lane).sort()).toEqual(['dc', 'marvel']);
+    expect(lanes.map((l) => l.lane)).toEqual(expect.arrayContaining(['dc', 'marvel']));
     const flat = releaseLanes(r, 'release', false, ds)[0]!.groups.flatMap((g) => g.rows);
-    expect(new Set(flat.map((x) => x.universe.id))).toEqual(new Set(['marvel', 'dc']));
+    expect([...new Set(flat.map((x) => x.universe.id))]).toEqual(expect.arrayContaining(['marvel', 'dc']));
   });
 });

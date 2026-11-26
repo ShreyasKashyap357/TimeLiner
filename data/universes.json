@@ -161,5 +161,65 @@
     "data_dir": "godzilla-kong",
     "description": "Toho's Godzilla eras, Legendary's Monsterverse, TriStar's Godzilla and the King Kong films and series.",
     "last_verified": "2026-11-26"
+  },
+  {
+    "id": "asoiaf",
+    "name": "A Song of Ice and Fire",
+    "short_name": "Ice & Fire",
+    "order": 4,
+    "enabled": true,
+    "accent": {
+      "primary": "#FF7A66",
+      "secondary": "#C9A227"
+    },
+    "default_continuity": "asoiaf-books",
+    "grouping_schemes": [
+      {
+        "id": "book-series",
+        "label": "Series",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "main-series",
+            "label": "A Song of Ice and Fire (main series)",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "dunk-and-egg",
+            "label": "Tales of Dunk and Egg",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "targaryen-histories",
+            "label": "Targaryen histories",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "game-of-thrones",
+            "label": "Game of Thrones",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "house-of-the-dragon",
+            "label": "House of the Dragon",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "akotsk",
+            "label": "A Knight of the Seven Kingdoms",
+            "order": 6,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "asoiaf",
+    "description": "George R. R. Martin's novels and novellas, and HBO's Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms.",
+    "last_verified": "2026-11-26"
   }
 ]

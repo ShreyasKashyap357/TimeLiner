@@ -1,0 +1,76 @@
+[
+  {
+    "id": "asoiaf-books",
+    "universe": "asoiaf",
+    "name": "A Song of Ice and Fire (books)",
+    "short_name": "Books",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "era",
+      "before_label": "BC",
+      "after_label": "AC",
+      "has_year_zero": false
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "book-series"
+    ],
+    "alt_orders": [],
+    "description": "Novels, novellas and in-world histories by George R. R. Martin. Wikipedia: \"only the novels count as canon\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire"
+    ],
+    "notes": "Years are in the in-world calendar: AC = After the Conquest, BC = Before the Conquest."
+  },
+  {
+    "id": "got-hbo",
+    "universe": "asoiaf",
+    "name": "Game of Thrones (HBO)",
+    "short_name": "HBO",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "era",
+      "before_label": "BC",
+      "after_label": "AC",
+      "has_year_zero": false
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "book-series"
+    ],
+    "alt_orders": [],
+    "description": "HBO's Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms. Kept separate from the books: the show \"deviat[es] from the novels\" and later seasons used original content.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Game_of_Thrones",
+      "https://en.wikipedia.org/wiki/House_of_the_Dragon",
+      "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)"
+    ],
+    "notes": ""
+  }
+]

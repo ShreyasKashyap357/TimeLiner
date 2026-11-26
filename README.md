@@ -1,6 +1,6 @@
 # TimeLiner
 
-An interactive, static web app for exploring fictional franchise universes through many "lenses" over **one canonical dataset**. It covers **Marvel** (MCU, Fox X-Men, Sony's Spider-Man Universe, Raimi and Webb Spider-Man, X-Men TAS / '97, and the other Marvel animated continuities) and **DC** (DCU, DCEU, Arrowverse with its Earths and crossover events, Reeves, Nolan, Burton/Schumacher, Joker, Reeve-era Superman, Smallville, Gotham, Titans, Doom Patrol, DCAU, DCAMU, Tomorrowverse). Choose "All universes" for a combined Marvel + DC release order with side-by-side lanes.
+An interactive, static web app for exploring fictional franchise universes through many "lenses" over **one canonical dataset**. It covers **Marvel** (MCU, Fox X-Men, Sony's Spider-Man Universe, Raimi and Webb Spider-Man, X-Men TAS / '97, and the other Marvel animated continuities) and **DC** (DCU, DCEU, Arrowverse with its Earths and crossover events, Reeves, Nolan, Burton/Schumacher, Joker, Reeve-era Superman, Smallville, Gotham, Titans, Doom Patrol, DCAU, DCAMU, Tomorrowverse). It also includes **Godzilla & Kong** (Toho eras, Monsterverse, TriStar, King Kong lines) and, as the first **books** universe, **A Song of Ice and Fire** (novels, novellas and HBO's Game of Thrones shows, on the in-world AC calendar). Choose "All universes" for a combined release order with side-by-side lanes.
 
 > TimeLiner is an unofficial fan project, not affiliated with Marvel, Disney, DC or Warner Bros. Discovery. It contains no posters, logos or other artwork.
 

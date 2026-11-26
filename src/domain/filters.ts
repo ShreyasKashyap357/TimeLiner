@@ -4,7 +4,7 @@ import type { Row } from './model.ts';
 
 export const VIEWS = ['spine', 'release', 'platform', 'studio', 'groupings', 'tags', 'continuities', 'dual', 'connections'] as const;
 export type ViewId = (typeof VIEWS)[number];
-export type Quick = 'all' | 'movies' | 'series' | 'animated';
+export type Quick = 'all' | 'movies' | 'series' | 'animated' | 'books';
 export type SortId = 'in-universe' | 'release' | 'release-desc' | 'alt' | 'title' | 'runtime' | 'unwatched';
 export type WatchedFilter = 'all' | 'unwatched' | 'watched';
 
@@ -86,7 +86,7 @@ export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinui
   if (sort && ['in-universe', 'release', 'release-desc', 'alt', 'title', 'runtime', 'unwatched'].includes(sort)) s.sort = sort as SortId;
   s.alt = p.get('alt');
   const quick = p.get('quick');
-  if (quick && ['all', 'movies', 'series', 'animated'].includes(quick)) s.quick = quick as Quick;
+  if (quick && ['all', 'movies', 'series', 'animated', 'books'].includes(quick)) s.quick = quick as Quick;
   s.q = p.get('q') ?? '';
   for (const [k, name] of LIST_KEYS) {
     const v = p.get(name);
@@ -110,6 +110,7 @@ export function quickMatches(r: Row, q: Quick): boolean {
   if (q === 'movies') return MOVIE_TYPES.includes(r.type);
   if (q === 'series') return SERIES_TYPES.includes(r.type);
   if (q === 'animated') return r.animated;
+  if (q === 'books') return r.medium === 'print';
   return true;
 }
 

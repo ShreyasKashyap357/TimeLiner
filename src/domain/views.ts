@@ -28,6 +28,7 @@ export function sortRows(rows: Row[], sort: SortId, opts: { altOrder?: string[];
 export function effectiveLength(r: Row): number {
   if (r.unit.runtime_min) return r.unit.runtime_min;
   if (r.unit.episode_count) return r.unit.episode_count * 45;
+  if (r.unit.pages) return r.unit.pages * 1.5; // rough reading time: ~1.5 min per page
   return Number.MAX_SAFE_INTEGER;
 }
 
@@ -277,8 +278,8 @@ export function connectionsFor(titleId: string, ds: Pick<Dataset, 'titles'>): Ti
 
 /** Human phrasing of a connection from the viewpoint of the current title. */
 export function describeConnection(c: TitleConnection): string {
-  const inverse: Record<string, string> = { sequel: 'followed by', continues: 'continued by', spinoff: 'spun off into', crossover: 'crosses over with', cameo: 'has a cameo in', 'feeds-into': 'leads into', remake: 'remade as', 'shares-characters': 'shares characters with' };
-  const forward: Record<string, string> = { sequel: 'sequel to', continues: 'continues', spinoff: 'spin-off of', crossover: 'crosses over with', cameo: 'cameo from', 'feeds-into': 'follows on from', remake: 'remake of', 'shares-characters': 'shares characters with' };
+  const inverse: Record<string, string> = { sequel: 'followed by', continues: 'continued by', spinoff: 'spun off into', crossover: 'crosses over with', cameo: 'has a cameo in', 'feeds-into': 'leads into', remake: 'remade as', 'shares-characters': 'shares characters with', adapts: 'adapted as' };
+  const forward: Record<string, string> = { sequel: 'sequel to', continues: 'continues', spinoff: 'spin-off of', crossover: 'crosses over with', cameo: 'cameo from', 'feeds-into': 'follows on from', remake: 'remake of', 'shares-characters': 'shares characters with', adapts: 'adapts' };
   if (c.direction === 'event') return c.kind;
   return (c.direction === 'from-this' ? forward : inverse)[c.kind] ?? c.kind;
 }

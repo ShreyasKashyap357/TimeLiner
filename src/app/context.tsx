@@ -19,6 +19,9 @@ export interface AppCtx {
   altOrder: string[] | undefined;
   /** Rows of the current view in display order (for prev/next and what's next). */
   ordered: Row[];
+  /** Spoiler-safe mode: hide notes for anything not yet marked done. */
+  spoilerSafe: boolean;
+  setSpoilerSafe: (v: boolean) => void;
 }
 
 export const Ctx = createContext<AppCtx | null>(null);

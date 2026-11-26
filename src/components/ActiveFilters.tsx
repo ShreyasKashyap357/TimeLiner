@@ -14,7 +14,7 @@ export function ActiveFilters() {
     for (const x of v) chips.push({ key: `${String(k)}:${x}`, text: `${name}: ${fmt(x)}`, clear: { [k]: v.filter((y) => y !== x) } as Partial<FilterState> });
   };
   if (state.q) chips.push({ key: 'q', text: `Text: “${state.q}”`, clear: { q: '' } });
-  if (state.quick !== 'all') chips.push({ key: 'quick', text: { movies: 'Movies only', series: 'Series only', animated: 'Animated' }[state.quick], clear: { quick: 'all' } });
+  if (state.quick !== 'all') chips.push({ key: 'quick', text: { movies: 'Movies only', series: 'Series only', animated: 'Animated', books: 'Books' }[state.quick as 'movies'], clear: { quick: 'all' } });
   list('tags', 'Character', label.tag);
   list('tiers', 'Tier');
   list('types', 'Type');
@@ -24,7 +24,7 @@ export function ActiveFilters() {
   list('status', 'Status');
   list('conf', 'Confidence');
   list('branches', 'Branch', (b) => ds.continuities.flatMap((c) => c.branches).find((x) => x.id === b)?.label ?? b);
-  if (state.watched !== 'all') chips.push({ key: 'w', text: state.watched === 'watched' ? 'Watched only' : 'Unwatched only', clear: { watched: 'all' } });
+  if (state.watched !== 'all') chips.push({ key: 'w', text: state.watched === 'watched' ? 'Done only' : 'Not done yet', clear: { watched: 'all' } });
   if (state.iu) chips.push({ key: 'iu', text: `In-universe ${state.iu[0]}–${state.iu[1]}`, clear: { iu: null } });
   if (state.rel) chips.push({ key: 'rel', text: `Released ${state.rel[0]}–${state.rel[1]}`, clear: { rel: null } });
   if (!chips.length) return null;

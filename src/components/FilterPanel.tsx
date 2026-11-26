@@ -18,7 +18,7 @@ const TIER_TEXT: Record<string, { label: string; help: string }> = {
   'non-placeable': { label: 'Non-placeable', help: 'No fixed point in the timeline' },
 };
 const TYPE_TEXT: Record<string, string> = {
-  film: 'Film', series: 'Series', 'one-shot': 'One-Shot', special: 'Special', 'animated-series': 'Animated series', 'animated-film': 'Animated film', 'crossover-event': 'Crossover event',
+  film: 'Film', series: 'Series', 'one-shot': 'One-Shot', special: 'Special', 'animated-series': 'Animated series', 'animated-film': 'Animated film', 'crossover-event': 'Crossover event', novel: 'Novel', novella: 'Novella', 'short-story': 'Short story', anthology: 'Anthology', comic: 'Comic', 'graphic-novel': 'Graphic novel', reference: 'Reference / lore book',
 };
 
 function toggleIn<T>(list: T[], v: T, on: boolean): T[] {
@@ -139,11 +139,11 @@ export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOption
       <CheckGroup legend="Status" value={state.status} onChange={(v) => set({ status: v as FilterState['status'] })} options={opts.status} />
       <CheckGroup legend="Date confidence" value={state.conf} onChange={(v) => set({ conf: v as FilterState['conf'] })} options={opts.conf} />
       <fieldset className="space-y-1.5">
-        <legend className="mb-1 text-sm font-semibold">Watched</legend>
+        <legend className="mb-1 text-sm font-semibold">Done (watched / read)</legend>
         {(['all', 'unwatched', 'watched'] as const).map((w) => (
           <div key={w} className="flex items-center gap-2">
             <input type="radio" id={`${uid}-w-${w}`} name={`${uid}-watched`} checked={state.watched === w} onChange={() => set({ watched: w })} className="accent-[var(--u-primary)]" />
-            <Label htmlFor={`${uid}-w-${w}`} className="font-normal capitalize">{w}</Label>
+            <Label htmlFor={`${uid}-w-${w}`} className="font-normal">{w === 'all' ? 'All' : w === 'watched' ? 'Done' : 'Not done yet'}</Label>
           </div>
         ))}
       </fieldset>

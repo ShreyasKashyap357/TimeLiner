@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
-import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight } from 'lucide-react';
+import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight, BookOpen } from 'lucide-react';
 import { formatRelease } from '@/domain/dates';
 
 const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: string }>; tip: string }[] = [
@@ -16,6 +16,7 @@ const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: 
   { v: 'movies', label: 'Movies only', icon: Film, tip: 'Films, one-shots and specials' },
   { v: 'series', label: 'Series only', icon: Tv, tip: 'Series seasons, episode ranges and crossover events' },
   { v: 'animated', label: 'Animated', icon: Sparkles, tip: 'Animated series and films only' },
+  { v: 'books', label: 'Books', icon: BookOpen, tip: 'Novels, novellas, comics and other print' },
 ];
 
 export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
@@ -25,7 +26,8 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
   counts: { shown: number; total: number; released: number };
   filterPanel: React.ReactNode;
 }) {
-  const { state, update } = useApp();
+  const { state, update, rows } = useApp();
+  const hasPrint = rows.some((r) => r.medium === 'print' && (state.u === 'all' || r.universe.id === state.u));
   return (
     <div className="my-4 flex flex-col gap-4">
       {/* dashboard stats */}
@@ -39,7 +41,7 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
         </Card>
         <Card size="sm">
           <CardHeader>
-            <CardDescription id="progress-label">Watched in this view</CardDescription>
+            <CardDescription id="progress-label">Done in this view (watched or read)</CardDescription>
             <CardTitle className="text-2xl tabular-nums">{prog.pct}%<span className="text-base font-normal text-muted-foreground"> · {prog.done} / {prog.total}</span></CardTitle>
           </CardHeader>
           <CardContent><Progress value={prog.pct} aria-labelledby="progress-label" /></CardContent>
@@ -61,7 +63,7 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
       {/* controls */}
       <div className="flex flex-wrap items-center gap-2">
         <ToggleGroup type="single" variant="outline" value={state.quick} onValueChange={(v) => update({ quick: (v || 'all') as Quick })} aria-label="Quick type filter">
-          {QUICK.map((q) => (
+          {QUICK.filter((q) => q.v !== 'books' || hasPrint).map((q) => (
             <ToggleGroupItem key={q.v} value={q.v}>
               {/* tooltip on an inner span: a TooltipTrigger on the item itself would overwrite its data-state="on" */}
               <Tooltip>

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { Ctx, type AppCtx } from './context';
 import { useUrlState } from '@/state/url';
 import { useWatched } from '@/state/watched';
+import { usePrefs } from '@/state/prefs';
 import { loadDataset, universes as allUniverses } from '@/state/data';
 import { buildRows, type Dataset } from '@/domain/model';
 import { applyFilters, VIEWS, type ViewId, type SortId } from '@/domain/filters';
@@ -50,6 +51,7 @@ export function App() {
 
   useEffect(() => { loadDataset().then(setDs, (e) => setError(String(e))); }, []);
   const watched = useWatched(ds?.aliases ?? {});
+  const [prefs, setPrefs] = usePrefs();
 
   // per-universe accent colours
   useEffect(() => {
@@ -87,7 +89,7 @@ export function App() {
   if (error) return <main className="p-8 text-destructive">Failed to load data: {error}</main>;
   if (!ds) return <main className="p-8 text-muted-foreground" aria-busy="true">Loading timeline…</main>;
 
-  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, ordered };
+  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, ordered, spoilerSafe: prefs.spoilerSafe, setSpoilerSafe: (v) => setPrefs({ spoilerSafe: v }) };
   const sortOptions: { id: SortId; label: string; alt?: string }[] = [
     ...(CONTINUITY_SCOPED.includes(state.view) ? [{ id: 'in-universe' as SortId, label: 'In-universe order' }] : []),
     ...(state.view === 'spine' ? (continuity?.alt_orders ?? []).map((a) => ({ id: 'alt' as SortId, label: a.label, alt: a.id })) : []),

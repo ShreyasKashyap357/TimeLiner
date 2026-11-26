@@ -10,6 +10,8 @@ import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip
 import { ChevronLeft, ChevronRight, ExternalLink, Check, SkipForward, Link2 } from 'lucide-react';
 import { ConfidenceBadge } from './Badges';
 import { RowMarker, markerMeaning } from './Marker';
+import { SpoilerText } from './SpoilerText';
+import { doneVerb } from '@/domain/model';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
   return (
@@ -57,6 +59,9 @@ export function DetailDrawer() {
   const iu = row?.unit.in_universe;
   const siblings = row ? row.title.units.filter((u) => u.id !== row.key) : [];
   const isWatched = row ? watched.set.has(row.key) : false;
+  const verb = row ? doneVerb(row.type) : 'watched';
+  const Verb = verb[0]!.toUpperCase() + verb.slice(1);
+  const isPrint = row?.medium === 'print';
   const firstUnitOf = (titleId: string) => rows.find((r) => r.title.id === titleId)?.key;
 
   return (
@@ -87,11 +92,11 @@ export function DetailDrawer() {
               </SheetDescription>
               <div className="flex flex-wrap gap-2 pt-2">
                 <Button variant={isWatched ? 'secondary' : 'default'} onClick={() => watched.toggle(row.key)} aria-pressed={isWatched}>
-                  <Check className="size-4" aria-hidden />{isWatched ? 'Watched' : 'Mark as watched'}
+                  <Check className="size-4" aria-hidden />{isWatched ? Verb : `Mark as ${verb}`}
                 </Button>
                 {next && !isWatched && (
                   <Button variant="outline" onClick={() => { watched.toggle(row.key, true); go(next.key); }}>
-                    <SkipForward className="size-4" aria-hidden />Watched, go to next
+                    <SkipForward className="size-4" aria-hidden />{Verb}, go to next
                   </Button>
                 )}
               </div>
@@ -103,13 +108,13 @@ export function DetailDrawer() {
                     <span className="font-medium">{iu.label}</span>
                     <ConfidenceBadge c={iu.confidence} />
                   </div>
-                  {iu.note && <p className="mt-1 text-xs leading-relaxed text-muted-foreground">{iu.note}</p>}
+                  {iu.note && <p className="mt-1 text-xs leading-relaxed text-muted-foreground"><SpoilerText unitKey={row.key}>{iu.note}</SpoilerText></p>}
                 </Field>
-                <Field k="Released">{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
+                <Field k={isPrint ? 'Published' : 'Released'}>{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
                   {row.unit.release.note && <p className="text-xs text-muted-foreground">{row.unit.release.note}</p>}</Field>
-                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}</Field>
-                <Field k="Original platform">{label.platform(row.platform)}</Field>
-                <Field k="Studio">
+                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}</Field>
+                <Field k={isPrint ? 'First edition' : 'Original platform'}>{label.platform(row.platform)}</Field>
+                <Field k={studio?.kind === 'publisher' || studio?.kind === 'imprint' ? 'Publisher' : 'Studio'}>
                   <span className="flex flex-col gap-0.5">
                     <span>{studio?.label ?? row.studio}</span>
                     {lbl && <span className="text-xs text-muted-foreground">Label / banner: {lbl.label}</span>}
@@ -176,7 +181,7 @@ export function DetailDrawer() {
                 <Section title={`Other parts of ${row.title.title}`}>
                   <ul className="space-y-1 text-sm">
                     {siblings.map((u) => (
-                      <li key={u.id}><button type="button" className="underline" onClick={() => go(u.id)}>{u.label}</button> <span className="text-muted-foreground">· {u.in_universe.label} · {formatRelease(u.release.date)}</span>{watched.set.has(u.id) && <span className="text-muted-foreground"> · watched</span>}</li>
+                      <li key={u.id}><button type="button" className="underline" onClick={() => go(u.id)}>{u.label}</button> <span className="text-muted-foreground">· {u.in_universe.label} · {formatRelease(u.release.date)}</span>{watched.set.has(u.id) && <span className="text-muted-foreground"> · {verb}</span>}</li>
                     ))}
                   </ul>
                 </Section>
@@ -184,8 +189,8 @@ export function DetailDrawer() {
 
               {(row.title.notes || row.unit.notes) && (
                 <Section title="Notes">
-                  {row.title.notes && <p className="text-sm text-muted-foreground">{row.title.notes}</p>}
-                  {row.unit.notes && <p className="text-sm text-muted-foreground">{row.unit.notes}</p>}
+                  {row.title.notes && <p className="text-sm text-muted-foreground"><SpoilerText unitKey={row.key}>{row.title.notes}</SpoilerText></p>}
+                  {row.unit.notes && <p className="text-sm text-muted-foreground"><SpoilerText unitKey={row.key}>{row.unit.notes}</SpoilerText></p>}
                 </Section>
               )}
 

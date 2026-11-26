@@ -1,6 +1,6 @@
 import { useApp } from '@/app/context';
 import { formatRelease } from '@/domain/dates';
-import type { Row } from '@/domain/model';
+import { doneVerb, type Row } from '@/domain/model';
 import { Checkbox } from '@/components/ui/checkbox';
 import { cn } from '@/lib/utils';
 import { RowMarker, markerMeaning } from './Marker';
@@ -25,7 +25,7 @@ export function UnitItem({ row, meta = 'release', compact = false }: { row: Row;
       <Checkbox
         checked={isWatched}
         onCheckedChange={(v) => watched.toggle(row.key, v === true)}
-        aria-label={`Mark "${row.name}" as watched`}
+        aria-label={`Mark "${row.name}" as ${doneVerb(row.type)}`}
         className="mt-0.5"
       />
       <Tooltip>

@@ -10,6 +10,7 @@ import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/component
 import { ChevronDown } from 'lucide-react';
 import { ConfidenceBadge } from '@/components/Badges';
 import { formatRelease } from '@/domain/dates';
+import { SpoilerText } from '@/components/SpoilerText';
 
 /** In-universe chronology of one continuity, drawn as a vertical spine (as in the reference image). */
 export function SpineView({ rows }: { rows: Row[] }) {
@@ -65,7 +66,7 @@ function SpineEntry({ row, position = null }: { row: Row; position?: number | nu
           <div className="mb-1 flex flex-wrap items-center gap-2 text-foreground">
             <span>{iu.label}</span><ConfidenceBadge c={iu.confidence} small /><span className="text-muted-foreground">Released {formatRelease(row.unit.release.date)}</span>
           </div>
-          {iu.note}
+          <SpoilerText unitKey={row.key}>{iu.note}</SpoilerText>
         </CollapsibleContent>
       </li>
     </Collapsible>

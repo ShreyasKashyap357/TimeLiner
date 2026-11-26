@@ -13,7 +13,7 @@ export const Studio = z.object({
   id: slug,
   label: z.string(), // full, unambiguous name
   short_label: z.string().nullable().default(null), // compact badge text
-  kind: z.enum(['studio', 'division', 'label', 'distributor', 'other']),
+  kind: z.enum(['studio', 'division', 'label', 'distributor', 'publisher', 'imprint', 'other']),
   parent: slug.nullable().default(null),
   /** UI grouping for entities that share a public name (e.g. two different "Marvel Television"s). */
   group: z.string().nullable().default(null),
@@ -23,7 +23,7 @@ export const Studio = z.object({
 export const Platform = z.object({
   id: slug,
   label: z.string(),
-  kind: z.enum(['theatrical', 'streaming', 'broadcast', 'cable', 'home-media', 'other']),
+  kind: z.enum(['theatrical', 'streaming', 'broadcast', 'cable', 'home-media', 'print', 'ebook', 'serialized', 'audio', 'other']),
   note: z.string().default(''),
 });
 export const Tag = z.object({
@@ -117,7 +117,8 @@ export const Continuity = z.object({
 });
 
 // ---------- Title & Unit ----------
-export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 'crossover-event']);
+// Screen types, then print types (novel … reference). Medium is derived from the type (see model.ts MEDIUM_OF).
+export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference']);
 export const CanonTier = z.enum(['core', 'outside-set-date', 'multiverse-variant', 'adjacent', 'non-placeable']);
 export const Status = z.enum(['released', 'upcoming', 'cancelled', 'in-production']);
 export const Precision = z.enum(['exact', 'year', 'approx', 'range', 'relative']);
@@ -145,6 +146,8 @@ export const Unit = z.object({
   episode_range: z.object({ from: EpisodeRef, to: EpisodeRef }).nullable().default(null),
   episode_count: z.number().int().nullable().default(null),
   runtime_min: z.number().nullable().default(null),
+  pages: z.number().int().nullable().default(null), // print: first-edition page count
+  word_count: z.number().int().nullable().default(null),
   timeline_branch: slug,
   canon_tier: CanonTier.nullable().default(null), // null = inherit title's
   in_universe: InUniverse,
@@ -163,7 +166,8 @@ export const Unit = z.object({
   notes: z.string().default(''),
 });
 
-export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters']);
+// 'adapts': this title adapts the linked one (e.g. a TV season adapts a novel). Adaptations stay separate continuities.
+export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters', 'adapts']);
 export const TitleLink = z.object({ to: slug, kind: LinkKind, note: z.string().default('') });
 
 export const Title = z.object({

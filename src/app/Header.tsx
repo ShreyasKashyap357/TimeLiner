@@ -10,7 +10,7 @@ import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, D
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from 'sonner';
-import { Search, ListChecks } from 'lucide-react';
+import { Search, ListChecks, EyeOff, Eye } from 'lucide-react';
 import { RowMarker } from '@/components/Marker';
 
 /** Top bar: brand, universe + continuity pickers, filter-by-text, search palette, watched menu. */
@@ -64,9 +64,24 @@ export function HeaderBar() {
       <div className="ml-auto flex items-center gap-2">
         <FilterBox />
         <SearchPalette />
+        <SpoilerToggle />
         <WatchedMenu />
       </div>
     </div>
+  );
+}
+
+function SpoilerToggle() {
+  const { spoilerSafe, setSpoilerSafe } = useApp();
+  return (
+    <Tooltip>
+      <TooltipTrigger asChild>
+        <Button variant={spoilerSafe ? 'default' : 'outline'} size="icon" aria-pressed={spoilerSafe} aria-label="Spoiler-safe mode" onClick={() => setSpoilerSafe(!spoilerSafe)}>
+          {spoilerSafe ? <EyeOff className="size-4" aria-hidden /> : <Eye className="size-4" aria-hidden />}
+        </Button>
+      </TooltipTrigger>
+      <TooltipContent className="max-w-xs">Spoiler-safe mode {spoilerSafe ? 'on' : 'off'}: hides plot notes for anything you haven't marked done</TooltipContent>
+    </Tooltip>
   );
 }
 
@@ -150,10 +165,10 @@ function WatchedMenu() {
     <>
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
-          <Button variant="outline" aria-label={`Watched: ${watched.set.size}. Open watched menu`} title="Watched list: export, import or clear (stored in this browser)"><ListChecks aria-hidden className="size-4" />{watched.set.size}</Button>
+          <Button variant="outline" aria-label={`Done: ${watched.set.size}. Open done-list menu`} title="Done list (watched / read): export, import or clear, stored in this browser"><ListChecks aria-hidden className="size-4" />{watched.set.size}</Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end">
-          <DropdownMenuLabel>Watched ({watched.set.size}) · stored in this browser</DropdownMenuLabel>
+          <DropdownMenuLabel>Done ({watched.set.size}) · stored in this browser</DropdownMenuLabel>
           <DropdownMenuSeparator />
           <DropdownMenuItem onSelect={download}>Export JSON…</DropdownMenuItem>
           <DropdownMenuItem onSelect={() => setImportOpen(true)}>Import JSON…</DropdownMenuItem>
@@ -164,7 +179,7 @@ function WatchedMenu() {
       <Dialog open={importOpen} onOpenChange={setImportOpen}>
         <DialogContent>
           <DialogHeader>
-            <DialogTitle>Import watched list</DialogTitle>
+            <DialogTitle>Import done list</DialogTitle>
             <DialogDescription>Paste an exported TimeLiner JSON file, or choose a file.</DialogDescription>
           </DialogHeader>
           <input type="file" accept="application/json,.json" aria-label="Choose JSON file" onChange={async (e) => { const f = e.target.files?.[0]; if (f) setText(await f.text()); }} className="text-sm" />

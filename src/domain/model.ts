@@ -27,15 +27,20 @@ export interface Row {
   /** "Title — Season 1" style display name. */
   name: string;
   animated: boolean;
+  medium: 'screen' | 'print';
   placed: boolean; // has in-universe calendar date
   releaseKey: string; // sortable ISO (partial dates padded to end of period)
   search: string; // lower-cased haystack
 }
 
 const ANIMATED: TitleType[] = ['animated-series', 'animated-film'];
+export const PRINT_TYPES: TitleType[] = ['novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference'];
+export const mediumOf = (t: TitleType): 'screen' | 'print' => (PRINT_TYPES.includes(t) ? 'print' : 'screen');
+/** Verb for marking a unit done, by medium. */
+export const doneVerb = (t: TitleType) => (mediumOf(t) === 'print' ? 'read' : 'watched');
 
 export function unitDisplayName(t: Title, u: Unit): string {
-  return t.units.length === 1 && /^(Film|Special|Short film|Miniseries|Season 1)$/.test(u.label) ? t.title : `${t.title} — ${u.label}`;
+  return t.units.length === 1 && /^(Film|Special|Short film|Miniseries|Season 1|Novel|Novella|Book|Short story|Anthology)$/.test(u.label) ? t.title : `${t.title} — ${u.label}`;
 }
 
 /** Sort key for partial ISO dates: unknown parts sort after known ones in the same period. */
@@ -71,6 +76,7 @@ export function buildRows(ds: Dataset): Row[] {
         label: t.label,
         name,
         animated: ANIMATED.includes(t.type),
+        medium: mediumOf(t.type),
         placed: unit.in_universe.start !== null,
         releaseKey: releaseSortKey(unit.release.date),
         search: [name, t.sort_title ?? '', ...tagWords].join(' ').toLowerCase(),

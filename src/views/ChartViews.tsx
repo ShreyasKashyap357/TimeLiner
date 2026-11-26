@@ -6,6 +6,7 @@ import { Marker, markerColor, markerMeaning, markerShape } from '@/components/Ma
 import { formatRelease, formatYear } from '@/domain/dates';
 import { UnitItem } from '@/components/UnitItem';
 import { ConfidenceBadge } from '@/components/Badges';
+import { SpoilerText } from '@/components/SpoilerText';
 import { Empty } from './SpineView';
 
 /** Floating tooltip card positioned in % of the chart's viewBox, so it tracks the SVG at any width. */
@@ -114,7 +115,7 @@ function range(a: number, b: number, step: number) { const out: number[] = []; f
 
 /** Which titles feed into which: arc diagram on a release-year axis plus an accessible list. */
 export function ConnectionsView({ rows }: { rows: Row[] }) {
-  const { ds, update } = useApp();
+  const { ds, update, spoilerSafe } = useApp();
   const [hover, setHover] = useState<{ x: number; y: number; content: React.ReactNode; key: string } | null>(null);
   const { nodes, edges } = connections(rows, ds);
   if (!edges.length) return <p className="text-muted-foreground">No recorded connections among the filtered titles. Try widening the canon tier filter (e.g. include other continuities).</p>;
@@ -137,7 +138,7 @@ export function ConnectionsView({ rows }: { rows: Row[] }) {
               const key = `e${i}`;
               const active = hover?.key === key;
               const show = () => setHover({ key, x: (a + b) / 2, y: base - Math.min(r, base - 10), content: (
-                <div className="space-y-1 text-sm"><div className="font-semibold">{titleOf(e.from).title} → {titleOf(e.to).title}</div><div className="text-muted-foreground">{e.kind}{e.note ? ` · ${e.note}` : ''}</div></div>) });
+                <div className="space-y-1 text-sm"><div className="font-semibold">{titleOf(e.from).title} → {titleOf(e.to).title}</div><div className="text-muted-foreground">{e.kind}{e.note && !spoilerSafe ? ` · ${e.note}` : ''}</div></div>) });
               return (
                 <g key={key} tabIndex={0} role="img" aria-label={`${titleOf(e.from).title} ${e.kind} ${titleOf(e.to).title}`} onMouseEnter={show} onFocus={show} onMouseLeave={() => setHover(null)} onBlur={() => setHover(null)} className="focus:outline-none">
                   <path d={`M${a} ${base} A ${r} ${Math.min(r, base - 10)} 0 0 1 ${b} ${base}`} fill="none" stroke="transparent" strokeWidth={10} />
@@ -170,7 +171,7 @@ export function ConnectionsView({ rows }: { rows: Row[] }) {
             <button type="button" className="underline" onClick={() => { const k = firstUnit(e.from); if (k) update({ unit: k }); }}>{titleOf(e.from).title}</button>
             <span className="text-muted-foreground"> → {e.kind} → </span>
             <button type="button" className="underline" onClick={() => { const k = firstUnit(e.to); if (k) update({ unit: k }); }}>{titleOf(e.to).title}</button>
-            {e.note && <span className="text-muted-foreground"> ({e.note})</span>}
+            {e.note && <span className="text-muted-foreground"> <SpoilerText unitKey={firstUnit(e.to) ?? ''}>({e.note})</SpoilerText></span>}
           </li>
         ))}
       </ul>

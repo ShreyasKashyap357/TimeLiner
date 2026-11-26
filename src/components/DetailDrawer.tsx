@@ -152,7 +152,7 @@ export function DetailDrawer() {
                         <Link2 className="size-3.5 self-center text-muted-foreground" aria-hidden />
                         <span className="text-muted-foreground">{describeConnection(c)}</span>
                         <button type="button" className="font-medium underline" onClick={() => go(firstUnitOf(c.titleId))}>{c.title}</button>
-                        {c.note && <span className="text-xs text-muted-foreground">({c.note})</span>}
+                        {c.note && <span className="text-xs text-muted-foreground"><SpoilerText unitKey={row.key}>({c.note})</SpoilerText></span>}
                       </li>
                     ))}
                   </ul>

@@ -208,3 +208,23 @@ None of these are placed on the calendar ("Not yet placed (unreleased)", `disput
   - statuses made stale by today's date;
   - source revision changes against `data/sources/curated-revisions.json`.
 - Accepted, documented exceptions live in `data/drift-ignore.json`. Each has a reason.
+
+### 11. Series added after Checkpoint 2 (user request: "each and every TV series")
+
+Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release data comes from each Wikipedia article's season table, or from its infobox where there is no table. Continuity groupings are used only where Wikipedia states them:
+
+| Series | Continuity / tier | Basis |
+|---|---|---|
+| *Agents of S.H.I.E.L.D.: Slingshot* (ABC.com, 2016) | MCU, adjacent, no year | "set in the Marvel Cinematic Universe … a supplement to Agents of S.H.I.E.L.D." Placed beside AoS S4. |
+| *Legion* S1–3 (FX) | Fox X-Men, adjacent, unplaced | Hawley: the character's "subjective reality"; no placement given. |
+| *The Gifted* S1–2 (Fox) | Fox X-Men, new branch "The Gifted (alternate timeline)" | "set in an alternate timeline to the X-Men film series where the X-Men have disappeared." |
+| *Avengers Assemble*, *Guardians of the Galaxy* (TV), *Spider-Man* (2017) | New continuity `marvel-disney-xd` (order only) | Spider-Man (2017): "…which are set in the same continuity." GotG: "not a part of the Marvel Cinematic Universe." |
+| *Marvel Anime*: Iron Man, Wolverine, X-Men, Blade | New continuity `marvel-anime` | "It will create an entire parallel universe for Marvel." Air dates from the four infoboxes. |
+| *Spidey and His Amazing Friends*, *Iron Man and His Awesome Friends* | New continuity `spidey-friends` | "…as a spin-off of Spidey and His Amazing Friends". |
+| *Ultimate Spider-Man*, *Hulk and the Agents of S.M.A.S.H.*, *EMH*, *Super Hero Squad*, *Iron Man: Armored Adventures*, *Wolverine and the X-Men*, *Moon Girl and Devil Dinosaur*, *M.O.D.O.K.*, *Hit-Monkey* | `marvel-animation-standalone` (each its own continuity) | No shared continuity stated in the fetched sources (decision D-12). |
+
+**Studios:**
+- These series are credited to the 2010–2019 Marvel Television division or to the Marvel Animation production company.
+- The Marvel Animation company is a new registry entry, `marvel-animation-inc`. It is grouped with, but kept distinct from, the 2024 Marvel Studios "Marvel Animation" label. This is the same treatment as the two Marvel Televisions.
+
+**Not added:** unaired pilots (*Marvel's Most Wanted*, *New Warriors*), and non-MCU animated features and specials (decision D-15).

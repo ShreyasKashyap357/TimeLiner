@@ -10331,5 +10331,1632 @@
       }
     ],
     "constituents": []
+  },
+  {
+    "id": "agents-of-shield-slingshot",
+    "title": "Agents of S.H.I.E.L.D.: Slingshot",
+    "sort_title": null,
+    "type": "series",
+    "universe": "marvel",
+    "continuity": "mcu",
+    "studio_brand": "marvel-television-division",
+    "label": null,
+    "platform_or_network": "abc-com",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [
+      "shield"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Agents of S.H.I.E.L.D.: Slingshot",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.:_Slingshot"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "agents-of-shield-slingshot-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "timeline_branch": "sacred-timeline",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"It is set in the Marvel Cinematic Universe (MCU) … it is a supplement to Agents of S.H.I.E.L.D.\" Six-episode digital series; not placed by year. Released between seasons 3 and 4 (December 2016); placed alongside season 4.",
+          "order_index": 511,
+          "relative_to": {
+            "after": "agents-of-shield-s3",
+            "before": "agents-of-shield-s4"
+          }
+        },
+        "release": {
+          "date": "2016-12-13",
+          "end_date": null,
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "saga": null,
+          "phase": null
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.:_Slingshot"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "agents-of-shield",
+        "kind": "spinoff",
+        "note": "Digital supplement"
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "legion",
+    "title": "Legion",
+    "sort_title": null,
+    "type": "series",
+    "universe": "marvel",
+    "continuity": "fox-x-men",
+    "studio_brand": "marvel-television-division",
+    "label": null,
+    "platform_or_network": "fx",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [
+      "x-men"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Legion (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Legion_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "legion-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "timeline_branch": "original",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Showrunner Hawley: depicts the title character's \"subjective reality\" and would not have to address connections to the films. No in-universe year or placement given.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-02-08",
+          "end_date": "2017-03-29",
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Legion_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "legion-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 11,
+        "runtime_min": null,
+        "timeline_branch": "original",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Showrunner Hawley: depicts the title character's \"subjective reality\" and would not have to address connections to the films. No in-universe year or placement given.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-04-03",
+          "end_date": "2018-06-12",
+          "year": 2018,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Legion_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "legion-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "timeline_branch": "original",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Showrunner Hawley: depicts the title character's \"subjective reality\" and would not have to address connections to the films. No in-universe year or placement given.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-06-24",
+          "end_date": "2019-08-12",
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Legion_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-gifted",
+    "title": "The Gifted",
+    "sort_title": "Gifted",
+    "type": "series",
+    "universe": "marvel",
+    "continuity": "fox-x-men",
+    "studio_brand": "marvel-television-division",
+    "label": null,
+    "platform_or_network": "fox",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [
+      "x-men"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Gifted (American TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Gifted_(American_TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-gifted-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "timeline_branch": "gifted-timeline",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"it is set in an alternate timeline to the X-Men film series where the X-Men have disappeared.\" No year given.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-02",
+          "end_date": "2018-01-15",
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Gifted_(American_TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-gifted-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "timeline_branch": "gifted-timeline",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"it is set in an alternate timeline to the X-Men film series where the X-Men have disappeared.\" No year given.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-25",
+          "end_date": "2019-02-26",
+          "year": 2018,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Gifted_(American_TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "avengers-assemble",
+    "title": "Avengers Assemble",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-disney-xd",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "iron-man",
+      "captain-america",
+      "thor",
+      "hulk",
+      "black-widow",
+      "hawkeye"
+    ],
+    "franchises": [
+      "avengers"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Avengers Assemble (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avengers_Assemble_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "avengers-assemble-series",
+        "label": "Series (seasons 1–5)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 127,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–5)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order (shared Disney XD continuity).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-05-26",
+          "end_date": "2019-02-24",
+          "year": 2013,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Avengers_Assemble_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "guardians-of-the-galaxy-animated",
+    "title": "Guardians of the Galaxy (animated series)",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-disney-xd",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "star-lord",
+      "groot"
+    ],
+    "franchises": [
+      "guardians-of-the-galaxy"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Guardians of the Galaxy (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "guardians-of-the-galaxy-animated-series",
+        "label": "Series (seasons 1–3)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 79,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–3)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"features the same main characters as the film of the same name, although it is not a part of the Marvel Cinematic Universe.\"",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-05",
+          "end_date": "2019-06-09",
+          "year": 2015,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "spider-man-2017-animated",
+    "title": "Spider-Man (2017 animated series)",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-disney-xd",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "spider-man"
+    ],
+    "franchises": [
+      "spider-man-franchise"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Spider-Man (2017 TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spider-Man_(2017_TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "spider-man-2017-animated-series",
+        "label": "Series (seasons 1–3)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 58,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–3)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order (shared Disney XD continuity).",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-08-19",
+          "end_date": "2020-10-25",
+          "year": 2017,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Spider-Man_(2017_TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "marvel-anime-iron-man",
+    "title": "Marvel Anime: Iron Man",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-anime",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "animax",
+    "canon_tier": "core",
+    "characters": [
+      "iron-man"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Marvel Anime",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Anime"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "marvel-anime-iron-man-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "One of four 12-episode Madhouse series; release order.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-10-01",
+          "end_date": "2010-12-17",
+          "year": 2010,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Marvel_Anime"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "marvel-anime-wolverine",
+    "title": "Marvel Anime: Wolverine",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-anime",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "animax",
+    "canon_tier": "core",
+    "characters": [
+      "wolverine"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Marvel Anime",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Anime"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "marvel-anime-wolverine-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "One of four 12-episode Madhouse series; release order.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-01-07",
+          "end_date": "2011-03-25",
+          "year": 2011,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Marvel_Anime"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "marvel-anime-x-men",
+    "title": "Marvel Anime: X-Men",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-anime",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "animax",
+    "canon_tier": "core",
+    "characters": [
+      "professor-x",
+      "wolverine"
+    ],
+    "franchises": [
+      "x-men"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Marvel Anime",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Anime"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "marvel-anime-x-men-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "One of four 12-episode Madhouse series; release order.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-04-01",
+          "end_date": "2011-06-24",
+          "year": 2011,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Marvel_Anime"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "marvel-anime-blade",
+    "title": "Marvel Anime: Blade",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-anime",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "animax",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Marvel Anime",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Anime"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "marvel-anime-blade-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "One of four 12-episode Madhouse series; release order.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-07-01",
+          "end_date": "2011-09-16",
+          "year": 2011,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Marvel_Anime"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "spidey-and-his-amazing-friends",
+    "title": "Spidey and His Amazing Friends",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "spidey-friends",
+    "studio_brand": "marvel-studios",
+    "label": "marvel-studios-animation",
+    "platform_or_network": "disney-jr",
+    "canon_tier": "core",
+    "characters": [
+      "spider-man"
+    ],
+    "franchises": [
+      "spider-man-franchise"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Spidey and His Amazing Friends",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "spidey-and-his-amazing-friends-series",
+        "label": "Series (seasons 1–5)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 113,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–5)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Preschool series; release order.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-08-06",
+          "end_date": null,
+          "year": 2021,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "iron-man-and-his-awesome-friends",
+    "title": "Iron Man and His Awesome Friends",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "spidey-friends",
+    "studio_brand": "marvel-studios",
+    "label": "marvel-studios-animation",
+    "platform_or_network": "disney-jr",
+    "canon_tier": "core",
+    "characters": [
+      "iron-man"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Iron Man and His Awesome Friends",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Iron_Man_and_His_Awesome_Friends"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "iron-man-and-his-awesome-friends-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 36,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"Produced by Marvel Studios Animation and Atomic Cartoons as a spin-off of Spidey and His Amazing Friends\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-08-11",
+          "end_date": null,
+          "year": 2025,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Iron_Man_and_His_Awesome_Friends"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "spidey-and-his-amazing-friends",
+        "kind": "spinoff",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-super-hero-squad-show",
+    "title": "The Super Hero Squad Show",
+    "sort_title": "Super Hero Squad Show",
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [
+      "avengers"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Super Hero Squad Show",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Super_Hero_Squad_Show"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-super-hero-squad-show-series",
+        "label": "Series (seasons 1–2)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–2)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-14",
+          "end_date": "2011-10-14",
+          "year": 2009,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Super_Hero_Squad_Show"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "iron-man-armored-adventures",
+    "title": "Iron Man: Armored Adventures",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "nicktoons",
+    "canon_tier": "core",
+    "characters": [
+      "iron-man"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Iron Man: Armored Adventures",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Iron_Man:_Armored_Adventures"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "iron-man-armored-adventures-series",
+        "label": "Series (seasons 1–2)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–2)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-04-24",
+          "end_date": "2012-07-25",
+          "year": 2009,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Iron_Man:_Armored_Adventures"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "wolverine-and-the-x-men",
+    "title": "Wolverine and the X-Men",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "nicktoons",
+    "canon_tier": "core",
+    "characters": [
+      "wolverine",
+      "professor-x"
+    ],
+    "franchises": [
+      "x-men"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Wolverine and the X-Men (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wolverine_and_the_X-Men_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "wolverine-and-the-x-men-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-01-23",
+          "end_date": "2009-11-29",
+          "year": 2009,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Wolverine_and_the_X-Men_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-avengers-earths-mightiest-heroes",
+    "title": "The Avengers: Earth's Mightiest Heroes",
+    "sort_title": "Avengers: Earth's Mightiest Heroes",
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "iron-man",
+      "captain-america",
+      "thor",
+      "hulk"
+    ],
+    "franchises": [
+      "avengers"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Avengers: Earth's Mightiest Heroes",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Avengers:_Earth's_Mightiest_Heroes"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-avengers-earths-mightiest-heroes-series",
+        "label": "Series (seasons 1–2)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–2)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-22",
+          "end_date": "2012-11-11",
+          "year": 2010,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Avengers:_Earth's_Mightiest_Heroes"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "ultimate-spider-man",
+    "title": "Ultimate Spider-Man",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "spider-man",
+      "nick-fury"
+    ],
+    "franchises": [
+      "spider-man-franchise",
+      "shield"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultimate Spider-Man (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultimate_Spider-Man_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultimate-spider-man-series",
+        "label": "Series (seasons 1–4)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 104,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–4)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-04-01",
+          "end_date": "2017-01-07",
+          "year": 2012,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultimate_Spider-Man_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "hulk-and-the-agents-of-smash",
+    "title": "Hulk and the Agents of S.M.A.S.H.",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "hulk",
+      "she-hulk"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Hulk and the Agents of S.M.A.S.H.",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hulk_and_the_Agents_of_S.M.A.S.H."
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "hulk-and-the-agents-of-smash-series",
+        "label": "Series (seasons 1–2)",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (seasons 1–2)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-08-11",
+          "end_date": "2015-06-28",
+          "year": 2013,
+          "note": "Series-level dates from the article infobox; per-season split is a TODO."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hulk_and_the_Agents_of_S.M.A.S.H."
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "moon-girl-and-devil-dinosaur",
+    "title": "Moon Girl and Devil Dinosaur",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-animation-inc",
+    "label": null,
+    "platform_or_network": "disney-channel",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Moon Girl and Devil Dinosaur",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moon_Girl_and_Devil_Dinosaur"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "moon-girl-and-devil-dinosaur-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-02-10",
+          "end_date": "2023-05-06",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Moon_Girl_and_Devil_Dinosaur"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "moon-girl-and-devil-dinosaur-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone continuity; listed by release.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-02-02",
+          "end_date": "2025-03-08",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Moon_Girl_and_Devil_Dinosaur"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "modok",
+    "title": "M.O.D.O.K.",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-television-division",
+    "label": null,
+    "platform_or_network": "hulu",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "M.O.D.O.K. (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/M.O.D.O.K._(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "modok-series",
+        "label": "Series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Reviews describe it as \"outside the Marvel Cinematic Universe\"; standalone.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-05-21",
+          "end_date": null,
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/M.O.D.O.K._(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "hit-monkey",
+    "title": "Hit-Monkey",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "marvel",
+    "continuity": "marvel-animation-standalone",
+    "studio_brand": "marvel-television-division",
+    "label": null,
+    "platform_or_network": "hulu",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Hit-Monkey (TV series)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "hit-monkey-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone adult animated series; listed by release.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-11-17",
+          "end_date": null,
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "hit-monkey-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Standalone adult animated series; listed by release.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-07-15",
+          "end_date": null,
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
   }
 ]

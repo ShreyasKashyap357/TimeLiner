@@ -47,7 +47,7 @@
   },
   {
     "id": "marvel-animation",
-    "label": "Marvel Animation",
+    "label": "Marvel Animation (Marvel Studios label, 2024–)",
     "short_label": "Marvel Animation",
     "kind": "label",
     "parent": "marvel-studios",
@@ -156,5 +156,18 @@
     "group": null,
     "active": null,
     "note": ""
+  },
+  {
+    "id": "marvel-animation-inc",
+    "label": "Marvel Animation (production company, 2008–)",
+    "short_label": "Marvel Animation (co.)",
+    "kind": "studio",
+    "parent": null,
+    "group": "Marvel Animation",
+    "active": {
+      "from": 2008,
+      "to": null
+    },
+    "note": "The company whose production library Wikipedia's \"Marvel Animation\" article lists (Disney XD era and earlier). Not the same as the 2024 Marvel Studios \"Marvel Animation\" label."
   }
 ]

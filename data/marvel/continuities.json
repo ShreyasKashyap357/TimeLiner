@@ -18,6 +18,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": true
       },
       {
@@ -28,6 +29,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       },
       {
@@ -38,6 +40,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       },
       {
@@ -48,6 +51,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       },
       {
@@ -58,6 +62,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       },
       {
@@ -68,6 +73,7 @@
         "placeable": false,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       },
       {
@@ -78,6 +84,7 @@
         "placeable": false,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       }
     ],
@@ -207,6 +214,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": true
       },
       {
@@ -219,6 +227,18 @@
         "diverges_at": {
           "y": 1973
         },
+        "merges_into": null,
+        "is_main": false
+      },
+      {
+        "id": "gifted-timeline",
+        "label": "The Gifted (alternate timeline)",
+        "marker": "square",
+        "description": "The Gifted \"is set in an alternate timeline to the X-Men film series where the X-Men have disappeared.\"",
+        "placeable": true,
+        "parent": "original",
+        "diverges_at": null,
+        "merges_into": null,
         "is_main": false
       }
     ],
@@ -249,6 +269,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": true
       }
     ],
@@ -279,6 +300,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": true
       }
     ],
@@ -309,6 +331,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": true
       }
     ],
@@ -339,6 +362,7 @@
         "placeable": true,
         "parent": null,
         "diverges_at": null,
+        "merges_into": null,
         "is_main": true
       }
     ],
@@ -348,6 +372,132 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series",
       "https://en.wikipedia.org/wiki/X-Men_'97"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvel-disney-xd",
+    "universe": "marvel",
+    "name": "Marvel Disney XD animated continuity",
+    "short_name": "Disney XD",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Avengers Assemble, Guardians of the Galaxy (TV) and Spider-Man (2017).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spider-Man_(2017_TV_series)"
+    ],
+    "notes": "Spider-Man (2017): \"The series' incarnation of Spider-Man makes guest appearances in Guardians of the Galaxy and the fifth season of Avengers Assemble, which are set in the same continuity.\" Whether Ultimate Spider-Man and Hulk and the Agents of S.M.A.S.H. share it is not stated in the fetched sources, so they are in the standalone collection."
+  },
+  {
+    "id": "marvel-anime",
+    "universe": "marvel",
+    "name": "Marvel Anime",
+    "short_name": "Marvel Anime",
+    "order": 8,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Madhouse's four 12-episode series (2010–2011).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Anime"
+    ],
+    "notes": "\"It will create an entire parallel universe for Marvel\" (Simon Philips, Marvel International)."
+  },
+  {
+    "id": "spidey-friends",
+    "universe": "marvel",
+    "name": "Spidey and His Amazing Friends",
+    "short_name": "Spidey",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Disney Jr. preschool series and its spin-off.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends",
+      "https://en.wikipedia.org/wiki/Iron_Man_and_His_Awesome_Friends"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvel-animation-standalone",
+    "universe": "marvel",
+    "name": "Other Marvel animated and adult animated series",
+    "short_name": "Other animation",
+    "order": 10,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Each series is its own continuity; listed by release.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Animation",
+      "https://en.wikipedia.org/wiki/Marvel_Television"
     ],
     "notes": ""
   }

@@ -88,6 +88,8 @@ export const Branch = z.object({
   placeable: z.boolean().default(true), // false: units live in a "no fixed point" lane
   parent: slug.nullable().default(null),
   diverges_at: PartialDate.nullable().default(null),
+  /** Branch ceases and continues as another branch (e.g. Arrowverse Earths merging into Earth-Prime at Crisis). */
+  merges_into: z.object({ branch: slug, at: PartialDate.nullable(), note: z.string().default('') }).nullable().default(null),
   is_main: z.boolean().default(false),
 });
 export const AltOrder = z.object({
@@ -188,8 +190,9 @@ export const Title = z.object({
   notes: z.string().default(''),
   units: z.array(Unit).min(1),
   links: z.array(TitleLink).default([]),
-  /** crossover-event only: unit ids (owned by other titles) that make up the event. */
-  constituents: z.array(z.string()).default([]),
+  /** crossover-event only: parts owned by other titles. Either a unit id (whole unit) or
+   *  "<unit id>#e<episode>" for one episode inside a season unit (e.g. "arrow-s8#e8"). */
+  constituents: z.array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*(#e\d+)?$/)).default([]),
 });
 
 export const UniversesFile = z.array(Universe);

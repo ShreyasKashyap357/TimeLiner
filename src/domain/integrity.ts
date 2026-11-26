@@ -66,7 +66,10 @@ export function checkIntegrity(ds: Dataset, today: string): Issue[] {
     for (const s of c.grouping_schemes) if (!u.grouping_schemes.some((g) => g.id === s)) err('ref-scheme', c.id, `grouping scheme "${s}" not declared on universe`);
     const bids = new Set(c.branches.map((b) => b.id));
     if (c.branches.filter((b) => b.is_main).length !== 1) err('branch-main', c.id, 'exactly one branch must have is_main');
-    for (const b of c.branches) if (b.parent && !bids.has(b.parent)) err('ref-branch-parent', `${c.id}/${b.id}`, `parent "${b.parent}" missing`);
+    for (const b of c.branches) {
+      if (b.parent && !bids.has(b.parent)) err('ref-branch-parent', `${c.id}/${b.id}`, `parent "${b.parent}" missing`);
+      if (b.merges_into && !bids.has(b.merges_into.branch)) err('ref-branch-merge', `${c.id}/${b.id}`, `merges_into "${b.merges_into.branch}" missing`);
+    }
     for (const a of c.alt_orders) {
       const seen = new Set<string>();
       for (const id of a.unit_ids) {
@@ -106,7 +109,13 @@ export function checkIntegrity(ds: Dataset, today: string): Issue[] {
     for (const l of t.links) if (!titles.has(l.to)) err('ref-link', where, `link to unknown title "${l.to}"`);
     if (t.type === 'crossover-event') {
       if (!t.constituents.length) err('crossover-empty', where, 'crossover-event without constituents');
-      for (const id of t.constituents) if (!units.has(id)) err('ref-constituent', where, `constituent unit "${id}" missing`);
+      for (const ref of t.constituents) {
+        const [uid, ep] = ref.split('#e');
+        const x = units.get(uid!);
+        if (!x) err('ref-constituent', where, `constituent unit "${uid}" missing`);
+        else if (x.t.continuity !== t.continuity) err('constituent-continuity', where, `constituent "${uid}" is in ${x.t.continuity}, event is in ${t.continuity}`);
+        else if (ep && x.u.episode_count && Number(ep) > x.u.episode_count) err('constituent-episode', where, `episode ${ep} exceeds ${uid} episode_count ${x.u.episode_count}`);
+      }
     } else if (t.constituents.length) warn('constituents-non-event', where, 'constituents on a non-crossover title');
     if (t.units.length && t.status !== 'released' && t.units.some((x) => x.status === 'released')) warn('status-rollup', where, 'title status not released but a unit is');
 

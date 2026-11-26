@@ -177,7 +177,8 @@ export function connections(rows: Row[], ds: Dataset): { nodes: { id: string; la
   const edges: Edge[] = [];
   for (const t of titles) {
     for (const l of t.links) if (titleIds.has(l.to)) edges.push({ from: l.to, to: t.id, kind: l.kind, note: l.note });
-    for (const c of t.constituents) {
+    for (const ref of t.constituents) {
+      const c = ref.split('#e')[0];
       const owner = ds.titles.find((x) => x.units.some((u) => u.id === c));
       if (owner && titleIds.has(owner.id)) edges.push({ from: owner.id, to: t.id, kind: 'crossover', note: '' });
     }

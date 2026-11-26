@@ -27,7 +27,7 @@ export const MARVEL_UNIVERSE: Universe = {
 
 const ordered = (id: string, name: string, short: string, order: number, description: string, sources: string[]): Continuity => ({
   id, universe: 'marvel', name, short_name: short, order, kind: 'shared', calendar: { kind: 'ordered-only' },
-  branches: [{ id: 'main', label: 'Main', marker: 'dot', description: '', placeable: true, parent: null, diverges_at: null, is_main: true }],
+  branches: [{ id: 'main', label: 'Main', marker: 'dot', description: '', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: true }],
   grouping_schemes: [], alt_orders: [], description, source_urls: sources.map((s) => W + s), notes: '',
 });
 
@@ -40,13 +40,13 @@ export const MARVEL_CONTINUITIES: Continuity[] = [
     source_urls: [W + 'Marvel_Cinematic_Universe_timeline', W + 'Marvel_Cinematic_Universe'],
     notes: 'Other realities that Wikipedia places at a set timeframe are branches. Titles with no set timeframe are on non-placeable branches.',
     branches: [
-      { id: 'sacred-timeline', label: 'Sacred Timeline', marker: 'dot', description: "Occurs on the MCU's Sacred Timeline (Earth-616).", placeable: true, parent: null, diverges_at: null, is_main: true },
-      { id: 'earth-828', label: 'Earth-828', marker: 'diamond', description: 'The Fantastic Four: First Steps reality.', placeable: true, parent: null, diverges_at: null, is_main: false },
-      { id: 'earth-10005', label: 'Earth-10005 / the Void', marker: 'diamond', description: "Deadpool & Wolverine. Earth-10005 is Marvel's designation for the Fox X-Men film universe.", placeable: true, parent: null, diverges_at: null, is_main: false },
-      { id: 'earth-86445', label: 'Earth-86445', marker: 'diamond', description: 'Your Friendly Neighborhood Spider-Man reality.', placeable: true, parent: null, diverges_at: null, is_main: false },
-      { id: 'zombies-reality', label: 'Zombies reality', marker: 'diamond', description: 'Reality of What If...? "What If... Zombies?!" (Marvel Zombies).', placeable: true, parent: null, diverges_at: null, is_main: false },
-      { id: 'outside-time', label: 'Outside time (TVA)', marker: 'hollow-square', description: 'Outside the timeline with no set timeframe (Loki).', placeable: false, parent: null, diverges_at: null, is_main: false },
-      { id: 'multiverse', label: 'Multiverse (no set timeframe)', marker: 'hollow-diamond', description: 'Alternate realities with no set timeframe (What If...?).', placeable: false, parent: null, diverges_at: null, is_main: false },
+      { id: 'sacred-timeline', label: 'Sacred Timeline', marker: 'dot', description: "Occurs on the MCU's Sacred Timeline (Earth-616).", placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: true },
+      { id: 'earth-828', label: 'Earth-828', marker: 'diamond', description: 'The Fantastic Four: First Steps reality.', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: false },
+      { id: 'earth-10005', label: 'Earth-10005 / the Void', marker: 'diamond', description: "Deadpool & Wolverine. Earth-10005 is Marvel's designation for the Fox X-Men film universe.", placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: false },
+      { id: 'earth-86445', label: 'Earth-86445', marker: 'diamond', description: 'Your Friendly Neighborhood Spider-Man reality.', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: false },
+      { id: 'zombies-reality', label: 'Zombies reality', marker: 'diamond', description: 'Reality of What If...? "What If... Zombies?!" (Marvel Zombies).', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: false },
+      { id: 'outside-time', label: 'Outside time (TVA)', marker: 'hollow-square', description: 'Outside the timeline with no set timeframe (Loki).', placeable: false, parent: null, diverges_at: null, merges_into: null, is_main: false },
+      { id: 'multiverse', label: 'Multiverse (no set timeframe)', marker: 'hollow-diamond', description: 'Alternate realities with no set timeframe (What If...?).', placeable: false, parent: null, diverges_at: null, merges_into: null, is_main: false },
     ],
   },
   {
@@ -56,8 +56,8 @@ export const MARVEL_CONTINUITIES: Continuity[] = [
     source_urls: [W + 'X-Men_(film_series)'],
     notes: "Wikipedia: continuity 'is not uniform'. Deadpool films, Logan and The New Mutants are flagged disputed.",
     branches: [
-      { id: 'original', label: 'Original timeline', marker: 'dot', description: 'Through X-Men: Days of Future Past (future).', placeable: true, parent: null, diverges_at: null, is_main: true },
-      { id: 'revised', label: 'Revised timeline', marker: 'triangle', description: 'Created in 1973 by Days of Future Past.', placeable: true, parent: 'original', diverges_at: { y: 1973 }, is_main: false },
+      { id: 'original', label: 'Original timeline', marker: 'dot', description: 'Through X-Men: Days of Future Past (future).', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: true },
+      { id: 'revised', label: 'Revised timeline', marker: 'triangle', description: 'Created in 1973 by Days of Future Past.', placeable: true, parent: 'original', diverges_at: { y: 1973 }, merges_into: null, is_main: false },
     ],
   },
   ordered('ssu', "Sony's Spider-Man Universe", 'SSU', 3, "Sony's live-action films built around Spider-Man characters (2018–2024).", ["Sony's_Spider-Man_Universe"]),

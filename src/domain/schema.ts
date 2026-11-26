@@ -126,7 +126,7 @@ export const Continuity = z.object({
 
 // ---------- Title & Unit ----------
 // Screen types, then print types (novel … reference). Medium is derived from the type (see model.ts MEDIUM_OF).
-export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 're-edit', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference']);
+export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 're-edit', 'motion-comic', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference']);
 export const CanonTier = z.enum(['core', 'outside-set-date', 'multiverse-variant', 'adjacent', 'non-placeable']);
 export const Status = z.enum(['released', 'upcoming', 'cancelled', 'in-production']);
 export const Precision = z.enum(['exact', 'year', 'approx', 'range', 'relative']);

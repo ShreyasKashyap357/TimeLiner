@@ -35,7 +35,7 @@ export interface Row {
   search: string; // lower-cased haystack
 }
 
-const ANIMATED: TitleType[] = ['animated-series', 'animated-film'];
+const ANIMATED: TitleType[] = ['animated-series', 'animated-film', 'motion-comic'];
 export const PRINT_TYPES: TitleType[] = ['novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference'];
 export const mediumOf = (t: TitleType): 'screen' | 'print' => (PRINT_TYPES.includes(t) ? 'print' : 'screen');
 /** Verb for marking a unit done, by medium. */

@@ -114,7 +114,7 @@ export function fromQuery(qs: string, fallbackUniverse: string, fallbackContinui
 
 // ---- predicate
 const MOVIE_TYPES: TitleType[] = ['film', 'one-shot', 'special', 'animated-film', 're-edit'];
-const SERIES_TYPES: TitleType[] = ['series', 'animated-series', 'crossover-event'];
+const SERIES_TYPES: TitleType[] = ['series', 'animated-series', 'motion-comic', 'crossover-event'];
 
 export function quickMatches(r: Row, q: Quick): boolean {
   if (q === 'movies') return MOVIE_TYPES.includes(r.type);

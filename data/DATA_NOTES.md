@@ -431,3 +431,21 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
 - **Unplaced:** *Ahsoka* S2 (2027-01-20), *Maul – Shadow Lord* S2 (2027), and *Starfighter* (2027-05-28; "set five years after … The Rise of Skywalker") stay unplaced until release, as for Marvel.
 - **Not added:** the books, comics and games (D-18); *Forces of Destiny* is one relative entry because its shorts span eras; Rebels' pilot film and shorts are noted on S1.
 - **Not verified:** Wookieepedia pages were read by a research agent and are cited, not cached. Episode counts for Rebels S4 conflict (16 vs 15).
+
+## Additions after the combined decisions (2026-11-27)
+
+- **Recommended MCU order for new viewers (D-14, R-25).** The guides consulted: Popverse (2026-04-06), SuperHeroHype (2026-06-15), JustWatch (2026-03-17), Screen Rant reporting the official Disney+ "Doomsday" list (2026-08-16), Rotten Tomatoes (2026-11-13), and Screen Rant's Doomsday guide (2026-05-03).
+  - **Method:** release order as the backbone. A change of order needed support from at least two guides, and none had it (every reordering came from SuperHeroHype alone).
+  - **Essentials:** a unit is an essential when at least two of the five selective guides recommend it; the other 81 are optional. SuperHeroHype lists nearly everything, so it is recorded but not counted.
+  - **Left out:** unreleased titles, and the Fox X-Men films that Disney+ recommends (they belong to another continuity).
+  - **Could not be read:** IGN, Polygon, The Verge, Esquire and Reddit blocked automated fetching.
+- **Word counts (D-31).** Wheel of Time (15) and ASOIAF 1–5 come from Wikipedia's book tables (pinned oldids), which cite Accelerated Reader BookFinder. *The Princess and the Queen* uses George R. R. Martin's "30,000 word novella", an approximate figure. Where another source differs, the unit note says so; the biggest gap is *The Shadow Rising* (341,730 vs The Wertzone's 386,000). The Dunk & Egg novellas, *Fire & Blood* and the companions have no reliable count and stay blank. Reading time in the UI assumes 250 words per minute.
+- **Toho US re-edits (D-32).** Seven titles, type `re-edit`, in the collection `toho-us-versions` (tier adjacent), each linked to its original with `re-edit-of`.
+  - The four "localized" re-edits come from the Godzilla (franchise) table. *Godzilla vs. the Thing* and *Ghidrah* are what Wikipedia calls "American versions" (lighter cuts). *Godzilla 2000* is the TriStar re-edit and dub.
+  - US release dates: 1956, 1963 and 1964 are single-city premieres (noted). *Gigantis* is 1959-05-21, with 1959-06-02 also reported.
+  - Dub-only US releases are not listed.
+- **Marvel Specials (D-15, D-30).** 48 titles in `marvel-specials` (standalone collection), each tagged with an Origin from Wikipedia at pinned revisions: Marvel Animated Features, Marvel Knights motion comics (new type `motion-comic`), anime films, Heroes United, Hulk: Where Monsters Dwell, Marvel Super Hero Adventures, Marvel Rising, LEGO Marvel, and *Phineas and Ferb: Mission Marvel*.
+  - 10 titles are dated to the year only (9 LEGO titles and *Frost Fight!*), so no day was invented.
+  - *Marvel Rising: Heart of Iron* has two dates (2019-04-03 vs 03-31); the article's date is used.
+  - For the YouTube specials, the public release date is used rather than the convention premiere.
+- **Calendar notes (D-21, D-22).** Every era calendar now says in the Key how its years count and whether it has a year 0.

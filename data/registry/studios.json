@@ -489,5 +489,55 @@
     "group": null,
     "active": null,
     "note": ""
+  },
+  {
+    "id": "lionsgate-mlg",
+    "label": "Lionsgate / MLG Productions",
+    "short_label": "Lionsgate",
+    "kind": "distributor",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": "Marvel Animated Features (2006–2011): produced by MLG Productions, released by Lionsgate Home Entertainment."
+  },
+  {
+    "id": "marvel-knights-animation",
+    "label": "Marvel Knights Animation",
+    "short_label": "Marvel Knights Animation",
+    "kind": "label",
+    "parent": "marvel-animation",
+    "group": null,
+    "active": null,
+    "note": "Motion comics, 2009–2015."
+  },
+  {
+    "id": "madhouse",
+    "label": "Madhouse (with Marvel Entertainment)",
+    "short_label": "Madhouse",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "the-lego-group",
+    "label": "The Lego Group (with Marvel)",
+    "short_label": "LEGO",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "disney-television-animation",
+    "label": "Disney Television Animation",
+    "short_label": "Disney TVA",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
   }
 ]

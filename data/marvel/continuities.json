@@ -193,7 +193,6 @@
       {
         "id": "recommended",
         "label": "Recommended for new viewers",
-        "kind": "recommended",
         "source_url": "https://www.thepopverse.com/marvel-movies-in-order-mcu-cinematic-universe-studios-chronological-release",
         "as_of": "2026-11-26",
         "note": "Release order (no reordering had support from two or more guides). Entries at least two of the selective guides recommend are essentials; the rest are marked optional. Unreleased titles are not included.",
@@ -303,6 +302,7 @@
           "spider-man-brand-new-day",
           "visionquest-s1"
         ],
+        "kind": "recommended",
         "optional_unit_ids": [
           "the-incredible-hulk",
           "iron-man-2",
@@ -730,6 +730,47 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Marvel_Animation",
       "https://en.wikipedia.org/wiki/Marvel_Television"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvel-specials",
+    "universe": "marvel",
+    "name": "Specials (animated features, motion comics, anime, LEGO…)",
+    "short_name": "Specials",
+    "order": 11,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "origin"
+    ],
+    "alt_orders": [],
+    "description": "Marvel animated films and specials outside the MCU and the other screen continuities. Each stands alone; use the Origin filter to pick a line (LEGO, Marvel Knights, anime…).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Animated_Features",
+      "https://en.wikipedia.org/wiki/Marvel_Animation#Marvel_Knights_Animation",
+      "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
+      "https://en.wikipedia.org/wiki/Heroes_United",
+      "https://en.wikipedia.org/wiki/Marvel_Animation#Direct-to-video_films",
+      "https://en.wikipedia.org/wiki/Marvel_Super_Hero_Adventures",
+      "https://en.wikipedia.org/wiki/Marvel_Rising",
+      "https://en.wikipedia.org/wiki/Lego_Super_Heroes",
+      "https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Mission_Marvel"
     ],
     "notes": ""
   }

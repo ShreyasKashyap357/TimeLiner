@@ -78,6 +78,67 @@
             "parent": null
           }
         ]
+      },
+      {
+        "id": "origin",
+        "label": "Origin",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "marvel-animated-features",
+            "label": "Marvel Animated Features (Lionsgate)",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "marvel-knights-animation",
+            "label": "Marvel Knights Animation (motion comics)",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "marvel-anime",
+            "label": "Marvel Anime (Madhouse films)",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "heroes-united",
+            "label": "Heroes United (Marvel Animation)",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "marvel-animation-dtv",
+            "label": "Marvel Animation direct-to-video",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "marvel-super-hero-adventures",
+            "label": "Marvel Super Hero Adventures",
+            "order": 6,
+            "parent": null
+          },
+          {
+            "id": "marvel-rising",
+            "label": "Marvel Rising",
+            "order": 7,
+            "parent": null
+          },
+          {
+            "id": "lego",
+            "label": "LEGO Marvel",
+            "order": 8,
+            "parent": null
+          },
+          {
+            "id": "marvel-crossover-specials",
+            "label": "Crossover specials",
+            "order": 9,
+            "parent": null
+          }
+        ]
       }
     ],
     "data_dir": "marvel",

@@ -19,7 +19,7 @@ const TIER_TEXT: Record<string, { label: string; help: string }> = {
   'non-placeable': { label: 'Non-placeable', help: 'No fixed point in the timeline' },
 };
 const TYPE_TEXT: Record<string, string> = {
-  film: 'Film', series: 'Series', 'one-shot': 'One-Shot', special: 'Special', 'animated-series': 'Animated series', 'animated-film': 'Animated film', 're-edit': 'Re-edit (US version)', 'crossover-event': 'Crossover event', novel: 'Novel', novella: 'Novella', 'short-story': 'Short story', anthology: 'Anthology', comic: 'Comic', 'graphic-novel': 'Graphic novel', reference: 'Reference / lore book',
+  film: 'Film', series: 'Series', 'one-shot': 'One-Shot', special: 'Special', 'animated-series': 'Animated series', 'animated-film': 'Animated film', 're-edit': 'Re-edit (US version)', 'motion-comic': 'Motion comic', 'crossover-event': 'Crossover event', novel: 'Novel', novella: 'Novella', 'short-story': 'Short story', anthology: 'Anthology', comic: 'Comic', 'graphic-novel': 'Graphic novel', reference: 'Reference / lore book',
 };
 
 function toggleIn<T>(list: T[], v: T, on: boolean): T[] {
@@ -95,15 +95,24 @@ export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOption
       studioOpts.push({ id: s.id, label: s.label, count: studios.get(s.id)! });
     }
     const u = ds.universes.find((x) => x.id === state.u);
-    const groupingOpts = (u?.grouping_schemes ?? []).flatMap((g) => [...g.values].sort((a, b) => a.order - b.order)
-      .filter((v) => groupVals.has(v.id)).map((v) => ({ id: v.id, label: v.label, count: groupVals.get(v.id)!, help: undefined, indent: Boolean(g.parent_scheme) })));
+    // One filter box per top-level grouping scheme (child schemes, e.g. Phase under Saga, join their parent's box),
+    // labelled from the data, so universes can add schemes such as "Origin" without code changes.
+    const schemes = u?.grouping_schemes ?? [];
+    const groupingBoxes = schemes.filter((g) => !g.parent_scheme).map((root) => {
+      const members = [root, ...schemes.filter((g) => g.parent_scheme === root.id)];
+      return {
+        id: root.id, legend: members.map((g) => g.label).join(' / '),
+        options: members.flatMap((g) => [...g.values].sort((a, b) => a.order - b.order)
+          .filter((v) => groupVals.has(v.id)).map((v) => ({ id: v.id, label: v.label, count: groupVals.get(v.id)!, help: undefined, indent: Boolean(g.parent_scheme) }))),
+      };
+    }).filter((b) => b.options.length);
     const cont = ds.continuities.find((c) => c.id === state.c);
     return {
       tiers: Object.keys(TIER_TEXT).filter((t) => tiers.has(t)).map((t) => ({ id: t, label: TIER_TEXT[t]!.label, help: TIER_TEXT[t]!.help, count: tiers.get(t)! })),
       types: Object.keys(TYPE_TEXT).filter((t) => types.has(t)).map((t) => ({ id: t, label: TYPE_TEXT[t]!, count: types.get(t)! })),
       platforms: ds.platforms.filter((p) => platforms.has(p.id)).map((p) => ({ id: p.id, label: p.label, count: platforms.get(p.id)! })),
       studios: studioOpts,
-      groupings: groupingOpts,
+      groupingBoxes,
       status: ['released', 'upcoming', 'in-production', 'cancelled'].filter((s) => status.has(s)).map((s) => ({ id: s, label: s[0]!.toUpperCase() + s.slice(1), count: status.get(s)! })),
       conf: ['stated', 'inferred', 'disputed'].filter((s) => conf.has(s)).map((s) => ({ id: s, label: s[0]!.toUpperCase() + s.slice(1), count: conf.get(s)! })),
       branches: (cont?.branches ?? []).filter((b) => branches.has(b.id)).map((b) => ({ id: b.id, label: b.label, count: branches.get(b.id)! })),
@@ -136,7 +145,11 @@ export function FilterPanel({ scoped, sortOptions }: { scoped: Row[]; sortOption
       <CheckGroup legend="Type" value={state.types} onChange={(v) => set({ types: v as FilterState['types'] })} options={opts.types} />
       <CheckGroup legend="Original platform" value={state.platforms} onChange={(platforms) => set({ platforms })} options={opts.platforms} />
       <CheckGroup legend="Studio / label" value={state.studios} onChange={(studios) => set({ studios })} options={opts.studios} />
-      <CheckGroup legend="Phase / Saga / Chapter" value={state.groupings} onChange={(groupings) => set({ groupings })} options={opts.groupings} />
+      {opts.groupingBoxes.map((b) => {
+        const ids = new Set(b.options.map((o) => o.id));
+        return <CheckGroup key={b.id} legend={b.legend} value={state.groupings.filter((g) => ids.has(g))}
+          onChange={(v) => set({ groupings: [...state.groupings.filter((g) => !ids.has(g)), ...v] })} options={b.options} />;
+      })}
       {opts.branches.length > 1 && <CheckGroup legend="Branch / reality" value={state.branches} onChange={(branches) => set({ branches })} options={opts.branches} />}
       <CheckGroup legend="Status" value={state.status} onChange={(v) => set({ status: v as FilterState['status'] })} options={opts.status} />
       <CheckGroup legend="Date confidence" value={state.conf} onChange={(v) => set({ conf: v as FilterState['conf'] })} options={opts.conf} />

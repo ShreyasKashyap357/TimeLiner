@@ -296,8 +296,8 @@ export function connectionsFor(titleId: string, ds: Pick<Dataset, 'titles'>): Ti
 
 /** Human phrasing of a connection from the viewpoint of the current title. */
 export function describeConnection(c: TitleConnection): string {
-  const inverse: Record<string, string> = { sequel: 'followed by', continues: 'continued by', spinoff: 'spun off into', crossover: 'crosses over with', cameo: 'has a cameo in', 'feeds-into': 'leads into', remake: 'remade as', 'shares-characters': 'shares characters with', adapts: 'adapted as' };
-  const forward: Record<string, string> = { sequel: 'sequel to', continues: 'continues', spinoff: 'spin-off of', crossover: 'crosses over with', cameo: 'cameo from', 'feeds-into': 'follows on from', remake: 'remake of', 'shares-characters': 'shares characters with', adapts: 'adapts' };
+  const inverse: Record<string, string> = { sequel: 'followed by', continues: 'continued by', spinoff: 'spun off into', crossover: 'crosses over with', cameo: 'has a cameo in', 'feeds-into': 'leads into', remake: 'remade as', 'shares-characters': 'shares characters with', adapts: 'adapted as', 're-edit-of': 're-edited as' };
+  const forward: Record<string, string> = { sequel: 'sequel to', continues: 'continues', spinoff: 'spin-off of', crossover: 'crosses over with', cameo: 'cameo from', 'feeds-into': 'follows on from', remake: 'remake of', 'shares-characters': 'shares characters with', adapts: 'adapts', 're-edit-of': 're-edit of' };
   if (c.direction === 'event') return c.kind;
   return (c.direction === 'from-this' ? forward : inverse)[c.kind] ?? c.kind;
 }

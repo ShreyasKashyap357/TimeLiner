@@ -19,7 +19,7 @@ const TIER_TEXT: Record<string, { label: string; help: string }> = {
   'non-placeable': { label: 'Non-placeable', help: 'No fixed point in the timeline' },
 };
 const TYPE_TEXT: Record<string, string> = {
-  film: 'Film', series: 'Series', 'one-shot': 'One-Shot', special: 'Special', 'animated-series': 'Animated series', 'animated-film': 'Animated film', 'crossover-event': 'Crossover event', novel: 'Novel', novella: 'Novella', 'short-story': 'Short story', anthology: 'Anthology', comic: 'Comic', 'graphic-novel': 'Graphic novel', reference: 'Reference / lore book',
+  film: 'Film', series: 'Series', 'one-shot': 'One-Shot', special: 'Special', 'animated-series': 'Animated series', 'animated-film': 'Animated film', 're-edit': 'Re-edit (US version)', 'crossover-event': 'Crossover event', novel: 'Novel', novella: 'Novella', 'short-story': 'Short story', anthology: 'Anthology', comic: 'Comic', 'graphic-novel': 'Graphic novel', reference: 'Reference / lore book',
 };
 
 function toggleIn<T>(list: T[], v: T, on: boolean): T[] {

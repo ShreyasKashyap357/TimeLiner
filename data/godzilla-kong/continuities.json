@@ -355,5 +355,36 @@
       "https://en.wikipedia.org/wiki/King_Kong_(franchise)"
     ],
     "notes": ""
+  },
+  {
+    "id": "toho-us-versions",
+    "universe": "godzilla-kong",
+    "name": "US versions of Toho films (re-edits)",
+    "short_name": "US re-edits",
+    "order": 12,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "American re-edited versions released by US distributors. Each tells its original’s story (often with new footage), so it is listed here and linked to the original rather than placed on the Toho timeline. Dub-only US releases are not listed.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Godzilla_(franchise)"
+    ],
+    "notes": ""
   }
 ]

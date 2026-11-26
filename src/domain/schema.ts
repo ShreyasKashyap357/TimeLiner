@@ -126,7 +126,7 @@ export const Continuity = z.object({
 
 // ---------- Title & Unit ----------
 // Screen types, then print types (novel … reference). Medium is derived from the type (see model.ts MEDIUM_OF).
-export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference']);
+export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 're-edit', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference']);
 export const CanonTier = z.enum(['core', 'outside-set-date', 'multiverse-variant', 'adjacent', 'non-placeable']);
 export const Status = z.enum(['released', 'upcoming', 'cancelled', 'in-production']);
 export const Precision = z.enum(['exact', 'year', 'approx', 'range', 'relative']);
@@ -175,7 +175,7 @@ export const Unit = z.object({
 });
 
 // 'adapts': this title adapts the linked one (e.g. a TV season adapts a novel). Adaptations stay separate continuities.
-export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters', 'adapts']);
+export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters', 'adapts', 're-edit-of']);
 export const TitleLink = z.object({ to: slug, kind: LinkKind, note: z.string().default('') });
 
 export const Title = z.object({

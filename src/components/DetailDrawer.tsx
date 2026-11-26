@@ -1,7 +1,7 @@
 import { useEffect, useMemo } from 'react';
 import { useApp } from '@/app/context';
 import { formatRelease } from '@/domain/dates';
-import { connectionsFor, describeConnection } from '@/domain/views';
+import { connectionsFor, describeConnection, readingMinutes } from '@/domain/views';
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
@@ -112,7 +112,7 @@ export function DetailDrawer() {
                 </Field>
                 <Field k={isPrint ? 'Published' : 'Released'}>{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
                   {row.unit.release.note && <p className="text-xs text-muted-foreground">{row.unit.release.note}</p>}</Field>
-                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}</Field>
+                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}{row.unit.word_count ? ` · ${row.unit.word_count.toLocaleString('en-US')} words (about ${Math.round(readingMinutes(row.unit.word_count) / 60)} h at 250 words/min)` : ''}</Field>
                 <Field k={isPrint ? 'First edition' : 'Original platform'}>{label.platform(row.platform)}</Field>
                 <Field k={studio?.kind === 'publisher' || studio?.kind === 'imprint' ? 'Publisher' : 'Studio'}>
                   <span className="flex flex-col gap-0.5">

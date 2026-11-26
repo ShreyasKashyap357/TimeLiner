@@ -24,10 +24,14 @@ export function sortRows(rows: Row[], sort: SortId, opts: { altOrder?: string[];
   }
 }
 
+/** Reading time at an average adult pace of 250 words per minute. */
+export const readingMinutes = (words: number) => Math.round(words / 250);
+
 /** Approximate minutes, for "short watches" sorting. Unknown lengths sort last. */
 export function effectiveLength(r: Row): number {
   if (r.unit.runtime_min) return r.unit.runtime_min;
   if (r.unit.episode_count) return r.unit.episode_count * 45;
+  if (r.unit.word_count) return readingMinutes(r.unit.word_count);
   if (r.unit.pages) return r.unit.pages * 1.5; // rough reading time: ~1.5 min per page
   return Number.MAX_SAFE_INTEGER;
 }

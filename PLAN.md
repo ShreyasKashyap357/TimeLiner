@@ -23,7 +23,16 @@ Why React over Svelte:
 Other choices:
 - **Zod** for the schema. One definition is shared by the app, `scripts/verify-data.ts` and the tests, and JSON Schema files are generated from it for editors.
 - **No charting library.** Views are hand-built HTML/SVG: the spine, swimlanes, the dual-axis scatter and connection arcs. If the connection view needs real graph layout, add `dagre` (small, MIT).
-- **Plain CSS with design tokens** (custom properties). Accent colours come from `universes.json`, not from CSS.
+- **shadcn/ui** (Tailwind CSS + Radix primitives), chosen by the user. Radix provides keyboard navigation and ARIA. shadcn's CSS-variable theming fits the per-universe accents: `--primary` and `--accent` are set at runtime from `universes.json`.
+- Components used:
+  - `Tabs`: views
+  - `Sheet`: detail drawer, and filters on mobile
+  - `Command`: search / ⌘K
+  - `ToggleGroup`: quick toggles
+  - `Select`: universe and continuity pickers
+  - `Popover`, `Checkbox`, `Switch`: filters
+  - `Badge`: confidence and tier
+  - `Progress`, `Tooltip`, `Dialog` (import/export), `Sonner` (toasts)
 - **Data scripts** in TypeScript, run with `tsx`, Node 24.
 
 ## 2. Repo layout
@@ -185,6 +194,37 @@ Cross-continuity appearances (No Way Home, The Flash, Crisis cameos) are **links
 - **Footer**: sources, last-verified date, Wikipedia CC BY-SA attribution, and an unofficial/unaffiliated disclaimer.
 - **No images**: text and inline SVG only.
 
+### 6.1 Sorting and filtering (all stored in the URL)
+
+**Sort / order** (choices depend on the view):
+
+| Sort | Available in | Notes |
+|---|---|---|
+| In-universe chronological | Spine, Dual-axis, Groupings, Character | Within one continuity only, by `order_index` |
+| Release date (asc/desc) | every view | Default for cross-continuity views |
+| Disney+ / official order | Spine (MCU) | Shown only when a continuity defines an alternative order list in data. The MCU has the Disney+ order and *An Official Timeline*. |
+| Title A–Z | lists | |
+| Runtime / episode count | lists | Finds short watches |
+| Unwatched first | every view | For people working through a watch-through |
+
+**Filters:**
+- **Universe**
+- **Continuity** (in-universe views)
+- **Branch**: Sacred Timeline, Earth-828, Earth-10005, outside-time…
+- **Canon tier**: core (default), outside-set-date, multiverse/variant, adjacent (e.g. ABC/Hulu/Freeform Marvel Television), non-placeable
+- **Type**: film, series, one-shot, special, animated series, animated film, crossover event
+- **Quick toggles**: Movies only, Series only, Animated
+- **Studio / brand / label**: Marvel Studios, Marvel Television (the legacy division *and* the 2024 Marvel Studios label, kept distinct), Marvel Animation, Marvel Spotlight, Fox, Sony…
+- **Original platform**: theatrical, Disney+, Netflix, ABC, Hulu, Freeform…
+- **Grouping**: Phase 1–6 and Saga (Infinity, Multiverse)
+- **Status**: released, upcoming, in production, cancelled
+- **In-universe year range** (slider)
+- **Release year range** (slider)
+- **Characters / franchises**: multi-select, e.g. Spider-Man, Defenders, Avengers, X-Men, Guardians
+- **Confidence**: show stated / inferred / disputed placements, to hide or highlight shaky dates
+- **Watched**: all / unwatched / watched
+- **Search** by title, character or alias (⌘K command palette)
+
 ## 7. Scalability: adding universes, multiverses and timelines
 
 Adding a universe should mean adding data, with no app code changes. To make that true beyond Marvel and DC:
@@ -212,6 +252,21 @@ Adding a universe should mean adding data, with no app code changes. To make tha
 
 Marvel and DC stay first, as the brief requires. The schema items above (per-universe folders, registries, calendars, nested branches) are built into Stage 1, so later universes don't force migrations.
 
-## 9. Licensing note
+## 9. Keeping the data current (revision workflow)
+
+1. **Detect.** A scheduled GitHub Action (weekly, plus a manual "run now" button) runs `npm run verify:remote`. It re-fetches every source in `scripts/fetch/sources.ts`, re-parses it, and diffs it against the curated data. If anything changed, it opens or updates a single GitHub issue, "Data drift report", grouped by severity:
+   - **new title found**: a new row in a list or timeline page
+   - **date changed**: a release date moved, or a title moved on the in-universe timeline
+   - **status changed**: e.g. upcoming → released, or cancelled
+   - **source changed, no data impact**: only the revision id moved
+2. **Propose.** `npm run update:propose` writes the mechanical, low-risk changes to a branch and opens a PR: release dates and status of titles already in the data, revision ids, `last_verified`.
+3. **Review by hand.** In-universe placement, new titles, canon tier and continuity changes are never auto-applied. Each needs a human, or a Claude session, to edit the data and add a `DATA_NOTES.md` entry, because "never invent dates / flag uncertainty" can't be automated safely.
+4. **Ship.** Merge, CI runs `verify` and the tests, and Pages redeploys. The footer's "last verified" date comes from the data, not the build date.
+
+**Stability guarantees across revisions:**
+- Unit ids are permanent. If a split changes (e.g. "S1" becomes "S1 ep.1" + "eps 2–9"), the old id goes into an `aliases` map, so people's watched progress migrates instead of vanishing.
+- The cached sources in `data/sources/` (with revision ids) mean every past decision can be re-checked against exactly what the source said at the time.
+
+## 10. Licensing note
 
 Code stays MIT (existing LICENSE). Data derived from Wikipedia and Fandom is CC BY-SA 4.0, so `data/` gets its own `data/LICENSE` (CC BY-SA 4.0) with attribution.

@@ -28,3 +28,9 @@
 - [ ] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)
 - [ ] Stage 6: Star Wars (Canon / Legends, BBY/ABY calendar)
 - [ ] Candidates: Star Trek, Wizarding World, Middle-earth, Alien & Predator, Conjuring, Transformers
+
+## Revision workflow (see PLAN.md §9)
+- [ ] Stage 1: verify-data --refetch produces a drift report (new titles / date / status / revid changes)
+- [ ] Stage 1: `aliases` map in schema for watched-state migration
+- [ ] Stage 2: scheduled GitHub Action (weekly + manual) opening a "Data drift report" issue
+- [ ] Stage 2: update:propose script → PR for mechanical fields only

@@ -57,7 +57,7 @@ export const MARVEL_CONTINUITIES: Continuity[] = [
     notes: "Wikipedia: continuity 'is not uniform'. Deadpool films, Logan and The New Mutants are flagged disputed.",
     branches: [
       { id: 'original', label: 'Original timeline', marker: 'dot', description: 'Through X-Men: Days of Future Past (future).', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: true },
-      { id: 'revised', label: 'Revised timeline', marker: 'triangle', description: 'Created in 1973 by Days of Future Past.', placeable: true, parent: 'original', diverges_at: { y: 1973 }, merges_into: null, is_main: false },
+      { id: 'revised', label: 'Revised timeline', marker: 'diamond', description: 'Created in 1973 by Days of Future Past.', placeable: true, parent: 'original', diverges_at: { y: 1973 }, merges_into: null, is_main: false },
     ],
   },
   ordered('ssu', "Sony's Spider-Man Universe", 'SSU', 3, "Sony's live-action films built around Spider-Man characters (2018–2024).", ["Sony's_Spider-Man_Universe"]),

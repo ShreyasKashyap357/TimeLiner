@@ -66,6 +66,14 @@ export function checkIntegrity(ds: Dataset, today: string): Issue[] {
     for (const s of c.grouping_schemes) if (!u.grouping_schemes.some((g) => g.id === s)) err('ref-scheme', c.id, `grouping scheme "${s}" not declared on universe`);
     const bids = new Set(c.branches.map((b) => b.id));
     if (c.branches.filter((b) => b.is_main).length !== 1) err('branch-main', c.id, 'exactly one branch must have is_main');
+    // markers carry meaning by shape (never colour alone): the main branch's shape is unique to it, and the
+    // triangle is reserved for the adjacent tier. Non-main branches may share a shape when they form one
+    // category (e.g. MCU realities "outside the Sacred Timeline at a set timeframe"); the legend groups them.
+    const main = c.branches.find((b) => b.is_main);
+    for (const b of c.branches) {
+      if (b.marker === 'triangle') err('marker-reserved', `${c.id}/${b.id}`, 'triangle is reserved for the adjacent tier');
+      if (main && b !== main && b.marker === main.marker) err('marker-duplicate', `${c.id}/${b.id}`, `same marker "${b.marker}" as the main branch ${main.id}`);
+    }
     for (const b of c.branches) {
       if (b.parent && !bids.has(b.parent)) err('ref-branch-parent', `${c.id}/${b.id}`, `parent "${b.parent}" missing`);
       if (b.merges_into && !bids.has(b.merges_into.branch)) err('ref-branch-merge', `${c.id}/${b.id}`, `merges_into "${b.merges_into.branch}" missing`);

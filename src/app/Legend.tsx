@@ -5,21 +5,24 @@ import { ConfidenceBadge } from '@/components/Badges';
 
 /** Legend built from what is on screen: every marker shown also has a text meaning. */
 export function Legend({ rows }: { rows: Row[] }) {
-  const { ds, state } = useApp();
-  const seen = new Map<string, Row>();
+  const { state } = useApp();
+  // One entry per marker (shape + colour); branches sharing a marker are listed together.
+  const groups = new Map<string, { row: Row; meanings: string[] }>();
   for (const r of rows) {
-    const k = `${markerShape(r)}|${markerColor(r)}|${markerMeaning(r)}`;
-    if (!seen.has(k)) seen.set(k, r);
+    const k = `${markerShape(r)}|${markerColor(r)}`;
+    const meaning = `${markerMeaning(r)}${state.u === 'all' ? ` (${r.continuity.short_name})` : ''}`;
+    const g = groups.get(k);
+    if (!g) groups.set(k, { row: r, meanings: [meaning] });
+    else if (!g.meanings.includes(meaning)) g.meanings.push(meaning);
   }
-  const cont = ds.continuities.find((c) => c.id === state.c);
   return (
     <section aria-labelledby="legend-h" className="mt-10 border border-border bg-card p-4 text-sm">
       <h2 id="legend-h" className="mb-2 font-semibold">Key</h2>
       <ul className="grid gap-1.5 sm:grid-cols-2">
-        {[...seen.values()].map((r) => (
-          <li key={r.key} className="flex items-center gap-2">
-            <Marker shape={markerShape(r)} color={markerColor(r)} size={14} />
-            <span>{markerMeaning(r)}{r.continuity.id !== cont?.id && state.u === 'all' ? ` (${r.continuity.short_name})` : ''}</span>
+        {[...groups.values()].map((g) => (
+          <li key={g.row.key} className="flex items-start gap-2">
+            <span className="mt-0.5"><Marker shape={markerShape(g.row)} color={markerColor(g.row)} size={14} /></span>
+            <span>{g.meanings.join(' / ')}</span>
           </li>
         ))}
       </ul>

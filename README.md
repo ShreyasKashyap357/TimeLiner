@@ -89,10 +89,13 @@ Nothing is changed automatically. In-universe placements, new titles and tier ch
 
 1. **Sources.** Add the universe's source pages to `scripts/fetch/sources.ts`, then run `npm run fetch:sources -- <universe>`.
 2. **Extractor.** Write `scripts/build/<universe>.ts` using the generic extractors in `scripts/build/extract.ts` (`{{Film overview}}`, `{{Series overview}}`, row-header tables, timeline rows, infoboxes). It produces `data/candidates/<universe>.json`.
-3. **Data.** Create `data/<universe>/` with `continuities.json`, `titles.json`, `tags.json` and `aliases.json` (`{}`). Start from a seed and bootstrap script like `scripts/bootstrap/marvel.*`, or write the files by hand. Add any new studios/platforms to `data/registry/*.json`.
-4. **Register.** Add the universe to `data/universes.json`: id, name, `accent` colours, `default_continuity`, `grouping_schemes` (e.g. DC's Chapters), `data_dir`, and `enabled: true`.
-5. **Verify.** Run `npm run verify` and fix every error. Record every judgement call in `data/DATA_NOTES.md`.
-6. **Done.** No app code changes are needed. The universe switcher, accent colour, continuity picker, filters and all nine views pick the new universe up from the data. Add a test or two in `tests/` for anything universe-specific.
+3. **Config + seed.** Write two files:
+   - `scripts/bootstrap/<universe>.config.ts`, exporting `UNIVERSE` (accent colours, grouping schemes such as Phases or Chapters, default continuity), `CONTINUITIES` (with calendar and branches), `STUDIOS`, `PLATFORMS` and `TAGS`. Optional: `SORT_BY_YEAR`, `FANDOM_PREFIXES`.
+   - `scripts/bootstrap/<universe>.seed.ts`, exporting `SEED`, built with the helpers in `seed-kit.ts`. Units are listed in story order, and every in-universe value cites its source.
+4. **Wikidata.** Run `npx tsx scripts/fetch/wikidata-seed.ts <universe>` to cache QIDs, US release dates, runtimes and page counts.
+5. **Bootstrap.** Run `npx tsx scripts/bootstrap/universe.ts <universe> --enable`. It writes `data/<universe>/*.json` and adds the universe and any new studios/platforms to the shared files. After this the JSON is canonical; later changes go through dated scripts in `scripts/migrations/`.
+6. **Verify.** Run `npm run verify` and fix every error. Record every judgement call in `data/DATA_NOTES.md`.
+7. **Done.** No app code changes are needed. The universe switcher, accent colour, continuity picker, filters and all nine views pick the new universe up from the data. Add a test or two in `tests/` for anything universe-specific.
 
 ## Licences and attribution
 

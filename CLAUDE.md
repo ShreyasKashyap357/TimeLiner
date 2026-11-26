@@ -33,3 +33,7 @@ Static React app (Vite + TypeScript + shadcn/ui + Tailwind v4) over one canonica
 
 ## Working style
 Small commits. Keep `TODO.md` and `DECISIONS.md` current. Be explicit about anything not verified.
+
+## Adding universes / books
+- New universes use the generic pipeline: `scripts/bootstrap/<id>.config.ts` + `<id>.seed.ts` (helpers in `seed-kit.ts`), then `scripts/fetch/wikidata-seed.ts <id>` and `scripts/bootstrap/universe.ts <id> --enable`. Marvel and DC keep their own original bootstraps.
+- Books are first-class: print title types (novel … reference), publishers/imprints in the studios registry, `pages`, `adapts` links (book ↔ screen stay separate continuities), "Done" with per-medium verbs, and spoiler-safe mode.

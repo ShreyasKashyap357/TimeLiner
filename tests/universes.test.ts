@@ -59,3 +59,26 @@ describe('A Song of Ice and Fire (books pilot)', () => {
     expect(order.indexOf('the-hedge-knight')).toBeLessThan(order.indexOf('a-game-of-thrones'));
   });
 });
+
+describe('Star Wars', () => {
+  it('formats BBY/ABY', () => {
+    const cal = ds.continuities.find((c) => c.id === 'sw-canon')!.calendar;
+    expect(formatYear(-32, cal)).toBe('32 BBY');
+    expect(formatYear(4, cal)).toBe('4 ABY');
+  });
+  it('canon, Legends and Visions are separate continuities', () => {
+    const c = (id: string) => ds.titles.find((t) => t.id === id)!.continuity;
+    expect(c('the-clone-wars')).toBe('sw-canon');
+    expect(c('clone-wars-2003')).toBe('sw-legends');
+    expect(c('star-wars-visions-vol-1')).toBe('sw-visions');
+  });
+  it('canon story order: Acolyte < Phantom Menace < Rebels S4 < Rogue One < A New Hope < Mandalorian', () => {
+    const order = spine(scoped('star-wars', 'sw-canon'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    const ix = (k: string) => order.indexOf(k);
+    for (const k of ['the-acolyte', 'the-phantom-menace', 'star-wars-rebels-s4', 'rogue-one', 'a-new-hope', 'the-mandalorian-s1']) expect(ix(k)).toBeGreaterThanOrEqual(0);
+    expect(ix('the-acolyte')).toBeLessThan(ix('the-phantom-menace'));
+    expect(ix('star-wars-rebels-s4')).toBeLessThan(ix('rogue-one'));
+    expect(ix('rogue-one')).toBeLessThan(ix('a-new-hope'));
+    expect(ix('a-new-hope')).toBeLessThan(ix('the-mandalorian-s1'));
+  });
+});

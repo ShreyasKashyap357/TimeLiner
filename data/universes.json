@@ -257,5 +257,71 @@
     "data_dir": "wheel-of-time",
     "description": "Robert Jordan's novels (completed by Brandon Sanderson) and the Amazon Prime Video series.",
     "last_verified": "2026-11-26"
+  },
+  {
+    "id": "star-wars",
+    "name": "Star Wars",
+    "short_name": "Star Wars",
+    "order": 6,
+    "enabled": true,
+    "accent": {
+      "primary": "#FFE81F",
+      "secondary": "#4DB8FF"
+    },
+    "default_continuity": "sw-canon",
+    "grouping_schemes": [
+      {
+        "id": "era",
+        "label": "Era",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "high-republic",
+            "label": "The High Republic",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "fall-of-the-jedi",
+            "label": "Fall of the Jedi",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "reign-of-the-empire",
+            "label": "Reign of the Empire",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "age-of-rebellion",
+            "label": "Age of Rebellion",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "new-republic",
+            "label": "The New Republic",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "rise-of-the-first-order",
+            "label": "Rise of the First Order",
+            "order": 6,
+            "parent": null
+          },
+          {
+            "id": "new-jedi-order",
+            "label": "New Jedi Order",
+            "order": 7,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "star-wars",
+    "description": "Star Wars films and series: Lucasfilm canon, Legends, and the non-canon Visions and LEGO productions.",
+    "last_verified": "2026-11-26"
   }
 ]

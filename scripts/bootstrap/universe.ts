@@ -42,6 +42,8 @@ const srcUrl = (s: string) => {
 const C: { releases: ReleaseRow[] } = existsSync(`data/candidates/${id}.json`) ? JSON.parse(await readFile(`data/candidates/${id}.json`, 'utf8')) : { releases: [] };
 const WD = new Map((await readWikidata(id)).map((f) => [f.enwiki, f]));
 const report: string[] = [];
+/** Optional within-year story rank from the seed (SeedUnit.rank); a sourced judgement, see DATA_NOTES. */
+const RANK = new Map<Unit, number>();
 const isFilmLike = (t: SeedTitle) => t.type.includes('film') || t.type === 'special' || t.type === 'one-shot';
 const isPrint = (t: SeedTitle) => PRINT_TYPES.includes(t.type);
 
@@ -107,6 +109,7 @@ for (const st of SEED) {
       notes: su.notes ?? '',
     };
     units.push(unit);
+    if (su.rank !== undefined) RANK.set(unit, su.rank);
     if (!byCont.has(st.continuity)) byCont.set(st.continuity, []);
     byCont.get(st.continuity)!.push(unit);
   }
@@ -123,10 +126,10 @@ for (const st of SEED) {
   });
 }
 
-// order_index: seed order = story order; SORT_BY_YEAR continuities sort by (start year, release).
+// order_index: seed order = story order; SORT_BY_YEAR continuities sort by (start year, seed `rank`, release).
 for (const [cid, list] of byCont) {
   const seq = cfg.SORT_BY_YEAR?.includes(cid)
-    ? [...list].sort((a, b) => (a.in_universe.start?.y ?? 99999) - (b.in_universe.start?.y ?? 99999) || (a.release.date ?? '').localeCompare(b.release.date ?? ''))
+    ? [...list].sort((a, b) => (a.in_universe.start?.y ?? 99999) - (b.in_universe.start?.y ?? 99999) || (RANK.get(a) ?? 0) - (RANK.get(b) ?? 0) || (a.release.date ?? '').localeCompare(b.release.date ?? ''))
     : list;
   seq.forEach((u, i) => { u.in_universe.order_index = (i + 1) * 10; });
   const cont = cfg.CONTINUITIES.find((c) => c.id === cid)!;

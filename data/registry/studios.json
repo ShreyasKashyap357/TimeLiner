@@ -399,5 +399,55 @@
     "group": null,
     "active": null,
     "note": ""
+  },
+  {
+    "id": "lucasfilm",
+    "label": "Lucasfilm",
+    "short_label": "Lucasfilm",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "lucasfilm-animation",
+    "label": "Lucasfilm Animation",
+    "short_label": "Lucasfilm Animation",
+    "kind": "label",
+    "parent": "lucasfilm",
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "nelvana",
+    "label": "Nelvana (with Lucasfilm)",
+    "short_label": "Nelvana",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "cartoon-network-studios",
+    "label": "Cartoon Network Studios (with Lucasfilm)",
+    "short_label": "CN Studios",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
+  },
+  {
+    "id": "smith-hemion",
+    "label": "Smith-Hemion Productions",
+    "short_label": "Smith-Hemion",
+    "kind": "studio",
+    "parent": null,
+    "group": null,
+    "active": null,
+    "note": ""
   }
 ]

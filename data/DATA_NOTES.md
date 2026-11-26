@@ -412,3 +412,22 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - short stories ("The Strike at Shayol Ghul", "River of Souls", the non-canon "A Fire Within the Ways"): no publication dates were extracted (TODO);
   - *Origins of The Wheel of Time* (2022);
   - announced films with no dates (*The White Tower*, *The Age of Legends*).
+
+## Star Wars (Stage 6)
+
+56 titles, 78 units, built with the generic pipeline (`scripts/bootstrap/star-wars.*`).
+
+- **Continuities:**
+  - `sw-canon`: Lucasfilm canon. Wikipedia (*Star Wars in other media*): after April 2014 "the only preexisting works to be considered canonical … would be the primary episodic films and the 2008 The Clone Wars film and TV series", plus everything made since.
+  - `sw-legends`: the pre-2014 screen works Lucasfilm "renamed the Expanded Universe Star Wars Legends": the Holiday Special, the two Ewok TV films, *Droids*, *Ewoks*, and *Clone Wars* (2003).
+  - `sw-visions` (standalone collection, tier adjacent): Wikipedia says its stories "were not required to adhere to the established Star Wars timeline".
+  - `sw-lego` (standalone collection, tier adjacent): Wikipedia is silent on canon status; Wookieepedia tags these non-canon.
+- **Calendar:** BBY/ABY (before/after the Battle of Yavin), stored as negative/positive years with a year 0 (the battle year, shown as "0 ABY").
+- **Confidence (D-24):**
+  - `stated`: the year is written in Wikipedia (*The Phantom Menace* 32 BBY, *Revenge of the Sith* 19 BBY, *Obi-Wan Kenobi* 9 BBY, *Andor* S1 5 BBY, *The Acolyte* 132 BBY), **or** Wookieepedia cites it to Lucasfilm's official reference books (*Star Wars: Timelines*, 2023; *Galactic Atlas*). The note on each unit names that chain.
+  - `inferred`: Wookieepedia derives the year itself (*Bad Batch* S2–3, *Mandalorian* S3, *Ahsoka*, *Skeleton Crew*, the *Tales* anthologies, *Young Jedi Adventures*, every Legends year).
+  - `disputed`: the Holiday Special (canon status ambiguous; Leland Chee via Wookieepedia "~1.5 ABY") and *Ewoks* (Wookieepedia 3.5–4 ABY vs Wikipedia "retroactively set before the original trilogy").
+- **Order:** canon and Legends are ordered by start year, then by release. Within 1 BBY the seed sets an explicit story rank (Rebels S4 → *Rogue One* → *A New Hope*), because Wikipedia says *Rogue One* is "set directly before Episode IV". This uses a new optional `rank` in the generic seed kit. *The Clone Wars* S3 sorts before S2 because its episodes start in 22 BBY.
+- **Unplaced:** *Ahsoka* S2 (2027-01-20), *Maul – Shadow Lord* S2 (2027), and *Starfighter* (2027-05-28; "set five years after … The Rise of Skywalker") stay unplaced until release, as for Marvel.
+- **Not added:** the books, comics and games (D-18); *Forces of Destiny* is one relative entry because its shorts span eras; Rebels' pilot film and shorts are noted on S1.
+- **Not verified:** Wookieepedia pages were read by a research agent and are cited, not cached. Episode counts for Rebels S4 conflict (16 vs 15).

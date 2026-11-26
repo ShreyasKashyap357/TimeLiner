@@ -1,0 +1,5071 @@
+[
+  {
+    "id": "the-phantom-menace",
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "anakin-skywalker",
+      "obi-wan-kenobi",
+      "maul",
+      "palpatine",
+      "yoda"
+    ],
+    "franchises": [
+      "jedi"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Episode I – The Phantom Menace",
+      "wikidata": "Q165713",
+      "tmdb": "1893",
+      "imdb": "tt0120915"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-phantom-menace",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 133,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -32
+          },
+          "end": {
+            "y": -32
+          },
+          "label": "32 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"The Phantom Menace is set in 32 BBY\"; \"set 32 years before the original trilogy\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-05-19",
+          "end_date": null,
+          "year": 1999,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "attack-of-the-clones",
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "anakin-skywalker",
+      "obi-wan-kenobi",
+      "yoda",
+      "palpatine"
+    ],
+    "franchises": [
+      "jedi",
+      "clone-troopers"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Episode II – Attack of the Clones",
+      "wikidata": "Q181069",
+      "tmdb": "1894",
+      "imdb": "tt0121765"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "attack-of-the-clones",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 142,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -22
+          },
+          "label": "22 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"set ten years after The Phantom Menace\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-05-16",
+          "end_date": null,
+          "year": 2002,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Episode_II_Attack_of_the_Clones"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-clone-wars-film",
+    "title": "Star Wars: The Clone Wars (film)",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "anakin-skywalker",
+      "ahsoka-tano",
+      "obi-wan-kenobi"
+    ],
+    "franchises": [
+      "clone-troopers",
+      "jedi"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Clone Wars (film)",
+      "wikidata": "Q382289",
+      "tmdb": "12180",
+      "imdb": "tt1185834"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film)",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-clone-wars-film",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 98,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -22
+          },
+          "label": "22 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Launches the series. Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-08-15",
+          "end_date": null,
+          "year": 2008,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film)",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-clone-wars",
+    "title": "Star Wars: The Clone Wars",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "core",
+    "characters": [
+      "anakin-skywalker",
+      "ahsoka-tano",
+      "obi-wan-kenobi",
+      "maul"
+    ],
+    "franchises": [
+      "clone-troopers",
+      "jedi"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Clone Wars",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Two",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Three",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Four",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Five",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Six",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Seven"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-clone-wars-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -21
+          },
+          "label": "22–21 BBY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"set between Attack of the Clones … and Revenge of the Sith\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-10-03",
+          "end_date": "2009-03-20",
+          "year": 2008,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-clone-wars-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -21
+          },
+          "end": {
+            "y": -21
+          },
+          "label": "21 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-10-02",
+          "end_date": "2010-04-30",
+          "year": 2009,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Two"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-clone-wars-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -20
+          },
+          "label": "22–20 BBY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Season episodes span the war. Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-17",
+          "end_date": "2011-04-01",
+          "year": 2010,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Three"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-clone-wars-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -20
+          },
+          "end": {
+            "y": -20
+          },
+          "label": "20 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-16",
+          "end_date": "2012-03-16",
+          "year": 2011,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Four"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-clone-wars-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -20
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "20–19 BBY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-29",
+          "end_date": "2013-03-02",
+          "year": 2012,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Five"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-clone-wars-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "19 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"The Lost Missions\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-03-07",
+          "end_date": null,
+          "year": 2014,
+          "note": "Released all at once on Netflix."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": "netflix",
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Six"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-clone-wars-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "19 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-02-21",
+          "end_date": "2020-05-04",
+          "year": 2020,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": "disney-plus",
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Seven"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-clone-wars-film",
+        "kind": "continues",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "revenge-of-the-sith",
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "anakin-skywalker",
+      "obi-wan-kenobi",
+      "yoda",
+      "palpatine"
+    ],
+    "franchises": [
+      "jedi",
+      "clone-troopers"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Episode III – Revenge of the Sith",
+      "wikidata": "Q42051",
+      "tmdb": "1895",
+      "imdb": "tt0121766"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "revenge-of-the-sith",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 140,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "19 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"Revenge of the Sith is set 19 years before A New Hope (19 BBY)\".",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-05-19",
+          "end_date": null,
+          "year": 2005,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-bad-batch",
+    "title": "Star Wars: The Bad Batch",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [
+      "clone-troopers"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Bad Batch",
+      "wikidata": "Q97365172",
+      "tmdb": "105971",
+      "imdb": "tt12708542"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Bad_Batch",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Bad_Batch_Season_Two",
+      "https://starwars.fandom.com/wiki/Star_Wars:_The_Bad_Batch_Season_Three"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-bad-batch-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "19 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"set in the aftermath of the Clone Wars and following the events of Order 66\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-05-04",
+          "end_date": "2021-08-13",
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Bad_Batch"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-bad-batch-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -18
+          },
+          "label": "19–18 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wookieepedia.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-01-04",
+          "end_date": "2023-03-29",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Bad_Batch",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Bad_Batch_Season_Two"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-bad-batch-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 15,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -18
+          },
+          "end": {
+            "y": -18
+          },
+          "label": "c. 18 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wookieepedia: during or after 18 BBY.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-02-21",
+          "end_date": "2024-05-01",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Bad_Batch",
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Bad_Batch_Season_Three"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-clone-wars",
+        "kind": "spinoff",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "maul-shadow-lord",
+    "title": "Star Wars: Maul – Shadow Lord",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "maul"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Maul – Shadow Lord",
+      "wikidata": "Q134533491",
+      "tmdb": "289219",
+      "imdb": "tt36594331"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Maul_%E2%80%93_Shadow_Lord",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Maul_-_Shadow_Lord"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "maul-shadow-lord-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -17
+          },
+          "end": {
+            "y": -13
+          },
+          "label": "c. 17–13 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"around a year after Maul's defeat … at the end of the Clone Wars\"; Wookieepedia: 17 to c. 13 BBY.",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-04-06",
+          "end_date": "2026-05-04",
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Maul_%E2%80%93_Shadow_Lord",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Maul_-_Shadow_Lord"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "maul-shadow-lord-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Announced for 2027.",
+          "order_index": 480,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027",
+          "end_date": null,
+          "year": 2027,
+          "note": "Year only."
+        },
+        "status": "upcoming",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Maul_%E2%80%93_Shadow_Lord"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "solo",
+    "title": "Solo: A Star Wars Story",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "han-solo"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Solo: A Star Wars Story",
+      "wikidata": "Q27038847",
+      "tmdb": "348350",
+      "imdb": "tt3778644"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "solo",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 135,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -10
+          },
+          "end": {
+            "y": -10
+          },
+          "label": "10 BBY (prologue 13 BBY)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"ten years prior to the events of the first Star Wars film\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-05-25",
+          "end_date": null,
+          "year": 2018,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "obi-wan-kenobi-series",
+    "title": "Obi-Wan Kenobi",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "obi-wan-kenobi",
+      "anakin-skywalker",
+      "leia-organa"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Obi-Wan Kenobi (miniseries)",
+      "wikidata": "Q104154217",
+      "tmdb": "92830",
+      "imdb": "tt8466564"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Obi-Wan_Kenobi_(miniseries)",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "obi-wan-kenobi-series",
+        "label": "Miniseries",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -9
+          },
+          "end": {
+            "y": -9
+          },
+          "label": "9 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"so Obi-Wan Kenobi is 9 BBY\"; \"Set ten years after…\".",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-05-27",
+          "end_date": "2022-06-22",
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Obi-Wan_Kenobi_(miniseries)",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "andor",
+    "title": "Andor",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "cassian-andor"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Andor",
+      "wikidata": "Q60462338",
+      "tmdb": "83867",
+      "imdb": "tt9253284"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andor",
+      "https://en.wikipedia.org/wiki/Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "andor-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -5
+          },
+          "end": {
+            "y": -5
+          },
+          "label": "5 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"the first season of Andor takes place five years before the battle (\"5 BBY\")\".",
+          "order_index": 260,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-21",
+          "end_date": "2022-11-23",
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Andor",
+          "https://en.wikipedia.org/wiki/Star_Wars"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "andor-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -4
+          },
+          "end": {
+            "y": -1
+          },
+          "label": "4–1 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"The second season covers the next four years and ends where the events of Rogue One begin\".",
+          "order_index": 280,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-04-22",
+          "end_date": "2025-05-13",
+          "year": 2025,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Andor"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-rebels",
+    "title": "Star Wars Rebels",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "core",
+    "characters": [
+      "hera-syndulla",
+      "ezra-bridger",
+      "ahsoka-tano"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Rebels",
+      "wikidata": "Q28787",
+      "tmdb": "60554",
+      "imdb": "tt2930604"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
+      "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Two",
+      "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Three",
+      "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Four"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-rebels-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 15,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -5
+          },
+          "end": {
+            "y": -4
+          },
+          "label": "5–4 BBY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "\"14 years after Revenge of the Sith and 5 years before A New Hope\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 250,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-10-03",
+          "end_date": "2015-03-02",
+          "year": 2014,
+          "note": "Pilot film on Disney Channel; four shorts 2014-08-11 to 09-01."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Rebels"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-rebels-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -4
+          },
+          "end": {
+            "y": -3
+          },
+          "label": "4–3 BBY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 270,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-06-20",
+          "end_date": "2016-03-30",
+          "year": 2015,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
+          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Two"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-rebels-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -2
+          },
+          "end": {
+            "y": -2
+          },
+          "label": "2 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 290,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-09-24",
+          "end_date": "2017-03-25",
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
+          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Three"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-rebels-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -1
+          },
+          "end": {
+            "y": -1
+          },
+          "label": "1 BBY (epilogue c. 9 ABY)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Episode count 16 (Wikipedia) vs 15 (Wookieepedia). Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 300,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-16",
+          "end_date": "2018-03-05",
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
+          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Four"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "rogue-one",
+    "title": "Rogue One: A Star Wars Story",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "cassian-andor"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rogue One",
+      "wikidata": "Q19590955",
+      "tmdb": "330459",
+      "imdb": "tt3748528"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rogue_One",
+      "https://en.wikipedia.org/wiki/List_of_Star_Wars_films",
+      "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "rogue-one",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 133,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -1
+          },
+          "end": {
+            "y": -1
+          },
+          "label": "1 BBY (prologue 13 BBY)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"set directly before Episode IV\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 310,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-12-16",
+          "end_date": null,
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rogue_One",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_films",
+          "https://starwars.fandom.com/wiki/Rogue_One:_A_Star_Wars_Story"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "a-new-hope",
+        "kind": "feeds-into",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "a-new-hope",
+    "title": "Star Wars (Episode IV – A New Hope)",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "luke-skywalker",
+      "leia-organa",
+      "han-solo",
+      "obi-wan-kenobi",
+      "anakin-skywalker",
+      "r2-d2",
+      "c-3po"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars (film)",
+      "wikidata": "Q17738",
+      "tmdb": "11",
+      "imdb": "tt0076759"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+      "https://starwars.fandom.com/wiki/ABY-BBY_dating_system"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "a-new-hope",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 121,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -1
+          },
+          "end": {
+            "y": 0
+          },
+          "label": "1 BBY – 0 ABY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The Battle of Yavin is the epoch (\"0\"). Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 320,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1977-05-25",
+          "end_date": null,
+          "year": 1977,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "age-of-rebellion"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Episode_IV_A_New_Hope",
+          "https://starwars.fandom.com/wiki/ABY-BBY_dating_system"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-empire-strikes-back",
+    "title": "The Empire Strikes Back",
+    "sort_title": "Empire Strikes Back",
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "luke-skywalker",
+      "leia-organa",
+      "han-solo",
+      "yoda",
+      "anakin-skywalker"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Empire Strikes Back",
+      "wikidata": "Q181795",
+      "tmdb": "1891",
+      "imdb": "tt0080684"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-empire-strikes-back",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 124,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 3
+          },
+          "label": "3 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set three years after the events of Star Wars\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 330,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1980-05-21",
+          "end_date": null,
+          "year": 1980,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "age-of-rebellion"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "return-of-the-jedi",
+    "title": "Return of the Jedi",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "luke-skywalker",
+      "leia-organa",
+      "han-solo",
+      "anakin-skywalker",
+      "palpatine",
+      "ewoks"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Return of the Jedi",
+      "wikidata": "Q181803",
+      "tmdb": "1892",
+      "imdb": "tt0086190"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Return_of_the_Jedi"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "return-of-the-jedi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 134,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 4
+          },
+          "end": {
+            "y": 4
+          },
+          "label": "4 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"One year after Han Solo's capture\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 340,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1983-05-25",
+          "end_date": null,
+          "year": 1983,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "age-of-rebellion"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Return_of_the_Jedi"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-mandalorian",
+    "title": "The Mandalorian",
+    "sort_title": "Mandalorian",
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "din-djarin",
+      "grogu"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mandalorian",
+      "wikidata": "Q56876444",
+      "tmdb": "82856",
+      "imdb": "tt8111088"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mandalorian",
+      "https://starwars.fandom.com/wiki/The_Mandalorian_Season_Two",
+      "https://starwars.fandom.com/wiki/The_Mandalorian_Season_Three"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-mandalorian-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 9
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "9 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"begins five years after the events of … Return of the Jedi\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 350,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-11-12",
+          "end_date": "2019-12-27",
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mandalorian"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-mandalorian-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 9
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "9 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": " Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 360,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-10-30",
+          "end_date": "2020-12-18",
+          "year": 2020,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mandalorian",
+          "https://starwars.fandom.com/wiki/The_Mandalorian_Season_Two"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-mandalorian-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 9
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "9 ABY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wookieepedia.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-03-01",
+          "end_date": "2023-04-19",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mandalorian",
+          "https://starwars.fandom.com/wiki/The_Mandalorian_Season_Three"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-book-of-boba-fett",
+    "title": "The Book of Boba Fett",
+    "sort_title": "Book of Boba Fett",
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "boba-fett",
+      "din-djarin",
+      "grogu"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Book of Boba Fett",
+      "wikidata": "Q104396610",
+      "tmdb": "115036",
+      "imdb": "tt13668894"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-book-of-boba-fett",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 9
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "9 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"set within the timeline of The Mandalorian\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 370,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-12-29",
+          "end_date": "2022-02-09",
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "skeleton-crew",
+    "title": "Star Wars: Skeleton Crew",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Skeleton Crew",
+      "wikidata": "Q113275091",
+      "tmdb": "202879",
+      "imdb": "tt20600980"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Skeleton_Crew"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "skeleton-crew",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 9
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "c. 9 ABY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"Roughly five years after the fall of the Galactic Empire\".",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-12-02",
+          "end_date": "2025-01-14",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Skeleton_Crew"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "ahsoka",
+    "title": "Star Wars: Ahsoka",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "ahsoka-tano",
+      "hera-syndulla",
+      "ezra-bridger"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Ahsoka",
+      "wikidata": "Q104153367",
+      "tmdb": "114461",
+      "imdb": "tt13622776"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Ahsoka",
+      "https://starwars.fandom.com/wiki/Ahsoka_(television_series)",
+      "https://en.wikipedia.org/wiki/List_of_Star_Wars_television_series"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ahsoka-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 9
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "9 ABY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Star Wars Insider via Wookieepedia.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-08-22",
+          "end_date": "2023-10-03",
+          "year": 2023,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Ahsoka",
+          "https://starwars.fandom.com/wiki/Ahsoka_(television_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ahsoka-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Dated in the list article only.",
+          "order_index": 490,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027-01-20",
+          "end_date": null,
+          "year": 2027,
+          "note": ""
+        },
+        "status": "upcoming",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_television_series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-mandalorian-and-grogu",
+    "title": "The Mandalorian and Grogu",
+    "sort_title": "Mandalorian and Grogu",
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "din-djarin",
+      "grogu"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mandalorian and Grogu",
+      "wikidata": "Q124246549",
+      "tmdb": "1228710",
+      "imdb": "tt30825738"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mandalorian_and_Grogu",
+      "https://starwars.fandom.com/wiki/The_Mandalorian_and_Grogu"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-mandalorian-and-grogu",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 132,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 14
+          },
+          "end": {
+            "y": 14
+          },
+          "label": "c. 14 ABY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Official podcast: \"about ten years into\" the 30-year gap after Return of the Jedi (Wookieepedia).",
+          "order_index": 410,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-05-22",
+          "end_date": null,
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "new-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mandalorian_and_Grogu",
+          "https://starwars.fandom.com/wiki/The_Mandalorian_and_Grogu"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-mandalorian",
+        "kind": "continues",
+        "note": ""
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-resistance",
+    "title": "Star Wars Resistance",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-channel",
+    "canon_tier": "core",
+    "characters": [
+      "kylo-ren"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Resistance",
+      "wikidata": "Q52346040",
+      "tmdb": "79093",
+      "imdb": "tt8336340"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Resistance",
+      "https://starwars.fandom.com/wiki/Star_Wars_Resistance_Season_Two"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-resistance-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 34
+          },
+          "end": {
+            "y": 34
+          },
+          "label": "34 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"begins six months before The Force Awakens\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 440,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-10-07",
+          "end_date": "2019-03-17",
+          "year": 2018,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "rise-of-the-first-order"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Resistance"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-resistance-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 19,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 34
+          },
+          "end": {
+            "y": 34
+          },
+          "label": "34 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "One episode in 35 ABY. Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 450,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-10-06",
+          "end_date": "2020-01-26",
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "rise-of-the-first-order"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Resistance",
+          "https://starwars.fandom.com/wiki/Star_Wars_Resistance_Season_Two"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-force-awakens",
+    "title": "Star Wars: The Force Awakens",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "rey",
+      "kylo-ren",
+      "han-solo",
+      "leia-organa",
+      "luke-skywalker"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Force Awakens",
+      "wikidata": "Q6074",
+      "tmdb": "140607",
+      "imdb": "tt2488496"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-force-awakens",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 138,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 34
+          },
+          "end": {
+            "y": 34
+          },
+          "label": "34 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"Set thirty years after Return of the Jedi\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 420,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-12-18",
+          "end_date": null,
+          "year": 2015,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "rise-of-the-first-order"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-last-jedi",
+    "title": "Star Wars: The Last Jedi",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "rey",
+      "kylo-ren",
+      "luke-skywalker",
+      "leia-organa"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Last Jedi",
+      "wikidata": "Q18486021",
+      "tmdb": "181808",
+      "imdb": "tt2527336"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-last-jedi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 152,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 34
+          },
+          "end": {
+            "y": 34
+          },
+          "label": "34 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"begins immediately after The Force Awakens\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 430,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-12-15",
+          "end_date": null,
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "rise-of-the-first-order"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-rise-of-skywalker",
+    "title": "Star Wars: The Rise of Skywalker",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "rey",
+      "kylo-ren",
+      "palpatine",
+      "leia-organa"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Rise of Skywalker",
+      "wikidata": "Q20977110",
+      "tmdb": "181812",
+      "imdb": "tt2527338"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-rise-of-skywalker",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 142,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 35
+          },
+          "end": {
+            "y": 35
+          },
+          "label": "35 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "\"A year after the Battle of Crait\". Year per Lucasfilm's official reference (Star Wars: Timelines / Galactic Atlas) as cited on Wookieepedia.",
+          "order_index": 460,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-12-20",
+          "end_date": null,
+          "year": 2019,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "rise-of-the-first-order"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-starfighter",
+    "title": "Star Wars: Starfighter",
+    "sort_title": null,
+    "type": "film",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "Star Wars: Starfighter",
+      "wikidata": "Q133894182",
+      "tmdb": "1417668",
+      "imdb": "tt28069611"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Starfighter"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-starfighter",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "\"set five years after the events of … The Rise of Skywalker\" (c. 40 ABY); not placed until release.",
+          "order_index": 500,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027-05-28",
+          "end_date": null,
+          "year": 2027,
+          "note": ""
+        },
+        "status": "upcoming",
+        "groupings": {
+          "era": "new-jedi-order"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Starfighter"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-acolyte",
+    "title": "Star Wars: The Acolyte",
+    "sort_title": null,
+    "type": "series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [
+      "jedi"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Acolyte",
+      "wikidata": "Q104161310",
+      "tmdb": "114479",
+      "imdb": "tt12262202"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Acolyte",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-acolyte",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -132
+          },
+          "end": {
+            "y": -132
+          },
+          "label": "132 BBY (flashbacks 148 BBY)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"The Acolyte is set in 132 BBY\"; \"approximately 100 years before … The Phantom Menace\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-06-04",
+          "end_date": "2024-07-16",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "high-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Acolyte",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "young-jedi-adventures",
+    "title": "Star Wars: Young Jedi Adventures",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [
+      "jedi"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Young Jedi Adventures",
+      "wikidata": "Q116763978",
+      "tmdb": "202998",
+      "imdb": "tt20674124"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Young_Jedi_Adventures",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Young_Jedi_Adventures_Season_One",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Young_Jedi_Adventures_Season_Two",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Young_Jedi_Adventures_Season_Three"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "young-jedi-adventures-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -233
+          },
+          "end": {
+            "y": -232
+          },
+          "label": "c. 233–232 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"centuries before the events of the main Star Wars films\".",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-05-04",
+          "end_date": "2024-02-14",
+          "year": 2023,
+          "note": "Also Disney Jr.; six shorts 2023-04-26."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "high-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Young_Jedi_Adventures",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Young_Jedi_Adventures_Season_One"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "young-jedi-adventures-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -232
+          },
+          "end": {
+            "y": -232
+          },
+          "label": "c. 232 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wookieepedia.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-08-14",
+          "end_date": "2025-03-19",
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "high-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Young_Jedi_Adventures",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Young_Jedi_Adventures_Season_Two"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "young-jedi-adventures-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 7,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -232
+          },
+          "end": {
+            "y": -230
+          },
+          "label": "232–230 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wookieepedia.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-12-08",
+          "end_date": null,
+          "year": 2025,
+          "note": "Released all at once."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "high-republic"
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Young_Jedi_Adventures",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Young_Jedi_Adventures_Season_Three"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "tales-of-the-jedi",
+    "title": "Tales of the Jedi",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [
+      "ahsoka-tano"
+    ],
+    "franchises": [
+      "jedi"
+    ],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Tales (TV anthology)",
+      "wikidata": "Q133810189",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)",
+      "https://starwars.fandom.com/wiki/Tales_of_the_Jedi_(television_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tales-of-the-jedi",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -68
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "c. 68–19 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Anthology; episodes span c. 68 to 19 BBY (Wookieepedia; some placements marked unknown).",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-10-26",
+          "end_date": null,
+          "year": 2022,
+          "note": "Released all at once."
+        },
+        "status": "released",
+        "groupings": {
+          "era": "fall-of-the-jedi"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)",
+          "https://starwars.fandom.com/wiki/Tales_of_the_Jedi_(television_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "tales-of-the-empire",
+    "title": "Tales of the Empire",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Tales (TV anthology)",
+      "wikidata": "Q133810189",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)",
+      "https://starwars.fandom.com/wiki/Tales_of_the_Empire"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tales-of-the-empire",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -20
+          },
+          "end": {
+            "y": 9
+          },
+          "label": "20 BBY – New Republic era",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Anthology \"set in different eras\" (Wookieepedia: 20 BBY, c. 9–2 BBY, and later).",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-05-04",
+          "end_date": null,
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)",
+          "https://starwars.fandom.com/wiki/Tales_of_the_Empire"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "tales-of-the-underworld",
+    "title": "Tales of the Underworld",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Tales (TV anthology)",
+      "wikidata": "Q133810189",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)",
+      "https://starwars.fandom.com/wiki/Tales_of_the_Underworld"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tales-of-the-underworld",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -62
+          },
+          "end": {
+            "y": -18
+          },
+          "label": "c. 62 BBY onward",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Anthology; episodes c. 62–33 BBY and 18 BBY onward (Wookieepedia).",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-05-04",
+          "end_date": null,
+          "year": 2025,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": "reign-of-the-empire"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Tales_(TV_anthology)",
+          "https://starwars.fandom.com/wiki/Tales_of_the_Underworld"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "forces-of-destiny",
+    "title": "Star Wars Forces of Destiny",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "lucasfilm-animation",
+    "label": null,
+    "platform_or_network": "youtube",
+    "canon_tier": "core",
+    "characters": [
+      "leia-organa",
+      "rey",
+      "ahsoka-tano"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Forces of Destiny",
+      "wikidata": "Q30140895",
+      "tmdb": "71412",
+      "imdb": "tt6779076"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Forces_of_Destiny"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "forces-of-destiny-s1",
+        "label": "Micro-series",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 32,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Various eras",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Shorts set across many eras; no single placement.",
+          "order_index": 470,
+          "relative_to": {
+            "after": "the-rise-of-skywalker",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2017-07-03",
+          "end_date": "2018-05-25",
+          "year": 2017,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Forces_of_Destiny"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-holiday-special",
+    "title": "Star Wars Holiday Special",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "smith-hemion",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [
+      "han-solo",
+      "luke-skywalker",
+      "leia-organa"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Holiday Special",
+      "wikidata": "Q1538082",
+      "tmdb": "74849",
+      "imdb": "tt0193524"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Holiday_Special",
+      "https://starwars.fandom.com/wiki/Star_Wars_Holiday_Special"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-holiday-special",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 97,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1
+          },
+          "end": {
+            "y": 1
+          },
+          "label": "c. 1 ABY",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"set between the events of the original film and … The Empire Strikes Back\"; Wookieepedia cites Leland Chee: Life Day \"fell at ~1.5 ABY\". Canon status was ambiguous before 2014, and Abrams called it \"definitely canon\" in 2015.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1978-11-17",
+          "end_date": null,
+          "year": 1978,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Holiday_Special",
+          "https://starwars.fandom.com/wiki/Star_Wars_Holiday_Special"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "caravan-of-courage",
+    "title": "Caravan of Courage: An Ewok Adventure",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [
+      "ewoks"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Caravan of Courage: An Ewok Adventure",
+      "wikidata": "Q1383257",
+      "tmdb": "1884",
+      "imdb": "tt0087225"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caravan_of_Courage:_An_Ewok_Adventure",
+      "https://en.wikipedia.org/wiki/List_of_Star_Wars_films",
+      "https://starwars.fandom.com/wiki/Caravan_of_Courage:_An_Ewok_Adventure"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "caravan-of-courage",
+        "label": "TV film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 96,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 3
+          },
+          "label": "3 ABY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"set between the events of The Empire Strikes Back and Return of the Jedi\"; 3 ABY per Behind the Magic (Wookieepedia).",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-11-25",
+          "end_date": null,
+          "year": 1984,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Caravan_of_Courage:_An_Ewok_Adventure",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_films",
+          "https://starwars.fandom.com/wiki/Caravan_of_Courage:_An_Ewok_Adventure"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "ewoks-the-battle-for-endor",
+    "title": "Ewoks: The Battle for Endor",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [
+      "ewoks"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ewoks: The Battle for Endor",
+      "wikidata": "Q738360",
+      "tmdb": "10372",
+      "imdb": "tt0089110"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ewoks:_The_Battle_for_Endor",
+      "https://starwars.fandom.com/wiki/Ewoks:_The_Battle_for_Endor"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ewoks-the-battle-for-endor",
+        "label": "TV film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 94,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 3
+          },
+          "label": "3 ABY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "As Caravan of Courage (Wookieepedia).",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-11-24",
+          "end_date": null,
+          "year": 1985,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ewoks:_The_Battle_for_Endor",
+          "https://starwars.fandom.com/wiki/Ewoks:_The_Battle_for_Endor"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-droids",
+    "title": "Star Wars: Droids",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "nelvana",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [
+      "r2-d2",
+      "c-3po"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Droids",
+      "wikidata": "Q702261",
+      "tmdb": "25",
+      "imdb": "tt0088510"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Droids"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-droids-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -15
+          },
+          "end": {
+            "y": -15
+          },
+          "label": "15 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"retroactively placed 4 years after Revenge of the Sith and 15 years before … A New Hope\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-09-07",
+          "end_date": "1985-11-30",
+          "year": 1985,
+          "note": "Plus the special \"The Great Heep\" (1986-06-07)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Droids"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-ewoks",
+    "title": "Star Wars: Ewoks",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "nelvana",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [
+      "ewoks"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Ewoks",
+      "wikidata": "Q714019",
+      "tmdb": "3478",
+      "imdb": "tt0088515"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Ewoks",
+      "https://starwars.fandom.com/wiki/Ewoks_(television_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-ewoks-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 4
+          },
+          "label": "c. 3–4 ABY",
+          "precision": "range",
+          "confidence": "disputed",
+          "note": "Wookieepedia (Behind the Magic): 3.5–4 ABY; Wikipedia says the series was \"retroactively set before the original trilogy\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-09-07",
+          "end_date": "1985-11-30",
+          "year": 1985,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Ewoks",
+          "https://starwars.fandom.com/wiki/Ewoks_(television_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-ewoks-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 4
+          },
+          "label": "c. 3–4 ABY",
+          "precision": "range",
+          "confidence": "disputed",
+          "note": "As season 1.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1986-09-13",
+          "end_date": "1986-12-13",
+          "year": 1986,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Ewoks"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "clone-wars-2003",
+    "title": "Star Wars: Clone Wars (2003)",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "cartoon-network-studios",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "core",
+    "characters": [
+      "anakin-skywalker",
+      "obi-wan-kenobi"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Clone Wars",
+      "wikidata": "Q616313",
+      "tmdb": "3122",
+      "imdb": "tt0361243"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Clone_Wars",
+      "https://starwars.fandom.com/wiki/Clone_Wars:_Season_One",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Clone_Wars_(2003_TV_series)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "clone-wars-2003-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -21
+          },
+          "label": "22–21 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "New Essential Chronology via Wookieepedia.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-11-07",
+          "end_date": "2003-11-20",
+          "year": 2003,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Clone_Wars:_Season_One"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "clone-wars-2003-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "within 22–19 BBY",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wookieepedia (series as a whole).",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-03-26",
+          "end_date": "2004-04-08",
+          "year": 2004,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Clone_Wars_(2003_TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "clone-wars-2003-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 5,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -19
+          },
+          "label": "c. 19 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Leads into Revenge of the Sith (Wookieepedia).",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-03-22",
+          "end_date": "2005-03-25",
+          "year": 2005,
+          "note": "Last-episode date conflicts (03-25 vs 03-26)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Clone_Wars",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Clone_Wars_(2003_TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-visions-vol-1",
+    "title": "Star Wars: Visions – Volume 1",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-visions",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Visions",
+      "wikidata": "Q104161600",
+      "tmdb": "114478",
+      "imdb": "tt13622982"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-visions-vol-1",
+        "label": "Volume",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Volume 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Not on the canonical timeline.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-22",
+          "end_date": null,
+          "year": 2021,
+          "note": "9 shorts by different studios; released all at once."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-visions-vol-2",
+    "title": "Star Wars: Visions – Volume 2",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-visions",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Visions",
+      "wikidata": "Q104161600",
+      "tmdb": "114478",
+      "imdb": "tt13622982"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-visions-vol-2",
+        "label": "Volume",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Volume 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Not on the canonical timeline.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-05-04",
+          "end_date": null,
+          "year": 2023,
+          "note": "9 shorts by different studios; released all at once."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-visions-vol-3",
+    "title": "Star Wars: Visions – Volume 3",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-visions",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Visions",
+      "wikidata": "Q104161600",
+      "tmdb": "114478",
+      "imdb": "tt13622982"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "star-wars-visions-vol-3",
+        "label": "Volume",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Volume 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Not on the canonical timeline.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-29",
+          "end_date": null,
+          "year": 2025,
+          "note": "9 shorts by different studios; released all at once."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "visions-presents-the-ninth-jedi",
+    "title": "Star Wars: Visions Presents – The Ninth Jedi",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-visions",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Visions Presents",
+      "wikidata": "Q140530109",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Visions_Presents",
+      "https://starwars.fandom.com/wiki/Star_Wars:_Visions_Presents"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "visions-presents-the-ninth-jedi",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wookieepedia tags it non-canon.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-08-05",
+          "end_date": null,
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Star_Wars:_Visions_Presents",
+          "https://starwars.fandom.com/wiki/Star_Wars:_Visions_Presents"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-revenge-of-the-brick",
+    "title": "Lego Star Wars: Revenge of the Brick",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-revenge-of-the-brick",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-05-08",
+          "end_date": null,
+          "year": 2005,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-quest-for-r2-d2",
+    "title": "Lego Star Wars: The Quest for R2-D2",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-the-quest-for-r2-d2",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-08-27",
+          "end_date": null,
+          "year": 2009,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-padawan-menace",
+    "title": "Lego Star Wars: The Padawan Menace",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-the-padawan-menace",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-07-07",
+          "end_date": null,
+          "year": 2011,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-empire-strikes-out",
+    "title": "Lego Star Wars: The Empire Strikes Out",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-the-empire-strikes-out",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-26",
+          "end_date": null,
+          "year": 2012,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-yoda-chronicles",
+    "title": "Lego Star Wars: The Yoda Chronicles",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-the-yoda-chronicles",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013",
+          "end_date": null,
+          "year": 2013,
+          "note": "Year only (2013–2014)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-droid-tales",
+    "title": "Lego Star Wars: Droid Tales",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-droid-tales",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-06",
+          "end_date": null,
+          "year": 2015,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-resistance-rises",
+    "title": "Lego Star Wars: The Resistance Rises",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-the-resistance-rises",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-02-15",
+          "end_date": null,
+          "year": 2016,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-freemaker-adventures",
+    "title": "Lego Star Wars: The Freemaker Adventures",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-the-freemaker-adventures",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-06-20",
+          "end_date": null,
+          "year": 2016,
+          "note": "2 seasons, to 2017-08-16."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-all-stars",
+    "title": "Lego Star Wars: All-Stars",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-xd",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-all-stars",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-10-29",
+          "end_date": null,
+          "year": 2018,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lego-star-wars-holiday-special",
+    "title": "The Lego Star Wars Holiday Special",
+    "sort_title": "Lego Star Wars Holiday Special",
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-lego-star-wars-holiday-special",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-17",
+          "end_date": null,
+          "year": 2020,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-terrifying-tales",
+    "title": "Lego Star Wars: Terrifying Tales",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-terrifying-tales",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-10-01",
+          "end_date": null,
+          "year": 2021,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-summer-vacation",
+    "title": "Lego Star Wars: Summer Vacation",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-summer-vacation",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-08-05",
+          "end_date": null,
+          "year": 2022,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-rebuild-the-galaxy",
+    "title": "Lego Star Wars: Rebuild the Galaxy",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-rebuild-the-galaxy",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-09-13",
+          "end_date": null,
+          "year": 2024,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-rebuild-the-galaxy-pieces-of-the-past",
+    "title": "Lego Star Wars: Rebuild the Galaxy – Pieces of the Past",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-rebuild-the-galaxy-pieces-of-the-past",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-09-19",
+          "end_date": null,
+          "year": 2025,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-the-mandalorian",
+    "title": "Lego Star Wars: The Mandalorian",
+    "sort_title": null,
+    "type": "special",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "disney-plus",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars",
+      "wikidata": "Q1191068",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lego-star-wars-the-mandalorian",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Special",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Non-canon per Wookieepedia; Wikipedia is silent.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-09-02",
+          "end_date": null,
+          "year": 2026,
+          "note": ""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "constituents": []
+  }
+]

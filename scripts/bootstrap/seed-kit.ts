@@ -11,6 +11,8 @@ export interface SeedUnit {
   key: string; label: string; season?: number; relTitle?: string; episodes?: number; pages?: number;
   branch?: string; tier?: CanonTier; platform?: string; iu: SeedIU; grp?: Record<string, string>;
   rel?: { date: string | null; end?: string | null; note?: string; src: string }; notes?: string;
+  /** SORT_BY_YEAR continuities: tie-break within the same start year (lower first, default 0) before release date. */
+  rank?: number;
 }
 export interface SeedTitle {
   id: string; title: string; type: TitleType; wiki: string; continuity: string; studio: string; label?: string; platform: string;
@@ -25,7 +27,7 @@ export const UNRELEASED = (note: string, src: string[]) => R('Not yet placed (un
 export const seasons = (n: number, iu: (s: number) => SeedIU, extra: (s: number) => Partial<SeedUnit> = () => ({})): SeedUnit[] =>
   Array.from({ length: n }, (_, i) => ({ key: `s${i + 1}`, label: `Season ${i + 1}`, season: i + 1, iu: iu(i + 1), ...extra(i + 1) }));
 /** Single-unit title (film, novel, special…). */
-export const single = (o: Omit<SeedTitle, 'units'> & { unitLabel: string; iu: SeedIU; grp?: Record<string, string>; unitBranch?: string; relTitle?: string; pages?: number; rel?: SeedUnit['rel']; unitNotes?: string }): SeedTitle => {
-  const { unitLabel, iu, grp, unitBranch, relTitle, pages, rel, unitNotes, ...t } = o;
-  return { ...t, units: [{ key: '', label: unitLabel, iu, grp, branch: unitBranch, relTitle, pages, rel, notes: unitNotes }] };
+export const single = (o: Omit<SeedTitle, 'units'> & { unitLabel: string; iu: SeedIU; grp?: Record<string, string>; unitBranch?: string; relTitle?: string; pages?: number; rel?: SeedUnit['rel']; unitNotes?: string; rank?: number }): SeedTitle => {
+  const { unitLabel, iu, grp, unitBranch, relTitle, pages, rel, unitNotes, rank, ...t } = o;
+  return { ...t, units: [{ key: '', label: unitLabel, iu, grp, branch: unitBranch, relTitle, pages, rel, notes: unitNotes, rank }] };
 };

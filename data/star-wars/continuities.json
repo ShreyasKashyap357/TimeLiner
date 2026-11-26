@@ -1,0 +1,135 @@
+[
+  {
+    "id": "sw-canon",
+    "universe": "star-wars",
+    "name": "Star Wars canon (Lucasfilm)",
+    "short_name": "Canon",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "era",
+      "before_label": "BBY",
+      "after_label": "ABY",
+      "has_year_zero": true
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "era"
+    ],
+    "alt_orders": [],
+    "description": "\"the only preexisting works to be considered canonical within the franchise would be the primary episodic films and the 2008 The Clone Wars film and TV series\", plus all later works.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_in_other_media",
+      "https://en.wikipedia.org/wiki/Star_Wars"
+    ],
+    "notes": "Years from Lucasfilm's Star Wars: Timelines (2023) / Galactic Atlas as cited on Wookieepedia, unless Wikipedia states them. Eras from starwars.com/eras via Wikipedia."
+  },
+  {
+    "id": "sw-legends",
+    "universe": "star-wars",
+    "name": "Star Wars Legends (screen)",
+    "short_name": "Legends",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "era",
+      "before_label": "BBY",
+      "after_label": "ABY",
+      "has_year_zero": true
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"On April 25, 2014, Lucasfilm… renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_in_other_media"
+    ],
+    "notes": "Years use Wookieepedia's Legends dating (inferred)."
+  },
+  {
+    "id": "sw-visions",
+    "universe": "star-wars",
+    "name": "Star Wars: Visions (non-canon anthology)",
+    "short_name": "Visions",
+    "order": 3,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"Star Wars: Visions's stories were not required to adhere to the established Star Wars timeline.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sw-lego",
+    "universe": "star-wars",
+    "name": "LEGO Star Wars (non-canon)",
+    "short_name": "LEGO",
+    "order": 4,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "LEGO productions. Wikipedia is silent on canon status; Wookieepedia tags them non-canon.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars"
+    ],
+    "notes": ""
+  }
+]

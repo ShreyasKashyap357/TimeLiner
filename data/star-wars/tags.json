@@ -1,0 +1,148 @@
+[
+  {
+    "id": "luke-skywalker",
+    "label": "Luke Skywalker",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "anakin-skywalker",
+    "label": "Anakin Skywalker",
+    "kind": "character",
+    "aliases": [
+      "Darth Vader"
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "label": "Obi-Wan Kenobi",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "leia-organa",
+    "label": "Leia Organa",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "han-solo",
+    "label": "Han Solo",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "yoda",
+    "label": "Yoda",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "palpatine",
+    "label": "Palpatine",
+    "kind": "character",
+    "aliases": [
+      "Darth Sidious",
+      "the Emperor"
+    ]
+  },
+  {
+    "id": "rey",
+    "label": "Rey",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "kylo-ren",
+    "label": "Kylo Ren",
+    "kind": "character",
+    "aliases": [
+      "Ben Solo"
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "label": "Ahsoka Tano",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "din-djarin",
+    "label": "Din Djarin",
+    "kind": "character",
+    "aliases": [
+      "The Mandalorian"
+    ]
+  },
+  {
+    "id": "grogu",
+    "label": "Grogu",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "cassian-andor",
+    "label": "Cassian Andor",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "boba-fett",
+    "label": "Boba Fett",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "maul",
+    "label": "Maul",
+    "kind": "character",
+    "aliases": [
+      "Darth Maul"
+    ]
+  },
+  {
+    "id": "hera-syndulla",
+    "label": "Hera Syndulla",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "ezra-bridger",
+    "label": "Ezra Bridger",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "r2-d2",
+    "label": "R2-D2",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "c-3po",
+    "label": "C-3PO",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "ewoks",
+    "label": "Ewoks",
+    "kind": "character",
+    "aliases": []
+  },
+  {
+    "id": "clone-troopers",
+    "label": "Clone troopers",
+    "kind": "team",
+    "aliases": [
+      "Clone Force 99",
+      "The Bad Batch"
+    ]
+  },
+  {
+    "id": "jedi",
+    "label": "Jedi Order",
+    "kind": "team",
+    "aliases": []
+  }
+]

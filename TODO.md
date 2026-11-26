@@ -42,7 +42,7 @@
 
 ## Later stages (proposed, each with a data checkpoint)
 - [x] Stage 5: Godzilla & Kong (MonsterVerse + Toho eras)
-- [ ] Stage 6: Star Wars (Canon / Legends, BBY/ABY calendar)
+- [x] Stage 6: Star Wars (Canon / Legends / Visions / LEGO, BBY/ABY calendar)
 - [ ] Stage 7: Star Trek
 - [ ] Stage 8: Terminator, Halloween (branching / reboot timelines)
 - [ ] Stage 9: Wizarding World, Middle-earth

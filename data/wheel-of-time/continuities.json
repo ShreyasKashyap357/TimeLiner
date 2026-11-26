@@ -1,0 +1,103 @@
+[
+  {
+    "id": "wot-books",
+    "universe": "wheel-of-time",
+    "name": "The Wheel of Time (books)",
+    "short_name": "Books",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "era",
+      "before_label": "before NE",
+      "after_label": "NE",
+      "has_year_zero": false
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "author"
+    ],
+    "alt_orders": [],
+    "description": "14 novels plus the prequel New Spring, and two companion books.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Wheel_of_Time"
+    ],
+    "notes": "Wikipedia gives no in-universe years; all NE years come from the Wheel of Time Wiki (Fandom) and are rated inferred."
+  },
+  {
+    "id": "wot-amazon",
+    "universe": "wheel-of-time",
+    "name": "The Wheel of Time (Prime Video)",
+    "short_name": "Prime Video",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "era",
+      "before_label": "before NE",
+      "after_label": "NE",
+      "has_year_zero": false
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Amazon series (2021–2025), cancelled after three seasons. An adaptation that departs from the books.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Wheel_of_Time_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "wot-other",
+    "universe": "wheel-of-time",
+    "name": "Other adaptations",
+    "short_name": "Other",
+    "order": 3,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Winter Dragon (2015), a rights-retention pilot.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Wheel_of_Time"
+    ],
+    "notes": ""
+  }
+]

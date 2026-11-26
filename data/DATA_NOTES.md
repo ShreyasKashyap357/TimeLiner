@@ -387,3 +387,28 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - the 2015 collection *A Knight of the Seven Kingdoms* (it contains the three novellas, which are already listed);
   - the announced film *Aegon's Conquest* (no date).
 - **Spot-check:** several quotes were checked against the cached pages, and all matched modulo link markup (e.g. "only the novels count as [[canon (fiction)|canon]]").
+
+---
+
+## The Wheel of Time (books universe B2)
+
+19 titles, 21 units, built with the generic pipeline (`scripts/bootstrap/wheel-of-time.*`).
+
+- **Continuities:**
+  - `wot-books`: 14 novels, the prequel *New Spring*, and two companions (`reference`, tier adjacent).
+  - `wot-amazon`: Prime Video series S1–3, "canceled … after three seasons" on 2025-05-23.
+  - `wot-other`: *Winter Dragon* (2015), a non-canon rights-retention pilot.
+  - Books and series are linked only by `adapts`. The show departing from the books is a judgement from reviews; no source says "separate continuity" (D-23).
+- **Calendar:** in-world NE years (the "Farede calendar"), with no year 0 (inferred from the wiki's 1–1000 NE ranges; D-22).
+- **In-universe years:**
+  - **Wikipedia gives none.** All NE years come from the Wheel of Time Wiki (Fandom) Timeline "Main Sequence" (998 NE: books 1–2; 999 NE: books 3–6; 1000 NE: books 7–14), which has no inline citations, so every year is **inferred**.
+  - *New Spring* is 978–979 NE (Wikipedia: "Twenty years before the beginning of the series").
+  - TV seasons have no year (relative only).
+- **Release dates:**
+  - US first publication (Tor). *The Dragon Reborn* uses 1991-10-15 (infobox and series table); its lead says September 15.
+  - The *New Spring* novella (anthology *Legends*, 1998-08-25) is noted on the novel rather than listed separately.
+  - Page counts come from each novel's infobox. They disagree with the series table, and neither gives the edition.
+- **Not added:**
+  - short stories ("The Strike at Shayol Ghul", "River of Souls", the non-canon "A Fire Within the Ways"): no publication dates were extracted (TODO);
+  - *Origins of The Wheel of Time* (2022);
+  - announced films with no dates (*The White Tower*, *The Age of Legends*).

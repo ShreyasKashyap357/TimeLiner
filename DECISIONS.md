@@ -46,6 +46,9 @@ All are backward compatible, and the Marvel data validates unchanged with 0 erro
 | D-20 | **Game of Thrones books vs HBO shows as separate continuities.** No source uses the word "continuity". Wikipedia does say "only the novels count as canon", and the show deviates from the novels from season 5–6. | Separate continuities, linked with `adapts`. |
 | D-21 | **AC calendar without a year 0** (1 AC = Aegon's coronation; the Conquest war is 2–1 BC). Inferred from A Wiki of Ice and Fire; no source states it in words. | `has_year_zero: false`. |
 
+| D-22 | **Wheel of Time calendar.** NE years with no year 0; inferred from the fan wiki. Wikipedia gives no in-universe years at all. | Applied; every NE year marked inferred. |
+| D-23 | **Wheel of Time books vs Amazon series as separate continuities.** Based on reviews; no explicit source. | Separate continuities, linked with `adapts`. |
+
 ## Resolved
 
 | # | Stage | Decision | Answer |
@@ -67,4 +70,5 @@ All are backward compatible, and the Marvel data validates unchanged with 0 erro
 | R-16 | 3–4 | DC | Applied defaults D-6–D-11 (schema additions, Peacemaker split, launch scope). DC enabled in the app. *The People v. Gorilla Grodd* added (dated 2027). |
 | R-17 | 5 | Godzilla & Kong | Built and enabled (60 titles, 11 continuities, Toho eras as a grouping). |
 | R-18 | B1 | Books pilot | Book support built with the D-16 defaults; A Song of Ice and Fire / Game of Thrones built and enabled (19 titles). Separate book and HBO continuities (D-20), AC calendar without a year 0 (D-21). |
+| R-19 | B2 | The Wheel of Time | Built and enabled (books, Amazon series, Winter Dragon). |
 | R-12 | 2 | UI look | The user's shadcn preset (`b3JSApUsds`, style **radix-lyra**, base **mauve**, Roboto + JetBrains Mono). It owns surfaces, cards, colours, fonts and radius. Universe accents (Marvel gold/red, DC blue) are used only for timeline chrome: spine, year headings and the main-branch marker. Root font size is 112.5% for readability. The header and filters are sticky, the top of the page is dashboard-style stat cards, and charts have tooltip cards. |

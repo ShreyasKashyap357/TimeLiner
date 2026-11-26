@@ -221,5 +221,41 @@
     "data_dir": "asoiaf",
     "description": "George R. R. Martin's novels and novellas, and HBO's Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms.",
     "last_verified": "2026-11-26"
+  },
+  {
+    "id": "wheel-of-time",
+    "name": "The Wheel of Time",
+    "short_name": "Wheel of Time",
+    "order": 5,
+    "enabled": true,
+    "accent": {
+      "primary": "#B9A2FF",
+      "secondary": "#8C6BD8"
+    },
+    "default_continuity": "wot-books",
+    "grouping_schemes": [
+      {
+        "id": "author",
+        "label": "Author",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "jordan",
+            "label": "Robert Jordan",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "jordan-sanderson",
+            "label": "Robert Jordan & Brandon Sanderson",
+            "order": 2,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "wheel-of-time",
+    "description": "Robert Jordan's novels (completed by Brandon Sanderson) and the Amazon Prime Video series.",
+    "last_verified": "2026-11-26"
   }
 ]

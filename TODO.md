@@ -55,7 +55,7 @@
 ## Books (PLAN.md §8.1–8.2): needs the schema changes approved first (D-16)
 - [x] Schema/app: book types, publishers, pages, `adapts` links, "Done" wording, Books toggle, spoiler-safe mode
 - [x] B1: A Song of Ice and Fire + HBO Game of Thrones universe (AC calendar)
-- [ ] B2: The Wheel of Time (NE calendar) + Amazon series
+- [x] B2: The Wheel of Time (NE calendar) + Amazon series
 - [ ] B3: Rick Riordan books + films + Disney+ series
 - [ ] B4+: Cosmere, Narnia, Dune, Witcher, Hunger Games, Shadowhunters, Discworld, Expanse, Dark Tower
 

@@ -270,3 +270,16 @@ describe('Watch-order text', () => {
     }
   });
 });
+
+describe('Plain text', () => {
+  it('no raw wikitext in notes, descriptions or labels', () => {
+    const bad = /\{\{|\}\}|\[\[|'''/;
+    const prose = (o: Record<string, unknown>, where: string) => {
+      for (const k of ['note', 'notes', 'description', 'label']) if (typeof o[k] === 'string') expect(o[k] as string, `${where}.${k}`).not.toMatch(bad);
+    };
+    for (const t of ds.titles) {
+      prose(t as never, t.id);
+      for (const u of t.units) { prose(u as never, u.id); prose(u.in_universe as never, `${u.id}.in_universe`); prose(u.release as never, `${u.id}.release`); }
+    }
+  });
+});

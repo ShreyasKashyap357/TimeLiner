@@ -15,6 +15,7 @@ import { Credits } from './Credits';
 import { PlatformReleases } from './PlatformReleases';
 import { FilmStats, filmStatSources, formatRuntime } from './FilmStats';
 import { doneVerb, releaseWord } from '@/domain/model';
+import { tierText, typeText } from '@/domain/labels';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
   return (
@@ -124,9 +125,9 @@ export function DetailDrawer() {
                 </Field>
                 <Field k={releaseWord(row.type)}>{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
                   {row.unit.release.note && <p className="text-xs text-muted-foreground">{row.unit.release.note}</p>}</Field>
-                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? <> · {formatRuntime(row.unit.runtime_min)}{cite(row.unit.film_stats?.runtime_source ?? null)}</> : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}{row.unit.word_count ? <> · {row.unit.word_count.toLocaleString('en-US')} words{cite(row.unit.word_count_source)} (about {Math.round(readingMinutes(row.unit.word_count) / 60)} h at 250 words/min)</> : null}</Field>
+                <Field k="Type">{typeText(row.type)}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? <> · {formatRuntime(row.unit.runtime_min)}{cite(row.unit.film_stats?.runtime_source ?? null)}</> : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}{row.unit.word_count ? <> · {row.unit.word_count.toLocaleString('en-US')} words{cite(row.unit.word_count_source)} (about {Math.round(readingMinutes(row.unit.word_count) / 60)} h at 250 words/min)</> : null}</Field>
                 <FilmStats unit={row.unit} cite={cite} />
-                <Field k={isPrint ? 'First edition' : row.medium === 'stage' ? 'Venue' : row.medium === 'audio' ? 'Broadcaster / platform' : row.medium === 'game' ? 'Original platforms' : 'Original platform'}>{label.platform(row.platform)}</Field>
+                <Field k={isPrint ? 'First edition' : row.medium === 'stage' ? 'Venue' : row.medium === 'audio' ? 'Broadcaster / platform' : row.medium === 'game' ? 'First released on' : 'Original platform'}>{label.platform(row.platform)}</Field>
                 <Field k={studio?.kind === 'publisher' || studio?.kind === 'imprint' ? 'Publisher' : 'Studio'}>
                   <span className="flex flex-col gap-0.5">
                     <span>{studio?.label ?? row.studio}</span>
@@ -134,7 +135,7 @@ export function DetailDrawer() {
                   </span>
                 </Field>
                 <Field k="Continuity">{row.continuity.name} · {row.branch.label}</Field>
-                <Field k="Canon tier">{row.tier}</Field>
+                <Field k="Canon tier">{tierText(row.tier)}</Field>
                 {Object.values(row.unit.groupings).some(Boolean) && (
                   <Field k="Grouping">{Object.values(row.unit.groupings).filter(Boolean).map((v) => label.grouping(v!)).join(' · ')}</Field>
                 )}

@@ -8,6 +8,7 @@ import { ConfidenceBadge } from './Badges';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 import { connectionsFor, describeConnection } from '@/domain/views';
 import { Link2 } from 'lucide-react';
+import { tierText } from '@/domain/labels';
 import { useMemo } from 'react';
 
 /** One unit as a list item: marker, name (opens drawer), meta, watched checkbox. */
@@ -48,7 +49,7 @@ export function UnitItem({ row, meta = 'release', compact = false }: { row: Row;
         {!compact && (
           <span className="ml-2 text-xs text-muted-foreground">
             {metaText}
-            {row.tier !== 'core' && row.tier !== 'outside-set-date' ? ` · ${row.tier}` : ''}
+            {row.tier !== 'core' && row.tier !== 'outside-set-date' ? ` · ${tierText(row.tier).toLowerCase()}` : ''}
             {row.unit.status !== 'released' ? ` · ${row.unit.status}` : ''}
           </span>
         )}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "invincible-tv",
+    "title": "Invincible",
+    "sort_title": null,
+    "type": "series",
+    "universe": "invincible",
+    "continuity": "invincible-tv",
+    "studio_brand": "skybound-entertainment",
+    "label": null,
+    "platform_or_network": "prime-video",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Invincible (TV series)",
+      "wikidata": "Q55614601",
+      "tmdb": "95557",
+      "imdb": "tt6741278"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+    ],
+    "notes": "Season 2 infobox gives \"8 + special\"; the special is a separate unit here.",
+    "units": [
+      {
+        "id": "invincible-tv-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year stated.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-03-25",
+          "end_date": "2021-04-29",
+          "year": 2021,
+          "note": "Wikipedia: The season premiered on March 25, 2021, with its first three episodes, and the remaining five were released weekly until April 29, 2021."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "invincible-tv-special-atom-eve",
+        "label": "Special: Invincible: Atom Eve",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 1,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before season 2 (Atom Eve origin)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Placed between seasons 1 and 2 because it was released as the season 2 prelude; the special retells Eve's origin, so part of it is earlier. No source states its in-story placement.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-07-21",
+          "end_date": "2023-07-21",
+          "year": 2023,
+          "note": "Wikipedia: The season was preceded by a special episode, called \"Invincible: Atom Eve\", which was released on July 21, 2023."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "invincible-tv-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No year stated; continues from season 1.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-11-03",
+          "end_date": "2024-04-04",
+          "year": 2023,
+          "note": "Wikipedia: The season itself was divided into two parts and premiered on Amazon Prime Video on November 3, 2023, with the first four episodes each week until November 24, and the final four from March 14, 2024, through April 4."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "invincible-tv-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No year stated.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-02-06",
+          "end_date": "2025-03-13",
+          "year": 2025,
+          "note": "Wikipedia: Season 3 premiered on February 6, 2025, with its first three episodes available on Amazon Prime Video, followed by weekly releases every Thursday at 3:00 AM EST until March 13, 2025."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "invincible-tv-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No year stated.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-03-18",
+          "end_date": "2026-04-22",
+          "year": 2026,
+          "note": "Wikipedia: The fourth season of Invincible premiered on March 18, 2026. [infobox first_aired 2026-03-18, last_aired 2026-04-22]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "invincible-comic",
+        "kind": "adapts",
+        "note": "adaptation of the Image comic"
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Robert Kirkman",
+        "qid": "Q311891",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Robert Valley",
+        "qid": "Q26831127",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Maud Lewis",
+        "qid": "Q1479154",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "invincible-comic",
+    "title": "Invincible",
+    "sort_title": null,
+    "type": "comic",
+    "universe": "invincible",
+    "continuity": "invincible-comic",
+    "studio_brand": "image-comics",
+    "label": null,
+    "platform_or_network": "print-comic",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Invincible (comics)",
+      "wikidata": "Q1638157",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Invincible_(comics)"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "invincible-comic",
+        "label": "Issues #1–144",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "present day",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year checked.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-01",
+          "end_date": "2018-02",
+          "year": 2003,
+          "note": "Wikipedia: | publisher = Skybound Entertainment (Image Comics) | startmo = January | startyr = 2003 | endmo = February | endyr = 2018 | issues = 144 (25 volumes)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invincible_(comics)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  }
+]

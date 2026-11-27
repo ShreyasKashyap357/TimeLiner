@@ -1,0 +1,65 @@
+[
+  {
+    "id": "invincible-tv",
+    "universe": "invincible",
+    "name": "Invincible (Prime Video series)",
+    "short_name": "Invincible",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The Amazon animated series and its Atom Eve special. Wikipedia: \"The season was preceded by a special episode, called \"Invincible: Atom Eve\", which was released on July 21, 2023.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Invincible_season_2&oldid=1381422996",
+      "https://en.wikipedia.org/w/index.php?title=Invincible_(TV_series)&oldid=1387224166"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "invincible-comic",
+    "universe": "invincible",
+    "name": "Invincible (Image comic)",
+    "short_name": "Invincible",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Robert Kirkman's Image/Skybound comic, separate from the series adaptation. Wikipedia: \"Invincible is an American comic book series written by Robert Kirkman, illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Invincible_(comics)&oldid=1388177495"
+    ],
+    "notes": ""
+  }
+]

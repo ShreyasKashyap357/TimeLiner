@@ -1946,5 +1946,69 @@
     "data_dir": "avatar-cameron",
     "description": "James Cameron's Avatar films and Frontiers of Pandora (made to 'strictly adhere to the canon').",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "the-boys",
+    "name": "The Boys",
+    "short_name": "Boys",
+    "order": 81,
+    "enabled": true,
+    "accent": {
+      "primary": "#B71C1C",
+      "secondary": "#1565C0"
+    },
+    "default_continuity": "the-boys-tv",
+    "grouping_schemes": [],
+    "data_dir": "the-boys",
+    "description": "The Boys, Gen V and Diabolical on Prime Video (one shared continuity), and Garth Ennis's comic as a separate continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "spider-verse",
+    "name": "Spider-Verse",
+    "short_name": "Spider-Verse",
+    "order": 82,
+    "enabled": true,
+    "accent": {
+      "primary": "#E53935",
+      "secondary": "#00E5FF"
+    },
+    "default_continuity": "spider-verse-animated",
+    "grouping_schemes": [],
+    "data_dir": "spider-verse",
+    "description": "Sony Pictures Animation's Spider-Verse films (the live-action Marvel Spider-Man is in the Marvel universe).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "invincible",
+    "name": "Invincible",
+    "short_name": "Invincible",
+    "order": 83,
+    "enabled": true,
+    "accent": {
+      "primary": "#F9A825",
+      "secondary": "#1565C0"
+    },
+    "default_continuity": "invincible-tv",
+    "grouping_schemes": [],
+    "data_dir": "invincible",
+    "description": "The Invincible animated series with the Atom Eve special, and the Image comic as a separate continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "hellboy",
+    "name": "Hellboy",
+    "short_name": "Hellboy",
+    "order": 84,
+    "enabled": true,
+    "accent": {
+      "primary": "#C62828",
+      "secondary": "#424242"
+    },
+    "default_continuity": "hellboy-del-toro",
+    "grouping_schemes": [],
+    "data_dir": "hellboy",
+    "description": "Guillermo del Toro's Hellboy films, the 2019 reboot, The Crooked Man (2024), and the animated films, each its own continuity.",
+    "last_verified": "2026-11-27"
   }
 ]

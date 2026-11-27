@@ -892,3 +892,10 @@ Optional `data/<universe>/maps.json` (schema `WorldMap` in `src/domain/schema.ts
 - **Indiana Jones.** Stated years put Temple of Doom (1935) before Raiders (1936). The Great Circle (1937) sits between Raiders and Last Crusade.
 - **Rocky / Creed.** One continuity. Creed III's 2024 is disputed: the article's categories and a footnote disagree.
 - **Not verified.** Several studio fields in this batch were not checked against infoboxes (the research flags them).
+
+## Wave 6: other superhero (2026-11-28)
+
+- **The Boys.** One continuity: "its first season is set after the third season of The Boys" (Gen V). Diabolical comes first and is disputed, because only 3 of its 8 episodes are canon. The comic is separate.
+- **Spider-Verse.** Sony's animated films only; Marvel live-action Spider-Man stays in the Marvel universe. Beyond the Spider-Verse is excluded (June 2027).
+- **Invincible.** The series plus the Atom Eve special (before season 2, inferred). The comic is separate.
+- **Hellboy.** The del Toro films, the 2019 reboot, The Crooked Man (the "second reboot"; 1959 is stated) and the animated films are each their own continuity.

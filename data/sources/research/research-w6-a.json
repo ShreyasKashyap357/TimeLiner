@@ -1,0 +1,933 @@
+{
+ "the-boys": {
+  "continuities": [
+   {
+    "id": "the-boys-tv",
+    "name": "The Boys (Prime Video series)",
+    "ordered_only": true,
+    "description": "One shared continuity: The Boys, Gen V and the canon parts of The Boys Presents: Diabolical. Wikipedia gives no in-universe calendar years for the present-day seasons, so ordering only.",
+    "quote": "The third television series in The Boys franchise, its first season is set after the third season of The Boys, while its second season is set after the fourth season of The Boys. … The season shares continuity with the spin-off series Gen V and is set after the conclusion of its first season. … with further adaptations of the comic book series planned for spin-offs that would take place in the same universe as the main series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Gen_V&oldid=1387213899",
+     "https://en.wikipedia.org/w/index.php?title=The_Boys_season_4&oldid=1378204142",
+     "https://en.wikipedia.org/w/index.php?title=The_Boys_(TV_series)&oldid=1387498667"
+    ]
+   },
+   {
+    "id": "the-boys-comic",
+    "name": "The Boys (Garth Ennis comic)",
+    "ordered_only": true,
+    "description": "The original WildStorm/Dynamite comic, separate from the TV adaptation.",
+    "quote": "The Boys is an adult superhero comic book series co-created and written by Garth Ennis and co-created, designed, and illustrated by Darick Robertson.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Boys_(comics)&oldid=1385494717"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "the-boys-presents-diabolical",
+    "wiki_article": "The Boys Presents: Diabolical",
+    "publisher": null,
+    "links": [
+     {
+      "to": "the-boys-tv",
+      "kind": "spinoff",
+      "note": "animated anthology spin-off of the live-action series"
+     }
+    ],
+    "notes": "Studio not checked (null).",
+    "revid": 1387195153,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Boys_Presents%3A_Diabolical&oldid=1387195153",
+    "title": "The Boys Presents: Diabolical",
+    "type": "series",
+    "continuity": "the-boys-tv",
+    "studio_or_developer": null,
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2022-03-04",
+      "release_end": null,
+      "release_quote": "The Boys Presents: Diabolical … is an American adult animated anthology superhero miniseries that premiered on Amazon Prime Video on March 4, 2022.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_Presents%3A_Diabolical&oldid=1387195153",
+      "note": "Infobox gives only released = 2022-03-04; end date not checked (left null).",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "anthology; canon finale before season 1",
+       "confidence": "disputed",
+       "quote": "Eric Kripke later clarified that the show's production crew only considered three episodes to be canon despite the entire show being advertised as such. These are \"Nubian vs Nubian\", \"John and Sun-Hee\", and \"One Plus One Equals Two\". \"I'm Your Pusher\" is further set in the universe of the comics while a follow-up comment states that the other episodes are in their own multiverse continuity. … [One Plus One Equals Two:] When Homelander first joins the Seven, he is teamed up with Black Noir to tackle a hostage situation at a chemical plant.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Boys_Presents%3A_Diabolical&oldid=1387195153",
+       "precision": "relative",
+       "note": "Anthology: only 3 of 8 episodes are canon to the TV series, one is set in the comics universe and the rest are non-canon. Placed first because the canon finale shows Homelander first joining the Seven (before season 1); the other canon episodes are not placed by any source. Placement is a judgement call."
+      }
+     }
+    ]
+   },
+   {
+    "id": "the-boys-tv",
+    "wiki_article": "The Boys (TV series)",
+    "publisher": null,
+    "links": [
+     {
+      "to": "the-boys-comic",
+      "kind": "adapts",
+      "note": "TV adaptation of the Ennis/Robertson comic"
+     }
+    ],
+    "notes": "Vought Rising (prequel set in the 1950s) excluded: \"A prequel series, Vought Rising, is in production and set to premiere in 2027.\" (after the 2026-11-27 cutoff). Studio not checked (null).",
+    "revid": 1387498667,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Boys_(TV_series)&oldid=1387498667",
+    "title": "The Boys",
+    "type": "series",
+    "continuity": "the-boys-tv",
+    "studio_or_developer": null,
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2019-07-26",
+      "release_end": "2019-07-26",
+      "release_quote": "The season premiered on the streaming service Amazon Prime Video on July 26, 2019, with all eight episodes being released in a single day.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_1&oldid=1388274091",
+      "in_universe": {
+       "order_index": 1,
+       "year": null,
+       "year_end": null,
+       "label": "season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe year stated; first season of the main series."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 8,
+      "release_date": "2020-09-04",
+      "release_end": "2020-10-09",
+      "release_quote": "The season premiered on the streaming service Amazon Prime Video on September 4, 2020, with its first three episodes. [infobox last_aired 2020-10-09]",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_2&oldid=1387954285",
+      "in_universe": {
+       "order_index": 2,
+       "year": null,
+       "year_end": null,
+       "label": "after season 1",
+       "confidence": "inferred",
+       "quote": "The short film is set between the series' first and second seasons",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_2&oldid=1387954285",
+       "precision": "relative",
+       "note": "No year stated; follows season 1 (the short film Butcher is set between seasons 1 and 2)."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 8,
+      "release_date": "2022-06-03",
+      "release_end": "2022-07-08",
+      "release_quote": "The season premiered on the streaming service Amazon Prime Video on June 3, 2022, with its first three episodes. [infobox last_aired 2022-07-08]",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_3&oldid=1387492391",
+      "in_universe": {
+       "order_index": 3,
+       "year": null,
+       "year_end": null,
+       "label": "a year after season 2",
+       "confidence": "inferred",
+       "quote": "Taking place a year after the events of the previous season, the season follows the titular Boys now working for Victoria Neuman's Bureau of Superhero Affairs",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_3&oldid=1387492391",
+       "precision": "relative",
+       "note": "Relative placement stated (one year after season 2); no calendar year given."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 8,
+      "release_date": "2024-06-13",
+      "release_end": "2024-07-18",
+      "release_quote": "The season premiered on the streaming service Amazon Prime Video on June 13, 2024, with its first three episodes. [infobox first_aired 2024-06-13, last_aired 2024-07-18]",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_4&oldid=1378204142",
+      "in_universe": {
+       "order_index": 5,
+       "year": null,
+       "year_end": null,
+       "label": "after Gen V season 1",
+       "confidence": "inferred",
+       "quote": "The season shares continuity with the spin-off series Gen V and is set after the conclusion of its first season.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_4&oldid=1378204142",
+       "precision": "relative",
+       "note": "Relative placement stated; no calendar year."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 8,
+      "release_date": "2026-04-08",
+      "release_end": "2026-05-20",
+      "release_quote": "The season premiered on the streaming service Amazon Prime Video on April 8, 2026, with its first two episodes. [infobox first_aired 2026-04-08, last_aired 2026-05-20]",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_season_5&oldid=1387954303",
+      "in_universe": {
+       "order_index": 7,
+       "year": null,
+       "year_end": null,
+       "label": "final season; after Gen V season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Placed after Gen V season 2 because Gen V season 2 is set after the fourth season of The Boys and Gen V cast reprise their roles in season 5; no source states the relative order of Gen V S2 and Boys S5 directly."
+      }
+     }
+    ]
+   },
+   {
+    "id": "gen-v",
+    "wiki_article": "Gen V",
+    "publisher": null,
+    "links": [
+     {
+      "to": "the-boys-tv",
+      "kind": "spinoff",
+      "note": "spin-off set after Boys seasons 3 and 4"
+     }
+    ],
+    "notes": "Studio not checked (null).",
+    "revid": 1387213899,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Gen_V&oldid=1387213899",
+    "title": "Gen V",
+    "type": "series",
+    "continuity": "the-boys-tv",
+    "studio_or_developer": null,
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2023-09-29",
+      "release_end": "2023-11-03",
+      "release_quote": "Gen V premiered on Amazon Prime Video on September 29, 2023, with its first three episodes, with the rest of the episodes debuting on a weekly basis. [infobox last_aired 2023-11-03]",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Gen_V_season_1&oldid=1370686053",
+      "in_universe": {
+       "order_index": 4,
+       "year": null,
+       "year_end": null,
+       "label": "after The Boys season 3",
+       "confidence": "inferred",
+       "quote": "The third television series in The Boys franchise, its first season is set after the third season of The Boys, while its second season is set after the fourth season of The Boys.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Gen_V&oldid=1387213899",
+       "precision": "relative",
+       "note": "Relative placement stated; no calendar year."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 8,
+      "release_date": "2025-09-17",
+      "release_end": "2025-10-22",
+      "release_quote": "The season was released on September 17, 2025, with three new episodes, followed by the rest debuting on a weekly basis until the season finale on October 22, 2025.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Gen_V_season_2&oldid=1370084918",
+      "in_universe": {
+       "order_index": 6,
+       "year": null,
+       "year_end": null,
+       "label": "after The Boys season 4 (flashback to 1967)",
+       "confidence": "inferred",
+       "quote": "The third television series in The Boys franchise, its first season is set after the third season of The Boys, while its second season is set after the fourth season of The Boys.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Gen_V&oldid=1387213899",
+       "precision": "relative",
+       "note": "Relative placement stated. One episode opens with a 1967 flashback (\"In 1967, Thomas injects himself with V-1\") but the main story has no year."
+      }
+     }
+    ]
+   },
+   {
+    "id": "the-boys-comic",
+    "wiki_article": "The Boys (comics)",
+    "publisher": "Dynamite Entertainment",
+    "links": [],
+    "notes": "Spin-off minis (Herogasm, Highland Laddie, Butcher Baker, Dear Becky...) not split out.",
+    "revid": 1385494717,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Boys_(comics)&oldid=1385494717",
+    "title": "The Boys",
+    "type": "comic",
+    "continuity": "the-boys-comic",
+    "studio_or_publisher": "WildStorm/DC Comics (#1–6); Dynamite Entertainment (#7–72)",
+    "platform": "print-comic",
+    "platforms": [
+     "print"
+    ],
+    "units": [
+     {
+      "key": "comic",
+      "label": "Issues #1–72",
+      "release_date": "2006-10",
+      "release_end": "2012-11",
+      "release_quote": "| publisher = WildStorm/DC Comics (#1–6) Dynamite Entertainment (#7–72, Dear Becky) | date = October 2006 – November 2012 | issues = 72",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Boys_(comics)&oldid=1385494717",
+      "note": "Month precision only (infobox).",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "present day",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe year checked; single-title continuity."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "spider-verse": {
+  "continuities": [
+   {
+    "id": "spider-verse-animated",
+    "name": "Spider-Verse (Sony Pictures Animation)",
+    "ordered_only": true,
+    "description": "The animated Spider-Verse films; separate from live-action Spider-Man continuities.",
+    "quote": "Spider-Man: Across the Spider-Verse … sequel to Spider-Man: Into the Spider-Verse (2018) and the second film in the animated Spider-Verse franchise",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Across_the_Spider-Verse&oldid=1387949865"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "into-the-spider-verse",
+    "wiki_article": "Spider-Man: Into the Spider-Verse",
+    "publisher": "Sony Pictures Releasing",
+    "links": [],
+    "notes": "",
+    "revid": 1386309824,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Into_the_Spider-Verse&oldid=1386309824",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "type": "film",
+    "continuity": "spider-verse-animated",
+    "studio_or_developer": "Columbia Pictures / Sony Pictures Animation / Marvel Entertainment / Pascal Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-12-14",
+      "release_quote": "The film premiered at the Regency Village Theater in Los Angeles on December 1, 2018, and was theatrically released in the United States on December 14.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Into_the_Spider-Verse&oldid=1386309824",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "present day",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe year stated on Wikipedia."
+      }
+     }
+    ]
+   },
+   {
+    "id": "across-the-spider-verse",
+    "wiki_article": "Spider-Man: Across the Spider-Verse",
+    "publisher": "Sony Pictures Releasing",
+    "links": [
+     {
+      "to": "into-the-spider-verse",
+      "kind": "continues",
+      "note": "direct sequel"
+     }
+    ],
+    "notes": "",
+    "revid": 1387949865,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Across_the_Spider-Verse&oldid=1387949865",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "type": "film",
+    "continuity": "spider-verse-animated",
+    "studio_or_developer": "Columbia Pictures / Sony Pictures Animation / Marvel Entertainment",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-06-02",
+      "release_quote": "Spider-Man: Across the Spider-Verse premiered at the Regency Village Theatre in Los Angeles, California on May 30, 2023, and was released in the United States on June 2",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Across_the_Spider-Verse&oldid=1387949865",
+      "in_universe": {
+       "order_index": 1,
+       "year": null,
+       "year_end": null,
+       "label": "about 16 months after Into the Spider-Verse",
+       "confidence": "inferred",
+       "quote": "In Spider-Man: Across the Spider-Verse (2023), this scene is established to take place sixteen months later.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Into_the_Spider-Verse&oldid=1386309824",
+       "precision": "relative",
+       "note": "Footnote in the Into article about its post-credits scene; Across is the direct sequel; no calendar year."
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Beyond the Spider-Verse excluded: \"Spider-Man: Beyond the Spider-Verse is scheduled to be released by Sony Pictures in the United States on June 18, 2027.\" (https://en.wikipedia.org/w/index.php?title=Spider-Man%3A_Beyond_the_Spider-Verse&oldid=1387121121)"
+ },
+ "invincible": {
+  "continuities": [
+   {
+    "id": "invincible-tv",
+    "name": "Invincible (Prime Video series)",
+    "ordered_only": true,
+    "description": "The Amazon animated series and its Atom Eve special.",
+    "quote": "The season was preceded by a special episode, called \"Invincible: Atom Eve\", which was released on July 21, 2023.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Invincible_season_2&oldid=1381422996",
+     "https://en.wikipedia.org/w/index.php?title=Invincible_(TV_series)&oldid=1387224166"
+    ]
+   },
+   {
+    "id": "invincible-comic",
+    "name": "Invincible (Image comic)",
+    "ordered_only": true,
+    "description": "Robert Kirkman's Image/Skybound comic, separate from the series adaptation.",
+    "quote": "Invincible is an American comic book series written by Robert Kirkman, illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Invincible_(comics)&oldid=1388177495"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "invincible-tv",
+    "wiki_article": "Invincible (TV series)",
+    "publisher": null,
+    "links": [
+     {
+      "to": "invincible-comic",
+      "kind": "adapts",
+      "note": "adaptation of the Image comic"
+     }
+    ],
+    "notes": "Season 2 infobox gives \"8 + special\"; the special is a separate unit here.",
+    "revid": 1387224166,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Invincible_(TV_series)&oldid=1387224166",
+    "title": "Invincible",
+    "type": "series",
+    "continuity": "invincible-tv",
+    "studio_or_developer": "Skybound Entertainment / Wind Sun Sky Entertainment / Point Grey Pictures / Amazon MGM Studios",
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2021-03-25",
+      "release_end": "2021-04-29",
+      "release_quote": "The season premiered on March 25, 2021, with its first three episodes, and the remaining five were released weekly until April 29, 2021.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invincible_season_1&oldid=1364235580",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe year stated."
+      }
+     },
+     {
+      "key": "special-atom-eve",
+      "label": "Special: Invincible: Atom Eve",
+      "episodes": 1,
+      "release_date": "2023-07-21",
+      "release_end": "2023-07-21",
+      "release_quote": "The season was preceded by a special episode, called \"Invincible: Atom Eve\", which was released on July 21, 2023.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invincible_season_2&oldid=1381422996",
+      "in_universe": {
+       "order_index": 1,
+       "year": null,
+       "year_end": null,
+       "label": "before season 2 (Atom Eve origin)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Placed between seasons 1 and 2 because it was released as the season 2 prelude; the special retells Eve's origin, so part of it is earlier. No source states its in-story placement."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 8,
+      "release_date": "2023-11-03",
+      "release_end": "2024-04-04",
+      "release_quote": "The season itself was divided into two parts and premiered on Amazon Prime Video on November 3, 2023, with the first four episodes each week until November 24, and the final four from March 14, 2024, through April 4.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invincible_season_2&oldid=1381422996",
+      "in_universe": {
+       "order_index": 2,
+       "year": null,
+       "year_end": null,
+       "label": "after season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No year stated; continues from season 1."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 8,
+      "release_date": "2025-02-06",
+      "release_end": "2025-03-13",
+      "release_quote": "Season 3 premiered on February 6, 2025, with its first three episodes available on Amazon Prime Video, followed by weekly releases every Thursday at 3:00 AM EST until March 13, 2025.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invincible_season_3&oldid=1369093229",
+      "in_universe": {
+       "order_index": 3,
+       "year": null,
+       "year_end": null,
+       "label": "after season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No year stated."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 8,
+      "release_date": "2026-03-18",
+      "release_end": "2026-04-22",
+      "release_quote": "The fourth season of Invincible premiered on March 18, 2026. [infobox first_aired 2026-03-18, last_aired 2026-04-22]",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invincible_season_4&oldid=1386793720",
+      "in_universe": {
+       "order_index": 4,
+       "year": null,
+       "year_end": null,
+       "label": "after season 3",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No year stated."
+      }
+     }
+    ]
+   },
+   {
+    "id": "invincible-comic",
+    "wiki_article": "Invincible (comics)",
+    "publisher": "Image Comics",
+    "links": [],
+    "notes": "",
+    "revid": 1388177495,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Invincible_(comics)&oldid=1388177495",
+    "title": "Invincible",
+    "type": "comic",
+    "continuity": "invincible-comic",
+    "studio_or_publisher": "Image Comics (Skybound Entertainment)",
+    "platform": "print-comic",
+    "platforms": [
+     "print"
+    ],
+    "units": [
+     {
+      "key": "comic",
+      "label": "Issues #1–144",
+      "release_date": "2003-01",
+      "release_end": "2018-02",
+      "release_quote": "| publisher = Skybound Entertainment (Image Comics) | startmo = January | startyr = 2003 | endmo = February | endyr = 2018 | issues = 144 (25 volumes)",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invincible_(comics)&oldid=1388177495",
+      "note": "Month precision only.",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "present day",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe year checked."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "hellboy": {
+  "continuities": [
+   {
+    "id": "hellboy-del-toro",
+    "name": "Hellboy (Guillermo del Toro films)",
+    "description": "Hellboy (2004) and its sequel Hellboy II: The Golden Army (2008).",
+    "quote": "In the present day, [efn: A year after the events depicted in Hellboy] Nuada begins gathering the pieces of the crown. … The franchise was rebooted in 2019",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Hellboy_II%3A_The_Golden_Army&oldid=1384982074"
+    ]
+   },
+   {
+    "id": "hellboy-2019",
+    "name": "Hellboy (2019 reboot)",
+    "ordered_only": true,
+    "description": "The Neil Marshall reboot.",
+    "quote": "The franchise was rebooted in 2019, with a new film simply titled Hellboy, and was released by Lionsgate.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Hellboy_II%3A_The_Golden_Army&oldid=1384982074"
+    ]
+   },
+   {
+    "id": "hellboy-crooked-man",
+    "name": "Hellboy: The Crooked Man (2024 reboot)",
+    "description": "Second reboot of the live-action film series.",
+    "quote": "it is the second reboot of the Hellboy film series and is the fourth live-action entry in the franchise.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_The_Crooked_Man&oldid=1387891566"
+    ]
+   },
+   {
+    "id": "hellboy-animated",
+    "name": "Hellboy Animated",
+    "ordered_only": true,
+    "description": "The two Cartoon Network animated films. No source examined merges them with the live-action films.",
+    "quote": "Hellboy: Sword of Storms was released on DVD on October 28, 2006, and aired later that year on Cartoon Network. … It first aired on March 10, 2007 on Cartoon Network",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Sword_of_Storms&oldid=1371800092",
+     "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Blood_and_Iron&oldid=1361589323"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "hellboy-2004",
+    "wiki_article": "Hellboy (2004 film)",
+    "publisher": "Columbia Pictures (Sony Pictures Releasing)",
+    "links": [],
+    "notes": "",
+    "revid": 1386735587,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Hellboy_(2004_film)&oldid=1386735587",
+    "title": "Hellboy",
+    "type": "film",
+    "continuity": "hellboy-del-toro",
+    "studio_or_developer": "Revolution Studios / Dark Horse Entertainment / Columbia Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2004-04-02",
+      "release_quote": "Hellboy had its premiere at the Mann Village Theater in Los Angeles on March 30, 2004, and was released in the United States on April 2.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Hellboy_(2004_film)&oldid=1386735587",
+      "in_universe": {
+       "order_index": 0,
+       "year": 2004,
+       "year_end": null,
+       "label": "2004 (prologue 1944)",
+       "confidence": "inferred",
+       "quote": "In 1944 during World War II, Grigori Rasputin … build a dimensional portal … Sixty years later, the eternally youthful Haupstein and Kroenen resurrect Rasputin.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Hellboy_(2004_film)&oldid=1386735587",
+       "precision": "year",
+       "note": "Prologue year 1944 is stated; main story is \"sixty years later\" = 2004 (derived)."
+      }
+     }
+    ]
+   },
+   {
+    "id": "hellboy-ii-the-golden-army",
+    "wiki_article": "Hellboy II: The Golden Army",
+    "publisher": "Universal Pictures",
+    "links": [
+     {
+      "to": "hellboy-2004",
+      "kind": "continues",
+      "note": "set a year after the first film"
+     }
+    ],
+    "notes": "",
+    "revid": 1384982074,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Hellboy_II%3A_The_Golden_Army&oldid=1384982074",
+    "title": "Hellboy II: The Golden Army",
+    "type": "film",
+    "continuity": "hellboy-del-toro",
+    "studio_or_developer": "Relativity Media / Dark Horse Entertainment",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2008-07-11",
+      "release_quote": "Hellboy II: The Golden Army was released in the United States on July 11, 2008",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Hellboy_II%3A_The_Golden_Army&oldid=1384982074",
+      "in_universe": {
+       "order_index": 1,
+       "year": 2005,
+       "year_end": null,
+       "label": "2005 (flashback to Christmas 1955)",
+       "confidence": "inferred",
+       "quote": "During Christmas 1955, a young Hellboy is told a bedtime story … In the present day, [efn: A year after the events depicted in Hellboy] Nuada begins gathering the pieces of the crown.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Hellboy_II%3A_The_Golden_Army&oldid=1384982074",
+       "precision": "year",
+       "note": "One year after Hellboy (2004), whose main story is itself derived as 2004; so 2005 is derived twice over."
+      }
+     }
+    ]
+   },
+   {
+    "id": "hellboy-2019",
+    "wiki_article": "Hellboy (2019 film)",
+    "publisher": "Lionsgate",
+    "links": [
+     {
+      "to": "hellboy-2004",
+      "kind": "reboot-of",
+      "note": "\"The franchise was rebooted in 2019\""
+     }
+    ],
+    "notes": "",
+    "revid": 1375138843,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Hellboy_(2019_film)&oldid=1375138843",
+    "title": "Hellboy",
+    "type": "film",
+    "continuity": "hellboy-2019",
+    "studio_or_developer": "Millennium Media / Summit Entertainment (not fully verified)",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-04-12",
+      "release_quote": "Hellboy had its premiere in New York City on April 9, 2019, and was released in the United States on April 12, by Lionsgate.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Hellboy_(2019_film)&oldid=1375138843",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "present day (prologue 517 A.D.)",
+       "confidence": "inferred",
+       "quote": "In 517 A.D., the evil Blood Queen, Vivienne Nimue, unleashes a plague on England until King Arthur thwarts her … In present-day Tijuana, Mexico, paranormal investigator Hellboy accidentally kills missing agent Esteban Ruiz",
+       "source": "https://en.wikipedia.org/w/index.php?title=Hellboy_(2019_film)&oldid=1375138843",
+       "precision": "relative",
+       "note": "Main story is \"present-day\" with no calendar year; not assumed to be 2019."
+      }
+     }
+    ]
+   },
+   {
+    "id": "hellboy-the-crooked-man",
+    "wiki_article": "Hellboy: The Crooked Man",
+    "publisher": "Ketchup Entertainment",
+    "links": [
+     {
+      "to": "hellboy-2019",
+      "kind": "reboot-of",
+      "note": "\"the second reboot of the Hellboy film series\""
+     }
+    ],
+    "notes": "",
+    "revid": 1387891566,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_The_Crooked_Man&oldid=1387891566",
+    "title": "Hellboy: The Crooked Man",
+    "type": "film",
+    "continuity": "hellboy-crooked-man",
+    "studio_or_developer": "Millennium Media / Dark Horse Entertainment / Nu Boyana Film Studios / Campbell Grobman Films",
+    "platform": "home-media",
+    "platforms": [
+     "theatrical",
+     "vod"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-10-08",
+      "release_quote": "Hellboy: The Crooked Man was released in Belgium on June 20, 2024, and was released direct-to-VOD in the United States by Ketchup Entertainment on October 8, 2024.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_The_Crooked_Man&oldid=1387891566",
+      "note": "US release (VOD) used; Belgian release 2024-06-20 is earlier.",
+      "in_universe": {
+       "order_index": 0,
+       "year": 1959,
+       "year_end": null,
+       "label": "1959",
+       "confidence": "stated",
+       "quote": "In 1959, B.P.R.D. senior agent Hellboy and rookie Bobbie Jo Song are escorting a train carrying a mystical spider entity back to Bureau headquarters.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_The_Crooked_Man&oldid=1387891566",
+       "precision": "year"
+      }
+     }
+    ]
+   },
+   {
+    "id": "hellboy-sword-of-storms",
+    "wiki_article": "Hellboy: Sword of Storms",
+    "publisher": "Anchor Bay Entertainment",
+    "links": [],
+    "notes": "Studio not checked (null).",
+    "revid": 1371800092,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Sword_of_Storms&oldid=1371800092",
+    "title": "Hellboy: Sword of Storms",
+    "type": "film",
+    "continuity": "hellboy-animated",
+    "studio_or_developer": null,
+    "platform": "cartoon-network",
+    "platforms": [
+     "cartoon-network",
+     "home-video"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-10-28",
+      "release_quote": "television debut on October 28, 2006 on Cartoon Network's Toonami Saturday action block (and aired again on December 30, 2006) and was released on DVD by Anchor Bay Entertainment on February 6, 2007.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Sword_of_Storms&oldid=1371800092",
+      "note": "Article conflicts with itself: lead says \"released on DVD on October 28, 2006, and aired later that year on Cartoon Network\"; release section says TV debut Oct 28, 2006 and DVD Feb 6, 2007. The date 2006-10-28 is the first release either way.",
+      "in_universe": {
+       "order_index": 0,
+       "year": null,
+       "year_end": null,
+       "label": "present day (myth of hundreds of years ago)",
+       "confidence": "inferred",
+       "quote": "In current-day Japan, Professor Sakai is possessed by the spirits of Thunder and Lightning while reading the scroll.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Sword_of_Storms&oldid=1371800092",
+       "precision": "relative",
+       "note": "\"current-day\", no calendar year. Ordered before Blood and Iron by release only."
+      }
+     }
+    ]
+   },
+   {
+    "id": "hellboy-blood-and-iron",
+    "wiki_article": "Hellboy: Blood and Iron",
+    "publisher": "Anchor Bay Entertainment",
+    "links": [
+     {
+      "to": "hellboy-sword-of-storms",
+      "kind": "continues",
+      "note": "second Hellboy Animated film (release order)"
+     }
+    ],
+    "notes": "Studio not checked (null).",
+    "revid": 1361589323,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Blood_and_Iron&oldid=1361589323",
+    "title": "Hellboy: Blood and Iron",
+    "type": "film",
+    "continuity": "hellboy-animated",
+    "studio_or_developer": null,
+    "platform": "cartoon-network",
+    "platforms": [
+     "cartoon-network",
+     "home-video"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-03-10",
+      "release_quote": "It first aired on March 10, 2007 on Cartoon Network, and aired again on July 19, 2008 to promote the release of Hellboy II: The Golden Army, and was released on DVD by Anchor Bay Entertainment on June 12, 2007.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Blood_and_Iron&oldid=1361589323",
+      "in_universe": {
+       "order_index": 1,
+       "year": null,
+       "year_end": null,
+       "label": "present day (flashbacks to 1939)",
+       "confidence": "inferred",
+       "quote": "In 1939, shown in a series of flashbacks played in reverse chronological order, Professor Trevor Bruttenholm investigates a series of murders in Eastern Europe.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Hellboy%3A_Blood_and_Iron&oldid=1361589323",
+       "precision": "relative",
+       "note": "Only the flashbacks are dated (1939); the present-day frame is undated. Ordered after Sword of Storms by release only."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "_ranks": {
+  "the-boys": [
+   "the-boys-presents-diabolical:s1",
+   "the-boys-tv:s1",
+   "the-boys-tv:s2",
+   "the-boys-tv:s3",
+   "gen-v:s1",
+   "the-boys-tv:s4",
+   "gen-v:s2",
+   "the-boys-tv:s5",
+   "the-boys-comic:comic"
+  ],
+  "spider-verse": [
+   "into-the-spider-verse:film",
+   "across-the-spider-verse:film"
+  ],
+  "invincible": [
+   "invincible-tv:s1",
+   "invincible-tv:special-atom-eve",
+   "invincible-tv:s2",
+   "invincible-tv:s3",
+   "invincible-tv:s4",
+   "invincible-comic:comic"
+  ],
+  "hellboy": [
+   "hellboy-2004:film",
+   "hellboy-ii-the-golden-army:film",
+   "hellboy-2019:film",
+   "hellboy-the-crooked-man:film",
+   "hellboy-sword-of-storms:film",
+   "hellboy-blood-and-iron:film"
+  ]
+ }
+}

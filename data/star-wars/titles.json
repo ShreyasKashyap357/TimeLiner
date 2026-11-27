@@ -1132,9 +1132,153 @@
           "release-season": "1"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars"
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Ambush",
+              "date": "2008-10-03",
+              "millions": 3.99
+            },
+            {
+              "n": 2,
+              "title": "Rising Malevolence",
+              "date": "2008-10-03",
+              "millions": 3.92
+            },
+            {
+              "n": 3,
+              "title": "Shadow of Malevolence",
+              "date": "2008-10-10",
+              "millions": 2.8
+            },
+            {
+              "n": 4,
+              "title": "Destroy Malevolence",
+              "date": "2008-10-17",
+              "millions": null
+            },
+            {
+              "n": 5,
+              "title": "Rookies",
+              "date": "2008-10-24",
+              "millions": null
+            },
+            {
+              "n": 6,
+              "title": "Downfall of a Droid",
+              "date": "2008-11-07",
+              "millions": null
+            },
+            {
+              "n": 7,
+              "title": "Duel of the Droids",
+              "date": "2008-11-14",
+              "millions": null
+            },
+            {
+              "n": 8,
+              "title": "Bombad Jedi",
+              "date": "2008-11-21",
+              "millions": 2.77
+            },
+            {
+              "n": 9,
+              "title": "Cloak of Darkness",
+              "date": "2008-12-05",
+              "millions": 1.95
+            },
+            {
+              "n": 10,
+              "title": "Lair of Grievous",
+              "date": "2008-12-12",
+              "millions": 2.14
+            },
+            {
+              "n": 11,
+              "title": "Dooku Captured",
+              "date": "2009-01-02",
+              "millions": null
+            },
+            {
+              "n": 12,
+              "title": "The Gungan General",
+              "date": "2009-01-09",
+              "millions": 2.31
+            },
+            {
+              "n": 13,
+              "title": "Jedi Crash",
+              "date": "2009-01-16",
+              "millions": 2.35
+            },
+            {
+              "n": 14,
+              "title": "Defenders of Peace",
+              "date": "2009-01-23",
+              "millions": 2.17
+            },
+            {
+              "n": 15,
+              "title": "Trespass",
+              "date": "2009-01-30",
+              "millions": 2.62
+            },
+            {
+              "n": 16,
+              "title": "The Hidden Enemy",
+              "date": "2009-02-06",
+              "millions": 2.51
+            },
+            {
+              "n": 17,
+              "title": "Blue Shadow Virus",
+              "date": "2009-02-13",
+              "millions": 2.94
+            },
+            {
+              "n": 18,
+              "title": "Mystery of a Thousand Moons",
+              "date": "2009-02-13",
+              "millions": 2.11
+            },
+            {
+              "n": 19,
+              "title": "Storm Over Ryloth",
+              "date": "2009-02-27",
+              "millions": 2.37
+            },
+            {
+              "n": 20,
+              "title": "Innocents of Ryloth",
+              "date": "2009-03-06",
+              "millions": 2.49
+            },
+            {
+              "n": 21,
+              "title": "Liberty on Ryloth",
+              "date": "2009-03-13",
+              "millions": 3.01
+            },
+            {
+              "n": 22,
+              "title": "Hostage Crisis",
+              "date": "2009-03-20",
+              "millions": 3.29
+            }
+          ],
+          "season_average": 2.69,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of the 17 of 22 episode figures. 5 episodes have no figure in the source (shown as not available)."
+        }
       },
       {
         "id": "the-clone-wars-s2",
@@ -1178,9 +1322,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
-          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Two"
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Two",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Holocron Heist",
+              "date": "2009-10-02",
+              "millions": 2.58
+            },
+            {
+              "n": 2,
+              "title": "Cargo of Doom",
+              "date": "2009-10-02",
+              "millions": 2.58
+            },
+            {
+              "n": 3,
+              "title": "Children of the Force",
+              "date": "2009-10-09",
+              "millions": 2.8
+            },
+            {
+              "n": 4,
+              "title": "Senate Spy",
+              "date": "2009-10-16",
+              "millions": null
+            },
+            {
+              "n": 5,
+              "title": "Landing at Point Rain",
+              "date": "2009-11-04",
+              "millions": null
+            },
+            {
+              "n": 6,
+              "title": "Weapons Factory",
+              "date": "2009-11-13",
+              "millions": null
+            },
+            {
+              "n": 7,
+              "title": "Legacy of Terror",
+              "date": "2009-11-20",
+              "millions": null
+            },
+            {
+              "n": 8,
+              "title": "Brain Invaders",
+              "date": "2009-12-04",
+              "millions": null
+            },
+            {
+              "n": 9,
+              "title": "Grievous Intrigue",
+              "date": "2010-01-01",
+              "millions": null
+            },
+            {
+              "n": 10,
+              "title": "The Deserter",
+              "date": "2010-01-01",
+              "millions": null
+            },
+            {
+              "n": 11,
+              "title": "Lightsaber Lost",
+              "date": "2010-01-22",
+              "millions": null
+            },
+            {
+              "n": 12,
+              "title": "The Mandalore Plot",
+              "date": "2010-01-29",
+              "millions": null
+            },
+            {
+              "n": 13,
+              "title": "Voyage of Temptation",
+              "date": "2010-02-05",
+              "millions": null
+            },
+            {
+              "n": 14,
+              "title": "Duchess of Mandalore",
+              "date": "2010-02-12",
+              "millions": null
+            },
+            {
+              "n": 15,
+              "title": "Senate Murders",
+              "date": "2010-03-19",
+              "millions": null
+            },
+            {
+              "n": 16,
+              "title": "Cat and Mouse",
+              "date": "2010-03-26",
+              "millions": 2.02
+            },
+            {
+              "n": 17,
+              "title": "Bounty Hunters",
+              "date": "2010-04-02",
+              "millions": null
+            },
+            {
+              "n": 18,
+              "title": "The Zillo Beast",
+              "date": "2010-04-09",
+              "millions": null
+            },
+            {
+              "n": 19,
+              "title": "The Zillo Beast Strikes Back",
+              "date": "2010-04-16",
+              "millions": null
+            },
+            {
+              "n": 20,
+              "title": "Death Trap",
+              "date": "2010-04-23",
+              "millions": 2.85
+            },
+            {
+              "n": 21,
+              "title": "R2 Come Home",
+              "date": "2010-04-30",
+              "millions": 2.76
+            },
+            {
+              "n": 22,
+              "title": "Lethal Trackdown",
+              "date": "2010-04-30",
+              "millions": 2.76
+            }
+          ],
+          "season_average": null,
+          "season_average_kind": null,
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes",
+          "average_source_url": null,
+          "note": "15 episodes have no figure in the source (shown as not available)."
+        }
       },
       {
         "id": "the-clone-wars-s3",
@@ -1224,9 +1512,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
-          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Three"
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Three",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Clone Cadets",
+              "date": "2010-09-17",
+              "millions": 2.42
+            },
+            {
+              "n": 2,
+              "title": "ARC Troopers",
+              "date": "2010-09-17",
+              "millions": 2.42
+            },
+            {
+              "n": 3,
+              "title": "Supply Lines",
+              "date": "2010-09-24",
+              "millions": 1.69
+            },
+            {
+              "n": 4,
+              "title": "Sphere of Influence",
+              "date": "2010-10-01",
+              "millions": 1.88
+            },
+            {
+              "n": 5,
+              "title": "Corruption",
+              "date": "2010-10-08",
+              "millions": 1.78
+            },
+            {
+              "n": 6,
+              "title": "The Academy",
+              "date": "2010-10-15",
+              "millions": 1.79
+            },
+            {
+              "n": 7,
+              "title": "Assassin",
+              "date": "2010-10-22",
+              "millions": 1.85
+            },
+            {
+              "n": 8,
+              "title": "Evil Plans",
+              "date": "2010-11-05",
+              "millions": 1.84
+            },
+            {
+              "n": 9,
+              "title": "Hunt for Ziro",
+              "date": "2010-11-12",
+              "millions": 1.76
+            },
+            {
+              "n": 10,
+              "title": "Heroes on Both Sides",
+              "date": "2010-11-19",
+              "millions": 1.75
+            },
+            {
+              "n": 11,
+              "title": "Pursuit of Peace",
+              "date": "2010-12-03",
+              "millions": 1.61
+            },
+            {
+              "n": 12,
+              "title": "Nightsisters",
+              "date": "2011-01-07",
+              "millions": 1.86
+            },
+            {
+              "n": 13,
+              "title": "Monster",
+              "date": "2011-01-14",
+              "millions": null
+            },
+            {
+              "n": 14,
+              "title": "Witches of the Mist",
+              "date": "2011-01-21",
+              "millions": 2.21
+            },
+            {
+              "n": 15,
+              "title": "Overlords",
+              "date": "2011-01-28",
+              "millions": 1.74
+            },
+            {
+              "n": 16,
+              "title": "Altar of Mortis",
+              "date": "2011-02-04",
+              "millions": 2.29
+            },
+            {
+              "n": 17,
+              "title": "Ghosts of Mortis",
+              "date": "2011-02-11",
+              "millions": 2.24
+            },
+            {
+              "n": 18,
+              "title": "The Citadel",
+              "date": "2011-02-18",
+              "millions": 1.84
+            },
+            {
+              "n": 19,
+              "title": "Counter Attack",
+              "date": "2011-03-04",
+              "millions": 1.87
+            },
+            {
+              "n": 20,
+              "title": "Citadel Rescue",
+              "date": "2011-03-11",
+              "millions": 1.55
+            },
+            {
+              "n": 21,
+              "title": "Padawan Lost",
+              "date": "2011-04-01",
+              "millions": 2.31
+            },
+            {
+              "n": 22,
+              "title": "Wookiee Hunt",
+              "date": "2011-04-01",
+              "millions": 2.31
+            }
+          ],
+          "season_average": 1.95,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of the 21 of 22 episode figures. 1 episode has no figure in the source (shown as not available)."
+        }
       },
       {
         "id": "the-clone-wars-s4",
@@ -1270,9 +1702,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
-          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Four"
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Four",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Water War",
+              "date": "2011-09-16",
+              "millions": 1.93
+            },
+            {
+              "n": 2,
+              "title": "Gungan Attack",
+              "date": "2011-09-16",
+              "millions": 1.93
+            },
+            {
+              "n": 3,
+              "title": "Prisoners",
+              "date": "2011-09-23",
+              "millions": 1.61
+            },
+            {
+              "n": 4,
+              "title": "Shadow Warrior",
+              "date": "2011-09-30",
+              "millions": 1.56
+            },
+            {
+              "n": 5,
+              "title": "Mercy Mission",
+              "date": "2011-10-07",
+              "millions": 1.35
+            },
+            {
+              "n": 6,
+              "title": "Nomad Droids",
+              "date": "2011-10-14",
+              "millions": 1.67
+            },
+            {
+              "n": 7,
+              "title": "Darkness on Umbara",
+              "date": "2011-10-28",
+              "millions": 1.78
+            },
+            {
+              "n": 8,
+              "title": "The General",
+              "date": "2011-11-04",
+              "millions": 1.56
+            },
+            {
+              "n": 9,
+              "title": "Plan of Dissent",
+              "date": "2011-11-11",
+              "millions": 1.8
+            },
+            {
+              "n": 10,
+              "title": "Carnage of Krell",
+              "date": "2011-11-18",
+              "millions": 1.62
+            },
+            {
+              "n": 11,
+              "title": "Kidnapped",
+              "date": "2011-11-25",
+              "millions": 1.57
+            },
+            {
+              "n": 12,
+              "title": "Slaves of the Republic",
+              "date": "2011-12-02",
+              "millions": 1.37
+            },
+            {
+              "n": 13,
+              "title": "Escape from Kadavo",
+              "date": "2012-01-06",
+              "millions": 1.39
+            },
+            {
+              "n": 14,
+              "title": "A Friend in Need",
+              "date": "2012-01-13",
+              "millions": 1.51
+            },
+            {
+              "n": 15,
+              "title": "Deception",
+              "date": "2012-01-20",
+              "millions": 2.12
+            },
+            {
+              "n": 16,
+              "title": "Friends and Enemies",
+              "date": "2012-01-27",
+              "millions": 1.62
+            },
+            {
+              "n": 17,
+              "title": "The Box",
+              "date": "2012-02-03",
+              "millions": 1.8
+            },
+            {
+              "n": 18,
+              "title": "Crisis on Naboo",
+              "date": "2012-02-10",
+              "millions": 1.86
+            },
+            {
+              "n": 19,
+              "title": "Massacre",
+              "date": "2012-02-24",
+              "millions": 1.46
+            },
+            {
+              "n": 20,
+              "title": "Bounty",
+              "date": "2012-03-02",
+              "millions": 2.07
+            },
+            {
+              "n": 21,
+              "title": "Brothers",
+              "date": "2012-03-09",
+              "millions": 1.99
+            },
+            {
+              "n": 22,
+              "title": "Revenge",
+              "date": "2012-03-16",
+              "millions": 2.03
+            }
+          ],
+          "season_average": 1.71,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 22 episode figures."
+        }
       },
       {
         "id": "the-clone-wars-s5",
@@ -1316,9 +1892,141 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars",
-          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Five"
+          "https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_Season_Five",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Revival",
+              "date": "2012-09-29",
+              "millions": 1.94
+            },
+            {
+              "n": 2,
+              "title": "A War on Two Fronts",
+              "date": "2012-10-06",
+              "millions": 1.71
+            },
+            {
+              "n": 3,
+              "title": "Front Runners",
+              "date": "2012-10-13",
+              "millions": 1.75
+            },
+            {
+              "n": 4,
+              "title": "The Soft War",
+              "date": "2012-10-20",
+              "millions": 1.57
+            },
+            {
+              "n": 5,
+              "title": "Tipping Points",
+              "date": "2012-10-27",
+              "millions": 1.42
+            },
+            {
+              "n": 6,
+              "title": "The Gathering",
+              "date": "2012-11-03",
+              "millions": 1.66
+            },
+            {
+              "n": 7,
+              "title": "A Test of Strength",
+              "date": "2012-11-10",
+              "millions": 1.74
+            },
+            {
+              "n": 8,
+              "title": "Bound for Rescue",
+              "date": "2012-11-17",
+              "millions": 1.96
+            },
+            {
+              "n": 9,
+              "title": "A Necessary Bond",
+              "date": "2012-11-24",
+              "millions": 1.39
+            },
+            {
+              "n": 10,
+              "title": "Secret Weapons",
+              "date": "2012-12-01",
+              "millions": 1.46
+            },
+            {
+              "n": 11,
+              "title": "A Sunny Day in the Void",
+              "date": "2012-12-08",
+              "millions": 1.43
+            },
+            {
+              "n": 12,
+              "title": "Missing in Action",
+              "date": "2013-01-05",
+              "millions": 1.74
+            },
+            {
+              "n": 13,
+              "title": "Point of No Return",
+              "date": "2013-01-12",
+              "millions": 1.47
+            },
+            {
+              "n": 14,
+              "title": "Eminence",
+              "date": "2013-01-19",
+              "millions": 1.85
+            },
+            {
+              "n": 15,
+              "title": "Shades of Reason",
+              "date": "2013-01-26",
+              "millions": 1.83
+            },
+            {
+              "n": 16,
+              "title": "The Lawless",
+              "date": "2013-02-02",
+              "millions": 1.86
+            },
+            {
+              "n": 17,
+              "title": "Sabotage",
+              "date": "2013-02-09",
+              "millions": 2.02
+            },
+            {
+              "n": 18,
+              "title": "The Jedi Who Knew Too Much",
+              "date": "2013-02-16",
+              "millions": 1.64
+            },
+            {
+              "n": 19,
+              "title": "To Catch a Jedi",
+              "date": "2013-02-23",
+              "millions": 2.06
+            },
+            {
+              "n": 20,
+              "title": "The Wrong Jedi",
+              "date": "2013-03-02",
+              "millions": 2.18
+            }
+          ],
+          "season_average": 1.73,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 20 episode figures."
+        }
       },
       {
         "id": "the-clone-wars-s6",
@@ -3457,9 +4165,111 @@
           "release-season": "1"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Star_Wars_Rebels"
+          "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Spark of Rebellion (part 1)",
+              "date": "2014-10-03",
+              "millions": 2.74
+            },
+            {
+              "n": 2,
+              "title": "Spark of Rebellion (part 2)",
+              "date": "2014-10-03",
+              "millions": 2.74
+            },
+            {
+              "n": 3,
+              "title": "Droids in Distress",
+              "date": "2014-10-13",
+              "millions": 1.03
+            },
+            {
+              "n": 4,
+              "title": "Fighter Flight",
+              "date": "2014-10-20",
+              "millions": 0.58
+            },
+            {
+              "n": 5,
+              "title": "Rise of the Old Masters",
+              "date": "2014-10-27",
+              "millions": 0.95
+            },
+            {
+              "n": 6,
+              "title": "Breaking Ranks",
+              "date": "2014-11-03",
+              "millions": 0.64
+            },
+            {
+              "n": 7,
+              "title": "Out of Darkness",
+              "date": "2014-11-10",
+              "millions": 0.6
+            },
+            {
+              "n": 8,
+              "title": "Empire Day",
+              "date": "2014-11-17",
+              "millions": 0.67
+            },
+            {
+              "n": 9,
+              "title": "Gathering Forces",
+              "date": "2014-11-24",
+              "millions": 0.66
+            },
+            {
+              "n": 10,
+              "title": "Path of the Jedi",
+              "date": "2015-01-05",
+              "millions": 0.57
+            },
+            {
+              "n": 11,
+              "title": "Idiot's Array",
+              "date": "2015-01-19",
+              "millions": 0.53
+            },
+            {
+              "n": 12,
+              "title": "Vision of Hope",
+              "date": "2015-02-02",
+              "millions": 0.71
+            },
+            {
+              "n": 13,
+              "title": "Call to Action",
+              "date": "2015-02-09",
+              "millions": 0.6
+            },
+            {
+              "n": 14,
+              "title": "Rebel Resolve",
+              "date": "2015-02-23",
+              "millions": 0.55
+            },
+            {
+              "n": 15,
+              "title": "Fire Across the Galaxy",
+              "date": "2015-03-02",
+              "millions": 0.72
+            }
+          ],
+          "season_average": 0.95,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 15 episode figures."
+        }
       },
       {
         "id": "star-wars-rebels-s2",
@@ -3503,9 +4313,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
-          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Two"
+          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Two",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Siege of Lothal (part 1)",
+              "date": "2015-06-20",
+              "millions": 0.59
+            },
+            {
+              "n": 2,
+              "title": "The Siege of Lothal (part 2)",
+              "date": "2015-06-20",
+              "millions": 0.59
+            },
+            {
+              "n": 3,
+              "title": "The Lost Commanders",
+              "date": "2015-10-14",
+              "millions": 0.46
+            },
+            {
+              "n": 4,
+              "title": "Relics of the Old Republic",
+              "date": "2015-10-21",
+              "millions": 0.54
+            },
+            {
+              "n": 5,
+              "title": "Always Two There Are",
+              "date": "2015-10-28",
+              "millions": 0.54
+            },
+            {
+              "n": 6,
+              "title": "Brothers of the Broken Horn",
+              "date": "2015-11-04",
+              "millions": 0.55
+            },
+            {
+              "n": 7,
+              "title": "Wings of the Master",
+              "date": "2015-11-11",
+              "millions": 0.55
+            },
+            {
+              "n": 8,
+              "title": "Blood Sisters",
+              "date": "2015-11-18",
+              "millions": 0.47
+            },
+            {
+              "n": 9,
+              "title": "Stealth Strike",
+              "date": "2015-11-25",
+              "millions": 0.55
+            },
+            {
+              "n": 10,
+              "title": "The Future of the Force",
+              "date": "2015-12-02",
+              "millions": 0.49
+            },
+            {
+              "n": 11,
+              "title": "Legacy",
+              "date": "2015-12-09",
+              "millions": 0.55
+            },
+            {
+              "n": 12,
+              "title": "A Princess on Lothal",
+              "date": "2016-01-20",
+              "millions": 0.6
+            },
+            {
+              "n": 13,
+              "title": "The Protector of Concord Dawn",
+              "date": "2016-01-27",
+              "millions": 0.48
+            },
+            {
+              "n": 14,
+              "title": "Legends of the Lasat",
+              "date": "2016-02-03",
+              "millions": 0.56
+            },
+            {
+              "n": 15,
+              "title": "The Call",
+              "date": "2016-02-10",
+              "millions": 0.59
+            },
+            {
+              "n": 16,
+              "title": "Homecoming",
+              "date": "2016-02-17",
+              "millions": 0.51
+            },
+            {
+              "n": 17,
+              "title": "The Honorable Ones",
+              "date": "2016-02-24",
+              "millions": 0.56
+            },
+            {
+              "n": 18,
+              "title": "Shroud of Darkness",
+              "date": "2016-03-02",
+              "millions": 0.68
+            },
+            {
+              "n": 19,
+              "title": "The Forgotten Droid",
+              "date": "2016-03-16",
+              "millions": 0.58
+            },
+            {
+              "n": 20,
+              "title": "The Mystery of Chopper Base",
+              "date": "2016-03-23",
+              "millions": 0.53
+            },
+            {
+              "n": 21,
+              "title": "Twilight of the Apprentice (part 1)",
+              "date": "2016-03-30",
+              "millions": 0.69
+            },
+            {
+              "n": 22,
+              "title": "Twilight of the Apprentice (part 2)",
+              "date": "2016-03-30",
+              "millions": 0.69
+            }
+          ],
+          "season_average": 0.56,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 22 episode figures."
+        }
       },
       {
         "id": "star-wars-rebels-s3",
@@ -3549,9 +4503,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
-          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Three"
+          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Three",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Steps Into Shadow (part 1)",
+              "date": "2016-09-24",
+              "millions": 0.56
+            },
+            {
+              "n": 2,
+              "title": "Steps Into Shadow (part 2)",
+              "date": "2016-09-24",
+              "millions": 0.56
+            },
+            {
+              "n": 3,
+              "title": "The Holocrons of Fate",
+              "date": "2016-10-01",
+              "millions": 0.41
+            },
+            {
+              "n": 4,
+              "title": "The Antilles Extraction",
+              "date": "2016-10-08",
+              "millions": 0.51
+            },
+            {
+              "n": 5,
+              "title": "Hera's Heroes",
+              "date": "2016-10-15",
+              "millions": 0.4
+            },
+            {
+              "n": 6,
+              "title": "The Last Battle",
+              "date": "2016-10-22",
+              "millions": 0.45
+            },
+            {
+              "n": 7,
+              "title": "Imperial Supercommandos",
+              "date": "2016-11-05",
+              "millions": 0.55
+            },
+            {
+              "n": 8,
+              "title": "Iron Squadron",
+              "date": "2016-11-19",
+              "millions": 0.41
+            },
+            {
+              "n": 9,
+              "title": "The Wynkahthu Job",
+              "date": "2016-11-26",
+              "millions": 0.44
+            },
+            {
+              "n": 10,
+              "title": "An Inside Man",
+              "date": "2016-12-03",
+              "millions": 0.36
+            },
+            {
+              "n": 11,
+              "title": "Visions and Voices",
+              "date": "2016-12-10",
+              "millions": 0.43
+            },
+            {
+              "n": 12,
+              "title": "Ghosts of Geonosis (part 1)",
+              "date": "2017-01-07",
+              "millions": 0.56
+            },
+            {
+              "n": 13,
+              "title": "Ghosts of Geonosis (part 2)",
+              "date": "2017-01-07",
+              "millions": 0.56
+            },
+            {
+              "n": 14,
+              "title": "Warhead",
+              "date": "2017-01-14",
+              "millions": 0.37
+            },
+            {
+              "n": 15,
+              "title": "Trials of the Darksaber",
+              "date": "2017-01-21",
+              "millions": 0.48
+            },
+            {
+              "n": 16,
+              "title": "Legacy of Mandalore",
+              "date": "2017-02-18",
+              "millions": 0.36
+            },
+            {
+              "n": 17,
+              "title": "Through Imperial Eyes",
+              "date": "2017-02-25",
+              "millions": 0.42
+            },
+            {
+              "n": 18,
+              "title": "Secret Cargo",
+              "date": "2017-03-04",
+              "millions": 0.42
+            },
+            {
+              "n": 19,
+              "title": "Double Agent Droid",
+              "date": "2017-03-11",
+              "millions": 0.36
+            },
+            {
+              "n": 20,
+              "title": "Twin Suns",
+              "date": "2017-03-18",
+              "millions": 0.4
+            },
+            {
+              "n": 21,
+              "title": "Zero Hour (part 1)",
+              "date": "2017-03-25",
+              "millions": 0.49
+            },
+            {
+              "n": 22,
+              "title": "Zero Hour (part 2)",
+              "date": "2017-03-25",
+              "millions": 0.49
+            }
+          ],
+          "season_average": 0.45,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 22 episode figures."
+        }
       },
       {
         "id": "star-wars-rebels-s4",
@@ -3595,9 +4693,117 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars_Rebels",
-          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Four"
+          "https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_Four",
+          "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Heroes of Mandalore (part 1)",
+              "date": "2017-10-16",
+              "millions": null
+            },
+            {
+              "n": 2,
+              "title": "Heroes of Mandalore (part 2)",
+              "date": "2017-10-16",
+              "millions": null
+            },
+            {
+              "n": 3,
+              "title": "In the Name of the Rebellion (part 1)",
+              "date": "2017-10-23",
+              "millions": 0.26
+            },
+            {
+              "n": 4,
+              "title": "In the Name of the Rebellion (part 2)",
+              "date": "2017-10-23",
+              "millions": 0.26
+            },
+            {
+              "n": 5,
+              "title": "The Occupation",
+              "date": "2017-10-30",
+              "millions": 0.2
+            },
+            {
+              "n": 6,
+              "title": "Flight of the Defender",
+              "date": "2017-10-30",
+              "millions": 0.19
+            },
+            {
+              "n": 7,
+              "title": "Kindred",
+              "date": "2017-11-06",
+              "millions": 0.27
+            },
+            {
+              "n": 8,
+              "title": "Crawler Commandeers",
+              "date": "2017-11-06",
+              "millions": 0.26
+            },
+            {
+              "n": 9,
+              "title": "Rebel Assault",
+              "date": "2017-11-13",
+              "millions": 0.28
+            },
+            {
+              "n": 10,
+              "title": "Jedi Night",
+              "date": "2018-02-19",
+              "millions": 0.34
+            },
+            {
+              "n": 11,
+              "title": "DUME",
+              "date": "2018-02-19",
+              "millions": 0.35
+            },
+            {
+              "n": 12,
+              "title": "Wolves and a Door",
+              "date": "2018-02-26",
+              "millions": 0.28
+            },
+            {
+              "n": 13,
+              "title": "A World Between Worlds",
+              "date": "2018-02-26",
+              "millions": null
+            },
+            {
+              "n": 14,
+              "title": "A Fool's Hope",
+              "date": "2018-03-05",
+              "millions": 0.51
+            },
+            {
+              "n": 15,
+              "title": "Family Reunion – and Farewell (part 1)",
+              "date": "2018-03-05",
+              "millions": 0.46
+            },
+            {
+              "n": 16,
+              "title": "Family Reunion – and Farewell (part 2)",
+              "date": "2018-03-05",
+              "millions": 0.46
+            }
+          ],
+          "season_average": 0.32,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Star_Wars_Rebels_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of the 13 of 16 episode figures. 3 episodes have no figure in the source (shown as not available)."
+        }
       }
     ],
     "links": [],
@@ -7410,7 +8616,144 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/Star_Wars_Resistance"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Recruit (part 1)",
+              "date": "2018-10-07",
+              "millions": 0.33
+            },
+            {
+              "n": 2,
+              "title": "The Recruit (part 2)",
+              "date": "2018-10-07",
+              "millions": 0.33
+            },
+            {
+              "n": 3,
+              "title": "The Triple Dark",
+              "date": "2018-10-14",
+              "millions": 0.47
+            },
+            {
+              "n": 4,
+              "title": "Fuel for the Fire",
+              "date": "2018-10-21",
+              "millions": 0.39
+            },
+            {
+              "n": 5,
+              "title": "The High Tower",
+              "date": "2018-10-28",
+              "millions": 0.38
+            },
+            {
+              "n": 6,
+              "title": "The Children from Tehar",
+              "date": "2018-11-04",
+              "millions": 0.41
+            },
+            {
+              "n": 7,
+              "title": "Signal from Sector Six",
+              "date": "2018-11-11",
+              "millions": 0.41
+            },
+            {
+              "n": 8,
+              "title": "Synara's Score",
+              "date": "2018-11-18",
+              "millions": 0.54
+            },
+            {
+              "n": 9,
+              "title": "The Platform Classic",
+              "date": "2018-11-25",
+              "millions": 0.33
+            },
+            {
+              "n": 10,
+              "title": "Secrets and Holograms",
+              "date": "2018-12-02",
+              "millions": 0.38
+            },
+            {
+              "n": 11,
+              "title": "Station Theta Black",
+              "date": "2018-12-09",
+              "millions": 0.38
+            },
+            {
+              "n": 12,
+              "title": "Bibo",
+              "date": "2019-01-13",
+              "millions": 0.47
+            },
+            {
+              "n": 13,
+              "title": "Dangerous Business",
+              "date": "2019-01-20",
+              "millions": 0.34
+            },
+            {
+              "n": 14,
+              "title": "The Doza Dilemma",
+              "date": "2019-01-27",
+              "millions": 0.35
+            },
+            {
+              "n": 15,
+              "title": "The First Order Occupation",
+              "date": "2019-02-03",
+              "millions": 0.31
+            },
+            {
+              "n": 16,
+              "title": "The New Trooper",
+              "date": "2019-02-10",
+              "millions": 0.42
+            },
+            {
+              "n": 17,
+              "title": "The Core Problem",
+              "date": "2019-02-17",
+              "millions": 0.38
+            },
+            {
+              "n": 18,
+              "title": "The Disappeared",
+              "date": "2019-02-24",
+              "millions": 0.49
+            },
+            {
+              "n": 19,
+              "title": "Descent",
+              "date": "2019-03-03",
+              "millions": 0.34
+            },
+            {
+              "n": 20,
+              "title": "No Escape (part 1)",
+              "date": "2019-03-10",
+              "millions": 0.36
+            },
+            {
+              "n": 21,
+              "title": "No Escape (part 2)",
+              "date": "2019-03-17",
+              "millions": 0.36
+            }
+          ],
+          "season_average": 0.39,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Star_Wars_Resistance",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 21 episode figures."
+        }
       },
       {
         "id": "star-wars-resistance-s2",
@@ -7456,7 +8799,132 @@
           "https://en.wikipedia.org/wiki/Star_Wars_Resistance",
           "https://starwars.fandom.com/wiki/Star_Wars_Resistance_Season_Two"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Into the Unknown",
+              "date": "2019-10-06",
+              "millions": null
+            },
+            {
+              "n": 2,
+              "title": "A Quick Salvage Run",
+              "date": "2019-10-13",
+              "millions": null
+            },
+            {
+              "n": 3,
+              "title": "Live Fire",
+              "date": "2019-10-20",
+              "millions": 0.11
+            },
+            {
+              "n": 4,
+              "title": "Hunt On Celsor 3",
+              "date": "2019-10-27",
+              "millions": null
+            },
+            {
+              "n": 5,
+              "title": "The Engineer",
+              "date": "2019-11-03",
+              "millions": null
+            },
+            {
+              "n": 6,
+              "title": "From Beneath",
+              "date": "2019-11-10",
+              "millions": null
+            },
+            {
+              "n": 7,
+              "title": "The Relic Raiders",
+              "date": "2019-11-17",
+              "millions": null
+            },
+            {
+              "n": 8,
+              "title": "Rendezvous Point",
+              "date": "2019-11-24",
+              "millions": null
+            },
+            {
+              "n": 9,
+              "title": "The Voxx Vortex 5000",
+              "date": "2019-12-01",
+              "millions": null
+            },
+            {
+              "n": 10,
+              "title": "Kaz's Curse",
+              "date": "2019-12-08",
+              "millions": null
+            },
+            {
+              "n": 11,
+              "title": "Station to Station",
+              "date": "2019-12-15",
+              "millions": null
+            },
+            {
+              "n": 12,
+              "title": "The Missing Agent",
+              "date": "2019-12-22",
+              "millions": null
+            },
+            {
+              "n": 13,
+              "title": "Breakout",
+              "date": "2019-12-29",
+              "millions": null
+            },
+            {
+              "n": 14,
+              "title": "The Mutiny",
+              "date": "2020-01-05",
+              "millions": null
+            },
+            {
+              "n": 15,
+              "title": "The New World",
+              "date": "2020-01-12",
+              "millions": 0.12
+            },
+            {
+              "n": 16,
+              "title": "No Place Safe",
+              "date": "2020-01-12",
+              "millions": 0.12
+            },
+            {
+              "n": 17,
+              "title": "Rebuilding the Resistance",
+              "date": "2020-01-19",
+              "millions": null
+            },
+            {
+              "n": 18,
+              "title": "The Escape (part 1)",
+              "date": "2020-01-26",
+              "millions": null
+            },
+            {
+              "n": 19,
+              "title": "The Escape (part 2)",
+              "date": "2020-01-26",
+              "millions": null
+            }
+          ],
+          "season_average": null,
+          "season_average_kind": null,
+          "source_url": "https://en.wikipedia.org/wiki/Star_Wars_Resistance",
+          "average_source_url": null,
+          "note": "16 episodes have no figure in the source (shown as not available)."
+        }
       }
     ],
     "links": [],

@@ -2182,9 +2182,75 @@
           "release-season": "1"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles"
+          "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles",
+          "https://en.wikipedia.org/wiki/List_of_Terminator%3A_The_Sarah_Connor_Chronicles_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Pilot",
+              "date": "2008-01-13",
+              "millions": 18.36
+            },
+            {
+              "n": 2,
+              "title": "Gnothi Seauton",
+              "date": "2008-01-14",
+              "millions": 10.08
+            },
+            {
+              "n": 3,
+              "title": "The Turk",
+              "date": "2008-01-21",
+              "millions": 8.65
+            },
+            {
+              "n": 4,
+              "title": "Heavy Metal",
+              "date": "2008-02-04",
+              "millions": 8.84
+            },
+            {
+              "n": 5,
+              "title": "Queen's Gambit",
+              "date": "2008-02-11",
+              "millions": 8.34
+            },
+            {
+              "n": 6,
+              "title": "Dungeons & Dragons",
+              "date": "2008-02-18",
+              "millions": 8.09
+            },
+            {
+              "n": 7,
+              "title": "The Demon Hand",
+              "date": "2008-02-25",
+              "millions": 7.12
+            },
+            {
+              "n": 8,
+              "title": "Vick's Chip",
+              "date": "2008-03-03",
+              "millions": 7.98
+            },
+            {
+              "n": 9,
+              "title": "What He Beheld",
+              "date": "2008-03-03",
+              "millions": 8.29
+            }
+          ],
+          "season_average": 9.53,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Terminator%3A_The_Sarah_Connor_Chronicles_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 9 episode figures."
+        }
       },
       {
         "id": "terminator-sarah-connor-chronicles-s2",
@@ -2225,9 +2291,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles",
-          "https://terminator.fandom.com/wiki/Terminator:_The_Sarah_Connor_Chronicles/Season_2 (revid 115278; gives no year)"
+          "https://terminator.fandom.com/wiki/Terminator:_The_Sarah_Connor_Chronicles/Season_2 (revid 115278; gives no year)",
+          "https://en.wikipedia.org/wiki/List_of_Terminator%3A_The_Sarah_Connor_Chronicles_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "US viewers (millions)",
+          "country": "US",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Samson and Delilah",
+              "date": "2008-09-08",
+              "millions": 6.34
+            },
+            {
+              "n": 2,
+              "title": "Automatic for the People",
+              "date": "2008-09-15",
+              "millions": 5.49
+            },
+            {
+              "n": 3,
+              "title": "The Mousetrap",
+              "date": "2008-09-22",
+              "millions": 5.82
+            },
+            {
+              "n": 4,
+              "title": "Allison from Palmdale",
+              "date": "2008-09-29",
+              "millions": 5.53
+            },
+            {
+              "n": 5,
+              "title": "Goodbye to All That",
+              "date": "2008-10-06",
+              "millions": 5.61
+            },
+            {
+              "n": 6,
+              "title": "The Tower Is Tall but the Fall Is Short",
+              "date": "2008-10-20",
+              "millions": 5.34
+            },
+            {
+              "n": 7,
+              "title": "Brothers of Nablus",
+              "date": "2008-11-03",
+              "millions": 5.16
+            },
+            {
+              "n": 8,
+              "title": "Mr. Ferguson Is Ill Today",
+              "date": "2008-11-10",
+              "millions": 5.19
+            },
+            {
+              "n": 9,
+              "title": "Complications",
+              "date": "2008-11-17",
+              "millions": 5.31
+            },
+            {
+              "n": 10,
+              "title": "Strange Things Happen at the One Two Point",
+              "date": "2008-11-24",
+              "millions": 4.62
+            },
+            {
+              "n": 11,
+              "title": "Self Made Man",
+              "date": "2008-12-01",
+              "millions": 5.83
+            },
+            {
+              "n": 12,
+              "title": "Alpine Fields",
+              "date": "2008-12-08",
+              "millions": 5.21
+            },
+            {
+              "n": 13,
+              "title": "Earthlings Welcome Here",
+              "date": "2008-12-15",
+              "millions": 5.29
+            },
+            {
+              "n": 14,
+              "title": "The Good Wound",
+              "date": "2009-02-13",
+              "millions": 3.52
+            },
+            {
+              "n": 15,
+              "title": "Desert Cantos",
+              "date": "2009-02-20",
+              "millions": 3.84
+            },
+            {
+              "n": 16,
+              "title": "Some Must Watch, While Some Must Sleep",
+              "date": "2009-02-27",
+              "millions": 3.42
+            },
+            {
+              "n": 17,
+              "title": "Ourselves Alone",
+              "date": "2009-03-06",
+              "millions": 2.96
+            },
+            {
+              "n": 18,
+              "title": "Today Is the Day, Part 1",
+              "date": "2009-03-13",
+              "millions": 3.5
+            },
+            {
+              "n": 19,
+              "title": "Today Is the Day, Part 2",
+              "date": "2009-03-20",
+              "millions": 3.65
+            },
+            {
+              "n": 20,
+              "title": "To the Lighthouse",
+              "date": "2009-03-27",
+              "millions": 3.83
+            },
+            {
+              "n": 21,
+              "title": "Adam Raised a Cain",
+              "date": "2009-04-03",
+              "millions": 3.35
+            },
+            {
+              "n": 22,
+              "title": "Born to Run",
+              "date": "2009-04-10",
+              "millions": 3.6
+            }
+          ],
+          "season_average": 4.65,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Terminator%3A_The_Sarah_Connor_Chronicles_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 22 episode figures."
+        }
       }
     ],
     "links": [

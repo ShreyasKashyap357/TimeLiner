@@ -622,9 +622,75 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)",
-          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_season_1&oldid=1374618109"
+          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_season_1&oldid=1374618109",
+          "https://en.wikipedia.org/wiki/The_Last_of_Us_season_1"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "When You're Lost in the Darkness",
+              "date": "2023-01-15",
+              "millions": 0.588
+            },
+            {
+              "n": 2,
+              "title": "Infected",
+              "date": "2023-01-22",
+              "millions": 0.633
+            },
+            {
+              "n": 3,
+              "title": "Long, Long Time",
+              "date": "2023-01-29",
+              "millions": 0.747
+            },
+            {
+              "n": 4,
+              "title": "Please Hold to My Hand",
+              "date": "2023-02-05",
+              "millions": 0.991
+            },
+            {
+              "n": 5,
+              "title": "Endure and Survive",
+              "date": "2023-02-12",
+              "millions": 0.382
+            },
+            {
+              "n": 6,
+              "title": "Kin",
+              "date": "2023-02-19",
+              "millions": 0.841
+            },
+            {
+              "n": 7,
+              "title": "Left Behind",
+              "date": "2023-02-26",
+              "millions": 1.083
+            },
+            {
+              "n": 8,
+              "title": "When We Are in Need",
+              "date": "2023-03-05",
+              "millions": 1.039
+            },
+            {
+              "n": 9,
+              "title": "Look for the Light",
+              "date": "2023-03-12",
+              "millions": 1.04
+            }
+          ],
+          "season_average": 0.82,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_season_1",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 9 episode figures."
+        }
       },
       {
         "id": "tlou-hbo-s2",
@@ -667,9 +733,63 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)",
           "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_season_2&oldid=1382981458",
-          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_%28TV_series%29&oldid=1387229405"
+          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_%28TV_series%29&oldid=1387229405",
+          "https://en.wikipedia.org/wiki/The_Last_of_Us_season_2"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Future Days",
+              "date": "2025-04-13",
+              "millions": 0.938
+            },
+            {
+              "n": 2,
+              "title": "Through the Valley",
+              "date": "2025-04-20",
+              "millions": 0.643
+            },
+            {
+              "n": 3,
+              "title": "The Path",
+              "date": "2025-04-27",
+              "millions": 0.768
+            },
+            {
+              "n": 4,
+              "title": "Day One",
+              "date": "2025-05-04",
+              "millions": 0.774
+            },
+            {
+              "n": 5,
+              "title": "Feel Her Love",
+              "date": "2025-05-11",
+              "millions": 0.652
+            },
+            {
+              "n": 6,
+              "title": "The Price",
+              "date": "2025-05-18",
+              "millions": 0.701
+            },
+            {
+              "n": 7,
+              "title": "Convergence",
+              "date": "2025-05-25",
+              "millions": 0.68
+            }
+          ],
+          "season_average": 0.74,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_season_2",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 7 episode figures."
+        }
       },
       {
         "id": "tlou-hbo-s3",

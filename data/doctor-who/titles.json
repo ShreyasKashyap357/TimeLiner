@@ -65,9 +65,273 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_1_(1963%E2%80%931964)"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "An Unearthly Child: An Unearthly Child",
+              "date": "1963-11-23",
+              "millions": 4.4
+            },
+            {
+              "n": 2,
+              "title": "An Unearthly Child: The Cave of Skulls",
+              "date": "1963-11-30",
+              "millions": 5.9
+            },
+            {
+              "n": 3,
+              "title": "An Unearthly Child: The Forest of Fear",
+              "date": "1963-12-07",
+              "millions": 6.9
+            },
+            {
+              "n": 4,
+              "title": "An Unearthly Child: The Firemaker",
+              "date": "1963-12-14",
+              "millions": 6.4
+            },
+            {
+              "n": 5,
+              "title": "The Daleks: The Dead Planet",
+              "date": "1963-12-21",
+              "millions": 6.9
+            },
+            {
+              "n": 6,
+              "title": "The Daleks: The Survivors",
+              "date": "1963-12-28",
+              "millions": 6.4
+            },
+            {
+              "n": 7,
+              "title": "The Daleks: The Escape",
+              "date": "1964-01-04",
+              "millions": 8.9
+            },
+            {
+              "n": 8,
+              "title": "The Daleks: The Ambush",
+              "date": "1964-01-11",
+              "millions": 9.9
+            },
+            {
+              "n": 9,
+              "title": "The Daleks: The Expedition",
+              "date": "1964-01-18",
+              "millions": 9.9
+            },
+            {
+              "n": 10,
+              "title": "The Daleks: The Ordeal",
+              "date": "1964-01-25",
+              "millions": 10.4
+            },
+            {
+              "n": 11,
+              "title": "The Daleks: The Rescue",
+              "date": "1964-02-01",
+              "millions": 10.4
+            },
+            {
+              "n": 12,
+              "title": "The Edge of Destruction: The Edge of Destruction",
+              "date": "1964-02-08",
+              "millions": 10.4
+            },
+            {
+              "n": 13,
+              "title": "The Edge of Destruction: The Brink of Disaster",
+              "date": "1964-02-15",
+              "millions": 9.9
+            },
+            {
+              "n": 14,
+              "title": "Marco Polo: The Roof of the World",
+              "date": "1964-02-22",
+              "millions": 9.4
+            },
+            {
+              "n": 15,
+              "title": "Marco Polo: The Singing Sands",
+              "date": "1964-02-29",
+              "millions": 9.4
+            },
+            {
+              "n": 16,
+              "title": "Marco Polo: Five Hundred Eyes",
+              "date": "1964-03-07",
+              "millions": 9.4
+            },
+            {
+              "n": 17,
+              "title": "Marco Polo: The Wall of Lies",
+              "date": "1964-03-14",
+              "millions": 9.9
+            },
+            {
+              "n": 18,
+              "title": "Marco Polo: Rider from Shang-Tu",
+              "date": "1964-03-21",
+              "millions": 9.4
+            },
+            {
+              "n": 19,
+              "title": "Marco Polo: Mighty Kublai Khan",
+              "date": "1964-03-28",
+              "millions": 8.4
+            },
+            {
+              "n": 20,
+              "title": "Marco Polo: Assassin at Peking",
+              "date": "1964-04-04",
+              "millions": 10.4
+            },
+            {
+              "n": 21,
+              "title": "The Keys of Marinus: The Sea of Death",
+              "date": "1964-04-11",
+              "millions": 9.9
+            },
+            {
+              "n": 22,
+              "title": "The Keys of Marinus: The Velvet Web",
+              "date": "1964-04-18",
+              "millions": 9.4
+            },
+            {
+              "n": 23,
+              "title": "The Keys of Marinus: The Screaming Jungle",
+              "date": "1964-04-25",
+              "millions": 9.9
+            },
+            {
+              "n": 24,
+              "title": "The Keys of Marinus: The Snows of Terror",
+              "date": "1964-05-02",
+              "millions": 10.4
+            },
+            {
+              "n": 25,
+              "title": "The Keys of Marinus: Sentence of Death",
+              "date": "1964-05-09",
+              "millions": 7.9
+            },
+            {
+              "n": 26,
+              "title": "The Keys of Marinus: The Keys of Marinus",
+              "date": "1964-05-16",
+              "millions": 6.9
+            },
+            {
+              "n": 27,
+              "title": "The Aztecs: The Temple of Evil",
+              "date": "1964-05-23",
+              "millions": 7.4
+            },
+            {
+              "n": 28,
+              "title": "The Aztecs: The Warriors of Death",
+              "date": "1964-05-30",
+              "millions": 7.4
+            },
+            {
+              "n": 29,
+              "title": "The Aztecs: The Bride of Sacrifice",
+              "date": "1964-06-06",
+              "millions": 7.9
+            },
+            {
+              "n": 30,
+              "title": "The Aztecs: The Day of Darkness",
+              "date": "1964-06-13",
+              "millions": 7.4
+            },
+            {
+              "n": 31,
+              "title": "The Sensorites: Strangers in Space",
+              "date": "1964-06-20",
+              "millions": 7.9
+            },
+            {
+              "n": 32,
+              "title": "The Sensorites: The Unwilling Warriors",
+              "date": "1964-06-27",
+              "millions": 6.9
+            },
+            {
+              "n": 33,
+              "title": "The Sensorites: Hidden Danger",
+              "date": "1964-07-11",
+              "millions": 7.4
+            },
+            {
+              "n": 34,
+              "title": "The Sensorites: A Race Against Death",
+              "date": "1964-07-18",
+              "millions": 5.5
+            },
+            {
+              "n": 35,
+              "title": "The Sensorites: Kidnap",
+              "date": "1964-07-25",
+              "millions": 6.9
+            },
+            {
+              "n": 36,
+              "title": "The Sensorites: A Desperate Venture",
+              "date": "1964-08-01",
+              "millions": 6.9
+            },
+            {
+              "n": 37,
+              "title": "The Reign of Terror: A Land of Fear",
+              "date": "1964-08-08",
+              "millions": 6.9
+            },
+            {
+              "n": 38,
+              "title": "The Reign of Terror: Guests of Madame Guillotine",
+              "date": "1964-08-15",
+              "millions": 6.9
+            },
+            {
+              "n": 39,
+              "title": "The Reign of Terror: A Change of Identity",
+              "date": "1964-08-22",
+              "millions": 6.9
+            },
+            {
+              "n": 40,
+              "title": "The Reign of Terror: The Tyrant of France",
+              "date": "1964-08-29",
+              "millions": 6.4
+            },
+            {
+              "n": 41,
+              "title": "The Reign of Terror: A Bargain of Necessity",
+              "date": "1964-09-05",
+              "millions": 6.9
+            },
+            {
+              "n": 42,
+              "title": "The Reign of Terror: Prisoners of Conciergerie",
+              "date": "1964-09-12",
+              "millions": 6.4
+            }
+          ],
+          "season_average": 8.08,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_1_(1963%E2%80%931964)",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 42 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s2",
@@ -107,9 +371,255 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_2_(1964%E2%80%931965)"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Planet of Giants: Planet of Giants",
+              "date": "1964-10-31",
+              "millions": 8.4
+            },
+            {
+              "n": 2,
+              "title": "Planet of Giants: Dangerous Journey",
+              "date": "1964-11-07",
+              "millions": 8.4
+            },
+            {
+              "n": 3,
+              "title": "Planet of Giants: Crisis",
+              "date": "1964-11-14",
+              "millions": 8.9
+            },
+            {
+              "n": 4,
+              "title": "The Dalek Invasion of Earth: World's End",
+              "date": "1964-11-21",
+              "millions": 11.4
+            },
+            {
+              "n": 5,
+              "title": "The Dalek Invasion of Earth: The Daleks",
+              "date": "1964-11-28",
+              "millions": 12.4
+            },
+            {
+              "n": 6,
+              "title": "The Dalek Invasion of Earth: Day of Reckoning",
+              "date": "1964-12-05",
+              "millions": 11.9
+            },
+            {
+              "n": 7,
+              "title": "The Dalek Invasion of Earth: The End of Tomorrow",
+              "date": "1964-12-12",
+              "millions": 11.9
+            },
+            {
+              "n": 8,
+              "title": "The Dalek Invasion of Earth: The Waking Ally",
+              "date": "1964-12-19",
+              "millions": 11.4
+            },
+            {
+              "n": 9,
+              "title": "The Dalek Invasion of Earth: Flashpoint",
+              "date": "1964-12-26",
+              "millions": 12.4
+            },
+            {
+              "n": 10,
+              "title": "The Rescue: The Powerful Enemy",
+              "date": "1965-01-02",
+              "millions": 12
+            },
+            {
+              "n": 11,
+              "title": "The Rescue: Desperate Measures",
+              "date": "1965-01-09",
+              "millions": 13
+            },
+            {
+              "n": 12,
+              "title": "The Romans: The Slave Traders",
+              "date": "1965-01-16",
+              "millions": 13
+            },
+            {
+              "n": 13,
+              "title": "The Romans: All Roads Lead to Rome",
+              "date": "1965-01-23",
+              "millions": 11.5
+            },
+            {
+              "n": 14,
+              "title": "The Romans: Conspiracy",
+              "date": "1965-01-30",
+              "millions": 10
+            },
+            {
+              "n": 15,
+              "title": "The Romans: Inferno",
+              "date": "1965-02-06",
+              "millions": 12
+            },
+            {
+              "n": 16,
+              "title": "The Web Planet: The Web Planet",
+              "date": "1965-02-13",
+              "millions": 13.5
+            },
+            {
+              "n": 17,
+              "title": "The Web Planet: The Zarbi",
+              "date": "1965-02-20",
+              "millions": 12.5
+            },
+            {
+              "n": 18,
+              "title": "The Web Planet: Escape to Danger",
+              "date": "1965-02-27",
+              "millions": 12.5
+            },
+            {
+              "n": 19,
+              "title": "The Web Planet: Crater of Needles",
+              "date": "1965-03-06",
+              "millions": 13
+            },
+            {
+              "n": 20,
+              "title": "The Web Planet: Invasion",
+              "date": "1965-03-13",
+              "millions": 12
+            },
+            {
+              "n": 21,
+              "title": "The Web Planet: The Centre",
+              "date": "1965-03-20",
+              "millions": 11.5
+            },
+            {
+              "n": 22,
+              "title": "The Crusade: The Lion",
+              "date": "1965-03-27",
+              "millions": 10.5
+            },
+            {
+              "n": 23,
+              "title": "The Crusade: The Knight of Jaffa",
+              "date": "1965-04-03",
+              "millions": 8.5
+            },
+            {
+              "n": 24,
+              "title": "The Crusade: The Wheel of Fortune",
+              "date": "1965-04-10",
+              "millions": 9
+            },
+            {
+              "n": 25,
+              "title": "The Crusade: The Warlords",
+              "date": "1965-04-17",
+              "millions": 9.5
+            },
+            {
+              "n": 26,
+              "title": "The Space Museum: The Space Museum",
+              "date": "1965-04-24",
+              "millions": 10.5
+            },
+            {
+              "n": 27,
+              "title": "The Space Museum: The Dimensions of Time",
+              "date": "1965-05-01",
+              "millions": 9.2
+            },
+            {
+              "n": 28,
+              "title": "The Space Museum: The Search",
+              "date": "1965-05-08",
+              "millions": 8.5
+            },
+            {
+              "n": 29,
+              "title": "The Space Museum: The Final Phase",
+              "date": "1965-05-15",
+              "millions": 8.5
+            },
+            {
+              "n": 30,
+              "title": "The Chase: The Executioners",
+              "date": "1965-05-22",
+              "millions": 10
+            },
+            {
+              "n": 31,
+              "title": "The Chase: The Death of Time",
+              "date": "1965-05-29",
+              "millions": 9.5
+            },
+            {
+              "n": 32,
+              "title": "The Chase: Flight Through Eternity",
+              "date": "1965-06-05",
+              "millions": 9
+            },
+            {
+              "n": 33,
+              "title": "The Chase: Journey into Terror",
+              "date": "1965-06-12",
+              "millions": 9.5
+            },
+            {
+              "n": 34,
+              "title": "The Chase: The Death of Doctor Who",
+              "date": "1965-06-19",
+              "millions": 9
+            },
+            {
+              "n": 35,
+              "title": "The Chase: The Planet of Decision",
+              "date": "1965-06-26",
+              "millions": 9.5
+            },
+            {
+              "n": 36,
+              "title": "The Time Meddler: The Watcher",
+              "date": "1965-07-03",
+              "millions": 8.9
+            },
+            {
+              "n": 37,
+              "title": "The Time Meddler: The Meddling Monk",
+              "date": "1965-07-10",
+              "millions": 8.8
+            },
+            {
+              "n": 38,
+              "title": "The Time Meddler: A Battle of Wits",
+              "date": "1965-07-17",
+              "millions": 7.7
+            },
+            {
+              "n": 39,
+              "title": "The Time Meddler: Checkmate",
+              "date": "1965-07-24",
+              "millions": 8.3
+            }
+          ],
+          "season_average": 10.46,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_2_(1964%E2%80%931965)",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 39 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s3",
@@ -149,9 +659,291 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_3"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Galaxy 4: Four Hundred Dawns",
+              "date": "1965-09-11",
+              "millions": 9
+            },
+            {
+              "n": 2,
+              "title": "Galaxy 4: Trap of Steel",
+              "date": "1965-09-18",
+              "millions": 9.5
+            },
+            {
+              "n": 3,
+              "title": "Galaxy 4: Air Lock",
+              "date": "1965-09-25",
+              "millions": 11.3
+            },
+            {
+              "n": 4,
+              "title": "Galaxy 4: The Exploding Planet",
+              "date": "1965-10-02",
+              "millions": 9.9
+            },
+            {
+              "n": 2,
+              "title": "Mission to the Unknown",
+              "date": null,
+              "millions": null
+            },
+            {
+              "n": 6,
+              "title": "The Myth Makers: Temple of Secrets",
+              "date": "1965-10-16",
+              "millions": 8.3
+            },
+            {
+              "n": 7,
+              "title": "The Myth Makers: Small Prophet, Quick Return",
+              "date": "1965-10-23",
+              "millions": 8.1
+            },
+            {
+              "n": 8,
+              "title": "The Myth Makers: Death of a Spy",
+              "date": "1965-10-30",
+              "millions": 8.7
+            },
+            {
+              "n": 9,
+              "title": "The Myth Makers: Horse of Destruction",
+              "date": "1965-11-06",
+              "millions": 8.3
+            },
+            {
+              "n": 10,
+              "title": "The Daleks' Master Plan: The Nightmare Begins",
+              "date": "1965-11-13",
+              "millions": 9.1
+            },
+            {
+              "n": 11,
+              "title": "The Daleks' Master Plan: Day of Armageddon",
+              "date": "1965-11-20",
+              "millions": 9.8
+            },
+            {
+              "n": 12,
+              "title": "The Daleks' Master Plan: Devil's Planet",
+              "date": "1965-11-27",
+              "millions": 10.3
+            },
+            {
+              "n": 13,
+              "title": "The Daleks' Master Plan: The Traitors",
+              "date": "1965-12-04",
+              "millions": 9.5
+            },
+            {
+              "n": 14,
+              "title": "The Daleks' Master Plan: Counter Plot",
+              "date": "1965-12-11",
+              "millions": 9.9
+            },
+            {
+              "n": 15,
+              "title": "The Daleks' Master Plan: Coronas of the Sun",
+              "date": "1965-12-18",
+              "millions": 9.1
+            },
+            {
+              "n": 16,
+              "title": "The Daleks' Master Plan: The Feast of Steven",
+              "date": "1965-12-25",
+              "millions": 7.9
+            },
+            {
+              "n": 17,
+              "title": "The Daleks' Master Plan: Volcano",
+              "date": "1966-01-01",
+              "millions": 9.6
+            },
+            {
+              "n": 18,
+              "title": "The Daleks' Master Plan: Golden Death",
+              "date": "1966-01-08",
+              "millions": 9.2
+            },
+            {
+              "n": 19,
+              "title": "The Daleks' Master Plan: Escape Switch",
+              "date": "1966-01-15",
+              "millions": 9.5
+            },
+            {
+              "n": 20,
+              "title": "The Daleks' Master Plan: The Abandoned Planet",
+              "date": "1966-01-22",
+              "millions": 9.8
+            },
+            {
+              "n": 21,
+              "title": "The Daleks' Master Plan: Destruction of Time",
+              "date": "1966-01-29",
+              "millions": 8.6
+            },
+            {
+              "n": 22,
+              "title": "The Massacre: War of God",
+              "date": "1966-02-05",
+              "millions": 8
+            },
+            {
+              "n": 23,
+              "title": "The Massacre: The Sea Beggar",
+              "date": "1966-02-12",
+              "millions": 6
+            },
+            {
+              "n": 24,
+              "title": "The Massacre: Priest of Death",
+              "date": "1966-02-19",
+              "millions": 5.9
+            },
+            {
+              "n": 25,
+              "title": "The Massacre: Bell of Doom",
+              "date": "1966-02-26",
+              "millions": 5.8
+            },
+            {
+              "n": 26,
+              "title": "The Ark: The Steel Sky",
+              "date": "1966-03-05",
+              "millions": 5.5
+            },
+            {
+              "n": 27,
+              "title": "The Ark: The Plague",
+              "date": "1966-03-12",
+              "millions": 6.9
+            },
+            {
+              "n": 28,
+              "title": "The Ark: The Return",
+              "date": "1966-03-19",
+              "millions": 6.2
+            },
+            {
+              "n": 29,
+              "title": "The Ark: The Bomb",
+              "date": "1966-03-26",
+              "millions": 7.3
+            },
+            {
+              "n": 30,
+              "title": "The Celestial Toymaker: The Celestial Toyroom",
+              "date": "1966-04-02",
+              "millions": 8
+            },
+            {
+              "n": 31,
+              "title": "The Celestial Toymaker: The Hall of Dolls",
+              "date": "1966-04-09",
+              "millions": 8
+            },
+            {
+              "n": 32,
+              "title": "The Celestial Toymaker: The Dancing Floor",
+              "date": "1966-04-16",
+              "millions": 9.4
+            },
+            {
+              "n": 33,
+              "title": "The Celestial Toymaker: The Final Test",
+              "date": "1966-04-23",
+              "millions": 7.8
+            },
+            {
+              "n": 34,
+              "title": "The Gunfighters: A Holiday for the Doctor",
+              "date": "1966-04-30",
+              "millions": 6.5
+            },
+            {
+              "n": 35,
+              "title": "The Gunfighters: Don't Shoot the Pianist",
+              "date": "1966-05-07",
+              "millions": 6.6
+            },
+            {
+              "n": 36,
+              "title": "The Gunfighters: Johnny Ringo",
+              "date": "1966-05-14",
+              "millions": 6.2
+            },
+            {
+              "n": 37,
+              "title": "The Gunfighters: The O.K. Corral",
+              "date": "1966-05-21",
+              "millions": 5.7
+            },
+            {
+              "n": 38,
+              "title": "The Savages: Episode 1",
+              "date": "1966-05-28",
+              "millions": 4.8
+            },
+            {
+              "n": 39,
+              "title": "The Savages: Episode 2",
+              "date": "1966-06-04",
+              "millions": 5.6
+            },
+            {
+              "n": 40,
+              "title": "The Savages: Episode 3",
+              "date": "1966-06-11",
+              "millions": 5
+            },
+            {
+              "n": 41,
+              "title": "The Savages: Episode 4",
+              "date": "1966-06-18",
+              "millions": 4.5
+            },
+            {
+              "n": 42,
+              "title": "The War Machines: Episode 1",
+              "date": "1966-06-25",
+              "millions": 5.4
+            },
+            {
+              "n": 43,
+              "title": "The War Machines: Episode 2",
+              "date": "1966-07-02",
+              "millions": 4.7
+            },
+            {
+              "n": 44,
+              "title": "The War Machines: Episode 3",
+              "date": "1966-07-09",
+              "millions": 5.3
+            },
+            {
+              "n": 45,
+              "title": "The War Machines: Episode 4",
+              "date": "1966-07-16",
+              "millions": 5.5
+            }
+          ],
+          "season_average": 7.64,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_3",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of the 44 of 45 episode figures. 1 episode has no figure in the source (shown as not available)."
+        }
       },
       {
         "id": "doctor-who-1963-s4a",
@@ -191,9 +983,69 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_4"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Smugglers: Episode 1",
+              "date": "1966-09-10",
+              "millions": 4.3
+            },
+            {
+              "n": 2,
+              "title": "The Smugglers: Episode 2",
+              "date": "1966-09-17",
+              "millions": 4.9
+            },
+            {
+              "n": 3,
+              "title": "The Smugglers: Episode 3",
+              "date": "1966-09-24",
+              "millions": 4.2
+            },
+            {
+              "n": 4,
+              "title": "The Smugglers: Episode 4",
+              "date": "1966-10-01",
+              "millions": 4.5
+            },
+            {
+              "n": 5,
+              "title": "The Tenth Planet: Episode 1",
+              "date": "1966-10-08",
+              "millions": 5.5
+            },
+            {
+              "n": 6,
+              "title": "The Tenth Planet: Episode 2",
+              "date": "1966-10-15",
+              "millions": 6.4
+            },
+            {
+              "n": 7,
+              "title": "The Tenth Planet: Episode 3",
+              "date": "1966-10-22",
+              "millions": 7.6
+            },
+            {
+              "n": 8,
+              "title": "The Tenth Planet: Episode 4",
+              "date": "1966-10-29",
+              "millions": 7.5
+            }
+          ],
+          "season_average": 5.61,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_4",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 8 episode figures. Episodes 1–8 of the season's table (this entry covers part of the season)."
+        }
       },
       {
         "id": "doctor-who-1963-s4b",
@@ -233,9 +1085,231 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_4"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 9,
+              "title": "The Power of the Daleks: Episode One",
+              "date": "1966-11-05",
+              "millions": 7.9
+            },
+            {
+              "n": 10,
+              "title": "The Power of the Daleks: Episode Two",
+              "date": "1966-11-12",
+              "millions": 7.8
+            },
+            {
+              "n": 11,
+              "title": "The Power of the Daleks: Episode Three",
+              "date": "1966-11-19",
+              "millions": 7.5
+            },
+            {
+              "n": 12,
+              "title": "The Power of the Daleks: Episode Four",
+              "date": "1966-11-26",
+              "millions": 7.8
+            },
+            {
+              "n": 13,
+              "title": "The Power of the Daleks: Episode Five",
+              "date": "1966-12-03",
+              "millions": 8
+            },
+            {
+              "n": 14,
+              "title": "The Power of the Daleks: Episode Six",
+              "date": "1966-12-10",
+              "millions": 7.8
+            },
+            {
+              "n": 15,
+              "title": "The Highlanders: Episode 1",
+              "date": "1966-12-17",
+              "millions": 6.7
+            },
+            {
+              "n": 16,
+              "title": "The Highlanders: Episode 2",
+              "date": "1966-12-24",
+              "millions": 6.8
+            },
+            {
+              "n": 17,
+              "title": "The Highlanders: Episode 3",
+              "date": "1966-12-31",
+              "millions": 7.4
+            },
+            {
+              "n": 18,
+              "title": "The Highlanders: Episode 4",
+              "date": "1967-01-07",
+              "millions": 7.3
+            },
+            {
+              "n": 19,
+              "title": "The Underwater Menace: Episode 1",
+              "date": "1967-01-14",
+              "millions": 8.3
+            },
+            {
+              "n": 20,
+              "title": "The Underwater Menace: Episode 2",
+              "date": "1967-01-21",
+              "millions": 7.5
+            },
+            {
+              "n": 21,
+              "title": "The Underwater Menace: Episode 3",
+              "date": "1967-01-28",
+              "millions": 7.1
+            },
+            {
+              "n": 22,
+              "title": "The Underwater Menace: Episode 4",
+              "date": "1967-02-04",
+              "millions": 7
+            },
+            {
+              "n": 23,
+              "title": "The Moonbase: Episode 1",
+              "date": "1967-02-11",
+              "millions": 8.1
+            },
+            {
+              "n": 24,
+              "title": "The Moonbase: Episode 2",
+              "date": "1967-02-18",
+              "millions": 8.9
+            },
+            {
+              "n": 25,
+              "title": "The Moonbase: Episode 3",
+              "date": "1967-02-25",
+              "millions": 8.2
+            },
+            {
+              "n": 26,
+              "title": "The Moonbase: Episode 4",
+              "date": "1967-03-04",
+              "millions": 8.1
+            },
+            {
+              "n": 27,
+              "title": "The Macra Terror: Episode 1",
+              "date": "1967-03-11",
+              "millions": 8
+            },
+            {
+              "n": 28,
+              "title": "The Macra Terror: Episode 2",
+              "date": "1967-03-18",
+              "millions": 7.9
+            },
+            {
+              "n": 29,
+              "title": "The Macra Terror: Episode 3",
+              "date": "1967-03-25",
+              "millions": 8.5
+            },
+            {
+              "n": 30,
+              "title": "The Macra Terror: Episode 4",
+              "date": "1967-04-01",
+              "millions": 8.4
+            },
+            {
+              "n": 31,
+              "title": "The Faceless Ones: Episode 1",
+              "date": "1967-04-08",
+              "millions": 8
+            },
+            {
+              "n": 32,
+              "title": "The Faceless Ones: Episode 2",
+              "date": "1967-04-15",
+              "millions": 6.4
+            },
+            {
+              "n": 33,
+              "title": "The Faceless Ones: Episode 3",
+              "date": "1967-04-22",
+              "millions": 7.9
+            },
+            {
+              "n": 34,
+              "title": "The Faceless Ones: Episode 4",
+              "date": "1967-04-29",
+              "millions": 6.9
+            },
+            {
+              "n": 35,
+              "title": "The Faceless Ones: Episode 5",
+              "date": "1967-05-06",
+              "millions": 7.1
+            },
+            {
+              "n": 36,
+              "title": "The Faceless Ones: Episode 6",
+              "date": "1967-05-13",
+              "millions": 8
+            },
+            {
+              "n": 37,
+              "title": "The Evil of the Daleks: Episode 1",
+              "date": "1967-05-20",
+              "millions": 8.1
+            },
+            {
+              "n": 38,
+              "title": "The Evil of the Daleks: Episode 2",
+              "date": "1967-05-27",
+              "millions": 7.5
+            },
+            {
+              "n": 39,
+              "title": "The Evil of the Daleks: Episode 3",
+              "date": "1967-06-03",
+              "millions": 6.1
+            },
+            {
+              "n": 40,
+              "title": "The Evil of the Daleks: Episode 4",
+              "date": "1967-06-10",
+              "millions": 5.3
+            },
+            {
+              "n": 41,
+              "title": "The Evil of the Daleks: Episode 5",
+              "date": "1967-06-17",
+              "millions": 5.1
+            },
+            {
+              "n": 42,
+              "title": "The Evil of the Daleks: Episode 6",
+              "date": "1967-06-24",
+              "millions": 6.8
+            },
+            {
+              "n": 43,
+              "title": "The Evil of the Daleks: Episode 7",
+              "date": "1967-07-01",
+              "millions": 6.1
+            }
+          ],
+          "season_average": 7.44,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_4",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 35 episode figures. Episodes 9–43 of the season's table (this entry covers part of the season)."
+        }
       },
       {
         "id": "doctor-who-1963-s5",
@@ -275,9 +1349,261 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_5"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Tomb of the Cybermen: Episode 1",
+              "date": "1967-09-02",
+              "millions": 6
+            },
+            {
+              "n": 2,
+              "title": "The Tomb of the Cybermen: Episode 2",
+              "date": "1967-09-09",
+              "millions": 6.4
+            },
+            {
+              "n": 3,
+              "title": "The Tomb of the Cybermen: Episode 3",
+              "date": "1967-09-16",
+              "millions": 7.2
+            },
+            {
+              "n": 4,
+              "title": "The Tomb of the Cybermen: Episode 4",
+              "date": "1967-09-23",
+              "millions": 7.4
+            },
+            {
+              "n": 5,
+              "title": "The Abominable Snowmen: Episode One",
+              "date": "1967-09-30",
+              "millions": 6.3
+            },
+            {
+              "n": 6,
+              "title": "The Abominable Snowmen: Episode Two",
+              "date": "1967-10-07",
+              "millions": 6
+            },
+            {
+              "n": 7,
+              "title": "The Abominable Snowmen: Episode Three",
+              "date": "1967-10-14",
+              "millions": 7.1
+            },
+            {
+              "n": 8,
+              "title": "The Abominable Snowmen: Episode Four",
+              "date": "1967-10-21",
+              "millions": 7.1
+            },
+            {
+              "n": 9,
+              "title": "The Abominable Snowmen: Episode Five",
+              "date": "1967-10-28",
+              "millions": 7.2
+            },
+            {
+              "n": 10,
+              "title": "The Abominable Snowmen: Episode Six",
+              "date": "1967-11-04",
+              "millions": 7.4
+            },
+            {
+              "n": 11,
+              "title": "The Ice Warriors: One",
+              "date": "1967-11-11",
+              "millions": 6.7
+            },
+            {
+              "n": 12,
+              "title": "The Ice Warriors: Two",
+              "date": "1967-11-18",
+              "millions": 7.1
+            },
+            {
+              "n": 13,
+              "title": "The Ice Warriors: Three",
+              "date": "1967-11-25",
+              "millions": 7.4
+            },
+            {
+              "n": 14,
+              "title": "The Ice Warriors: Four",
+              "date": "1967-12-02",
+              "millions": 7.3
+            },
+            {
+              "n": 15,
+              "title": "The Ice Warriors: Five",
+              "date": "1967-12-09",
+              "millions": 8
+            },
+            {
+              "n": 16,
+              "title": "The Ice Warriors: Six",
+              "date": "1967-12-16",
+              "millions": 7.5
+            },
+            {
+              "n": 17,
+              "title": "The Enemy of the World: Episode 1",
+              "date": "1967-12-23",
+              "millions": 6.8
+            },
+            {
+              "n": 18,
+              "title": "The Enemy of the World: Episode 2",
+              "date": "1967-12-30",
+              "millions": 7.6
+            },
+            {
+              "n": 19,
+              "title": "The Enemy of the World: Episode 3",
+              "date": "1968-01-06",
+              "millions": 7.1
+            },
+            {
+              "n": 20,
+              "title": "The Enemy of the World: Episode 4",
+              "date": "1968-01-13",
+              "millions": 7.8
+            },
+            {
+              "n": 21,
+              "title": "The Enemy of the World: Episode 5",
+              "date": "1968-01-20",
+              "millions": 6.9
+            },
+            {
+              "n": 22,
+              "title": "The Enemy of the World: Episode 6",
+              "date": "1968-01-27",
+              "millions": 8.3
+            },
+            {
+              "n": 23,
+              "title": "The Web of Fear: Episode 1",
+              "date": "1968-02-03",
+              "millions": 7.2
+            },
+            {
+              "n": 24,
+              "title": "The Web of Fear: Episode 2",
+              "date": "1968-02-10",
+              "millions": 6.8
+            },
+            {
+              "n": 25,
+              "title": "The Web of Fear: Episode 3",
+              "date": "1968-02-17",
+              "millions": 7
+            },
+            {
+              "n": 26,
+              "title": "The Web of Fear: Episode 4",
+              "date": "1968-02-24",
+              "millions": 8.4
+            },
+            {
+              "n": 27,
+              "title": "The Web of Fear: Episode 5",
+              "date": "1968-03-02",
+              "millions": 8
+            },
+            {
+              "n": 28,
+              "title": "The Web of Fear: Episode 6",
+              "date": "1968-03-09",
+              "millions": 8.3
+            },
+            {
+              "n": 29,
+              "title": "Fury from the Deep: Episode 1",
+              "date": "1968-03-16",
+              "millions": 8.2
+            },
+            {
+              "n": 30,
+              "title": "Fury from the Deep: Episode 2",
+              "date": "1968-03-23",
+              "millions": 7.9
+            },
+            {
+              "n": 31,
+              "title": "Fury from the Deep: Episode 3",
+              "date": "1968-03-30",
+              "millions": 7.7
+            },
+            {
+              "n": 32,
+              "title": "Fury from the Deep: Episode 4",
+              "date": "1968-04-06",
+              "millions": 6.6
+            },
+            {
+              "n": 33,
+              "title": "Fury from the Deep: Episode 5",
+              "date": "1968-04-13",
+              "millions": 5.9
+            },
+            {
+              "n": 34,
+              "title": "Fury from the Deep: Episode 6",
+              "date": "1968-04-20",
+              "millions": 6.9
+            },
+            {
+              "n": 35,
+              "title": "The Wheel in Space: Episode 1",
+              "date": "1968-04-27",
+              "millions": 7.2
+            },
+            {
+              "n": 36,
+              "title": "The Wheel in Space: Episode 2",
+              "date": "1968-05-04",
+              "millions": 6.9
+            },
+            {
+              "n": 37,
+              "title": "The Wheel in Space: Episode 3",
+              "date": "1968-05-11",
+              "millions": 7.5
+            },
+            {
+              "n": 38,
+              "title": "The Wheel in Space: Episode 4",
+              "date": "1968-05-18",
+              "millions": 8.6
+            },
+            {
+              "n": 39,
+              "title": "The Wheel in Space: Episode 5",
+              "date": "1968-05-25",
+              "millions": 6.8
+            },
+            {
+              "n": 40,
+              "title": "The Wheel in Space: Episode 6",
+              "date": "1968-06-01",
+              "millions": 6.5
+            }
+          ],
+          "season_average": 7.23,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_5",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 40 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s6",
@@ -317,9 +1643,285 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_6"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Dominators: Episode 1",
+              "date": "1968-08-10",
+              "millions": 6.1
+            },
+            {
+              "n": 2,
+              "title": "The Dominators: Episode 2",
+              "date": "1968-08-17",
+              "millions": 5.9
+            },
+            {
+              "n": 3,
+              "title": "The Dominators: [Episode 3]",
+              "date": "1968-08-24",
+              "millions": 5.4
+            },
+            {
+              "n": 4,
+              "title": "The Dominators: Episode 4",
+              "date": "1968-08-31",
+              "millions": 7.5
+            },
+            {
+              "n": 5,
+              "title": "The Dominators: Episode 5",
+              "date": "1968-09-07",
+              "millions": 5.9
+            },
+            {
+              "n": 6,
+              "title": "The Mind Robber: Episode 1",
+              "date": "1968-09-14",
+              "millions": 6.6
+            },
+            {
+              "n": 7,
+              "title": "The Mind Robber: Episode 2",
+              "date": "1968-09-21",
+              "millions": 6.5
+            },
+            {
+              "n": 8,
+              "title": "The Mind Robber: Episode 3",
+              "date": "1968-09-28",
+              "millions": 7.2
+            },
+            {
+              "n": 9,
+              "title": "The Mind Robber: Episode 4",
+              "date": "1968-10-05",
+              "millions": 7.3
+            },
+            {
+              "n": 10,
+              "title": "The Mind Robber: Episode 5",
+              "date": "1968-10-12",
+              "millions": 6.7
+            },
+            {
+              "n": 11,
+              "title": "The Invasion: Episode One",
+              "date": "1968-11-02",
+              "millions": 7.3
+            },
+            {
+              "n": 12,
+              "title": "The Invasion: Episode Two",
+              "date": "1968-11-09",
+              "millions": 7.1
+            },
+            {
+              "n": 13,
+              "title": "The Invasion: Episode Three",
+              "date": "1968-11-16",
+              "millions": 7.1
+            },
+            {
+              "n": 14,
+              "title": "The Invasion: Episode Four",
+              "date": "1968-11-23",
+              "millions": 6.4
+            },
+            {
+              "n": 15,
+              "title": "The Invasion: Episode Five",
+              "date": "1968-11-30",
+              "millions": 6.7
+            },
+            {
+              "n": 16,
+              "title": "The Invasion: Episode Six",
+              "date": "1968-12-07",
+              "millions": 6.5
+            },
+            {
+              "n": 17,
+              "title": "The Invasion: Episode Seven",
+              "date": "1968-12-14",
+              "millions": 7.2
+            },
+            {
+              "n": 18,
+              "title": "The Invasion: Episode Eight",
+              "date": "1968-12-21",
+              "millions": 7
+            },
+            {
+              "n": 19,
+              "title": "The Krotons: Episode One",
+              "date": "1968-12-28",
+              "millions": 9
+            },
+            {
+              "n": 20,
+              "title": "The Krotons: Episode Two",
+              "date": "1969-01-04",
+              "millions": 8.4
+            },
+            {
+              "n": 21,
+              "title": "The Krotons: Episode Three",
+              "date": "1969-01-11",
+              "millions": 7.5
+            },
+            {
+              "n": 22,
+              "title": "The Krotons: Episode Four",
+              "date": "1969-01-18",
+              "millions": 7.1
+            },
+            {
+              "n": 23,
+              "title": "The Seeds of Death: Episode One",
+              "date": "1969-01-25",
+              "millions": 6.6
+            },
+            {
+              "n": 24,
+              "title": "The Seeds of Death: Episode Two",
+              "date": "1969-02-01",
+              "millions": 6.8
+            },
+            {
+              "n": 25,
+              "title": "The Seeds of Death: Episode Three",
+              "date": "1969-02-08",
+              "millions": 7.5
+            },
+            {
+              "n": 26,
+              "title": "The Seeds of Death: Episode Four",
+              "date": "1969-02-15",
+              "millions": 7.1
+            },
+            {
+              "n": 27,
+              "title": "The Seeds of Death: Episode Five",
+              "date": "1969-02-22",
+              "millions": 7.6
+            },
+            {
+              "n": 28,
+              "title": "The Seeds of Death: Episode Six",
+              "date": "1969-03-01",
+              "millions": 7.7
+            },
+            {
+              "n": 29,
+              "title": "The Space Pirates: Episode One",
+              "date": "1969-03-08",
+              "millions": 5.8
+            },
+            {
+              "n": 30,
+              "title": "The Space Pirates: Episode Two",
+              "date": "1969-03-15",
+              "millions": 6.8
+            },
+            {
+              "n": 31,
+              "title": "The Space Pirates: Episode Three",
+              "date": "1969-03-22",
+              "millions": 6.4
+            },
+            {
+              "n": 32,
+              "title": "The Space Pirates: Episode Four",
+              "date": "1969-03-29",
+              "millions": 5.8
+            },
+            {
+              "n": 33,
+              "title": "The Space Pirates: Episode Five",
+              "date": "1969-04-05",
+              "millions": 5.5
+            },
+            {
+              "n": 34,
+              "title": "The Space Pirates: Episode Six",
+              "date": "1969-04-12",
+              "millions": 5.3
+            },
+            {
+              "n": 35,
+              "title": "The War Games: Episode One",
+              "date": "1969-04-19",
+              "millions": 5.5
+            },
+            {
+              "n": 36,
+              "title": "The War Games: Episode Two",
+              "date": "1969-04-26",
+              "millions": 6.3
+            },
+            {
+              "n": 37,
+              "title": "The War Games: Episode Three",
+              "date": "1969-05-03",
+              "millions": 5.1
+            },
+            {
+              "n": 38,
+              "title": "The War Games: Episode Four",
+              "date": "1969-05-10",
+              "millions": 5.7
+            },
+            {
+              "n": 39,
+              "title": "The War Games: Episode Five",
+              "date": "1969-05-17",
+              "millions": 5.1
+            },
+            {
+              "n": 40,
+              "title": "The War Games: Episode Six",
+              "date": "1969-05-24",
+              "millions": 4.2
+            },
+            {
+              "n": 41,
+              "title": "The War Games: Episode Seven",
+              "date": "1969-05-31",
+              "millions": 4.9
+            },
+            {
+              "n": 42,
+              "title": "The War Games: Episode Eight",
+              "date": "1969-06-07",
+              "millions": 3.5
+            },
+            {
+              "n": 43,
+              "title": "The War Games: Episode Nine",
+              "date": "1969-06-14",
+              "millions": 4.1
+            },
+            {
+              "n": 44,
+              "title": "The War Games: Episode Ten",
+              "date": "1969-06-21",
+              "millions": 5
+            }
+          ],
+          "season_average": 6.38,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_6",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 44 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s7",
@@ -359,9 +1961,171 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_7"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Spearhead from Space: Episode 1",
+              "date": "1970-01-03",
+              "millions": 8.4
+            },
+            {
+              "n": 2,
+              "title": "Spearhead from Space: Episode 2",
+              "date": "1970-01-10",
+              "millions": 8.1
+            },
+            {
+              "n": 3,
+              "title": "Spearhead from Space: Episode 3",
+              "date": "1970-01-17",
+              "millions": 8.3
+            },
+            {
+              "n": 4,
+              "title": "Spearhead from Space: Episode 4",
+              "date": "1970-01-24",
+              "millions": 8.1
+            },
+            {
+              "n": 5,
+              "title": "Doctor Who and the Silurians: Episode 1",
+              "date": "1970-01-31",
+              "millions": 8.8
+            },
+            {
+              "n": 6,
+              "title": "Doctor Who and the Silurians: Episode 2",
+              "date": "1970-02-07",
+              "millions": 7.3
+            },
+            {
+              "n": 7,
+              "title": "Doctor Who and the Silurians: Episode 3",
+              "date": "1970-02-14",
+              "millions": 7.5
+            },
+            {
+              "n": 8,
+              "title": "Doctor Who and the Silurians: Episode 4",
+              "date": "1970-02-21",
+              "millions": 8.2
+            },
+            {
+              "n": 9,
+              "title": "Doctor Who and the Silurians: Episode 5",
+              "date": "1970-02-28",
+              "millions": 7.5
+            },
+            {
+              "n": 10,
+              "title": "Doctor Who and the Silurians: Episode 6",
+              "date": "1970-03-07",
+              "millions": 7.2
+            },
+            {
+              "n": 11,
+              "title": "Doctor Who and the Silurians: Episode 7",
+              "date": "1970-03-14",
+              "millions": 7.5
+            },
+            {
+              "n": 12,
+              "title": "The Ambassadors of Death: Episode 1",
+              "date": "1970-03-21",
+              "millions": 7.1
+            },
+            {
+              "n": 13,
+              "title": "The Ambassadors of Death: Episode 2",
+              "date": "1970-03-28",
+              "millions": 7.6
+            },
+            {
+              "n": 14,
+              "title": "The Ambassadors of Death: Episode 3",
+              "date": "1970-04-04",
+              "millions": 8
+            },
+            {
+              "n": 15,
+              "title": "The Ambassadors of Death: Episode 4",
+              "date": "1970-04-11",
+              "millions": 9.3
+            },
+            {
+              "n": 16,
+              "title": "The Ambassadors of Death: Episode 5",
+              "date": "1970-04-18",
+              "millions": 7.1
+            },
+            {
+              "n": 17,
+              "title": "The Ambassadors of Death: Episode 6",
+              "date": "1970-04-25",
+              "millions": 6.9
+            },
+            {
+              "n": 18,
+              "title": "The Ambassadors of Death: Episode 7",
+              "date": "1970-05-02",
+              "millions": 6.4
+            },
+            {
+              "n": 19,
+              "title": "Inferno: Episode 1",
+              "date": "1970-05-09",
+              "millions": 5.7
+            },
+            {
+              "n": 20,
+              "title": "Inferno: Episode 2",
+              "date": "1970-05-16",
+              "millions": 5.9
+            },
+            {
+              "n": 21,
+              "title": "Inferno: Episode 3",
+              "date": "1970-05-23",
+              "millions": 4.8
+            },
+            {
+              "n": 22,
+              "title": "Inferno: Episode 4",
+              "date": "1970-05-30",
+              "millions": 6
+            },
+            {
+              "n": 23,
+              "title": "Inferno: Episode 5",
+              "date": "1970-06-06",
+              "millions": 5.4
+            },
+            {
+              "n": 24,
+              "title": "Inferno: Episode 6",
+              "date": "1970-06-13",
+              "millions": 6.7
+            },
+            {
+              "n": 25,
+              "title": "Inferno: Episode 7",
+              "date": "1970-06-20",
+              "millions": 5.5
+            }
+          ],
+          "season_average": 7.17,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_7",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 25 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s8",
@@ -401,9 +2165,171 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_8"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Terror of the Autons: Episode One",
+              "date": "1971-01-02",
+              "millions": 7.3
+            },
+            {
+              "n": 2,
+              "title": "Terror of the Autons: Episode Two",
+              "date": "1971-01-09",
+              "millions": 8
+            },
+            {
+              "n": 3,
+              "title": "Terror of the Autons: Episode Three",
+              "date": "1971-01-16",
+              "millions": 8.1
+            },
+            {
+              "n": 4,
+              "title": "Terror of the Autons: Episode Four",
+              "date": "1971-01-23",
+              "millions": 8.4
+            },
+            {
+              "n": 5,
+              "title": "The Mind of Evil: Episode One",
+              "date": "1971-01-30",
+              "millions": 6.1
+            },
+            {
+              "n": 6,
+              "title": "The Mind of Evil: Episode Two",
+              "date": "1971-02-06",
+              "millions": 8.8
+            },
+            {
+              "n": 7,
+              "title": "The Mind of Evil: Episode Three",
+              "date": "1971-02-13",
+              "millions": 7.5
+            },
+            {
+              "n": 8,
+              "title": "The Mind of Evil: Episode Four",
+              "date": "1971-02-20",
+              "millions": 7.4
+            },
+            {
+              "n": 9,
+              "title": "The Mind of Evil: Episode Five",
+              "date": "1971-02-27",
+              "millions": 7.6
+            },
+            {
+              "n": 10,
+              "title": "The Mind of Evil: Episode Six",
+              "date": "1971-03-06",
+              "millions": 7.3
+            },
+            {
+              "n": 11,
+              "title": "The Claws of Axos: Episode One",
+              "date": "1971-03-13",
+              "millions": 7.3
+            },
+            {
+              "n": 12,
+              "title": "The Claws of Axos: Episode Two",
+              "date": "1971-03-20",
+              "millions": 8
+            },
+            {
+              "n": 13,
+              "title": "The Claws of Axos: Episode Three",
+              "date": "1971-03-27",
+              "millions": 6.4
+            },
+            {
+              "n": 14,
+              "title": "The Claws of Axos: Episode Four",
+              "date": "1971-04-03",
+              "millions": 7.8
+            },
+            {
+              "n": 15,
+              "title": "Colony in Space: Episode One",
+              "date": "1971-04-10",
+              "millions": 7.6
+            },
+            {
+              "n": 16,
+              "title": "Colony in Space: Episode Two",
+              "date": "1971-04-17",
+              "millions": 8.5
+            },
+            {
+              "n": 17,
+              "title": "Colony in Space: Episode Three",
+              "date": "1971-04-24",
+              "millions": 9.5
+            },
+            {
+              "n": 18,
+              "title": "Colony in Space: Episode Four",
+              "date": "1971-05-01",
+              "millions": 8.1
+            },
+            {
+              "n": 19,
+              "title": "Colony in Space: Episode Five",
+              "date": "1971-05-08",
+              "millions": 8.8
+            },
+            {
+              "n": 20,
+              "title": "Colony in Space: Episode Six",
+              "date": "1971-05-15",
+              "millions": 8.7
+            },
+            {
+              "n": 21,
+              "title": "The Dæmons: Episode One",
+              "date": "1971-05-22",
+              "millions": 9.2
+            },
+            {
+              "n": 22,
+              "title": "The Dæmons: Episode Two",
+              "date": "1971-05-29",
+              "millions": 8
+            },
+            {
+              "n": 23,
+              "title": "The Dæmons: Episode Three",
+              "date": "1971-06-05",
+              "millions": 8.1
+            },
+            {
+              "n": 24,
+              "title": "The Dæmons: Episode Four",
+              "date": "1971-06-12",
+              "millions": 8.1
+            },
+            {
+              "n": 25,
+              "title": "The Dæmons: Episode Five",
+              "date": "1971-06-19",
+              "millions": 8.3
+            }
+          ],
+          "season_average": 7.96,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_8",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 25 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s9",
@@ -443,9 +2369,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_9"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Day of the Daleks: Episode One",
+              "date": "1972-01-01",
+              "millions": 9.8
+            },
+            {
+              "n": 2,
+              "title": "Day of the Daleks: Episode Two",
+              "date": "1972-01-08",
+              "millions": 10.4
+            },
+            {
+              "n": 3,
+              "title": "Day of the Daleks: Episode Three",
+              "date": "1972-01-15",
+              "millions": 9.1
+            },
+            {
+              "n": 4,
+              "title": "Day of the Daleks: Episode Four",
+              "date": "1972-01-22",
+              "millions": 9.1
+            },
+            {
+              "n": 5,
+              "title": "The Curse of Peladon: Episode One",
+              "date": "1972-01-29",
+              "millions": 10.3
+            },
+            {
+              "n": 6,
+              "title": "The Curse of Peladon: Episode Two",
+              "date": "1972-02-05",
+              "millions": 11
+            },
+            {
+              "n": 7,
+              "title": "The Curse of Peladon: Episode Three",
+              "date": "1972-02-12",
+              "millions": 7.8
+            },
+            {
+              "n": 8,
+              "title": "The Curse of Peladon: Episode Four",
+              "date": "1972-02-19",
+              "millions": 8.4
+            },
+            {
+              "n": 9,
+              "title": "The Sea Devils: Episode One",
+              "date": "1972-02-26",
+              "millions": 6.4
+            },
+            {
+              "n": 10,
+              "title": "The Sea Devils: Episode Two",
+              "date": "1972-03-04",
+              "millions": 9.7
+            },
+            {
+              "n": 11,
+              "title": "The Sea Devils: Episode Three",
+              "date": "1972-03-11",
+              "millions": 8.3
+            },
+            {
+              "n": 12,
+              "title": "The Sea Devils: Episode Four",
+              "date": "1972-03-18",
+              "millions": 7.8
+            },
+            {
+              "n": 13,
+              "title": "The Sea Devils: Episode Five",
+              "date": "1972-03-25",
+              "millions": 8.3
+            },
+            {
+              "n": 14,
+              "title": "The Sea Devils: Episode Six",
+              "date": "1972-04-01",
+              "millions": 8.5
+            },
+            {
+              "n": 15,
+              "title": "The Mutants: Episode One",
+              "date": "1972-04-08",
+              "millions": 9.1
+            },
+            {
+              "n": 16,
+              "title": "The Mutants: Episode Two",
+              "date": "1972-04-15",
+              "millions": 7.8
+            },
+            {
+              "n": 17,
+              "title": "The Mutants: Episode Three",
+              "date": "1972-04-22",
+              "millions": 7.9
+            },
+            {
+              "n": 18,
+              "title": "The Mutants: Episode Four",
+              "date": "1972-04-29",
+              "millions": 7.5
+            },
+            {
+              "n": 19,
+              "title": "The Mutants: Episode Five",
+              "date": "1972-05-06",
+              "millions": 7.9
+            },
+            {
+              "n": 20,
+              "title": "The Mutants: Episode Six",
+              "date": "1972-05-13",
+              "millions": 6.5
+            },
+            {
+              "n": 21,
+              "title": "The Time Monster: Episode One",
+              "date": "1972-05-20",
+              "millions": 7.6
+            },
+            {
+              "n": 22,
+              "title": "The Time Monster: Episode Two",
+              "date": "1972-05-27",
+              "millions": 7.4
+            },
+            {
+              "n": 23,
+              "title": "The Time Monster: Episode Three",
+              "date": "1972-06-03",
+              "millions": 8.1
+            },
+            {
+              "n": 24,
+              "title": "The Time Monster: Episode Four",
+              "date": "1972-06-10",
+              "millions": 7.6
+            },
+            {
+              "n": 25,
+              "title": "The Time Monster: Episode Five",
+              "date": "1972-06-17",
+              "millions": 6
+            },
+            {
+              "n": 26,
+              "title": "The Time Monster: Episode Six",
+              "date": "1972-06-24",
+              "millions": 7.6
+            }
+          ],
+          "season_average": 8.3,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_9",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s10",
@@ -485,9 +2579,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_10"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Three Doctors: Episode One",
+              "date": "1972-12-30",
+              "millions": 9.6
+            },
+            {
+              "n": 2,
+              "title": "The Three Doctors: Episode Two",
+              "date": "1973-01-06",
+              "millions": 10.8
+            },
+            {
+              "n": 3,
+              "title": "The Three Doctors: Episode Three",
+              "date": "1973-01-13",
+              "millions": 8.8
+            },
+            {
+              "n": 4,
+              "title": "The Three Doctors: Episode Four",
+              "date": "1973-01-20",
+              "millions": 11.9
+            },
+            {
+              "n": 5,
+              "title": "Carnival of Monsters: Episode One",
+              "date": "1973-01-27",
+              "millions": 9.5
+            },
+            {
+              "n": 6,
+              "title": "Carnival of Monsters: Episode Two",
+              "date": "1973-02-03",
+              "millions": 9
+            },
+            {
+              "n": 7,
+              "title": "Carnival of Monsters: Episode Three",
+              "date": "1973-02-10",
+              "millions": 9
+            },
+            {
+              "n": 8,
+              "title": "Carnival of Monsters: Episode Four",
+              "date": "1973-02-17",
+              "millions": 9.2
+            },
+            {
+              "n": 9,
+              "title": "Frontier in Space: Episode One",
+              "date": "1973-02-24",
+              "millions": 9.1
+            },
+            {
+              "n": 10,
+              "title": "Frontier in Space: Episode Two",
+              "date": "1973-03-03",
+              "millions": 7.8
+            },
+            {
+              "n": 11,
+              "title": "Frontier in Space: Episode Three",
+              "date": "1973-03-10",
+              "millions": 7.5
+            },
+            {
+              "n": 12,
+              "title": "Frontier in Space: Episode Four",
+              "date": "1973-03-17",
+              "millions": 7.1
+            },
+            {
+              "n": 13,
+              "title": "Frontier in Space: Episode Five",
+              "date": "1973-03-24",
+              "millions": 7.7
+            },
+            {
+              "n": 14,
+              "title": "Frontier in Space: Episode Six",
+              "date": "1973-03-31",
+              "millions": 8.9
+            },
+            {
+              "n": 15,
+              "title": "Planet of the Daleks: Episode One",
+              "date": "1973-04-07",
+              "millions": 11
+            },
+            {
+              "n": 16,
+              "title": "Planet of the Daleks: Episode Two",
+              "date": "1973-04-14",
+              "millions": 10.7
+            },
+            {
+              "n": 17,
+              "title": "Planet of the Daleks: Episode Three",
+              "date": "1973-04-21",
+              "millions": 10.1
+            },
+            {
+              "n": 18,
+              "title": "Planet of the Daleks: Episode Four",
+              "date": "1973-04-28",
+              "millions": 8.3
+            },
+            {
+              "n": 19,
+              "title": "Planet of the Daleks: Episode Five",
+              "date": "1973-05-05",
+              "millions": 9.7
+            },
+            {
+              "n": 20,
+              "title": "Planet of the Daleks: Episode Six",
+              "date": "1973-05-12",
+              "millions": 8.5
+            },
+            {
+              "n": 21,
+              "title": "The Green Death: Episode One",
+              "date": "1973-05-19",
+              "millions": 9.2
+            },
+            {
+              "n": 22,
+              "title": "The Green Death: Episode Two",
+              "date": "1973-05-26",
+              "millions": 7.2
+            },
+            {
+              "n": 23,
+              "title": "The Green Death: Episode Three",
+              "date": "1973-06-02",
+              "millions": 7.8
+            },
+            {
+              "n": 24,
+              "title": "The Green Death: Episode Four",
+              "date": "1973-06-09",
+              "millions": 6.8
+            },
+            {
+              "n": 25,
+              "title": "The Green Death: Episode Five",
+              "date": "1973-06-16",
+              "millions": 8.3
+            },
+            {
+              "n": 26,
+              "title": "The Green Death: Episode Six",
+              "date": "1973-06-23",
+              "millions": 7
+            }
+          ],
+          "season_average": 8.87,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_10",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s11",
@@ -527,9 +2789,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_11"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Time Warrior: Part One",
+              "date": "1973-12-15",
+              "millions": 8.7
+            },
+            {
+              "n": 2,
+              "title": "The Time Warrior: Part Two",
+              "date": "1973-12-22",
+              "millions": 7
+            },
+            {
+              "n": 3,
+              "title": "The Time Warrior: Part Three",
+              "date": "1973-12-29",
+              "millions": 6.6
+            },
+            {
+              "n": 4,
+              "title": "The Time Warrior: Part Four",
+              "date": "1974-01-05",
+              "millions": 10.6
+            },
+            {
+              "n": 5,
+              "title": "Invasion of the Dinosaurs: Part One",
+              "date": "1974-01-12",
+              "millions": 11
+            },
+            {
+              "n": 6,
+              "title": "Invasion of the Dinosaurs: Part Two",
+              "date": "1974-01-19",
+              "millions": 10.1
+            },
+            {
+              "n": 7,
+              "title": "Invasion of the Dinosaurs: Part Three",
+              "date": "1974-01-26",
+              "millions": 11
+            },
+            {
+              "n": 8,
+              "title": "Invasion of the Dinosaurs: Part Four",
+              "date": "1974-02-02",
+              "millions": 9
+            },
+            {
+              "n": 9,
+              "title": "Invasion of the Dinosaurs: Part Five",
+              "date": "1974-02-09",
+              "millions": 9
+            },
+            {
+              "n": 10,
+              "title": "Invasion of the Dinosaurs: Part Six",
+              "date": "1974-02-16",
+              "millions": 7.5
+            },
+            {
+              "n": 11,
+              "title": "Death to the Daleks: Part One",
+              "date": "1974-02-23",
+              "millions": 8.1
+            },
+            {
+              "n": 12,
+              "title": "Death to the Daleks: Part Two",
+              "date": "1974-03-02",
+              "millions": 9.5
+            },
+            {
+              "n": 13,
+              "title": "Death to the Daleks: Part Three",
+              "date": "1974-03-09",
+              "millions": 10.5
+            },
+            {
+              "n": 14,
+              "title": "Death to the Daleks: Part Four",
+              "date": "1974-03-16",
+              "millions": 9.5
+            },
+            {
+              "n": 15,
+              "title": "The Monster of Peladon: Part One",
+              "date": "1974-03-23",
+              "millions": 9.2
+            },
+            {
+              "n": 16,
+              "title": "The Monster of Peladon: Part Two",
+              "date": "1974-03-30",
+              "millions": 6.8
+            },
+            {
+              "n": 17,
+              "title": "The Monster of Peladon: Part Three",
+              "date": "1974-04-06",
+              "millions": 7.4
+            },
+            {
+              "n": 18,
+              "title": "The Monster of Peladon: Part Four",
+              "date": "1974-04-13",
+              "millions": 7.2
+            },
+            {
+              "n": 19,
+              "title": "The Monster of Peladon: Part Five",
+              "date": "1974-04-20",
+              "millions": 7.5
+            },
+            {
+              "n": 20,
+              "title": "The Monster of Peladon: Part Six",
+              "date": "1974-04-27",
+              "millions": 8.1
+            },
+            {
+              "n": 21,
+              "title": "Planet of the Spiders: Part One",
+              "date": "1974-05-04",
+              "millions": 10.1
+            },
+            {
+              "n": 22,
+              "title": "Planet of the Spiders: Part Two",
+              "date": "1974-05-11",
+              "millions": 8.9
+            },
+            {
+              "n": 23,
+              "title": "Planet of the Spiders: Part Three",
+              "date": "1974-05-18",
+              "millions": 8.8
+            },
+            {
+              "n": 24,
+              "title": "Planet of the Spiders: Part Four",
+              "date": "1974-05-25",
+              "millions": 8.2
+            },
+            {
+              "n": 25,
+              "title": "Planet of the Spiders: Part Five",
+              "date": "1974-06-01",
+              "millions": 9.2
+            },
+            {
+              "n": 26,
+              "title": "Planet of the Spiders: Part Six",
+              "date": "1974-06-08",
+              "millions": 8.9
+            }
+          ],
+          "season_average": 8.78,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_11",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s12",
@@ -569,9 +2999,141 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_12"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Robot: Part One",
+              "date": "1974-12-28",
+              "millions": 10.8
+            },
+            {
+              "n": 2,
+              "title": "Robot: Part Two",
+              "date": "1975-01-04",
+              "millions": 10.7
+            },
+            {
+              "n": 3,
+              "title": "Robot: Part Three",
+              "date": "1975-01-11",
+              "millions": 10.1
+            },
+            {
+              "n": 4,
+              "title": "Robot: Part Four",
+              "date": "1975-01-18",
+              "millions": 9
+            },
+            {
+              "n": 5,
+              "title": "The Ark in Space: Part One",
+              "date": "1975-01-25",
+              "millions": 9.4
+            },
+            {
+              "n": 6,
+              "title": "The Ark in Space: Part Two",
+              "date": "1975-02-01",
+              "millions": 13.6
+            },
+            {
+              "n": 7,
+              "title": "The Ark in Space: Part Three",
+              "date": "1975-02-08",
+              "millions": 11.2
+            },
+            {
+              "n": 8,
+              "title": "The Ark in Space: Part Four",
+              "date": "1975-02-15",
+              "millions": 10.2
+            },
+            {
+              "n": 9,
+              "title": "The Sontaran Experiment: Part One",
+              "date": "1975-02-22",
+              "millions": 11
+            },
+            {
+              "n": 10,
+              "title": "The Sontaran Experiment: Part Two",
+              "date": "1975-03-01",
+              "millions": 10.5
+            },
+            {
+              "n": 11,
+              "title": "Genesis of the Daleks: Part One",
+              "date": "1975-03-08",
+              "millions": 10.7
+            },
+            {
+              "n": 12,
+              "title": "Genesis of the Daleks: Part Two",
+              "date": "1975-03-15",
+              "millions": 10.5
+            },
+            {
+              "n": 13,
+              "title": "Genesis of the Daleks: Part Three",
+              "date": "1975-03-22",
+              "millions": 8.5
+            },
+            {
+              "n": 14,
+              "title": "Genesis of the Daleks: Part Four",
+              "date": "1975-03-29",
+              "millions": 8.8
+            },
+            {
+              "n": 15,
+              "title": "Genesis of the Daleks: Part Five",
+              "date": "1975-04-05",
+              "millions": 9.8
+            },
+            {
+              "n": 16,
+              "title": "Genesis of the Daleks: Part Six",
+              "date": "1975-04-12",
+              "millions": 9.1
+            },
+            {
+              "n": 17,
+              "title": "Revenge of the Cybermen: Part One",
+              "date": "1975-04-19",
+              "millions": 9.5
+            },
+            {
+              "n": 18,
+              "title": "Revenge of the Cybermen: Part Two",
+              "date": "1975-04-26",
+              "millions": 8.3
+            },
+            {
+              "n": 19,
+              "title": "Revenge of the Cybermen: Part Three",
+              "date": "1975-05-03",
+              "millions": 8.9
+            },
+            {
+              "n": 20,
+              "title": "Revenge of the Cybermen: Part Four",
+              "date": "1975-05-10",
+              "millions": 9.4
+            }
+          ],
+          "season_average": 10,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_12",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 20 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s13",
@@ -611,9 +3173,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_13"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Terror of the Zygons: Part One",
+              "date": "1975-08-30",
+              "millions": 8.4
+            },
+            {
+              "n": 2,
+              "title": "Terror of the Zygons: Part Two",
+              "date": "1975-09-06",
+              "millions": 6.1
+            },
+            {
+              "n": 3,
+              "title": "Terror of the Zygons: Part Three",
+              "date": "1975-09-13",
+              "millions": 8.2
+            },
+            {
+              "n": 4,
+              "title": "Terror of the Zygons: Part Four",
+              "date": "1975-09-20",
+              "millions": 7.2
+            },
+            {
+              "n": 5,
+              "title": "Planet of Evil: Part One",
+              "date": "1975-09-27",
+              "millions": 10.4
+            },
+            {
+              "n": 6,
+              "title": "Planet of Evil: Part Two",
+              "date": "1975-10-04",
+              "millions": 9.9
+            },
+            {
+              "n": 7,
+              "title": "Planet of Evil: Part Three",
+              "date": "1975-10-11",
+              "millions": 9.1
+            },
+            {
+              "n": 8,
+              "title": "Planet of Evil: Part Four",
+              "date": "1975-10-18",
+              "millions": 10.1
+            },
+            {
+              "n": 9,
+              "title": "Pyramids of Mars: Part One",
+              "date": "1975-10-25",
+              "millions": 10.5
+            },
+            {
+              "n": 10,
+              "title": "Pyramids of Mars: Part Two",
+              "date": "1975-11-01",
+              "millions": 11.3
+            },
+            {
+              "n": 11,
+              "title": "Pyramids of Mars: Part Three",
+              "date": "1975-11-08",
+              "millions": 9.4
+            },
+            {
+              "n": 12,
+              "title": "Pyramids of Mars: Part Four",
+              "date": "1975-11-15",
+              "millions": 11.7
+            },
+            {
+              "n": 13,
+              "title": "The Android Invasion: Part One",
+              "date": "1975-11-22",
+              "millions": 11.9
+            },
+            {
+              "n": 14,
+              "title": "The Android Invasion: Part Two",
+              "date": "1975-11-29",
+              "millions": 11.3
+            },
+            {
+              "n": 15,
+              "title": "The Android Invasion: Part Three",
+              "date": "1975-12-06",
+              "millions": 12.1
+            },
+            {
+              "n": 16,
+              "title": "The Android Invasion: Part Four",
+              "date": "1975-12-13",
+              "millions": 11.4
+            },
+            {
+              "n": 17,
+              "title": "The Brain of Morbius: Part One",
+              "date": "1976-01-03",
+              "millions": 9.5
+            },
+            {
+              "n": 18,
+              "title": "The Brain of Morbius: Part Two",
+              "date": "1976-01-10",
+              "millions": 9.3
+            },
+            {
+              "n": 19,
+              "title": "The Brain of Morbius: Part Three",
+              "date": "1976-01-17",
+              "millions": 10.1
+            },
+            {
+              "n": 20,
+              "title": "The Brain of Morbius: Part Four",
+              "date": "1976-01-24",
+              "millions": 10.2
+            },
+            {
+              "n": 21,
+              "title": "The Seeds of Doom: Part One",
+              "date": "1976-01-31",
+              "millions": 11.4
+            },
+            {
+              "n": 22,
+              "title": "The Seeds of Doom: Part Two",
+              "date": "1976-02-07",
+              "millions": 11.4
+            },
+            {
+              "n": 23,
+              "title": "The Seeds of Doom: Part Three",
+              "date": "1976-02-14",
+              "millions": 10.3
+            },
+            {
+              "n": 24,
+              "title": "The Seeds of Doom: Part Four",
+              "date": "1976-02-21",
+              "millions": 11.1
+            },
+            {
+              "n": 25,
+              "title": "The Seeds of Doom: Part Five",
+              "date": "1976-02-28",
+              "millions": 9.9
+            },
+            {
+              "n": 26,
+              "title": "The Seeds of Doom: Part Six",
+              "date": "1976-03-06",
+              "millions": 11.5
+            }
+          ],
+          "season_average": 10.14,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_13",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s14",
@@ -653,9 +3383,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_14"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Masque of Mandragora: Part One",
+              "date": "1976-09-04",
+              "millions": 8.3
+            },
+            {
+              "n": 2,
+              "title": "The Masque of Mandragora: Part Two",
+              "date": "1976-09-11",
+              "millions": 9.8
+            },
+            {
+              "n": 3,
+              "title": "The Masque of Mandragora: Part Three",
+              "date": "1976-09-18",
+              "millions": 9.2
+            },
+            {
+              "n": 4,
+              "title": "The Masque of Mandragora: Part Four",
+              "date": "1976-09-25",
+              "millions": 10.6
+            },
+            {
+              "n": 5,
+              "title": "The Hand of Fear: Part One",
+              "date": "1976-10-02",
+              "millions": 10.5
+            },
+            {
+              "n": 6,
+              "title": "The Hand of Fear: Part Two",
+              "date": "1976-10-09",
+              "millions": 10.2
+            },
+            {
+              "n": 7,
+              "title": "The Hand of Fear: Part Three",
+              "date": "1976-10-16",
+              "millions": 11.1
+            },
+            {
+              "n": 8,
+              "title": "The Hand of Fear: Part Four",
+              "date": "1976-10-23",
+              "millions": 12
+            },
+            {
+              "n": 9,
+              "title": "The Deadly Assassin: Part One",
+              "date": "1976-10-30",
+              "millions": 11.8
+            },
+            {
+              "n": 10,
+              "title": "The Deadly Assassin: Part Two",
+              "date": "1976-11-06",
+              "millions": 12.1
+            },
+            {
+              "n": 11,
+              "title": "The Deadly Assassin: Part Three",
+              "date": "1976-11-13",
+              "millions": 13
+            },
+            {
+              "n": 12,
+              "title": "The Deadly Assassin: Part Four",
+              "date": "1976-11-20",
+              "millions": 11.8
+            },
+            {
+              "n": 13,
+              "title": "The Face of Evil: Part One",
+              "date": "1977-01-01",
+              "millions": 10.7
+            },
+            {
+              "n": 14,
+              "title": "The Face of Evil: Part Two",
+              "date": "1977-01-08",
+              "millions": 11.1
+            },
+            {
+              "n": 15,
+              "title": "The Face of Evil: Part Three",
+              "date": "1977-01-15",
+              "millions": 11.3
+            },
+            {
+              "n": 16,
+              "title": "The Face of Evil: Part Four",
+              "date": "1977-01-22",
+              "millions": 11.7
+            },
+            {
+              "n": 17,
+              "title": "The Robots of Death: Part One",
+              "date": "1977-01-29",
+              "millions": 12.8
+            },
+            {
+              "n": 18,
+              "title": "The Robots of Death: Part Two",
+              "date": "1977-02-05",
+              "millions": 12.4
+            },
+            {
+              "n": 19,
+              "title": "The Robots of Death: Part Three",
+              "date": "1977-02-12",
+              "millions": 13.1
+            },
+            {
+              "n": 20,
+              "title": "The Robots of Death: Part Four",
+              "date": "1977-02-19",
+              "millions": 12.6
+            },
+            {
+              "n": 21,
+              "title": "The Talons of Weng-Chiang: Part One",
+              "date": "1977-02-26",
+              "millions": 11.3
+            },
+            {
+              "n": 22,
+              "title": "The Talons of Weng-Chiang: Part Two",
+              "date": "1977-03-05",
+              "millions": 9.8
+            },
+            {
+              "n": 23,
+              "title": "The Talons of Weng-Chiang: Part Three",
+              "date": "1977-03-12",
+              "millions": 10.2
+            },
+            {
+              "n": 24,
+              "title": "The Talons of Weng-Chiang: Part Four",
+              "date": "1977-03-19",
+              "millions": 11.4
+            },
+            {
+              "n": 25,
+              "title": "The Talons of Weng-Chiang: Part Five",
+              "date": "1977-03-26",
+              "millions": 10.1
+            },
+            {
+              "n": 26,
+              "title": "The Talons of Weng-Chiang: Part Six",
+              "date": "1977-04-02",
+              "millions": 9.3
+            }
+          ],
+          "season_average": 11.08,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_14",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s15",
@@ -695,9 +3593,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_15"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Horror of Fang Rock: Part One",
+              "date": "1977-09-03",
+              "millions": 6.8
+            },
+            {
+              "n": 2,
+              "title": "Horror of Fang Rock: Part Two",
+              "date": "1977-09-10",
+              "millions": 7.1
+            },
+            {
+              "n": 3,
+              "title": "Horror of Fang Rock: Part Three",
+              "date": "1977-09-17",
+              "millions": 9.8
+            },
+            {
+              "n": 4,
+              "title": "Horror of Fang Rock: Part Four",
+              "date": "1977-09-24",
+              "millions": 9.9
+            },
+            {
+              "n": 5,
+              "title": "The Invisible Enemy: Part One",
+              "date": "1977-10-01",
+              "millions": 8.6
+            },
+            {
+              "n": 6,
+              "title": "The Invisible Enemy: Part Two",
+              "date": "1977-10-08",
+              "millions": 7.3
+            },
+            {
+              "n": 7,
+              "title": "The Invisible Enemy: Part Three",
+              "date": "1977-10-15",
+              "millions": 7.5
+            },
+            {
+              "n": 8,
+              "title": "The Invisible Enemy: Part Four",
+              "date": "1977-10-22",
+              "millions": 8.3
+            },
+            {
+              "n": 9,
+              "title": "Image of the Fendahl: Part One",
+              "date": "1977-10-29",
+              "millions": 6.7
+            },
+            {
+              "n": 10,
+              "title": "Image of the Fendahl: Part Two",
+              "date": "1977-11-05",
+              "millions": 7.5
+            },
+            {
+              "n": 11,
+              "title": "Image of the Fendahl: Part Three",
+              "date": "1977-11-12",
+              "millions": 7.9
+            },
+            {
+              "n": 12,
+              "title": "Image of the Fendahl: Part Four",
+              "date": "1977-11-19",
+              "millions": 9.1
+            },
+            {
+              "n": 13,
+              "title": "The Sun Makers: Part One",
+              "date": "1977-11-26",
+              "millions": 8.5
+            },
+            {
+              "n": 14,
+              "title": "The Sun Makers: Part Two",
+              "date": "1977-12-03",
+              "millions": 9.5
+            },
+            {
+              "n": 15,
+              "title": "The Sun Makers: Part Three",
+              "date": "1977-12-10",
+              "millions": 8.9
+            },
+            {
+              "n": 16,
+              "title": "The Sun Makers: Part Four",
+              "date": "1977-12-17",
+              "millions": 8.4
+            },
+            {
+              "n": 17,
+              "title": "Underworld: Part One",
+              "date": "1978-01-07",
+              "millions": 8.9
+            },
+            {
+              "n": 18,
+              "title": "Underworld: Part Two",
+              "date": "1978-01-14",
+              "millions": 9.1
+            },
+            {
+              "n": 19,
+              "title": "Underworld: Part Three",
+              "date": "1978-01-21",
+              "millions": 8.9
+            },
+            {
+              "n": 20,
+              "title": "Underworld: Part Four",
+              "date": "1978-01-28",
+              "millions": 11.7
+            },
+            {
+              "n": 21,
+              "title": "The Invasion of Time: Part One",
+              "date": "1978-02-04",
+              "millions": 11.2
+            },
+            {
+              "n": 22,
+              "title": "The Invasion of Time: Part Two",
+              "date": "1978-02-11",
+              "millions": 11.4
+            },
+            {
+              "n": 23,
+              "title": "The Invasion of Time: Part Three",
+              "date": "1978-02-18",
+              "millions": 9.5
+            },
+            {
+              "n": 24,
+              "title": "The Invasion of Time: Part Four",
+              "date": "1978-02-25",
+              "millions": 10.9
+            },
+            {
+              "n": 25,
+              "title": "The Invasion of Time: Part Five",
+              "date": "1978-03-04",
+              "millions": 10.3
+            },
+            {
+              "n": 26,
+              "title": "The Invasion of Time: Part Six",
+              "date": "1978-03-11",
+              "millions": 9.8
+            }
+          ],
+          "season_average": 8.98,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_15",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s16",
@@ -737,9 +3803,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_16"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Ribos Operation: Part One",
+              "date": "1978-09-02",
+              "millions": 8.3
+            },
+            {
+              "n": 2,
+              "title": "The Ribos Operation: Part Two",
+              "date": "1978-09-09",
+              "millions": 8.1
+            },
+            {
+              "n": 3,
+              "title": "The Ribos Operation: Part Three",
+              "date": "1978-09-16",
+              "millions": 7.9
+            },
+            {
+              "n": 4,
+              "title": "The Ribos Operation: Part Four",
+              "date": "1978-09-23",
+              "millions": 8.2
+            },
+            {
+              "n": 5,
+              "title": "The Pirate Planet: Part One",
+              "date": "1978-09-30",
+              "millions": 9.1
+            },
+            {
+              "n": 6,
+              "title": "The Pirate Planet: Part Two",
+              "date": "1978-10-07",
+              "millions": 7.4
+            },
+            {
+              "n": 7,
+              "title": "The Pirate Planet: Part Three",
+              "date": "1978-10-14",
+              "millions": 8.2
+            },
+            {
+              "n": 8,
+              "title": "The Pirate Planet: Part Four",
+              "date": "1978-10-21",
+              "millions": 8.4
+            },
+            {
+              "n": 9,
+              "title": "The Stones of Blood: Part One",
+              "date": "1978-10-28",
+              "millions": 8.6
+            },
+            {
+              "n": 10,
+              "title": "The Stones of Blood: Part Two",
+              "date": "1978-11-04",
+              "millions": 6.6
+            },
+            {
+              "n": 11,
+              "title": "The Stones of Blood: Part Three",
+              "date": "1978-11-11",
+              "millions": 9.3
+            },
+            {
+              "n": 12,
+              "title": "The Stones of Blood: Part Four",
+              "date": "1978-11-18",
+              "millions": 7.6
+            },
+            {
+              "n": 13,
+              "title": "The Androids of Tara: Part One",
+              "date": "1978-11-25",
+              "millions": 9.5
+            },
+            {
+              "n": 14,
+              "title": "The Androids of Tara: Part Two",
+              "date": "1978-12-02",
+              "millions": 10.1
+            },
+            {
+              "n": 15,
+              "title": "The Androids of Tara: Part Three",
+              "date": "1978-12-09",
+              "millions": 8.9
+            },
+            {
+              "n": 16,
+              "title": "The Androids of Tara: Part Four",
+              "date": "1978-12-16",
+              "millions": 9
+            },
+            {
+              "n": 17,
+              "title": "The Power of Kroll: Part One",
+              "date": "1978-12-23",
+              "millions": 6.5
+            },
+            {
+              "n": 18,
+              "title": "The Power of Kroll: Part Two",
+              "date": "1978-12-30",
+              "millions": 12.4
+            },
+            {
+              "n": 19,
+              "title": "The Power of Kroll: Part Three",
+              "date": "1979-01-06",
+              "millions": 8.9
+            },
+            {
+              "n": 20,
+              "title": "The Power of Kroll: Part Four",
+              "date": "1979-01-13",
+              "millions": 9.9
+            },
+            {
+              "n": 21,
+              "title": "The Armageddon Factor: Part One",
+              "date": "1979-01-20",
+              "millions": 7.5
+            },
+            {
+              "n": 22,
+              "title": "The Armageddon Factor: Part Two",
+              "date": "1979-01-27",
+              "millions": 8.8
+            },
+            {
+              "n": 23,
+              "title": "The Armageddon Factor: Part Three",
+              "date": "1979-02-03",
+              "millions": 7.8
+            },
+            {
+              "n": 24,
+              "title": "The Armageddon Factor: Part Four",
+              "date": "1979-02-10",
+              "millions": 8.6
+            },
+            {
+              "n": 25,
+              "title": "The Armageddon Factor: Part Five",
+              "date": "1979-02-17",
+              "millions": 8.6
+            },
+            {
+              "n": 26,
+              "title": "The Armageddon Factor: Part Six",
+              "date": "1979-02-24",
+              "millions": 9.6
+            }
+          ],
+          "season_average": 8.61,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_16",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s17",
@@ -779,9 +4013,141 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_17"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Destiny of the Daleks: Episode One",
+              "date": "1979-09-01",
+              "millions": 13
+            },
+            {
+              "n": 2,
+              "title": "Destiny of the Daleks: Episode Two",
+              "date": "1979-09-08",
+              "millions": 12.7
+            },
+            {
+              "n": 3,
+              "title": "Destiny of the Daleks: Episode Three",
+              "date": "1979-09-15",
+              "millions": 13.8
+            },
+            {
+              "n": 4,
+              "title": "Destiny of the Daleks: Episode Four",
+              "date": "1979-09-22",
+              "millions": 14.4
+            },
+            {
+              "n": 5,
+              "title": "City of Death: Part One",
+              "date": "1979-09-29",
+              "millions": 12.4
+            },
+            {
+              "n": 6,
+              "title": "City of Death: Part Two",
+              "date": "1979-10-06",
+              "millions": 14.1
+            },
+            {
+              "n": 7,
+              "title": "City of Death: Part Three",
+              "date": "1979-10-13",
+              "millions": 15.4
+            },
+            {
+              "n": 8,
+              "title": "City of Death: Part Four",
+              "date": "1979-10-20",
+              "millions": 16.1
+            },
+            {
+              "n": 9,
+              "title": "The Creature from the Pit: Part One",
+              "date": "1979-10-27",
+              "millions": 9.3
+            },
+            {
+              "n": 10,
+              "title": "The Creature from the Pit: Part Two",
+              "date": "1979-11-03",
+              "millions": 10.8
+            },
+            {
+              "n": 11,
+              "title": "The Creature from the Pit: Part Three",
+              "date": "1979-11-10",
+              "millions": 10.2
+            },
+            {
+              "n": 12,
+              "title": "The Creature from the Pit: Part Four",
+              "date": "1979-11-17",
+              "millions": 9.6
+            },
+            {
+              "n": 13,
+              "title": "Nightmare of Eden: Part One",
+              "date": "1979-11-24",
+              "millions": 8.7
+            },
+            {
+              "n": 14,
+              "title": "Nightmare of Eden: Part Two",
+              "date": "1979-12-01",
+              "millions": 9.6
+            },
+            {
+              "n": 15,
+              "title": "Nightmare of Eden: Part Three",
+              "date": "1979-12-08",
+              "millions": 9.6
+            },
+            {
+              "n": 16,
+              "title": "Nightmare of Eden: Part Four",
+              "date": "1979-12-15",
+              "millions": 9.4
+            },
+            {
+              "n": 17,
+              "title": "The Horns of Nimon: Part One",
+              "date": "1979-12-22",
+              "millions": 6
+            },
+            {
+              "n": 18,
+              "title": "The Horns of Nimon: Part Two",
+              "date": "1979-12-29",
+              "millions": 8.8
+            },
+            {
+              "n": 19,
+              "title": "The Horns of Nimon: Part Three",
+              "date": "1980-01-05",
+              "millions": 9.8
+            },
+            {
+              "n": 20,
+              "title": "The Horns of Nimon: Part Four",
+              "date": "1980-01-12",
+              "millions": 10.4
+            }
+          ],
+          "season_average": 11.21,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_17",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 20 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s18",
@@ -821,9 +4187,189 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_18"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Leisure Hive: Part One",
+              "date": "1980-08-30",
+              "millions": 5.9
+            },
+            {
+              "n": 2,
+              "title": "The Leisure Hive: Part Two",
+              "date": "1980-09-06",
+              "millions": 5
+            },
+            {
+              "n": 3,
+              "title": "The Leisure Hive: Part Three",
+              "date": "1980-09-13",
+              "millions": 5
+            },
+            {
+              "n": 4,
+              "title": "The Leisure Hive: Part Four",
+              "date": "1980-09-20",
+              "millions": 4.5
+            },
+            {
+              "n": 5,
+              "title": "Meglos: Part One",
+              "date": "1980-09-27",
+              "millions": 5
+            },
+            {
+              "n": 6,
+              "title": "Meglos: Part Two",
+              "date": "1980-10-04",
+              "millions": 4.2
+            },
+            {
+              "n": 7,
+              "title": "Meglos: Part Three",
+              "date": "1980-10-11",
+              "millions": 4.7
+            },
+            {
+              "n": 8,
+              "title": "Meglos: Part Four",
+              "date": "1980-10-18",
+              "millions": 4.7
+            },
+            {
+              "n": 9,
+              "title": "Full Circle: Part One",
+              "date": "1980-10-25",
+              "millions": 5.9
+            },
+            {
+              "n": 10,
+              "title": "Full Circle: Part Two",
+              "date": "1980-11-01",
+              "millions": 3.7
+            },
+            {
+              "n": 11,
+              "title": "Full Circle: Part Three",
+              "date": "1980-11-08",
+              "millions": 5.9
+            },
+            {
+              "n": 12,
+              "title": "Full Circle: Part Four",
+              "date": "1980-11-15",
+              "millions": 5.4
+            },
+            {
+              "n": 13,
+              "title": "State of Decay: Part One",
+              "date": "1980-11-22",
+              "millions": 5.8
+            },
+            {
+              "n": 14,
+              "title": "State of Decay: Part Two",
+              "date": "1980-11-29",
+              "millions": 5.3
+            },
+            {
+              "n": 15,
+              "title": "State of Decay: Part Three",
+              "date": "1980-12-06",
+              "millions": 4.4
+            },
+            {
+              "n": 16,
+              "title": "State of Decay: Part Four",
+              "date": "1980-12-13",
+              "millions": 5.4
+            },
+            {
+              "n": 17,
+              "title": "Warriors' Gate: Part One",
+              "date": "1981-01-03",
+              "millions": 7.1
+            },
+            {
+              "n": 18,
+              "title": "Warriors' Gate: Part Two",
+              "date": "1981-01-10",
+              "millions": 6.7
+            },
+            {
+              "n": 19,
+              "title": "Warriors' Gate: Part Three",
+              "date": "1981-01-17",
+              "millions": 8.3
+            },
+            {
+              "n": 20,
+              "title": "Warriors' Gate: Part Four",
+              "date": "1981-01-24",
+              "millions": 7.8
+            },
+            {
+              "n": 21,
+              "title": "The Keeper of Traken: Part One",
+              "date": "1981-01-31",
+              "millions": 7.6
+            },
+            {
+              "n": 22,
+              "title": "The Keeper of Traken: Part Two",
+              "date": "1981-02-07",
+              "millions": 6.1
+            },
+            {
+              "n": 23,
+              "title": "The Keeper of Traken: Part Three",
+              "date": "1981-02-14",
+              "millions": 5.2
+            },
+            {
+              "n": 24,
+              "title": "The Keeper of Traken: Part Four",
+              "date": "1981-02-21",
+              "millions": 6.1
+            },
+            {
+              "n": 25,
+              "title": "Logopolis: Part One",
+              "date": "1981-02-28",
+              "millions": 7.7
+            },
+            {
+              "n": 26,
+              "title": "Logopolis: Part Two",
+              "date": "1981-03-07",
+              "millions": 7.7
+            },
+            {
+              "n": 27,
+              "title": "Logopolis: Part Three",
+              "date": "1981-03-14",
+              "millions": 5.8
+            },
+            {
+              "n": 28,
+              "title": "Logopolis: Part Four",
+              "date": "1981-03-21",
+              "millions": 6.1
+            }
+          ],
+          "season_average": 5.82,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_18",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 28 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s19",
@@ -863,9 +4409,177 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_19"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Castrovalva: Part One",
+              "date": "1982-01-04",
+              "millions": 9.1
+            },
+            {
+              "n": 2,
+              "title": "Castrovalva: Part Two",
+              "date": "1982-01-05",
+              "millions": 8.6
+            },
+            {
+              "n": 3,
+              "title": "Castrovalva: Part Three",
+              "date": "1982-01-11",
+              "millions": 10.2
+            },
+            {
+              "n": 4,
+              "title": "Castrovalva: Part Four",
+              "date": "1982-01-12",
+              "millions": 10.4
+            },
+            {
+              "n": 5,
+              "title": "Four to Doomsday: Part One",
+              "date": "1982-01-18",
+              "millions": 8.4
+            },
+            {
+              "n": 6,
+              "title": "Four to Doomsday: Part Two",
+              "date": "1982-01-19",
+              "millions": 8.8
+            },
+            {
+              "n": 7,
+              "title": "Four to Doomsday: Part Three",
+              "date": "1982-01-25",
+              "millions": 8.9
+            },
+            {
+              "n": 8,
+              "title": "Four to Doomsday: Part Four",
+              "date": "1982-01-26",
+              "millions": 9.4
+            },
+            {
+              "n": 9,
+              "title": "Kinda: Part One",
+              "date": "1982-02-01",
+              "millions": 8.4
+            },
+            {
+              "n": 10,
+              "title": "Kinda: Part Two",
+              "date": "1982-02-02",
+              "millions": 9.4
+            },
+            {
+              "n": 11,
+              "title": "Kinda: Part Three",
+              "date": "1982-02-08",
+              "millions": 8.5
+            },
+            {
+              "n": 12,
+              "title": "Kinda: Part Four",
+              "date": "1982-02-09",
+              "millions": 8.9
+            },
+            {
+              "n": 13,
+              "title": "The Visitation: Part One",
+              "date": "1982-02-15",
+              "millions": 9.1
+            },
+            {
+              "n": 14,
+              "title": "The Visitation: Part Two",
+              "date": "1982-02-16",
+              "millions": 9.3
+            },
+            {
+              "n": 15,
+              "title": "The Visitation: Part Three",
+              "date": "1982-02-22",
+              "millions": 9.9
+            },
+            {
+              "n": 16,
+              "title": "The Visitation: Part Four",
+              "date": "1982-02-23",
+              "millions": 10.1
+            },
+            {
+              "n": 17,
+              "title": "Black Orchid: Part One",
+              "date": "1982-03-01",
+              "millions": 9.9
+            },
+            {
+              "n": 18,
+              "title": "Black Orchid: Part Two",
+              "date": "1982-03-02",
+              "millions": 10.1
+            },
+            {
+              "n": 19,
+              "title": "Earthshock: Part One",
+              "date": "1982-03-08",
+              "millions": 9.1
+            },
+            {
+              "n": 20,
+              "title": "Earthshock: Part Two",
+              "date": "1982-03-09",
+              "millions": 8.8
+            },
+            {
+              "n": 21,
+              "title": "Earthshock: Part Three",
+              "date": "1982-03-15",
+              "millions": 9.8
+            },
+            {
+              "n": 22,
+              "title": "Earthshock: Part Four",
+              "date": "1982-03-16",
+              "millions": 9.6
+            },
+            {
+              "n": 23,
+              "title": "Time-Flight: Part One",
+              "date": "1982-03-22",
+              "millions": 10
+            },
+            {
+              "n": 24,
+              "title": "Time-Flight: Part Two",
+              "date": "1982-03-23",
+              "millions": 8.5
+            },
+            {
+              "n": 25,
+              "title": "Time-Flight: Part Three",
+              "date": "1982-03-29",
+              "millions": 8.9
+            },
+            {
+              "n": 26,
+              "title": "Time-Flight: Part Four",
+              "date": "1982-03-30",
+              "millions": 8.1
+            }
+          ],
+          "season_average": 9.24,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_19",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 26 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s20",
@@ -905,9 +4619,153 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_20"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Arc of Infinity: Part One",
+              "date": "1983-01-03",
+              "millions": 7.2
+            },
+            {
+              "n": 2,
+              "title": "Arc of Infinity: Part Two",
+              "date": "1983-01-05",
+              "millions": 7.3
+            },
+            {
+              "n": 3,
+              "title": "Arc of Infinity: Part Three",
+              "date": "1983-01-11",
+              "millions": 6.9
+            },
+            {
+              "n": 4,
+              "title": "Arc of Infinity: Part Four",
+              "date": "1983-01-12",
+              "millions": 7.2
+            },
+            {
+              "n": 5,
+              "title": "Snakedance: Part One",
+              "date": "1983-01-18",
+              "millions": 6.7
+            },
+            {
+              "n": 6,
+              "title": "Snakedance: Part Two",
+              "date": "1983-01-19",
+              "millions": 7.7
+            },
+            {
+              "n": 7,
+              "title": "Snakedance: Part Three",
+              "date": "1983-01-25",
+              "millions": 6.6
+            },
+            {
+              "n": 8,
+              "title": "Snakedance: Part Four",
+              "date": "1983-01-26",
+              "millions": 7.4
+            },
+            {
+              "n": 9,
+              "title": "Mawdryn Undead: Part One",
+              "date": "1983-02-01",
+              "millions": 6.5
+            },
+            {
+              "n": 10,
+              "title": "Mawdryn Undead: Part Two",
+              "date": "1983-02-02",
+              "millions": 7.5
+            },
+            {
+              "n": 11,
+              "title": "Mawdryn Undead: Part Three",
+              "date": "1983-02-08",
+              "millions": 7.4
+            },
+            {
+              "n": 12,
+              "title": "Mawdryn Undead: Part Four",
+              "date": "1983-02-09",
+              "millions": 7.7
+            },
+            {
+              "n": 13,
+              "title": "Terminus: Part One",
+              "date": "1983-02-15",
+              "millions": 6.8
+            },
+            {
+              "n": 14,
+              "title": "Terminus: Part Two",
+              "date": "1983-02-16",
+              "millions": 7.5
+            },
+            {
+              "n": 15,
+              "title": "Terminus: Part Three",
+              "date": "1983-02-22",
+              "millions": 6.5
+            },
+            {
+              "n": 16,
+              "title": "Terminus: Part Four",
+              "date": "1983-02-23",
+              "millions": 7.4
+            },
+            {
+              "n": 17,
+              "title": "Enlightenment: Part One",
+              "date": "1983-03-01",
+              "millions": 6.6
+            },
+            {
+              "n": 18,
+              "title": "Enlightenment: Part Two",
+              "date": "1983-03-02",
+              "millions": 7.2
+            },
+            {
+              "n": 19,
+              "title": "Enlightenment: Part Three",
+              "date": "1983-03-08",
+              "millions": 6.2
+            },
+            {
+              "n": 20,
+              "title": "Enlightenment: Part Four",
+              "date": "1983-03-09",
+              "millions": 7.3
+            },
+            {
+              "n": 21,
+              "title": "The King's Demons: Part One",
+              "date": "1983-03-15",
+              "millions": 5.8
+            },
+            {
+              "n": 22,
+              "title": "The King's Demons: Part Two",
+              "date": "1983-03-16",
+              "millions": 7.2
+            }
+          ],
+          "season_average": 7.03,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_20",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 22 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-the-five-doctors",
@@ -987,9 +4845,141 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_21"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Warriors of the Deep: Part One",
+              "date": "1984-01-05",
+              "millions": 7.6
+            },
+            {
+              "n": 2,
+              "title": "Warriors of the Deep: Part Two",
+              "date": "1984-01-06",
+              "millions": 7.5
+            },
+            {
+              "n": 3,
+              "title": "Warriors of the Deep: Part Three",
+              "date": "1984-01-12",
+              "millions": 7.3
+            },
+            {
+              "n": 4,
+              "title": "Warriors of the Deep: Part Four",
+              "date": "1984-01-13",
+              "millions": 6.6
+            },
+            {
+              "n": 5,
+              "title": "The Awakening: Part One",
+              "date": "1984-01-19",
+              "millions": 7.9
+            },
+            {
+              "n": 6,
+              "title": "The Awakening: Part Two",
+              "date": "1984-01-20",
+              "millions": 6.6
+            },
+            {
+              "n": 7,
+              "title": "Frontios: Part One",
+              "date": "1984-01-26",
+              "millions": 8
+            },
+            {
+              "n": 8,
+              "title": "Frontios: Part Two",
+              "date": "1984-01-27",
+              "millions": 5.8
+            },
+            {
+              "n": 9,
+              "title": "Frontios: Part Three",
+              "date": "1984-02-02",
+              "millions": 7.8
+            },
+            {
+              "n": 10,
+              "title": "Frontios: Part Four",
+              "date": "1984-02-03",
+              "millions": 5.6
+            },
+            {
+              "n": 11,
+              "title": "Resurrection of the Daleks: Part One",
+              "date": "1984-02-08",
+              "millions": 7.3
+            },
+            {
+              "n": 12,
+              "title": "Resurrection of the Daleks: Part Two",
+              "date": "1984-02-15",
+              "millions": 8
+            },
+            {
+              "n": 13,
+              "title": "Planet of Fire: Part One",
+              "date": "1984-02-23",
+              "millions": 7.4
+            },
+            {
+              "n": 14,
+              "title": "Planet of Fire: Part Two",
+              "date": "1984-02-24",
+              "millions": 6.1
+            },
+            {
+              "n": 15,
+              "title": "Planet of Fire: Part Three",
+              "date": "1984-03-01",
+              "millions": 7.4
+            },
+            {
+              "n": 16,
+              "title": "Planet of Fire: Part Four",
+              "date": "1984-03-02",
+              "millions": 7
+            },
+            {
+              "n": 17,
+              "title": "The Caves of Androzani: Part One",
+              "date": "1984-03-08",
+              "millions": 6.9
+            },
+            {
+              "n": 18,
+              "title": "The Caves of Androzani: Part Two",
+              "date": "1984-03-09",
+              "millions": 6.6
+            },
+            {
+              "n": 19,
+              "title": "The Caves of Androzani: Part Three",
+              "date": "1984-03-15",
+              "millions": 7.8
+            },
+            {
+              "n": 20,
+              "title": "The Caves of Androzani: Part Four",
+              "date": "1984-03-16",
+              "millions": 7.8
+            }
+          ],
+          "season_average": 7.15,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_21",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 20 episode figures. Episodes 1–20 of the season's table (this entry covers part of the season)."
+        }
       },
       {
         "id": "doctor-who-1963-s21b",
@@ -1029,9 +5019,45 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_21"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 21,
+              "title": "The Twin Dilemma: Part One",
+              "date": "1984-03-22",
+              "millions": 7.6
+            },
+            {
+              "n": 22,
+              "title": "The Twin Dilemma: Part Two",
+              "date": "1984-03-23",
+              "millions": 7.4
+            },
+            {
+              "n": 23,
+              "title": "The Twin Dilemma: Part Three",
+              "date": "1984-03-29",
+              "millions": 7
+            },
+            {
+              "n": 24,
+              "title": "The Twin Dilemma: Part Four",
+              "date": "1984-03-30",
+              "millions": 6.3
+            }
+          ],
+          "season_average": 7.08,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_21",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 4 episode figures. Episodes 21–24 of the season's table (this entry covers part of the season)."
+        }
       },
       {
         "id": "doctor-who-1963-s22",
@@ -1071,9 +5097,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_22"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Attack of the Cybermen: Part One",
+              "date": "1985-01-05",
+              "millions": 8.9
+            },
+            {
+              "n": 2,
+              "title": "Attack of the Cybermen: Part Two",
+              "date": "1985-01-12",
+              "millions": 7.2
+            },
+            {
+              "n": 3,
+              "title": "Vengeance on Varos: Part One",
+              "date": "1985-01-19",
+              "millions": 7.2
+            },
+            {
+              "n": 4,
+              "title": "Vengeance on Varos: Part Two",
+              "date": "1985-01-26",
+              "millions": 7
+            },
+            {
+              "n": 5,
+              "title": "The Mark of the Rani: Part One",
+              "date": "1985-02-02",
+              "millions": 6.3
+            },
+            {
+              "n": 6,
+              "title": "The Mark of the Rani: Part Two",
+              "date": "1985-02-09",
+              "millions": 7.3
+            },
+            {
+              "n": 7,
+              "title": "The Two Doctors: Part One",
+              "date": "1985-02-16",
+              "millions": 6.6
+            },
+            {
+              "n": 8,
+              "title": "The Two Doctors: Part Two",
+              "date": "1985-02-23",
+              "millions": 6
+            },
+            {
+              "n": 9,
+              "title": "The Two Doctors: Part Three",
+              "date": "1985-03-02",
+              "millions": 6.9
+            },
+            {
+              "n": 10,
+              "title": "Timelash: Part One",
+              "date": "1985-03-09",
+              "millions": 6.7
+            },
+            {
+              "n": 11,
+              "title": "Timelash: Part Two",
+              "date": "1985-03-16",
+              "millions": 7.4
+            },
+            {
+              "n": 12,
+              "title": "Revelation of the Daleks: Part One",
+              "date": "1985-03-23",
+              "millions": 7.4
+            },
+            {
+              "n": 13,
+              "title": "Revelation of the Daleks: Part Two",
+              "date": "1985-03-30",
+              "millions": 7.7
+            }
+          ],
+          "season_average": 7.12,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_22",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s23",
@@ -1113,9 +5229,105 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_23"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Mysterious Planet: Part One",
+              "date": "1986-09-06",
+              "millions": 4.9
+            },
+            {
+              "n": 2,
+              "title": "The Mysterious Planet: Part Two",
+              "date": "1986-09-13",
+              "millions": 4.9
+            },
+            {
+              "n": 3,
+              "title": "The Mysterious Planet: Part Three",
+              "date": "1986-09-20",
+              "millions": 3.9
+            },
+            {
+              "n": 4,
+              "title": "The Mysterious Planet: Part Four",
+              "date": "1986-09-27",
+              "millions": 3.7
+            },
+            {
+              "n": 5,
+              "title": "Mindwarp: Part Five",
+              "date": "1986-10-04",
+              "millions": 4.8
+            },
+            {
+              "n": 6,
+              "title": "Mindwarp: Part Six",
+              "date": "1986-10-11",
+              "millions": 4.6
+            },
+            {
+              "n": 7,
+              "title": "Mindwarp: Part Seven",
+              "date": "1986-10-18",
+              "millions": 5.1
+            },
+            {
+              "n": 8,
+              "title": "Mindwarp: Part Eight",
+              "date": "1986-10-25",
+              "millions": 5
+            },
+            {
+              "n": 9,
+              "title": "Terror of the Vervoids: Part Nine",
+              "date": "1986-11-01",
+              "millions": 5.2
+            },
+            {
+              "n": 10,
+              "title": "Terror of the Vervoids: Part Ten",
+              "date": "1986-11-08",
+              "millions": 4.6
+            },
+            {
+              "n": 11,
+              "title": "Terror of the Vervoids: Part Eleven",
+              "date": "1986-11-15",
+              "millions": 5.3
+            },
+            {
+              "n": 12,
+              "title": "Terror of the Vervoids: Part Twelve",
+              "date": "1986-11-22",
+              "millions": 5.2
+            },
+            {
+              "n": 13,
+              "title": "The Ultimate Foe: Part Thirteen",
+              "date": "1986-11-29",
+              "millions": 4.4
+            },
+            {
+              "n": 14,
+              "title": "The Ultimate Foe: Part Fourteen",
+              "date": "1986-12-06",
+              "millions": 5.6
+            }
+          ],
+          "season_average": 4.8,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_23",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 14 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s24",
@@ -1155,9 +5367,105 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_24"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Time and the Rani: Part One",
+              "date": "1987-09-07",
+              "millions": 5.1
+            },
+            {
+              "n": 2,
+              "title": "Time and the Rani: Part Two",
+              "date": "1987-09-14",
+              "millions": 4.2
+            },
+            {
+              "n": 3,
+              "title": "Time and the Rani: Part Three",
+              "date": "1987-09-21",
+              "millions": 4.3
+            },
+            {
+              "n": 4,
+              "title": "Time and the Rani: Part Four",
+              "date": "1987-09-28",
+              "millions": 4.9
+            },
+            {
+              "n": 5,
+              "title": "Paradise Towers: Part One",
+              "date": "1987-10-05",
+              "millions": 4.5
+            },
+            {
+              "n": 6,
+              "title": "Paradise Towers: Part Two",
+              "date": "1987-10-12",
+              "millions": 5.2
+            },
+            {
+              "n": 7,
+              "title": "Paradise Towers: Part Three",
+              "date": "1987-10-19",
+              "millions": 5
+            },
+            {
+              "n": 8,
+              "title": "Paradise Towers: Part Four",
+              "date": "1987-10-26",
+              "millions": 5
+            },
+            {
+              "n": 9,
+              "title": "Delta and the Bannermen: Part One",
+              "date": "1987-11-02",
+              "millions": 5.3
+            },
+            {
+              "n": 10,
+              "title": "Delta and the Bannermen: Part Two",
+              "date": "1987-11-09",
+              "millions": 5.1
+            },
+            {
+              "n": 11,
+              "title": "Delta and the Bannermen: Part Three",
+              "date": "1987-11-16",
+              "millions": 5.4
+            },
+            {
+              "n": 12,
+              "title": "Dragonfire: Part One",
+              "date": "1987-11-23",
+              "millions": 5.5
+            },
+            {
+              "n": 13,
+              "title": "Dragonfire: Part Two",
+              "date": "1987-11-30",
+              "millions": 5
+            },
+            {
+              "n": 14,
+              "title": "Dragonfire: Part Three",
+              "date": "1987-12-07",
+              "millions": 4.7
+            }
+          ],
+          "season_average": 4.94,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_24",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 14 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s25",
@@ -1197,9 +5505,105 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_25"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Remembrance of the Daleks: Part One",
+              "date": "1988-10-05",
+              "millions": 5.5
+            },
+            {
+              "n": 2,
+              "title": "Remembrance of the Daleks: Part Two",
+              "date": "1988-10-12",
+              "millions": 5.8
+            },
+            {
+              "n": 3,
+              "title": "Remembrance of the Daleks: Part Three",
+              "date": "1988-10-19",
+              "millions": 5.1
+            },
+            {
+              "n": 4,
+              "title": "Remembrance of the Daleks: Part Four",
+              "date": "1988-10-26",
+              "millions": 5
+            },
+            {
+              "n": 5,
+              "title": "The Happiness Patrol: Part One",
+              "date": "1988-11-02",
+              "millions": 5.3
+            },
+            {
+              "n": 6,
+              "title": "The Happiness Patrol: Part Two",
+              "date": "1988-11-09",
+              "millions": 4.6
+            },
+            {
+              "n": 7,
+              "title": "The Happiness Patrol: Part Three",
+              "date": "1988-11-16",
+              "millions": 5.3
+            },
+            {
+              "n": 8,
+              "title": "Silver Nemesis: Part One",
+              "date": "1988-11-23",
+              "millions": 6.1
+            },
+            {
+              "n": 9,
+              "title": "Silver Nemesis: Part Two",
+              "date": "1988-11-30",
+              "millions": 5.2
+            },
+            {
+              "n": 10,
+              "title": "Silver Nemesis: Part Three",
+              "date": "1988-12-07",
+              "millions": 5.2
+            },
+            {
+              "n": 11,
+              "title": "The Greatest Show in the Galaxy: Part One",
+              "date": "1988-12-14",
+              "millions": 5
+            },
+            {
+              "n": 12,
+              "title": "The Greatest Show in the Galaxy: Part Two",
+              "date": "1988-12-21",
+              "millions": 5.3
+            },
+            {
+              "n": 13,
+              "title": "The Greatest Show in the Galaxy: Part Three",
+              "date": "1988-12-28",
+              "millions": 4.8
+            },
+            {
+              "n": 14,
+              "title": "The Greatest Show in the Galaxy: Part Four",
+              "date": "1989-01-04",
+              "millions": 6.6
+            }
+          ],
+          "season_average": 5.34,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_25",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 14 episode figures."
+        }
       },
       {
         "id": "doctor-who-1963-s26",
@@ -1239,9 +5643,105 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(1963%E2%80%931989)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_season_26"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Battlefield: Part One",
+              "date": "1989-09-06",
+              "millions": 3.1
+            },
+            {
+              "n": 2,
+              "title": "Battlefield: Part Two",
+              "date": "1989-09-13",
+              "millions": 3.9
+            },
+            {
+              "n": 3,
+              "title": "Battlefield: Part Three",
+              "date": "1989-09-20",
+              "millions": 3.6
+            },
+            {
+              "n": 4,
+              "title": "Battlefield: Part Four",
+              "date": "1989-09-27",
+              "millions": 4
+            },
+            {
+              "n": 5,
+              "title": "Ghost Light: Part One",
+              "date": "1989-10-04",
+              "millions": 4.2
+            },
+            {
+              "n": 6,
+              "title": "Ghost Light: Part Two",
+              "date": "1989-10-11",
+              "millions": 4
+            },
+            {
+              "n": 7,
+              "title": "Ghost Light: Part Three",
+              "date": "1989-10-18",
+              "millions": 4
+            },
+            {
+              "n": 8,
+              "title": "The Curse of Fenric: Part One",
+              "date": "1989-10-25",
+              "millions": 4.3
+            },
+            {
+              "n": 9,
+              "title": "The Curse of Fenric: Part Two",
+              "date": "1989-11-01",
+              "millions": 4
+            },
+            {
+              "n": 10,
+              "title": "The Curse of Fenric: Part Three",
+              "date": "1989-11-08",
+              "millions": 4
+            },
+            {
+              "n": 11,
+              "title": "The Curse of Fenric: Part Four",
+              "date": "1989-11-15",
+              "millions": 4.2
+            },
+            {
+              "n": 12,
+              "title": "Survival: Part One",
+              "date": "1989-11-22",
+              "millions": 5
+            },
+            {
+              "n": 13,
+              "title": "Survival: Part Two",
+              "date": "1989-11-29",
+              "millions": 4.8
+            },
+            {
+              "n": 14,
+              "title": "Survival: Part Three",
+              "date": "1989-12-06",
+              "millions": 5
+            }
+          ],
+          "season_average": 4.15,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_season_26",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 14 episode figures."
+        }
       }
     ],
     "links": [
@@ -1487,9 +5987,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_1"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Rose",
+              "date": "2005-03-26",
+              "millions": 10.81
+            },
+            {
+              "n": 2,
+              "title": "The End of the World",
+              "date": "2005-04-02",
+              "millions": 7.97
+            },
+            {
+              "n": 3,
+              "title": "The Unquiet Dead",
+              "date": "2005-04-09",
+              "millions": 8.86
+            },
+            {
+              "n": 4,
+              "title": "Aliens of London",
+              "date": "2005-04-16",
+              "millions": 7.63
+            },
+            {
+              "n": 5,
+              "title": "World War Three",
+              "date": "2005-04-23",
+              "millions": 7.98
+            },
+            {
+              "n": 6,
+              "title": "Dalek",
+              "date": "2005-04-30",
+              "millions": 8.63
+            },
+            {
+              "n": 7,
+              "title": "The Long Game",
+              "date": "2005-05-07",
+              "millions": 8.01
+            },
+            {
+              "n": 8,
+              "title": "Father's Day",
+              "date": "2005-05-14",
+              "millions": 8.06
+            },
+            {
+              "n": 9,
+              "title": "The Empty Child",
+              "date": "2005-05-21",
+              "millions": 7.11
+            },
+            {
+              "n": 10,
+              "title": "The Doctor Dances",
+              "date": "2005-05-28",
+              "millions": 6.86
+            },
+            {
+              "n": 11,
+              "title": "Boom Town",
+              "date": "2005-06-04",
+              "millions": 7.68
+            },
+            {
+              "n": 12,
+              "title": "Bad Wolf",
+              "date": "2005-06-11",
+              "millions": 6.81
+            },
+            {
+              "n": 13,
+              "title": "The Parting of the Ways",
+              "date": "2005-06-18",
+              "millions": 6.91
+            }
+          ],
+          "season_average": 7.95,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_1",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2005-christmas",
@@ -1569,9 +6159,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_2"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "New Earth",
+              "date": "2006-04-15",
+              "millions": 8.62
+            },
+            {
+              "n": 2,
+              "title": "Tooth and Claw",
+              "date": "2006-04-22",
+              "millions": 9.24
+            },
+            {
+              "n": 3,
+              "title": "School Reunion",
+              "date": "2006-04-29",
+              "millions": 8.31
+            },
+            {
+              "n": 4,
+              "title": "The Girl in the Fireplace",
+              "date": "2006-05-06",
+              "millions": 7.9
+            },
+            {
+              "n": 5,
+              "title": "Rise of the Cybermen",
+              "date": "2006-05-13",
+              "millions": 9.22
+            },
+            {
+              "n": 6,
+              "title": "The Age of Steel",
+              "date": "2006-05-20",
+              "millions": 7.63
+            },
+            {
+              "n": 7,
+              "title": "The Idiot's Lantern",
+              "date": "2006-05-27",
+              "millions": 6.76
+            },
+            {
+              "n": 8,
+              "title": "The Impossible Planet",
+              "date": "2006-06-03",
+              "millions": 6.32
+            },
+            {
+              "n": 9,
+              "title": "The Satan Pit",
+              "date": "2006-06-10",
+              "millions": 6.08
+            },
+            {
+              "n": 10,
+              "title": "Love & Monsters",
+              "date": "2006-06-17",
+              "millions": 6.66
+            },
+            {
+              "n": 11,
+              "title": "Fear Her",
+              "date": "2006-06-24",
+              "millions": 7.14
+            },
+            {
+              "n": 12,
+              "title": "Army of Ghosts",
+              "date": "2006-07-01",
+              "millions": 8.19
+            },
+            {
+              "n": 13,
+              "title": "Doomsday",
+              "date": "2006-07-08",
+              "millions": 8.22
+            }
+          ],
+          "season_average": 7.71,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_2",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2006-christmas",
@@ -1651,9 +6331,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_3"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Smith and Jones",
+              "date": "2007-03-31",
+              "millions": 8.71
+            },
+            {
+              "n": 2,
+              "title": "The Shakespeare Code",
+              "date": "2007-04-07",
+              "millions": 7.23
+            },
+            {
+              "n": 3,
+              "title": "Gridlock",
+              "date": "2007-04-14",
+              "millions": 8.41
+            },
+            {
+              "n": 4,
+              "title": "Daleks in Manhattan",
+              "date": "2007-04-21",
+              "millions": 6.69
+            },
+            {
+              "n": 5,
+              "title": "Evolution of the Daleks",
+              "date": "2007-04-28",
+              "millions": 6.97
+            },
+            {
+              "n": 6,
+              "title": "The Lazarus Experiment",
+              "date": "2007-05-05",
+              "millions": 7.19
+            },
+            {
+              "n": 7,
+              "title": "42",
+              "date": "2007-05-19",
+              "millions": 7.41
+            },
+            {
+              "n": 8,
+              "title": "Human Nature",
+              "date": "2007-05-26",
+              "millions": 7.74
+            },
+            {
+              "n": 9,
+              "title": "The Family of Blood",
+              "date": "2007-06-02",
+              "millions": 7.21
+            },
+            {
+              "n": 10,
+              "title": "Blink",
+              "date": "2007-06-09",
+              "millions": 6.62
+            },
+            {
+              "n": 11,
+              "title": "Utopia",
+              "date": "2007-06-16",
+              "millions": 7.84
+            },
+            {
+              "n": 12,
+              "title": "The Sound of Drums",
+              "date": "2007-06-23",
+              "millions": 7.51
+            },
+            {
+              "n": 13,
+              "title": "Last of the Time Lords",
+              "date": "2007-06-30",
+              "millions": 8.61
+            }
+          ],
+          "season_average": 7.55,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_3",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2007-christmas",
@@ -1733,9 +6503,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_4"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Partners in Crime",
+              "date": "2008-04-05",
+              "millions": 9.14
+            },
+            {
+              "n": 2,
+              "title": "The Fires of Pompeii",
+              "date": "2008-04-12",
+              "millions": 9.04
+            },
+            {
+              "n": 3,
+              "title": "Planet of the Ood",
+              "date": "2008-04-19",
+              "millions": 7.5
+            },
+            {
+              "n": 4,
+              "title": "The Sontaran Stratagem",
+              "date": "2008-04-26",
+              "millions": 7.06
+            },
+            {
+              "n": 5,
+              "title": "The Poison Sky",
+              "date": "2008-05-03",
+              "millions": 6.53
+            },
+            {
+              "n": 6,
+              "title": "The Doctor's Daughter",
+              "date": "2008-05-10",
+              "millions": 7.33
+            },
+            {
+              "n": 7,
+              "title": "The Unicorn and the Wasp",
+              "date": "2008-05-17",
+              "millions": 8.41
+            },
+            {
+              "n": 8,
+              "title": "Silence in the Library",
+              "date": "2008-05-31",
+              "millions": 6.27
+            },
+            {
+              "n": 9,
+              "title": "Forest of the Dead",
+              "date": "2008-06-07",
+              "millions": 7.84
+            },
+            {
+              "n": 10,
+              "title": "Midnight",
+              "date": "2008-06-14",
+              "millions": 8.05
+            },
+            {
+              "n": 11,
+              "title": "Turn Left",
+              "date": "2008-06-21",
+              "millions": 8.09
+            },
+            {
+              "n": 12,
+              "title": "The Stolen Earth",
+              "date": "2008-06-28",
+              "millions": 8.78
+            },
+            {
+              "n": 13,
+              "title": "Journey's End",
+              "date": "2008-07-05",
+              "millions": 10.57
+            }
+          ],
+          "season_average": 8.05,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_4",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-specials-2008-2010",
@@ -1815,9 +6675,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_5"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Eleventh Hour",
+              "date": "2010-04-03",
+              "millions": 9.59
+            },
+            {
+              "n": 2,
+              "title": "The Beast Below",
+              "date": "2010-04-10",
+              "millions": 7.93
+            },
+            {
+              "n": 3,
+              "title": "Victory of the Daleks",
+              "date": "2010-04-17",
+              "millions": 7.82
+            },
+            {
+              "n": 4,
+              "title": "The Time of Angels",
+              "date": "2010-04-24",
+              "millions": 8.13
+            },
+            {
+              "n": 5,
+              "title": "Flesh and Stone",
+              "date": "2010-05-01",
+              "millions": 8.02
+            },
+            {
+              "n": 6,
+              "title": "The Vampires of Venice",
+              "date": "2010-05-08",
+              "millions": 7.28
+            },
+            {
+              "n": 7,
+              "title": "Amy's Choice",
+              "date": "2010-05-15",
+              "millions": 7.06
+            },
+            {
+              "n": 8,
+              "title": "The Hungry Earth",
+              "date": "2010-05-22",
+              "millions": 6.01
+            },
+            {
+              "n": 9,
+              "title": "Cold Blood",
+              "date": "2010-05-29",
+              "millions": 7.04
+            },
+            {
+              "n": 10,
+              "title": "Vincent and the Doctor",
+              "date": "2010-06-05",
+              "millions": 6.29
+            },
+            {
+              "n": 11,
+              "title": "The Lodger",
+              "date": "2010-06-12",
+              "millions": 5.98
+            },
+            {
+              "n": 12,
+              "title": "The Pandorica Opens",
+              "date": "2010-06-19",
+              "millions": 6.94
+            },
+            {
+              "n": 13,
+              "title": "The Big Bang",
+              "date": "2010-06-26",
+              "millions": 6.12
+            }
+          ],
+          "season_average": 7.25,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_5",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2010-christmas",
@@ -1897,9 +6847,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_6"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Impossible Astronaut",
+              "date": "2011-04-23",
+              "millions": 8.86
+            },
+            {
+              "n": 2,
+              "title": "Day of the Moon",
+              "date": "2011-04-30",
+              "millions": 7.3
+            },
+            {
+              "n": 3,
+              "title": "The Curse of the Black Spot",
+              "date": "2011-05-07",
+              "millions": 7.85
+            },
+            {
+              "n": 4,
+              "title": "The Doctor's Wife",
+              "date": "2011-05-14",
+              "millions": 7.97
+            },
+            {
+              "n": 5,
+              "title": "The Rebel Flesh",
+              "date": "2011-05-21",
+              "millions": 7.35
+            },
+            {
+              "n": 6,
+              "title": "The Almost People",
+              "date": "2011-05-28",
+              "millions": 6.72
+            },
+            {
+              "n": 7,
+              "title": "A Good Man Goes to War",
+              "date": "2011-06-04",
+              "millions": 7.51
+            },
+            {
+              "n": 8,
+              "title": "Let's Kill Hitler",
+              "date": "2011-08-27",
+              "millions": 8.1
+            },
+            {
+              "n": 9,
+              "title": "Night Terrors",
+              "date": "2011-09-03",
+              "millions": 7.07
+            },
+            {
+              "n": 10,
+              "title": "The Girl Who Waited",
+              "date": "2011-09-10",
+              "millions": 7.6
+            },
+            {
+              "n": 11,
+              "title": "The God Complex",
+              "date": "2011-09-17",
+              "millions": 6.77
+            },
+            {
+              "n": 12,
+              "title": "Closing Time",
+              "date": "2011-09-24",
+              "millions": 6.93
+            },
+            {
+              "n": 13,
+              "title": "The Wedding of River Song",
+              "date": "2011-10-01",
+              "millions": 7.67
+            }
+          ],
+          "season_average": 7.52,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_6",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2011-christmas",
@@ -1979,9 +7019,99 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_7"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Asylum of the Daleks",
+              "date": "2012-09-01",
+              "millions": 8.33
+            },
+            {
+              "n": 2,
+              "title": "Dinosaurs on a Spaceship",
+              "date": "2012-09-08",
+              "millions": 7.57
+            },
+            {
+              "n": 3,
+              "title": "A Town Called Mercy",
+              "date": "2012-09-15",
+              "millions": 8.42
+            },
+            {
+              "n": 4,
+              "title": "The Power of Three",
+              "date": "2012-09-22",
+              "millions": 7.67
+            },
+            {
+              "n": 5,
+              "title": "The Angels Take Manhattan",
+              "date": "2012-09-29",
+              "millions": 7.82
+            },
+            {
+              "n": 6,
+              "title": "The Bells of Saint John",
+              "date": "2013-03-30",
+              "millions": 8.44
+            },
+            {
+              "n": 7,
+              "title": "The Rings of Akhaten",
+              "date": "2013-04-06",
+              "millions": 7.45
+            },
+            {
+              "n": 8,
+              "title": "Cold War",
+              "date": "2013-04-13",
+              "millions": 7.37
+            },
+            {
+              "n": 9,
+              "title": "Hide",
+              "date": "2013-04-20",
+              "millions": 6.61
+            },
+            {
+              "n": 10,
+              "title": "Journey to the Centre of the TARDIS",
+              "date": "2013-04-27",
+              "millions": 6.5
+            },
+            {
+              "n": 11,
+              "title": "The Crimson Horror",
+              "date": "2013-05-04",
+              "millions": 6.47
+            },
+            {
+              "n": 12,
+              "title": "Nightmare in Silver",
+              "date": "2013-05-11",
+              "millions": 6.64
+            },
+            {
+              "n": 13,
+              "title": "The Name of the Doctor",
+              "date": "2013-05-18",
+              "millions": 7.45
+            }
+          ],
+          "season_average": 7.44,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_7",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2012-christmas",
@@ -2101,9 +7231,93 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_8"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Deep Breath",
+              "date": "2014-08-23",
+              "millions": 9.17
+            },
+            {
+              "n": 2,
+              "title": "Into the Dalek",
+              "date": "2014-08-30",
+              "millions": 7.29
+            },
+            {
+              "n": 3,
+              "title": "Robot of Sherwood",
+              "date": "2014-09-06",
+              "millions": 7.28
+            },
+            {
+              "n": 4,
+              "title": "Listen",
+              "date": "2014-09-13",
+              "millions": 7.01
+            },
+            {
+              "n": 5,
+              "title": "Time Heist",
+              "date": "2014-09-20",
+              "millions": 6.99
+            },
+            {
+              "n": 6,
+              "title": "The Caretaker",
+              "date": "2014-09-27",
+              "millions": 6.82
+            },
+            {
+              "n": 7,
+              "title": "Kill the Moon",
+              "date": "2014-10-04",
+              "millions": 6.91
+            },
+            {
+              "n": 8,
+              "title": "Mummy on the Orient Express",
+              "date": "2014-10-11",
+              "millions": 7.11
+            },
+            {
+              "n": 9,
+              "title": "Flatline",
+              "date": "2014-10-18",
+              "millions": 6.71
+            },
+            {
+              "n": 10,
+              "title": "In the Forest of the Night",
+              "date": "2014-10-25",
+              "millions": 6.92
+            },
+            {
+              "n": 11,
+              "title": "Dark Water",
+              "date": "2014-11-01",
+              "millions": 7.34
+            },
+            {
+              "n": 12,
+              "title": "Death in Heaven",
+              "date": "2014-11-08",
+              "millions": 7.6
+            }
+          ],
+          "season_average": 7.26,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_8",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 12 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2014-christmas",
@@ -2183,9 +7397,93 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_9"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Magician's Apprentice",
+              "date": "2015-09-19",
+              "millions": 6.54
+            },
+            {
+              "n": 2,
+              "title": "The Witch's Familiar",
+              "date": "2015-09-26",
+              "millions": 5.71
+            },
+            {
+              "n": 3,
+              "title": "Under the Lake",
+              "date": "2015-10-03",
+              "millions": 5.63
+            },
+            {
+              "n": 4,
+              "title": "Before the Flood",
+              "date": "2015-10-10",
+              "millions": 6.05
+            },
+            {
+              "n": 5,
+              "title": "The Girl Who Died",
+              "date": "2015-10-17",
+              "millions": 6.56
+            },
+            {
+              "n": 6,
+              "title": "The Woman Who Lived",
+              "date": "2015-10-24",
+              "millions": 6.11
+            },
+            {
+              "n": 7,
+              "title": "The Zygon Invasion",
+              "date": "2015-10-31",
+              "millions": 5.76
+            },
+            {
+              "n": 8,
+              "title": "The Zygon Inversion",
+              "date": "2015-11-07",
+              "millions": 6.03
+            },
+            {
+              "n": 9,
+              "title": "Sleep No More",
+              "date": "2015-11-14",
+              "millions": 5.61
+            },
+            {
+              "n": 10,
+              "title": "Face the Raven",
+              "date": "2015-11-21",
+              "millions": 6.05
+            },
+            {
+              "n": 11,
+              "title": "Heaven Sent",
+              "date": "2015-11-28",
+              "millions": 6.19
+            },
+            {
+              "n": 12,
+              "title": "Hell Bent",
+              "date": "2015-12-05",
+              "millions": 6.17
+            }
+          ],
+          "season_average": 6.03,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_9",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 12 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2015-christmas",
@@ -2305,9 +7603,93 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_10"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Pilot",
+              "date": "2017-04-15",
+              "millions": 6.68
+            },
+            {
+              "n": 2,
+              "title": "Smile",
+              "date": "2017-04-22",
+              "millions": 5.98
+            },
+            {
+              "n": 3,
+              "title": "Thin Ice",
+              "date": "2017-04-29",
+              "millions": 5.61
+            },
+            {
+              "n": 4,
+              "title": "Knock Knock",
+              "date": "2017-05-06",
+              "millions": 5.73
+            },
+            {
+              "n": 5,
+              "title": "Oxygen",
+              "date": "2017-05-13",
+              "millions": 5.27
+            },
+            {
+              "n": 6,
+              "title": "Extremis",
+              "date": "2017-05-20",
+              "millions": 5.53
+            },
+            {
+              "n": 7,
+              "title": "The Pyramid at the End of the World",
+              "date": "2017-05-27",
+              "millions": 5.79
+            },
+            {
+              "n": 8,
+              "title": "The Lie of the Land",
+              "date": "2017-06-03",
+              "millions": 4.82
+            },
+            {
+              "n": 9,
+              "title": "Empress of Mars",
+              "date": "2017-06-10",
+              "millions": 5.02
+            },
+            {
+              "n": 10,
+              "title": "The Eaters of Light",
+              "date": "2017-06-17",
+              "millions": 4.73
+            },
+            {
+              "n": 11,
+              "title": "World Enough and Time",
+              "date": "2017-06-24",
+              "millions": 5
+            },
+            {
+              "n": 12,
+              "title": "The Doctor Falls",
+              "date": "2017-07-01",
+              "millions": 5.29
+            }
+          ],
+          "season_average": 5.45,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_10",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 12 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2017-christmas",
@@ -2387,9 +7769,81 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_11"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Woman Who Fell to Earth",
+              "date": "2018-10-07",
+              "millions": 10.96
+            },
+            {
+              "n": 2,
+              "title": "The Ghost Monument",
+              "date": "2018-10-14",
+              "millions": 9
+            },
+            {
+              "n": 3,
+              "title": "Rosa",
+              "date": "2018-10-21",
+              "millions": 8.41
+            },
+            {
+              "n": 4,
+              "title": "Arachnids in the UK",
+              "date": "2018-10-28",
+              "millions": 8.22
+            },
+            {
+              "n": 5,
+              "title": "The Tsuranga Conundrum",
+              "date": "2018-11-04",
+              "millions": 7.76
+            },
+            {
+              "n": 6,
+              "title": "Demons of the Punjab",
+              "date": "2018-11-11",
+              "millions": 7.48
+            },
+            {
+              "n": 7,
+              "title": "Kerblam!",
+              "date": "2018-11-18",
+              "millions": 7.46
+            },
+            {
+              "n": 8,
+              "title": "The Witchfinders",
+              "date": "2018-11-25",
+              "millions": 7.21
+            },
+            {
+              "n": 9,
+              "title": "It Takes You Away",
+              "date": "2018-12-02",
+              "millions": 6.42
+            },
+            {
+              "n": 10,
+              "title": "The Battle of Ranskoor Av Kolos",
+              "date": "2018-12-09",
+              "millions": 6.65
+            }
+          ],
+          "season_average": 7.96,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_11",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 10 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2019-new-year",
@@ -2469,9 +7923,81 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_12"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Spyfall, Part 1",
+              "date": "2020-01-01",
+              "millions": 6.89
+            },
+            {
+              "n": 2,
+              "title": "Spyfall, Part 2",
+              "date": "2020-01-05",
+              "millions": 6.07
+            },
+            {
+              "n": 3,
+              "title": "Orphan 55",
+              "date": "2020-01-12",
+              "millions": 5.38
+            },
+            {
+              "n": 4,
+              "title": "Nikola Tesla's Night of Terror",
+              "date": "2020-01-19",
+              "millions": 5.2
+            },
+            {
+              "n": 5,
+              "title": "Fugitive of the Judoon",
+              "date": "2020-01-26",
+              "millions": 5.57
+            },
+            {
+              "n": 6,
+              "title": "Praxeus",
+              "date": "2020-02-02",
+              "millions": 5.22
+            },
+            {
+              "n": 7,
+              "title": "Can You Hear Me?",
+              "date": "2020-02-09",
+              "millions": 4.89
+            },
+            {
+              "n": 8,
+              "title": "The Haunting of Villa Diodati",
+              "date": "2020-02-16",
+              "millions": 5.07
+            },
+            {
+              "n": 9,
+              "title": "Ascension of the Cybermen",
+              "date": "2020-02-23",
+              "millions": 4.99
+            },
+            {
+              "n": 10,
+              "title": "The Timeless Children",
+              "date": "2020-03-01",
+              "millions": 4.69
+            }
+          ],
+          "season_average": 5.4,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_12",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 10 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2021-new-year",
@@ -2551,9 +8077,57 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_13"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Halloween Apocalypse",
+              "date": "2021-10-31",
+              "millions": 5.81
+            },
+            {
+              "n": 2,
+              "title": "War of the Sontarans",
+              "date": "2021-11-07",
+              "millions": 5.12
+            },
+            {
+              "n": 3,
+              "title": "Once, Upon Time",
+              "date": "2021-11-14",
+              "millions": 4.7
+            },
+            {
+              "n": 4,
+              "title": "Village of the Angels",
+              "date": "2021-11-21",
+              "millions": 4.57
+            },
+            {
+              "n": 5,
+              "title": "Survivors of the Flux",
+              "date": "2021-11-28",
+              "millions": 4.87
+            },
+            {
+              "n": 6,
+              "title": "The Vanquishers",
+              "date": "2021-12-05",
+              "millions": 4.68
+            }
+          ],
+          "season_average": 4.96,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_13",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 6 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-specials-2022",
@@ -2713,9 +8287,69 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_14"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Space Babies",
+              "date": "2024-05-11",
+              "millions": 4.62
+            },
+            {
+              "n": 2,
+              "title": "The Devil's Chord",
+              "date": "2024-05-11",
+              "millions": 4.24
+            },
+            {
+              "n": 3,
+              "title": "Boom",
+              "date": "2024-05-18",
+              "millions": 3.63
+            },
+            {
+              "n": 4,
+              "title": "73 Yards",
+              "date": "2024-05-25",
+              "millions": 4.26
+            },
+            {
+              "n": 5,
+              "title": "Dot and Bubble",
+              "date": "2024-06-01",
+              "millions": 3.62
+            },
+            {
+              "n": 6,
+              "title": "Rogue",
+              "date": "2024-06-08",
+              "millions": 3.66
+            },
+            {
+              "n": 7,
+              "title": "The Legend of Ruby Sunday",
+              "date": "2024-06-15",
+              "millions": 3.79
+            },
+            {
+              "n": 8,
+              "title": "Empire of Death",
+              "date": "2024-06-22",
+              "millions": 3.94
+            }
+          ],
+          "season_average": 3.97,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_14",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 8 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-special-2024-christmas",
@@ -2795,9 +8429,69 @@
         },
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/wiki/Doctor_Who_series_15"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Robot Revolution",
+              "date": "2025-04-12",
+              "millions": 3.56
+            },
+            {
+              "n": 2,
+              "title": "Lux",
+              "date": "2025-04-19",
+              "millions": 3.04
+            },
+            {
+              "n": 3,
+              "title": "The Well",
+              "date": "2025-04-26",
+              "millions": 3.24
+            },
+            {
+              "n": 4,
+              "title": "Lucky Day",
+              "date": "2025-05-03",
+              "millions": 2.83
+            },
+            {
+              "n": 5,
+              "title": "The Story & the Engine",
+              "date": "2025-05-10",
+              "millions": 2.71
+            },
+            {
+              "n": 6,
+              "title": "The Interstellar Song Contest",
+              "date": "2025-05-17",
+              "millions": 3.79
+            },
+            {
+              "n": 7,
+              "title": "Wish World",
+              "date": "2025-05-24",
+              "millions": 3.16
+            },
+            {
+              "n": 8,
+              "title": "The Reality War",
+              "date": "2025-05-31",
+              "millions": 3.48
+            }
+          ],
+          "season_average": 3.23,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_15",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 8 episode figures."
+        }
       },
       {
         "id": "doctor-who-2005-next-series",
@@ -2917,9 +8611,99 @@
           "release-season": "1"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Torchwood"
+          "https://en.wikipedia.org/wiki/Torchwood",
+          "https://en.wikipedia.org/wiki/List_of_Torchwood_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Everything Changes",
+              "date": "2006-10-22",
+              "millions": 2.52
+            },
+            {
+              "n": 2,
+              "title": "Day One",
+              "date": "2006-10-22",
+              "millions": 2.5
+            },
+            {
+              "n": 3,
+              "title": "Ghost Machine",
+              "date": "2006-10-29",
+              "millions": 1.77
+            },
+            {
+              "n": 4,
+              "title": "Cyberwoman",
+              "date": "2006-11-05",
+              "millions": 1.39
+            },
+            {
+              "n": 5,
+              "title": "Small Worlds",
+              "date": "2006-11-12",
+              "millions": 1.26
+            },
+            {
+              "n": 6,
+              "title": "Countrycide",
+              "date": "2006-11-19",
+              "millions": 1.22
+            },
+            {
+              "n": 7,
+              "title": "Greeks Bearing Gifts",
+              "date": "2006-11-26",
+              "millions": 1.31
+            },
+            {
+              "n": 8,
+              "title": "They Keep Killing Suzie",
+              "date": "2006-12-03",
+              "millions": 1.12
+            },
+            {
+              "n": 9,
+              "title": "Random Shoes",
+              "date": "2006-12-10",
+              "millions": 1.08
+            },
+            {
+              "n": 10,
+              "title": "Out of Time",
+              "date": "2006-12-17",
+              "millions": 1.03
+            },
+            {
+              "n": 11,
+              "title": "Combat",
+              "date": "2006-12-24",
+              "millions": 0.83
+            },
+            {
+              "n": 12,
+              "title": "Captain Jack Harkness",
+              "date": "2007-01-01",
+              "millions": 1.23
+            },
+            {
+              "n": 13,
+              "title": "End of Days",
+              "date": "2007-01-01",
+              "millions": 1.23
+            }
+          ],
+          "season_average": 1.42,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Torchwood_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "torchwood-s2",
@@ -2958,9 +8742,99 @@
           "release-season": "2"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Torchwood"
+          "https://en.wikipedia.org/wiki/Torchwood",
+          "https://en.wikipedia.org/wiki/List_of_Torchwood_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Kiss Kiss, Bang Bang",
+              "date": "2008-01-16",
+              "millions": 4.22
+            },
+            {
+              "n": 2,
+              "title": "Sleeper",
+              "date": "2008-01-23",
+              "millions": 3.78
+            },
+            {
+              "n": 3,
+              "title": "To the Last Man",
+              "date": "2008-01-30",
+              "millions": 3.51
+            },
+            {
+              "n": 4,
+              "title": "Meat",
+              "date": "2008-02-06",
+              "millions": 3.28
+            },
+            {
+              "n": 5,
+              "title": "Adam",
+              "date": "2008-02-13",
+              "millions": 3.79
+            },
+            {
+              "n": 6,
+              "title": "Reset",
+              "date": "2008-02-20",
+              "millions": 3.22
+            },
+            {
+              "n": 7,
+              "title": "Dead Man Walking",
+              "date": "2008-02-27",
+              "millions": 3.31
+            },
+            {
+              "n": 8,
+              "title": "A Day in the Death",
+              "date": "2008-03-05",
+              "millions": 3.08
+            },
+            {
+              "n": 9,
+              "title": "Something Borrowed",
+              "date": "2008-03-12",
+              "millions": 2.76
+            },
+            {
+              "n": 10,
+              "title": "From Out of the Rain",
+              "date": "2008-03-19",
+              "millions": 2.9
+            },
+            {
+              "n": 11,
+              "title": "Adrift",
+              "date": "2008-03-21",
+              "millions": 2.52
+            },
+            {
+              "n": 12,
+              "title": "Fragments",
+              "date": "2008-03-28",
+              "millions": 2.98
+            },
+            {
+              "n": 13,
+              "title": "Exit Wounds",
+              "date": "2008-04-04",
+              "millions": 3.13
+            }
+          ],
+          "season_average": 3.27,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/List_of_Torchwood_episodes",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 13 episode figures."
+        }
       },
       {
         "id": "torchwood-s3",
@@ -4148,7 +10022,48 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_War_Between_the_Land_and_the_Sea"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Homo Aqua",
+              "date": "2025-12-07",
+              "millions": 4.31
+            },
+            {
+              "n": 2,
+              "title": "Plastic Apocalypse",
+              "date": "2025-12-07",
+              "millions": 3.56
+            },
+            {
+              "n": 3,
+              "title": "The Deep",
+              "date": "2025-12-14",
+              "millions": 3.71
+            },
+            {
+              "n": 4,
+              "title": "The Witch of the Waterfall",
+              "date": "2025-12-14",
+              "millions": 3.2
+            },
+            {
+              "n": 5,
+              "title": "The End of the War",
+              "date": "2025-12-21",
+              "millions": 3.08
+            }
+          ],
+          "season_average": 3.57,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/The_War_Between_the_Land_and_the_Sea",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 5 episode figures."
+        }
       }
     ],
     "links": [

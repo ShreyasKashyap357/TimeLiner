@@ -1525,7 +1525,78 @@
           "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_1",
           "https://awoiaf.westeros.org/index.php/Great_Council_of_101_AC"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Heirs of the Dragon",
+              "date": "2022-08-21",
+              "millions": 2.17
+            },
+            {
+              "n": 2,
+              "title": "The Rogue Prince",
+              "date": "2022-08-28",
+              "millions": 2.26
+            },
+            {
+              "n": 3,
+              "title": "Second of His Name",
+              "date": "2022-09-04",
+              "millions": 1.75
+            },
+            {
+              "n": 4,
+              "title": "King of the Narrow Sea",
+              "date": "2022-09-11",
+              "millions": 1.81
+            },
+            {
+              "n": 5,
+              "title": "We Light the Way",
+              "date": "2022-09-18",
+              "millions": 1.83
+            },
+            {
+              "n": 6,
+              "title": "The Princess and the Queen",
+              "date": "2022-09-25",
+              "millions": 1.86
+            },
+            {
+              "n": 7,
+              "title": "Driftmark",
+              "date": "2022-10-02",
+              "millions": 1.88
+            },
+            {
+              "n": 8,
+              "title": "The Lord of the Tides",
+              "date": "2022-10-09",
+              "millions": 1.73
+            },
+            {
+              "n": 9,
+              "title": "The Green Council",
+              "date": "2022-10-16",
+              "millions": 1.56
+            },
+            {
+              "n": 10,
+              "title": "The Black Queen",
+              "date": "2022-10-23",
+              "millions": 1.85
+            }
+          ],
+          "season_average": 1.87,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_1",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 10 episode figures."
+        }
       },
       {
         "id": "house-of-the-dragon-s2",
@@ -1570,7 +1641,66 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_2"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "A Son for a Son",
+              "date": "2024-06-16",
+              "millions": 1.32
+            },
+            {
+              "n": 2,
+              "title": "Rhaenyra the Cruel",
+              "date": "2024-06-23",
+              "millions": 1.3
+            },
+            {
+              "n": 3,
+              "title": "The Burning Mill",
+              "date": "2024-06-30",
+              "millions": 1.16
+            },
+            {
+              "n": 4,
+              "title": "The Red Dragon and the Gold",
+              "date": "2024-07-07",
+              "millions": 1.24
+            },
+            {
+              "n": 5,
+              "title": "Regent",
+              "date": "2024-07-14",
+              "millions": 1.23
+            },
+            {
+              "n": 6,
+              "title": "Smallfolk",
+              "date": "2024-07-21",
+              "millions": 1.3
+            },
+            {
+              "n": 7,
+              "title": "The Red Sowing",
+              "date": "2024-07-28",
+              "millions": 1.22
+            },
+            {
+              "n": 8,
+              "title": "The Queen Who Ever Was",
+              "date": "2024-08-04",
+              "millions": 1.47
+            }
+          ],
+          "season_average": 1.28,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_2",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 8 episode figures."
+        }
       },
       {
         "id": "house-of-the-dragon-s3",
@@ -1615,7 +1745,66 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Salt and Sea, Fire and Blood",
+              "date": "2026-06-21",
+              "millions": 0.86
+            },
+            {
+              "n": 2,
+              "title": "Queen's Landing",
+              "date": "2026-06-28",
+              "millions": 0.97
+            },
+            {
+              "n": 3,
+              "title": "Rhaenyra Triumphant",
+              "date": "2026-07-05",
+              "millions": 0.89
+            },
+            {
+              "n": 4,
+              "title": "Tumbleton",
+              "date": "2026-07-12",
+              "millions": 0.92
+            },
+            {
+              "n": 5,
+              "title": "Unbowed and Unbent",
+              "date": "2026-07-19",
+              "millions": 0.95
+            },
+            {
+              "n": 6,
+              "title": "Faceless Men",
+              "date": "2026-07-26",
+              "millions": 0.98
+            },
+            {
+              "n": 7,
+              "title": "The Dragon in Winter",
+              "date": "2026-08-02",
+              "millions": 0.79
+            },
+            {
+              "n": 8,
+              "title": "The Treasons at Tumbleton",
+              "date": "2026-08-09",
+              "millions": 1.14
+            }
+          ],
+          "season_average": 0.94,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_season_3",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of all 8 episode figures."
+        }
       },
       {
         "id": "house-of-the-dragon-s4",
@@ -2687,7 +2876,54 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Hedge Knight",
+              "date": "2026-01-18",
+              "millions": null
+            },
+            {
+              "n": 2,
+              "title": "Hard Salt Beef",
+              "date": "2026-01-25",
+              "millions": null
+            },
+            {
+              "n": 3,
+              "title": "The Squire",
+              "date": "2026-02-01",
+              "millions": 0.472
+            },
+            {
+              "n": 4,
+              "title": "Seven",
+              "date": "2026-02-08",
+              "millions": 0.212
+            },
+            {
+              "n": 5,
+              "title": "In the Name of the Mother",
+              "date": "2026-02-15",
+              "millions": 0.592
+            },
+            {
+              "n": 6,
+              "title": "The Morrow",
+              "date": "2026-02-22",
+              "millions": 0.626
+            }
+          ],
+          "season_average": 0.48,
+          "season_average_kind": "computed",
+          "source_url": "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)",
+          "average_source_url": null,
+          "note": "Wikipedia states no season average; this is the mean of the 4 of 6 episode figures. 2 episodes have no figure in the source (shown as not available)."
+        }
       },
       {
         "id": "a-knight-of-the-seven-kingdoms-s2",
@@ -3033,9 +3269,81 @@
           "release-season": "1"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_1"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_1",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Winter Is Coming",
+              "date": "2011-04-17",
+              "millions": 2.22
+            },
+            {
+              "n": 2,
+              "title": "The Kingsroad",
+              "date": "2011-04-24",
+              "millions": 2.2
+            },
+            {
+              "n": 3,
+              "title": "Lord Snow",
+              "date": "2011-05-01",
+              "millions": 2.44
+            },
+            {
+              "n": 4,
+              "title": "Cripples, Bastards, and Broken Things",
+              "date": "2011-05-08",
+              "millions": 2.45
+            },
+            {
+              "n": 5,
+              "title": "The Wolf and the Lion",
+              "date": "2011-05-15",
+              "millions": 2.58
+            },
+            {
+              "n": 6,
+              "title": "A Golden Crown",
+              "date": "2011-05-22",
+              "millions": 2.44
+            },
+            {
+              "n": 7,
+              "title": "You Win or You Die",
+              "date": "2011-05-29",
+              "millions": 2.4
+            },
+            {
+              "n": 8,
+              "title": "The Pointy End",
+              "date": "2011-06-05",
+              "millions": 2.72
+            },
+            {
+              "n": 9,
+              "title": "Baelor",
+              "date": "2011-06-12",
+              "millions": 2.66
+            },
+            {
+              "n": 10,
+              "title": "Fire and Blood",
+              "date": "2011-06-19",
+              "millions": 3.04
+            }
+          ],
+          "season_average": 2.52,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_1",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s2",
@@ -3078,9 +3386,81 @@
           "release-season": "2"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_2"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_2",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The North Remembers",
+              "date": "2012-04-01",
+              "millions": 3.86
+            },
+            {
+              "n": 2,
+              "title": "The Night Lands",
+              "date": "2012-04-08",
+              "millions": 3.76
+            },
+            {
+              "n": 3,
+              "title": "What Is Dead May Never Die",
+              "date": "2012-04-15",
+              "millions": 3.77
+            },
+            {
+              "n": 4,
+              "title": "Garden of Bones",
+              "date": "2012-04-22",
+              "millions": 3.65
+            },
+            {
+              "n": 5,
+              "title": "The Ghost of Harrenhal",
+              "date": "2012-04-29",
+              "millions": 3.9
+            },
+            {
+              "n": 6,
+              "title": "The Old Gods and the New",
+              "date": "2012-05-06",
+              "millions": 3.88
+            },
+            {
+              "n": 7,
+              "title": "A Man Without Honor",
+              "date": "2012-05-13",
+              "millions": 3.69
+            },
+            {
+              "n": 8,
+              "title": "The Prince of Winterfell",
+              "date": "2012-05-20",
+              "millions": 3.86
+            },
+            {
+              "n": 9,
+              "title": "Blackwater",
+              "date": "2012-05-27",
+              "millions": 3.38
+            },
+            {
+              "n": 10,
+              "title": "Valar Morghulis",
+              "date": "2012-06-03",
+              "millions": 4.2
+            }
+          ],
+          "season_average": 3.8,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_2",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s3",
@@ -3123,9 +3503,81 @@
           "release-season": "3"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_3"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_3",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Valar Dohaeris",
+              "date": "2013-03-31",
+              "millions": 4.37
+            },
+            {
+              "n": 2,
+              "title": "Dark Wings, Dark Words",
+              "date": "2013-04-07",
+              "millions": 4.27
+            },
+            {
+              "n": 3,
+              "title": "Walk of Punishment",
+              "date": "2013-04-14",
+              "millions": 4.72
+            },
+            {
+              "n": 4,
+              "title": "And Now His Watch Is Ended",
+              "date": "2013-04-21",
+              "millions": 4.87
+            },
+            {
+              "n": 5,
+              "title": "Kissed by Fire",
+              "date": "2013-04-28",
+              "millions": 5.35
+            },
+            {
+              "n": 6,
+              "title": "The Climb",
+              "date": "2013-05-05",
+              "millions": 5.5
+            },
+            {
+              "n": 7,
+              "title": "The Bear and the Maiden Fair",
+              "date": "2013-05-12",
+              "millions": 4.84
+            },
+            {
+              "n": 8,
+              "title": "Second Sons",
+              "date": "2013-05-19",
+              "millions": 5.13
+            },
+            {
+              "n": 9,
+              "title": "The Rains of Castamere",
+              "date": "2013-06-02",
+              "millions": 5.22
+            },
+            {
+              "n": 10,
+              "title": "Mhysa",
+              "date": "2013-06-09",
+              "millions": 5.39
+            }
+          ],
+          "season_average": 4.97,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_3",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s4",
@@ -3168,9 +3620,81 @@
           "release-season": "4"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_4"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_4",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Two Swords",
+              "date": "2014-04-06",
+              "millions": 6.64
+            },
+            {
+              "n": 2,
+              "title": "The Lion and the Rose",
+              "date": "2014-04-13",
+              "millions": 6.31
+            },
+            {
+              "n": 3,
+              "title": "Breaker of Chains",
+              "date": "2014-04-20",
+              "millions": 6.59
+            },
+            {
+              "n": 4,
+              "title": "Oathkeeper",
+              "date": "2014-04-27",
+              "millions": 6.95
+            },
+            {
+              "n": 5,
+              "title": "First of His Name",
+              "date": "2014-05-04",
+              "millions": 7.16
+            },
+            {
+              "n": 6,
+              "title": "The Laws of Gods and Men",
+              "date": "2014-05-11",
+              "millions": 6.4
+            },
+            {
+              "n": 7,
+              "title": "Mockingbird",
+              "date": "2014-05-18",
+              "millions": 7.2
+            },
+            {
+              "n": 8,
+              "title": "The Mountain and the Viper",
+              "date": "2014-06-01",
+              "millions": 7.17
+            },
+            {
+              "n": 9,
+              "title": "The Watchers on the Wall",
+              "date": "2014-06-08",
+              "millions": 6.95
+            },
+            {
+              "n": 10,
+              "title": "The Children",
+              "date": "2014-06-15",
+              "millions": 7.09
+            }
+          ],
+          "season_average": 6.84,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_4",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s5",
@@ -3212,9 +3736,81 @@
           "release-season": "5"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_5"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_5",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Wars to Come",
+              "date": "2015-04-12",
+              "millions": 8
+            },
+            {
+              "n": 2,
+              "title": "The House of Black and White",
+              "date": "2015-04-19",
+              "millions": 6.81
+            },
+            {
+              "n": 3,
+              "title": "High Sparrow",
+              "date": "2015-04-26",
+              "millions": 6.71
+            },
+            {
+              "n": 4,
+              "title": "Sons of the Harpy",
+              "date": "2015-05-03",
+              "millions": 6.82
+            },
+            {
+              "n": 5,
+              "title": "Kill the Boy",
+              "date": "2015-05-10",
+              "millions": 6.56
+            },
+            {
+              "n": 6,
+              "title": "Unbowed, Unbent, Unbroken",
+              "date": "2015-05-17",
+              "millions": 6.24
+            },
+            {
+              "n": 7,
+              "title": "The Gift",
+              "date": "2015-05-24",
+              "millions": 5.4
+            },
+            {
+              "n": 8,
+              "title": "Hardhome",
+              "date": "2015-05-31",
+              "millions": 7.01
+            },
+            {
+              "n": 9,
+              "title": "The Dance of Dragons",
+              "date": "2015-06-07",
+              "millions": 7.14
+            },
+            {
+              "n": 10,
+              "title": "Mother's Mercy",
+              "date": "2015-06-14",
+              "millions": 8.11
+            }
+          ],
+          "season_average": 6.88,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_5",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s6",
@@ -3256,9 +3852,81 @@
           "release-season": "6"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_6"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_6",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Red Woman",
+              "date": "2016-04-24",
+              "millions": 7.94
+            },
+            {
+              "n": 2,
+              "title": "Home",
+              "date": "2016-05-01",
+              "millions": 7.29
+            },
+            {
+              "n": 3,
+              "title": "Oathbreaker",
+              "date": "2016-05-08",
+              "millions": 7.28
+            },
+            {
+              "n": 4,
+              "title": "Book of the Stranger",
+              "date": "2016-05-15",
+              "millions": 7.82
+            },
+            {
+              "n": 5,
+              "title": "The Door",
+              "date": "2016-05-22",
+              "millions": 7.89
+            },
+            {
+              "n": 6,
+              "title": "Blood of My Blood",
+              "date": "2016-05-29",
+              "millions": 6.71
+            },
+            {
+              "n": 7,
+              "title": "The Broken Man",
+              "date": "2016-06-05",
+              "millions": 7.8
+            },
+            {
+              "n": 8,
+              "title": "No One",
+              "date": "2016-06-12",
+              "millions": 7.6
+            },
+            {
+              "n": 9,
+              "title": "Battle of the Bastards",
+              "date": "2016-06-19",
+              "millions": 7.66
+            },
+            {
+              "n": 10,
+              "title": "The Winds of Winter",
+              "date": "2016-06-26",
+              "millions": 8.89
+            }
+          ],
+          "season_average": 7.69,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_6",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s7",
@@ -3300,9 +3968,63 @@
           "release-season": "7"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_7"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_7",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Dragonstone",
+              "date": "2017-07-16",
+              "millions": 10.11
+            },
+            {
+              "n": 2,
+              "title": "Stormborn",
+              "date": "2017-07-23",
+              "millions": 9.27
+            },
+            {
+              "n": 3,
+              "title": "The Queen's Justice",
+              "date": "2017-07-30",
+              "millions": 9.25
+            },
+            {
+              "n": 4,
+              "title": "The Spoils of War",
+              "date": "2017-08-06",
+              "millions": 10.17
+            },
+            {
+              "n": 5,
+              "title": "Eastwatch",
+              "date": "2017-08-13",
+              "millions": 10.72
+            },
+            {
+              "n": 6,
+              "title": "Beyond the Wall",
+              "date": "2017-08-20",
+              "millions": 10.24
+            },
+            {
+              "n": 7,
+              "title": "The Dragon and the Wolf",
+              "date": "2017-08-27",
+              "millions": 12.07
+            }
+          ],
+          "season_average": 10.26,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_7",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       },
       {
         "id": "game-of-thrones-s8",
@@ -3344,9 +4066,57 @@
           "release-season": "8"
         },
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_8"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_season_8",
+          "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "U.S. viewers (millions)",
+          "country": "U.S.",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Winterfell",
+              "date": "2019-04-14",
+              "millions": 11.76
+            },
+            {
+              "n": 2,
+              "title": "A Knight of the Seven Kingdoms",
+              "date": "2019-04-21",
+              "millions": 10.29
+            },
+            {
+              "n": 3,
+              "title": "The Long Night",
+              "date": "2019-04-28",
+              "millions": 12.02
+            },
+            {
+              "n": 4,
+              "title": "The Last of the Starks",
+              "date": "2019-05-05",
+              "millions": 11.8
+            },
+            {
+              "n": 5,
+              "title": "The Bells",
+              "date": "2019-05-12",
+              "millions": 12.48
+            },
+            {
+              "n": 6,
+              "title": "The Iron Throne",
+              "date": "2019-05-19",
+              "millions": 13.61
+            }
+          ],
+          "season_average": 11.99,
+          "season_average_kind": "stated",
+          "source_url": "https://en.wikipedia.org/wiki/Game_of_Thrones_season_8",
+          "average_source_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes",
+          "note": "Season average from the \"Avg. U.S. viewers (millions)\" column of the series overview in List of Game of Thrones episodes."
+        }
       }
     ],
     "links": [

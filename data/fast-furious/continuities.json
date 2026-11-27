@@ -1,0 +1,64 @@
+[
+  {
+    "id": "ff-main",
+    "universe": "fast-furious",
+    "name": "Fast & Furious films (The Fast Saga)",
+    "short_name": "Fast & Furious films",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Los Bandoleros article: \"Los Bandoleros is said to \"hold together the entire Fast & Furious timeline\" and to ensure a certain continuity in the franchise.\" Franchise article: \"Given the apparent death of the character in the third film, the timeline of the franchise was altered to account for his appearance.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_%26_Furious%3B_Los_Bandoleros_(film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "ff-spy-racers",
+    "universe": "fast-furious",
+    "name": "Fast & Furious Spy Racers (animated)",
+    "short_name": "Fast & Furious Spy Racers",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"Fast & Furious Spy Racers is an American animated television series that premiered on Netflix on December 26, 2019, based on the Fast & Furious film series\"; franchise article: \"Vin Diesel reprises his role as Dominic Toretto, voicing the character in brief appearances.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_%26_Furious_Spy_Racers%3B_Fast_%26_Furious"
+    ],
+    "notes": ""
+  }
+]

@@ -1,0 +1,4372 @@
+[
+  {
+    "id": "the-fast-and-the-furious",
+    "title": "The Fast and the Furious",
+    "sort_title": "Fast and the Furious",
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Fast and the Furious (2001 film)",
+      "wikidata": "Q155476",
+      "tmdb": "9799",
+      "imdb": "tt0232500"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(2001_film)",
+      "https://en.wikipedia.org/wiki/Fast_&_Furious%3B_https://fastandfurious.fandom.com/wiki/Timeline"
+    ],
+    "notes": "Distributor: Universal Pictures (US); United International Pictures (intl).",
+    "units": [
+      {
+        "id": "the-fast-and-the-furious",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 106,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Start of the saga (year disputed: 2001 or 2004)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Wikipedia gives no year. Franchise: Fast & Furious (2009) \"is set five years after the events of The Fast and the Furious\", and that film is categorised \"Films set in 2009\", which gives 2004. Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2004 - Events of The Fast and the Furious begin.\" Same page, Known Inconsistencies: \"The Fast and the Furious canonically took place in 2001. ... The year date would suggest that the events of The Fast and the Furious occurred in 2004 and not 2001.\"",
+          "order_index": 10,
+          "relative_to": {
+            "after": null,
+            "before": "turbo-charged-prelude"
+          }
+        },
+        "release": {
+          "date": "2001-06-22",
+          "end_date": null,
+          "year": 2001,
+          "note": "Premiere: 2001-06-18 (Mann Village Theatre). Wikipedia: Infobox: {{Film date|2001|06|18|Mann Village Theatre|2001|06|22|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(2001_film)",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious%3B_https://fastandfurious.fandom.com/wiki/Timeline"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Rob Cohen",
+        "qid": "Q503966",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Gary Scott Thompson",
+        "qid": "Q434963",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Erik Bergquist",
+        "qid": "Q5388490",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David Ayer",
+        "qid": "Q1091339",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "BT",
+        "qid": "Q361431",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Schulze",
+        "qid": "Q538716",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thom Barry",
+        "qid": "Q1125651",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Johnny Strong",
+        "qid": "Q1702414",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rick Yune",
+        "qid": "Q923084",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chad Lindberg",
+        "qid": "Q2314842",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ted Levine",
+        "qid": "Q433520",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ja Rule",
+        "qid": "Q309843",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noel Gugliemi",
+        "qid": "Q3342658",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Reggie Lee",
+        "qid": "Q1341761",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vyto Ruginis",
+        "qid": "Q534190",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter \"Navy\" Tuiasosopo",
+        "qid": "Q7172411",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rob Cohen",
+        "qid": "Q503966",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387835890"
+      },
+      {
+        "role": "cast",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mike White",
+        "qid": "Q3313583",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "turbo-charged-prelude",
+    "title": "The Turbo Charged Prelude for 2 Fast 2 Furious",
+    "sort_title": "Turbo Charged Prelude for 2 Fast 2 Furious",
+    "type": "special",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "geronimo-film-productions",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Turbo Charged Prelude for 2 Fast 2 Furious",
+      "wikidata": "Q2892281",
+      "tmdb": "77959",
+      "imdb": "tt2055789"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Turbo_Charged_Prelude_for_2_Fast_2_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures Home Entertainment. Franchise: \"The short films were either released direct-to-video or saw limited theatrical distribution, being mostly included as special features for The Fast and the Furious, 2 Fast 2 Furious, and Fast & Furious, as part of the DVD releases.\"",
+    "units": [
+      {
+        "id": "turbo-charged-prelude",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 6,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between The Fast and the Furious and 2 Fast 2 Furious",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "\"It is the first short film in the Fast & Furious franchise and is a follow-up to The Fast and the Furious (2001) and prequel to 2 Fast 2 Furious (2003).\" Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"The events of Turbo-Charged Prequel occur immediately after The Fast and the Furious\"",
+          "order_index": 20,
+          "relative_to": {
+            "after": "the-fast-and-the-furious",
+            "before": "2-fast-2-furious"
+          }
+        },
+        "release": {
+          "date": "2003-06-03",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: Infobox: {{Film date|2003|6|3}}; franchise short-films table \"U.S. release date\" {{Start date|2003|6|3}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Turbo_Charged_Prelude_for_2_Fast_2_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Philip Atwell",
+        "qid": "Q3901547",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "2-fast-2-furious",
+    "title": "2 Fast 2 Furious",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "2 Fast 2 Furious",
+      "wikidata": "Q222867",
+      "tmdb": "584",
+      "imdb": "tt0322259"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/2_Fast_2_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures (North America); United International Pictures (intl).",
+    "units": [
+      {
+        "id": "2-fast-2-furious",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the Turbo Charged Prelude",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Plot: \"Ex-LAPD officer Brian O'Conner has escaped to Miami and is in hiding, after aiding wanted felon Dominic Toretto in Los Angeles escape from authorities.\" (note: \"As depicted in The Fast and the Furious (2001) and its connected short film The Turbo Charged Prelude for 2 Fast 2 Furious (2003)\"). The fan wiki lists it under \"Undetermined Years\".",
+          "order_index": 30,
+          "relative_to": {
+            "after": "turbo-charged-prelude",
+            "before": "los-bandoleros"
+          }
+        },
+        "release": {
+          "date": "2003-06-06",
+          "end_date": null,
+          "year": 2003,
+          "note": "Premiere: 2003-06-03 (Universal Amphitheatre). Wikipedia: Infobox: {{Film date|2003|06|03|Universal Amphitheatre|2003|06|06|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/2_Fast_2_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "John Singleton",
+        "qid": "Q363005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Derek Haas",
+        "qid": "Q1200043",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Michael Brandt",
+        "qid": "Q3856120",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Gary Scott Thompson",
+        "qid": "Q434963",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "David Arnold",
+        "qid": "Q346285",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eva Mendes",
+        "qid": "Q170606",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cole Hauser",
+        "qid": "Q532180",
+        "character": "Carter Verone",
+        "character_qid": "Q62923160",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thom Barry",
+        "qid": "Q1125651",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Remar",
+        "qid": "Q441913",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Devon Aoki",
+        "qid": "Q230817",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amaury Nolasco",
+        "qid": "Q210327",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Ealy",
+        "qid": "Q786003",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "MC Jin",
+        "qid": "Q1154813",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Boone Junior",
+        "qid": "Q718382",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Drew Sidora Jordan",
+        "qid": "Q275084",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Cenatiempo",
+        "qid": "Q24699898",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marc Macaulay",
+        "qid": "Q1535860",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kerry Rossall",
+        "qid": "Q28474288",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "los-bandoleros",
+    "title": "Los Bandoleros",
+    "sort_title": null,
+    "type": "special",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "one-race-films",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Los Bandoleros (film)",
+      "wikidata": "Q2001728",
+      "tmdb": "253835",
+      "imdb": "tt1538503"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Los_Bandoleros_(film)",
+      "https://en.wikipedia.org/wiki/Los_Bandoleros_(film)%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures. Direct-to-video short. Placement stated; year from category/fan wiki.",
+    "units": [
+      {
+        "id": "los-bandoleros",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 20,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2009
+          },
+          "end": {
+            "y": 2009
+          },
+          "label": "2009, five years after The Fast and the Furious; prequel to Fast & Furious",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "\"serves as the prequel to Fast & Furious (2009)\"; plot: \"Five years after escaping Los Angeles from authorities\"; franchise: \"Set between the events of The Fast and the Furious and Fast & Furious\". Category: \"Films set in 2009\". Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2009 - Events of Los Bandoleros begin.\"",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-07-28",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: Infobox: {{Film date|2009|7|28}}; franchise short-films table \"U.S. release date\" {{Start date|2009|7|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Los_Bandoleros_(film)",
+          "https://en.wikipedia.org/wiki/Los_Bandoleros_(film)%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Jessy Terrero",
+        "qid": "Q6187942",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Don Omar",
+        "qid": "Q310539",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tego Calderón",
+        "qid": "Q611466",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fast-and-furious-2009",
+    "title": "Fast & Furious",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast & Furious (2009 film)",
+      "wikidata": "Q380996",
+      "tmdb": "13804",
+      "imdb": "tt1013752"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_&_Furious_(2009_film)",
+      "https://en.wikipedia.org/wiki/Fast_&_Furious_(2009_film)%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures.",
+    "units": [
+      {
+        "id": "fast-and-furious-2009",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 102,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2009
+          },
+          "end": {
+            "y": 2009
+          },
+          "label": "2009, five years after the first film; before Tokyo Drift",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Lead: \"serving as a direct sequel to The Fast and the Furious (2001) and 2 Fast 2 Furious (2003), taking place before the events of The Fast and the Furious: Tokyo Drift (2006).\" Franchise: \"The film is set five years after the events of The Fast and the Furious, and before Tokyo Drift\". Category: \"Films set in 2009\". Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2009 - Following events following Los Bandoleros ... Events of Fast & Furious begin.\"",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-04-03",
+          "end_date": null,
+          "year": 2009,
+          "note": "Premiere: 2009-03-12 (Gibson Amphitheatre). Wikipedia: Infobox: {{Film date|2009|03|12|Gibson Amphitheatre|2009|04|3|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_(2009_film)",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_(2009_film)%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1388241614"
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Ortiz",
+        "qid": "Q210094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laz Alonso",
+        "qid": "Q302335",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gal Gadot",
+        "qid": "Q185654",
+        "character": "Gisele Yashar",
+        "character_qid": "Q27965042",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liza Lapira",
+        "qid": "Q287596",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shea Whigham",
+        "qid": "Q3959303",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brandon T. Jackson",
+        "qid": "Q348738",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Don Omar",
+        "qid": "Q310539",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Conley",
+        "qid": "Q3157150",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tego Calderón",
+        "qid": "Q611466",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Greg Cipes",
+        "qid": "Q2700668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fast-five",
+    "title": "Fast Five",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast Five",
+      "wikidata": "Q401976",
+      "tmdb": "51497",
+      "imdb": "tt1596343"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_Five",
+      "https://en.wikipedia.org/wiki/Fast_Five%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures.",
+    "units": [
+      {
+        "id": "fast-five",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 131,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2011
+          },
+          "end": {
+            "y": 2011
+          },
+          "label": "2011 (opens right after Fast & Furious)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Plot: \"After capturing Braga, Dominic Toretto is sentenced to twenty-five years in jail\"; franchise: \"The film is also set before the events of Tokyo Drift.\" Categories: \"Films set in 2009\", \"Films set in 2011\", \"Films set in 2013\". Fast X is \"ten years after Fast Five\" (Fast X = 2021, so 2011). Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2011 - Events of Fast Five begin.\"",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-04-29",
+          "end_date": null,
+          "year": 2011,
+          "note": "Premiere: 2011-04-15 (Cinepolis Lagoon, Puerto Rico). Wikipedia: Infobox: {{Film date|2011|04|15|Cinepolis Lagoon|2011|04|29|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_Five",
+          "https://en.wikipedia.org/wiki/Fast_Five%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": "Luke Hobbs",
+        "character_qid": "Q21029101",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gal Gadot",
+        "qid": "Q185654",
+        "character": "Gisele Yashar",
+        "character_qid": "Q27965042",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": "Tej Parker",
+        "character_qid": "Q21527104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Schulze",
+        "qid": "Q538716",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elsa Pataky",
+        "qid": "Q230123",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tego Calderón",
+        "qid": "Q611466",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Don Omar",
+        "qid": "Q310539",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joaquim de Almeida",
+        "qid": "Q188432",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alimi Ballard",
+        "qid": "Q725034",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eva Mendes",
+        "qid": "Q170606",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387216076"
+      },
+      {
+        "role": "cast",
+        "name": "Michael Irby",
+        "qid": "Q522493",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Natalie Gal",
+        "qid": "Q2638642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Yorgo Constantine",
+        "qid": "Q2656244",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fast-and-furious-6",
+    "title": "Fast & Furious 6",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast & Furious 6",
+      "wikidata": "Q5516100",
+      "tmdb": "82992",
+      "imdb": "tt1905041"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_&_Furious_6",
+      "https://en.wikipedia.org/wiki/Fast_&_Furious_6%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures. Mid-credits scene overlaps Tokyo Drift (Han's crash in Tokyo).",
+    "units": [
+      {
+        "id": "fast-and-furious-6",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 130,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2013
+          },
+          "end": {
+            "y": 2013
+          },
+          "label": "2013, after Fast Five; last film before Tokyo Drift",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Plot: \"Following their successful heist in Brazil\" (note: \"As depicted in Fast Five (2011).\"); franchise: \"The film is the final film to be set before the events of Tokyo Drift.\" Categories: \"Films set in 2013\", \"Films set in 2014\". Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2013 - Events of Fast & Furious 6 begin.\"",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-05-24",
+          "end_date": null,
+          "year": 2013,
+          "note": "Premiere: 2013-05-07 (Empire, Leicester Square). Wikipedia: Infobox: {{Film date|2013|5|7|Empire, Leicester Square|2013|5|24|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_6",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_6%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Lucas Vidal",
+        "qid": "Q1714052",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": "Luke Hobbs",
+        "character_qid": "Q21029101",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gina Carano",
+        "qid": "Q233017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Ortiz",
+        "qid": "Q210094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elsa Pataky",
+        "qid": "Q230123",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gal Gadot",
+        "qid": "Q185654",
+        "character": "Gisele Yashar",
+        "character_qid": "Q27965042",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387215584"
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rita Ora",
+        "qid": "Q229760",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387215584"
+      },
+      {
+        "role": "cast",
+        "name": "Thure Lindhardt",
+        "qid": "Q508739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shea Whigham",
+        "qid": "Q3959303",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kim Kold",
+        "qid": "Q6409031",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joe Taslim",
+        "qid": "Q3459336",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Clara Paget",
+        "qid": "Q15794518",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Deborah Rosan",
+        "qid": "Q23767051",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Benjamin Davies",
+        "qid": "Q4888471",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sol de la Barreda",
+        "qid": "Q108769975",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Ajala",
+        "qid": "Q28113147",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gemita Samarra",
+        "qid": "Q120110765",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Andrew Koji",
+        "qid": "Q72219204",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "tokyo-drift",
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "sort_title": "Fast and the Furious: Tokyo Drift",
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Fast and the Furious: Tokyo Drift",
+      "wikidata": "Q213208",
+      "tmdb": "9615",
+      "imdb": "tt0463985"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift"
+    ],
+    "notes": "Distributor: Universal Pictures (North America); United International Pictures (intl). Placement is stated (confidence stated applies to the placement); the year 2014 comes only from category/fan wiki, so the year itself is inferred.",
+    "units": [
+      {
+        "id": "tokyo-drift",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 104,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2014
+          },
+          "end": {
+            "y": 2014
+          },
+          "label": "2014, between Fast & Furious 6 and Furious 7",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Lead: \"It is set between Fast & Furious 6 (2013) and Furious 7 (2015).\" Also: Han \"was retconned into Dominic Toretto's crew for three subsequent sequels: Fast & Furious, Fast Five, and Fast & Furious 6, which are set before the events of Tokyo Drift.\" Category: \"Films set in 2014\". Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2014 - Events of The Fast and the Furious: Tokyo Drift begin.\"",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-06-16",
+          "end_date": null,
+          "year": 2006,
+          "note": "Premiere: 2006-06-04 (Gibson Amphitheatre). Wikipedia: Infobox: {{Film date|2006|6|4|Gibson Amphitheatre|2006|6|16|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucas Black",
+        "qid": "Q359491",
+        "character": "Sean Boswell",
+        "character_qid": "Q118368336",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384169445"
+      },
+      {
+        "role": "cast",
+        "name": "Bow Wow",
+        "qid": "Q312173",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Tee",
+        "qid": "Q913132",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Kelley",
+        "qid": "Q236269",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Tobin",
+        "qid": "Q3163008",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sonny Chiba",
+        "qid": "Q351732",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zachery Ty Bryan",
+        "qid": "Q139697",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nikki Griffin",
+        "qid": "Q446031",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Keiko Kitagawa",
+        "qid": "Q238907",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384169445"
+      },
+      {
+        "role": "cast",
+        "name": "Satoshi Tsumabuki",
+        "qid": "Q1343721",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384169445"
+      },
+      {
+        "role": "cast",
+        "name": "Vincent Laresca",
+        "qid": "Q1189169",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Caroline Correa",
+        "qid": "Q1768305",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Silvia Šuvadová",
+        "qid": "Q440799",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Goodman",
+        "qid": "Q4963861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lynda Boyd",
+        "qid": "Q766825",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Ryan",
+        "qid": "Q17198673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Yōko Maki",
+        "qid": "Q444165",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amber Stevens West",
+        "qid": "Q444146",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leonardo Nam",
+        "qid": "Q6526047",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "furious-7",
+    "title": "Furious 7",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Furious 7",
+      "wikidata": "Q14650496",
+      "tmdb": "168259",
+      "imdb": "tt2820852"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Furious_7",
+      "https://en.wikipedia.org/wiki/Furious_7%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures. Year 2014 from category/fan wiki (inferred); placement stated.",
+    "units": [
+      {
+        "id": "furious-7",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 137,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2014
+          },
+          "end": {
+            "y": 2014
+          },
+          "label": "2014, after Fast & Furious 6, continuing from the end of Tokyo Drift",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Lead: \"It is the sequel to Fast & Furious 6 (2013), a follow-up to The Fast and the Furious: Tokyo Drift (2006)\"; franchise: \"The film is set after the events of Fast & Furious 6 and continues from the ending of Tokyo Drift\". Category: \"Films set in 2014\". Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2014 - Events of Furious 7 begin.\"",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-04-03",
+          "end_date": null,
+          "year": 2015,
+          "note": "Premiere: 2015-04-01 (TCL Chinese Theatre). Wikipedia: Infobox: {{Film date|2015|4|1|TCL Chinese Theatre|2015|4|3|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Furious_7",
+          "https://en.wikipedia.org/wiki/Furious_7%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": "Luke Hobbs",
+        "character_qid": "Q21029101",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tony Jaa",
+        "qid": "Q298551",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ronda Rousey",
+        "qid": "Q242201",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Emmanuel",
+        "qid": "Q6968794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elsa Pataky",
+        "qid": "Q230123",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucas Black",
+        "qid": "Q359491",
+        "character": "Sean Boswell",
+        "character_qid": "Q118368336",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kurt Russell",
+        "qid": "Q103157",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gal Gadot",
+        "qid": "Q185654",
+        "character": "Gisele Yashar",
+        "character_qid": "Q27965042",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Brotherton",
+        "qid": "Q6223403",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387965398"
+      },
+      {
+        "role": "cast",
+        "name": "Djimon Hounsou",
+        "qid": "Q298682",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noel Gugliemi",
+        "qid": "Q3342658",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387965398"
+      },
+      {
+        "role": "cast",
+        "name": "Ali Fazal",
+        "qid": "Q4724794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Iggy Azalea",
+        "qid": "Q2748803",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387965398"
+      },
+      {
+        "role": "cast",
+        "name": "Steve Coulter",
+        "qid": "Q16298556",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Pralgo",
+        "qid": "Q3938395",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "T-Pain",
+        "qid": "Q221155",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brittney Alger",
+        "qid": "Q4971671",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jocelin Donahue",
+        "qid": "Q3179817",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jorge Pallo",
+        "qid": "Q6278450",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alina Andrei",
+        "qid": "Q16739195",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lateef Crowder Dos Santos",
+        "qid": "Q552997",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Kelley",
+        "qid": "Q236269",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tara Macken",
+        "qid": "Q7685100",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bow Wow",
+        "qid": "Q312173",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cody Walker",
+        "qid": "Q20658844",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Cenatiempo",
+        "qid": "Q24699898",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tommy Lentsch",
+        "qid": "Q140370454",
+        "character": "Upscale Billionaire Party Patron",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-fate-of-the-furious",
+    "title": "The Fate of the Furious",
+    "sort_title": "Fate of the Furious",
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Fate of the Furious",
+      "wikidata": "Q19829521",
+      "tmdb": "337339",
+      "imdb": "tt4630562"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures.",
+    "units": [
+      {
+        "id": "the-fate-of-the-furious",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 136,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2017
+          },
+          "end": {
+            "y": 2017
+          },
+          "label": "2017, after Furious 7",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Lead: \"It is the sequel to Furious 7 (2015)\". Category: \"Films set in 2017\". Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2017 - Events of The Fate of the Furious begin.\"",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-04-14",
+          "end_date": null,
+          "year": 2017,
+          "note": "Premiere: 2017-04-04 (Berlin). Wikipedia: Infobox: {{Film date|2017|4|4|Berlin|2017|4|14|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "F. Gary Gray",
+        "qid": "Q462078",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": "Luke Hobbs",
+        "character_qid": "Q21029101",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": "Tej Parker",
+        "character_qid": "Q21527104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kurt Russell",
+        "qid": "Q103157",
+        "character": "Mr. Nobody",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Eastwood",
+        "qid": "Q1320494",
+        "character": "Little Nobody",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Emmanuel",
+        "qid": "Q6968794",
+        "character": "Ramsey",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elsa Pataky",
+        "qid": "Q230123",
+        "character": "Elena Neves",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charlize Theron",
+        "qid": "Q80046",
+        "character": "Cipher",
+        "character_qid": "Q52708542",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": "Owen Shaw",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kristofer Hivju",
+        "qid": "Q6438398",
+        "character": "Connor Rhodes",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Helen Mirren",
+        "qid": "Q349391",
+        "character": "Magdalene Shaw",
+        "character_qid": "Q97160551",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387492487"
+      },
+      {
+        "role": "cast",
+        "name": "Aleksander Krupa",
+        "qid": "Q125354",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gary Weeks",
+        "qid": "Q5526127",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrone Wiggins",
+        "qid": "Q9363726",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Faith Logan",
+        "qid": "Q70090449",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "hobbs-and-shaw",
+    "title": "Fast & Furious Presents: Hobbs & Shaw",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Hobbs & Shaw",
+      "wikidata": "Q56559254",
+      "tmdb": "384018",
+      "imdb": "tt6806448"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hobbs_&_Shaw",
+      "https://en.wikipedia.org/wiki/Fast_&_Furious_Presents:_Hobbs_&_Shaw"
+    ],
+    "notes": "Distributor: Universal Pictures. Article title is now \"Hobbs & Shaw\". Order relative to F9 (also \"two years after\" Fate) is not stated; release order used.",
+    "units": [
+      {
+        "id": "hobbs-and-shaw",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 137,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2019
+          },
+          "end": {
+            "y": 2019
+          },
+          "label": "2019, two years after The Fate of the Furious",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Lead: \"It is a spin-off film and the ninth installment of the Fast & Furious franchise, taking place after the events of The Fate of the Furious (2017).\" Plot: \"Two years after Cipher's defeat, Luke Hobbs is an ex-DSS agent\". No category year; the fan wiki Timeline does not list it.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-08-02",
+          "end_date": null,
+          "year": 2019,
+          "note": "Premiere: 2019-07-13 (Dolby Theatre). Wikipedia: Infobox: {{Film date|2019|7|13|Dolby Theatre|2019|8|2|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hobbs_&_Shaw",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Presents:_Hobbs_&_Shaw"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "David Leitch",
+        "qid": "Q5236475",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Drew Pearce",
+        "qid": "Q1984101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Hiram Garcia",
+        "qid": "Q22673514",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Dany Garcia",
+        "qid": "Q27051216",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Tyler Bates",
+        "qid": "Q1345338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": "Luke Hobbs",
+        "character_qid": "Q21029101",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vanessa Kirby",
+        "qid": "Q6159535",
+        "character": "Hattie Shaw",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Idris Elba",
+        "qid": "Q342604",
+        "character": "Brixton Lore",
+        "character_qid": "Q104530242",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roman Reigns",
+        "qid": "Q275971",
+        "character": "Mateo Hobbs",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eiza Gonzalez",
+        "qid": "Q572761",
+        "character": "Margarita / Madame M",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eddie Marsan",
+        "qid": "Q45647",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cliff Curtis",
+        "qid": "Q359325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Helen Mirren",
+        "qid": "Q349391",
+        "character": "Magdalene Shaw",
+        "character_qid": "Q97160551",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Antonio Mancino",
+        "qid": "Q3619798",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Leitch",
+        "qid": "Q5236475",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1385137221"
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Hart",
+        "qid": "Q618352",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1385137221"
+      },
+      {
+        "role": "cast",
+        "name": "Ryan Reynolds",
+        "qid": "Q192682",
+        "character": "ETEON's director",
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1385137221"
+      },
+      {
+        "role": "cast",
+        "name": "Rob Delaney",
+        "qid": "Q762782",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1385137221"
+      },
+      {
+        "role": "cast",
+        "name": "Akie Kotabe",
+        "qid": "Q16239067",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Felicity Dean",
+        "qid": "Q5441786",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Axel Nu",
+        "qid": "Q108751655",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lampros Kalfuntzos",
+        "qid": "Q108671886",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathan Jones",
+        "qid": "Q707158",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "The Usos",
+        "qid": "Q1111684",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f9",
+    "title": "F9",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "F9 (film)",
+      "wikidata": "Q29466808",
+      "tmdb": "385128",
+      "imdb": "tt5433138"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/F9_(film)",
+      "https://en.wikipedia.org/wiki/F9_(film)%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures. The Wikipedia page \"F9\" is a disambiguation page; the article is \"F9 (film)\".",
+    "units": [
+      {
+        "id": "f9",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 143,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2019
+          },
+          "end": {
+            "y": 2019
+          },
+          "label": "2019, two years after The Fate of the Furious (flashbacks 1989 and 1991)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Franchise: \"The film is set two years after the events of The Fate of the Furious.\" Plot: \"In 1989, Jack Toretto participates in a late model race\" ... \"In the present day, Dom is retired\". Categories: \"Films set in 1989\", \"Films set in 1991\", \"Films set in 2014\", \"Films set in 2019\", \"Films set in 2021\" (the 2021 category conflicts with +2 years). Fan wiki (https://fastandfurious.fandom.com/wiki/Timeline, revid 53184): \"2019 - Events of Fast & Furious 9 begin.\"",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-06-25",
+          "end_date": null,
+          "year": 2021,
+          "note": "Premiere: 2021-05-19 (South Korea release). Wikipedia: Infobox: {{Film date|2021|05|19|South Korea|2021|06|25|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/F9_(film)",
+          "https://en.wikipedia.org/wiki/F9_(film)%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Daniel Casey",
+        "qid": "Q64623605",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": "Tej Parker",
+        "character_qid": "Q21527104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Cena",
+        "qid": "Q44437",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucas Black",
+        "qid": "Q359491",
+        "character": "Sean Boswell",
+        "character_qid": "Q118368336",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Finn Cole",
+        "qid": "Q30161661",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anna Sawai",
+        "qid": "Q65123837",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vinnie Bennett",
+        "qid": "Q64711818",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charlize Theron",
+        "qid": "Q80046",
+        "character": "Cipher",
+        "character_qid": "Q52708542",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Helen Mirren",
+        "qid": "Q349391",
+        "character": "Magdalene Shaw",
+        "character_qid": "Q97160551",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Emmanuel",
+        "qid": "Q6968794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Rooker",
+        "qid": "Q525065",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cardi B",
+        "qid": "Q29033668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jim Parrack",
+        "qid": "Q973472",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thue Ersted Rasmussen",
+        "qid": "Q61887637",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Siena Agudong",
+        "qid": "Q56633923",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kurt Russell",
+        "qid": "Q103157",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. D. Pardo",
+        "qid": "Q892054",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Don Omar",
+        "qid": "Q310539",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shea Whigham",
+        "qid": "Q3959303",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bow Wow",
+        "qid": "Q312173",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Tobin",
+        "qid": "Q3163008",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ozuna",
+        "qid": "Q28739901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gal Gadot",
+        "qid": "Q185654",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1381875034"
+      },
+      {
+        "role": "cast",
+        "name": "Lorin Alond Ly",
+        "qid": "Q109482829",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fast-x",
+    "title": "Fast X",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast X",
+      "wikidata": "Q31271369",
+      "tmdb": "385687",
+      "imdb": "tt5433140"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_X",
+      "https://en.wikipedia.org/wiki/Fast_X%3B_Fast_&_Furious"
+    ],
+    "notes": "Distributor: Universal Pictures.",
+    "units": [
+      {
+        "id": "fast-x",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 141,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2021
+          },
+          "end": {
+            "y": 2021
+          },
+          "label": "2021, two years after F9 and ten years after Fast Five",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Franchise: \"The film is set two years after the events of F9 and ten years after Fast Five.\" Categories: \"Films set in 2011\", \"Films set in 2021\".",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-05-19",
+          "end_date": null,
+          "year": 2023,
+          "note": "Premiere: 2023-05-12 (Colosseum, Rome). Wikipedia: Infobox: {{Film date|2023|5|12|Colosseum|2023|5|19|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_X",
+          "https://en.wikipedia.org/wiki/Fast_X%3B_Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Louis Leterrier",
+        "qid": "Q525332",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Gary Scott Thompson",
+        "qid": "Q434963",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dan Mazeau",
+        "qid": "Q5213952",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Zach Dean",
+        "qid": "Q107395097",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": "Tej Parker",
+        "character_qid": "Q21527104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Cena",
+        "qid": "Q44437",
+        "character": "Jakob Torreto",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Emmanuel",
+        "qid": "Q6968794",
+        "character": "Ramsey",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Eastwood",
+        "qid": "Q1320494",
+        "character": "Little Nobody",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Rooker",
+        "qid": "Q525065",
+        "character": "Buddy",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charlize Theron",
+        "qid": "Q80046",
+        "character": "Cipher",
+        "character_qid": "Q52708542",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Helen Mirren",
+        "qid": "Q349391",
+        "character": "Magdalene Shaw",
+        "character_qid": "Q97160551",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cardi B",
+        "qid": "Q29033668",
+        "character": "Leysa",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Momoa",
+        "qid": "Q315271",
+        "character": "Dante Reyes",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brie Larson",
+        "qid": "Q29328",
+        "character": "Tess",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Daniela Melchior",
+        "qid": "Q51883189",
+        "character": "Isabel",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alan Ritchson",
+        "qid": "Q926963",
+        "character": "Agent Aimes",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rita Moreno",
+        "qid": "Q230151",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joaquim de Almeida",
+        "qid": "Q188432",
+        "character": "Hernan Reyes",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luis Da Silva",
+        "qid": "Q6700459",
+        "character": "Diogo",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Pete Davidson",
+        "qid": "Q18097962",
+        "character": "Bowie",
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387771803"
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387771803"
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fast-forever",
+    "title": "Fast Forever",
+    "sort_title": null,
+    "type": "film",
+    "universe": "fast-furious",
+    "continuity": "ff-main",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "dominic-toretto"
+    ],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "Fast & Furious",
+      "wikidata": "Q1576873",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_&_Furious"
+    ],
+    "notes": "No standalone article (\"Fast X: Part 2\" redirects to the franchise article). Release history: 2025, then 2026, then March 2026, then April 2027; Oct 2025 WSJ: \"the film had no release date and was facing potential cancelation\"; now 17 March 2028. Aug 2026: Diesel said filming would begin that December. Volatile; treat as unreleased. Also in Future: Hobbs & Reyes (in development, no date), an untitled stand-alone film, an untitled female-led spin-off, a Diesel-directed short \"which will take place chronologically before the final film\" (Mar 2025), and four Peacock series in development (May 2026). None has a date.",
+    "units": [
+      {
+        "id": "fast-forever",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Not yet placed (unreleased)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "No placement stated. \"In February 2024, Diesel confirmed that the eleventh film would be the final installment.\"",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2028-03-17",
+          "end_date": null,
+          "year": 2028,
+          "note": "Wikipedia: \"In January 2026, it was announced that the film is officially titled Fast Forever, and was scheduled to be released on March 17, 2028.\" Film overview: date11 = {{Start date|2028|03|17}}"
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Rob Cohen",
+        "qid": "Q503966",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "David Leitch",
+        "qid": "Q5236475",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Justin Lin",
+        "qid": "Q551876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": "Dominic Toretto",
+        "character_qid": "Q1991640",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": "Luke Hobbs",
+        "character_qid": "Q21029101",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Leticia Ortiz",
+        "character_qid": "Q3831054",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tyrese Gibson",
+        "qid": "Q311232",
+        "character": "Roman Pearce",
+        "character_qid": "Q3940520",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludacris",
+        "qid": "Q193676",
+        "character": "Tej Parker",
+        "character_qid": "Q21527104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sung Kang",
+        "qid": "Q317563",
+        "character": "Han Lue",
+        "character_qid": "Q21029104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucas Black",
+        "qid": "Q359491",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Emmanuel",
+        "qid": "Q6968794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gal Gadot",
+        "qid": "Q185654",
+        "character": "Gisele Yashar",
+        "character_qid": "Q27965042",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Brewster",
+        "qid": "Q230827",
+        "character": "Mia Toretto",
+        "character_qid": "Q9300158",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Statham",
+        "qid": "Q169963",
+        "character": "Deckard Shaw",
+        "character_qid": "Q61389307",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Walker",
+        "qid": "Q213864",
+        "character": "Brian O'Conner",
+        "character_qid": "Q19803416",
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "spy-racers",
+    "title": "Fast & Furious Spy Racers",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "fast-furious",
+    "continuity": "ff-spy-racers",
+    "studio_brand": "universal-television",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast & Furious Spy Racers",
+      "wikidata": "Q55611494",
+      "tmdb": "95594",
+      "imdb": "tt8322592"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+      "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+    ],
+    "notes": "Article title is now \"Fast & Furious Spy Racers\" (no colon). Infobox: num_seasons = 6, num_episodes = 52, first_aired 2019-12-26, last_aired 2021-12-17. Season 6 has 12 episodes; episodes 11-12 are one two-part entry.",
+    "units": [
+      {
+        "id": "spy-racers-s1",
+        "label": "Season 1: Los Angeles",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Seasons are sequential; no year or film placement in Wikipedia or the fan wiki.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-12-26",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: Series overview: auxA1 = Los Angeles | episodes1 = 8 | released1 = {{Start date|2019|12|26}}; every episode of the season has this OriginalAirDate (whole-season Netflix release)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "spy-racers-s2",
+        "label": "Season 2: Rio",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Seasons are sequential; no year or film placement in Wikipedia or the fan wiki.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-10-09",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: Series overview: auxA2 = Rio | episodes2 = 8 | released2 = {{Start date|2020|10|09}}; every episode of the season has this OriginalAirDate (whole-season Netflix release)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "spy-racers-s3",
+        "label": "Season 3: Sahara",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Seasons are sequential; no year or film placement in Wikipedia or the fan wiki.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-12-26",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: Series overview: auxA3 = Sahara | episodes3 = 8 | released3 = {{Start date|2020|12|26}}; every episode of the season has this OriginalAirDate (whole-season Netflix release)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "spy-racers-s4",
+        "label": "Season 4: Mexico",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Seasons are sequential; no year or film placement in Wikipedia or the fan wiki.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-04-16",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: Series overview: auxA4 = Mexico | episodes4 = 8 | released4 = {{Start date|2021|04|16}}; every episode of the season has this OriginalAirDate (whole-season Netflix release)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "spy-racers-s5",
+        "label": "Season 5: South Pacific",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Seasons are sequential; no year or film placement in Wikipedia or the fan wiki.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-08-13",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: Series overview: auxA5 = South Pacific | episodes5 = 8 | released5 = {{Start date|2021|08|13}}; every episode of the season has this OriginalAirDate (whole-season Netflix release)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "spy-racers-s6",
+        "label": "Season 6: Homecoming",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Seasons are sequential; no year or film placement in Wikipedia or the fan wiki.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-12-17",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: Series overview: auxA6 = Homecoming | episodes6 = 12 | released6 = {{Start date|2021|12|17}}; every episode of the season has this OriginalAirDate (whole-season Netflix release)."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fast_&_Furious_Spy_Racers",
+          "https://en.wikipedia.org/wiki/Fast_&_Furious:_Spy_Racers"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "producer",
+        "name": "Vin Diesel",
+        "qid": "Q178166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Neal H. Moritz",
+        "qid": "Q928022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Chris Morgan",
+        "qid": "Q5107501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

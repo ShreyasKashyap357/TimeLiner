@@ -494,5 +494,75 @@
     "data_dir": "middle-earth",
     "description": "Tolkien's books and the adaptations: Peter Jackson's films, The Rings of Power, Rankin/Bass, Bakshi and more.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "james-bond",
+    "name": "James Bond",
+    "short_name": "James Bond",
+    "order": 10,
+    "enabled": true,
+    "accent": {
+      "primary": "#E8E8E8",
+      "secondary": "#C9A227"
+    },
+    "default_continuity": "bond-eon-classic",
+    "grouping_schemes": [
+      {
+        "id": "actor",
+        "label": "Bond actor",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "connery",
+            "label": "Sean Connery",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "lazenby",
+            "label": "George Lazenby",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "moore",
+            "label": "Roger Moore",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "dalton",
+            "label": "Timothy Dalton",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "brosnan",
+            "label": "Pierce Brosnan",
+            "order": 5,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "james-bond",
+    "description": "The Eon films (classic and Craig eras), the non-Eon films, and Ian Fleming's books with continuation novels.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "fast-furious",
+    "name": "Fast & Furious",
+    "short_name": "Fast & Furious",
+    "order": 11,
+    "enabled": true,
+    "accent": {
+      "primary": "#FF7A1A",
+      "secondary": "#3FA9F5"
+    },
+    "default_continuity": "ff-main",
+    "grouping_schemes": [],
+    "data_dir": "fast-furious",
+    "description": "The Fast Saga films in story order, the short films, Hobbs & Shaw, and the animated Spy Racers.",
+    "last_verified": "2026-11-27"
   }
 ]

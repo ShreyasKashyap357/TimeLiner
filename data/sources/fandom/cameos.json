@@ -1,0 +1,1893 @@
+{
+ "fetched_at": "2026-11-27",
+ "license": "CC BY-SA 3.0 (Fandom wiki excerpts)",
+ "note": "Explicit {{Cameo}} markers only (Marvel Database, DC Database, Godzilla wiki). Prose mentions on other wikis are not used.",
+ "wikis": [
+  {
+   "universe": "marvel",
+   "name": "Marvel Database",
+   "base": "https://marvel.fandom.com",
+   "marker": "Structured: {{Cameo|[[Character]]}} wrapper (or trailing {{Cameo}}) on entries in the Appearances lists of the \"Marvel Database:Film Template\"; the list mixes characters with organisations/items. Also prose in Cast/Notes/Trivia fields."
+  },
+  {
+   "universe": "marvel",
+   "name": "Marvel Cinematic Universe Wiki",
+   "base": "https://marvelcinematicuniverse.fandom.com",
+   "marker": "No cameo marker. Cast section has an \"===Uncredited===\" subsection (uncredited, not cameo) plus <small>(photo)</small>/(footage)/(voice) qualifiers; cameos appear only as prose on the \"<Title>/Trivia\" subpage."
+  },
+  {
+   "universe": "dc",
+   "name": "DC Database",
+   "base": "https://dc.fandom.com",
+   "marker": "Structured: trailing {{Cameo}} template (renders \"(Cameo)\") on Appearances entries of the \"DC Database:Movie Template\" pages, named \"<Title> (Movie)\" / \"(TV Series)\". Character-level, no actor. Cast field has a '''Uncredited:''' sub-list."
+  },
+  {
+   "universe": "dc",
+   "name": "DC Extended Universe Wiki",
+   "base": "https://dcextendeduniverse.fandom.com",
+   "marker": "No cameo marker; cast uses <small>(... uncredited)</small> qualifiers and Category:Uncredited actors. \"Cameo\" only in prose/trivia. (dceu.fandom.com 301-redirects here.)"
+  },
+  {
+   "universe": "star-wars",
+   "name": "Wookieepedia",
+   "base": "https://starwars.fandom.com",
+   "marker": "No cameo template. {{C|...}} is a generic comment template; cast uses {{C|uncredited}} and the infobox has |uncreditedcast=. \"Cameo\" appears only in Behind-the-scenes prose."
+  },
+  {
+   "universe": "star-trek",
+   "name": "Memory Alpha",
+   "base": "https://memory-alpha.fandom.com",
+   "marker": "No cameo marker. Film/series pages have \"=== Uncredited === / ==== Performers ====\" lists (mostly extras). \"Cameo\" appears in background-information prose."
+  },
+  {
+   "universe": "godzilla-kong",
+   "name": "Gojipedia (godzilla.fandom.com)",
+   "base": "https://godzilla.fandom.com",
+   "marker": "Informal: \"(Cameo)\" or <small>(cameo; ...)</small> after entries in Appearances/Monsters lists; \"(..., uncredited)\" in cast tables; prose in Trivia."
+  },
+  {
+   "universe": "asoiaf",
+   "name": "Wiki of Westeros",
+   "base": "https://gameofthrones.fandom.com",
+   "marker": "None found on the series pages checked (House of the Dragon etc.); per-episode pages not fetched."
+  },
+  {
+   "universe": "wheel-of-time",
+   "name": "A Wheel of Time Wiki",
+   "base": "https://wot.fandom.com",
+   "marker": "None found; cast uses plain \"Uncredited as [[Character]]\"."
+  }
+ ],
+ "cameos": [
+  {
+   "title_id": "iron-man",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Director Nick Fury",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Iron_Man_(film)?oldid=11298811",
+   "revid": 11298811,
+   "line": "** {{apn|[[Nicholas Fury (Earth-199999)|Director Nick Fury]]|Captain Marvel (film)|Iron Man 2: Agents of S.H.I.E.L.D. Vol 1 1}} {{1stHist}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-incredible-hulk",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Tony Stark",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Incredible_Hulk_(2008_film)?oldid=11301440",
+   "revid": 11301440,
+   "line": "** {{apn|[[Anthony Stark (Earth-199999)|Tony Stark]]|Iron Man 2 (film)|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 4}} {{Cameo}}"
+  },
+  {
+   "title_id": "iron-man-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Chess Roberts",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Iron_Man_2_(film)?oldid=11298813",
+   "revid": 11298813,
+   "line": "** {{1st|[[Chess Roberts (Earth-199999)|Chess Roberts]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "thor",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Agent Clint Barton",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Thor_(film)?oldid=11301349",
+   "revid": 11301349,
+   "line": "** {{apn|[[Clinton Barton (Earth-199999)|Agent Clint Barton]]|-|Marvel's The Avengers Prelude: Fury's Big Week Vol 1 3}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "thor",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Nick Fury",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Thor_(film)?oldid=11301349",
+   "revid": 11301349,
+   "line": "** {{apn|[[Nicholas Fury (Earth-199999)|Nick Fury]]|Iron Man 2 (film)|Captain America: The First Avenger}} {{Cameo}}"
+  },
+  {
+   "title_id": "captain-america-the-first-avenger",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Synthetic Man",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_America:_The_First_Avenger?oldid=11278374",
+   "revid": 11278374,
+   "line": "* {{1st|[[Joule Individual Machine (Earth-199999)|Synthetic Man]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-avengers",
+   "universe": "marvel",
+   "actor": "The Mandarin and Shang-Chi were considered to appear in the post-credits scene",
+   "character": "Thanos",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Marvel's_The_Avengers?oldid=11282530",
+   "revid": 11282530,
+   "line": "* {{apn|[[Thanos (Earth-199999)|Thanos]]|-|Guardians of the Galaxy (film)}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "iron-man-3",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Dr. Bruce Banner",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Iron_Man_3_(film)?oldid=11298815",
+   "revid": 11298815,
+   "line": "* {{apn|[[Bruce Banner (Earth-199999)|Dr. Bruce Banner]]|Marvel's The Avengers|Avengers: Age of Ultron}} {{Cameo}}"
+  },
+  {
+   "title_id": "thor-the-dark-world",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Hildegund",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Thor:_The_Dark_World?oldid=11301438",
+   "revid": 11301438,
+   "line": "* {{Cameo|[[Hildegund (Earth-199999)|Hildegund]]}}"
+  },
+  {
+   "title_id": "thor-the-dark-world",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Carina",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Thor:_The_Dark_World?oldid=11301438",
+   "revid": 11301438,
+   "line": "** {{apn|[[Carina (Earth-199999)|Carina]]|-|Marvel's Guardians of the Galaxy Prequel Infinite Comic Vol 1 1}} {{1st}} {{Cameo}} {{Unnamed}}"
+  },
+  {
+   "title_id": "thor-the-dark-world",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Collector (Taneleer Tivan)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Thor:_The_Dark_World?oldid=11301438",
+   "revid": 11301438,
+   "line": "** {{apn|[[Taneleer Tivan (Earth-199999)|Collector (Taneleer Tivan)]]|-|Marvel's Guardians of the Galaxy Prequel Infinite Comic Vol 1 1}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "captain-america-the-winter-soldier",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Baron Wolfgang von Strucker",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_America:_The_Winter_Soldier?oldid=11234279",
+   "revid": 11234279,
+   "line": "** {{apn|[[Wolfgang von Strucker (Earth-199999)|Baron Wolfgang von Strucker]]|Avengers: Age of Ultron Prelude: This Scepter'd Isle Infinite Comic Vol 1 1|Avengers: Age of Ultron}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "captain-america-the-winter-soldier",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Doctor List",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_America:_The_Winter_Soldier?oldid=11234279",
+   "revid": 11234279,
+   "line": "** {{apn|[[Doctor List (Earth-199999)|Doctor List]]|Avengers: Age of Ultron Prelude: This Scepter'd Isle Infinite Comic Vol 1 1|Marvel's Agents of S.H.I.E.L.D. Season 2 11}} {{1st}} {{Unnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "captain-america-the-winter-soldier",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Pietro Maximoff",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_America:_The_Winter_Soldier?oldid=11234279",
+   "revid": 11234279,
+   "line": "** {{apn|[[Pietro Maximoff (Earth-199999)|Pietro Maximoff]]|Avengers: Age of Ultron Prelude: This Scepter'd Isle Infinite Comic Vol 1 1|Avengers: Age of Ultron}} {{1st}} {{Unnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "captain-america-the-winter-soldier",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Wanda Maximoff",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_America:_The_Winter_Soldier?oldid=11234279",
+   "revid": 11234279,
+   "line": "** {{apn|[[Wanda Maximoff (Earth-199999)|Wanda Maximoff]]|Avengers: Age of Ultron Prelude: This Scepter'd Isle Infinite Comic Vol 1 1|Avengers: Age of Ultron}} {{1st}} {{Unnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Howard the Duck",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_(film)?oldid=11268215",
+   "revid": 11268215,
+   "line": "** {{apn|[[Howard the Duck (Earth-199999)|Howard the Duck]]|-|Guardians of the Galaxy Vol. 2 (film)}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "avengers-age-of-ultron",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Thanos",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Avengers:_Age_of_Ultron?oldid=11295953",
+   "revid": 11295953,
+   "line": "* {{apn|[[Thanos (Earth-199999)|Thanos]]|Guardians of the Galaxy (film)|Avengers: Infinity War}} {{Cameo}}"
+  },
+  {
+   "title_id": "avengers-age-of-ultron",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Jocasta",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Avengers:_Age_of_Ultron?oldid=11295953",
+   "revid": 11295953,
+   "line": "* {{1st|[[Jocasta (Earth-199999)|Jocasta]]}} {{Cameo}} {{g|A.I. Disc}}"
+  },
+  {
+   "title_id": "avengers-age-of-ultron",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Tadashi",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Avengers:_Age_of_Ultron?oldid=11295953",
+   "revid": 11295953,
+   "line": "* {{1st|[[Tadashi (Earth-199999)|Tadashi]]}} {{Cameo}} {{g|A.I. Disc}}"
+  },
+  {
+   "title_id": "ant-man",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Steve Rogers",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_(film)?oldid=11086022",
+   "revid": 11086022,
+   "line": "** {{Cameo|[[Steven Rogers (Earth-199999)|Steve Rogers]]}}"
+  },
+  {
+   "title_id": "ant-man",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Bucky Barnes",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_(film)?oldid=11086022",
+   "revid": 11086022,
+   "line": "* {{Cameo|[[James Buchanan Barnes (Earth-199999)|Bucky Barnes]]}}"
+  },
+  {
+   "title_id": "captain-america-civil-war",
+   "universe": "marvel",
+   "actor": null,
+   "character": "M.I.T. Liaison",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_America:_Civil_War?oldid=11238075",
+   "revid": 11238075,
+   "line": "* {{apn|[[Wilkes (Earth-199999)|M.I.T. Liaison]]|-|Ironheart (TV series) Season 1 1}} {{1st Unnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "doctor-strange",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Tina Minoru",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Doctor_Strange_(film)?oldid=11282468",
+   "revid": 11282468,
+   "line": "** {{apn|[[Tina Minoru (Earth-199999)|Tina Minoru]]|Marvel's Doctor Strange Prelude Vol 1 1|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "doctor-strange",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Thor",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Doctor_Strange_(film)?oldid=11282468",
+   "revid": 11282468,
+   "line": "* {{Cameo|[[Thor Odinson (Earth-199999)|Thor]]}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy-vol-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Howard the Duck",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_Vol._2_(film)?oldid=11302292",
+   "revid": 11302292,
+   "line": "* {{apn|[[Howard the Duck (Earth-199999)|Howard the Duck]]|Guardians of the Galaxy (film)|Avengers: Endgame}} {{Cameo}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy-vol-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Peter Quill's Grandfather",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_Vol._2_(film)?oldid=11302292",
+   "revid": 11302292,
+   "line": "* {{apn|[[Jason Quill (Earth-199999)|Peter Quill's Grandfather]]|Guardians of the Galaxy (film)|Guardians of the Galaxy Vol. 3 (film)}} {{Cameo}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy-vol-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Grandmaster",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_Vol._2_(film)?oldid=11302292",
+   "revid": 11302292,
+   "line": "* {{Minor|[[En Dwi Gast (Earth-199999)|Grandmaster]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-homecoming",
+   "universe": "marvel",
+   "actor": "Gwyneth Paltrow",
+   "character": "Pepper Potts",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Homecoming?oldid=11302437",
+   "revid": 11302437,
+   "line": "** {{apn|[[Virginia Potts (Earth-199999)|Pepper Potts]]|Iron Man 3 (film)|Avengers: Infinity War}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-panther",
+   "universe": "marvel",
+   "actor": null,
+   "character": "White Wolf (Bucky Barnes)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Black_Panther_(film)?oldid=11301845",
+   "revid": 11301845,
+   "line": "* {{apn|[[James Buchanan Barnes (Earth-199999)|White Wolf (Bucky Barnes)]]|Marvel's Avengers: Infinity War Prelude Vol 1 1|Avengers: Infinity War}} {{Cameo}} {{1stas|White Wolf}}"
+  },
+  {
+   "title_id": "captain-marvel",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Kelly Sue DeConnick",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Captain_Marvel_(film)?oldid=11188646",
+   "revid": 11188646,
+   "line": "* {{cameo|[[Kelly Sue DeConnick (Earth-199999)|Kelly Sue DeConnick]]}}"
+  },
+  {
+   "title_id": "spider-man-far-from-home",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Queen's Guard",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Far_From_Home?oldid=11220847",
+   "revid": 11220847,
+   "line": "* {{WP|Queen's Guard}} {{Cameo}}"
+  },
+  {
+   "title_id": "shang-chi-and-the-legend-of-the-ten-rings",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Black Widow (Helen)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings?oldid=11275340",
+   "revid": 11275340,
+   "line": "* {{apn|[[Black Widow (Helen) (Earth-199999)|Black Widow (Helen)]]|Black Widow (film)|-}} {{Cameo}} {{1st Real Name}}"
+  },
+  {
+   "title_id": "shang-chi-and-the-legend-of-the-ten-rings",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Bruce Banner",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings?oldid=11275340",
+   "revid": 11275340,
+   "line": "* {{apn|[[Bruce Banner (Earth-199999)|Bruce Banner]]|Avengers: Endgame|She-Hulk: Attorney at Law Season 1 1}} {{Cameo}} {{OnScreen}}"
+  },
+  {
+   "title_id": "shang-chi-and-the-legend-of-the-ten-rings",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Captain Marvel (Carol Danvers)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings?oldid=11275340",
+   "revid": 11275340,
+   "line": "* {{apn|[[Carol Danvers (Earth-199999)|Captain Marvel (Carol Danvers)]]|Avengers: Endgame|Ms. Marvel (TV series) Season 1 6}} {{Cameo}} {{OnScreen}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Agent Jimmy Woo",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "* {{apn|[[James Woo (Earth-199999)|Agent Jimmy Woo]]|WandaVision Season 1 9|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Rama-Tut",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "** [[Character Index/Earth-Unknown-K#Kang_the_Conqueror|Rama-Tut]] {{Cameo}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Immortus",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "** [[Character Index/Earth-Unknown-K#Kang_the_Conqueror|Immortus]] {{Cameo}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Centurion",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "** [[Character Index/Earth-Unknown-K#Kang_the_Conqueror|Centurion]] {{Cameo}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Mister Gryphon",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "** [[Character Index/Earth-Unknown-K#Kang_the_Conqueror|Mister Gryphon]] {{Cameo}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Lizard Kang",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "** [[Character Index/Earth-Unknown-K#Kang_the_Conqueror|Lizard Kang]]{{cite|ref=true |url=https://www.artstation.com/artwork/qe64yR|title=Ant-Man and the Wasp: Quantumania - Lizard Kang|work=ArtStation|first=Colin|lasst=Shulver|date=July 22, 2023|accessdate=February 22, 2025|archiveurl=https://web.archive.org/web/20230729140521/https://www.artstation.com/artwork/qe64yR|archivedate=July 29, 2023}} {{Cameo}}"
+  },
+  {
+   "title_id": "ant-man-and-the-wasp-quantumania",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Green-Skinned Kang",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania?oldid=11298703",
+   "revid": 11298703,
+   "line": "** [[Character Index/Earth-Unknown-K#Kang_the_Conqueror|Green-Skinned Kang]] {{Cameo}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy-vol-3",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Broker",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_Vol._3_(film)?oldid=11275282",
+   "revid": 11275282,
+   "line": "* {{apn|[[Broker (Earth-199999)|Broker]]|Guardians of the Galaxy (film)}} {{Cameo}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy-vol-3",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Howard the Duck",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_Vol._3_(film)?oldid=11275282",
+   "revid": 11275282,
+   "line": "* {{apn|[[Howard the Duck (Earth-199999)|Howard the Duck]]|Avengers: Endgame}} {{Cameo}}"
+  },
+  {
+   "title_id": "guardians-of-the-galaxy-vol-3",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Bzermikitokolok",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Guardians_of_the_Galaxy_Vol._3_(film)?oldid=11275282",
+   "revid": 11275282,
+   "line": "* {{Cameo|[[Bzermikitokolok (Earth-199999)|Bzermikitokolok]]}}"
+  },
+  {
+   "title_id": "deadpool-and-wolverine",
+   "universe": "marvel",
+   "actor": "Stunt performer David McDonald was cast and filmed",
+   "character": "Nick Fury",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_%26_Wolverine?oldid=11337190",
+   "revid": 11337190,
+   "line": "** {{1st|[[Nicholas Fury (Earth-TRN872)|Nick Fury]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-fantastic-four-first-steps",
+   "universe": "marvel",
+   "actor": "Alex Hyde-White",
+   "character": "William Russell",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Fantastic_Four:_First_Steps?oldid=11245123",
+   "revid": 11245123,
+   "line": "*** {{1st|[[William Russell (Earth-828)|William Russell]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-fantastic-four-first-steps",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Stan Lee",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Fantastic_Four:_First_Steps?oldid=11245123",
+   "revid": 11245123,
+   "line": "** {{1st Unnamed|[[Stan Lee (Earth-828)|Stan Lee]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-fantastic-four-first-steps",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Jack Kirby",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Fantastic_Four:_First_Steps?oldid=11245123",
+   "revid": 11245123,
+   "line": "** {{1st Unnamed|[[Jack Kirby (Earth-828)|Jack Kirby]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-fantastic-four-first-steps",
+   "universe": "marvel",
+   "actor": "Rebecca Staab",
+   "character": "Carolyn Haynes",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Fantastic_Four:_First_Steps?oldid=11245123",
+   "revid": 11245123,
+   "line": "** {{1st|[[Carolyn Haynes (Earth-828)|Carolyn Haynes]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-fantastic-four-first-steps",
+   "universe": "marvel",
+   "actor": "Robert Downey Jr.",
+   "character": "Doctor Doom (Victor von Doom)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Fantastic_Four:_First_Steps?oldid=11245123",
+   "revid": 11245123,
+   "line": "* {{apn|[[Victor von Doom (Earth-828)|Doctor Doom (Victor von Doom)]]|-|Avengers Endgame: Encore}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-brand-new-day",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Manfredi Crime Syndicate",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Brand_New_Day?oldid=11300764",
+   "revid": 11300764,
+   "line": "* {{apn|[[Manfredi Crime Family (Earth-199999)|Manfredi Crime Syndicate]]|Peter's To-Do List|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-brand-new-day",
+   "universe": "marvel",
+   "actor": "Marvin Jones III",
+   "character": "Tombstone (Lonnie Lincoln)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Brand_New_Day?oldid=11300764",
+   "revid": 11300764,
+   "line": "* {{1st|[[Alonzo Lincoln (Earth-199999)|Tombstone (Lonnie Lincoln)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-brand-new-day",
+   "universe": "marvel",
+   "actor": "Aidan Kennedy",
+   "character": "Boomerang (Frederick Myers)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Brand_New_Day?oldid=11300764",
+   "revid": 11300764,
+   "line": "* {{1st|[[Frederick Myers (Earth-199999)|Boomerang (Frederick Myers)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-brand-new-day",
+   "universe": "marvel",
+   "actor": "To-be-confirmed actor",
+   "character": "Tarantula (Anton Miguel Rodriquez)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Brand_New_Day?oldid=11300764",
+   "revid": 11300764,
+   "line": "** {{1st|[[Anton Miguel Rodriquez (Earth-199999)|Tarantula (Anton Miguel Rodriquez)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-brand-new-day",
+   "universe": "marvel",
+   "actor": "Billy Clements",
+   "character": "Ramrod",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Brand_New_Day?oldid=11300764",
+   "revid": 11300764,
+   "line": "* {{1st|[[Ramrod (Cyborg) (Earth-199999)|Ramrod]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "spider-man-brand-new-day",
+   "universe": "marvel",
+   "actor": "Zabryna Guevara",
+   "character": "Mayor Sheila Rivera",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Spider-Man:_Brand_New_Day?oldid=11300764",
+   "revid": 11300764,
+   "line": "* {{apn|[[Sheila Rivera (Earth-199999)|Mayor Sheila Rivera]]|Daredevil: Born Again Season 2 8|-}} {{OnScreenOnly}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-first-class",
+   "universe": "marvel",
+   "actor": null,
+   "character": "James Howlett",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_First_Class_(film)?oldid=11285141",
+   "revid": 11285141,
+   "line": "* {{apn|[[James Howlett (Earth-10005)|James Howlett]]|-|X-Men: Days of Future Past (film)}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Kitty Pryde",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men_(film)?oldid=11220490",
+   "revid": 11220490,
+   "line": "** {{apn|[[Katherine Pryde (Earth-41578)|Kitty Pryde]]|-|X-Men the Movie Iconnect Special Vol 1 1}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Jubilee (Jubilation Lee)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men_(film)?oldid=11220490",
+   "revid": 11220490,
+   "line": "** {{apn|[[Jubilation Lee (Earth-41578)|Jubilee (Jubilation Lee)]]|-|X2 (film)}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men",
+   "universe": "marvel",
+   "actor": null,
+   "character": "John Allerdyce",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men_(film)?oldid=11220490",
+   "revid": 11220490,
+   "line": "** {{apn|[[John Allerdyce (Earth-41578)|John Allerdyce]]|-|X2 (film)}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": "Katie Stuart",
+   "character": "Kitty Pryde",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{apn|[[Katherine Pryde (Earth-41578)|Kitty Pryde]]|X-Men the Movie Iconnect Special Vol 1 1|X-Men: The Last Stand}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": "Kea Wong",
+   "character": "Jubilee (Jubilation Lee)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{apn|[[Jubilation Lee (Earth-41578)|Jubilee (Jubilation Lee)]]|X-Men (film)|X-Men: The Last Stand}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Flea",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{apn|[[Flea (Earth-41578)|Flea]]|-|X-Men: The Last Stand}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Artie",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{apn|[[Arthur Maddicks (Earth-41578)|Artie]]|-|X-Men: The Last Stand}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Siryn (Theresa Rourke)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{apn|[[Theresa Cassidy (Earth-41578)|Siryn (Theresa Rourke)]]|-|X-Men: The Last Stand}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Jones",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{apn|[[Jones (Earth-41578)|Jones]]|-|X-Men: The Last Stand}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Doug Ramsey",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "** {{1st|[[Douglas Ramsey (Earth-41578)|Doug Ramsey]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Dr. Shaw",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "* {{1st|[[Doctor Shaw (Earth-41578)|Dr. Shaw]]}} {{Cameo}} {{OnScreen}}"
+  },
+  {
+   "title_id": "x2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Dr. Hank McCoy",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X2_(film)?oldid=11164574",
+   "revid": 11164574,
+   "line": "* {{apn|[[Henry McCoy (Earth-41578)|Dr. Hank McCoy]]|-|X-Men: The Official Game}} {{1st}} {{Cameo}} {{OnScreen}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Jubilee (Jubilation Lee)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "** {{apn|[[Jubilation Lee (Earth-41578)|Jubilee (Jubilation Lee)]]|X2 (film)|-}} {{a|}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Siryn (Theresa Cassidy)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "** {{apn|[[Theresa Cassidy (Earth-41578)|Siryn (Theresa Cassidy)]]|X2 (film)|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": "In March 2005, Matthew Vaughn was hired",
+   "character": "Jones",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "** {{apn|[[Jones (Earth-41578)|Jones]]|X2 (film)|-}} {{a|}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Flea",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "** {{apn|[[Flea (Earth-41578)|Flea]]|X2 (film)|-}} {{a|}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Artie",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "** {{apn|[[Arthur Maddicks (Earth-41578)|Artie]]|X2 (film)|-}} {{a|}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Stepford Cuckoos",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "** {{Cameo|[[Stepford Cuckoos (Earth-41578)|Stepford Cuckoos]]}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "P. Xavier",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "* {{1st Dies|[[P. Xavier (Earth-41578)|P. Xavier]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-the-last-stand",
+   "universe": "marvel",
+   "actor": null,
+   "character": "United Nations",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_The_Last_Stand?oldid=11188578",
+   "revid": 11188578,
+   "line": "* {{Cameo|[[United Nations (Earth-41578)|United Nations]]}}"
+  },
+  {
+   "title_id": "the-wolverine",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Magneto (Erik Lehnsherr)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Wolverine_(film)?oldid=11185076",
+   "revid": 11185076,
+   "line": "* {{apn|[[Erik Lehnsherr (Earth-41578)|Magneto (Erik Lehnsherr)]]|X-Men: The Last Stand|X-Men: Days of Future Past (film)}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-wolverine",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Professor X (Charles Xavier / \"P. Xavier\")",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/The_Wolverine_(film)?oldid=11185076",
+   "revid": 11185076,
+   "line": "* {{apn|[[Charles Xavier (Earth-41578)|Professor X (Charles Xavier / \"P. Xavier\")]]|X-Men: The Last Stand|X-Men: Days of Future Past (film)}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Ink (Gitter)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "* {{1st|[[Eric Gitter (Earth-41578)|Ink (Gitter)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Quicksilver's little sister",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "* {{1st|[[Maximoff (Girl) (Earth-10005)|Quicksilver's little sister]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Colossus (Peter Rasputin)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{apn|[[Piotr Rasputin (Earth-10005)|Colossus (Peter Rasputin)]]|Deadpool (film)|Deadpool & Wolverine}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Storm (Ororo Munroe)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{apn|[[Ororo Munroe (Earth-10005)|Storm (Ororo Munroe)]]|Dark Phoenix (film)|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Jean Grey",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{apn|[[Jean Grey (Earth-10005)|Jean Grey]]|Dark Phoenix (film)|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Cyclops (Scott Summers)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{apn|[[Scott Summers (Earth-10005)|Cyclops (Scott Summers)]]|Dark Phoenix (film)|-}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Iceman (Bobby Drake)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{1st|[[Robert Drake (Earth-10005)|Iceman (Bobby Drake)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": "Anna Paquin",
+   "character": "Rogue (Marie D'Ancanto)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{1st|[[Marie D'Ancanto (Earth-10005)|Rogue (Marie D'Ancanto)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": "Elliot Page",
+   "character": "Kitty Pryde",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "** {{1st|[[Katherine Pryde (Earth-10005)|Kitty Pryde]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "En Sabah Nur",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "* {{apn|[[En Sabah Nur (Earth-10005)|En Sabah Nur]]|-|X-Men: Apocalypse}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-days-of-future-past",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Horsemen of Apocalypse",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Days_of_Future_Past_(film)?oldid=11213974",
+   "revid": 11213974,
+   "line": "* {{1st|[[Horsemen of Apocalypse (Earth-10005)|Horsemen of Apocalypse]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-apocalypse",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Stan Lee",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Apocalypse?oldid=11116813",
+   "revid": 11116813,
+   "line": "* {{apn|[[Stan Lee (Earth-10005)|Stan Lee]]|-|Deadpool (film)}} {{1stChron}} {{Cameo}}"
+  },
+  {
+   "title_id": "x-men-apocalypse",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Joan Lee",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/X-Men:_Apocalypse?oldid=11116813",
+   "revid": 11116813,
+   "line": "* {{1st|[[Joan Lee (Earth-10005)|Joan Lee]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "dark-phoenix",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Dazzler",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Dark_Phoenix_(film)?oldid=11277312",
+   "revid": 11277312,
+   "line": "* {{1st|[[Alison Blaire (Earth-10005)|Dazzler]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "dark-phoenix",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Match",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Dark_Phoenix_(film)?oldid=11277312",
+   "revid": 11277312,
+   "line": "* {{1st|[[Benjamin Hammil (Earth-10005)|Match]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "dark-phoenix",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Quintavius Quire",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Dark_Phoenix_(film)?oldid=11277312",
+   "revid": 11277312,
+   "line": "* {{1st|[[Quintavius Quire (Earth-10005)|Quintavius Quire]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Bob",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_(film)?oldid=11185020",
+   "revid": 11185020,
+   "line": "* {{1st|[[Bob Dobalina (Earth-10005)|Bob]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Rob Liefeld",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_(film)?oldid=11185020",
+   "revid": 11185020,
+   "line": "* {{1st|[[Rob Liefeld (Earth-10005)|Rob Liefeld]]}} {{Flashback}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Stan Lee",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_(film)?oldid=11185020",
+   "revid": 11185020,
+   "line": "* {{apn|[[Stan Lee (Earth-10005)|Stan Lee]]|X-Men: Apocalypse|Deadpool: No Good Deed}} {{1stHist}}{{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "X-Men",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "* {{1st|[[X-Men (Earth-41633)|X-Men]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Professor X (Charles Xavier)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "** {{1st|[[Charles Xavier (Earth-41633)|Professor X (Charles Xavier)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Beast (Hank McCoy)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "** {{1st|[[Henry McCoy (Earth-41633)|Beast (Hank McCoy)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Cyclops (Scott Summers)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "** {{1st|[[Scott Summers (Earth-41633)|Cyclops (Scott Summers)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Quicksilver (Peter Maximoff)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "** {{1st|[[Peter Maximoff (Earth-41633)|Quicksilver (Peter Maximoff)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Storm (Ororo Munroe)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "** {{1st|[[Ororo Munroe (Earth-41633)|Storm (Ororo Munroe)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Nightcrawler (Kurt Wagner)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "** {{1st|[[Kurt Wagner (Earth-41633)|Nightcrawler (Kurt Wagner)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Hope",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "* {{1st Dies|[[Hope Summers (Earth-66250)|Hope]]}} {{FlashOnly}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Firefist (Russell Collins)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "* {{1st|[[Russell Collins (Earth-66250)|Firefist (Russell Collins)]]}} {{FlashOnly}} {{Cameo}}"
+  },
+  {
+   "title_id": "deadpool-2",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Cable's wife",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Deadpool_2?oldid=11306958",
+   "revid": 11306958,
+   "line": "* {{1st Dies|[[Aliya Summers (Earth-66250)|Cable's wife]]}} {{FlashOnly}} {{Cameo}}"
+  },
+  {
+   "title_id": "venom",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Mr. Manfredi",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom_(film)?oldid=11218995",
+   "revid": 11218995,
+   "line": "* Mr. Manfredi {{Cameo}}"
+  },
+  {
+   "title_id": "venom",
+   "universe": "marvel",
+   "actor": "Woody Harrelson",
+   "character": "Cletus Kasady",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom_(film)?oldid=11218995",
+   "revid": 11218995,
+   "line": "* {{1st|[[Cletus Kasady (Earth-688B)|Cletus Kasady]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "venom-let-there-be-carnage",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Little Simz (Simbi Ajikawo)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom:_Let_There_Be_Carnage?oldid=11270701",
+   "revid": 11270701,
+   "line": "* {{WP|Little Simz|Little Simz (Simbi Ajikawo)}} {{Cameo}}"
+  },
+  {
+   "title_id": "venom-let-there-be-carnage",
+   "universe": "marvel",
+   "actor": null,
+   "character": "J. Jonah Jameson",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom:_Let_There_Be_Carnage?oldid=11270701",
+   "revid": 11270701,
+   "line": "** {{apn|[[John Jonah Jameson (Earth-199999)|J. Jonah Jameson]]|TheDailyBugle.net (web series) Season 2 13|Spider-Man: No Way Home}} {{Cameo}} {{OnScreen}}"
+  },
+  {
+   "title_id": "venom-the-last-dance",
+   "universe": "marvel",
+   "actor": "Cristo Fernández",
+   "character": "Mexican Bartender (Earth-199999)",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom:_The_Last_Dance?oldid=11219444",
+   "revid": 11219444,
+   "line": "* {{Cameo|[[Mexican Bartender (Earth-199999)]]}}"
+  },
+  {
+   "title_id": "venom-the-last-dance",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Riot Symbiote",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom:_The_Last_Dance?oldid=11219444",
+   "revid": 11219444,
+   "line": "* {{Minor|[[Riot (Symbiote) (Earth-688B)|Riot Symbiote]]}} {{Cameo}} {{g|Only in [[Symbiote Hive-Mind]]}} {{Deceased}}"
+  },
+  {
+   "title_id": "venom-the-last-dance",
+   "universe": "marvel",
+   "actor": null,
+   "character": "Carnage Symbiote",
+   "wiki": "Marvel Database",
+   "page_url": "https://marvel.fandom.com/wiki/Venom:_The_Last_Dance?oldid=11219444",
+   "revid": 11219444,
+   "line": "* {{Minor|[[Carnage (Symbiote) (Earth-688B)|Carnage Symbiote]]}} {{Cameo}} {{g|Only in [[Symbiote Hive-Mind]]}} {{Deceased}}"
+  },
+  {
+   "title_id": "superman-2025",
+   "universe": "dc",
+   "actor": null,
+   "character": "Samuel Lane",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Superman_(1978_Movie)?oldid=3989153",
+   "revid": 3989153,
+   "line": "* {{a|[[Samuel Lane (Superman Anthology)|Samuel Lane]]}} {{Cameo}} {{Only}}"
+  },
+  {
+   "title_id": "superman-2025",
+   "universe": "dc",
+   "actor": null,
+   "character": "Ella Lane",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Superman_(1978_Movie)?oldid=3989153",
+   "revid": 3989153,
+   "line": "* {{a|[[Ella Lane (Superman Anthology)|Ella Lane]]}} {{Cameo}} {{Only}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Anderson Cooper",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Anderson Cooper}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Andrew Sullivan",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Andrew Sullivan}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Brooke Baldwin",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Brooke Baldwin}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Charlie Rose",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Charlie Rose}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Dana Bash",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Dana Bash}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Dave Pasch",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Dave Pasch}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Erika Erickson",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* Erika Erickson {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Jon Stewart",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Jon Stewart}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Kent Shockneck",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Kent Shockneck}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Kerry Birmingham",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* Kerry Birmingham {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": "Emily Peterson",
+   "character": "Lana Lang",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{a|[[Lana Lang (DC Extended Universe)|Lana Lang]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Nancy Grace",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Nancy Grace}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Neil deGrasse Tyson",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{a|[[Neil deGrasse Tyson (DC Extended Universe)|Neil deGrasse Tyson]]}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": "Joseph Cranford",
+   "character": "Pete Ross",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{a|[[Peter Ross (DC Extended Universe)|Pete Ross]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Soledad O'Brien",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Soledad O'Brien}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Tom Luginbill",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Tom Luginbill}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-v-superman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Vikram Gandhi",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_v_Superman:_Dawn_of_Justice?oldid=3961326",
+   "revid": 3961326,
+   "line": "* {{WP|Vikram Gandhi}} {{Only}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "zack-snyders-justice-league",
+   "universe": "dc",
+   "actor": null,
+   "character": "Mutants",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Zack_Snyder's_Justice_League?oldid=3989333",
+   "revid": 3989333,
+   "line": "* {{a|[[Mutants (DC Extended Universe)|Mutants]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "shazam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Mister Mind",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Shazam!_(Movie)?oldid=3892733",
+   "revid": 3892733,
+   "line": "* {{a|[[Mister Mind (DC Extended Universe)|Mister Mind]]}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "shazam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Superman",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Shazam!_(Movie)?oldid=3892733",
+   "revid": 3892733,
+   "line": "* {{a|[[Kal-El (DC Extended Universe)|Superman]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "birds-of-prey",
+   "universe": "dc",
+   "actor": null,
+   "character": "Captain Boomerang",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Birds_of_Prey_(Movie)?oldid=3871355",
+   "revid": 3871355,
+   "line": "* {{a|[[George Harkness (DC Extended Universe)|Captain Boomerang]]}} {{Photo}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-suicide-squad",
+   "universe": "dc",
+   "actor": "Jared Leland Gore",
+   "character": "Double Down",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Suicide_Squad_(Movie)?oldid=3984672",
+   "revid": 3984672,
+   "line": "** {{a|[[Jeremy Tell (DC Extended Universe)|Double Down]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-suicide-squad",
+   "universe": "dc",
+   "actor": "Natalia Safran",
+   "character": "Kaleidoscope",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Suicide_Squad_(Movie)?oldid=3984672",
+   "revid": 3984672,
+   "line": "** {{a|[[Kaleidoscope (DC Extended Universe)|Kaleidoscope]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-suicide-squad",
+   "universe": "dc",
+   "actor": "Nick Padgett",
+   "character": "Karma",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Suicide_Squad_(Movie)?oldid=3984672",
+   "revid": 3984672,
+   "line": "** {{a|[[Wayne Hawkins (DC Extended Universe)|Karma]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-adam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Satan",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Black_Adam_(Movie)?oldid=3892734",
+   "revid": 3892734,
+   "line": "** {{a|[[Satan (DC Extended Universe)|Satan]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-adam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Aym",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Black_Adam_(Movie)?oldid=3892734",
+   "revid": 3892734,
+   "line": "** {{a|[[Aym (DC Extended Universe)|Aym]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-adam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Lady Blaze",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Black_Adam_(Movie)?oldid=3892734",
+   "revid": 3892734,
+   "line": "** {{a|[[Blaze (DC Extended Universe)|Lady Blaze]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-adam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Beelzebub",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Black_Adam_(Movie)?oldid=3892734",
+   "revid": 3892734,
+   "line": "** {{a|[[Beelzebub (DC Extended Universe)|Beelzebub]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-adam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Asmodeus",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Black_Adam_(Movie)?oldid=3892734",
+   "revid": 3892734,
+   "line": "** {{a|[[Asmodeus (DC Extended Universe)|Asmodeus]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "black-adam",
+   "universe": "dc",
+   "actor": null,
+   "character": "Crateis",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Black_Adam_(Movie)?oldid=3892734",
+   "revid": 3892734,
+   "line": "** {{a|[[Crateis (DC Extended Universe)|Crateis]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "shazam-fury-of-the-gods",
+   "universe": "dc",
+   "actor": "David F. Sandberg",
+   "character": "Mister Mind",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Shazam!_Fury_of_the_Gods?oldid=3871386",
+   "revid": 3871386,
+   "line": "* {{a|[[Mister Mind (DC Extended Universe)|Mister Mind]]}} {{Final}} {{Cameo}}"
+  },
+  {
+   "title_id": "shazam-fury-of-the-gods",
+   "universe": "dc",
+   "actor": "Mark Strong",
+   "character": "Dr. Thaddeus Sivana",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Shazam!_Fury_of_the_Gods?oldid=3871386",
+   "revid": 3871386,
+   "line": "* {{a|[[Thaddeus Sivana (DC Extended Universe)|Dr. Thaddeus Sivana]]}} {{Final}} {{Cameo}}"
+  },
+  {
+   "title_id": "shazam-fury-of-the-gods",
+   "universe": "dc",
+   "actor": null,
+   "character": "Karaqan",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Shazam!_Fury_of_the_Gods?oldid=3871386",
+   "revid": 3871386,
+   "line": "* {{a|[[Karathen (DC Extended Universe)|Karaqan]]}} {{Picture}} {{Cameo}}"
+  },
+  {
+   "title_id": "shazam-fury-of-the-gods",
+   "universe": "dc",
+   "actor": null,
+   "character": "Starro",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Shazam!_Fury_of_the_Gods?oldid=3871386",
+   "revid": 3871386,
+   "line": "* {{a|[[Starro (DC Extended Universe)|Starro]]}} {{Final}} {{Picture}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": "George Clooney",
+   "character": "Bruce Wayne (Post-Flashpoint)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Bruce Wayne (DC Extended Universe: Post-Flashpoint)|Bruce Wayne (Post-Flashpoint)]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Aquaman (Arthur Curry)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Arthur Curry (DC Extended Universe)|Aquaman (Arthur Curry)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Batman (Bruce Wayne) (Earth-66)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Bruce Wayne (Batman 1966 TV Series)|Batman (Bruce Wayne) (Earth-66)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Captain Boomerang (Digger Harkness)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[George Harkness (DC Extended Universe)|Captain Boomerang (Digger Harkness)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Catwoman (Earth-66)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Selina Kyle (Batman 1966 TV Series)|Catwoman (Earth-66)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Mrs. Curry (Flashpoint)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* Mrs. Curry (Flashpoint) {{Only}} {{Unnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "The Flash (Jay Garrick) (Adventures of Superman)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Jay Garrick (Adventures of Superman)|The Flash (Jay Garrick) (Adventures of Superman)]]}} {{1st}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Mr. McTavish (Adventures of Superman)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[McTavish (Adventures of Superman)|Mr. McTavish (Adventures of Superman)]]}} {{cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Iris West (Flashpoint)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Iris West (DC Extended Universe: Flashpoint)|Iris West (Flashpoint)]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Parademons (Earth-1)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Parademons|Parademons (Earth-1)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Robin (Dick Grayson) (Earth-66)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Richard Grayson (Batman 1966 TV Series)|Robin (Dick Grayson) (Earth-66)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Steppenwolf (Earth-1)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Steppenwolf (DC Extended Universe)|Steppenwolf (Earth-1)]]}} {{Deceased}} {{Final}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Superman (Clark Kent) (Adventures of Superman)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Kal-El (Adventures of Superman)|Superman (Clark Kent) (Adventures of Superman)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Superman (Clark Kent) (Superman Anthology)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Kal-El (Superman Anthology)|Superman (Clark Kent) (Superman Anthology)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Superman (Clark Kent) (Earth-1)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Kal-El (DC Extended Universe)|Superman (Clark Kent) (Earth-1)]]}} {{Cameo}} {{Green|Also on a TV or computer screen}} {{Final}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Superman (Clark Kent) (Superman Lives)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Kal-El (Superman Lives)|Superman (Clark Kent) (Superman Lives)]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-flash-2023",
+   "universe": "dc",
+   "actor": null,
+   "character": "Supergirl (Kara Zor-El) (Superman Anthology)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Flash_(Movie)?oldid=3989223",
+   "revid": 3989223,
+   "line": "* {{a|[[Kara Zor-El (Superman Anthology)|Supergirl (Kara Zor-El) (Superman Anthology)]]}} {{Cameo}}"
+  },
+  {
+   "title_id": "blue-beetle",
+   "universe": "dc",
+   "actor": null,
+   "character": "Blue Beetle (Ted Kord)",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Blue_Beetle_(Movie)?oldid=3994526",
+   "revid": 3994526,
+   "line": "* {{a|[[Theodore Kord (DC Extended Universe)|Blue Beetle (Ted Kord)]]}} {{1st}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "blue-beetle",
+   "universe": "dc",
+   "actor": null,
+   "character": "Green Lantern",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Blue_Beetle_(Movie)?oldid=3994526",
+   "revid": 3994526,
+   "line": "* [[Green Lantern]]<ref name=\"Green Lantern\">[https://heroichollywood.com/blue-beetle-director-green-lantern-easter-egg-black-beetle/ ''Blue Beetle'' Director Confirms Green Lantern Easter Egg & Teases Black Beetle – Heroic Hollywood]</ref> {{Cameo}} {{Unnamed}}"
+  },
+  {
+   "title_id": "the-batman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Salvatore Maroni",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Batman_(Movie)?oldid=3984668",
+   "revid": 3984668,
+   "line": "**** {{a|[[Salvatore Maroni (The Batman Saga)|Salvatore Maroni]]}} {{TV}} {{Cameo}}"
+  },
+  {
+   "title_id": "the-batman",
+   "universe": "dc",
+   "actor": null,
+   "character": "Joker",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/The_Batman_(Movie)?oldid=3984668",
+   "revid": 3984668,
+   "line": "* {{a|[[Joker (The Batman Saga)|Joker]]}} {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "batman-begins",
+   "universe": "dc",
+   "actor": null,
+   "character": "Victor Zsasz",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Batman_Begins_(Movie)?oldid=3978517",
+   "revid": 3978517,
+   "line": "*** {{a|[[Victor Zsasz (Dark Knight Trilogy)|Victor Zsasz]]}} {{Only}} {{Cameo}}"
+  },
+  {
+   "title_id": "joker-folie-a-deux",
+   "universe": "dc",
+   "actor": null,
+   "character": "Penny Fleck",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Joker:_Folie_%C3%A0_Deux?oldid=3932752",
+   "revid": 3932752,
+   "line": "* {{a|[[Penny Fleck (Joker Movie)|Penny Fleck]]}} {{Deceased}} {{Flashback}} {{Cameo}}"
+  },
+  {
+   "title_id": "joker-folie-a-deux",
+   "universe": "dc",
+   "actor": null,
+   "character": "Wall Street Three",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Joker:_Folie_%C3%A0_Deux?oldid=3932752",
+   "revid": 3932752,
+   "line": "* Wall Street Three {{Green|All die in flashback}} {{Cameo}}"
+  },
+  {
+   "title_id": "superman-1978",
+   "universe": "dc",
+   "actor": null,
+   "character": "Samuel Lane",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Superman_(1978_Movie)?oldid=3989153",
+   "revid": 3989153,
+   "line": "* {{a|[[Samuel Lane (Superman Anthology)|Samuel Lane]]}} {{Cameo}} {{Only}}"
+  },
+  {
+   "title_id": "superman-1978",
+   "universe": "dc",
+   "actor": null,
+   "character": "Ella Lane",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Superman_(1978_Movie)?oldid=3989153",
+   "revid": 3989153,
+   "line": "* {{a|[[Ella Lane (Superman Anthology)|Ella Lane]]}} {{Cameo}} {{Only}}"
+  },
+  {
+   "title_id": "aztec-batman-clash-of-empires",
+   "universe": "dc",
+   "actor": null,
+   "character": "Penguin",
+   "wiki": "DC Database",
+   "page_url": "https://dc.fandom.com/wiki/Aztec_Batman:_Clash_of_Empires?oldid=3880257",
+   "revid": 3880257,
+   "line": "* [[Penguin]] {{1stUnnamed}} {{Cameo}}"
+  },
+  {
+   "title_id": "kong-skull-island",
+   "universe": "godzilla-kong",
+   "actor": null,
+   "character": "Godzilla",
+   "wiki": "Gojipedia (godzilla.fandom.com)",
+   "page_url": "https://godzilla.fandom.com/wiki/Kong:_Skull_Island?oldid=634368",
+   "revid": 634368,
+   "line": "*[[Godzilla (MonsterVerse)|Godzilla]] <small>(cameo; as a cave painting and roar)</small>"
+  },
+  {
+   "title_id": "kong-skull-island",
+   "universe": "godzilla-kong",
+   "actor": null,
+   "character": "Mothra",
+   "wiki": "Gojipedia (godzilla.fandom.com)",
+   "page_url": "https://godzilla.fandom.com/wiki/Kong:_Skull_Island?oldid=634368",
+   "revid": 634368,
+   "line": "*[[Mothra (MonsterVerse)|Mothra]] <small>(cameo; as a cave painting)</small>"
+  },
+  {
+   "title_id": "kong-skull-island",
+   "universe": "godzilla-kong",
+   "actor": null,
+   "character": "Rodan",
+   "wiki": "Gojipedia (godzilla.fandom.com)",
+   "page_url": "https://godzilla.fandom.com/wiki/Kong:_Skull_Island?oldid=634368",
+   "revid": 634368,
+   "line": "*[[Rodan (MonsterVerse)|Rodan]] <small>(cameo; as a cave painting)</small>"
+  },
+  {
+   "title_id": "kong-skull-island",
+   "universe": "godzilla-kong",
+   "actor": null,
+   "character": "Ghidorah",
+   "wiki": "Gojipedia (godzilla.fandom.com)",
+   "page_url": "https://godzilla.fandom.com/wiki/Kong:_Skull_Island?oldid=634368",
+   "revid": 634368,
+   "line": "*[[King Ghidorah (MonsterVerse)|Ghidorah]] <small>(cameo; as a cave painting)</small>"
+  },
+  {
+   "title_id": "godzilla-vs-biollante",
+   "universe": "godzilla-kong",
+   "actor": null,
+   "character": "Oxygen Destroyer",
+   "wiki": "Gojipedia (godzilla.fandom.com)",
+   "page_url": "https://godzilla.fandom.com/wiki/Godzilla_vs._Biollante?oldid=609690",
+   "revid": 609690,
+   "line": "*[[Oxygen Destroyer]] (Cameo)"
+  }
+ ]
+}

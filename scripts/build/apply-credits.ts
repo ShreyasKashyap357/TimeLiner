@@ -17,8 +17,11 @@ for (const u of process.argv.slice(2).length ? process.argv.slice(2) : dirs) {
   let cache: { credits: TitleCredits[]; labels: Record<string, string> };
   try { cache = JSON.parse(await readFile(`data/sources/wikidata/credits-${u}.json`, 'utf8')); } catch { console.log(`${u}: no credits cache, skipped`); continue; }
   const byWiki = new Map(cache.credits.map((c) => [c.enwiki, c]));
-  let cameoArticles: Record<string, { sentences: { links: string[] }[] }> = {};
+  let cameoArticles: Record<string, { revid: number; sentences: { links: string[] }[] }> = {};
   try { cameoArticles = JSON.parse(await readFile(`data/sources/wikidata/cameos-${u}.json`, 'utf8')).articles; } catch { /* no cameo cache */ }
+  // Fan-wiki cameo markers ({{Cameo}} on Marvel Database / DC Database / Gojipedia), per title and character.
+  const fandom: { title_id: string; actor: string | null; character: string; page_url: string }[] = await readFile('data/sources/fandom/cameos.json', 'utf8')
+    .then((s) => JSON.parse(s).cameos as { title_id: string; actor: string | null; character: string; page_url: string }[]).catch(() => []);
   const norm = (s: string) => s.replace(/\s*\([^)]*\)\s*$/, '').trim().toLowerCase();
   const file = `data/${u}/titles.json`;
   const titles = TitlesFile.parse(JSON.parse(await readFile(file, 'utf8')));
@@ -35,9 +38,23 @@ for (const u of process.argv.slice(2).length ? process.argv.slice(2) : dirs) {
         seen.add(p.qid);
         const character = role === 'cast' ? (p.character_qids.map((q) => cache.labels[q]).filter(Boolean).join(' / ') || p.character_text || null) : null;
         const charNames = p.character_qids.map((q) => cache.labels[q]).filter((x): x is string => Boolean(x));
-        const cameo = role === 'cast' && ((p.role_qids ?? []).some((q) => /cameo/i.test(cache.labels[q] ?? '')) || cameoLinks.has(norm(name)) || charNames.some((n) => cameoLinks.has(norm(n))));
-        out.push({ role, name, qid: p.qid, character, character_qid: role === 'cast' ? p.character_qids[0] ?? null : null, cameo });
+        const viaWikipedia = role === 'cast' && (cameoLinks.has(norm(name)) || charNames.some((n) => cameoLinks.has(norm(n))));
+        const article = t.external_ids.enwiki ? cameoArticles[t.external_ids.enwiki] : undefined;
+        out.push({ role, name, qid: p.qid, character, character_qid: role === 'cast' ? p.character_qids[0] ?? null : null, cameo: viaWikipedia,
+          cameo_source: viaWikipedia && article ? `https://en.wikipedia.org/w/index.php?oldid=${article.revid}` : null });
         if (role !== 'cast' && seen.size >= CREW_LIMIT) break;
+      }
+    }
+    // Fan-wiki markers: flag the cast credit playing that character; a marked character with no cast entry is
+    // still listed (cameos count as characters), with no actor name.
+    const charKey = (s: string) => norm(s).replace(/^(director|agent|captain|general|dr\.?|mr\.?|mrs\.?) /, '');
+    for (const f of fandom.filter((x) => x.title_id === t.id)) {
+      const want = charKey(f.character);
+      const hit = out.find((o) => o.role === 'cast' && (o.character ?? '').split(' / ').some((ch) => { const k = charKey(ch); return k === want || k.includes(want) || want.includes(k); })
+        || (f.actor !== null && o.role === 'cast' && norm(o.name) === norm(f.actor)));
+      if (hit) { if (!hit.cameo) { hit.cameo = true; hit.cameo_source = f.page_url; } }
+      else if (!out.some((o) => o.cameo && o.character === f.character)) {
+        out.push({ role: 'cast', name: f.actor ?? '', qid: null, character: f.character, character_qid: null, cameo: true, cameo_source: f.page_url });
       }
     }
     if (c?.qid && !t.external_ids.wikidata) t.external_ids.wikidata = c.qid;

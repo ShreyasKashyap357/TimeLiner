@@ -199,6 +199,8 @@ export const Credit = z.object({
   character_qid: z.string().regex(/^Q\d+$/).nullable().default(null),
   /** Cast only: Wikidata marks the appearance as a cameo ("subject has role: cameo appearance"). */
   cameo: z.boolean().default(false),
+  /** Where the cameo flag comes from: a Wikipedia revision or a fan-wiki page revision (shown as a citation). */
+  cameo_source: url.nullable().default(null),
 });
 export const TitleLink = z.object({ to: slug, kind: LinkKind, note: z.string().default('') });
 

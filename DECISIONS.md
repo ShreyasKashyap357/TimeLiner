@@ -8,7 +8,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-35 | **Cameo sources.** Cameos come from the Wikipedia article text (sentences about a cameo, matched only to people already in the cast list). You asked for the fan wikis to be checked as well, with clear citations. | In progress: fan-wiki cameo markers are being collected; each cameo will show which source marked it. |
+| D-44 | **Fast & Furious: Spy Racers.** No source places it in the films' timeline. | Separate continuity. |
+| D-45 | **Bond continuation novels.** Only the period-set ones (Forever and a Day, Trigger Mortis, Colonel Sun, Devil May Care, Solo) sit in Fleming's timeline, as an adjacent tier. Of the Gardner/Benson and later novels, only Licence Renewed and Carte Blanche are in so far. | Add the rest of the continuation novels later from their articles. |
 | D-40 | **Riordan books: story order only, no calendar.** Riordan says there is "no specific year or timeline"; the Riordan Wiki's 2006–2011 years are fan-derived. | Story order (wiki Timeline); fan years shown in labels as "(fan-dated)", rated inferred. |
 | D-41 | **Riordan scope.** Left out: Demigods of Olympus (an interactive ebook with no timeline place), the graphic novels, the musical and the game. The Demigod Files / Diaries are one entry each, though their stories sit at different points. | As listed. Say if you want graphic novels or per-story entries. |
 | D-42 | **Middle-earth calendar: Tolkien's Ages.** A new calendar type shows "F.A./S.A./T.A./Fo.A. year". The Fourth Age starts after T.A. 3021. | Applied. Each production (books, Jackson films, Rings of Power, Rankin/Bass, Bakshi, Soviet and Finnish TV) is its own continuity. |
@@ -61,3 +62,4 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-41 | all | D-36, D-38, D-39 | Approved as proposed. |
 | R-42 | all | D-37 later seasons | A later season of an essential series is essential too, as a general rule (guides written before a season came out can't list it). This applies to House of the Dragon S3, Strange New Worlds S4 and Monarch S2. |
 | R-43 | DC | Continuity dropdown too long | Replaced with a searchable picker, grouped automatically (shared universes, animated, live-action films & series, collections), showing each continuity's title count and years. |
+| R-44 | all | D-35 cameo sources | Fan wikis checked. Only Marvel Database, DC Database and Gojipedia mark cameos explicitly; those markers are used along with Wikipedia, and each cameo cites its source (page revision). |

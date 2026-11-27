@@ -590,3 +590,38 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
 - **Not added (D-43).**
   - The BBC radio dramas (1955–56, 1968 *The Hobbit*, 1981). There is no radio medium yet. The 1968 date is also disputed: the article says 1968, but its body says "autumn of 1969".
   - Release dates still missing: US dates for *The Hobbit* ("early in 1938"), *The Silmarillion*, *Unfinished Tales* and *The Fall of Númenor*; *Unfinished Tales* has only a year.
+
+## James Bond and Fast & Furious
+
+Both are built with the generic pipeline from the 2026-11-27 research. Every title has its Wikipedia revid in that research.
+
+- **James Bond:** 49 titles and 56 units.
+  - **Continuities:**
+    - `bond-eon-classic`: 1962–2002. Wikipedia calls Casino Royale (2006) "the first Bond film not to be part of the franchise's original loose continuity". A "Bond actor" grouping (Connery to Brosnan) is filterable.
+    - `bond-eon-craig`: the reboot.
+    - Three single-title non-Eon productions: Climax! (1954), Casino Royale (1967) and Never Say Never Again.
+    - `bond-fleming`: the novels, with collections split into one unit per story. The period-set continuation novels sit in the adjacent tier.
+    - `bond-gardner-benson`: so far only Licence Renewed.
+    - `bond-deaver`: Carte Blanche.
+  - **Years:**
+    - Films: years come only from "Films set in …" categories, so they are inferred. The rest are relative and anchored between their neighbours in story order.
+    - Fleming books: "Fleming did not date the events". Years are from the Griswold and Chancellor chronologies as Wikipedia reports them. Where the two disagree, the year is marked disputed.
+  - **The Bond novel *Solo*** has the id `solo-novel`, because ids are shared across universes.
+- **Fast & Furious:** 15 titles and 20 units.
+  - **`ff-main`** holds the story order: The Fast and the Furious, Turbo-Charged Prelude, 2 Fast 2 Furious, Los Bandoleros, Fast & Furious, Fast Five, 6, Tokyo Drift ("set between Fast & Furious 6 (2013) and Furious 7 (2015)"), 7, Fate, Hobbs & Shaw, F9, Fast X, then Fast Forever (unreleased, 2028-03-17).
+  - **Years** come from the F&F wiki Timeline and categories, so they are inferred.
+  - **The first film is disputed:** it is 2001 by release, but the "five years after" statements imply about 2004.
+  - **Hobbs & Shaw vs F9:** both are "two years after" Fate, so release order decides between them.
+  - **Spy Racers** is separate (D-44): no source places it in the film timeline.
+
+## Cameos from fan wikis (D-35 answer)
+
+The research checked these wikis: Marvel Database, MCU Wiki, DC Database, DCEU Wiki, Wookieepedia, Memory Alpha, Gojipedia, GoT Wiki and WoT Wiki.
+
+- **Only three have an explicit cameo marker:** Marvel Database and DC Database (`{{Cameo}}` on Appearances entries) and Gojipedia (informal "(Cameo)").
+- **The others use "cameo" only in prose or trivia.** They mark *uncredited* roles instead, which is not the same thing. Their prose mentions are not used automatically (too many false hits: cameos in other works, cut or planned cameos).
+- **Kept:** `data/sources/fandom/cameos.json` holds 183 explicit markers, each pinned to the page revision. Organisations and speculative entries are dropped.
+- **Matching:** `apply-credits` flags the cast credit playing the marked character. A marked character with no cast entry is still listed as a cameo, "actor not listed" (cameos count as characters).
+- **Citations:** every cameo shows its source as a link. `[Wikipedia]` points to the article revision; `[marvel fan wiki]` and the like point to the fan-wiki page revision.
+- **Totals on 2026-11-27:** 324 cameos, 241 via Wikipedia and 83 via fan wikis.
+- **Not covered:** TV cameos are recorded on episode pages, which were not fetched.

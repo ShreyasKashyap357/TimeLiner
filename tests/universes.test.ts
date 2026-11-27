@@ -203,3 +203,18 @@ describe('Middle-earth', () => {
     expect(ds.titles.find((t) => t.id === 'lotr-the-fellowship-of-the-ring')!.continuity).not.toBe(ds.titles.find((t) => t.id === 'the-fellowship-of-the-ring')!.continuity);
   });
 });
+
+describe('James Bond, Fast & Furious, cameo sources', () => {
+  it('Tokyo Drift sits between 6 and 7; Craig films are a separate continuity', () => {
+    const order = spine(scoped('fast-furious', 'ff-main'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(order.indexOf('fast-and-furious-6')).toBeLessThan(order.indexOf('tokyo-drift'));
+    expect(order.indexOf('tokyo-drift')).toBeLessThan(order.indexOf('furious-7'));
+    expect(ds.titles.find((t) => t.id === 'casino-royale-2006')!.continuity).toBe('bond-eon-craig');
+    expect(ds.titles.find((t) => t.id === 'dr-no')!.continuity).toBe('bond-eon-classic');
+  });
+  it('every cameo cites a source', () => {
+    const cameos = ds.titles.flatMap((t) => t.credits.filter((c) => c.cameo));
+    expect(cameos.length).toBeGreaterThan(100);
+    for (const c of cameos) expect(c.cameo_source).toMatch(/^https:\/\/(en\.wikipedia\.org|[a-z]+\.fandom\.com)\//);
+  });
+});

@@ -58,10 +58,16 @@ async function audit(page: Page) {
   });
 }
 
+const UNIVERSES: string[] = [
+  'marvel', 'asoiaf', 'star-wars',
+  ...(JSON.parse(readFileSync('data/universes.json', 'utf8')) as { id: string; enabled: boolean }[]).filter((u) => u.enabled).map((u) => u.id).filter((id) => !['marvel', 'asoiaf', 'star-wars'].includes(id)),
+];
+
 for (const vp of VIEWPORTS) {
   test.describe(`layout @ ${vp.name}`, () => {
     test.use({ viewport: { width: vp.width, height: vp.height } });
-    for (const u of ['marvel', 'asoiaf', 'star-wars']) {
+    // Every enabled universe; the first three at all four sizes, the rest at the two extremes.
+    for (const u of UNIVERSES.filter((x, i) => i < 3 || vp.name === 'phone' || vp.name === 'ultrawide')) {
       test(`${u}: every view fits, nothing clipped, nothing leaked`, async ({ page }) => {
         test.setTimeout(180_000);
         test.skip(test.info().project.name !== 'desktop', 'viewport set explicitly; run once');

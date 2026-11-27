@@ -8,7 +8,9 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| – | No open questions right now. | – |
+| D-49 | **Which games to include.** Story-relevant games only: canon or narrative games tied to a continuity (e.g. Insomniac's Spider-Man, the Arkham series, Jedi: Fallen Order, Shadow of Mordor), plus whole game-first franchises (GTA, Assassin's Creed, Halo, Fallout, The Last of Us, The Witcher). | Sports, party and minor licensed games left out (listed in DATA_NOTES). LEGO's licensed games go in their target universe's LEGO collection. |
+| D-50 | **One release date and platform per game.** Games often launch on several platforms on different days. | Earliest worldwide (or North American) release; the other platforms named in the note. |
+| D-51 | **Huge adaptation franchises** (Sherlock Holmes, Dracula, with hundreds of adaptations). | Original works plus the most notable adaptations (each its own continuity); not every adaptation. |
 
 ## Resolved
 
@@ -63,3 +65,4 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-47 | 9 | D-42 Ages calendar | Approved. The Age convention must be stated wherever it matters (the Key already does this; also add it to Middle-earth tooltips and notes). |
 | R-48 | all | D-43 media | **Add radio, live / theatre and other needed media** (stage musicals and plays, audio dramas, podcasts if relevant). *Deferred until the user says go.* |
 | R-49 | all | D-44–D-48 | Approved as proposed (Spy Racers separate; Bond continuation novels later; inferred DC groupings; DC imprints included; disputed DC placements adjacent and linked). |
+| R-50 | all | Games, LEGO, more franchises | User: add the suggested franchises, games (incl. GTA), and LEGO films. Games are now a medium ("played"). |

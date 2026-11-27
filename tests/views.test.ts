@@ -183,5 +183,7 @@ describe('media (R-48)', () => {
     expect(doneVerb('stage-play')).toBe('seen');
     expect(releaseWord('musical')).toBe('First performance');
     expect(releaseWord('novel')).toBe('Published');
+    expect(mediumOf('video-game')).toBe('game');
+    expect(doneVerb('video-game')).toBe('played');
   });
 });

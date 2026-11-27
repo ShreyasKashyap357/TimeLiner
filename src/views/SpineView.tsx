@@ -28,6 +28,12 @@ export function SpineView({ rows }: { rows: Row[] }) {
   };
   const res = spine(rows, state.sort, { altOrder, watched: watched.set, alt: { headings: alt?.kind === 'recommended' ? 'release' : 'in-universe', optional, essentialsOnly: state.ess } });
   const calendarless = cont?.calendar.kind === 'ordered-only';
+  // Ages calendars (e.g. Tolkien): explain an "T.A. 2941"-style heading on hover (R-47).
+  const ageHint = (label: string) => {
+    if (cont?.calendar.kind !== 'ages') return null;
+    const age = cont.calendar.ages.find((a) => label.startsWith(`${a.label} `));
+    return age ? `${age.name} (${age.label}): years are counted from the start of each Age${age.length ? `, which lasted ${age.length} years` : ''}.` : null;
+  };
   if (!rows.length) return <Empty />;
   return (
     <div className="space-y-8">
@@ -41,7 +47,9 @@ export function SpineView({ rows }: { rows: Row[] }) {
         {res.sections.map((s) => (
           <li key={s.id} className="relative mb-4">
             <span aria-hidden className="absolute -left-[33px] top-1 size-4 rounded-full border-2 bg-background" style={{ borderColor: 'var(--u-secondary)' }} />
-            {s.label && <h3 className="font-heading text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{s.label}</h3>}
+            {s.label && (ageHint(s.label)
+              ? <Tip content={ageHint(s.label)!}><h3 className="font-heading w-fit cursor-help text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{s.label}</h3></Tip>
+              : <h3 className="font-heading text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{s.label}</h3>)}
             <ul className="mt-1 space-y-0.5">
               {s.rows.map((r) => <SpineEntry key={r.key} row={r} position={altPosition(state.sort === 'alt' ? altOrder : undefined, r.key)} optional={optional.has(r.key)} support={support(r.key)} />)}
             </ul>

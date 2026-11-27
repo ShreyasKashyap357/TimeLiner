@@ -72,7 +72,14 @@
 - [x] D-29 cast & crew from Wikidata (top-billed cast, crew, authors) in the detail panel, search, and a Cast & crew filter
 - [x] UI batch: pickers (width, full list, colour swatches, layering), phone layout, [year] titles, URL defaults
 
-## Deferred by the user (2026-11-27): do not start until asked
+## Queue (user go-ahead 2026-11-27): work through in waves, decisions batched
+- [x] Media: audio, stage, games (types, wording, quick filters)
+- [ ] Wave 1 (researching): Wizarding World; radio/stage + Riordan extras; watch orders (Arrowverse, Riordan, Middle-earth, Bond, F&F, WoT); Terminator + Halloween; games for existing universes; GTA / Assassin's Creed / Halo / Fallout / The Last of Us / The Witcher; LEGO; Doctor Who; Gundam
+- [ ] Wave 2: The Walking Dead, Yellowstone (Sheridan), Stargate, Battlestar Galactica, Breaking Bad/BCS, Law & Order / NCIS / CSI / One Chicago, Twin Peaks, Dune, Narnia, Hunger Games, Shadowhunters, The Expanse, Outlander, The Dark Tower, Discworld, Cosmere
+- [ ] Wave 3: Sherlock Holmes (D-51), Jack Ryan, Bourne, Mission: Impossible, Dragon Ball, Naruto/Boruto, One Piece, Pokémon, Ultraman, Kamen Rider, Super Sentai / Power Rangers, Avatar: The Last Airbender, Transformers, TMNT
+- [ ] Wave 4: Indian (YRF Spy, LCU, Maddock, Cop Universe, Baahubali, KGF/Salaar, Dhoom, Krrish, Golmaal, Bhool Bhulaiyaa, Housefull, Drishyam), Jin Yong's Condor Trilogy; Hollywood batch; other superhero; horror batch
+
+## Previously deferred (now unpaused)
 - [ ] New media types: radio / audio drama, live theatre (stage plays, musicals), and others needed (R-48). Then add:
   BBC LOTR radio (1955, 1981), The Hobbit radio (1968), The Lightning Thief musical, Harry Potter and the Cursed Child, etc.
 - [ ] Riordan "include all" (R-46): Demigods of Olympus, graphic novels, companions, musical, per-story Demigod Files/Diaries.

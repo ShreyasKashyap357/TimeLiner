@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
-import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight, BookOpen, Radio, Theater } from 'lucide-react';
+import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight, BookOpen, Radio, Theater, Gamepad2 } from 'lucide-react';
 import { formatRelease } from '@/domain/dates';
 
 const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: string }>; tip: string }[] = [
@@ -19,8 +19,9 @@ const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: 
   { v: 'books', label: 'Books', icon: BookOpen, tip: 'Novels, novellas, comics and other print' },
   { v: 'audio', label: 'Audio', icon: Radio, tip: 'Radio dramas, audio dramas and podcasts' },
   { v: 'stage', label: 'Stage', icon: Theater, tip: 'Plays, musicals and live shows' },
+  { v: 'games', label: 'Games', icon: Gamepad2, tip: 'Video games and expansions' },
 ];
-const QUICK_MEDIUM: Partial<Record<Quick, Row['medium']>> = { books: 'print', audio: 'audio', stage: 'stage' };
+const QUICK_MEDIUM: Partial<Record<Quick, Row['medium']>> = { books: 'print', audio: 'audio', stage: 'stage', games: 'game' };
 
 export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
   sortOptions: { id: SortId; label: string; alt?: string }[];

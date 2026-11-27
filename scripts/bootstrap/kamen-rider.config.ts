@@ -1,0 +1,1053 @@
+// Kamen Rider: 'Each Kamen Rider series takes place in a standalone continuity' except where Wikipedia links them.
+// Generated from research (research-w3-e.json) on 2026-11-27 by the generic generator.
+import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
+
+export const UNIVERSE: Universe = {
+  id: 'kamen-rider', name: "Kamen Rider", short_name: "Kamen Rider", order: 44, enabled: true,
+  accent: { primary: '#2E8B57', secondary: '#C62828' }, default_continuity: 'kr-showa', data_dir: 'kamen-rider', last_verified: null,
+  description: "Every Kamen Rider TV series (Showa as one continuity; Heisei and Reiwa series mostly standalone), Shin Kamen Rider, Dragon Knight and Masked Rider.", grouping_schemes: [],
+};
+export const CONTINUITIES: Continuity[] = [
+ {
+  "id": "kr-showa",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider: Showa continuity",
+  "short_name": "Kamen Rider: Showa continuity",
+  "order": 1,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The Showa-era series (1971–1989) share one continuity: recurring mentor and team-ups, the 1979 series declares all previous shows canonical, and Black RX brings back the ten previous Riders. Wikipedia: \"The series from April 1971 to January 1976 (Kamen Rider, V3, X, Amazon, Stronger) included a recurring mentor, Tobei Tachibana, and also featured regular team-ups with each protagonist, with the exception of Amazon, with Hirayama stating \"I was planning to save it until the next development, so I thought it was not necessary for a while, but the cancellation was decided.\" After a four-year hiatus \"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846",
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider_%281979_TV_series%29&oldid=1388129911"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-kuuga-agito",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Kuuga and Agito",
+  "short_name": "Kamen Rider Kuuga and Agito",
+  "order": 2,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Agito is an indirect sequel to Kuuga set in the same universe. Wikipedia: \"The series served as an indirect sequel to Kamen Rider Kuuga, which this show is meant to be set in the same universe as the previous show, and the first Kamen Rider series to not have an ending sequence. … Following Kuuga’s 2001 sequel Kamen Rider Agito, the series deviated into a series of unconnected stories starting from Kamen Rider Ryuki in 2002 to Kamen Rider Kabuto in 2006.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider_Agito&oldid=1386634823",
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-ryuki",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Ryuki",
+  "short_name": "Kamen Rider Ryuki",
+  "order": 3,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-555",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider 555",
+  "short_name": "Kamen Rider 555",
+  "order": 4,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-blade",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Blade",
+  "short_name": "Kamen Rider Blade",
+  "order": 5,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-hibiki",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Hibiki",
+  "short_name": "Kamen Rider Hibiki",
+  "order": 6,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-kabuto",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Kabuto",
+  "short_name": "Kamen Rider Kabuto",
+  "order": 7,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-deno",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Den-O",
+  "short_name": "Kamen Rider Den-O",
+  "order": 8,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-kiva",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Kiva",
+  "short_name": "Kamen Rider Kiva",
+  "order": 9,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-decade",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Decade",
+  "short_name": "Kamen Rider Decade",
+  "order": 10,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Decade travels through alternate \"AR\" worlds of the earlier Heisei Riders; the franchise article lists it as an exception to the standalone rule. Kept as its own continuity (its worlds are alternate versions, not the original series). Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-w",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider W",
+  "short_name": "Kamen Rider W",
+  "order": 11,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-ooo",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider OOO",
+  "short_name": "Kamen Rider OOO",
+  "order": 12,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-fourze",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Fourze",
+  "short_name": "Kamen Rider Fourze",
+  "order": 13,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-wizard",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Wizard",
+  "short_name": "Kamen Rider Wizard",
+  "order": 14,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-gaim",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Gaim",
+  "short_name": "Kamen Rider Gaim",
+  "order": 15,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-drive",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Drive",
+  "short_name": "Kamen Rider Drive",
+  "order": 16,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-ghost",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Ghost",
+  "short_name": "Kamen Rider Ghost",
+  "order": 17,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-exaid",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Ex-Aid",
+  "short_name": "Kamen Rider Ex-Aid",
+  "order": 18,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-build",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Build",
+  "short_name": "Kamen Rider Build",
+  "order": 19,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The franchise article lists Build among the exceptions to the standalone-continuity rule but does not say which continuity it shares; kept as its own continuity (unresolved). Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-zio",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Zi-O",
+  "short_name": "Kamen Rider Zi-O",
+  "order": 20,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Anniversary series in which Decade and Diend recur; the franchise article lists it as an exception to the standalone rule. Kept as its own continuity (no stated merge with any one series). Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-zeroone",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Zero-One",
+  "short_name": "Kamen Rider Zero-One",
+  "order": 21,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-saber",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Saber",
+  "short_name": "Kamen Rider Saber",
+  "order": 22,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-revice",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Revice",
+  "short_name": "Kamen Rider Revice",
+  "order": 23,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-geats",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Geats",
+  "short_name": "Kamen Rider Geats",
+  "order": 24,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-gotchard",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Gotchard",
+  "short_name": "Kamen Rider Gotchard",
+  "order": 25,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The franchise article lists Gotchard among the exceptions to the standalone-continuity rule but does not say which continuity it shares; kept as its own continuity (unresolved). Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-gavv",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider Gavv",
+  "short_name": "Kamen Rider Gavv",
+  "order": 26,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-zeztz",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider ZEZTZ",
+  "short_name": "Kamen Rider ZEZTZ",
+  "order": 27,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Standalone continuity per the franchise article. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-my-th",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider MY-TH",
+  "short_name": "Kamen Rider MY-TH",
+  "order": 28,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Assumed standalone (franchise rule); no Wikipedia article yet. Wikipedia: \"Each Kamen Rider series takes place in a standalone continuity within the same universe, the exceptions to this rule being Kamen Rider Decade, Kamen Rider Build, Kamen Rider Zi-O and Kamen Rider Gotchard, with each often crossing over to fight against a common foe in their summer-billed movies taken place somewhere before/after the events of their respective series primarily through the yearly Kam\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-shin",
+  "universe": "kamen-rider",
+  "name": "Shin Kamen Rider",
+  "short_name": "Shin Kamen Rider",
+  "order": 29,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "A reimagining of the 1971 series; its own continuity. Wikipedia: \"In commemoration of the 50th anniversary of the Kamen Rider series, Neon Genesis Evangelion director Hideaki Anno was announced as the writer and director of Shin Kamen Rider, a reimagining of the original 1971 series.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider&oldid=1382172846"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-dragon-knight",
+  "universe": "kamen-rider",
+  "name": "Kamen Rider: Dragon Knight (US)",
+  "short_name": "Kamen Rider: Dragon Knight",
+  "order": 30,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "American adaptation of Ryuki; its own continuity. Wikipedia: \"It is an adaptation of the Japanese tokusatsu series Kamen Rider Ryuki and is the second American adaptation of the Kamen Rider franchise after Saban's Masked Rider (1995).\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Kamen_Rider%3A_Dragon_Knight&oldid=1387227067"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "kr-masked-rider",
+  "universe": "kamen-rider",
+  "name": "Masked Rider (Saban, US)",
+  "short_name": "Masked Rider",
+  "order": 31,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Saban adaptation of Black RX; its continuity with Power Rangers is described as unclear, so it stands alone. Wikipedia: \"It is an American adaptation of the 1988 Japanese television series Kamen Rider Black RX. … (Although the continuity between Masked Rider and Power Rangers is unclear based on the differences in the origin story Dex tells the rangers compared to what is shown in Masked Rider)\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Masked_Rider_%28TV_series%29&oldid=1377110576"
+  ],
+  "notes": ""
+ }
+];
+export const STUDIOS: Studio[] = [
+ {
+  "id": "toei-company",
+  "label": "Toei Company",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "ishimori-productions",
+  "label": "Ishimori Productions",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "mainichi-broadcasting-system",
+  "label": "Mainichi Broadcasting System",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "tv-asahi",
+  "label": "TV Asahi",
+  "kind": "studio",
+  "short_label": "TV Asahi",
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "adness-entertainment",
+  "label": "Adness Entertainment",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "saban-entertainment",
+  "label": "Saban Entertainment",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ }
+];
+export const PLATFORMS: Platform[] = [
+ {
+  "id": "ann",
+  "label": "ANN (TV Asahi network)",
+  "kind": "broadcast",
+  "note": ""
+ },
+ {
+  "id": "jnn",
+  "label": "JNN (TBS network)",
+  "kind": "broadcast",
+  "note": ""
+ }
+];
+export const TAGS: Tag[] = [];
+export const FANDOM_PREFIXES = {};
+export const SORT_BY_YEAR = ["kr-showa","kr-kuuga-agito","kr-ryuki","kr-555","kr-blade","kr-hibiki","kr-kabuto","kr-deno","kr-kiva","kr-decade","kr-w","kr-ooo","kr-fourze","kr-wizard","kr-gaim","kr-drive","kr-ghost","kr-exaid","kr-build","kr-zio","kr-zeroone","kr-saber","kr-revice","kr-geats","kr-gotchard","kr-gavv","kr-zeztz","kr-my-th","kr-shin","kr-dragon-knight","kr-masked-rider"];

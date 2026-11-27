@@ -886,5 +886,47 @@
     "label": "Several game platforms at once",
     "kind": "game-platform",
     "note": ""
+  },
+  {
+    "id": "jnn",
+    "label": "JNN (TBS network)",
+    "kind": "broadcast",
+    "note": ""
+  },
+  {
+    "id": "cbc",
+    "label": "CBC (Chubu-Nippon Broadcasting)",
+    "kind": "broadcast",
+    "note": ""
+  },
+  {
+    "id": "txn",
+    "label": "TX Network (TV Tokyo)",
+    "kind": "broadcast",
+    "note": ""
+  },
+  {
+    "id": "ann",
+    "label": "ANN (TV Asahi network)",
+    "kind": "broadcast",
+    "note": ""
+  },
+  {
+    "id": "abc-family",
+    "label": "ABC Family",
+    "kind": "cable",
+    "note": ""
+  },
+  {
+    "id": "toon-disney",
+    "label": "Toon Disney",
+    "kind": "cable",
+    "note": ""
+  },
+  {
+    "id": "print-magazine-serial",
+    "label": "Print: serialised in a magazine",
+    "kind": "serialized",
+    "note": ""
   }
 ]

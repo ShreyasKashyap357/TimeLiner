@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "ultra-q",
+    "title": "Ultra Q",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultra Q",
+      "wikidata": "Q2699578",
+      "tmdb": "4766",
+      "imdb": "tt0058851"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultra_Q",
+      "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+    ],
+    "notes": "Ultra Q infobox gives last_aired 1966-07-03 but the lead says the 28th and final episode aired on December 14, 1967 (probably a delayed broadcast of an unaired episode); release_end uses the infobox.",
+    "units": [
+      {
+        "id": "ultra-q",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 28,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Ultraman",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Prior to the series' release, Ultra Q, Ultraman, and Ultraseven were stand-alone titles however, Return of Ultraman is the first installment to unite the first three shows into an interconnected universe.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "ultraman-mebius",
+            "before": "ultraman-ace"
+          }
+        },
+        "release": {
+          "date": "1966-01-02",
+          "end_date": "1966-07-03",
+          "year": 1966,
+          "note": "Wikipedia: | first_aired          = {{start date|1966|1|2}} … | last_aired           = {{end date|1966|7|3}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultra_Q",
+          "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-1966",
+    "title": "Ultraman",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman (1966 TV series)",
+      "wikidata": "Q1058534",
+      "tmdb": "3425",
+      "imdb": "tt0060038"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_(1966_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-1966",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 39,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1966
+          },
+          "end": {
+            "y": 1966
+          },
+          "label": "1966",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "This series is a follow-up to the original Ultraman and Ultraseven that is set in 1971, four years after Ultraseven left Earth, and five years after Ultraman came to Earth.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1966-07-17",
+          "end_date": "1967-04-09",
+          "year": 1966,
+          "note": "Wikipedia: | first_aired          = {{start date|1966|7|17}} … | last_aired           = {{end date|1967|4|9}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_(1966_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraseven",
+    "title": "Ultraseven",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraseven",
+      "wikidata": "Q2531879",
+      "tmdb": "77396",
+      "imdb": "tt0184169"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraseven",
+      "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraseven",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 49,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1967
+          },
+          "end": {
+            "y": 1967
+          },
+          "label": "ends 1967",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "This series is a follow-up to the original Ultraman and Ultraseven that is set in 1971, four years after Ultraseven left Earth, and five years after Ultraman came to Earth.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1967-10-01",
+          "end_date": "1968-09-08",
+          "year": 1967,
+          "note": "Wikipedia: | first_aired  = {{start date|1967|10|1}} … | last_aired   = {{end date|1968|9|8}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraseven",
+          "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "return-of-ultraman",
+    "title": "Return of Ultraman",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Return of Ultraman",
+      "wikidata": "Q592745",
+      "tmdb": "4580",
+      "imdb": "tt0184152"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Return_of_Ultraman",
+      "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+    ],
+    "notes": "Also known as Ultraman Jack.",
+    "units": [
+      {
+        "id": "return-of-ultraman",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 51,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1971
+          },
+          "end": {
+            "y": 1971
+          },
+          "label": "1971",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "This series is a follow-up to the original Ultraman and Ultraseven that is set in 1971, four years after Ultraseven left Earth, and five years after Ultraman came to Earth.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1971-04-02",
+          "end_date": "1972-03-31",
+          "year": 1971,
+          "note": "Wikipedia: | first_aired = {{start date|1971|4|2}} … | last_aired = {{end date|1972|3|31}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Return_of_Ultraman",
+          "https://en.wikipedia.org/w/index.php?title=Return_of_Ultraman&oldid=1373718198"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-ace",
+    "title": "Ultraman Ace",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Ace",
+      "wikidata": "Q582851",
+      "tmdb": "1279",
+      "imdb": "tt1144410"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Ace",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Ace&oldid=1369171116"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-ace",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Return of Ultraman",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "All previous Ultramen (Ultraman, Ultraseven, Ultraman Jack, and Zoffy) make regular appearances in this series, whereas they only made guest appearances in the previous show Return of Ultraman.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "ultra-q",
+            "before": "ultraman-taro"
+          }
+        },
+        "release": {
+          "date": "1972-04-07",
+          "end_date": "1973-03-30",
+          "year": 1972,
+          "note": "Wikipedia: | first_aired          = {{start date|1972|4|7}} … | last_aired           = {{end date|1973|3|30}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Ace",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Ace&oldid=1369171116"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-taro",
+    "title": "Ultraman Taro",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Taro",
+      "wikidata": "Q2706450",
+      "tmdb": "3856",
+      "imdb": "tt1144411"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Taro",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Taro&oldid=1369171134"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-taro",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 53,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Ultraman Ace",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The Ultraman Story movie in 1984 would retcon this into providing a story of Taro being raised on the Land of Light, with Mother and Father of Ultra being his biological parents and his training was shown before he left for Earth.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "ultraman-ace",
+            "before": "ultraman-leo"
+          }
+        },
+        "release": {
+          "date": "1973-04-06",
+          "end_date": "1974-04-05",
+          "year": 1973,
+          "note": "Wikipedia: | first_aired          = {{start date|1973|4|6}} … | last_aired           = {{end date|1974|4|5}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Taro",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Taro&oldid=1369171134"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-leo",
+    "title": "Ultraman Leo",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Leo",
+      "wikidata": "Q2704139",
+      "tmdb": "5157",
+      "imdb": "tt1137351"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Leo",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Leo&oldid=1369171128"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-leo",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 51,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Ultraman Taro",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "In episode 34, Dan asks Ultraman Jack to take the Ultra Eye back to M78 to be restored while he heals on Earth.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "ultraman-taro",
+            "before": "ultraman-80"
+          }
+        },
+        "release": {
+          "date": "1974-04-12",
+          "end_date": "1975-03-28",
+          "year": 1974,
+          "note": "Wikipedia: | first_aired          = {{start date|1974|4|12}} … | last_aired           = {{end date|1975|3|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Leo",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Leo&oldid=1369171128"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-80",
+    "title": "Ultraman 80",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman 80",
+      "wikidata": "Q307646",
+      "tmdb": "1157",
+      "imdb": "tt0184166"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_80",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_80&oldid=1385321309"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-80",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 50,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "five years after Ultraman Leo",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Following the end of the 1979-80 anime The Ultraman, Ultraman 80 returns to the setting of the main Showa continuity, taking place after 5 years of peace since the end of Ultraman Leo.",
+          "order_index": 90,
+          "relative_to": {
+            "after": "ultraman-leo",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "1980-04-02",
+          "end_date": "1981-03-25",
+          "year": 1980,
+          "note": "Wikipedia: | first_aired = {{start date|1980|4|2}} … | last_aired = {{end date|1981|3|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_80",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_80&oldid=1385321309"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-mebius",
+    "title": "Ultraman Mebius",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-showa",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Mebius",
+      "wikidata": "Q3270546",
+      "tmdb": "5646",
+      "imdb": "tt1205892"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Mebius",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Mebius&oldid=1376335202"
+    ],
+    "notes": "Mebius infobox last_aired 2007-03-31.",
+    "units": [
+      {
+        "id": "ultraman-mebius",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 50,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2006
+          },
+          "end": {
+            "y": 2006
+          },
+          "label": "c. 2006 (40 years after Ultraman)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The series is set 40 years after the shows of Ultraman (1966), and makes many references from Ultra Q (1966) through to Ultraman 80 (1980).",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-04-08",
+          "end_date": "2007-03-31",
+          "year": 2006,
+          "note": "Wikipedia: | first_aired  = {{start date|2006|4|8}} … | last_aired   = {{end date|2007|3|31}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Mebius",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Mebius&oldid=1376335202"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-tiga",
+    "title": "Ultraman Tiga",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-tiga-dyna",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Tiga",
+      "wikidata": "Q2531930",
+      "tmdb": "2253",
+      "imdb": "tt0182647"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Tiga",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Tiga&oldid=1381486668"
+    ],
+    "notes": "The US 4Kids dub moves the setting to 2049; the original Japanese setting is used.",
+    "units": [
+      {
+        "id": "ultraman-tiga",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2007
+          },
+          "end": {
+            "y": 2010
+          },
+          "label": "2007–2010",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Set in an alternate universe from the year 2007 until 2010 (2049 in the U.S.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-09-07",
+          "end_date": "1997-08-30",
+          "year": 1996,
+          "note": "Wikipedia: | first_aired          = {{start date|1996|9|7}} … | last_aired           = {{end date|1997|8|30}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Tiga",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Tiga&oldid=1381486668"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-dyna",
+    "title": "Ultraman Dyna",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-tiga-dyna",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Dyna",
+      "wikidata": "Q3276340",
+      "tmdb": "3459",
+      "imdb": "tt0184167"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Dyna",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Dyna&oldid=1375414475"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-dyna",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 51,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2017
+          },
+          "end": {
+            "y": 2017
+          },
+          "label": "2017",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In the year 2017 (seven years after the final episode of Ultraman Tiga), TPC has advanced beyond earth, and has created a new team, \"Super GUTS\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-09-05",
+          "end_date": "1998-08-28",
+          "year": 1997,
+          "note": "Wikipedia: | first_aired          = {{start date|1997|9|5}} … | last_aired           = {{end date|1998|8|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Dyna",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Dyna&oldid=1375414475"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraman-tiga",
+        "kind": "continues",
+        "note": "direct sequel, seven years after Tiga"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-gaia",
+    "title": "Ultraman Gaia",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-gaia",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Gaia",
+      "wikidata": "Q3275734",
+      "tmdb": "4426",
+      "imdb": "tt0184168"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Gaia",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Gaia&oldid=1377844737"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-gaia",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 51,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2000
+          },
+          "end": {
+            "y": 2000
+          },
+          "label": "2000",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The story takes place in the year 2000.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-09-05",
+          "end_date": "1999-08-28",
+          "year": 1998,
+          "note": "Wikipedia: | first_aired          = {{start date|1998|9|5}} … | last_aired           = {{end date|1999|8|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Gaia",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Gaia&oldid=1377844737"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-neos",
+    "title": "Ultraman Neos",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-neos",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Neos",
+      "wikidata": "Q3471871",
+      "tmdb": "6242",
+      "imdb": "tt1985904"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Neos",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Neos&oldid=1374297767"
+    ],
+    "notes": "Direct-to-video series (12 episodes); infobox network field absent.",
+    "units": [
+      {
+        "id": "ultraman-neos",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "In spite of the appearance of similar designs and a cameo by Zoffy, the series is set in an alternate universe.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-11-22",
+          "end_date": "2001-05-05",
+          "year": 2000,
+          "note": "Wikipedia: | first_aired  = {{start date|2000|11|22}} … | last_aired   = {{end date|2001|5|5}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Neos",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Neos&oldid=1374297767"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-cosmos",
+    "title": "Ultraman Cosmos",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-cosmos",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Cosmos",
+      "wikidata": "Q3269226",
+      "tmdb": "2434",
+      "imdb": "tt1934108"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Cosmos",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Cosmos&oldid=1381690820"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-cosmos",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 65,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Ultraman Cosmos is a Japanese tokusatsu TV series being the twelfth entry (seventeenth overall) show in the Ultra Series.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-07-07",
+          "end_date": "2002-09-28",
+          "year": 2001,
+          "note": "Wikipedia: | first_aired          = {{Start date|2001|07|07}} … | last_aired           = {{End date|2002|09|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Cosmos",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Cosmos&oldid=1381690820"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-nexus",
+    "title": "Ultraman Nexus",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-nexus",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Nexus",
+      "wikidata": "Q2735562",
+      "tmdb": "1281",
+      "imdb": "tt0493100"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Nexus",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Nexus&oldid=1386634929"
+    ],
+    "notes": "37 broadcast episodes plus a DVD-only Episode EX.",
+    "units": [
+      {
+        "id": "ultraman-nexus",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 37,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2008
+          },
+          "end": {
+            "y": 2009
+          },
+          "label": "2008–2009",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Taking place four years after the events of Ultraman: The Next (2008, the series progresses into 2009 before the finale), Nexus focuses on the viewpoint of Night Raider rookie Kazuki Komon in the fight against Space Beast threats.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-10-02",
+          "end_date": "2005-06-25",
+          "year": 2004,
+          "note": "Wikipedia: | first_aired  = {{start date|2004|10|2}} … | last_aired   = {{end date|2005|6|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Nexus",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Nexus&oldid=1386634929"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-max",
+    "title": "Ultraman Max",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-max",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "jnn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Max",
+      "wikidata": "Q3046042",
+      "tmdb": "3155",
+      "imdb": "tt0493197"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Max",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Max&oldid=1374303476"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-max",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 39,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Released as the fourteenth entry (twentieth overall) in the Ultra Series, it aired from July 2, 2005, until April 1, 2006.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-07-02",
+          "end_date": "2006-04-01",
+          "year": 2005,
+          "note": "Wikipedia: | first_aired  = {{start date|2005|7|2}} … | last_aired   = {{end date|2006|4|1}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Max",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Max&oldid=1374303476"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraseven-x",
+    "title": "Ultraseven X",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-seven-x",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "cbc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraseven X",
+      "wikidata": "Q3232083",
+      "tmdb": "6680",
+      "imdb": "tt1081848"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraseven_X",
+      "https://en.wikipedia.org/w/index.php?title=Ultraseven_X&oldid=1374305378"
+    ],
+    "notes": "Infobox last_aired 2007-12-21.",
+    "units": [
+      {
+        "id": "ultraseven-x",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is a revival of the 1967 series Ultraseven, and is the second in Tsuburaya Productions' Ultra hero series to be exclusively for an adult audience after Ultraman Nexus and the first to be in a wide screen high-definition format.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-10-05",
+          "end_date": "2007-12-21",
+          "year": 2007,
+          "note": "Wikipedia: | first_aired          = {{start date|2007|10|5}} … | last_aired           = {{end date|2007|12|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraseven_X",
+          "https://en.wikipedia.org/w/index.php?title=Ultraseven_X&oldid=1374305378"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraseven",
+        "kind": "adapts",
+        "note": "revival of the 1967 series"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-ginga",
+    "title": "Ultraman Ginga",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-ginga",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Ginga",
+      "wikidata": "Q10926775",
+      "tmdb": "68693",
+      "imdb": "tt2847220"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Ginga",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Ginga_S&oldid=1374313907"
+    ],
+    "notes": "11 episodes plus 1 extra episode.",
+    "units": [
+      {
+        "id": "ultraman-ginga",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 11,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Ginga S",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "{{nihongo4|Ultraman Ginga S|ウルトラマンギンガS|Urutoraman Ginga Esu}} is a Japanese television series produced by Tsuburaya Productions and a sequel to Ultraman Ginga, as well as part of the New Ultraman Retsuden programming block on TV Tokyo.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-07-10",
+          "end_date": "2013-12-18",
+          "year": 2013,
+          "note": "Wikipedia: | first_aired  = {{start date|2013|7|10}} … | last_aired   = {{end date|2013|12|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Ginga",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Ginga_S&oldid=1374313907"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-ginga-s",
+    "title": "Ultraman Ginga S",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-ginga",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Ginga S",
+      "wikidata": "Q17213674",
+      "tmdb": "137788",
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Ginga_S",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Ginga_S&oldid=1374313907"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-ginga-s",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Ginga",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "{{nihongo4|Ultraman Ginga S|ウルトラマンギンガS|Urutoraman Ginga Esu}} is a Japanese television series produced by Tsuburaya Productions and a sequel to Ultraman Ginga, as well as part of the New Ultraman Retsuden programming block on TV Tokyo.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-07-15",
+          "end_date": "2014-12-23",
+          "year": 2014,
+          "note": "Wikipedia: | first_aired  = {{start date|2014|7|15}} … | last_aired   = {{end date|2014|12|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Ginga_S",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Ginga_S&oldid=1374313907"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraman-ginga",
+        "kind": "continues",
+        "note": "sequel / second season"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-x",
+    "title": "Ultraman X",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-x",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman X",
+      "wikidata": "Q20010305",
+      "tmdb": "66631",
+      "imdb": "tt4651924"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_X",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_X&oldid=1379908030"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-x",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 19th entry (28th overall) in the Ultra Series and is currently the last series to air as part of the New Ultraman Retsuden programming block on TV Tokyo.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-14",
+          "end_date": "2015-12-22",
+          "year": 2015,
+          "note": "Wikipedia: | first_aired  = {{start date|2015|7|14}} … | last_aired   = {{end date|2015|12|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_X",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_X&oldid=1379908030"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-orb-origin-saga",
+    "title": "Ultraman Orb: The Origin Saga",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-orb",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "prime-video",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Orb: The Origin Saga",
+      "wikidata": "Q28136312",
+      "tmdb": "82054",
+      "imdb": "tt6344334"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Orb:_The_Origin_Saga",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Orb%3A_The_Origin_Saga&oldid=1374313756"
+    ],
+    "notes": "Amazon Video (Japan) exclusive web series.",
+    "units": [
+      {
+        "id": "ultraman-orb-origin-saga",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Ultraman Orb (prequel)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "{{nihongo4|Ultraman Orb: The Origin Saga|ウルトラマンオーブ THE ORIGIN SAGA|Urutoraman Ōbu Ji Orijin Sāga}} is a 2016 Japanese tokusatsu series, serving as a prequel to Ultraman Orb and the 21st entry (30th overall) in the Ultra Series.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-12-26",
+          "end_date": "2017-03-13",
+          "year": 2016,
+          "note": "Wikipedia: | first_aired          = {{start date|2016|12|26}} … | last_aired           = {{end date|2017|3|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Orb:_The_Origin_Saga",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Orb%3A_The_Origin_Saga&oldid=1374313756"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraman-orb",
+        "kind": "shares-characters",
+        "note": "prequel to Ultraman Orb"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-orb",
+    "title": "Ultraman Orb",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-orb",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Orb",
+      "wikidata": "Q23908745",
+      "tmdb": "67904",
+      "imdb": "tt5678870"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Orb",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Orb%3A_The_Origin_Saga&oldid=1374313756"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-orb",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Origin Saga",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "{{nihongo4|Ultraman Orb: The Origin Saga|ウルトラマンオーブ THE ORIGIN SAGA|Urutoraman Ōbu Ji Orijin Sāga}} is a 2016 Japanese tokusatsu series, serving as a prequel to Ultraman Orb and the 21st entry (30th overall) in the Ultra Series.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-07-09",
+          "end_date": "2016-12-24",
+          "year": 2016,
+          "note": "Wikipedia: | first_aired          = {{Start date|2016|07|09}}{{efn|July 9, 2016 is exactly 50 years after {{nihongo4|''Birth of Ultraman''|ウルトラマン誕生|Urutoraman Tanjō}}, the pre-premiere special of ''[[Ultraman (1966 TV series)|Ultraman]]'' which was recorded on July 9, 1966 and later aired on [[Tokyo Broadcasting System Television|Tokyo Broadcasting System]] (the Ultra Series' original network before TV Tokyo"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Orb",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Orb%3A_The_Origin_Saga&oldid=1374313756"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-geed",
+    "title": "Ultraman Geed",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-geed",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Geed",
+      "wikidata": "Q29578361",
+      "tmdb": "73169",
+      "imdb": "tt6842116"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Geed",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Geed&oldid=1387851692"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-geed",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "{{nihongo4|Ultraman Geed|ウルトラマンジード|Urutoraman Jīdo}} is a Japanese tokusatsu drama produced by Tsuburaya Productions and the 22nd entry (31st overall) to the Ultra Series.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-07-08",
+          "end_date": "2017-12-23",
+          "year": 2017,
+          "note": "Wikipedia: | first_aired          = {{start date|2017|7|8}} … | last_aired           = {{end date|2017|12|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Geed",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Geed&oldid=1387851692"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-rb",
+    "title": "Ultraman R/B",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-rb",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman R/B",
+      "wikidata": "Q51980993",
+      "tmdb": "81959",
+      "imdb": "tt8333100"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_R/B",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_R%2FB&oldid=1374309372"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-rb",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 23rd entry (32nd overall) in the Ultra Series overall, the seventh entry in the \"New Generation Heroes\" lineup and the last entry in the series released in the Heisei era.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-07-07",
+          "end_date": "2018-12-22",
+          "year": 2018,
+          "note": "Wikipedia: | first_aired          = {{start date|2018|7|7}}<ref name=\"First\"/><ref name=\"Second\"/> … | last_aired           = {{end date|2018|12|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_R/B",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_R%2FB&oldid=1374309372"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-taiga",
+    "title": "Ultraman Taiga",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-taiga",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Taiga",
+      "wikidata": "Q63203861",
+      "tmdb": "88597",
+      "imdb": "tt10249352"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Taiga",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Taiga&oldid=1374309603"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-taiga",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 24th entry (34th overall) in the Ultra Series, the eighth entry in the \"New Generation Heroes\" lineup and the first series released in the Reiwa era.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-07-06",
+          "end_date": "2019-12-28",
+          "year": 2019,
+          "note": "Wikipedia: | first_aired          = {{start date|2019|7|6}} … | last_aired           = {{end date|2019|12|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Taiga",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Taiga&oldid=1374309603"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-z",
+    "title": "Ultraman Z",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-z",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Z",
+      "wikidata": "Q88638973",
+      "tmdb": "101005",
+      "imdb": "tt12038848"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Z",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Z&oldid=1374310632"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-z",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 25th entry (35th overall) in the Ultra Series, the ninth entry to the \"New Generation Heroes\" lineup and the second series released in the Reiwa era, celebrating the 10th anniversary of Ultraman Zero.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-06-20",
+          "end_date": "2020-12-19",
+          "year": 2020,
+          "note": "Wikipedia: | first_aired          = {{start date|2020|6|20}} … | last_aired           = {{end date|2020|12|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Z",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Z&oldid=1374310632"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-blazar",
+    "title": "Ultraman Blazar",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-blazar",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Blazar",
+      "wikidata": "Q117805295",
+      "tmdb": "213442",
+      "imdb": "tt27560594"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Blazar",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Blazar&oldid=1374311773"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-blazar",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 28th entry (38th overall) in the Ultra Series, the fifth installment in the Reiwa era and the first series to lean towards serious hard science fiction since Ultraman Gaia and Ultraman Nexus. … His concept on Blazar is also different to that of other Ultras, as it is not related to the M78 Nebula but as a character born in a different galaxy.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-07-08",
+          "end_date": "2024-01-20",
+          "year": 2023,
+          "note": "Wikipedia: | first_aired          = {{Start date|2023|7|8}} … | last_aired           = {{End date|2024|1|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Blazar",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Blazar&oldid=1374311773"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-arc",
+    "title": "Ultraman Arc",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-arc",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Arc",
+      "wikidata": "Q125341971",
+      "tmdb": "251104",
+      "imdb": "tt32020629"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Arc",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Arc&oldid=1374312370"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-arc",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 29th entry (39th overall) in the Ultra Series, released to both commemorate the 15th anniversary of Ultraman Zero and the 10th anniversary of the New Generation Heroes series.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-07-06",
+          "end_date": "2025-01-18",
+          "year": 2024,
+          "note": "Wikipedia: | first_aired          = {{Start date|2024|7|6}} … | last_aired           = {{End date|2025|1|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Arc",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Arc&oldid=1374312370"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-omega",
+    "title": "Ultraman Omega",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-omega",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Omega",
+      "wikidata": "Q134097650",
+      "tmdb": "289745",
+      "imdb": "tt36636552"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Omega",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Omega&oldid=1362490572"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-omega",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 30th entry (40th overall) in the Ultra Series, The series began airing on all TXN-affiliated networks in Japan on July 5, 2025.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-07-05",
+          "end_date": "2026-01-17",
+          "year": 2025,
+          "note": "Wikipedia: | first_aired          = {{Start date|2025|7|5}} … | last_aired           = {{End date|2026|1|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Omega",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Omega&oldid=1362490572"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-trigger",
+    "title": "Ultraman Trigger: New Generation Tiga",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-trigger-decker",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Trigger: New Generation Tiga",
+      "wikidata": "Q106507688",
+      "tmdb": "123417",
+      "imdb": "tt14482616"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Trigger:_New_Generation_Tiga",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Decker&oldid=1386581496"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-trigger",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Decker",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Decker serves as the sequel to Ultraman Trigger: New Generation Tiga and celebrating the 25th anniversary of Ultraman Dyna The series aired on TV Tokyo on July 9, 2022.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-07-10",
+          "end_date": "2022-01-22",
+          "year": 2021,
+          "note": "Wikipedia: | first_aired          = {{start date|2021|7|10}} … | last_aired           = {{end date|2022|1|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Trigger:_New_Generation_Tiga",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Decker&oldid=1386581496"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraman-tiga",
+        "kind": "adapts",
+        "note": "modern retelling of Ultraman Tiga"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-decker",
+    "title": "Ultraman Decker",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-trigger-decker",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Decker",
+      "wikidata": "Q111437191",
+      "tmdb": "154129",
+      "imdb": "tt18884220"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Decker",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Decker&oldid=1386581496"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-decker",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "years after Trigger",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Ultraman Decker takes place years after the end of Ultraman Trigger: New Generation Tiga, where Earth has entered a period of peace once again.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-07-09",
+          "end_date": "2023-01-21",
+          "year": 2022,
+          "note": "Wikipedia: | first_aired          = {{Start date|2022|7|9}} … | last_aired           = {{End date|2023|1|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Decker",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Decker&oldid=1386581496"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraman-trigger",
+        "kind": "continues",
+        "note": "sequel"
+      },
+      {
+        "to": "ultraman-dyna",
+        "kind": "adapts",
+        "note": "celebrates/reimagines Ultraman Dyna"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-teo",
+    "title": "Ultraman Teo",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ultraman",
+    "continuity": "ultra-teo",
+    "studio_brand": "tsuburaya-productions",
+    "label": null,
+    "platform_or_network": "txn",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman Teo",
+      "wikidata": "Q139249731",
+      "tmdb": "308216",
+      "imdb": "tt41846573"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman_Teo",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman_Teo&oldid=1388056055"
+    ],
+    "notes": "Currently airing (status: airing).",
+    "units": [
+      {
+        "id": "ultraman-teo",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the 31st entry (41st overall) in the Ultra Series, released to commemorate the 60th anniversary for the franchise.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-07-04",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | first_aired          = {{Start date|2026|7|4}} … | last_aired           = present"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman_Teo",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman_Teo&oldid=1388056055"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "shin-ultraman",
+    "title": "Shin Ultraman",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ultraman",
+    "continuity": "ultra-shin",
+    "studio_brand": "toho-studios",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Shin Ultraman",
+      "wikidata": "Q77948675",
+      "tmdb": "634429",
+      "imdb": "tt10737918"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shin_Ultraman",
+      "https://en.wikipedia.org/w/index.php?title=Shin_Ultraman&oldid=1388009396"
+    ],
+    "notes": "Distributor: Toho.",
+    "units": [
+      {
+        "id": "shin-ultraman",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 112,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "A reimagining of the 1966 television series Ultraman, the film is a co-production between Toho Studios and Cine Bazar, and presented by Tsuburaya Productions, Toho Co., Ltd., and Khara, Inc.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-05-13",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: | released       = {{Film date|2022|05|13|Japan}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Shin_Ultraman",
+          "https://en.wikipedia.org/w/index.php?title=Shin_Ultraman&oldid=1388009396"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ultraman-1966",
+        "kind": "adapts",
+        "note": "reimagining of the 1966 series"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ultraman-rising",
+    "title": "Ultraman: Rising",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ultraman",
+    "continuity": "ultra-rising",
+    "studio_brand": "netflix-animation-studios",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ultraman: Rising",
+      "wikidata": "Q123354193",
+      "tmdb": "829402",
+      "imdb": "tt9471678"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ultraman:_Rising",
+      "https://en.wikipedia.org/w/index.php?title=Ultraman%3A_Rising&oldid=1382805513"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ultraman-rising",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 117,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Ultraman: Rising is a 2024 animated superhero film based on Tsuburaya Productions' Ultraman franchise.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-06-14",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: Ultraman: Rising was released worldwide on Netflix on June 14, 2024. … | released       = {{Film date|2024|06|12|[[Annecy International Animation Film Festival|Annecy Festival]]|2024|06|14|Worldwide}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ultraman:_Rising",
+          "https://en.wikipedia.org/w/index.php?title=Ultraman%3A_Rising&oldid=1382805513"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  }
+]

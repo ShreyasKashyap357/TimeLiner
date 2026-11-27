@@ -1306,5 +1306,133 @@
     "data_dir": "dune",
     "description": "Frank Herbert's novels with the Brian Herbert and Kevin J. Anderson books, and each screen adaptation family as its own continuity.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "ultraman",
+    "name": "Ultraman",
+    "short_name": "Ultraman",
+    "order": 43,
+    "enabled": true,
+    "accent": {
+      "primary": "#D7263D",
+      "secondary": "#C0C7CF"
+    },
+    "default_continuity": "ultra-showa",
+    "grouping_schemes": [],
+    "data_dir": "ultraman",
+    "description": "Tsuburaya's Ultraman TV series from Ultra Q (1966) on, with Shin Ultraman and Ultraman: Rising. Showa is one shared continuity; most later series stand alone.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "kamen-rider",
+    "name": "Kamen Rider",
+    "short_name": "Kamen Rider",
+    "order": 44,
+    "enabled": true,
+    "accent": {
+      "primary": "#2E8B57",
+      "secondary": "#C62828"
+    },
+    "default_continuity": "kr-showa",
+    "grouping_schemes": [],
+    "data_dir": "kamen-rider",
+    "description": "Every Kamen Rider TV series (Showa as one continuity; Heisei and Reiwa series mostly standalone), Shin Kamen Rider, Dragon Knight and Masked Rider.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "super-sentai",
+    "name": "Super Sentai & Power Rangers",
+    "short_name": "Super Sentai & Power Rangers",
+    "order": 45,
+    "enabled": true,
+    "accent": {
+      "primary": "#E53935",
+      "secondary": "#1E88E5"
+    },
+    "default_continuity": "pr-main",
+    "grouping_schemes": [],
+    "data_dir": "super-sentai",
+    "description": "Every Super Sentai series (each its own universe) and Power Rangers from Mighty Morphin to Cosmic Fury as one continuity, plus the 1995 and 2017 films.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto",
+    "short_name": "Naruto",
+    "order": 46,
+    "enabled": true,
+    "accent": {
+      "primary": "#F28C28",
+      "secondary": "#1F3A5F"
+    },
+    "default_continuity": "naruto-anime",
+    "grouping_schemes": [],
+    "data_dir": "naruto",
+    "description": "The Naruto and Boruto anime with the canon films, the manga as a separate continuity, and the non-canon films.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "one-piece",
+    "name": "One Piece",
+    "short_name": "One Piece",
+    "order": 47,
+    "enabled": true,
+    "accent": {
+      "primary": "#D62828",
+      "secondary": "#F2C14E"
+    },
+    "default_continuity": "one-piece-anime",
+    "grouping_schemes": [],
+    "data_dir": "one-piece",
+    "description": "The One Piece anime with the tie-in films placed by their arcs (canon disputed), the manga, the older films, and the Netflix live-action series.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "sherlock-holmes",
+    "name": "Sherlock Holmes",
+    "short_name": "Sherlock Holmes",
+    "order": 48,
+    "enabled": true,
+    "accent": {
+      "primary": "#8B6F47",
+      "secondary": "#2F4F4F"
+    },
+    "default_continuity": "sherlock-holmes-canon",
+    "grouping_schemes": [],
+    "data_dir": "sherlock-holmes",
+    "description": "Arthur Conan Doyle's stories and the most notable adaptations (Rathbone films, Granada with Jeremy Brett, BBC Sherlock, Elementary, the Ritchie films, Enola Holmes), each its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "jack-ryan",
+    "name": "Jack Ryan",
+    "short_name": "Jack Ryan",
+    "order": 49,
+    "enabled": true,
+    "accent": {
+      "primary": "#1F4E79",
+      "secondary": "#B22222"
+    },
+    "default_continuity": "ryanverse-novels",
+    "grouping_schemes": [],
+    "data_dir": "jack-ryan",
+    "description": "Tom Clancy's Ryanverse novels in their stated chronological order, and each screen recasting (Ford/Baldwin, Affleck, Pine, Amazon) as its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "bourne",
+    "name": "Bourne",
+    "short_name": "Bourne",
+    "order": 50,
+    "enabled": true,
+    "accent": {
+      "primary": "#3A3A3A",
+      "secondary": "#C9A227"
+    },
+    "default_continuity": "bourne-films",
+    "grouping_schemes": [],
+    "data_dir": "bourne",
+    "description": "Robert Ludlum's Bourne novels and their continuations, the 1988 miniseries, and the film series with Treadstone.",
+    "last_verified": "2026-11-27"
   }
 ]

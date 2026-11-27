@@ -1,0 +1,188 @@
+[
+  {
+    "id": "ryanverse-novels",
+    "universe": "jack-ryan",
+    "name": "Ryanverse novels",
+    "short_name": "Ryanverse novels",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Tom Clancy's Jack Ryan / John Clark / Campus novels (G. P. Putnam's Sons), his collaborations, and the authorised post-Clancy continuations (main series and Jack Ryan Jr. series). Wikipedia: \"The Ryanverse franchise focuses on the character Jack Ryan, a fictional CIA analyst created in 1984 by American author Tom Clancy, who appeared in fourteen of his novels. Since Clancy's death in 2013, five other authors have written authorized novels featuring Ryan and the Campus: Mark Greaney, Marc Cameron, Andrews and Wilson, and Ward Larsen.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Ryanverse&oldid=1387647369"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "jack-ryan-films-original",
+    "universe": "jack-ryan",
+    "name": "Jack Ryan films: original continuity (Baldwin/Ford, 1990-1994)",
+    "short_name": "Jack Ryan films: original continuity",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The Hunt for Red October, Patriot Games, Clear and Present Danger. Wikipedia: \"Jack Ryan (franchise) table header: \"Original continuity\". It is a sequel to the 1990 film The Hunt for Red October, part of a series of films featuring Clancy's character Jack Ryan, but with different actors in the leading roles.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Jack_Ryan_(franchise)&oldid=1381747086"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "jack-ryan-films-affleck",
+    "universe": "jack-ryan",
+    "name": "Jack Ryan films: The Sum of All Fears continuity (Affleck, 2002)",
+    "short_name": "Jack Ryan films: The Sum of All Fears continuity",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Reboot with a younger Ryan. Wikipedia: \"The film, which is set in the Jack Ryan franchise, is a reboot taking place in 2002.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Sum_of_All_Fears_(film)&oldid=1375966498"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "jack-ryan-films-pine",
+    "universe": "jack-ryan",
+    "name": "Jack Ryan films: Shadow Recruit continuity (Pine, 2014)",
+    "short_name": "Jack Ryan films: Shadow Recruit continuity",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Second reboot. Wikipedia: \"It is the fifth film in the Jack Ryan series and the second reboot thereof.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Jack_Ryan%3A_Shadow_Recruit&oldid=1359118853"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "jack-ryan-amazon",
+    "universe": "jack-ryan",
+    "name": "Jack Ryan (Amazon: Krasinski series + Ghost War)",
+    "short_name": "Jack Ryan",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Prime Video series (2018-2023) and its continuation film Jack Ryan: Ghost War (2026). Wikipedia: \"Featuring modern-day interpretations of the original characters, it stars John Krasinski as CIA analyst Jack Ryan. Produced by Paramount Pictures and Sunday Night Productions and distributed by Amazon MGM Studios, it is based on characters from the fictional Ryanverse created by Tom Clancy and a continuation of the Amazon Prime Video television series Jack Ryan (2018–2023).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Jack_Ryan%3A_Ghost_War&oldid=1379935586"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "without-remorse-film",
+    "universe": "jack-ryan",
+    "name": "Without Remorse (2021 film)",
+    "short_name": "Without Remorse",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "John Clark spin-off film with Michael B. Jordan; not connected to the other screen continuities in the sources read. Wikipedia: \"Amazon Prime Video has also released a television series and feature film featuring John Krasinski as Ryan and a spinoff film featuring Michael B.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Ryanverse&oldid=1387647369"
+    ],
+    "notes": ""
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "id": "mad-max",
+    "title": "Mad Max",
+    "sort_title": null,
+    "type": "film",
+    "universe": "mad-max",
+    "continuity": "mad-max-main",
+    "studio_brand": "kennedy-miller",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Mad Max (film)",
+      "wikidata": "Q248775",
+      "tmdb": "9659",
+      "imdb": "tt0079501"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Mad_Max_(film)&oldid=1387866352"
+    ],
+    "notes": "Release date is from the infobox wikitext of the same revision.",
+    "units": [
+      {
+        "id": "mad-max",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 88,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "near future, before the collapse",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "A dystopian near-future Australia is facing a breakdown of civil order primarily owing to widespread oil shortages and ecocide. … The first Mad Max film takes place in the original timeline and is a mostly traditional origin story.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1979-04-12",
+          "end_date": null,
+          "year": 1979,
+          "note": "Wikipedia: [infobox] | released = April 12, 1979 (Australia); March 21, 1980 (United States) … The film initially received a polarised reception upon its release in April 1979"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Mad_Max_(film)&oldid=1387866352"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "mad-max-2",
+    "title": "Mad Max 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "mad-max",
+    "continuity": "mad-max-main",
+    "studio_brand": "kennedy-miller",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Mad Max 2",
+      "wikidata": "Q1125262",
+      "tmdb": "8810",
+      "imdb": "tt0082694"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mad_Max_2",
+      "https://en.wikipedia.org/w/index.php?title=Mad_Max_2&oldid=1387105758"
+    ],
+    "notes": "Released in the US as The Road Warrior. Distributor not checked against the infobox.",
+    "units": [
+      {
+        "id": "mad-max-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 95,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Mad Max, post-collapse",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is the sequel to Mad Max (1979) … After a global war results in widespread oil shortages and ecocide, civilisation collapses and the world descends into barbarism. Former policeman Max Rockatansky, haunted by the death of his family, drives around the desert Outback",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1981-12-24",
+          "end_date": null,
+          "year": 1981,
+          "note": "Wikipedia: Mad Max 2 was released in Australia on 24 December 1981"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mad_Max_2",
+          "https://en.wikipedia.org/w/index.php?title=Mad_Max_2&oldid=1387105758"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "mad-max",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "mad-max-beyond-thunderdome",
+    "title": "Mad Max Beyond Thunderdome",
+    "sort_title": null,
+    "type": "film",
+    "universe": "mad-max",
+    "continuity": "mad-max-main",
+    "studio_brand": "kennedy-miller",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Mad Max Beyond Thunderdome",
+      "wikidata": "Q426663",
+      "tmdb": "9355",
+      "imdb": "tt0089530"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome",
+      "https://en.wikipedia.org/w/index.php?title=Mad_Max_Beyond_Thunderdome&oldid=1388066113"
+    ],
+    "notes": "Distributor not checked against the infobox.",
+    "units": [
+      {
+        "id": "mad-max-beyond-thunderdome",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Mad Max 2",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "The third installment in the Mad Max franchise and the sequel to Mad Max 2 (1981)",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-07-10",
+          "end_date": null,
+          "year": 1985,
+          "note": "Wikipedia: Mad Max Beyond Thunderdome was released in Australia on 10 July 1985."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome",
+          "https://en.wikipedia.org/w/index.php?title=Mad_Max_Beyond_Thunderdome&oldid=1388066113"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "mad-max-2",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "furiosa-a-mad-max-saga",
+    "title": "Furiosa: A Mad Max Saga",
+    "sort_title": null,
+    "type": "film",
+    "universe": "mad-max",
+    "continuity": "mad-max-main",
+    "studio_brand": "kennedy-miller-mitchell",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Furiosa: A Mad Max Saga",
+      "wikidata": "Q100361125",
+      "tmdb": "786892",
+      "imdb": "tt12037194"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Furiosa:_A_Mad_Max_Saga",
+      "https://en.wikipedia.org/w/index.php?title=Furiosa%3A_A_Mad_Max_Saga&oldid=1387216915"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "furiosa-a-mad-max-saga",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 148,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "years before Fury Road, spanning over a decade",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "set years before Fury Road, the film follows her life for over a decade … According to Miller, Furiosa \"probably\" takes place after Mad Max Beyond Thunderdome (1985), but the Mad Max franchise has \"no strict chronology\". The first trailer of the film, released on 30 November 2023, stated that Furiosa takes place \"45 years after the collapse\". Prequel to Fury Road is stated; placement after Beyond Thunderdome is only Miller's \"probably\", and the franchise article puts the later films' collapse \"around the 2010s\", a different collapse from the first three films. No year set: \"45 years after the collapse\" plus \"around the 2010s\" is too loose to derive one.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-05-23",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: It was released theatrically in Australia on 23 May 2024 and in the United States the following day."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Furiosa:_A_Mad_Max_Saga",
+          "https://en.wikipedia.org/w/index.php?title=Furiosa%3A_A_Mad_Max_Saga&oldid=1387216915"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "mad-max-fury-road",
+        "kind": "continues",
+        "note": "prequel to Fury Road; origin of Furiosa"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "mad-max-fury-road",
+    "title": "Mad Max: Fury Road",
+    "sort_title": null,
+    "type": "film",
+    "universe": "mad-max",
+    "continuity": "mad-max-main",
+    "studio_brand": "kennedy-miller-mitchell",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Mad Max: Fury Road",
+      "wikidata": "Q1757288",
+      "tmdb": "76341",
+      "imdb": "tt1392190"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road",
+      "https://en.wikipedia.org/w/index.php?title=Mad_Max%3A_Fury_Road&oldid=1387459703"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "mad-max-fury-road",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 120,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Furiosa",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "A prequel film, Furiosa: A Mad Max Saga, was released on 24 May 2024 … [franchise:] It is a prequel to Fury Road; Miller said that while the franchise has \"no strict chronology,\" it \"probably\" takes place after Beyond Thunderdome. Order after Furiosa is stated; order after the first three films is Miller's \"probably\" only.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-05-14",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: Mad Max: Fury Road premiered in Los Angeles on 7 May 2015, and was released in Australia on 14 May."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road",
+          "https://en.wikipedia.org/w/index.php?title=Mad_Max%3A_Fury_Road&oldid=1387459703"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "mad-max-beyond-thunderdome",
+        "kind": "sequel",
+        "note": "fourth film; loose continuity with the first three"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

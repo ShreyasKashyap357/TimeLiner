@@ -1,0 +1,65 @@
+[
+  {
+    "id": "matrix-main",
+    "universe": "matrix",
+    "name": "The Matrix",
+    "short_name": "The Matrix",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The four films plus the tie-ins Wikipedia presents as part of the same story: The Animatrix, Enter the Matrix and The Matrix Online. The Matrix Awakens (tech demo) is excluded: no source calls it canon. Wikipedia: \"The video game Enter the Matrix connects the story of the Animatrix short \"Final Flight of the Osiris\" with the events of Reloaded, while the online video game The Matrix Online was a direct sequel to Revolutions. … This is to say the game itself is the official continuation of the universe, story and characters established in The Matrix series of fictional works including the film trilogy, The An\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix_(franchise)&oldid=1387960713",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix_Online&oldid=1370160582"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "matrix-path-of-neo",
+    "universe": "matrix",
+    "name": "The Matrix: Path of Neo",
+    "short_name": "The Matrix: Path of Neo",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Game retelling of the film trilogy with deviations and an alternate ending; kept separate because no source calls it canon. Wikipedia: \"Players control the character Neo, participating in scenes from the films. … Some levels imitate the scenes of the films, other extend them, or take entirely different directions. … The Wachowskis also sought to develop an alternate ending to the narrative to contrast with the pessimistic ending of The Matrix Revolutions.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540"
+    ],
+    "notes": ""
+  }
+]

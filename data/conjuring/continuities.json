@@ -1,0 +1,34 @@
+[
+  {
+    "id": "conjuring-main",
+    "universe": "conjuring",
+    "name": "The Conjuring Universe",
+    "short_name": "The Conjuring Universe",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "One shared film continuity: the Conjuring main series, the Annabelle films and the Nun films. The Curse of La Llorona is included with a flag: Wikipedia says it is not an official installment but takes place within the universe. Wikipedia: \"The film was produced by James Wan through his Atomic Monster banner and, though not considered an installment in the franchise, takes place within The Conjuring Universe. … Although the film is not an official installment in The Conjuring Universe, it stars Tony Amendola, who reprises his role from Annabelle as Father Perez.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Curse_of_La_Llorona&oldid=1384043069",
+      "https://en.wikipedia.org/w/index.php?title=The_Conjuring_Universe&oldid=1387761971"
+    ],
+    "notes": ""
+  }
+]

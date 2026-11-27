@@ -1,0 +1,1285 @@
+{
+ "conjuring": {
+  "continuities": [
+   {
+    "id": "conjuring-main",
+    "name": "The Conjuring Universe",
+    "description": "One shared film continuity: the Conjuring main series, the Annabelle films and the Nun films. The Curse of La Llorona is included with a flag: Wikipedia says it is not an official installment but takes place within the universe.",
+    "quote": "The film was produced by James Wan through his Atomic Monster banner and, though not considered an installment in the franchise, takes place within The Conjuring Universe. … Although the film is not an official installment in The Conjuring Universe, it stars Tony Amendola, who reprises his role from Annabelle as Father Perez.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Curse_of_La_Llorona&oldid=1384043069",
+     "https://en.wikipedia.org/w/index.php?title=The_Conjuring_Universe&oldid=1387761971"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "the-nun",
+    "title": "The Nun",
+    "type": "film",
+    "wiki_article": "The Nun (2018 film)",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-09-07",
+      "release_quote": "The Nun was released in the United States on September 7, 2018.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Nun_(2018_film)&oldid=1384042356",
+      "in_universe": {
+       "year": 1952,
+       "year_end": null,
+       "label": "1952",
+       "confidence": "stated",
+       "quote": "In 1952 Romania, two Roman Catholic nuns living at the Saint Cartha's monastery are attacked by an unseen evil force. … During the filming of Annabelle: Creation, Safran revealed that The Nun would chronologically come first in The Conjuring Universe, making it a further prequel to The Conjuring series and Annabelle series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Nun_(2018_film)&oldid=1384042356",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-conjuring-2",
+      "kind": "spinoff",
+      "note": "spin-off of The Conjuring 2 (Valak)"
+     }
+    ],
+    "notes": "Production companies not checked line by line against the infobox; distributor Warner Bros. per the article.",
+    "revid": 1384042356,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Nun_(2018_film)&oldid=1384042356"
+   },
+   {
+    "id": "annabelle-creation",
+    "title": "Annabelle: Creation",
+    "type": "film",
+    "wiki_article": "Annabelle: Creation",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-08-11",
+      "release_quote": "Annabelle: Creation premiered at the LA Film Festival on June 19, 2017, and was theatrically released in the United States on August 11, 2017.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Annabelle%3A_Creation&oldid=1386986598",
+      "in_universe": {
+       "year": 1955,
+       "year_end": null,
+       "label": "c. 1955 (prologue c. 1943)",
+       "confidence": "inferred",
+       "quote": "A dollmaker named Samuel Mullins and his wife, Esther, grieve the loss of their seven-year-old daughter, Annabelle … Twelve years later, the Mullins open their home to provide shelter for Sister Charlotte and six girls … Twelve years later, after becoming involved in devil worship, a grown-up Annabelle returns home and murders her adoptive parents during the night. Their screams awaken their neighbor, Mia Form",
+       "source": "https://en.wikipedia.org/w/index.php?title=Annabelle%3A_Creation&oldid=1386986598",
+       "precision": "approx",
+       "note": "Wikipedia states no year for this film. The epilogue (\"twelve years later\") is the opening of Annabelle (2014), stated as 1967, so the main story is c. 1955 and the prologue c. 1943 (1967 - 12 - 12). Placed before The Nun II (1956) on that inference only.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "annabelle",
+      "kind": "continues",
+      "note": "prequel to Annabelle (2014); its epilogue leads into that film"
+     }
+    ],
+    "notes": "",
+    "revid": 1386986598,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Annabelle%3A_Creation&oldid=1386986598"
+   },
+   {
+    "id": "the-nun-ii",
+    "title": "The Nun II",
+    "type": "film",
+    "wiki_article": "The Nun II",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-09-08",
+      "release_quote": "The Nun II was theatrically released in the United States on September 8, 2023, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Nun_II&oldid=1387960982",
+      "in_universe": {
+       "year": 1956,
+       "year_end": null,
+       "label": "1956",
+       "confidence": "stated",
+       "quote": "In 1956, Father Noiret and his altar boy, Jacques, perform daily chores in their church in Tarascon, France.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Nun_II&oldid=1387960982",
+       "precision": "year",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-nun",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1387960982,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Nun_II&oldid=1387960982"
+   },
+   {
+    "id": "annabelle",
+    "title": "Annabelle",
+    "type": "film",
+    "wiki_article": "Annabelle (film)",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-10-03",
+      "release_quote": "The film premiered at the TCL Chinese Theatre on September 29, 2014, and was released theatrically in the United States on October 3, 2014, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Annabelle_(film)&oldid=1386986590",
+      "in_universe": {
+       "year": 1967,
+       "year_end": null,
+       "label": "1967",
+       "confidence": "stated",
+       "quote": "In 1967, in Santa Monica, California, a medical student, John Form, presents his expectant wife, Mia, with a rare vintage porcelain doll",
+       "source": "https://en.wikipedia.org/w/index.php?title=Annabelle_(film)&oldid=1386986590",
+       "precision": "year",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-conjuring",
+      "kind": "continues",
+      "note": "spin-off and prequel to The Conjuring (origin of the doll)"
+     }
+    ],
+    "notes": "",
+    "revid": 1386986590,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Annabelle_(film)&oldid=1386986590"
+   },
+   {
+    "id": "annabelle-comes-home",
+    "title": "Annabelle Comes Home",
+    "type": "film",
+    "wiki_article": "Annabelle Comes Home",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-06-26",
+      "release_quote": "Annabelle Comes Home was theatrically released in the United States on June 26, 2019, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Annabelle_Comes_Home&oldid=1387662008",
+      "in_universe": {
+       "year": 1968,
+       "year_end": 1969,
+       "label": "1968 – c. 1969",
+       "confidence": "disputed",
+       "quote": "Demonologists Ed and Lorraine Warren confiscate the demonic Annabelle doll from nurses Debbie and Camilla. … One year later, the Warrens arrange for Mary Ellen to babysit their daughter, Judy … [The Conjuring:] In 1968, renowned demonologists Ed and Lorraine Warren investigate the Annabelle case, in which friends Debbie and Camilla have a possessed doll. … [Universe article:] Annabelle Comes Home takes place after Annabelle and The Conjuring",
+       "source": "https://en.wikipedia.org/w/index.php?title=Annabelle_Comes_Home&oldid=1387662008",
+       "precision": "range",
+       "note": "No year in the film article. The opening (doll taken from Debbie and Camilla) is the Annabelle case dated 1968 in The Conjuring article; the main story is \"one year later\" (c. 1969). The franchise article says it \"takes place after Annabelle and The Conjuring\", which fits The Conjuring's 1968 prologue but not its 1971 main story. Ordered by the inferred years, before The Conjuring.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "annabelle",
+      "kind": "sequel",
+      "note": "sequel to Annabelle and Annabelle: Creation"
+     },
+     {
+      "to": "the-conjuring",
+      "kind": "continues",
+      "note": "opens with the 1968 Annabelle case from The Conjuring's prologue"
+     }
+    ],
+    "notes": "",
+    "revid": 1387662008,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Annabelle_Comes_Home&oldid=1387662008"
+   },
+   {
+    "id": "the-conjuring",
+    "title": "The Conjuring",
+    "type": "film",
+    "wiki_article": "The Conjuring",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / The Safran Company / Evergreen Media Group",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-07-19",
+      "release_quote": "The Conjuring was released in the United States and Canada on July 19, 2013, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring&oldid=1387991241",
+      "in_universe": {
+       "year": 1971,
+       "year_end": null,
+       "label": "1971 (prologue 1968)",
+       "confidence": "stated",
+       "quote": "In 1968, renowned demonologists Ed and Lorraine Warren investigate the Annabelle case … Three years later, in 1971, Roger and Carolyn Perron move into a farmhouse in Harrisville, Rhode Island",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring&oldid=1387991241",
+       "precision": "year",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1387991241,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Conjuring&oldid=1387991241"
+   },
+   {
+    "id": "the-curse-of-la-llorona",
+    "title": "The Curse of La Llorona",
+    "type": "film",
+    "wiki_article": "The Curse of La Llorona",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-04-19",
+      "release_quote": "The Curse of La Llorona premiered at South by Southwest on March 15, 2019, and was theatrically released in the United States on April 19, 2019.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Curse_of_La_Llorona&oldid=1384043069",
+      "in_universe": {
+       "year": 1973,
+       "year_end": null,
+       "label": "1973",
+       "confidence": "stated",
+       "quote": "Three hundred years later, in 1973 Los Angeles, recently widowed caseworker Anna investigates the truancy of client Patricia Alvarez's two children.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Curse_of_La_Llorona&oldid=1384043069",
+       "precision": "year",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "annabelle",
+      "kind": "crossover",
+      "note": "Father Perez returns from Annabelle and the doll appears"
+     }
+    ],
+    "notes": "Canon status flagged: \"though not considered an installment in the franchise, takes place within The Conjuring Universe\" (film article); \"not an official installment in The Conjuring Universe\" (franchise article). Kept in the main continuity because of the \"takes place within\" statement; a non-mainline tag may suit. Sequel The Revenge of La Llorona is scheduled for February 26, 2027 (not included).",
+    "revid": 1384043069,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Curse_of_La_Llorona&oldid=1384043069"
+   },
+   {
+    "id": "the-conjuring-2",
+    "title": "The Conjuring 2",
+    "type": "film",
+    "wiki_article": "The Conjuring 2",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2016-06-10",
+      "release_quote": "The Conjuring 2 had its world premiere at TCL Chinese Theatre on June 7, 2016, and was theatrically released in the United States on June 10, 2016, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring_2&oldid=1386986740",
+      "in_universe": {
+       "year": 1977,
+       "year_end": null,
+       "label": "1977 (prologue 1976)",
+       "confidence": "stated",
+       "quote": "The film follows the Warrens as they travel to England to assist the Hodgson family, who are experiencing poltergeist activity at their Enfield council house in 1977 … In 1976, paranormal investigators Ed and Lorraine Warren investigate the Amityville murders",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring_2&oldid=1386986740",
+       "precision": "year",
+       "order_index": 7
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-conjuring",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1386986740,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Conjuring_2&oldid=1386986740"
+   },
+   {
+    "id": "the-conjuring-the-devil-made-me-do-it",
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "type": "film",
+    "wiki_article": "The Conjuring: The Devil Made Me Do It",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-06-04",
+      "release_quote": "The Conjuring: The Devil Made Me Do It was released in the United Kingdom on May 26, 2021, and in the United States on June 4, 2021, distributed by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring%3A_The_Devil_Made_Me_Do_It&oldid=1387934274",
+      "in_universe": {
+       "year": 1981,
+       "year_end": null,
+       "label": "1981",
+       "confidence": "stated",
+       "quote": "In 1981, demonologists Ed and Lorraine Warren document the exorcism of 8-year-old David Glatzel",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring%3A_The_Devil_Made_Me_Do_It&oldid=1387934274",
+       "precision": "year",
+       "order_index": 8
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-conjuring-2",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US date used; UK release was earlier (May 26, 2021).",
+    "revid": 1387934274,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Conjuring%3A_The_Devil_Made_Me_Do_It&oldid=1387934274"
+   },
+   {
+    "id": "the-conjuring-last-rites",
+    "title": "The Conjuring: Last Rites",
+    "type": "film",
+    "wiki_article": "The Conjuring: Last Rites",
+    "continuity": "conjuring-main",
+    "studio_or_developer": "New Line Cinema / Atomic Monster / The Safran Company",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-09-05",
+      "release_quote": "The Conjuring: Last Rites was released in the United States on September 5, 2025, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring%3A_Last_Rites&oldid=1387934337",
+      "in_universe": {
+       "year": 1986,
+       "year_end": null,
+       "label": "1986 (prologue 1964)",
+       "confidence": "stated",
+       "quote": "In 1964, Ed Warren and his pregnant wife Lorraine investigate a haunting involving an antique mirror. Twenty-two years later, in 1986, the Smurl family moves to West Pittston, Pennsylvania.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Conjuring%3A_Last_Rites&oldid=1387934337",
+       "precision": "year",
+       "order_index": 9
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-conjuring-the-devil-made-me-do-it",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "A prequel, The Conjuring: First Communion, is set for September 10, 2027 (not included).",
+    "revid": 1387934337,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Conjuring%3A_Last_Rites&oldid=1387934337"
+   }
+  ]
+ },
+ "john-wick": {
+  "continuities": [
+   {
+    "id": "john-wick-main",
+    "name": "John Wick",
+    "description": "One continuity: the four films, the spin-off film Ballerina and the prequel miniseries The Continental. Only The Continental has a stated period (the 1970s); the films are ordered by stated relative placement.",
+    "quote": "Various spin-offs expanded the franchise: the prequel comic book series John Wick: The Book of Rules (2017–2019), the prequel television miniseries The Continental (2023), and the spin-off film Ballerina (2025). … It is a spin-off installment within the John Wick film series, taking place between the events of John Wick: Chapter 3 – Parabellum (2019) and Chapter 4 (2023).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=John_Wick&oldid=1387381899",
+     "https://en.wikipedia.org/w/index.php?title=Ballerina_(2025_film)&oldid=1387383143"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "the-continental",
+    "title": "The Continental: From the World of John Wick",
+    "type": "series",
+    "wiki_article": "The Continental: From the World of John Wick",
+    "continuity": "john-wick-main",
+    "studio_or_developer": "Lionsgate Television",
+    "publisher": null,
+    "platform": "peacock",
+    "platforms": [
+     "peacock",
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 3,
+      "release_end": "2023-10-06",
+      "release_date": "2023-09-22",
+      "release_quote": "The series premiered on September 22, 2023, on Peacock in the United States, and on Amazon Prime Video internationally. [infobox] | num_episodes = 3 | first_aired = {{Start date|2023|9|22}} | last_aired = {{End date|2023|10|6}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Continental%3A_From_the_World_of_John_Wick&oldid=1387200551",
+      "in_universe": {
+       "year": 1970,
+       "year_end": 1979,
+       "label": "1970s",
+       "confidence": "stated",
+       "quote": "The Continental: From the World of John Wick tells the background story of how Winston Scott, in the 1970s, came to his position as proprietor of the New York branch of \"The Continental\" chain of hotels",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Continental%3A_From_the_World_of_John_Wick&oldid=1387200551",
+       "precision": "range",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "john-wick",
+      "kind": "continues",
+      "note": "prequel miniseries; young Winston decades before the films"
+     }
+    ],
+    "notes": "Miniseries of three 90-minute episodes (one season unit). Studio field is a placeholder from general knowledge; not checked against the infobox.",
+    "revid": 1387200551,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Continental%3A_From_the_World_of_John_Wick&oldid=1387200551"
+   },
+   {
+    "id": "john-wick",
+    "title": "John Wick",
+    "type": "film",
+    "wiki_article": "John Wick (film)",
+    "continuity": "john-wick-main",
+    "studio_or_developer": "Thunder Road / 87Eleven",
+    "publisher": "Summit Entertainment / Lionsgate",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-10-24",
+      "release_quote": "John Wick was premiered at Regal Union Square Theater in New York City on October 13, 2014 … John Wick was released in the United States and Canada on October 24.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=John_Wick_(film)&oldid=1387829556",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "first film",
+       "confidence": "stated",
+       "quote": "John Wick began a successful franchise which includes three sequels, John Wick: Chapter 2 (2017), John Wick: Chapter 3 – Parabellum (2019), and John Wick: Chapter 4 (2023), the prequel television series The Continental (2023), and the spin-off film Ballerina (2025)",
+       "source": "https://en.wikipedia.org/w/index.php?title=John_Wick_(film)&oldid=1387829556",
+       "precision": "relative",
+       "note": "No in-universe year stated; first in the film sequence, after the prequel series.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1387829556,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=John_Wick_(film)&oldid=1387829556"
+   },
+   {
+    "id": "john-wick-chapter-2",
+    "title": "John Wick: Chapter 2",
+    "type": "film",
+    "wiki_article": "John Wick: Chapter 2",
+    "continuity": "john-wick-main",
+    "studio_or_developer": "Thunder Road / 87Eleven",
+    "publisher": "Summit Entertainment / Lionsgate",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-02-10",
+      "release_quote": "John Wick: Chapter 2 premiered at Arclight Hollywood in Los Angeles on January 30, 2017, and was theatrically released in the United States on February 10, 2017, by Summit Entertainment.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_2&oldid=1386054150",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "shortly after John Wick",
+       "confidence": "inferred",
+       "quote": "John Wick infiltrates a smuggling compound run by Abram Tarasov, who is highly strung following the recent deaths of his nephew Iosef and brother Viggo at John's hands.",
+       "source": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_2&oldid=1386054150",
+       "precision": "relative",
+       "note": "\"Recent deaths\" of the first film's villains: placed directly after John Wick; exact gap not stated.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "john-wick",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1386054150,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_2&oldid=1386054150"
+   },
+   {
+    "id": "john-wick-chapter-3-parabellum",
+    "title": "John Wick: Chapter 3 – Parabellum",
+    "type": "film",
+    "wiki_article": "John Wick: Chapter 3 – Parabellum",
+    "continuity": "john-wick-main",
+    "studio_or_developer": "Thunder Road / 87Eleven",
+    "publisher": "Summit Entertainment / Lionsgate",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-05-17",
+      "release_quote": "John Wick: Chapter 3 – Parabellum had its premiere at the Regal Union Square in New York City on May 9, 2019, and was released in the United States on May 17, by Lionsgate.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_3_%E2%80%93_Parabellum&oldid=1387402205",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "immediately after Chapter 2",
+       "confidence": "stated",
+       "quote": "The film takes place immediately after Chapter 2 and centers on John Wick going on the run from a legion of hitmen after a bounty is placed for his murder.",
+       "source": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_3_%E2%80%93_Parabellum&oldid=1387402205",
+       "precision": "relative",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "john-wick-chapter-2",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1387402205,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_3_%E2%80%93_Parabellum&oldid=1387402205"
+   },
+   {
+    "id": "ballerina",
+    "title": "Ballerina",
+    "type": "film",
+    "wiki_article": "Ballerina (2025 film)",
+    "continuity": "john-wick-main",
+    "studio_or_developer": "Thunder Road / 87Eleven",
+    "publisher": "Lionsgate",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-06-06",
+      "release_quote": "Ballerina was released in the United States on June 6, 2025, after being delayed a year from its originally announced date of June 7, 2024.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ballerina_(2025_film)&oldid=1387383143",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "between Chapter 3 and Chapter 4",
+       "confidence": "stated",
+       "quote": "It is a spin-off installment within the John Wick film series, taking place between the events of John Wick: Chapter 3 – Parabellum (2019) and Chapter 4 (2023).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ballerina_(2025_film)&oldid=1387383143",
+       "precision": "relative",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "john-wick-chapter-3-parabellum",
+      "kind": "spinoff",
+      "note": "set between Chapter 3 and Chapter 4"
+     }
+    ],
+    "notes": "Marketed as \"From the World of John Wick: Ballerina\".",
+    "revid": 1387383143,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ballerina_(2025_film)&oldid=1387383143"
+   },
+   {
+    "id": "john-wick-chapter-4",
+    "title": "John Wick: Chapter 4",
+    "type": "film",
+    "wiki_article": "John Wick: Chapter 4",
+    "continuity": "john-wick-main",
+    "studio_or_developer": "Thunder Road / 87Eleven",
+    "publisher": "Lionsgate",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-03-24",
+      "release_quote": "John Wick: Chapter 4 premiered at the Odeon Luxe Leicester Square in London on March 6, 2023, and was released in the United States on March 24.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_4&oldid=1386963715",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Chapter 3 (and Ballerina)",
+       "confidence": "stated",
+       "quote": "A spin-off set between the third and fourth films, titled Ballerina, was released in 2025. … In New York City, John Wick, hiding underground with the Bowery King, recovers after being shot off the roof of the Continental Hotel by Winston.",
+       "source": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_4&oldid=1386963715",
+       "precision": "relative",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "john-wick-chapter-3-parabellum",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "Spin-off From the World of John Wick: Caine (set after Chapter 4) began filming April 25, 2026; no release by 2026-11-27, not included.",
+    "revid": 1386963715,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_4&oldid=1386963715"
+   }
+  ]
+ },
+ "matrix": {
+  "continuities": [
+   {
+    "id": "matrix-main",
+    "name": "The Matrix",
+    "description": "The four films plus the tie-ins Wikipedia presents as part of the same story: The Animatrix, Enter the Matrix and The Matrix Online. The Matrix Awakens (tech demo) is excluded: no source calls it canon.",
+    "quote": "The video game Enter the Matrix connects the story of the Animatrix short \"Final Flight of the Osiris\" with the events of Reloaded, while the online video game The Matrix Online was a direct sequel to Revolutions. … This is to say the game itself is the official continuation of the universe, story and characters established in The Matrix series of fictional works including the film trilogy, The Animatrix short films, the Enter the Matrix video game and a series of officially written and produced Matrix comic books.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Matrix_(franchise)&oldid=1387960713",
+     "https://en.wikipedia.org/w/index.php?title=The_Matrix_Online&oldid=1370160582"
+    ]
+   },
+   {
+    "id": "matrix-path-of-neo",
+    "name": "The Matrix: Path of Neo",
+    "ordered_only": true,
+    "description": "Game retelling of the film trilogy with deviations and an alternate ending; kept separate because no source calls it canon.",
+    "quote": "Players control the character Neo, participating in scenes from the films. … Some levels imitate the scenes of the films, other extend them, or take entirely different directions. … The Wachowskis also sought to develop an alternate ending to the narrative to contrast with the pessimistic ending of The Matrix Revolutions.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "the-animatrix",
+    "title": "The Animatrix",
+    "type": "film",
+    "wiki_article": "The Animatrix",
+    "continuity": "matrix-main",
+    "studio_or_developer": "(anthology; multiple animation studios)",
+    "publisher": "Warner Home Video",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-06-03",
+      "release_quote": "The Animatrix was released by Warner Home Video on June 3, 2003. … Final Flight of the Osiris was shown in theaters with the film Dreamcatcher.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Animatrix&oldid=1387507275",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "anthology: 2148 machine-war history up to the eve of Reloaded",
+       "confidence": "inferred",
+       "quote": "In 2148, following the rest of humanity's refusal to share the planet with the machines, the United Nations unleashes an all-out nuclear bombardment against Zero One … Kid's Story takes place during the six-month gap between The Matrix and The Matrix Reloaded … [franchise:] the Animatrix short film The Second Renaissance act as prequels to the films",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Animatrix&oldid=1387507275",
+       "precision": "relative",
+       "note": "Nine shorts spanning the 22nd-century war (2148 stated in The Second Renaissance) to the six-month gap after The Matrix. One unit (direct-to-video anthology film); placed first because its prequel shorts are the earliest material, although some shorts fall after The Matrix.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix",
+      "kind": "continues",
+      "note": "prequel shorts plus stories between The Matrix and Reloaded"
+     }
+    ],
+    "notes": "Studios not filled (anthology by several Japanese and US studios; not checked).",
+    "revid": 1387507275,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Animatrix&oldid=1387507275"
+   },
+   {
+    "id": "the-matrix",
+    "title": "The Matrix",
+    "type": "film",
+    "wiki_article": "The Matrix",
+    "continuity": "matrix-main",
+    "studio_or_developer": "Village Roadshow Pictures / Silver Pictures",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1999-03-31",
+      "release_quote": "The Matrix was released in theaters in the United States on March 31, 1999, to widespread critical acclaim.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Matrix&oldid=1387182561",
+      "in_universe": {
+       "year": 2199,
+       "year_end": null,
+       "label": "c. 2199 (the Matrix simulates 1999)",
+       "confidence": "disputed",
+       "quote": "In an unnamed city in 1999, Thomas Anderson, a computer programmer known as \"Neo\" in hacking circles, investigates the mystery of the \"Matrix\" … Morpheus explains that the year is approximately 2199.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Matrix&oldid=1387182561",
+       "precision": "approx",
+       "note": "The real-world year is given only as \"approximately 2199\" by a character; 1999 is the simulated year inside the Matrix. The real-world year is used for placement.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1387182561,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Matrix&oldid=1387182561"
+   },
+   {
+    "id": "enter-the-matrix",
+    "title": "Enter the Matrix",
+    "type": "video-game",
+    "wiki_article": "Enter the Matrix",
+    "continuity": "matrix-main",
+    "studio_or_developer": "Shiny Entertainment",
+    "publisher": "Atari / Infogrames",
+    "platform": "PlayStation 2",
+    "platforms": [
+     "PlayStation 2",
+     "Xbox",
+     "GameCube",
+     "Windows"
+    ],
+    "units": [
+     {
+      "key": "game",
+      "label": "Game",
+      "release_date": "2003-05-15",
+      "release_quote": "Released on May 15, 2003, around the same period as The Matrix Reloaded, Enter the Matrix was simultaneously produced with The Matrix Reloaded and The Matrix Revolutions.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Enter_the_Matrix&oldid=1373480062",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "just before and alongside Reloaded",
+       "confidence": "stated",
+       "quote": "The game takes place at roughly the same time as the events in Reloaded. … The story begins with Niobe, captain of the Logos, and Ghost, her first mate, retrieving a package left in the Matrix by the crew of the recently destroyed rebel ship Osiris.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Enter_the_Matrix&oldid=1373480062",
+       "precision": "relative",
+       "note": "Placed before Reloaded because it opens with the Osiris package that leads into the film; it overlaps Reloaded.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix-reloaded",
+      "kind": "continues",
+      "note": "runs parallel to Reloaded; bridges Final Flight of the Osiris"
+     }
+    ],
+    "notes": "Publisher and platforms from general knowledge, not checked against the infobox.",
+    "revid": 1373480062,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Enter_the_Matrix&oldid=1373480062"
+   },
+   {
+    "id": "the-matrix-reloaded",
+    "title": "The Matrix Reloaded",
+    "type": "film",
+    "wiki_article": "The Matrix Reloaded",
+    "continuity": "matrix-main",
+    "studio_or_developer": "Village Roadshow Pictures / Silver Pictures",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-05-15",
+      "release_quote": "The film premiered on May 7, 2003, in Westwood, Los Angeles, California, and had its worldwide release by Warner Bros. Pictures on May 15, 2003",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "six months after The Matrix",
+       "confidence": "stated",
+       "quote": "Six months after escaping the Matrix, Neo and Trinity are now romantically involved.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718",
+       "precision": "relative",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1383249718,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718"
+   },
+   {
+    "id": "the-matrix-revolutions",
+    "title": "The Matrix Revolutions",
+    "type": "film",
+    "wiki_article": "The Matrix Revolutions",
+    "continuity": "matrix-main",
+    "studio_or_developer": "Village Roadshow Pictures / Silver Pictures",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-11-05",
+      "release_quote": "The Matrix Revolutions was released worldwide on November 5, 2003, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Revolutions&oldid=1388161564",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "directly after Reloaded",
+       "confidence": "stated",
+       "quote": "A direct sequel titled The Matrix Revolutions was released six months later on November 5, 2003.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718",
+       "precision": "relative",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix-reloaded",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1388161564,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Revolutions&oldid=1388161564"
+   },
+   {
+    "id": "the-matrix-online",
+    "title": "The Matrix Online",
+    "type": "video-game",
+    "wiki_article": "The Matrix Online",
+    "continuity": "matrix-main",
+    "studio_or_developer": "Monolith Productions",
+    "publisher": "Warner Bros. / Sega; later Sony Online Entertainment",
+    "platform": "Windows",
+    "platforms": [
+     "Windows"
+    ],
+    "units": [
+     {
+      "key": "game",
+      "label": "Game",
+      "release_date": "2005-03-22",
+      "release_quote": "Warner Bros. and Sega released MxO on March 22, 2005, in the United States. It was released in Europe on April 15, 2005.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Online&oldid=1370160582",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Revolutions",
+       "confidence": "stated",
+       "quote": "the online video game The Matrix Online was a direct sequel to Revolutions.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_(franchise)&oldid=1387960713",
+       "precision": "relative",
+       "note": "Placed before Resurrections (set sixty years after Revolutions) by inference; no source compares the two.",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix-revolutions",
+      "kind": "continues",
+      "note": "official continuation of the story after Revolutions"
+     }
+    ],
+    "notes": "Developed by Monolith Productions, later Sony Online Entertainment (per article lead); discontinued MMORPG. Platform from general knowledge, not checked.",
+    "revid": 1370160582,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Online&oldid=1370160582"
+   },
+   {
+    "id": "the-matrix-resurrections",
+    "title": "The Matrix Resurrections",
+    "type": "film",
+    "wiki_article": "The Matrix Resurrections",
+    "continuity": "matrix-main",
+    "studio_or_developer": "Village Roadshow Pictures / Venus Castina Productions",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-12-22",
+      "release_quote": "A fourth film, The Matrix Resurrections, was released on December 22, 2021, with Lana Wachowski producing, cowriting, and directing and Reeves and Moss reprising their roles.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_(franchise)&oldid=1387960713",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "sixty years after Revolutions",
+       "confidence": "stated",
+       "quote": "Set sixty years after Revolutions, the film follows Neo, who lives a seemingly ordinary life as a video game developer having trouble with distinguishing fantasy from reality.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Resurrections&oldid=1386380600",
+       "precision": "relative",
+       "note": "If The Matrix is c. 2199 this would be roughly the 2260s, but the anchor is itself approximate, so no year is set.",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix-revolutions",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "Premiere location conflict: Resurrections article says Castro Theater, San Francisco (Dec 16, 2021); Revolutions article says Toronto. Release date agrees.",
+    "revid": 1386380600,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Matrix_Resurrections&oldid=1386380600"
+   },
+   {
+    "id": "the-matrix-path-of-neo",
+    "title": "The Matrix: Path of Neo",
+    "type": "video-game",
+    "wiki_article": "The Matrix: Path of Neo",
+    "continuity": "matrix-path-of-neo",
+    "studio_or_developer": "Shiny Entertainment",
+    "publisher": "Atari",
+    "platform": "PlayStation 2",
+    "platforms": [
+     "PlayStation 2",
+     "Xbox",
+     "Windows"
+    ],
+    "units": [
+     {
+      "key": "game",
+      "label": "Game",
+      "release_date": "2005-11-08",
+      "release_quote": "Path of Neo was released in the United States on 8 November 2005.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "retells the trilogy",
+       "confidence": "inferred",
+       "quote": "Players assume the role of Neo, with the objective of guiding the character through the events of The Matrix trilogy",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540",
+       "precision": "relative",
+       "note": "Single-entry continuity (retelling with an alternate ending).",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-matrix",
+      "kind": "crossover",
+      "note": "retelling of the film trilogy with an alternate ending, written and co-directed by the Wachowskis"
+     }
+    ],
+    "notes": "Platforms from general knowledge, not checked.",
+    "revid": 1383333540,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540"
+   }
+  ]
+ },
+ "mad-max": {
+  "continuities": [
+   {
+    "id": "mad-max-main",
+    "name": "Mad Max",
+    "ordered_only": true,
+    "description": "One loose continuity of the five films, ordered by stated relative timing. Wikipedia says the franchise has no strict chronology and the later two films describe a different collapse from the first three; placing Furiosa and Fury Road after Beyond Thunderdome rests on Miller's \"probably\".",
+    "quote": "Because Mad Max films are generally told as folklore, the Mad Max franchise has historically been less concerned with continuity than most science fiction or fantasy franchises, like Star Wars or Star Trek. At least one critic has suggested that \"the franchise’s canon cannot be reconciled in any way — barring the introduction of time travel.\" … In the timeline of the first three films, the 1979 oil crisis caused by the Iranian Revolution worsened … In the timeline of the later two films (Fury Road and Furiosa), the collapse happened around the 2010s … It is a prequel to Fury Road; Miller said that while the franchise has \"no strict chronology,\" it \"probably\" takes place after Beyond Thunderdome.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Mad_Max&oldid=1386780908"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "mad-max",
+    "title": "Mad Max",
+    "type": "film",
+    "wiki_article": "Mad Max (film)",
+    "continuity": "mad-max-main",
+    "studio_or_developer": "Kennedy Miller",
+    "publisher": "Roadshow Film Distributors",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1979-04-12",
+      "release_quote": "[infobox] | released = {{Film date|df=yes|1979|04|12|Australia|1980|03|21|United States}} … The film initially received a polarised reception upon its release in April 1979",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mad_Max_(film)&oldid=1387866352",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "near future, before the collapse",
+       "confidence": "stated",
+       "quote": "A dystopian near-future Australia is facing a breakdown of civil order primarily owing to widespread oil shortages and ecocide. … The first Mad Max film takes place in the original timeline and is a mostly traditional origin story.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mad_Max_(film)&oldid=1387866352",
+       "precision": "relative",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Release date is from the infobox wikitext of the same revision.",
+    "revid": 1387866352,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mad_Max_(film)&oldid=1387866352"
+   },
+   {
+    "id": "mad-max-2",
+    "title": "Mad Max 2",
+    "type": "film",
+    "wiki_article": "Mad Max 2",
+    "continuity": "mad-max-main",
+    "studio_or_developer": "Kennedy Miller",
+    "publisher": "Warner Bros.",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1981-12-24",
+      "release_quote": "Mad Max 2 was released in Australia on 24 December 1981",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mad_Max_2&oldid=1387105758",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Mad Max, post-collapse",
+       "confidence": "stated",
+       "quote": "It is the sequel to Mad Max (1979) … After a global war results in widespread oil shortages and ecocide, civilisation collapses and the world descends into barbarism. Former policeman Max Rockatansky, haunted by the death of his family, drives around the desert Outback",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mad_Max_2&oldid=1387105758",
+       "precision": "relative",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mad-max",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "Released in the US as The Road Warrior. Distributor not checked against the infobox.",
+    "revid": 1387105758,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mad_Max_2&oldid=1387105758"
+   },
+   {
+    "id": "mad-max-beyond-thunderdome",
+    "title": "Mad Max Beyond Thunderdome",
+    "type": "film",
+    "wiki_article": "Mad Max Beyond Thunderdome",
+    "continuity": "mad-max-main",
+    "studio_or_developer": "Kennedy Miller",
+    "publisher": "Warner Bros.",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1985-07-10",
+      "release_quote": "Mad Max Beyond Thunderdome was released in Australia on 10 July 1985.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mad_Max_Beyond_Thunderdome&oldid=1388066113",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Mad Max 2",
+       "confidence": "stated",
+       "quote": "The third installment in the Mad Max franchise and the sequel to Mad Max 2 (1981)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mad_Max_Beyond_Thunderdome&oldid=1388066113",
+       "precision": "relative",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mad-max-2",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "Distributor not checked against the infobox.",
+    "revid": 1388066113,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mad_Max_Beyond_Thunderdome&oldid=1388066113"
+   },
+   {
+    "id": "furiosa-a-mad-max-saga",
+    "title": "Furiosa: A Mad Max Saga",
+    "type": "film",
+    "wiki_article": "Furiosa: A Mad Max Saga",
+    "continuity": "mad-max-main",
+    "studio_or_developer": "Kennedy Miller Mitchell / Village Roadshow Pictures",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-05-23",
+      "release_quote": "It was released theatrically in Australia on 23 May 2024 and in the United States the following day.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Furiosa%3A_A_Mad_Max_Saga&oldid=1387216915",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "years before Fury Road, spanning over a decade",
+       "confidence": "disputed",
+       "quote": "set years before Fury Road, the film follows her life for over a decade … According to Miller, Furiosa \"probably\" takes place after Mad Max Beyond Thunderdome (1985), but the Mad Max franchise has \"no strict chronology\". The first trailer of the film, released on 30 November 2023, stated that Furiosa takes place \"45 years after the collapse\".",
+       "source": "https://en.wikipedia.org/w/index.php?title=Furiosa%3A_A_Mad_Max_Saga&oldid=1387216915",
+       "precision": "relative",
+       "note": "Prequel to Fury Road is stated; placement after Beyond Thunderdome is only Miller's \"probably\", and the franchise article puts the later films' collapse \"around the 2010s\", a different collapse from the first three films. No year set: \"45 years after the collapse\" plus \"around the 2010s\" is too loose to derive one.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mad-max-fury-road",
+      "kind": "continues",
+      "note": "prequel to Fury Road; origin of Furiosa"
+     }
+    ],
+    "notes": "",
+    "revid": 1387216915,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Furiosa%3A_A_Mad_Max_Saga&oldid=1387216915"
+   },
+   {
+    "id": "mad-max-fury-road",
+    "title": "Mad Max: Fury Road",
+    "type": "film",
+    "wiki_article": "Mad Max: Fury Road",
+    "continuity": "mad-max-main",
+    "studio_or_developer": "Kennedy Miller Mitchell / Village Roadshow Pictures",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-05-14",
+      "release_quote": "Mad Max: Fury Road premiered in Los Angeles on 7 May 2015, and was released in Australia on 14 May.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mad_Max%3A_Fury_Road&oldid=1387459703",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Furiosa",
+       "confidence": "disputed",
+       "quote": "A prequel film, Furiosa: A Mad Max Saga, was released on 24 May 2024 … [franchise:] It is a prequel to Fury Road; Miller said that while the franchise has \"no strict chronology,\" it \"probably\" takes place after Beyond Thunderdome.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mad_Max%3A_Fury_Road&oldid=1387459703",
+       "precision": "relative",
+       "note": "Order after Furiosa is stated; order after the first three films is Miller's \"probably\" only.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mad-max-beyond-thunderdome",
+      "kind": "sequel",
+      "note": "fourth film; loose continuity with the first three"
+     }
+    ],
+    "notes": "",
+    "revid": 1387459703,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mad_Max%3A_Fury_Road&oldid=1387459703"
+   }
+  ]
+ },
+ "_ranks": {
+  "conjuring": [
+   "the-nun:film",
+   "annabelle-creation:film",
+   "the-nun-ii:film",
+   "annabelle:film",
+   "annabelle-comes-home:film",
+   "the-conjuring:film",
+   "the-curse-of-la-llorona:film",
+   "the-conjuring-2:film",
+   "the-conjuring-the-devil-made-me-do-it:film",
+   "the-conjuring-last-rites:film"
+  ],
+  "john-wick": [
+   "the-continental:s1",
+   "john-wick:film",
+   "john-wick-chapter-2:film",
+   "john-wick-chapter-3-parabellum:film",
+   "ballerina:film",
+   "john-wick-chapter-4:film"
+  ],
+  "matrix": [
+   "the-animatrix:film",
+   "the-matrix:film",
+   "enter-the-matrix:game",
+   "the-matrix-reloaded:film",
+   "the-matrix-revolutions:film",
+   "the-matrix-online:game",
+   "the-matrix-resurrections:film",
+   "the-matrix-path-of-neo:game"
+  ],
+  "mad-max": [
+   "mad-max:film",
+   "mad-max-2:film",
+   "mad-max-beyond-thunderdome:film",
+   "furiosa-a-mad-max-saga:film",
+   "mad-max-fury-road:film"
+  ]
+ }
+}

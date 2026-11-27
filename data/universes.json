@@ -1818,5 +1818,69 @@
     "data_dir": "rocky",
     "description": "The Rocky and Creed films in one continuity.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "conjuring",
+    "name": "The Conjuring Universe",
+    "short_name": "Conjuring Universe",
+    "order": 73,
+    "enabled": true,
+    "accent": {
+      "primary": "#4A148C",
+      "secondary": "#B0BEC5"
+    },
+    "default_continuity": "conjuring-main",
+    "grouping_schemes": [],
+    "data_dir": "conjuring",
+    "description": "The Conjuring, Annabelle and The Nun films in story order by their stated years (The Curse of La Llorona is set in the universe but not an official installment).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "john-wick",
+    "name": "John Wick",
+    "short_name": "John Wick",
+    "order": 74,
+    "enabled": true,
+    "accent": {
+      "primary": "#212121",
+      "secondary": "#C62828"
+    },
+    "default_continuity": "john-wick-main",
+    "grouping_schemes": [],
+    "data_dir": "john-wick",
+    "description": "The John Wick films, Ballerina and The Continental.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "matrix",
+    "name": "The Matrix",
+    "short_name": "Matrix",
+    "order": 75,
+    "enabled": true,
+    "accent": {
+      "primary": "#1B5E20",
+      "secondary": "#76FF03"
+    },
+    "default_continuity": "matrix-main",
+    "grouping_schemes": [],
+    "data_dir": "matrix",
+    "description": "The Matrix films with The Animatrix, Enter the Matrix and The Matrix Online (stated as canon); Path of Neo as a separate retelling.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "mad-max",
+    "name": "Mad Max",
+    "short_name": "Mad Max",
+    "order": 76,
+    "enabled": true,
+    "accent": {
+      "primary": "#E65100",
+      "secondary": "#5D4037"
+    },
+    "default_continuity": "mad-max-main",
+    "grouping_schemes": [],
+    "data_dir": "mad-max",
+    "description": "The five Mad Max films, a loose continuity ('no strict chronology').",
+    "last_verified": "2026-11-27"
   }
 ]

@@ -1,0 +1,465 @@
+[
+  {
+    "id": "the-continental",
+    "title": "The Continental: From the World of John Wick",
+    "sort_title": "Continental: From the World of John Wick",
+    "type": "series",
+    "universe": "john-wick",
+    "continuity": "john-wick-main",
+    "studio_brand": "lionsgate-television",
+    "label": null,
+    "platform_or_network": "peacock",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Continental: From the World of John Wick",
+      "wikidata": "Q47287975",
+      "tmdb": "72710",
+      "imdb": "tt6486762"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Continental:_From_the_World_of_John_Wick",
+      "https://en.wikipedia.org/w/index.php?title=The_Continental%3A_From_the_World_of_John_Wick&oldid=1387200551"
+    ],
+    "notes": "Miniseries of three 90-minute episodes (one season unit). Studio field is a placeholder from general knowledge; not checked against the infobox.",
+    "units": [
+      {
+        "id": "the-continental",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 3,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1970
+          },
+          "end": {
+            "y": 1979
+          },
+          "label": "1970s",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The Continental: From the World of John Wick tells the background story of how Winston Scott, in the 1970s, came to his position as proprietor of the New York branch of \"The Continental\" chain of hotels",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-09-22",
+          "end_date": "2023-10-06",
+          "year": 2023,
+          "note": "Wikipedia: The series premiered on September 22, 2023, on Peacock in the United States, and on Amazon Prime Video internationally. [infobox] | num_episodes = 3 | first_aired = September 22, 2023 | last_aired = October 6, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Continental:_From_the_World_of_John_Wick",
+          "https://en.wikipedia.org/w/index.php?title=The_Continental%3A_From_the_World_of_John_Wick&oldid=1387200551"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "john-wick",
+        "kind": "continues",
+        "note": "prequel miniseries; young Winston decades before the films"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "john-wick",
+    "title": "John Wick",
+    "sort_title": null,
+    "type": "film",
+    "universe": "john-wick",
+    "continuity": "john-wick-main",
+    "studio_brand": "thunder-road",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "John Wick (film)",
+      "wikidata": "Q15732802",
+      "tmdb": "245891",
+      "imdb": "tt2911666"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/John_Wick_(film)",
+      "https://en.wikipedia.org/w/index.php?title=John_Wick_(film)&oldid=1387829556"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "john-wick",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 101,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "first film",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "John Wick began a successful franchise which includes three sequels, John Wick: Chapter 2 (2017), John Wick: Chapter 3 – Parabellum (2019), and John Wick: Chapter 4 (2023), the prequel television series The Continental (2023), and the spin-off film Ballerina (2025) No in-universe year stated; first in the film sequence, after the prequel series.",
+          "order_index": 20,
+          "relative_to": {
+            "after": "the-continental",
+            "before": "john-wick-chapter-2"
+          }
+        },
+        "release": {
+          "date": "2014-10-24",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: John Wick was premiered at Regal Union Square Theater in New York City on October 13, 2014 … John Wick was released in the United States and Canada on October 24."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/John_Wick_(film)",
+          "https://en.wikipedia.org/w/index.php?title=John_Wick_(film)&oldid=1387829556"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "john-wick-chapter-2",
+    "title": "John Wick: Chapter 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "john-wick",
+    "continuity": "john-wick-main",
+    "studio_brand": "thunder-road",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "John Wick: Chapter 2",
+      "wikidata": "Q21451640",
+      "tmdb": "324552",
+      "imdb": "tt4425200"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/John_Wick:_Chapter_2",
+      "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_2&oldid=1386054150"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "john-wick-chapter-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 122,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "shortly after John Wick",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "John Wick infiltrates a smuggling compound run by Abram Tarasov, who is highly strung following the recent deaths of his nephew Iosef and brother Viggo at John's hands. \"Recent deaths\" of the first film's villains: placed directly after John Wick; exact gap not stated.",
+          "order_index": 30,
+          "relative_to": {
+            "after": "john-wick",
+            "before": "john-wick-chapter-3-parabellum"
+          }
+        },
+        "release": {
+          "date": "2017-02-10",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: John Wick: Chapter 2 premiered at Arclight Hollywood in Los Angeles on January 30, 2017, and was theatrically released in the United States on February 10, 2017, by Summit Entertainment."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/John_Wick:_Chapter_2",
+          "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_2&oldid=1386054150"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "john-wick",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "john-wick-chapter-3-parabellum",
+    "title": "John Wick: Chapter 3 – Parabellum",
+    "sort_title": null,
+    "type": "film",
+    "universe": "john-wick",
+    "continuity": "john-wick-main",
+    "studio_brand": "thunder-road",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "John Wick: Chapter 3 – Parabellum",
+      "wikidata": "Q52951815",
+      "tmdb": "458156",
+      "imdb": "tt6146586"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/John_Wick:_Chapter_3_%E2%80%93_Parabellum",
+      "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_3_%E2%80%93_Parabellum&oldid=1387402205"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "john-wick-chapter-3-parabellum",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 131,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "immediately after Chapter 2",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "The film takes place immediately after Chapter 2 and centers on John Wick going on the run from a legion of hitmen after a bounty is placed for his murder.",
+          "order_index": 40,
+          "relative_to": {
+            "after": "john-wick-chapter-2",
+            "before": "ballerina"
+          }
+        },
+        "release": {
+          "date": "2019-05-17",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: John Wick: Chapter 3 – Parabellum had its premiere at the Regal Union Square in New York City on May 9, 2019, and was released in the United States on May 17, by Lionsgate."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/John_Wick:_Chapter_3_%E2%80%93_Parabellum",
+          "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_3_%E2%80%93_Parabellum&oldid=1387402205"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "john-wick-chapter-2",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ballerina",
+    "title": "Ballerina",
+    "sort_title": null,
+    "type": "film",
+    "universe": "john-wick",
+    "continuity": "john-wick-main",
+    "studio_brand": "thunder-road",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ballerina (2025 film)",
+      "wikidata": "Q84713105",
+      "tmdb": "541671",
+      "imdb": "tt7181546"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ballerina_(2025_film)",
+      "https://en.wikipedia.org/w/index.php?title=Ballerina_(2025_film)&oldid=1387383143"
+    ],
+    "notes": "Marketed as \"From the World of John Wick: Ballerina\".",
+    "units": [
+      {
+        "id": "ballerina",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 125,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "between Chapter 3 and Chapter 4",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is a spin-off installment within the John Wick film series, taking place between the events of John Wick: Chapter 3 – Parabellum (2019) and Chapter 4 (2023).",
+          "order_index": 50,
+          "relative_to": {
+            "after": "john-wick-chapter-3-parabellum",
+            "before": "john-wick-chapter-4"
+          }
+        },
+        "release": {
+          "date": "2025-06-06",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: Ballerina was released in the United States on June 6, 2025, after being delayed a year from its originally announced date of June 7, 2024."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ballerina_(2025_film)",
+          "https://en.wikipedia.org/w/index.php?title=Ballerina_(2025_film)&oldid=1387383143"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "john-wick-chapter-3-parabellum",
+        "kind": "spinoff",
+        "note": "set between Chapter 3 and Chapter 4"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "john-wick-chapter-4",
+    "title": "John Wick: Chapter 4",
+    "sort_title": null,
+    "type": "film",
+    "universe": "john-wick",
+    "continuity": "john-wick-main",
+    "studio_brand": "thunder-road",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "John Wick: Chapter 4",
+      "wikidata": "Q80322358",
+      "tmdb": "603692",
+      "imdb": "tt10366206"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/John_Wick:_Chapter_4",
+      "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_4&oldid=1386963715"
+    ],
+    "notes": "Spin-off From the World of John Wick: Caine (set after Chapter 4) began filming April 25, 2026; no release by 2026-11-27, not included.",
+    "units": [
+      {
+        "id": "john-wick-chapter-4",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 169,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Chapter 3 (and Ballerina)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "A spin-off set between the third and fourth films, titled Ballerina, was released in 2025. … In New York City, John Wick, hiding underground with the Bowery King, recovers after being shot off the roof of the Continental Hotel by Winston.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "ballerina",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2023-03-24",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: John Wick: Chapter 4 premiered at the Odeon Luxe Leicester Square in London on March 6, 2023, and was released in the United States on March 24."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/John_Wick:_Chapter_4",
+          "https://en.wikipedia.org/w/index.php?title=John_Wick%3A_Chapter_4&oldid=1386963715"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "john-wick-chapter-3-parabellum",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

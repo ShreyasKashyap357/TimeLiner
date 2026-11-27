@@ -1,0 +1,618 @@
+[
+  {
+    "id": "the-animatrix",
+    "title": "The Animatrix",
+    "sort_title": "Animatrix",
+    "type": "film",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Animatrix",
+      "wikidata": "Q335340",
+      "tmdb": "55931",
+      "imdb": "tt0328832"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Animatrix",
+      "https://en.wikipedia.org/w/index.php?title=The_Animatrix&oldid=1387507275"
+    ],
+    "notes": "Studios not filled (anthology by several Japanese and US studios; not checked).",
+    "units": [
+      {
+        "id": "the-animatrix",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 97,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "anthology: 2148 machine-war history up to the eve of Reloaded",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "In 2148, following the rest of humanity's refusal to share the planet with the machines, the United Nations unleashes an all-out nuclear bombardment against Zero One … Kid's Story takes place during the six-month gap between The Matrix and The Matrix Reloaded … [franchise:] the Animatrix short film The Second Renaissance act as prequels to the films Nine shorts spanning the 22nd-century war (2148 stated in The Second Renaissance) to the six-month gap after The Matrix. One unit (direct-to-video anthology film); placed first because its prequel shorts are the earliest material, although some shorts fall after The Matrix.",
+          "order_index": 10,
+          "relative_to": {
+            "after": "the-matrix",
+            "before": "enter-the-matrix"
+          }
+        },
+        "release": {
+          "date": "2003-06-03",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: The Animatrix was released by Warner Home Video on June 3, 2003. … Final Flight of the Osiris was shown in theaters with the film Dreamcatcher."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Animatrix",
+          "https://en.wikipedia.org/w/index.php?title=The_Animatrix&oldid=1387507275"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix",
+        "kind": "continues",
+        "note": "prequel shorts plus stories between The Matrix and Reloaded"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-matrix",
+    "title": "The Matrix",
+    "sort_title": "Matrix",
+    "type": "film",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "village-roadshow-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Matrix",
+      "wikidata": "Q83495",
+      "tmdb": "603",
+      "imdb": "tt0133093"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Matrix",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix&oldid=1387182561"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-matrix",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 136,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2199
+          },
+          "end": {
+            "y": 2199
+          },
+          "label": "c. 2199 (the Matrix simulates 1999)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "In an unnamed city in 1999, Thomas Anderson, a computer programmer known as \"Neo\" in hacking circles, investigates the mystery of the \"Matrix\" … Morpheus explains that the year is approximately 2199. The real-world year is given only as \"approximately 2199\" by a character; 1999 is the simulated year inside the Matrix. The real-world year is used for placement.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-03-31",
+          "end_date": null,
+          "year": 1999,
+          "note": "Wikipedia: The Matrix was released in theaters in the United States on March 31, 1999, to widespread critical acclaim."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Matrix",
+          "https://en.wikipedia.org/w/index.php?title=The_Matrix&oldid=1387182561"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "enter-the-matrix",
+    "title": "Enter the Matrix",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "shiny-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-2",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Enter the Matrix",
+      "wikidata": "Q736528",
+      "tmdb": null,
+      "imdb": "tt0277828"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Enter_the_Matrix",
+      "https://en.wikipedia.org/w/index.php?title=Enter_the_Matrix&oldid=1373480062"
+    ],
+    "notes": "Publisher and platforms from general knowledge, not checked against the infobox.",
+    "units": [
+      {
+        "id": "enter-the-matrix",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "just before and alongside Reloaded",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "The game takes place at roughly the same time as the events in Reloaded. … The story begins with Niobe, captain of the Logos, and Ghost, her first mate, retrieving a package left in the Matrix by the crew of the recently destroyed rebel ship Osiris. Placed before Reloaded because it opens with the Osiris package that leads into the film; it overlaps Reloaded.",
+          "order_index": 30,
+          "relative_to": {
+            "after": "the-animatrix",
+            "before": "the-matrix-reloaded"
+          }
+        },
+        "release": {
+          "date": "2003-05-15",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: Released on May 15, 2003, around the same period as The Matrix Reloaded, Enter the Matrix was simultaneously produced with The Matrix Reloaded and The Matrix Revolutions."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Enter_the_Matrix",
+          "https://en.wikipedia.org/w/index.php?title=Enter_the_Matrix&oldid=1373480062"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix-reloaded",
+        "kind": "continues",
+        "note": "runs parallel to Reloaded; bridges Final Flight of the Osiris"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-matrix-reloaded",
+    "title": "The Matrix Reloaded",
+    "sort_title": "Matrix Reloaded",
+    "type": "film",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "village-roadshow-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Matrix Reloaded",
+      "wikidata": "Q189600",
+      "tmdb": "604",
+      "imdb": "tt0234215"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-matrix-reloaded",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 138,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "six months after The Matrix",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Six months after escaping the Matrix, Neo and Trinity are now romantically involved.",
+          "order_index": 40,
+          "relative_to": {
+            "after": "enter-the-matrix",
+            "before": "the-matrix-revolutions"
+          }
+        },
+        "release": {
+          "date": "2003-05-15",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: The film premiered on May 7, 2003, in Westwood, Los Angeles, California, and had its worldwide release by Warner Bros. Pictures on May 15, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+          "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-matrix-revolutions",
+    "title": "The Matrix Revolutions",
+    "sort_title": "Matrix Revolutions",
+    "type": "film",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "village-roadshow-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Matrix Revolutions",
+      "wikidata": "Q207536",
+      "tmdb": "605",
+      "imdb": "tt0242653"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Matrix_Revolutions",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-matrix-revolutions",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 129,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "directly after Reloaded",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "A direct sequel titled The Matrix Revolutions was released six months later on November 5, 2003.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "the-matrix-reloaded",
+            "before": "the-matrix-online"
+          }
+        },
+        "release": {
+          "date": "2003-11-05",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: The Matrix Revolutions was released worldwide on November 5, 2003, by Warner Bros."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Matrix_Revolutions",
+          "https://en.wikipedia.org/w/index.php?title=The_Matrix_Reloaded&oldid=1383249718"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix-reloaded",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-matrix-online",
+    "title": "The Matrix Online",
+    "sort_title": "Matrix Online",
+    "type": "video-game",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "monolith-productions",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Matrix Online",
+      "wikidata": "Q959892",
+      "tmdb": null,
+      "imdb": "tt0390244"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Matrix_Online",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix_(franchise)&oldid=1387960713"
+    ],
+    "notes": "Developed by Monolith Productions, later Sony Online Entertainment (per article lead); discontinued MMORPG. Platform from general knowledge, not checked.",
+    "units": [
+      {
+        "id": "the-matrix-online",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Revolutions",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "the online video game The Matrix Online was a direct sequel to Revolutions. Placed before Resurrections (set sixty years after Revolutions) by inference; no source compares the two.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "the-matrix-revolutions",
+            "before": "the-matrix-resurrections"
+          }
+        },
+        "release": {
+          "date": "2005-03-22",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: Warner Bros. and Sega released MxO on March 22, 2005, in the United States. It was released in Europe on April 15, 2005."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Matrix_Online",
+          "https://en.wikipedia.org/w/index.php?title=The_Matrix_(franchise)&oldid=1387960713"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix-revolutions",
+        "kind": "continues",
+        "note": "official continuation of the story after Revolutions"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-matrix-resurrections",
+    "title": "The Matrix Resurrections",
+    "sort_title": "Matrix Resurrections",
+    "type": "film",
+    "universe": "matrix",
+    "continuity": "matrix-main",
+    "studio_brand": "village-roadshow-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Matrix Resurrections",
+      "wikidata": "Q80322391",
+      "tmdb": "624860",
+      "imdb": "tt10838180"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix_Resurrections&oldid=1386380600"
+    ],
+    "notes": "Premiere location conflict: Resurrections article says Castro Theater, San Francisco (Dec 16, 2021); Revolutions article says Toronto. Release date agrees.",
+    "units": [
+      {
+        "id": "the-matrix-resurrections",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 148,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "sixty years after Revolutions",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Set sixty years after Revolutions, the film follows Neo, who lives a seemingly ordinary life as a video game developer having trouble with distinguishing fantasy from reality. If The Matrix is c. 2199 this would be roughly the 2260s, but the anchor is itself approximate, so no year is set.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "the-matrix-online",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2021-12-22",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: A fourth film, The Matrix Resurrections, was released on December 22, 2021, with Lana Wachowski producing, cowriting, and directing and Reeves and Moss reprising their roles."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
+          "https://en.wikipedia.org/w/index.php?title=The_Matrix_Resurrections&oldid=1386380600"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix-revolutions",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-matrix-path-of-neo",
+    "title": "The Matrix: Path of Neo",
+    "sort_title": "Matrix: Path of Neo",
+    "type": "video-game",
+    "universe": "matrix",
+    "continuity": "matrix-path-of-neo",
+    "studio_brand": "shiny-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-2",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Matrix: Path of Neo",
+      "wikidata": "Q1203242",
+      "tmdb": null,
+      "imdb": "tt0451118"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Matrix:_Path_of_Neo",
+      "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540"
+    ],
+    "notes": "Platforms from general knowledge, not checked.",
+    "units": [
+      {
+        "id": "the-matrix-path-of-neo",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "retells the trilogy",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Players assume the role of Neo, with the objective of guiding the character through the events of The Matrix trilogy Single-entry continuity (retelling with an alternate ending).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-11-08",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: Path of Neo was released in the United States on 8 November 2005."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Matrix:_Path_of_Neo",
+          "https://en.wikipedia.org/w/index.php?title=The_Matrix%3A_Path_of_Neo&oldid=1383333540"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-matrix",
+        "kind": "crossover",
+        "note": "retelling of the film trilogy with an alternate ending, written and co-directed by the Wachowskis"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

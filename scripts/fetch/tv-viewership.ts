@@ -9,6 +9,7 @@ import path from 'node:path';
 import { getJson, politePause } from './http.ts';
 import { SOURCES_DIR, WIKIPEDIA, slugify } from './mediawiki.ts';
 import { TitlesFile, UniversesFile, type Title, type Unit } from '../../src/domain/schema.ts';
+import { formatRelease } from '../../src/domain/dates.ts';
 import { episodeListLink, mean, overview, seasonsOfPage, type ParsedEpisode, type ParsedTable, type SeasonInfo } from '../build/viewership.ts';
 
 const RAW_DIR = path.join(SOURCES_DIR, 'tv-viewership-raw');
@@ -64,7 +65,8 @@ interface Candidate { page: Page; tables: ParsedTable[] }
 function choose(cands: Candidate[], expected: number | null, slice: [number, number] | null, seasonTotal: number | null): { page: Page; table: ParsedTable; episodes: ParsedEpisode[] } | string {
   const reasons: string[] = [];
   for (const c of cands) {
-    const withViewers = c.tables.filter((t) => t.measure && t.episodes.length);
+    // Only columns counted in millions (not ratings/shares).
+    const withViewers = c.tables.filter((t) => t.measure && /million/i.test(t.measure) && t.episodes.length);
     if (!withViewers.length) { reasons.push(`${c.page.title}: no viewers column`); continue; }
     const options: ParsedTable[] = [withViewers[0]!];
     if (withViewers.length > 1 && withViewers.every((t) => t.measure === withViewers[0]!.measure)) {
@@ -179,7 +181,11 @@ async function main() {
       const { page: src, table, episodes } = picked;
       const relDate = job.unit.release.date;
       const firstDate = episodes[0]?.date;
-      if (!job.slice && relDate && /^\d{4}-\d\d-\d\d$/.test(relDate) && firstDate && /^\d{4}-\d\d-\d\d$/.test(firstDate) && relDate !== firstDate) {
+      // Guard against mapping the wrong season: the table's first air date must be within 10 days of the unit's
+      // release date (syndicated shows often differ by a few days between sources).
+      const full = (d: string | null | undefined): d is string => !!d && /^\d{4}-\d\d-\d\d$/.test(d);
+      const dateGap = !job.slice && full(relDate) && full(firstDate) ? Math.abs(Date.parse(relDate) - Date.parse(firstDate)) / 86_400_000 : 0;
+      if (dateGap > 10) {
         reasons.push(`${job.unit.id}: first episode aired ${firstDate} but the unit's release date is ${relDate}`);
         continue;
       }
@@ -197,6 +203,7 @@ async function main() {
       }
       if (missing) notes.push(`${missing} episode${missing > 1 ? 's have' : ' has'} no figure in the source (shown as not available).`);
       if (job.slice) notes.push(`Episodes ${job.slice[0] + 1}–${job.slice[1]} of the season's table (this entry covers part of the season).`);
+      if (dateGap) notes.push(`The table dates the first episode ${formatRelease(firstDate!)}, ${dateGap} day${dateGap > 1 ? 's' : ''} from this entry's release date.`);
       if (expected === null) notes.push('Episode count not recorded for this entry, so the row count was not cross-checked.');
       units[job.unit.id] = {
         title_id: t.id, universe: uni,

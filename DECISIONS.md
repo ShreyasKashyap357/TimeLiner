@@ -8,6 +8,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
+| D-66 | TV viewership (R-56): units that are Doctor Who specials (Christmas/New Year specials and special runs) have no season number, so they get no figures, although the series articles list their viewers. Map them by episode title? | Not mapped; only numbered seasons get figures. |
+| D-67 | TV viewership: a two-part episode aired as one broadcast with one figure (e.g. the Smallville finale) shows that figure on both parts. Keep, or show it on the first part only? | Shown on both parts, as in the source row. |
 
 ## Resolved
 

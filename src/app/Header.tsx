@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import { useApp } from './context';
 import { universes as allUniverses } from '@/state/data';
-import { HeaderSelect } from './HeaderSelect';
 import { ContinuityPicker } from './ContinuityPicker';
+import { SearchablePicker } from './SearchablePicker';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Command, CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command';
@@ -26,7 +26,7 @@ export function HeaderBar() {
         <span className="font-heading text-xl font-bold tracking-widest" style={{ color: 'var(--u-primary)' }}>TIMELINER</span>
       </a>
       <div className="flex min-w-0 flex-[1_1_auto] items-center gap-2">
-        <HeaderSelect label="Universe" hint="Franchise universe" value={state.u}
+        <SearchablePicker label="Universe" hint="Franchise universe. Type to search." noun="universes" pinned={['all']} value={state.u}
           options={[...(universes.length > 1 ? [{ value: 'all', label: 'All universes' }] : []), ...universes.map((u) => ({ value: u.id, label: u.name, color: u.accent.primary }))]}
           onChange={(u) => { const uni = allUniverses.find((x) => x.id === u); update({ u, c: uni ? uni.default_continuity : state.c, unit: null }, true); }} />
         <ContinuityPicker ds={ds} conts={conts} value={state.u === 'all' ? '' : state.c ?? ''} disabled={state.u === 'all'}

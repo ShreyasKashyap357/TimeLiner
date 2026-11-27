@@ -301,3 +301,14 @@ test('cross-universe connection: badge and switch (regression)', async ({ page }
   await expect(page).toHaveURL(/u=one-chicago/);
   await expect(page).toHaveURL(/unit=chicago-pd-s1/);
 });
+
+test('Universe picker: type to search, All universes pinned on top', async ({ page }) => {
+  await page.goto('/?u=marvel&c=mcu');
+  await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
+  await expect(page.getByRole('option').first()).toHaveText(/All universes/);
+  await page.getByPlaceholder(/Search \d+ universes/).fill('dune');
+  await expect(page.getByRole('option', { name: 'Dune' })).toBeVisible();
+  await expect(page.getByRole('option', { name: 'Marvel' })).toHaveCount(0);
+  await page.getByRole('option', { name: 'Dune' }).click();
+  await expect(page).toHaveURL(/u=dune/);
+});

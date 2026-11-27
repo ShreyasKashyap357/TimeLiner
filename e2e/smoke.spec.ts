@@ -243,3 +243,16 @@ test('no browser-native hover text anywhere (title attributes or SVG <title>)', 
   await expect(page.getByRole('dialog')).toBeVisible();
   expect(await nativeTips(), 'detail drawer').toEqual([]);
 });
+
+test('game drawer: releases by platform, no tooltip popping up on open, no overflow (regression)', async ({ page }) => {
+  await page.goto('/?u=grand-theft-auto&unit=gta-v');
+  const d = page.getByRole('dialog');
+  await expect(d).toBeVisible({ timeout: 20000 });
+  await expect(d.getByText('Releases by platform')).toBeVisible();
+  await expect(d).toContainText('PlayStation 3');
+  await expect(page.getByRole('tooltip')).toHaveCount(0);
+  await d.getByText('Releases by platform').scrollIntoViewIfNeeded();
+  const over = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+  expect(over).toBeLessThanOrEqual(0);
+
+});

@@ -17,7 +17,7 @@ import { doneVerb, releaseWord } from '@/domain/model';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
   return (
-    <div className="grid grid-cols-[9rem_1fr] gap-2 py-1.5 text-sm">
+    <div className="grid grid-cols-1 gap-0.5 py-1.5 text-sm sm:grid-cols-[9rem_1fr] sm:gap-2">
       <dt className="text-muted-foreground">{k}</dt>
       <dd className="min-w-0">{children}</dd>
     </div>
@@ -75,7 +75,9 @@ export function DetailDrawer() {
 
   return (
     <Sheet open={open} onOpenChange={(o) => { if (!o) update({ unit: null }); }}>
-      <SheetContent side="right" className="w-full gap-0 overflow-y-auto sm:max-w-xl">
+      {/* Focus the panel itself on open, not the first button: focusing "Previous" popped its tooltip open unasked. */}
+      <SheetContent side="right" className="w-full gap-0 overflow-y-auto sm:max-w-xl"
+        onOpenAutoFocus={(e) => { e.preventDefault(); (e.currentTarget as HTMLElement | null)?.focus?.(); }}>
         {row && iu && (
           <>
             <SheetHeader className="border-b border-border">

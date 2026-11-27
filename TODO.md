@@ -74,6 +74,7 @@
 
 ## Queue (user go-ahead 2026-11-27): work through in waves, decisions batched
 - [x] Media: audio, stage, games (types, wording, quick filters)
+- [x] Games: earliest release per platform from Wikipedia infoboxes (R-52); 138 of 182 games. Open: D-66 (one date for several platforms)
 - [ ] Wave 1 (researching): Wizarding World; radio/stage + Riordan extras; watch orders (Arrowverse, Riordan, Middle-earth, Bond, F&F, WoT); Terminator + Halloween; games for existing universes; GTA / Assassin's Creed / Halo / Fallout / The Last of Us / The Witcher; LEGO; Doctor Who; Gundam
 - [ ] Wave 2: The Walking Dead, Yellowstone (Sheridan), Stargate, Battlestar Galactica, Breaking Bad/BCS, Law & Order / NCIS / CSI / One Chicago, Twin Peaks, Dune, Narnia, Hunger Games, Shadowhunters, The Expanse, Outlander, The Dark Tower, Discworld, Cosmere
 - [ ] Wave 3: Sherlock Holmes (D-51), Jack Ryan, Bourne, Mission: Impossible, Dragon Ball, Naruto/Boruto, One Piece, Pokémon, Ultraman, Kamen Rider, Super Sentai / Power Rangers, Avatar: The Last Airbender, Transformers, TMNT

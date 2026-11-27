@@ -8,6 +8,7 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
+| D-66 | Games whose Wikipedia infobox gives one date for several platforms with no per-platform breakdown (e.g. Halo Infinite: Windows, Xbox One, Series X/S, "December 8, 2021"; about 40 games). Should that date be recorded for every listed platform, marked as inferred? | Not recorded: only dates the infobox places under a platform header are stored (R-52). The game keeps its single release date. |
 
 ## Resolved
 

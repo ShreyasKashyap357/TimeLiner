@@ -38,7 +38,7 @@ export function ActiveFilters() {
     for (const x of v) chips.push({ key: `${String(k)}:${x}`, text: `${name}: ${fmt(x)}`, clear: { [k]: v.filter((y) => y !== x) } as Partial<FilterState> });
   };
   if (state.q) chips.push({ key: 'q', text: `Text: “${state.q}”`, clear: { q: '' } });
-  if (state.quick !== 'all') chips.push({ key: 'quick', text: { movies: 'Movies only', series: 'Series only', animated: 'Animated', books: 'Books' }[state.quick as 'movies'], clear: { quick: 'all' } });
+  if (state.quick !== 'all') chips.push({ key: 'quick', text: { movies: 'Movies only', series: 'Series only', animated: 'Animated', books: 'Books', audio: 'Audio', stage: 'Stage' }[state.quick as 'movies'], clear: { quick: 'all' } });
   list('tags', 'Character', label.tag);
   list('people', 'Person', label.person);
   list('chars', 'Character', label.character);

@@ -29,7 +29,7 @@ export interface Row {
   /** Title as shown: years in square brackets, same-name titles disambiguated by [first release year]. */
   titleName: string;
   animated: boolean;
-  medium: 'screen' | 'print';
+  medium: Medium;
   placed: boolean; // has in-universe calendar date
   releaseKey: string; // sortable ISO (partial dates padded to end of period)
   search: string; // lower-cased haystack
@@ -37,9 +37,14 @@ export interface Row {
 
 const ANIMATED: TitleType[] = ['animated-series', 'animated-film', 'motion-comic'];
 export const PRINT_TYPES: TitleType[] = ['novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference'];
-export const mediumOf = (t: TitleType): 'screen' | 'print' => (PRINT_TYPES.includes(t) ? 'print' : 'screen');
+export const AUDIO_TYPES: TitleType[] = ['radio-drama', 'audio-drama', 'podcast'];
+export const STAGE_TYPES: TitleType[] = ['stage-play', 'musical', 'live-show'];
+export type Medium = 'screen' | 'print' | 'audio' | 'stage';
+export const mediumOf = (t: TitleType): Medium => (PRINT_TYPES.includes(t) ? 'print' : AUDIO_TYPES.includes(t) ? 'audio' : STAGE_TYPES.includes(t) ? 'stage' : 'screen');
 /** Verb for marking a unit done, by medium. */
-export const doneVerb = (t: TitleType) => (mediumOf(t) === 'print' ? 'read' : 'watched');
+export const doneVerb = (t: TitleType) => ({ print: 'read', audio: 'listened to', stage: 'seen', screen: 'watched' } as const)[mediumOf(t)];
+/** Word for a unit's first release, by medium (published / first broadcast / first performance / released). */
+export const releaseWord = (t: TitleType) => ({ print: 'Published', audio: 'First broadcast', stage: 'First performance', screen: 'Released' } as const)[mediumOf(t)];
 
 export function unitDisplayName(t: Title, u: Unit, titleName = t.title): string {
   return t.units.length === 1 && /^(Film|Special|Short film|Miniseries|Season 1|Novel|Novella|Book|Short story|Anthology)$/.test(u.label) ? titleName : `${titleName} — ${u.label}`;

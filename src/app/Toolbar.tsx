@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
-import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight, BookOpen } from 'lucide-react';
+import { SlidersHorizontal, Film, Tv, Sparkles, LayoutList, ArrowRight, BookOpen, Radio, Theater } from 'lucide-react';
 import { formatRelease } from '@/domain/dates';
 
 const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: string }>; tip: string }[] = [
@@ -17,7 +17,10 @@ const QUICK: { v: Quick; label: string; icon: React.ComponentType<{ className?: 
   { v: 'series', label: 'Series only', icon: Tv, tip: 'Series seasons, episode ranges and crossover events' },
   { v: 'animated', label: 'Animated', icon: Sparkles, tip: 'Animated series and films only' },
   { v: 'books', label: 'Books', icon: BookOpen, tip: 'Novels, novellas, comics and other print' },
+  { v: 'audio', label: 'Audio', icon: Radio, tip: 'Radio dramas, audio dramas and podcasts' },
+  { v: 'stage', label: 'Stage', icon: Theater, tip: 'Plays, musicals and live shows' },
 ];
+const QUICK_MEDIUM: Partial<Record<Quick, Row['medium']>> = { books: 'print', audio: 'audio', stage: 'stage' };
 
 export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
   sortOptions: { id: SortId; label: string; alt?: string }[];
@@ -27,7 +30,8 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
   filterPanel: React.ReactNode;
 }) {
   const { state, update, rows } = useApp();
-  const hasPrint = rows.some((r) => r.medium === 'print' && (state.u === 'all' || r.universe.id === state.u));
+  // Medium toggles appear only when the current universe has titles in that medium.
+  const hasMedium = (m: Row['medium']) => rows.some((r) => r.medium === m && (state.u === 'all' || r.universe.id === state.u));
   return (
     <div className="my-4 flex flex-col gap-4">
       {/* dashboard stats */}
@@ -63,7 +67,7 @@ export function Toolbar({ sortOptions, prog, next, counts, filterPanel }: {
       {/* controls */}
       <div className="flex flex-wrap items-center gap-2">
         <ToggleGroup type="single" variant="outline" className="flex-wrap" value={state.quick} onValueChange={(v) => update({ quick: (v || 'all') as Quick })} aria-label="Quick type filter">
-          {QUICK.filter((q) => q.v !== 'books' || hasPrint).map((q) => (
+          {QUICK.filter((q) => !QUICK_MEDIUM[q.v] || hasMedium(QUICK_MEDIUM[q.v]!)).map((q) => (
             <ToggleGroupItem key={q.v} value={q.v}>
               {/* tooltip on an inner span: a TooltipTrigger on the item itself would overwrite its data-state="on" */}
               <Tooltip>

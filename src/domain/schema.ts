@@ -23,7 +23,7 @@ export const Studio = z.object({
 export const Platform = z.object({
   id: slug,
   label: z.string(),
-  kind: z.enum(['theatrical', 'streaming', 'broadcast', 'cable', 'home-media', 'print', 'ebook', 'serialized', 'audio', 'other']),
+  kind: z.enum(['theatrical', 'streaming', 'broadcast', 'cable', 'home-media', 'print', 'ebook', 'serialized', 'audio', 'venue', 'other']),
   note: z.string().default(''),
 });
 export const Tag = z.object({
@@ -137,7 +137,7 @@ export const Continuity = z.object({
 
 // ---------- Title & Unit ----------
 // Screen types, then print types (novel … reference). Medium is derived from the type (see model.ts MEDIUM_OF).
-export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 're-edit', 'motion-comic', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference']);
+export const TitleType = z.enum(['film', 'series', 'one-shot', 'special', 'animated-series', 'animated-film', 're-edit', 'motion-comic', 'crossover-event', 'novel', 'novella', 'short-story', 'anthology', 'comic', 'graphic-novel', 'reference', 'radio-drama', 'audio-drama', 'podcast', 'stage-play', 'musical', 'live-show']);
 export const CanonTier = z.enum(['core', 'outside-set-date', 'multiverse-variant', 'adjacent', 'non-placeable']);
 export const Status = z.enum(['released', 'upcoming', 'cancelled', 'in-production']);
 export const Precision = z.enum(['exact', 'year', 'approx', 'range', 'relative']);

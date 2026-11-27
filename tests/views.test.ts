@@ -173,3 +173,15 @@ describe('dates and watched store', () => {
     expect(Object.keys(parseImport('{"thor":"x","<script>":"y"}'))).toEqual(['thor']);
   });
 });
+
+describe('media (R-48)', () => {
+  it('derives audio and stage media and their wording', async () => {
+    const { mediumOf, doneVerb, releaseWord } = await import('../src/domain/model.ts');
+    expect(mediumOf('radio-drama')).toBe('audio');
+    expect(mediumOf('musical')).toBe('stage');
+    expect(doneVerb('podcast')).toBe('listened to');
+    expect(doneVerb('stage-play')).toBe('seen');
+    expect(releaseWord('musical')).toBe('First performance');
+    expect(releaseWord('novel')).toBe('Published');
+  });
+});

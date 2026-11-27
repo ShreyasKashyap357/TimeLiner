@@ -12,7 +12,7 @@ import { ConfidenceBadge } from './Badges';
 import { RowMarker, markerMeaning } from './Marker';
 import { SpoilerText } from './SpoilerText';
 import { Credits } from './Credits';
-import { doneVerb } from '@/domain/model';
+import { doneVerb, releaseWord } from '@/domain/model';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
   return (
@@ -118,10 +118,10 @@ export function DetailDrawer() {
                   </div>
                   {iu.note && <p className="mt-1 text-xs leading-relaxed text-muted-foreground"><SpoilerText unitKey={row.key}>{iu.note}</SpoilerText></p>}
                 </Field>
-                <Field k={isPrint ? 'Published' : 'Released'}>{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
+                <Field k={releaseWord(row.type)}>{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
                   {row.unit.release.note && <p className="text-xs text-muted-foreground">{row.unit.release.note}</p>}</Field>
                 <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}{row.unit.word_count ? <> · {row.unit.word_count.toLocaleString('en-US')} words{cite(row.unit.word_count_source)} (about {Math.round(readingMinutes(row.unit.word_count) / 60)} h at 250 words/min)</> : null}</Field>
-                <Field k={isPrint ? 'First edition' : 'Original platform'}>{label.platform(row.platform)}</Field>
+                <Field k={isPrint ? 'First edition' : row.medium === 'stage' ? 'Venue' : row.medium === 'audio' ? 'Broadcaster / platform' : 'Original platform'}>{label.platform(row.platform)}</Field>
                 <Field k={studio?.kind === 'publisher' || studio?.kind === 'imprint' ? 'Publisher' : 'Studio'}>
                   <span className="flex flex-col gap-0.5">
                     <span>{studio?.label ?? row.studio}</span>

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "twin-peaks-main",
+    "universe": "twin-peaks",
+    "name": "Twin Peaks",
+    "short_name": "Twin Peaks",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The ABC series, the prequel film Fire Walk with Me and its Missing Pieces, the 2017 Showtime revival, and the official tie-in books, which Wikipedia calls intended canon despite internal contradictions. Wikipedia: \"Frost emphasized that the new episodes were not a remake or reboot, but a continuation of the series and film … These books are intended to be canon to the franchise and expand upon the storylines portrayed in the series and film; they do contain some continuity errors and contradictions, however—some of which may be intentional.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks&oldid=1387258567",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+    ],
+    "notes": ""
+  }
+]

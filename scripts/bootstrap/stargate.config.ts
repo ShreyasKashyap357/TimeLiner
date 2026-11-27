@@ -1,0 +1,179 @@
+// Stargate: TV continuity in premiere order, with the prequel Origins first.
+// Generated from research (research-w2-b.json) on 2026-11-27 by the generic generator.
+import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
+
+export const UNIVERSE: Universe = {
+  id: 'stargate', name: "Stargate", short_name: "Stargate", order: 39, enabled: true,
+  accent: { primary: '#3D7FB8', secondary: '#D9A441' }, default_continuity: 'stargate-sg1', data_dir: 'stargate', last_verified: null,
+  description: "The 1994 film, the SG-1 / Atlantis / Universe continuity with its films and Origins, and the non-canon Infinity.", grouping_schemes: [],
+};
+export const CONTINUITIES: Continuity[] = [
+ {
+  "id": "stargate-film",
+  "universe": "stargate",
+  "name": "Stargate (1994 film)",
+  "short_name": "Stargate",
+  "order": 1,
+  "kind": "shared",
+  "calendar": {
+   "kind": "gregorian"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The Emmerich/Devlin feature film on its own. The TV franchise continues its story but changed its canon (names, the location and distance of Abydos, the Stargate network), and the planned film sequels were meant to ignore the series. Kept apart so the film and SG-1 orderings are not merged. Wikipedia: \"SG-1 creators and executive producers Brad Wright and Jonathan Glassner altered the canon by introducing several new concepts during production of the SG-1 and Atlantis series. … The film trilogy would not directly tie into the series Stargate SG-1.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Stargate_(film)&oldid=1384419815"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "stargate-sg1",
+  "universe": "stargate",
+  "name": "Stargate (SG-1 television continuity)",
+  "short_name": "Stargate",
+  "order": 2,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The MGM television continuity: Stargate SG-1, Atlantis, Universe, the two direct-to-video SG-1 films and the Origins web series. Wikipedia says no Stargate works form an official canon, but the three live-action series share one story arc. In-universe dates are rarely given; the series are set in the present day of their broadcast, so most units are ordered relatively. Wikipedia: \"the various Stargate productions are not entirely consistent with each other; and while no set of works forms an official canon, the largest following exists for the three live-action series. … The predominant story arc thus ran for more than 15 years, including 18 seasons (364 episodes) of programming\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Stargate&oldid=1384195431"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "stargate-infinity",
+  "universe": "stargate",
+  "name": "Stargate Infinity (animated, non-canon)",
+  "short_name": "Stargate Infinity",
+  "order": 3,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The 2002 animated series. MGM, the producers and Brad Wright do not treat it as part of the Stargate canon. Wikipedia: \"neither MGM, the production teams nor the fans of Stargate consider Infinity to be an official part of the Stargate universe. According to Stargate SG-1 co-creator Brad Wright, the animated series should not be considered official Stargate canon.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Stargate&oldid=1384195431"
+  ],
+  "notes": ""
+ }
+];
+export const STUDIOS: Studio[] = [
+ {
+  "id": "le-studio-canal",
+  "label": "Le Studio Canal+",
+  "kind": "studio",
+  "short_label": "Le Studio Canal+",
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "double-secret-productions",
+  "label": "Double Secret Productions",
+  "kind": "studio",
+  "short_label": "Double Secret Productions",
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "acme-shark-productions",
+  "label": "Acme Shark Productions",
+  "kind": "studio",
+  "short_label": "Acme Shark Productions",
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "new-form",
+  "label": "New Form",
+  "kind": "studio",
+  "short_label": "New Form",
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "les-studios-tex",
+  "label": "Les Studios Tex",
+  "kind": "studio",
+  "short_label": "Les Studios Tex",
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ }
+];
+export const PLATFORMS: Platform[] = [
+ {
+  "id": "showtime",
+  "label": "Showtime",
+  "kind": "cable",
+  "note": ""
+ },
+ {
+  "id": "sci-fi",
+  "label": "Sci Fi Channel",
+  "kind": "cable",
+  "note": ""
+ },
+ {
+  "id": "stargate-command",
+  "label": "Stargate Command (streaming service)",
+  "kind": "streaming",
+  "note": ""
+ }
+];
+export const TAGS: Tag[] = [];
+export const FANDOM_PREFIXES = {};
+export const SORT_BY_YEAR = ["stargate-film","stargate-sg1","stargate-infinity"];

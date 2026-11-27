@@ -54,14 +54,14 @@ async function releaseFor(t: SeedTitle, u: SeedUnit) {
   rows.sort((a, b) => (b.start?.length ?? 0) - (a.start?.length ?? 0));
   const row = rows[0];
   if (row?.start) return { date: row.start, end: row.end ?? null, episodes: row.episodes ?? null, page: row.source_page, note: '', status_text: row.status_text ?? null };
-  const wd = WD.get(t.wiki);
+  const wd = t.wiki ? WD.get(t.wiki) : undefined;
   if (wd && (isFilmLike(t) || isPrint(t) || !u.season || u.season === 1) && t.units.length === 1) {
     const us = wd.publication_dates.filter((d) => d.place.includes('Q30')).map((d) => d.date).sort()[0];
     const any = us ?? wd.publication_dates.map((d) => d.date).sort()[0];
     if (any) return { date: any, end: null, episodes: null, page: `wikidata:${wd.qid}`, note: us ? 'US release date from Wikidata (P577).' : 'Earliest publication date from Wikidata (P577).', status_text: null };
   }
   if (isFilmLike(t) || isPrint(t) || !u.season || u.season === 1) {
-    const ib = extractInfobox(await loadWikitext(t.wiki).catch(() => ''));
+    const ib = extractInfobox(t.wiki ? await loadWikitext(t.wiki).catch(() => '') : '');
     const d = ib.released ?? ib.first_aired ?? ib.pub_date ?? ib.published;
     if (d && /^\d{4}(-\d{2}){0,2}$/.test(d)) return { date: d, end: null, episodes: null, page: t.wiki, note: 'From the article infobox.', status_text: null };
   }
@@ -81,8 +81,8 @@ for (const st of SEED) {
   const cont = cfg.CONTINUITIES.find((c) => c.id === st.continuity);
   if (!cont) throw new Error(`unknown continuity ${st.continuity} (${st.id})`);
   const mainBranch = cont.branches.find((b) => b.is_main)!.id;
-  const wd = WD.get(st.wiki);
-  const pages = new Set<string>([st.wiki, ...(st.extra_sources ?? [])]);
+  const wd = st.wiki ? WD.get(st.wiki) : undefined;
+  const pages = new Set<string | null>([st.wiki, ...(st.extra_sources ?? [])]);
   const units: Unit[] = [];
   for (const su of st.units) {
     const uid = su.key ? `${st.id}-${su.key}` : st.id;
@@ -120,7 +120,7 @@ for (const st of SEED) {
     platform_or_network: st.platform, canon_tier: st.tier ?? 'core', characters: st.chars ?? [], franchises: st.teams ?? [],
     status: units.some((u) => u.status === 'released') ? 'released' : units[0]!.status,
     external_ids: { enwiki: st.wiki, wikidata: wd?.qid ?? null, tmdb: wd?.tmdb_movie ?? wd?.tmdb_tv ?? null, imdb: wd?.imdb ?? null },
-    source_urls: [...pages].map(srcUrl), notes: st.notes ?? '', units,
+    source_urls: [...pages].filter((p): p is string => Boolean(p)).map(srcUrl), notes: st.notes ?? '', units,
     links: (st.links ?? []).map((l) => ({ to: l.to, kind: l.kind as Title['links'][number]['kind'], note: l.note ?? '' })),
     constituents: st.constituents ?? [], credits: [],
   });

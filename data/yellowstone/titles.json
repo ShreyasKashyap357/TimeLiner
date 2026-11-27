@@ -1,0 +1,973 @@
+[
+  {
+    "id": "yellowstone-series",
+    "title": "Yellowstone",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "yellowstone-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-network",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Yellowstone (TV series)",
+      "wikidata": "Q47452423",
+      "tmdb": "73586",
+      "imdb": "tt4236770"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28TV_series%29&oldid=1387262776"
+    ],
+    "notes": "Season dates from the franchise series overview; main article confirms \"premiered on June 20, 2018, and concluded on December 15, 2024, after five seasons comprising 53 episodes.\" Studio not checked (left null).",
+    "units": [
+      {
+        "id": "yellowstone-series-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "present day (contemporary Montana)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The series follows the Dutton family, owners of the largest cattle ranch in Montana, the Yellowstone Dutton Ranch … The plot revolves around family drama at the ranch and the bordering Broken Rock Indian Reservation, Yellowstone National Park, and land developers.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "yellowstone-1923-s2",
+            "before": "yellowstone-series-s2"
+          }
+        },
+        "release": {
+          "date": "2018-06-20",
+          "end_date": "2018-08-22",
+          "year": 2018,
+          "note": "Wikipedia: (Yellowstone franchise): episodes1 = 9 | start1 = June 20, 2018 | end1 = August 22, 2018"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28TV_series%29&oldid=1387262776"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-series-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Yellowstone season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "yellowstone-series-s1",
+            "before": "yellowstone-series-s3"
+          }
+        },
+        "release": {
+          "date": "2019-06-19",
+          "end_date": "2019-08-28",
+          "year": 2019,
+          "note": "Wikipedia: (Yellowstone franchise): episodes2 = 10 | start2 = June 19, 2019 | end2 = August 28, 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28TV_series%29&oldid=1387262776"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-series-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Yellowstone season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "yellowstone-series-s2",
+            "before": "yellowstone-series-s4"
+          }
+        },
+        "release": {
+          "date": "2020-06-21",
+          "end_date": "2020-08-23",
+          "year": 2020,
+          "note": "Wikipedia: (Yellowstone franchise): episodes3 = 10 | start3 = June 21, 2020 | end3 = August 23, 2020"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28TV_series%29&oldid=1387262776"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-series-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Yellowstone season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 90,
+          "relative_to": {
+            "after": "yellowstone-series-s3",
+            "before": "yellowstone-series-s5"
+          }
+        },
+        "release": {
+          "date": "2021-11-07",
+          "end_date": "2022-01-02",
+          "year": 2021,
+          "note": "Wikipedia: (Yellowstone franchise): episodes4 = 10 | start4 = November 7, 2021 | end4 = January 2, 2022"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28TV_series%29&oldid=1387262776"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-series-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 14,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Yellowstone season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 100,
+          "relative_to": {
+            "after": "yellowstone-series-s4",
+            "before": "yellowstone-marshals-s1"
+          }
+        },
+        "release": {
+          "date": "2022-11-13",
+          "end_date": "2024-12-15",
+          "year": 2022,
+          "note": "Wikipedia: (Yellowstone franchise): episodes5 = 14 | start5 = November 13, 2022 | end5 = December 15, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28TV_series%29&oldid=1387262776"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "yellowstone-1883",
+    "title": "1883",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "yellowstone-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "1883 (TV series)",
+      "wikidata": "Q110124251",
+      "tmdb": "118357",
+      "imdb": "tt13991232"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/1883_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28franchise%29&oldid=1383478941"
+    ],
+    "notes": "Miniseries (one season). Episode flashback to September 17, 1862 (Battle of Sharpsburg). Studio not checked.",
+    "units": [
+      {
+        "id": "yellowstone-1883",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1883
+          },
+          "end": {
+            "y": 1883
+          },
+          "label": "1883 (flashback to 1862)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "A prequel series, titled 1883 … and set during that year, premiered on December 19, 2021, on Paramount+",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-12-19",
+          "end_date": "2022-02-27",
+          "year": 2021,
+          "note": "Wikipedia: 1883 is an American Western drama miniseries created by Taylor Sheridan that premiered on December 19, 2021, on Paramount+. … Consisting of ten episodes, the series concluded on February 27, 2022."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/1883_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28franchise%29&oldid=1383478941"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-series",
+        "kind": "spinoff",
+        "note": "prequel: how the Duttons came to own the ranch land"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "yellowstone-1923",
+    "title": "1923",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "yellowstone-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "1923 (TV series)",
+      "wikidata": "Q112862420",
+      "tmdb": "157744",
+      "imdb": "tt18335752"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/1923_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28franchise%29&oldid=1383478941 | https://en.wikipedia.org/w/index.php?title=1923_%28TV_series%29&oldid=1387186147",
+      "https://en.wikipedia.org/w/index.php?title=1923_%28TV_series%29&oldid=1387186147"
+    ],
+    "notes": "Studio not checked.",
+    "units": [
+      {
+        "id": "yellowstone-1923-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1923
+          },
+          "end": {
+            "y": 1923
+          },
+          "label": "1923",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Another prequel series, titled 1923, and set during that year, was announced in February 2022 … The series follows a generation of the Dutton family in 1923",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-12-18",
+          "end_date": "2023-02-26",
+          "year": 2022,
+          "note": "Wikipedia: episodes1 = 8 | start1 = December 18, 2022 | end1 = February 26, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/1923_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28franchise%29&oldid=1383478941 | https://en.wikipedia.org/w/index.php?title=1923_%28TV_series%29&oldid=1387186147"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-1923-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1923
+          },
+          "end": {
+            "y": 1923
+          },
+          "label": "1923 (flash-forward to 1969)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Another prequel series, titled 1923, and set during that year … Gerard Sanders (guest season 2), portrays Spencer as an elderly man in a flashforward set in 1969.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-02-23",
+          "end_date": "2025-04-06",
+          "year": 2025,
+          "note": "Wikipedia: episodes2 = 8 | start2 = February 23, 2025 | end2 = April 6, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/1923_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=1923_%28TV_series%29&oldid=1387186147"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-1883",
+        "kind": "sequel",
+        "note": "sequel to 1883, prequel to Yellowstone"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "yellowstone-1944",
+    "title": "1944",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "yellowstone-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "Yellowstone (franchise)",
+      "wikidata": "Q136297400",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yellowstone_(franchise)",
+      "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28franchise%29&oldid=1383478941"
+    ],
+    "notes": "No standalone Wikipedia article; sourced from the franchise article. Caller may prefer to drop until released.",
+    "units": [
+      {
+        "id": "yellowstone-1944",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1944
+          },
+          "end": {
+            "y": 1944
+          },
+          "label": "1944",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In February 2023, another prequel series, titled 1944 and set during that year, was reportedly in development. It would serve as a sequel to 1923",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: In February 2023, another prequel series, titled 1944 and set during that year, was reportedly in development. … In February 2026, the series was confirmed to still be in active development, with Paramount aiming for a late-2026 release date."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Yellowstone_(franchise)",
+          "https://en.wikipedia.org/w/index.php?title=Yellowstone_%28franchise%29&oldid=1383478941"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-1923",
+        "kind": "sequel",
+        "note": "planned sequel to 1923"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "yellowstone-marshals",
+    "title": "Marshals",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "yellowstone-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Marshals (TV series)",
+      "wikidata": "Q134416903",
+      "tmdb": "290856",
+      "imdb": "tt36849871"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marshals_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Marshals_%28TV_series%29&oldid=1388009917"
+    ],
+    "notes": "Working title Y: Marshals. Studio not checked.",
+    "units": [
+      {
+        "id": "yellowstone-marshals-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after the Yellowstone finale",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Marshals follows former U.S. Navy SEAL and current rancher Kayce Dutton, who is grieving the death of his wife, Monica, and adjusting to raising their son, Tate, alone.",
+          "order_index": 110,
+          "relative_to": {
+            "after": "yellowstone-series-s5",
+            "before": "yellowstone-dutton-ranch-s1"
+          }
+        },
+        "release": {
+          "date": "2026-03-01",
+          "end_date": "2026-05-24",
+          "year": 2026,
+          "note": "Wikipedia: episodes1 = 13 | start1 = March 1, 2026 | end1 = May 24, 2026 … Marshals premiered on CBS on March 1, 2026."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Marshals_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Marshals_%28TV_series%29&oldid=1388009917"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-marshals-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Marshals season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 130,
+          "relative_to": {
+            "after": "yellowstone-dutton-ranch-s1",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2026-10-04",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: In March 2026, the series was renewed for a second season which premiered on October 4, 2026."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Marshals_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Marshals_%28TV_series%29&oldid=1388009917"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-series",
+        "kind": "spinoff",
+        "note": "spin-off and sequel following Kayce Dutton"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "yellowstone-dutton-ranch",
+    "title": "Dutton Ranch",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "yellowstone-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dutton Ranch",
+      "wikidata": "Q136524178",
+      "tmdb": "299167",
+      "imdb": "tt34991493"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dutton_Ranch",
+      "https://en.wikipedia.org/w/index.php?title=Dutton_Ranch&oldid=1387206356"
+    ],
+    "notes": "Originally titled The Dutton Ranch. Studio not checked.",
+    "units": [
+      {
+        "id": "yellowstone-dutton-ranch-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "months after the Yellowstone finale",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Months after a wildfire destroys their Montana ranch, Beth Dutton and Rip Wheeler begin rebuilding their lives on a new ranch in Rio Paloma, Texas, alongside their adopted son, Carter.",
+          "order_index": 120,
+          "relative_to": {
+            "after": "yellowstone-marshals-s1",
+            "before": "yellowstone-marshals-s2"
+          }
+        },
+        "release": {
+          "date": "2026-05-15",
+          "end_date": "2026-07-03",
+          "year": 2026,
+          "note": "Wikipedia: episodes1 = 9 | start1 = May 15, 2026 | end1 = July 3, 2026 … Dutton Ranch premiered on Paramount+ on May 15, 2026, and consists of nine episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dutton_Ranch",
+          "https://en.wikipedia.org/w/index.php?title=Dutton_Ranch&oldid=1387206356"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "yellowstone-dutton-ranch-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Dutton Ranch season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: In June 2026, Paramount+ renewed the series for a second season."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dutton_Ranch",
+          "https://en.wikipedia.org/w/index.php?title=Dutton_Ranch&oldid=1387206356"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-series",
+        "kind": "spinoff",
+        "note": "spin-off and sequel following Beth and Rip"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lawmen-bass-reeves",
+    "title": "Lawmen: Bass Reeves",
+    "sort_title": null,
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "lawmen-bass-reeves",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lawmen: Bass Reeves",
+      "wikidata": "Q116373886",
+      "tmdb": "157732",
+      "imdb": "tt15399640"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lawmen:_Bass_Reeves",
+      "https://en.wikipedia.org/w/index.php?title=Lawmen%3A_Bass_Reeves&oldid=1387229821"
+    ],
+    "notes": "Conflict: the franchise article says it was \"confirmed to no longer be directly related to 1883, and instead was 'set in the greater Duttonverse'\", while the show's own article says it was \"confirmed to no longer take place in the Yellowstone universe\". Kept as its own continuity. Miniseries.",
+    "units": [
+      {
+        "id": "lawmen-bass-reeves",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "19th-century Indian Territory (historical)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "A federal peace officer of the \"Indian Territory\" based in Fort Smith, Arkansas, who captured over 3,000 of the most dangerous criminals without ever being wounded.",
+          "order_index": 10,
+          "relative_to": {
+            "after": null,
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2023-11-05",
+          "end_date": "2023-12-17",
+          "year": 2023,
+          "note": "Wikipedia: The series premiered on Paramount+ on November 5, 2023, with back-to-back episodes. … first_aired = November 5, 2023 | last_aired = December 17, 2023 | num_episodes = 8"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lawmen:_Bass_Reeves",
+          "https://en.wikipedia.org/w/index.php?title=Lawmen%3A_Bass_Reeves&oldid=1387229821"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-1883",
+        "kind": "spinoff",
+        "note": "originally developed as 1883: The Bass Reeves Story; now stand-alone (separate continuity)"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-madison",
+    "title": "The Madison",
+    "sort_title": "Madison",
+    "type": "series",
+    "universe": "yellowstone",
+    "continuity": "the-madison",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Madison (TV series)",
+      "wikidata": "Q131461120",
+      "tmdb": "225891",
+      "imdb": "tt33204276"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Madison_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=The_Madison_%28TV_series%29&oldid=1387325558"
+    ],
+    "notes": "Not part of Yellowstone canon (stand-alone). Included in this universe only because it was developed as a spin-off; the caller may drop it.",
+    "units": [
+      {
+        "id": "the-madison-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "contemporary Montana",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The series follows the Clyburn family, originally from New York City, who relocate to the Madison River valley of southwest Montana for emotional recovery following the unexpected death of the family patriarch",
+          "order_index": 20,
+          "relative_to": {
+            "after": null,
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2026-03-14",
+          "end_date": "2026-03-21",
+          "year": 2026,
+          "note": "Wikipedia: The first season of The Madison was released in two batches of three episodes each across March 14 and 21, 2026."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Madison_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=The_Madison_%28TV_series%29&oldid=1387325558"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-madison-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Madison season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: The second season in planned to premiere in 2027."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Madison_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=The_Madison_%28TV_series%29&oldid=1387325558"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "yellowstone-series",
+        "kind": "spinoff",
+        "note": "developed as a Yellowstone sequel spin-off, later made stand-alone and unconnected"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

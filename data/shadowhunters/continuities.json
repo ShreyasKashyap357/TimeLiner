@@ -1,0 +1,95 @@
+[
+  {
+    "id": "shadowhunters-books",
+    "universe": "shadowhunters",
+    "name": "The Shadowhunter Chronicles (books)",
+    "short_name": "The Shadowhunter Chronicles",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Cassandra Clare's novels and novella collections (2007-present), one shared timeline from 1878 to 2016+ (Clare publishes an official timeline). Wikipedia: \"\"The following books are arranged in order of their respective timelines.\" / \"Each book is set at different points in the franchise's timeline\" (citing Clare, \"The Shadowhunters Timeline\", cassandraclare.com)\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Shadowhunter_Chronicles&oldid=1384085140"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "shadowhunters-film-2013",
+    "universe": "shadowhunters",
+    "name": "The Mortal Instruments: City of Bones (2013 film)",
+    "short_name": "The Mortal Instruments: City of Bones",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Screen Gems / Constantin film; planned franchise cancelled after one film. Own continuity. Wikipedia: \"\"Production on a film adaptation of the second book, City of Ashes, was due to start in September 2013, but was delayed to 2014, and eventually cancelled, after the first film failed to recoup its budget.\"\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Shadowhunter_Chronicles&oldid=1384085140"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "shadowhunters-tv",
+    "universe": "shadowhunters",
+    "name": "Shadowhunters (Freeform series)",
+    "short_name": "Shadowhunters",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Freeform TV series (2016-2019), a reboot of the 2013 film; own continuity. Wikipedia: \"\"Produced by Constantin Film, it serves as a reboot of the 2013 film adaptation of the novels, The Mortal Instruments: City of Bones.\"\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Shadowhunters&oldid=1388004093"
+    ],
+    "notes": ""
+  }
+]

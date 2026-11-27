@@ -12,6 +12,9 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | D-67 | **Odd but sourced film figures.** Wikidata gives Dr. Who and the Daleks a worldwide gross of $114,062, and a few limited releases show grosses of a few thousand dollars. Budgets given as ranges stay ranges (Endgame $356–400 million). Figures are not adjusted for inflation. | Shown as the source gives them, with the source wording in a tooltip. |
 | D-68 | TV viewership (R-56): units that are Doctor Who specials (Christmas/New Year specials and special runs) have no season number, so they get no figures, although the series articles list their viewers. Map them by episode title? | Not mapped; only numbered seasons get figures. |
 | D-69 | TV viewership: a two-part episode aired as one broadcast with one figure (e.g. the Smallville finale) shows that figure on both parts. Keep, or show it on the first part only? | Shown on both parts, as in the source row. |
+| D-70 | **Story order without sourced years** (The Expanse novellas, The Walking Dead shows, the procedurals, Stargate seasons). | Premiere or publication order, marked inferred. Prequels are moved only where a source says so (NCIS: Origins, Stargate Origins, Caprica). |
+| D-71 | **Brian Herbert & Kevin J. Anderson Dune books** in the same continuity as Frank Herbert's, as Wikipedia files them. Their canon is debated. | Same continuity, with the debate in the notes. |
+| D-72 | **The Madison and Lawmen: Bass Reeves** are outside the Yellowstone universe per Wikipedia (the franchise article disagrees for Bass Reeves). | Separate continuities, still listed under Yellowstone. |
 
 ## Resolved
 

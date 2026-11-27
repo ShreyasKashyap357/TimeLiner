@@ -1,0 +1,798 @@
+[
+  {
+    "id": "bsg-1978-film",
+    "title": "Battlestar Galactica",
+    "sort_title": null,
+    "type": "film",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-original",
+    "studio_brand": "universal-studios",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saga of a Star World",
+      "wikidata": "Q1621916",
+      "tmdb": "148980",
+      "imdb": "tt0077215"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saga_of_a_Star_World",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(1978_TV_series)&oldid=1387191795"
+    ],
+    "notes": "The Wikipedia title \"Battlestar Galactica (1978 film)\" redirects to \"Saga of a Star World\" (the pilot episode article, which covers the theatrical version). Universal per article: \"Universal Studios decided to release a re-edited version theatrically\". Distributor not stated in the infobox.",
+    "units": [
+      {
+        "id": "bsg-1978-film",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 125,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "start of the exodus (\"seventh millennium of time\")",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The era in which this exodus took place is never clearly stated in the series itself. At the start of the series, it is mentioned as being \"the seventh millennium of time\", although it is unknown when this is in relation to Earth's history.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1978-07-08",
+          "end_date": null,
+          "year": 1978,
+          "note": "Wikipedia: On July 8, 1978, two months before its U.S. television debut, the film was released in Canada on 75 screens. … (edited theatrical version released in cinemas July 8, 1978 (Canada) & May 18, 1979 (United States))"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saga_of_a_Star_World",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(1978_TV_series)&oldid=1387191795"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bsg-1978",
+        "kind": "adapts",
+        "note": "Theatrical re-edit of the series pilot \"Saga of a Star World\"."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "bsg-1978",
+    "title": "Battlestar Galactica",
+    "sort_title": null,
+    "type": "series",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-original",
+    "studio_brand": "glen-a-larson-productions",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battlestar Galactica (1978 TV series)",
+      "wikidata": "Q2367132",
+      "tmdb": "501",
+      "imdb": "tt0076984"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battlestar_Galactica_(1978_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(1978_TV_series)&oldid=1387191795"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "bsg-1978",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "\"seventh millennium of time\"; after the 1969 Moon landing",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "At the start of the series, it is mentioned as being \"the seventh millennium of time\", although it is unknown when this is in relation to Earth's history. The final aired episode, \"The Hand of God\", indicates that the original series took place after the Apollo 11 Moon landing in 1969",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1978-09-17",
+          "end_date": "1979-04-29",
+          "year": 1978,
+          "note": "Wikipedia: | episodes1 = 24 | start1 = September 17, 1978 | end1 = April 29, 1979"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica_(1978_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(1978_TV_series)&oldid=1387191795"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "galactica-1980",
+    "title": "Galactica 1980",
+    "sort_title": null,
+    "type": "series",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-original",
+    "studio_brand": "glen-a-larson-productions",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Galactica 1980",
+      "wikidata": "Q604202",
+      "tmdb": "4621",
+      "imdb": "tt0080221"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Galactica_1980",
+      "https://en.wikipedia.org/w/index.php?title=Galactica_1980&oldid=1387213399"
+    ],
+    "notes": "The release data comes from the combined episode list, where Galactica 1980 is row 2 of the series overview. Its key is renumbered s1 because it is its own series.",
+    "units": [
+      {
+        "id": "galactica-1980",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "1980",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Set during the year 1980, and a generation after the original series … The later Galactica 1980 series is expressly set in 1980, after a 30-year voyage to Earth.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1980-01-27",
+          "end_date": "1980-05-04",
+          "year": 1980,
+          "note": "Wikipedia: | episodes2 = 10 | start2 = January 27, 1980 | end2 = May 4, 1980"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Galactica_1980",
+          "https://en.wikipedia.org/w/index.php?title=Galactica_1980&oldid=1387213399"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bsg-1978",
+        "kind": "sequel",
+        "note": "Set 30 years after the original series."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "bsg-miniseries",
+    "title": "Battlestar Galactica (miniseries)",
+    "sort_title": null,
+    "type": "series",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-reimagined",
+    "studio_brand": "usa-cable-entertainment",
+    "label": null,
+    "platform_or_network": "sci-fi",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battlestar Galactica (miniseries)",
+      "wikidata": "Q746240",
+      "tmdb": "71365",
+      "imdb": "tt0314979"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battlestar_Galactica_(miniseries)",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(miniseries)&oldid=1377054314"
+    ],
+    "notes": "Backdoor pilot for the 2004 series. Modelled as its own title with a single \"Miniseries\" unit (season 0 in the episode list).",
+    "units": [
+      {
+        "id": "bsg-miniseries",
+        "label": "Miniseries",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 2,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "the Fall (40 years after the First Cylon War armistice)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "After a 40-year armistice in a war between the Twelve Colonies of Kobol (the homeworlds populated by humans) and the Cylons (human-created robots), the Cylons launch a surprise nuclear attack",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-12-08",
+          "end_date": "2003-12-09",
+          "year": 2003,
+          "note": "Wikipedia: The miniseries aired originally on Sci Fi in the United States starting on December 8, 2003. … | first_aired = December 8, 2003 | last_aired = December 9, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica_(miniseries)",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(miniseries)&oldid=1377054314"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "bsg-2004",
+    "title": "Battlestar Galactica",
+    "sort_title": null,
+    "type": "series",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-reimagined",
+    "studio_brand": "david-eick-productions",
+    "label": null,
+    "platform_or_network": "sci-fi",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battlestar Galactica (2004 TV series)",
+      "wikidata": "Q237072",
+      "tmdb": "1972",
+      "imdb": "tt0407362"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Battlestar_Galactica_(2004_TV_series)_episodes&oldid=1374313303",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(2004_TV_series)&oldid=1387191800"
+    ],
+    "notes": "Infobox: first_aired 2003-12-08 (miniseries) to 2009-10-27 (The Plan). Seasons here exclude the miniseries and TV films, which are separate titles.",
+    "units": [
+      {
+        "id": "bsg-2004-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "immediately after the Fall",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-10-18",
+          "end_date": "2005-01-24",
+          "year": 2004,
+          "note": "Wikipedia: | episodes1 = 13 | start1 = October 18, 2004 | end1 = January 24, 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Battlestar_Galactica_(2004_TV_series)_episodes&oldid=1374313303"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "bsg-2004-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-07-15",
+          "end_date": "2006-03-10",
+          "year": 2005,
+          "note": "Wikipedia: | episodes2 = 20 | start2A = July 15, 2005 | end2A = September 23, 2005 | start2B = January 6, 2006 | end2B = March 10, 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Battlestar_Galactica_(2004_TV_series)_episodes&oldid=1374313303"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "bsg-2004-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-10-06",
+          "end_date": "2007-03-25",
+          "year": 2006,
+          "note": "Wikipedia: | episodes3 = 20 | start3 = October 6, 2006 | end3 = March 25, 2007"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Battlestar_Galactica_(2004_TV_series)_episodes&oldid=1374313303"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "bsg-2004-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3; epilogue 150,000 years before present-day Earth",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "they talk about the technological advancements the humans have made since the Colonials and Humanoid Cylons first arrived on this Earth, over 150,000 years earlier.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-04-04",
+          "end_date": "2009-03-20",
+          "year": 2008,
+          "note": "Wikipedia: | episodes4 = 21 | start4A = April 4, 2008 | end4A = June 13, 2008 | start4B = January 16, 2009 | end4B = March 20, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica_(2004_TV_series)&oldid=1387191800"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bsg-miniseries",
+        "kind": "sequel",
+        "note": "Continues from the miniseries."
+      },
+      {
+        "to": "bsg-1978",
+        "kind": "remake",
+        "note": "Re-imagining of the 1978 series (separate continuity)."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "bsg-razor",
+    "title": "Battlestar Galactica: Razor",
+    "sort_title": null,
+    "type": "film",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-reimagined",
+    "studio_brand": "david-eick-productions",
+    "label": null,
+    "platform_or_network": "sci-fi",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battlestar Galactica: Razor",
+      "wikidata": "Q620260",
+      "tmdb": "69315",
+      "imdb": "tt0991178"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battlestar_Galactica:_Razor",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica%3A_Razor&oldid=1385395591"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "bsg-razor",
+        "label": "TV film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 88,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during season 2 (flashbacks to the Fall and the First Cylon War)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Razor takes place during the first thirty days of Lee Adama's Pegasus command during the period originally covered in the second half of season 2, after the episode \"The Captain's Hand\"",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-11-24",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: It premiered November 24, 2007 in the U.S. and December 18, 2007, in the UK, with a limited U.S. theatrical engagement in major cities … | released = November 24, 2007"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica:_Razor",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica%3A_Razor&oldid=1385395591"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bsg-2004",
+        "kind": "continues",
+        "note": "Broadcast between seasons 3 and 4; set during season 2."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "bsg-the-plan",
+    "title": "Battlestar Galactica: The Plan",
+    "sort_title": null,
+    "type": "film",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-reimagined",
+    "studio_brand": "david-eick-productions",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battlestar Galactica: The Plan",
+      "wikidata": "Q620254",
+      "tmdb": "105077",
+      "imdb": "tt1286130"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battlestar_Galactica:_The_Plan",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica%3A_The_Plan&oldid=1357826443"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "bsg-the-plan",
+        "label": "TV film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 90,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "the Fall through season 2 (retold)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The miniseries and first two seasons of Battlestar Galactica are retold with more emphasis on the Cylon",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-10-27",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: The film premiered exclusively on DVD, Blu-ray Disc and digital download on October 27, 2009. It premiered on January 10, 2010, on Syfy"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica:_The_Plan",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica%3A_The_Plan&oldid=1357826443"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bsg-2004",
+        "kind": "continues",
+        "note": "Retells the miniseries and seasons 1–2 from the Cylon side."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "caprica",
+    "title": "Caprica",
+    "sort_title": null,
+    "type": "series",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-reimagined",
+    "studio_brand": "universal-cable-productions",
+    "label": null,
+    "platform_or_network": "syfy",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Caprica",
+      "wikidata": "Q579554",
+      "tmdb": "877",
+      "imdb": "tt0799862"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caprica",
+      "https://en.wikipedia.org/w/index.php?title=Caprica&oldid=1387197104"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "caprica",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 19,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "58 years before the Fall",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Caprica is set 58 years before the main series, and shows how humanity first created the Cylon robots",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-01-22",
+          "end_date": "2010-11-30",
+          "year": 2010,
+          "note": "Wikipedia: | first_aired = January 22, 2010 | last_aired = November 30, 2010 | num_episodes = 19 … The remaining episodes were released on DVD in the U.S. on December 21, 2010 and aired on Syfy in a burn-off marathon on January 4, 2011."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Caprica",
+          "https://en.wikipedia.org/w/index.php?title=Caprica&oldid=1387197104"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bsg-2004",
+        "kind": "sequel",
+        "note": "Prequel spin-off set 58 years before the series."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "bsg-blood-and-chrome",
+    "title": "Battlestar Galactica: Blood & Chrome",
+    "sort_title": null,
+    "type": "series",
+    "universe": "battlestar-galactica",
+    "continuity": "bsg-reimagined",
+    "studio_brand": "universal-cable-productions",
+    "label": null,
+    "platform_or_network": "machinima",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battlestar Galactica: Blood & Chrome",
+      "wikidata": "Q168656",
+      "tmdb": "257368",
+      "imdb": "tt1704292"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battlestar_Galactica:_Blood_&_Chrome",
+      "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica%3A_Blood_%26_Chrome&oldid=1383053090"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "bsg-blood-and-chrome",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "10th year of the First Cylon War",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Set in the tenth year of the First Cylon War, the story follows William Adama, a young pilot just graduated from the Academy",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-11-09",
+          "end_date": "2012-12-07",
+          "year": 2012,
+          "note": "Wikipedia: On November 9, 2012 the Machinima network released the first two episodes of Blood and Chrome on its YouTube channel. It released two additional episodes each Friday, until the finale on December 7, 2012."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battlestar_Galactica:_Blood_&_Chrome",
+          "https://en.wikipedia.org/w/index.php?title=Battlestar_Galactica%3A_Blood_%26_Chrome&oldid=1383053090"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "caprica",
+        "kind": "sequel",
+        "note": "\"a sequel set during the First Cylon War after the events of Caprica\" (1978 series article)."
+      },
+      {
+        "to": "bsg-2004",
+        "kind": "sequel",
+        "note": "Young William Adama."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

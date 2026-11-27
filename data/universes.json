@@ -930,5 +930,381 @@
     "data_dir": "one-chicago",
     "description": "Chicago Fire, P.D., Med and Justice: one shared continuity with regular crossovers.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "the-walking-dead",
+    "name": "The Walking Dead",
+    "short_name": "Walking Dead",
+    "order": 28,
+    "enabled": true,
+    "accent": {
+      "primary": "#8E1B1B",
+      "secondary": "#B8A66E"
+    },
+    "default_continuity": "twd-tv",
+    "grouping_schemes": [],
+    "data_dir": "the-walking-dead",
+    "description": "The Walking Dead TV universe, the Image comic universe (with the Telltale and Overkill games), and the separate VR and Destinies games.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "yellowstone",
+    "name": "Yellowstone",
+    "short_name": "Yellowstone",
+    "order": 29,
+    "enabled": true,
+    "accent": {
+      "primary": "#8B5A2B",
+      "secondary": "#D9B26F"
+    },
+    "default_continuity": "yellowstone-main",
+    "grouping_schemes": [],
+    "data_dir": "yellowstone",
+    "description": "Taylor Sheridan's Dutton family saga (Yellowstone, 1883, 1923 and spin-offs), plus Lawmen: Bass Reeves and The Madison, which Wikipedia now places outside it.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "breaking-bad",
+    "name": "Breaking Bad",
+    "short_name": "Breaking Bad",
+    "order": 30,
+    "enabled": true,
+    "accent": {
+      "primary": "#3B7D3B",
+      "secondary": "#E0C341"
+    },
+    "default_continuity": "breaking-bad-main",
+    "grouping_schemes": [],
+    "data_dir": "breaking-bad",
+    "description": "Breaking Bad, Better Call Saul and El Camino in one continuity; the Slippin' Jimmy shorts separately.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "twin-peaks",
+    "name": "Twin Peaks",
+    "short_name": "Twin Peaks",
+    "order": 31,
+    "enabled": true,
+    "accent": {
+      "primary": "#7A1F2B",
+      "secondary": "#2E6B4E"
+    },
+    "default_continuity": "twin-peaks-main",
+    "grouping_schemes": [],
+    "data_dir": "twin-peaks",
+    "description": "Twin Peaks on TV and film, The Missing Pieces, and the tie-in books (canon per Wikipedia, with contradictions).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "narnia",
+    "name": "The Chronicles of Narnia",
+    "short_name": "Chronicles of Narnia",
+    "order": 32,
+    "enabled": true,
+    "accent": {
+      "primary": "#C8A24A",
+      "secondary": "#3D6B8C"
+    },
+    "default_continuity": "narnia-books",
+    "grouping_schemes": [],
+    "data_dir": "narnia",
+    "description": "C. S. Lewis's seven novels and the screen adaptations, each adaptation family its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "hunger-games",
+    "name": "The Hunger Games",
+    "short_name": "Hunger Games",
+    "order": 33,
+    "enabled": true,
+    "accent": {
+      "primary": "#D4572A",
+      "secondary": "#C9A227"
+    },
+    "default_continuity": "hunger-games-books",
+    "grouping_schemes": [],
+    "data_dir": "hunger-games",
+    "description": "Suzanne Collins's novels and the film series, as separate continuities.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "shadowhunters",
+    "name": "Shadowhunters",
+    "short_name": "Shadowhunters",
+    "order": 34,
+    "enabled": true,
+    "accent": {
+      "primary": "#3F51B5",
+      "secondary": "#B0BEC5"
+    },
+    "default_continuity": "shadowhunters-books",
+    "grouping_schemes": [],
+    "data_dir": "shadowhunters",
+    "description": "Cassandra Clare's Shadowhunter Chronicles, the 2013 film and the Freeform series, as separate continuities.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "outlander",
+    "name": "Outlander",
+    "short_name": "Outlander",
+    "order": 35,
+    "enabled": true,
+    "accent": {
+      "primary": "#4E7D5B",
+      "secondary": "#B5895A"
+    },
+    "default_continuity": "outlander-books",
+    "grouping_schemes": [],
+    "data_dir": "outlander",
+    "description": "Diana Gabaldon's Outlander novels and Lord John books, and the Starz series with Blood of My Blood.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "the-dark-tower",
+    "name": "The Dark Tower",
+    "short_name": "Dark Tower",
+    "order": 36,
+    "enabled": true,
+    "accent": {
+      "primary": "#8C2F2F",
+      "secondary": "#C9B37E"
+    },
+    "default_continuity": "dark-tower-novels",
+    "grouping_schemes": [],
+    "data_dir": "the-dark-tower",
+    "description": "Stephen King's Dark Tower novels, the Marvel comics, the 2017 film (a canonical sequel), and King's books tied to the series.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "discworld",
+    "name": "Discworld",
+    "short_name": "Discworld",
+    "order": 37,
+    "enabled": true,
+    "accent": {
+      "primary": "#E3A72F",
+      "secondary": "#5C3D8C"
+    },
+    "default_continuity": "discworld-novels",
+    "grouping_schemes": [
+      {
+        "id": "sub-series",
+        "label": "Sub-series",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "rincewind",
+            "label": "Rincewind",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "witches",
+            "label": "Witches",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "death",
+            "label": "Death",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "city-watch",
+            "label": "City Watch",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "tiffany-aching",
+            "label": "Tiffany Aching",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "moist-von-lipwig",
+            "label": "Moist von Lipwig",
+            "order": 6,
+            "parent": null
+          },
+          {
+            "id": "industrial-revolution",
+            "label": "Industrial Revolution",
+            "order": 7,
+            "parent": null
+          },
+          {
+            "id": "ancient-civilisations",
+            "label": "Ancient Civilisations",
+            "order": 8,
+            "parent": null
+          },
+          {
+            "id": "standalone",
+            "label": "Standalone",
+            "order": 9,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "discworld",
+    "description": "Terry Pratchett's 41 Discworld novels, grouped by sub-series, and the screen adaptations.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "cosmere",
+    "name": "Cosmere",
+    "short_name": "Cosmere",
+    "order": 38,
+    "enabled": true,
+    "accent": {
+      "primary": "#4A6FA5",
+      "secondary": "#C7A44A"
+    },
+    "default_continuity": "cosmere",
+    "grouping_schemes": [
+      {
+        "id": "sub-series",
+        "label": "World",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "sel",
+            "label": "Sel",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "scadrial",
+            "label": "Scadrial",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "nalthis",
+            "label": "Nalthis",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "roshar",
+            "label": "Roshar",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "taldain",
+            "label": "Taldain",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "threnody",
+            "label": "Threnody",
+            "order": 6,
+            "parent": null
+          },
+          {
+            "id": "first-of-the-sun",
+            "label": "First of the Sun",
+            "order": 7,
+            "parent": null
+          },
+          {
+            "id": "lumar",
+            "label": "Lumar",
+            "order": 8,
+            "parent": null
+          },
+          {
+            "id": "komashi",
+            "label": "Komashi",
+            "order": 9,
+            "parent": null
+          },
+          {
+            "id": "canticle",
+            "label": "Canticle",
+            "order": 10,
+            "parent": null
+          },
+          {
+            "id": "multiple",
+            "label": "Multiple worlds",
+            "order": 11,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "cosmere",
+    "description": "Brandon Sanderson's Cosmere books, grouped by world.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "stargate",
+    "name": "Stargate",
+    "short_name": "Stargate",
+    "order": 39,
+    "enabled": true,
+    "accent": {
+      "primary": "#3D7FB8",
+      "secondary": "#D9A441"
+    },
+    "default_continuity": "stargate-sg1",
+    "grouping_schemes": [],
+    "data_dir": "stargate",
+    "description": "The 1994 film, the SG-1 / Atlantis / Universe continuity with its films and Origins, and the non-canon Infinity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "battlestar-galactica",
+    "name": "Battlestar Galactica",
+    "short_name": "Battlestar Galactica",
+    "order": 40,
+    "enabled": true,
+    "accent": {
+      "primary": "#9E2A2B",
+      "secondary": "#A7B1BC"
+    },
+    "default_continuity": "bsg-reimagined",
+    "grouping_schemes": [],
+    "data_dir": "battlestar-galactica",
+    "description": "The original 1978 series with Galactica 1980, and the re-imagined continuity (2003 miniseries, 2004 series, Razor, The Plan, Caprica, Blood & Chrome).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "the-expanse",
+    "name": "The Expanse",
+    "short_name": "The Expanse",
+    "order": 41,
+    "enabled": true,
+    "accent": {
+      "primary": "#2C6E8F",
+      "secondary": "#E07B39"
+    },
+    "default_continuity": "expanse-books",
+    "grouping_schemes": [],
+    "data_dir": "the-expanse",
+    "description": "James S. A. Corey's novels and novellas, and the TV series (with the Telltale prequel game).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "dune",
+    "name": "Dune",
+    "short_name": "Dune",
+    "order": 42,
+    "enabled": true,
+    "accent": {
+      "primary": "#D08C3A",
+      "secondary": "#3F5E7A"
+    },
+    "default_continuity": "dune-books",
+    "grouping_schemes": [],
+    "data_dir": "dune",
+    "description": "Frank Herbert's novels with the Brian Herbert and Kevin J. Anderson books, and each screen adaptation family as its own continuity.",
+    "last_verified": "2026-11-27"
   }
 ]

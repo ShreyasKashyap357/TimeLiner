@@ -1,0 +1,2491 @@
+[
+  {
+    "id": "dune-1",
+    "title": "Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "chilton-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune (novel)",
+      "wikidata": "Q190192",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune_(novel)",
+      "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+    ],
+    "notes": "Release date conflict: the infobox says October 1, 1965, but the prose says \"published in August 1965\". The infobox date is used. Serialised earlier in Analog as Dune World (1963) and The Prophet of Dune (1965). Pages = first edition hardcover.",
+    "units": [
+      {
+        "id": "dune-1",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 412,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10191
+          },
+          "end": {
+            "y": 10193
+          },
+          "label": "10191 AG",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Dune Wiki: \";10191 AG … Dune, Appendix IV: LADY ALIA ATREIDES. \"(10,191-)…\" … The fief of Arrakis, the planet known as Dune, is taken from the Harkonnens and given to House Atreides.\"",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1965-10-01",
+          "end_date": null,
+          "year": 1965,
+          "note": "Wikipedia: | publisher = Chilton Books | published = October 1, 1965 … The novel, Dune, was finally accepted and published in August 1965 by Chilton Books"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune_(novel)",
+          "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-messiah",
+    "title": "Dune Messiah",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "g-p-putnams-sons",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune Messiah",
+      "wikidata": "Q437383",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune_Messiah",
+      "https://en.wikipedia.org/w/index.php?title=Dune_Messiah&oldid=1387583702",
+      "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+    ],
+    "notes": "Year-only release date. Serialised in Galaxy Science Fiction from June (cover dated July) to October 1969.",
+    "units": [
+      {
+        "id": "dune-messiah",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10208
+          },
+          "end": {
+            "y": 10208
+          },
+          "label": "10208 AG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Paul \"Muad'Dib\" Atreides has ruled as Emperor for 12 years. … Dune Wiki: \";10208 AG Dune Messiah, page 27. \"…despite twelve years as Emperor.\" 10196 + 12 = 10208.\"",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1969",
+          "end_date": null,
+          "year": 1969,
+          "note": "Wikipedia: | published = 1969 | publisher = Putnam Publishing"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune_Messiah",
+          "https://en.wikipedia.org/w/index.php?title=Dune_Messiah&oldid=1387583702",
+          "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "children-of-dune",
+    "title": "Children of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "g-p-putnams-sons",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Children of Dune",
+      "wikidata": "Q437365",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Children_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Children_of_Dune&oldid=1384220674",
+      "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+    ],
+    "notes": "Month-only release date.",
+    "units": [
+      {
+        "id": "children-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10219
+          },
+          "end": {
+            "y": 10219
+          },
+          "label": "10219 AG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Nine years after Emperor Paul \"Muad'Dib\" Atreides walked into the desert … Dune Wiki: \";10219 AG Children of Dune, page 29. \"…nine-year-old muscles…\" 10210 + 9 = 10219.\"",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1976-04",
+          "end_date": null,
+          "year": 1976,
+          "note": "Wikipedia: | published = April 1976 | publisher = Putnam"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Children_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Children_of_Dune&oldid=1384220674",
+          "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-messiah",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "god-emperor-of-dune",
+    "title": "God Emperor of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "g-p-putnams-sons",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "God Emperor of Dune",
+      "wikidata": "Q401619",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/God_Emperor_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=God_Emperor_of_Dune&oldid=1384220788",
+      "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "god-emperor-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 496,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 13728
+          },
+          "end": {
+            "y": 13728
+          },
+          "label": "13728 AG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Leto II Atreides, the God Emperor, has ruled the universe as a tyrant for 3,500 years … Dune Wiki: \";13728 AG God Emperor of Dune, page 67. \"…in the year 3508 of the reign of the Lord Leto…\" 10219 + 3508 = 13728.\"",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1981",
+          "end_date": null,
+          "year": 1981,
+          "note": "Wikipedia: God Emperor of Dune is a science fiction novel by American writer Frank Herbert, published in 1981 … | publisher = Putnam"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/God_Emperor_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=God_Emperor_of_Dune&oldid=1384220788",
+          "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "children-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "heretics-of-dune",
+    "title": "Heretics of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "g-p-putnams-sons",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Heretics of Dune",
+      "wikidata": "Q437353",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Heretics_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Heretics_of_Dune&oldid=1384220811",
+      "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "heretics-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 15228
+          },
+          "end": {
+            "y": 15229
+          },
+          "label": "15228–15229 AG",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Set 1,500 years after the events of God Emperor of Dune (1981) … Dune Wiki: \"15229 AG Heretics of Dune, page 15. \"…fifteen hundred years since the Tyrant's death…\" 13,728 + 1,500 = 15,228. Around a year seems to pass from this point until the attack on the Keep. 15,228 + 1 = 15,229.\"",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: | published = 1984 | publisher = Putnam"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Heretics_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Heretics_of_Dune&oldid=1384220811",
+          "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "god-emperor-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "chapterhouse-dune",
+    "title": "Chapterhouse: Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "g-p-putnams-sons",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Chapterhouse: Dune",
+      "wikidata": "Q282814",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chapterhouse:_Dune",
+      "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+    ],
+    "notes": "Month-only release date.",
+    "units": [
+      {
+        "id": "chapterhouse-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 15230
+          },
+          "end": {
+            "y": 15240
+          },
+          "label": "c. 15230–15240 AG",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Dune Wiki: \"15240 AG Chapterhouse: Dune, page 127. \"Our ghola teg is ten years old.\" 15,230 + 10 = 15,240.\" (15230 AG: \"Birth of Miles Teg's ghola.\")",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-04",
+          "end_date": null,
+          "year": 1985,
+          "note": "Wikipedia: | published = April 1985 | publisher = Putnam"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chapterhouse:_Dune",
+          "https://dune.fandom.com/wiki/Timeline_(Original_Dune)?oldid=92943"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "heretics-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "house-atreides",
+    "title": "Dune: House Atreides",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: House Atreides",
+      "wikidata": "Q437338",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_House_Atreides",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_House_Atreides&oldid=1386545087",
+      "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "house-atreides",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10156
+          },
+          "end": {
+            "y": 10156
+          },
+          "label": "10156 AG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The novel begins 35 years before the events of the original Dune. … Dune Wiki (Expanded): \"10156 AG … Death of Paulus Atreides. Leto Atreides becomes Duke of House Atreides. [Dune: House Atreides, appendix]\"",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999",
+          "end_date": null,
+          "year": 1999,
+          "note": "Wikipedia: | publication_date = 1999 | publisher = Spectra | pages = 624"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_House_Atreides",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_House_Atreides&oldid=1386545087",
+          "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "house-harkonnen",
+    "title": "Dune: House Harkonnen",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: House Harkonnen",
+      "wikidata": "Q437319",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_House_Harkonnen",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_House_Harkonnen&oldid=1384233179"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "house-harkonnen",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after House Atreides (18 years into Shaddam IV's reign)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Eighteen years have passed since Shaddam IV succeeded his father as Padishah Emperor of the Known Universe.",
+          "order_index": 150,
+          "relative_to": {
+            "after": "chapterhouse-dune",
+            "before": "house-corrino"
+          }
+        },
+        "release": {
+          "date": "2000",
+          "end_date": null,
+          "year": 2000,
+          "note": "Wikipedia: | publication_date = 2000 | publisher = Spectra | pages = 624"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_House_Harkonnen",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_House_Harkonnen&oldid=1384233179"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "house-atreides",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "house-corrino",
+    "title": "Dune: House Corrino",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "bantam-spectra",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: House Corrino",
+      "wikidata": "Q437304",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_House_Corrino",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_House_Corrino&oldid=1384233184"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "house-corrino",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after House Harkonnen (around Paul's birth)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "One year after the War of Assassins, Duke Leto Atreides sponsors an assault on Ix to reclaim the planet for House Vernius, while his concubine Jessica is pregnant with his son.",
+          "order_index": 160,
+          "relative_to": {
+            "after": "house-harkonnen",
+            "before": "machine-crusade"
+          }
+        },
+        "release": {
+          "date": "2001",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: | publication_date = 2001 | publisher = Spectra | pages = 512"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_House_Corrino",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_House_Corrino&oldid=1384233184"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "house-harkonnen",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "butlerian-jihad",
+    "title": "Dune: The Butlerian Jihad",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: The Butlerian Jihad",
+      "wikidata": "Q437302",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_The_Butlerian_Jihad",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Butlerian_Jihad&oldid=1384234276",
+      "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "butlerian-jihad",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -201
+          },
+          "end": {
+            "y": -201
+          },
+          "label": "201 BG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "It is the first book in the Legends of Dune prequel trilogy, which takes place over 10,000 years before the events of Frank Herbert's celebrated 1965 novel Dune. … Dune Wiki (Expanded): \"201 BG … Dune, Terminology of the Imperium: JIHAD, BUTLERIAN\" … \"=== Butlerian Jihad ===\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: | publication_date = 2002 | publisher = Tor Books | pages = 624"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_The_Butlerian_Jihad",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Butlerian_Jihad&oldid=1384234276",
+          "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "machine-crusade",
+    "title": "Dune: The Machine Crusade",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: The Machine Crusade",
+      "wikidata": "Q437334",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_The_Machine_Crusade",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Machine_Crusade&oldid=1384234306"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "machine-crusade",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "mid-Butlerian Jihad (between 201 BG and 108 BG)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Dune: The Machine Crusade moves forward into the center of the Butlerian Jihad",
+          "order_index": 170,
+          "relative_to": {
+            "after": "house-corrino",
+            "before": "hunters-of-dune"
+          }
+        },
+        "release": {
+          "date": "2003",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: | publication_date = 2003 | publisher = Tor Books | pages = 624"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_The_Machine_Crusade",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Machine_Crusade&oldid=1384234306"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "butlerian-jihad",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "battle-of-corrin",
+    "title": "Dune: The Battle of Corrin",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: The Battle of Corrin",
+      "wikidata": "Q437323",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_The_Battle_of_Corrin",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Battle_of_Corrin&oldid=1384234540"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "battle-of-corrin",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -108
+          },
+          "end": {
+            "y": -88
+          },
+          "label": "108 BG (to the Battle of Corrin, 88 BG)",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "It is divided into two parts, the first of which begins in the year 108 B.G. (before Guild)",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: | publication_date = 2004 | publisher = Tor Books | pages = 620"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_The_Battle_of_Corrin",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Battle_of_Corrin&oldid=1384234540"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "machine-crusade",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "hunters-of-dune",
+    "title": "Hunters of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Hunters of Dune",
+      "wikidata": "Q248899",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hunters_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Hunters_of_Dune&oldid=1384243824"
+    ],
+    "notes": "Based on Frank Herbert's notes for \"Dune 7\".",
+    "units": [
+      {
+        "id": "hunters-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Chapterhouse: Dune",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "For three years, the no-ship Ithaca has been in an alternate universe, hiding from the \"great Enemy\".",
+          "order_index": 180,
+          "relative_to": {
+            "after": "machine-crusade",
+            "before": "sandworms-of-dune"
+          }
+        },
+        "release": {
+          "date": "2006-08-22",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: Released on August 22, 2006, Hunters continues the story"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hunters_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Hunters_of_Dune&oldid=1384243824"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "chapterhouse-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "sandworms-of-dune",
+    "title": "Sandworms of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Sandworms of Dune",
+      "wikidata": "Q437349",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sandworms_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Sandworms_of_Dune&oldid=1384243829"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "sandworms-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Hunters of Dune (final book chronologically)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "the final book chronologically of the story … the passengers of the no-ship Ithaca continue their nearly two-decade search",
+          "order_index": 190,
+          "relative_to": {
+            "after": "hunters-of-dune",
+            "before": "paul-of-dune"
+          }
+        },
+        "release": {
+          "date": "2007-08-07",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: The novel was released on August 7, 2007."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Sandworms_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Sandworms_of_Dune&oldid=1384243829"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "hunters-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "paul-of-dune",
+    "title": "Paul of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Paul of Dune",
+      "wikidata": "Q2756819",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paul_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Paul_of_Dune&oldid=1384290051"
+    ],
+    "notes": "Year-only release date.",
+    "units": [
+      {
+        "id": "paul-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "between Dune and Dune Messiah (with flashbacks to Paul's youth)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The book is divided into seven sections, which alternate between Paul Atreides's youth before the events portrayed in Dune, and the early period of his Fremen jihad between Dune and Dune Messiah.",
+          "order_index": 200,
+          "relative_to": {
+            "after": "sandworms-of-dune",
+            "before": "winds-of-dune"
+          }
+        },
+        "release": {
+          "date": "2008",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: | publication_date = 2008 | publisher = Tor Books | pages = 512"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Paul_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Paul_of_Dune&oldid=1384290051"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "references",
+        "note": "Set between Dune and Dune Messiah."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "winds-of-dune",
+    "title": "The Winds of Dune",
+    "sort_title": "Winds of Dune",
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Winds of Dune",
+      "wikidata": "Q3227336",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Winds_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "winds-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "between Dune Messiah and Children of Dune",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The Winds of Dune (originally announced as Jessica of Dune) chronicles events between Frank Herbert's Dune Messiah (1969) and Children of Dune (1976)",
+          "order_index": 210,
+          "relative_to": {
+            "after": "paul-of-dune",
+            "before": "mentats-of-dune"
+          }
+        },
+        "release": {
+          "date": "2009-08-04",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: | publication_date = August 4, 2009 | publisher = Tor Books | pages = 448"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Winds_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "paul-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "sisterhood-of-dune",
+    "title": "Sisterhood of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Sisterhood of Dune",
+      "wikidata": "Q3962305",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sisterhood_of_Dune",
+      "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "sisterhood-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -5
+          },
+          "end": {
+            "y": -5
+          },
+          "label": "5 BG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Dune Wiki (Expanded): \"5 BG Sisterhood of Dune, page 13. \"It has been eighty-three years since the last thinking machines were destroyed in the Battle of Corin…\" 88 - 83 = 5.\"",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-01-03",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: | publication_date = January 3, 2012 | publisher = Tor Books | pages = 496"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Sisterhood_of_Dune",
+          "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "battle-of-corrin",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "mentats-of-dune",
+    "title": "Mentats of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Mentats of Dune",
+      "wikidata": "Q15292536",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mentats_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Mentats_of_Dune&oldid=1384394824"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "mentats-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Sisterhood of Dune (nearly a century after the Battle of Corrin)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Set nearly a century after the events of 2004's Dune: The Battle of Corrin",
+          "order_index": 220,
+          "relative_to": {
+            "after": "winds-of-dune",
+            "before": "navigators-of-dune"
+          }
+        },
+        "release": {
+          "date": "2014-03-11",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: | publication_date = March 11, 2014 | publisher = Tor Books | pages = 448"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mentats_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Mentats_of_Dune&oldid=1384394824"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "sisterhood-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "navigators-of-dune",
+    "title": "Navigators of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Navigators of Dune",
+      "wikidata": "Q20880705",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Navigators_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Navigators_of_Dune&oldid=1384400756"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "navigators-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Mentats of Dune",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Set nearly a century after the events of 2004's Dune: The Battle of Corrin",
+          "order_index": 230,
+          "relative_to": {
+            "after": "mentats-of-dune",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2016-09-13",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: The novel was published on September 13, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Navigators_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Navigators_of_Dune&oldid=1384400756"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "mentats-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "duke-of-caladan",
+    "title": "Dune: The Duke of Caladan",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: The Duke of Caladan",
+      "wikidata": "Q105870547",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_The_Duke_of_Caladan",
+      "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395",
+      "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "duke-of-caladan",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10190
+          },
+          "end": {
+            "y": 10190
+          },
+          "label": "10190 AG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "set after Dune: House Corrino (2001) and before Dune (1965). … Dune Wiki (Expanded): \"10190 AG … Shaddam Corrino IV celebrates ten millennia of House Corrino rule on Otorio … Jaxson Aru starts a rebellion against Shaddam\"",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-10-13",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: The novel was released on October 13, 2020, by Tor Books"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_The_Duke_of_Caladan",
+          "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395",
+          "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "house-corrino",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lady-of-caladan",
+    "title": "Dune: The Lady of Caladan",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: The Lady of Caladan",
+      "wikidata": "Q108898901",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_The_Lady_of_Caladan",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Lady_of_Caladan&oldid=1384470612",
+      "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "lady-of-caladan",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10190
+          },
+          "end": {
+            "y": 10190
+          },
+          "label": "10190 AG (a year before Dune)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "A year before the events of Dune, Lady Jessica is recalled from Caladan by the Bene Gesserit … Dune Wiki (Expanded): \"10190 AG … The Bene Gesserit recalls the Lady Jessica from Caladan to Wallach IX\"",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-21",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: The novel was released on September 21, 2021, by Tor Books"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_The_Lady_of_Caladan",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_The_Lady_of_Caladan&oldid=1384470612",
+          "https://dune.fandom.com/wiki/Timeline_(Expanded_Dune)?oldid=90213"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "duke-of-caladan",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "heir-of-caladan",
+    "title": "Dune: The Heir of Caladan",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: The Heir of Caladan",
+      "wikidata": "Q109973315",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_The_Heir_of_Caladan",
+      "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "heir-of-caladan",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10190
+          },
+          "end": {
+            "y": 10190
+          },
+          "label": "10190 AG",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "set after Dune: House Corrino (2001) and before Dune (1965).",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-11-22",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: The novel was released on November 22, 2022"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_The_Heir_of_Caladan",
+          "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "lady-of-caladan",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "princess-of-dune",
+    "title": "Princess of Dune",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "dune",
+    "continuity": "dune-books",
+    "studio_brand": "tor-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune prequel series",
+      "wikidata": "Q18011036",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune_prequel_series",
+      "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395"
+    ],
+    "notes": "No standalone article (\"Princess of Dune\" redirects to \"Dune prequel series\"). Publisher inferred from the prequel-series infobox (\"Tor Books (2002–present)\"). Pages unknown.",
+    "units": [
+      {
+        "id": "princess-of-dune",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10189
+          },
+          "end": {
+            "y": 10189
+          },
+          "label": "10189 AG (two years before Dune)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "set two years before the events of Dune",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-10-03",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: In January 2023, Brian Herbert announced a third Heroes of Dune novel, Princess of Dune, a prequel focused on Chani and Irulan, set two years before the events of Dune. It was released on October 3, 2023."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune_prequel_series",
+          "https://en.wikipedia.org/w/index.php?title=Dune_prequel_series&oldid=1384326395"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "winds-of-dune",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-1984",
+    "title": "Dune",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dune",
+    "continuity": "dune-lynch",
+    "studio_brand": "dino-de-laurentiis-corporation",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune (1984 film)",
+      "wikidata": "Q114819",
+      "tmdb": "841",
+      "imdb": "tt0087182"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune_(1984_film)",
+      "https://en.wikipedia.org/w/index.php?title=Dune_(1984_film)&oldid=1388292494"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "dune-1984",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 137,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10191
+          },
+          "end": {
+            "y": 10191
+          },
+          "label": "10,191",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In the year 10,191, the known universe is ruled by the Padishah Emperor Shaddam IV.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-12-14",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: | released = December 3, 1984 (Eisenhower Theater); December 14, 1984 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune_(1984_film)",
+          "https://en.wikipedia.org/w/index.php?title=Dune_(1984_film)&oldid=1388292494"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "adapts",
+        "note": "Adapts the 1965 novel (separate continuity)."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-2000-miniseries",
+    "title": "Frank Herbert's Dune",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dune",
+    "continuity": "dune-scifi",
+    "studio_brand": "new-amsterdam-entertainment",
+    "label": null,
+    "platform_or_network": "sci-fi",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Frank Herbert's Dune",
+      "wikidata": "Q987305",
+      "tmdb": "19566",
+      "imdb": "tt0142032"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frank_Herbert's_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Frank_Herbert's_Dune&oldid=1384874290"
+    ],
+    "notes": "Episode count 3 comes from the article short description \"2000 three part TV mini-series\", not from an infobox field. The network shows as Syfy in the infobox; it was then Sci Fi Channel.",
+    "units": [
+      {
+        "id": "dune-2000-miniseries",
+        "label": "Miniseries",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 3,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "events of Dune",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-12-03",
+          "end_date": "2000-12-06",
+          "year": 2000,
+          "note": "Wikipedia: | network = Syfy | first_aired = December 3, 2000 | last_aired = December 6, 2000"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Frank_Herbert's_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Frank_Herbert's_Dune&oldid=1384874290"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "adapts",
+        "note": "Adapts the 1965 novel."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-children-miniseries",
+    "title": "Frank Herbert's Children of Dune",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dune",
+    "continuity": "dune-scifi",
+    "studio_brand": "blixa-film-produktion",
+    "label": null,
+    "platform_or_network": "sci-fi",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Frank Herbert's Children of Dune",
+      "wikidata": "Q1072774",
+      "tmdb": "9156",
+      "imdb": "tt0287839"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frank_Herbert's_Children_of_Dune",
+      "https://en.wikipedia.org/w/index.php?title=Frank_Herbert's_Children_of_Dune&oldid=1383911045"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "dune-children-miniseries",
+        "label": "Miniseries",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 3,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "events of Dune Messiah and Children of Dune",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "based on Frank Herbert's novels Dune Messiah (1969) and Children of Dune (1976)",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-03-16",
+          "end_date": "2003-03-26",
+          "year": 2003,
+          "note": "Wikipedia: is a three-part science fiction television miniseries written by John Harrison and directed by Greg Yaitanes … | first_aired = March 16, 2003 | last_aired = March 26, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Frank_Herbert's_Children_of_Dune",
+          "https://en.wikipedia.org/w/index.php?title=Frank_Herbert's_Children_of_Dune&oldid=1383911045"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-2000-miniseries",
+        "kind": "sequel",
+        "note": ""
+      },
+      {
+        "to": "dune-messiah",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "children-of-dune",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-2021",
+    "title": "Dune",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dune",
+    "continuity": "dune-villeneuve",
+    "studio_brand": "legendary-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune (2021 film)",
+      "wikidata": "Q60834962",
+      "tmdb": "438631",
+      "imdb": "tt1160419"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+      "https://en.wikipedia.org/w/index.php?title=Dune_(2021_film)&oldid=1388293210"
+    ],
+    "notes": "Released as \"Dune\" (also known as Dune: Part One).",
+    "units": [
+      {
+        "id": "dune-2021",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 155,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "events of the first half of Dune",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "In the distant future, Duke Leto Atreides is assigned by the Padishah Emperor Shaddam IV to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-10-22",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: | released = September 3, 2021 (Venice); October 22, 2021 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+          "https://en.wikipedia.org/w/index.php?title=Dune_(2021_film)&oldid=1388293210"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "adapts",
+        "note": "First half of the 1965 novel."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-part-two",
+    "title": "Dune: Part Two",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dune",
+    "continuity": "dune-villeneuve",
+    "studio_brand": "legendary-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: Part Two",
+      "wikidata": "Q109228991",
+      "tmdb": "693134",
+      "imdb": "tt15239678"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_Part_Two&oldid=1388198757"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "dune-part-two",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 165,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "directly after Dune (2021)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Following the defeat of House Atreides by House Harkonnen, Princess Irulan",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-03-01",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: | released = February 6, 2024 (Auditorio Nacional); March 1, 2024 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_Part_Two&oldid=1388198757"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-2021",
+        "kind": "sequel",
+        "note": ""
+      },
+      {
+        "to": "dune-1",
+        "kind": "adapts",
+        "note": "Second half of the 1965 novel."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-part-three",
+    "title": "Dune: Part Three",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dune",
+    "continuity": "dune-villeneuve",
+    "studio_brand": "legendary-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "Dune: Part Three",
+      "wikidata": "Q124714245",
+      "tmdb": "1170608",
+      "imdb": "tt31378509"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_Part_Three",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_Part_Two&oldid=1388198757"
+    ],
+    "notes": "Announced; release_date is left null because the film is unreleased on the cutoff date.",
+    "units": [
+      {
+        "id": "dune-part-three",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "17 years after Part Two",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The third film, Dune: Part Three, will adapt the events in Dune Messiah (1969) with a story taking place 17 years after Dune: Part Two. … Nearly two decades after he seized control of the Imperium",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: Dune: Part Three will premiere at the TCL Chinese Theatre in Los Angeles on December 1, 2026, and is scheduled to be released in the United States on December 18."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_Part_Three",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_Part_Two&oldid=1388198757"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-part-two",
+        "kind": "sequel",
+        "note": ""
+      },
+      {
+        "to": "dune-messiah",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-prophecy",
+    "title": "Dune: Prophecy",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dune",
+    "continuity": "dune-villeneuve",
+    "studio_brand": "legendary-television",
+    "label": null,
+    "platform_or_network": "hbo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: Prophecy",
+      "wikidata": "Q64969653",
+      "tmdb": "90228",
+      "imdb": "tt10466872"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_Prophecy",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_Prophecy&oldid=1387206308"
+    ],
+    "notes": "It draws upon, but is set after, the Great Schools of Dune novel trilogy (2012–2016) by Brian Herbert and Kevin J. Anderson.",
+    "units": [
+      {
+        "id": "dune-prophecy-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "10,000 years before Dune; 80 years after the defeat of the thinking machines",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Set 10,000 years before the events of Dune, the series commences 80 years after an alliance of humans defeated the thinking machine armies that had nearly exterminated them.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-11-17",
+          "end_date": "2024-12-22",
+          "year": 2024,
+          "note": "Wikipedia: Dune: Prophecy premiered on HBO on November 17, 2024 … OriginalAirDate = November 17, 2024 … OriginalAirDate = December 22, 2024 (episode 6)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_Prophecy",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_Prophecy&oldid=1387206308"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dune-prophecy-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: In December 2024, the series was renewed for a second season, which is set to premiere in 2026."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_Prophecy",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_Prophecy&oldid=1387206308"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-2021",
+        "kind": "sequel",
+        "note": "Prequel about 10,000 years before the Villeneuve films."
+      },
+      {
+        "to": "sisterhood-of-dune",
+        "kind": "adapts",
+        "note": "Draws on, but is set after, the Great Schools of Dune trilogy."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dune-awakening",
+    "title": "Dune: Awakening",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dune",
+    "continuity": "dune-awakening",
+    "studio_brand": "funcom",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dune: Awakening",
+      "wikidata": "Q113585920",
+      "tmdb": null,
+      "imdb": "tt37146909"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dune:_Awakening",
+      "https://en.wikipedia.org/w/index.php?title=Dune%3A_Awakening&oldid=1388104025"
+    ],
+    "notes": "Made under Funcom's 2019 partnership with Legendary Entertainment. Wikipedia gives it its own alternate timeline, so it is not merged with the films.",
+    "units": [
+      {
+        "id": "dune-awakening",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "alternate timeline in which Paul is never born",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Lady Jessica instead gives birth to a daughter, Ariste, as commanded by the Bene Gesserit. For her loyalty, Jessica is trained as a Truthsayer and uncovers the treachery of Dr. Wellington Yueh, preventing the events of the original novel.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-06-10",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: A multiplayer game, it was released for Windows on June 10, 2025, with early access on June 5. Versions for PlayStation 5 and Xbox Series X/S were released on September 22, 2026"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dune:_Awakening",
+          "https://en.wikipedia.org/w/index.php?title=Dune%3A_Awakening&oldid=1388104025"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dune-1",
+        "kind": "references",
+        "note": "Diverges before the events of the novel."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

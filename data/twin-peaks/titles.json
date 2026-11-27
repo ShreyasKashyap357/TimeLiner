@@ -1,0 +1,806 @@
+[
+  {
+    "id": "twin-peaks-series",
+    "title": "Twin Peaks",
+    "sort_title": null,
+    "type": "series",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks",
+      "wikidata": "Q2085",
+      "tmdb": "1920",
+      "imdb": "tt0098936"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Twin_Peaks_episodes&oldid=1387781169",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_season_3&oldid=1385305923",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_season_3&oldid=1385305923 | https://twinpeaks.fandom.com/wiki/2016?oldid=50836"
+    ],
+    "notes": "Season 3 is \"Twin Peaks: The Return\" (Showtime). The list article also says the pilot \"was first released in September 1989\", which looks like an error (it premiered on ABC April 8, 1990) and is not used. Studio not checked.",
+    "units": [
+      {
+        "id": "twin-peaks-series-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1989
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "February 1989",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In February 1989 in Twin Peaks, Washington, the corpse of homecoming queen Laura Palmer is discovered.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-04-08",
+          "end_date": "1990-05-23",
+          "year": 1990,
+          "note": "Wikipedia: The first season originally aired on ABC in the United States between April 8 and May 23, 1990, consisting of eight episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Twin_Peaks_episodes&oldid=1387781169"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "twin-peaks-series-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1989
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "1989",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "In Twin Peaks, a new clue leads members of the sheriff's office to reopen their inquiry into the 1989 murder of Laura Palmer … Laura tells Cooper that she will see him in 25 years",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-09-30",
+          "end_date": "1991-06-10",
+          "year": 1990,
+          "note": "Wikipedia: episodes2 = 22 | start2 = September 30, 1990 | end2 = June 10, 1991"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_season_3&oldid=1385305923"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "twin-peaks-series-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2016
+          },
+          "end": {
+            "y": 2016
+          },
+          "label": "25 years later (2014 or 2016)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Set 25 years after the events of the original Twin Peaks … [Fandom \"2016\" page] Events … All of them are prior to September 29 (events of Parts 1–18)",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-05-21",
+          "end_date": "2017-09-03",
+          "year": 2017,
+          "note": "Wikipedia: The show's third season, consisting of 18 episodes, was announced in October 2014 and premiered on Showtime on May 21, 2017. … end3 = September 3, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_season_3&oldid=1385305923 | https://twinpeaks.fandom.com/wiki/2016?oldid=50836"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-fwwm",
+        "kind": "continues",
+        "note": "season 3 continues the series and the film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "twin-peaks-fwwm",
+    "title": "Twin Peaks: Fire Walk with Me",
+    "sort_title": null,
+    "type": "film",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "ciby-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks: Fire Walk with Me",
+      "wikidata": "Q1140578",
+      "tmdb": "1923",
+      "imdb": "tt0105665"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks:_Fire_Walk_with_Me",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks%3A_Fire_Walk_with_Me&oldid=1382545171"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "twin-peaks-fwwm",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 135,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1988
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "Teresa Banks murder, then one year later to February 1989",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "It begins with the FBI's investigation into the murder of Teresa Banks (Pamela Gidley) before shifting to the last seven days of the life of Laura Palmer … One year later, Laura Palmer juggles her double life.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-05-16",
+          "end_date": null,
+          "year": 1992,
+          "note": "Wikipedia: released = May 16, 1992 (Cannes); July 3, 1992 (France); August 28, 1992 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks:_Fire_Walk_with_Me",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks%3A_Fire_Walk_with_Me&oldid=1382545171"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-series",
+        "kind": "continues",
+        "note": "prequel to seasons 1–2"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "twin-peaks-missing-pieces",
+    "title": "Twin Peaks: The Missing Pieces",
+    "sort_title": null,
+    "type": "film",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks: The Missing Pieces",
+      "wikidata": "Q32067391",
+      "tmdb": "284457",
+      "imdb": "tt5334704"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks:_The_Missing_Pieces",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks%3A_The_Missing_Pieces&oldid=1365688538"
+    ],
+    "notes": "Produced for the Twin Peaks: The Entire Mystery Blu-ray box set (box set released July 29, 2014 per the episodes list).",
+    "units": [
+      {
+        "id": "twin-peaks-missing-pieces",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1988
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "alongside Fire Walk with Me (1988–1989)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Twin Peaks: The Missing Pieces is a 2014 compilation of deleted and extended scenes from Twin Peaks: Fire Walk with Me … The deleted scenes principally concerned the FBI's investigation into the murder of Teresa Banks",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-07-16",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: released = July 16, 2014 (Vista Theatre) … To commemorate the box set, Paramount organized a special screening of The Missing Pieces at the Vista Theatre in Los Angeles on July 16, 2014."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks:_The_Missing_Pieces",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks%3A_The_Missing_Pieces&oldid=1365688538"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-fwwm",
+        "kind": "spinoff",
+        "note": "deleted/extended scenes from the film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "secret-diary-laura-palmer",
+    "title": "The Secret Diary of Laura Palmer",
+    "sort_title": "Secret Diary of Laura Palmer",
+    "type": "novel",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "pocket-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Secret Diary of Laura Palmer",
+      "wikidata": "Q3793774",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Laura_Palmer",
+      "https://en.wikipedia.org/w/index.php?title=The_Secret_Diary_of_Laura_Palmer&oldid=1384351116"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "secret-diary-laura-palmer",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "1984–1989",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The book begins on Laura's 12th birthday in 1984 … which ends with an undated entry in late 1989",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-09-15",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: publication_date = 15 September 1990 … It was published between the airing of the first and second season."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Laura_Palmer",
+          "https://en.wikipedia.org/w/index.php?title=The_Secret_Diary_of_Laura_Palmer&oldid=1384351116"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-series",
+        "kind": "spinoff",
+        "note": "official tie-in"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "diane-twin-peaks-tapes",
+    "title": "\"Diane...\" The Twin Peaks Tapes of Agent Cooper",
+    "sort_title": null,
+    "type": "audio-drama",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "simon-schuster-audio",
+    "label": null,
+    "platform_or_network": "audio-download",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks books",
+      "wikidata": "Q3831796",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks_books",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+    ],
+    "notes": "No standalone article; sourced from Twin Peaks books.",
+    "units": [
+      {
+        "id": "diane-twin-peaks-tapes",
+        "label": "Audiobook",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1989
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "Cooper's trip to Twin Peaks to his recovery from being shot",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The tape begins with a prologue monologue in which Cooper discusses his impending trip to Twin Peaks, continues with the initial monologue heard in the pilot, and continues to a point after his recovery from being shot.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-10-01",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: \"Diane...\" The Twin Peaks Tapes of Agent Cooper | Scott Frost | October 1, 1990"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks_books",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-series",
+        "kind": "spinoff",
+        "note": "audio-only tie-in; Kyle MacLachlan Grammy-nominated"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "autobiography-dale-cooper",
+    "title": "The Autobiography of F.B.I. Special Agent Dale Cooper: My Life, My Tapes",
+    "sort_title": "Autobiography of F.B.I. Special Agent Dale Cooper: My Life, My Tapes",
+    "type": "novel",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "pocket-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks books",
+      "wikidata": "Q3831796",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks_books",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+    ],
+    "notes": "No standalone article; sourced from Twin Peaks books. Publisher Pocket Books per the books article lead (\"Pocket Books released three official tie-in books\").",
+    "units": [
+      {
+        "id": "autobiography-dale-cooper",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Cooper's childhood up to his assignment to the Laura Palmer case",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The book begins with Cooper's childhood … The book ultimately concludes with the day he is assigned to Laura Palmer's murder.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "twin-peaks-series-s3",
+            "before": "welcome-to-twin-peaks"
+          }
+        },
+        "release": {
+          "date": "1991-05-01",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: The Autobiography of F.B.I. Special Agent Dale Cooper: My Life, My Tapes | Scott Frost | May 1, 1991"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks_books",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-series",
+        "kind": "spinoff",
+        "note": "official tie-in"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "welcome-to-twin-peaks",
+    "title": "Welcome to Twin Peaks: An Access Guide to the Town",
+    "sort_title": null,
+    "type": "reference",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "pocket-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks books",
+      "wikidata": "Q3831796",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks_books",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+    ],
+    "notes": "No standalone article; sourced from Twin Peaks books.",
+    "units": [
+      {
+        "id": "welcome-to-twin-peaks",
+        "label": "Guide",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "in-universe town guide, contemporary with the series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The book is a parody of a traveler's guide book, as published by the \"Twin Peaks Chamber of Commerce\"",
+          "order_index": 90,
+          "relative_to": {
+            "after": "autobiography-dale-cooper",
+            "before": "secret-history-of-twin-peaks"
+          }
+        },
+        "release": {
+          "date": "1991-06-01",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: Welcome to Twin Peaks: An Access Guide to the Town | David Lynch, Mark Frost, Richard Saul Wurman | June 1, 1991"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks_books",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-series",
+        "kind": "spinoff",
+        "note": "in-universe guidebook"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "secret-history-of-twin-peaks",
+    "title": "The Secret History of Twin Peaks",
+    "sort_title": "Secret History of Twin Peaks",
+    "type": "novel",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "flatiron-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Secret History of Twin Peaks",
+      "wikidata": "Q29644269",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Secret_History_of_Twin_Peaks",
+      "https://en.wikipedia.org/w/index.php?title=The_Secret_History_of_Twin_Peaks&oldid=1384432060"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "secret-history-of-twin-peaks",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Lewis and Clark era (early 1800s) to the season 2 finale (1989)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "The documents are presented in a roughly chronological order, beginning with the exploration of the area by the Lewis and Clark Expedition, correspondence with President Thomas Jefferson, and Meriwether Lewis's mysterious death in 1809.",
+          "order_index": 100,
+          "relative_to": {
+            "after": "welcome-to-twin-peaks",
+            "before": "twin-peaks-final-dossier"
+          }
+        },
+        "release": {
+          "date": "2016-10-18",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: publisher = Flatiron Books | publication_date = October 18, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Secret_History_of_Twin_Peaks",
+          "https://en.wikipedia.org/w/index.php?title=The_Secret_History_of_Twin_Peaks&oldid=1384432060"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "twin-peaks-series",
+        "kind": "spinoff",
+        "note": "dossier novel published ahead of the 2017 revival"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "twin-peaks-final-dossier",
+    "title": "Twin Peaks: The Final Dossier",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "twin-peaks",
+    "continuity": "twin-peaks-main",
+    "studio_brand": "flatiron-books",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Twin Peaks: The Final Dossier",
+      "wikidata": "Q43534094",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks:_The_Final_Dossier",
+      "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804 | https://en.wikipedia.org/w/index.php?title=Twin_Peaks%3A_The_Final_Dossier&oldid=1384439755"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "twin-peaks-final-dossier",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "the 25 years between seasons 2 and 3, and after season 3",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "The novel fills in details of the 25 years between the second and third seasons, and expands on some of the mysteries raised in the new episodes. … clarifying some apparent discrepancies between them.",
+          "order_index": 110,
+          "relative_to": {
+            "after": "secret-history-of-twin-peaks",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2017-10-31",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: The book was initially released by Flatiron Books on October 31, 2017."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Twin_Peaks:_The_Final_Dossier",
+          "https://en.wikipedia.org/w/index.php?title=Twin_Peaks_books&oldid=1370208804 | https://en.wikipedia.org/w/index.php?title=Twin_Peaks%3A_The_Final_Dossier&oldid=1384439755"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "secret-history-of-twin-peaks",
+        "kind": "sequel",
+        "note": ""
+      },
+      {
+        "to": "twin-peaks-series",
+        "kind": "continues",
+        "note": "follows the 2017 revival"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

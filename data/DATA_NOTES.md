@@ -776,3 +776,36 @@ Generated with the generic research-to-seed generator. Revids are in the researc
 - **Series with figures:** House of the Dragon, A Knight of the Seven Kingdoms, Game of Thrones, Lanterns, The Penguin, Smallville, Gotham, Arrow, The Flash (2014), Supergirl, Legends of Tomorrow, Black Lightning, Batwoman, Stargirl, Superman & Lois, Static Shock, Justice League, Justice League Unlimited, Batman Beyond, Lucifer, Krypton, Watchmen, Constantine, Teen Titans, Teen Titans Go!, Young Justice, Beware the Batman, Justice League Action, My Adventures with Superman, The Flash (1990), Lois & Clark, Birds of Prey, Human Target (2010), Powerless, Naomi, Gotham Knights, The Batman (2004), iZombie, Preacher, Doctor Who (1963–1989), Doctor Who (2005–2025), Torchwood, The War Between the Land and the Sea, Unikitty!, Legends of Chima, Nexo Knights, Agents of S.H.I.E.L.D., Inhumans, Cloak & Dagger, Agent Carter, Legion, The Gifted, Avengers Assemble, Ultimate Spider-Man, Moon Girl and Devil Dinosaur, Star Trek: Enterprise, The Original Series, Deep Space Nine, Voyager, Star Wars: The Clone Wars, Star Wars Rebels, Star Wars Resistance, Terminator: The Sarah Connor Chronicles, The Last of Us. Many of these cover only some seasons (the cache's `skipped` list gives the reason per unit, e.g. a row-count mismatch or no viewers column).
 - **Streaming-only series: no figures recorded** (Wikipedia gives no per-episode viewers, and no streaming metric was stored): all Disney+ Marvel and Star Wars series, Netflix Marvel series, X-Men '97, Hulu/Max/Prime/Apple/Paramount+ series (Peacemaker, Titans, Doom Patrol, Harley Quinn, Creature Commandos, The Sandman, The Rings of Power, Percy Jackson, Halo, Fallout, Monarch, The Wheel of Time, The Witcher, Star Trek: Discovery, Picard, Strange New Worlds, Lower Decks, Prodigy and the others with a streaming platform). 109 released series in all.
 - **Broadcast or cable series without usable figures** (no viewers column, or rows that did not match the data): e.g. Batman: The Animated Series, X-Men: The Animated Series, Star Trek: The Next Generation, all Gundam and Godzilla TV series, The Sarah Jane Adventures, Class, K9, 1960s–80s Super Friends-era cartoons, Ninjago, Lego Monkie Kid; 116 in all.
+
+## Wave 2 universes (2026-11-27)
+
+Research came from Wikipedia revision permalinks, with fan wikis only for inferred years. Universes were generated with the generic pipeline. Where no source gives years, a continuity is ordered-only and its order is explained in each unit's note.
+
+- **Law & Order, NCIS, CSI, One Chicago.** One shared continuity each. Law & Order's international adaptations (UK, Paris, Toronto) are separate.
+  - **Order:** no article says the shows are set when they aired, so seasons are in premiere order across the shared shows (inferred).
+  - **NCIS: Origins** is "a prequel to NCIS" set in 1991. It goes before NCIS season 1, after JAG (`2026-11-27-ncis-origins-prequel.ts`).
+  - **Cross-franchise crossovers** (SVU × Chicago P.D. and others) are in the research file. They will become links once cross-universe links exist for them.
+- **The Walking Dead.** Four continuities: TV; the Image comic, together with the Telltale and Overkill games ("set within the comic book universe"); the Saints & Sinners VR games; Destinies.
+  - **Order:** no calendar years anywhere, so premiere order is used.
+- **Yellowstone.** Lawmen: Bass Reeves and The Madison are separate continuities, because Wikipedia now places them outside the Dutton universe. The franchise article still says Bass Reeves is in the "greater Duttonverse" (noted on the title).
+- **Breaking Bad.** Season years come from the Breaking Bad fan wiki timeline (inferred). Wikipedia gives only the 2008–2010 span. Better Call Saul's 2002–2004 seasons come first; its 2010 epilogue is in the note. Slippin' Jimmy is separate (non-canon per a /Film critic, and Wikipedia is silent).
+- **Twin Peaks.** One continuity, because the books are "intended to be canon". Frost's books are disputed because of contradictions. The Return's 2016 comes from the fan wiki (disputed: "25 years after" would be 2014).
+- **Narnia.** The books use Earth years from Lewis's Outline. The Narnian years are in the labels. Each screen adaptation family is its own continuity.
+- **The Hunger Games.** No calendar years exist, so units are ordered by Games number (10th, 50th, 74th, 75th).
+- **Shadowhunters.** Book years are inferred from series-level statements. The City of Heavenly Fire years are disputed: 2007 vs 2008.
+- **Outlander.** The novel *Voyager* has the id `voyager-novel`, because `voyager` is Star Trek. Some book years come from article categories only (inferred).
+- **The Dark Tower.** Ordered by volume and stated relative timing; The Wind Through the Keyhole sits between IV and V. The 2017 film is "a canonical sequel", in its own continuity. King books tied to the series are a separate "related works" continuity and are never merged.
+- **Discworld.** Ordered by publication: "The books take place roughly in real time" (a section tagged as original research, so inferred). Small Gods is disputed. Sub-series come from each infobox; Moving Pictures in Industrial Revolution is a judgement call.
+- **Cosmere.**
+  - **Order:** Sanderson's FAQ order across worlds. Works with no sourced position follow in publication order (disputed).
+  - **Sources:** the Coppermind fan wiki blocked automated access, so no fan-wiki placements are used. Titles without an article cite the Sanderson bibliography revision.
+- **Stargate.** The 1994 film is its own continuity ("altered the canon"). The TV continuity has the prequel Origins first, then premiere order. Infinity is separate (not canon).
+- **Battlestar Galactica.** Re-imagined story order from stated offsets: Caprica ("58 years before"), Blood & Chrome (10th year of the war), the miniseries, seasons 1–2, Razor ("during season 2") and The Plan (retells seasons 1–2), then seasons 3–4.
+- **The Expanse.** No confirmed years: the fan wiki confirms only 2307. Books and novellas are in publication order (D-70).
+- **Dune.**
+  - **Calendar:** AG/BG, stored as negative years for BG. Book years come from the Dune Wiki (inferred).
+  - **Brian Herbert & Kevin J. Anderson books** are in the same book continuity: Wikipedia files them on one timeline, but their canon status is debated (noted).
+  - **Screen:** each family is its own continuity. Prophecy comes first in the Villeneuve continuity ("10,000 years before").
+- **Platforms and publishers.**
+  - **Mapped to existing ids:** PS4 → PlayStation 4; direct-to-video → home media; BBC → BBC One for the 1988 Narnia serial.
+  - **Publishers:** book publishers come from the infobox `publisher` field, not the author.

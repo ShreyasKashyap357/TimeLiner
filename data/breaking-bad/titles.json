@@ -1,0 +1,714 @@
+[
+  {
+    "id": "breaking-bad-series",
+    "title": "Breaking Bad",
+    "sort_title": null,
+    "type": "series",
+    "universe": "breaking-bad",
+    "continuity": "breaking-bad-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "amc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Breaking Bad",
+      "wikidata": "Q1079",
+      "tmdb": "1396",
+      "imdb": "tt0903747"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Breaking_Bad",
+      "https://en.wikipedia.org/w/index.php?title=Breaking_Bad&oldid=1387992232 | https://breakingbad.fandom.com/wiki/Timeline?oldid=203086",
+      "https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+    ],
+    "notes": "Per-season years for S2–S5 come from Fandom (secondary, inferred). Original Minisodes (2009–2011) excluded: no standalone article. Studio not checked (left null).",
+    "units": [
+      {
+        "id": "breaking-bad-series-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 7,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2008
+          },
+          "end": {
+            "y": 2008
+          },
+          "label": "2008",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The events of the series take place between 2008 and 2010. … [Fandom timeline] S1 … 2008 … Pilot: September 7 to 30 (three weeks)",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-01-20",
+          "end_date": "2008-03-09",
+          "year": 2008,
+          "note": "Wikipedia: (List of Breaking Bad episodes): episodes1=7 | start1=2008-01-20 | end1=2008-03-09"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Breaking_Bad",
+          "https://en.wikipedia.org/w/index.php?title=Breaking_Bad&oldid=1387992232 | https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "breaking-bad-series-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2008
+          },
+          "end": {
+            "y": 2009
+          },
+          "label": "2008–2009",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "S2 … 2008 … Seven Thirty-Seven: October 31 to November 7 … 2009 … ABQ: March 4 to April 5 (one month)",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-03-08",
+          "end_date": "2009-05-31",
+          "year": 2009,
+          "note": "Wikipedia: (List of Breaking Bad episodes): episodes2=13 | start2=2009-03-08 | end2=2009-05-31"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Breaking_Bad",
+          "https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "breaking-bad-series-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2009
+          },
+          "end": {
+            "y": 2009
+          },
+          "label": "2009",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "S3 … 2009 … Fly: May 12 (one day)",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-03-21",
+          "end_date": "2010-06-13",
+          "year": 2010,
+          "note": "Wikipedia: (List of Breaking Bad episodes): episodes3=13 | start3=2010-03-21 | end3=2010-06-13"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Breaking_Bad",
+          "https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "breaking-bad-series-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2009
+          },
+          "end": {
+            "y": 2009
+          },
+          "label": "2009",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "S4 … 2009 … Box Cutter: May 30 (one day) … Face Off: July 15 (one day)",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-07-17",
+          "end_date": "2011-10-09",
+          "year": 2011,
+          "note": "Wikipedia: (List of Breaking Bad episodes): episodes4=13 | start4=2011-07-17 | end4=2011-10-09"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Breaking_Bad",
+          "https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "breaking-bad-series-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2009
+          },
+          "end": {
+            "y": 2010
+          },
+          "label": "2009–2010",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Ultimately, Gilligan chose to end Breaking Bad with Walter's death, occurring in-story two years after he had first been diagnosed with cancer … [Fandom] S5A … 2009 … Live Free or Die: July 15 to 24 … S5B … 2010 … Felina: September 3 to 7 (five days)",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-07-15",
+          "end_date": "2013-09-29",
+          "year": 2012,
+          "note": "Wikipedia: (List of Breaking Bad episodes): episodes5=16 | start5=2012-07-15 | end5=2013-09-29"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Breaking_Bad",
+          "https://en.wikipedia.org/w/index.php?title=Breaking_Bad&oldid=1387992232 | https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "better-call-saul",
+    "title": "Better Call Saul",
+    "sort_title": null,
+    "type": "series",
+    "universe": "breaking-bad",
+    "continuity": "breaking-bad-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "amc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Better Call Saul",
+      "wikidata": "Q14925221",
+      "tmdb": "60059",
+      "imdb": "tt3032476"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Better_Call_Saul",
+      "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_1&oldid=1386202891",
+      "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_2&oldid=1384372839",
+      "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_3&oldid=1384372996",
+      "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_4&oldid=1384373205",
+      "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_5&oldid=1384373308",
+      "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_6&oldid=1384374826"
+    ],
+    "notes": "Every season opens (S1–S5) or partly runs (S6) in the black-and-white 2010 \"Gene\" timeline: \"Better Call Saul includes black-and-white flashforwards set in 2010\". Employee Training web series excluded (no standalone article). Studio not checked (left null).",
+    "units": [
+      {
+        "id": "better-call-saul-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2002
+          },
+          "end": {
+            "y": 2002
+          },
+          "label": "2002 (B&W flash-forward 2010)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The season takes place in 2002, six years prior to the events in Breaking Bad",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-02-08",
+          "end_date": "2015-04-06",
+          "year": 2015,
+          "note": "Wikipedia: (List of Better Call Saul episodes): episodes1=10 | start1=2015-02-08 | end1=2015-04-06"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Better_Call_Saul",
+          "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_1&oldid=1386202891"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "better-call-saul-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2002
+          },
+          "end": {
+            "y": 2002
+          },
+          "label": "2002",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "This season, like the previous, mainly takes place in 2002",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-02-15",
+          "end_date": "2016-04-18",
+          "year": 2016,
+          "note": "Wikipedia: (List of Better Call Saul episodes): episodes2=10 | start2=2016-02-15 | end2=2016-04-18"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Better_Call_Saul",
+          "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_2&oldid=1384372839"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "better-call-saul-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2002
+          },
+          "end": {
+            "y": 2003
+          },
+          "label": "2002–2003",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The third season immediately follows the events of the second season, which take place in late 2002. The year is 2003 by the third season's conclusion.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-04-10",
+          "end_date": "2017-06-19",
+          "year": 2017,
+          "note": "Wikipedia: (List of Better Call Saul episodes): episodes3=10 | start3=2017-04-10 | end3=2017-06-19"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Better_Call_Saul",
+          "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_3&oldid=1384372996"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "better-call-saul-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2003
+          },
+          "end": {
+            "y": 2004
+          },
+          "label": "2003–2004",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The fourth season also takes place mainly in 2003, with the last four episodes taking place in 2004 after a time jump in the seventh episode.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-08-06",
+          "end_date": "2018-10-08",
+          "year": 2018,
+          "note": "Wikipedia: (List of Better Call Saul episodes): episodes4=10 | start4=2018-08-06 | end4=2018-10-08"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Better_Call_Saul",
+          "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_4&oldid=1384373205"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "better-call-saul-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2004
+          },
+          "end": {
+            "y": 2004
+          },
+          "label": "2004",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The fifth season picks up where the fourth left off, also taking place in 2004, four years before Jimmy McGill (Odenkirk) meets Walter White",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-02-23",
+          "end_date": "2020-04-20",
+          "year": 2020,
+          "note": "Wikipedia: (List of Better Call Saul episodes): episodes5=10 | start5=2020-02-23 | end5=2020-04-20"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Better_Call_Saul",
+          "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_5&oldid=1384373308"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "better-call-saul-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2004
+          },
+          "end": {
+            "y": 2010
+          },
+          "label": "2004, then 2010",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The first nine episodes mainly take place in Albuquerque, New Mexico in 2004 … The remaining episodes mainly take place in 2010, after the events of Breaking Bad",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-04-18",
+          "end_date": "2022-08-15",
+          "year": 2022,
+          "note": "Wikipedia: (List of Better Call Saul episodes): episodes6=13 | start6=2022-04-18 | end6=2022-08-15"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Better_Call_Saul",
+          "https://en.wikipedia.org/w/index.php?title=Better_Call_Saul_season_6&oldid=1384374826"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "breaking-bad-series",
+        "kind": "spinoff",
+        "note": "mainly a prequel (2002–2004) with 2010 flash-forwards after Breaking Bad"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "el-camino",
+    "title": "El Camino: A Breaking Bad Movie",
+    "sort_title": null,
+    "type": "film",
+    "universe": "breaking-bad",
+    "continuity": "breaking-bad-main",
+    "studio_brand": "sony-pictures-television",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "El Camino: A Breaking Bad Movie",
+      "wikidata": "Q61741521",
+      "tmdb": "559969",
+      "imdb": "tt9243946"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/El_Camino:_A_Breaking_Bad_Movie",
+      "https://en.wikipedia.org/w/index.php?title=El_Camino%3A_A_Breaking_Bad_Movie&oldid=1386726207 | https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "el-camino",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 122,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2010
+          },
+          "end": {
+            "y": 2010
+          },
+          "label": "2010 (flashbacks)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "[Wikipedia category] Films set in 2010 … [Fandom] El Camino Timeline … 2010 … El Camino: September 8 to 9 (two days)",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-10-11",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: released = October 11, 2019 … distributor = Netflix, Sony Pictures Releasing"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/El_Camino:_A_Breaking_Bad_Movie",
+          "https://en.wikipedia.org/w/index.php?title=El_Camino%3A_A_Breaking_Bad_Movie&oldid=1386726207 | https://breakingbad.fandom.com/wiki/Timeline?oldid=203086"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "breaking-bad-series",
+        "kind": "sequel",
+        "note": "Jesse Pinkman immediately after the series finale"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "slippin-jimmy",
+    "title": "Slippin' Jimmy",
+    "sort_title": null,
+    "type": "series",
+    "universe": "breaking-bad",
+    "continuity": "slippin-jimmy",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "amc-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Slippin' Jimmy",
+      "wikidata": "Q113953335",
+      "tmdb": "158704",
+      "imdb": "tt20516438"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Slippin'_Jimmy",
+      "https://en.wikipedia.org/w/index.php?title=Slippin%27_Jimmy&oldid=1387250960"
+    ],
+    "notes": "Studio not checked.",
+    "units": [
+      {
+        "id": "slippin-jimmy",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "young Jimmy McGill in Cicero, Illinois (before BCS)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The series, a prequel based on younger Jimmy's time in Cicero, was developed by Ariel Levine and Kathleen Williams-Foshee",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-05-23",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: network = AMC+ | released = May 23, 2022 … num_episodes = 6"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Slippin'_Jimmy",
+          "https://en.wikipedia.org/w/index.php?title=Slippin%27_Jimmy&oldid=1387250960"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "better-call-saul",
+        "kind": "spinoff",
+        "note": "animated prequel spin-off; canon unclear"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

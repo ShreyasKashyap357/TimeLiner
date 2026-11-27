@@ -1,0 +1,130 @@
+[
+  {
+    "id": "twd-tv",
+    "universe": "the-walking-dead",
+    "name": "The Walking Dead (AMC television universe)",
+    "short_name": "The Walking Dead",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The AMC live-action shared universe: The Walking Dead, Fear the Walking Dead, World Beyond, Tales, Dead City, Daryl Dixon, The Ones Who Live, plus the TV-prequel game Survival Instinct. Wikipedia: \"The Walking Dead is an American zombie apocalypse media franchise centered on a number of television series based on the comic book of the same name. Set in one fictional shared universe, the franchise has developed into seven live-action television series … Survival Instinct: A first-person shooter which serves as a prequel to the main television series\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead_%28franchise%29&oldid=1388135749",
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead%3A_Survival_Instinct&oldid=1387314481"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "twd-comic",
+    "universe": "the-walking-dead",
+    "name": "The Walking Dead (comic book universe)",
+    "short_name": "The Walking Dead",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The Image Comics series plus the games Wikipedia places in the comic universe: Telltale seasons 1–4 and Michonne, and Overkill's The Walking Dead. Wikipedia: \"The Walking Dead: From Telltale Games, a series of games which are set within the comic book universe … The game's events run concurrently to the comic … It is set in the same continuity of the comic book series … Despite being set in the comic series' universe, the game's four playable characters are original.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead_%28franchise%29&oldid=1388135749",
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead_%28video_game_series%29&oldid=1384351517",
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead%3A_The_Final_Season&oldid=1384387795",
+      "https://en.wikipedia.org/w/index.php?title=Overkill%27s_The_Walking_Dead&oldid=1375995337"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "twd-saints-sinners",
+    "universe": "the-walking-dead",
+    "name": "The Walking Dead: Saints & Sinners (VR games)",
+    "short_name": "The Walking Dead: Saints & Sinners",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Skydance VR games set in a flooded New Orleans. Wikipedia only says they are \"based on\" the comic, not set in its continuity, so they stay separate. Wikipedia: \"It is based on the comic book series The Walking Dead by Robert Kirkman. … The game is set in the flooded New Orleans after an outbreak.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead%3A_Saints_%26_Sinners&oldid=1384351499"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "twd-destinies",
+    "universe": "the-walking-dead",
+    "name": "The Walking Dead: Destinies (alternate retelling)",
+    "short_name": "The Walking Dead: Destinies",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "A choice-driven retelling of TV seasons 1–4 where outcomes can differ from the show, so it is not part of TV canon. Wikipedia: \"A third-person, narrative-driven action-adventure game in which the player can reshape the story of the first four seasons of the main series through their actions. … potentially differing from how things played out on the show.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=The_Walking_Dead_%28franchise%29&oldid=1388135749"
+    ],
+    "notes": ""
+  }
+]

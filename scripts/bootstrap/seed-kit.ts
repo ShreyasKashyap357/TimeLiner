@@ -10,12 +10,12 @@ export interface SeedIU { y?: number; m?: number; y2?: number; label: string; pr
 export interface SeedUnit {
   key: string; label: string; season?: number; relTitle?: string; episodes?: number; pages?: number;
   branch?: string; tier?: CanonTier; platform?: string; iu: SeedIU; grp?: Record<string, string>;
-  rel?: { date: string | null; end?: string | null; note?: string; src: string }; notes?: string;
+  rel?: { date: string | null; end?: string | null; note?: string; src: string | null }; notes?: string;
   /** SORT_BY_YEAR continuities: tie-break within the same start year (lower first, default 0) before release date. */
   rank?: number;
 }
 export interface SeedTitle {
-  id: string; title: string; type: TitleType; wiki: string; continuity: string; studio: string; label?: string; platform: string;
+  id: string; title: string; type: TitleType; wiki: string | null; continuity: string; studio: string; label?: string; platform: string;
   tier?: CanonTier; chars?: string[]; teams?: string[]; units: SeedUnit[]; links?: { to: string; kind: string; note?: string }[];
   notes?: string; constituents?: string[]; extra_sources?: string[];
 }

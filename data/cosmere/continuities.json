@@ -1,0 +1,35 @@
+[
+  {
+    "id": "cosmere",
+    "universe": "cosmere",
+    "name": "Cosmere",
+    "short_name": "Cosmere",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "sub-series"
+    ],
+    "alt_orders": [],
+    "description": "One shared universe across Sanderson's Cosmere books. In-universe years are never given; order is relative and built from Sanderson's own confirmed chronology plus within-series statements on Wikipedia. Wikipedia: \"\"The Cosmere is the name of the universe in which Elantris, Mistborn, Warbreaker, The Stormlight Archive, White Sand, Tress of the Emerald Sea, Yumi and the Nightmare Painter, The Sunlit Man, Isles of the Emberdark, The Fires of December, and stories contained in Arcanum Unbounded: The Cosmere Collection are all set.\"\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Brandon_Sanderson&oldid=1385401866"
+    ],
+    "notes": ""
+  }
+]

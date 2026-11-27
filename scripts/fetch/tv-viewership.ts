@@ -173,7 +173,7 @@ async function main() {
         if (stated) {
           units[job.unit.id] = {
             title_id: t.id, universe: uni, page: { title: stated.p.title, revid: stated.p.revid }, average_page: null,
-            viewership: { measure: stated.header, country: null, episodes: [], season_average: stated.value, season_average_kind: 'stated', source_url: wikiUrl(stated.p.title), average_source_url: null, note: `Season average from the "${stated.header}" column of the series overview; Wikipedia gives no per-episode figures for this season (${picked}).` },
+            viewership: { measure: stated.header, country: null, episodes: [], season_average: stated.value, season_average_kind: 'stated', source_url: wikiUrl(stated.p.title), average_source_url: null, note: `Season average from the "${stated.header}" column of the series overview. No per-episode figures are shown: the source either has none for this season or its episode rows do not match this entry.` },
           };
         } else reasons.push(`${job.unit.id}: ${picked}`);
         continue;

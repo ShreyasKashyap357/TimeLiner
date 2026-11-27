@@ -148,6 +148,7 @@ export function checkIntegrity(ds: Dataset, today: string): Issue[] {
       if (iu.confidence !== 'stated' && !iu.note.trim()) err('iu-note', w, `confidence "${iu.confidence}" requires an explanatory note`);
       if (iu.relative_to) for (const r of [iu.relative_to.after, iu.relative_to.before]) if (r && !units.has(r)) err('ref-relative', w, `relative_to unit "${r}" missing`);
       if (unit.platform_or_network && !platforms.has(unit.platform_or_network)) err('ref-platform', w, `platform "${unit.platform_or_network}" unknown`);
+      for (const pr of unit.platform_releases ?? []) if (!platforms.has(pr.platform)) err('ref-platform', w, `platform release "${pr.platform}" unknown`);
       for (const [k, v] of Object.entries(unit.groupings)) {
         if (!c.grouping_schemes.includes(k)) err('ref-grouping', w, `grouping "${k}" not used by continuity ${c.id}`);
         else if (v && !u?.grouping_schemes.find((g) => g.id === k)?.values.some((x) => x.id === v)) err('ref-grouping-value', w, `"${v}" not a value of ${k}`);

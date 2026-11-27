@@ -184,6 +184,8 @@ export const Unit = z.object({
   status: Status,
   groupings: z.record(z.string(), slug.nullable()).default({}),
   platform_or_network: slug.nullable().default(null), // null = inherit
+  /** Games (R-52): earliest release on each platform (registry: platforms), from the cited Wikipedia infobox revision. */
+  platform_releases: z.array(z.object({ platform: slug, date: isoDate, region: z.string().nullable().default(null), source_url: url })).optional(), // absent = none
   /** How this unit is named in each tracked source (drift detection). e.g. {"mcu-timeline-diagram": "Iron Man"} */
   source_keys: z.record(z.string(), z.string()).default({}),
   source_urls: z.array(url).default([]),

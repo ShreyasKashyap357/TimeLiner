@@ -13,12 +13,13 @@ import { Toolbar } from './Toolbar';
 import { Footer } from './Footer';
 import { Legend } from './Legend';
 import { FilterPanel } from '@/components/FilterPanel';
-import { ActiveFilters } from '@/components/ActiveFilters';
+import { ActiveFilters, UniverseChips } from '@/components/ActiveFilters';
 import { DetailDrawer } from '@/components/DetailDrawer';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Toaster } from '@/components/ui/sonner';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import { SpineView } from '@/views/SpineView';
+import { AppearancesView } from '@/views/AppearancesView';
 // Secondary views are split into lazy chunks (D-4); the default story view stays in the main bundle.
 const ReleaseView = lazy(() => import('@/views/ReleaseView').then((m) => ({ default: m.ReleaseView })));
 const lanes = () => import('@/views/LaneViews');
@@ -87,20 +88,25 @@ export function App() {
   const altOrder = alt?.unit_ids;
 
   const people = useMemo(() => new Map((ds?.titles ?? []).flatMap((t) => t.credits.filter((c) => c.qid).map((c) => [c.qid!, c.name] as const))), [ds]);
+  const characters = useMemo(() => new Map((ds?.titles ?? []).flatMap((t) => t.credits.filter((c) => c.character_qid && c.character).map((c) => [c.character_qid!, c.character!.split(' / ')[0]!] as const))), [ds]);
   const label = useMemo<AppCtx['label']>(() => ({
     studio: (id) => ds?.studios.find((s) => s.id === id)?.label ?? id,
     studioShort: (id) => { const s = ds?.studios.find((x) => x.id === id); return s?.short_label ?? s?.label ?? id; },
     platform: (id) => ds?.platforms.find((p) => p.id === id)?.label ?? id,
     tag: (id) => ds?.tags.find((t) => t.id === id)?.label ?? id,
     person: (qid) => people.get(qid) ?? 'Unknown person',
+    character: (qid) => characters.get(qid) ?? 'Unknown character',
     grouping: (id) => ds?.universes.flatMap((u) => u.grouping_schemes.flatMap((g) => g.values)).find((v) => v.id === id)?.label ?? id,
-  }), [ds, people]);
+  }), [ds, people, characters]);
 
+  // Cross-scope: "All universes", or a person / cast-character filter. In-universe order only exists inside one
+  // continuity, so the timeline tab then lists appearances across continuities and universes instead.
+  const crossScope = state.u === 'all' || state.people.length > 0 || state.chars.length > 0;
   const scoped = useMemo(() => {
-    const continuityScoped = CONTINUITY_SCOPED.includes(state.view);
+    const continuityScoped = CONTINUITY_SCOPED.includes(state.view) && !crossScope;
     // scope only (universe/continuity), for filter option counts
     return rows.filter((r) => (state.u === 'all' || r.universe.id === state.u) && (!continuityScoped || !state.c || r.continuity.id === state.c));
-  }, [rows, state.u, state.c, state.view]);
+  }, [rows, state.u, state.c, state.view, crossScope]);
   const filtered = useMemo(() => applyFilters(scoped, state, { scopeContinuity: false, scopeUniverse: false, watched: watched.set }), [scoped, state, watched.set]);
   const tagScoped = useMemo(() => applyFilters(scoped, { ...state, tags: [] }, { scopeContinuity: false, scopeUniverse: false, watched: watched.set }), [scoped, state, watched.set]);
   const ordered = useMemo(() => orderedForView(filtered, state, altOrder, watched.set), [filtered, state, altOrder, watched.set]);
@@ -110,7 +116,7 @@ export function App() {
   if (error) return <main className="p-8 text-destructive">Failed to load data: {error}</main>;
   if (!ds) return <main className="p-8 text-muted-foreground" aria-busy="true">Loading timeline…</main>;
 
-  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, alt, ordered, spoilerSafe: prefs.spoilerSafe, setSpoilerSafe: (v) => setPrefs({ spoilerSafe: v }) };
+  const ctx: AppCtx = { ds, rows, state, update, watched, label, altOrder, alt, ordered, multiUniverse: new Set(filtered.map((r) => r.universe.id)).size > 1, spoilerSafe: prefs.spoilerSafe, setSpoilerSafe: (v) => setPrefs({ spoilerSafe: v }) };
   const sortOptions: { id: SortId; label: string; alt?: string }[] = [
     ...(CONTINUITY_SCOPED.includes(state.view) ? [{ id: 'in-universe' as SortId, label: 'In-universe order' }] : []),
     ...(state.view === 'spine' ? (continuity?.alt_orders ?? []).map((a) => ({ id: 'alt' as SortId, label: a.label, alt: a.id })) : []),
@@ -157,13 +163,14 @@ export function App() {
               </aside>
               <main id="main" tabIndex={-1} className="min-w-0 pb-16" aria-busy={false}>
                 <h1 className="sr-only">{VIEW_LABELS[state.view]}{CONTINUITY_SCOPED.includes(state.view) && continuity ? ` — ${continuity.name}` : ''}</h1>
+                <UniverseChips />
                 <ActiveFilters />
                 <p className="sr-only" aria-live="polite" data-testid="result-count">{filtered.length} of {scoped.length} entries</p>
                 {VIEWS.map((v) => (
                   <TabsContent key={v} value={v} tabIndex={-1}>
                     {state.view === v && (
                       <Suspense fallback={<p className="p-6 text-sm text-muted-foreground" role="status">Loading view…</p>}>
-                        {v === 'spine' && <SpineView rows={filtered} />}
+                        {v === 'spine' && (crossScope || ctx.multiUniverse ? <AppearancesView rows={filtered} /> : <SpineView rows={filtered} />)}
                         {v === 'release' && <ReleaseView rows={filtered} />}
                         {v === 'platform' && <PlatformView rows={filtered} />}
                         {v === 'studio' && <StudioView rows={filtered} />}

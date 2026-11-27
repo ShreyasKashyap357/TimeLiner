@@ -23,7 +23,614 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order, which sources 1, 3 and the StarTrek.com release option (source 0, option 2) follow; source 3 explicitly advises against chronological order for beginners. The guides place the three Kelvin-timeline films after Voyager and Enterprise; they are listed in the Kelvin continuity's own order, since timelines are never mixed here.",
+        "unit_ids": [
+          "the-original-series-s1",
+          "the-original-series-s2",
+          "the-original-series-s3",
+          "the-animated-series-s1",
+          "the-animated-series-s2",
+          "the-motion-picture",
+          "the-wrath-of-khan",
+          "the-search-for-spock",
+          "the-voyage-home",
+          "the-final-frontier",
+          "the-undiscovered-country",
+          "the-next-generation-s1",
+          "the-next-generation-s2",
+          "the-next-generation-s3",
+          "the-next-generation-s4",
+          "the-next-generation-s5",
+          "the-next-generation-s6",
+          "the-next-generation-s7",
+          "generations",
+          "first-contact",
+          "insurrection",
+          "nemesis",
+          "deep-space-nine-s1",
+          "deep-space-nine-s2",
+          "deep-space-nine-s3",
+          "deep-space-nine-s4",
+          "deep-space-nine-s5",
+          "deep-space-nine-s6",
+          "deep-space-nine-s7",
+          "voyager-s1",
+          "voyager-s2",
+          "voyager-s3",
+          "voyager-s4",
+          "voyager-s5",
+          "voyager-s6",
+          "voyager-s7",
+          "enterprise-s1",
+          "enterprise-s2",
+          "enterprise-s3",
+          "enterprise-s4",
+          "discovery-s1",
+          "discovery-s2",
+          "discovery-s3",
+          "discovery-s4",
+          "discovery-s5",
+          "short-treks-s1",
+          "short-treks-s2",
+          "picard-s1",
+          "picard-s2",
+          "picard-s3",
+          "lower-decks-s1",
+          "lower-decks-s2",
+          "lower-decks-s3",
+          "lower-decks-s4",
+          "lower-decks-s5",
+          "prodigy-s1",
+          "prodigy-s2",
+          "strange-new-worlds-s1",
+          "strange-new-worlds-s2",
+          "strange-new-worlds-s3",
+          "strange-new-worlds-s4",
+          "section-31",
+          "starfleet-academy-s1"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "the-animated-series-s1",
+          "the-animated-series-s2",
+          "the-motion-picture",
+          "the-wrath-of-khan",
+          "the-search-for-spock",
+          "the-voyage-home",
+          "the-final-frontier",
+          "the-undiscovered-country",
+          "generations",
+          "first-contact",
+          "insurrection",
+          "nemesis",
+          "enterprise-s1",
+          "enterprise-s2",
+          "enterprise-s3",
+          "enterprise-s4",
+          "discovery-s1",
+          "discovery-s2",
+          "discovery-s3",
+          "discovery-s4",
+          "discovery-s5",
+          "short-treks-s1",
+          "short-treks-s2",
+          "picard-s1",
+          "picard-s2",
+          "picard-s3",
+          "lower-decks-s1",
+          "lower-decks-s2",
+          "lower-decks-s3",
+          "lower-decks-s4",
+          "lower-decks-s5",
+          "prodigy-s1",
+          "prodigy-s2",
+          "strange-new-worlds-s4",
+          "section-31",
+          "starfleet-academy-s1"
+        ],
+        "sources": [
+          {
+            "url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
+            "title": "Star Trek Shows In Chronological Order On Paramount+: The Viewing Guide",
+            "date": "2026-07-20"
+          },
+          {
+            "url": "https://www.looper.com/2154160/star-trek-movies-tv-shows-in-order/",
+            "title": "How To Watch The Star Trek Movies And TV Shows In Order",
+            "date": "2026-04-25"
+          },
+          {
+            "url": "https://www.thepopverse.com/star-trek-in-order-paramount-plus-movie-movies-strange-new-worlds-discovery-picard-next-generation",
+            "title": "How to Watch Star Trek in Order: Chronological, Release & Kelvin Timeline Explained",
+            "date": "2026-04-24"
+          },
+          {
+            "url": "https://www.slashfilm.com/1077333/a-star-trek-beginners-guide-where-to-start-watching-the-classic-sci-fi-franchise",
+            "title": "A Star Trek Beginner's Guide: Where To Start Watching The Classic Sci-Fi Franchise — updated",
+            "date": "2026-09-29"
+          },
+          {
+            "url": "https://www.slashfilm.com/1989897/star-trek-tv-series-best-entry-point-franchise-strange-new-worlds",
+            "title": "This Star Trek TV Series Is The Best Entry Point To The Franchise",
+            "date": "2025-10-19"
+          },
+          {
+            "url": "https://guides.justwatch.com/us/star-trek-in-order",
+            "title": "Where To Watch Every Star Trek TV Show and Movie in Order — updated",
+            "date": "2026-02-05"
+          }
+        ],
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "unit_sources": {
+          "the-original-series-s1": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-original-series-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-original-series-s3": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-animated-series-s1": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-animated-series-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-motion-picture": [
+            1,
+            2,
+            5
+          ],
+          "the-wrath-of-khan": [
+            1,
+            2,
+            5
+          ],
+          "the-search-for-spock": [
+            1,
+            2,
+            5
+          ],
+          "the-voyage-home": [
+            1,
+            2,
+            5
+          ],
+          "the-final-frontier": [
+            1,
+            2,
+            5
+          ],
+          "the-undiscovered-country": [
+            1,
+            2,
+            5
+          ],
+          "the-next-generation-s1": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-next-generation-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-next-generation-s3": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-next-generation-s4": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-next-generation-s5": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-next-generation-s6": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-next-generation-s7": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "generations": [
+            1,
+            2,
+            5
+          ],
+          "first-contact": [
+            1,
+            2,
+            5
+          ],
+          "insurrection": [
+            1,
+            2,
+            5
+          ],
+          "nemesis": [
+            1,
+            2,
+            5
+          ],
+          "deep-space-nine-s1": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "deep-space-nine-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "deep-space-nine-s3": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "deep-space-nine-s4": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "deep-space-nine-s5": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "deep-space-nine-s6": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "deep-space-nine-s7": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s1": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s3": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s4": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s5": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s6": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "voyager-s7": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "enterprise-s1": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "enterprise-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "enterprise-s3": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "enterprise-s4": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "discovery-s1": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "discovery-s2": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "discovery-s3": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "discovery-s4": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "discovery-s5": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "short-treks-s1": [
+            1,
+            2
+          ],
+          "short-treks-s2": [
+            1,
+            2
+          ],
+          "picard-s1": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "picard-s2": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "picard-s3": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "lower-decks-s1": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "lower-decks-s2": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "lower-decks-s3": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "lower-decks-s4": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "lower-decks-s5": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "prodigy-s1": [
+            1,
+            2,
+            5
+          ],
+          "prodigy-s2": [
+            1,
+            2,
+            5
+          ],
+          "strange-new-worlds-s1": [
+            0,
+            1,
+            2,
+            4,
+            5
+          ],
+          "strange-new-worlds-s2": [
+            0,
+            1,
+            2,
+            4,
+            5
+          ],
+          "strange-new-worlds-s3": [
+            0,
+            1,
+            2,
+            4,
+            5
+          ],
+          "strange-new-worlds-s4": [
+            0,
+            1
+          ],
+          "section-31": [
+            1,
+            2
+          ],
+          "starfleet-academy-s1": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "id": "startrek-com",
+        "label": "StarTrek.com chronological order",
+        "source_url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
+        "as_of": "2026-11-27",
+        "note": "StarTrek.com \"Option 1: Chronological viewing order\" (series only, as printed). Each series is shown in full in that order; it leaves out the films, Prodigy, Short Treks and Section 31.",
+        "unit_ids": [
+          "enterprise-s1",
+          "enterprise-s2",
+          "enterprise-s3",
+          "enterprise-s4",
+          "discovery-s1",
+          "discovery-s2",
+          "discovery-s3",
+          "discovery-s4",
+          "discovery-s5",
+          "strange-new-worlds-s1",
+          "strange-new-worlds-s2",
+          "strange-new-worlds-s3",
+          "strange-new-worlds-s4",
+          "strange-new-worlds-s5",
+          "the-original-series-s1",
+          "the-original-series-s2",
+          "the-original-series-s3",
+          "the-animated-series-s1",
+          "the-animated-series-s2",
+          "the-next-generation-s1",
+          "the-next-generation-s2",
+          "the-next-generation-s3",
+          "the-next-generation-s4",
+          "the-next-generation-s5",
+          "the-next-generation-s6",
+          "the-next-generation-s7",
+          "deep-space-nine-s1",
+          "deep-space-nine-s2",
+          "deep-space-nine-s3",
+          "deep-space-nine-s4",
+          "deep-space-nine-s5",
+          "deep-space-nine-s6",
+          "deep-space-nine-s7",
+          "voyager-s1",
+          "voyager-s2",
+          "voyager-s3",
+          "voyager-s4",
+          "voyager-s5",
+          "voyager-s6",
+          "voyager-s7",
+          "lower-decks-s1",
+          "lower-decks-s2",
+          "lower-decks-s3",
+          "lower-decks-s4",
+          "lower-decks-s5",
+          "picard-s1",
+          "picard-s2",
+          "picard-s3",
+          "starfleet-academy-s1",
+          "starfleet-academy-s2"
+        ],
+        "kind": "official",
+        "optional_unit_ids": [],
+        "sources": [
+          {
+            "url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
+            "title": "Star Trek Shows In Chronological Order On Paramount+: The Viewing Guide",
+            "date": "2026-07-20"
+          }
+        ],
+        "criteria": "",
+        "unit_sources": {}
+      }
+    ],
     "description": "The original continuity: every series from The Original Series to Starfleet Academy, the ten films from 1979 to 2002, and Section 31. Wikipedia: Discovery \"would be set in the 'Prime Timeline' alongside the previous Star Trek series, rather than in the alternate 'Kelvin Timeline'\".",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek",
@@ -56,7 +663,73 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order, which sources 1, 3 and the StarTrek.com release option (source 0, option 2) follow; source 3 explicitly advises against chronological order for beginners.",
+        "unit_ids": [
+          "star-trek-2009",
+          "star-trek-into-darkness",
+          "star-trek-beyond"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "star-trek-2009",
+          "star-trek-into-darkness",
+          "star-trek-beyond"
+        ],
+        "sources": [
+          {
+            "url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
+            "title": "Star Trek Shows In Chronological Order On Paramount+: The Viewing Guide",
+            "date": "2026-07-20"
+          },
+          {
+            "url": "https://www.looper.com/2154160/star-trek-movies-tv-shows-in-order/",
+            "title": "How To Watch The Star Trek Movies And TV Shows In Order",
+            "date": "2026-04-25"
+          },
+          {
+            "url": "https://www.thepopverse.com/star-trek-in-order-paramount-plus-movie-movies-strange-new-worlds-discovery-picard-next-generation",
+            "title": "How to Watch Star Trek in Order: Chronological, Release & Kelvin Timeline Explained",
+            "date": "2026-04-24"
+          },
+          {
+            "url": "https://www.slashfilm.com/1077333/a-star-trek-beginners-guide-where-to-start-watching-the-classic-sci-fi-franchise",
+            "title": "A Star Trek Beginner's Guide: Where To Start Watching The Classic Sci-Fi Franchise — updated",
+            "date": "2026-09-29"
+          },
+          {
+            "url": "https://www.slashfilm.com/1989897/star-trek-tv-series-best-entry-point-franchise-strange-new-worlds",
+            "title": "This Star Trek TV Series Is The Best Entry Point To The Franchise",
+            "date": "2025-10-19"
+          },
+          {
+            "url": "https://guides.justwatch.com/us/star-trek-in-order",
+            "title": "Where To Watch Every Star Trek TV Show and Movie in Order — updated",
+            "date": "2026-02-05"
+          }
+        ],
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "unit_sources": {
+          "star-trek-2009": [
+            1,
+            2
+          ],
+          "star-trek-into-darkness": [
+            1,
+            2
+          ],
+          "star-trek-beyond": [
+            1,
+            2
+          ]
+        }
+      }
+    ],
     "description": "Wikipedia: \"a narrative continuation set in an alternate timeline called the 'Kelvin Timeline'\", named \"by Michael and Denise Okuda for use in official Star Trek reference guides\". It begins in 2233, when Nero's attack on the USS Kelvin \"creates the Kelvin Timeline\".",
     "source_urls": [
       "https://en.wikipedia.org/wiki/List_of_Star_Trek_films",

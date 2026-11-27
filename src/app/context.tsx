@@ -16,9 +16,12 @@ export interface AppCtx {
     platform: (id: string) => string;
     tag: (id: string) => string;
     person: (qid: string) => string;
+    character: (qid: string) => string;
     grouping: (id: string) => string;
   };
   altOrder: string[] | undefined;
+  /** More than one universe in the current results: every entry then shows which universe it belongs to. */
+  multiUniverse: boolean;
   /** The selected alternate order (kind, optional units, sources). */
   alt: AltOrder | undefined;
   /** Rows of the current view in display order (for prev/next and what's next). */

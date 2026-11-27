@@ -12,7 +12,7 @@ import { useMemo } from 'react';
 
 /** One unit as a list item: marker, name (opens drawer), meta, watched checkbox. */
 export function UnitItem({ row, meta = 'release', compact = false }: { row: Row; meta?: 'release' | 'in-universe' | 'both' | 'none'; compact?: boolean }) {
-  const { update, watched, label, ds } = useApp();
+  const { update, watched, label, ds, multiUniverse } = useApp();
   const conns = useMemo(() => (compact ? [] : connectionsFor(row.title.id, ds)), [row.title.id, ds, compact]);
   const isWatched = watched.set.has(row.key);
   const iu = row.unit.in_universe;
@@ -39,6 +39,12 @@ export function UnitItem({ row, meta = 'release', compact = false }: { row: Row;
         className={cn('min-w-0 flex-1 text-left text-sm leading-snug hover:underline focus-visible:underline', isWatched && 'line-through decoration-muted-foreground/60')}
       >
         <span className="text-foreground">{row.name}</span>
+        {multiUniverse && (
+          <span className="ml-2 inline-flex items-center gap-1 border border-border px-1 align-middle text-[0.7rem] text-muted-foreground" data-universe={row.universe.id}>
+            <span aria-hidden className="size-2 ring-1 ring-foreground/60" style={{ background: row.universe.accent.primary }} />
+            {row.universe.short_name}
+          </span>
+        )}
         {!compact && (
           <span className="ml-2 text-xs text-muted-foreground">
             {metaText}
@@ -60,7 +66,7 @@ export function UnitItem({ row, meta = 'release', compact = false }: { row: Row;
           </TooltipContent>
         </Tooltip>
       )}
-      {!compact && iu.confidence !== 'stated' && meta !== 'release' && <ConfidenceBadge c={iu.confidence} small />}
+      {!compact && iu.confidence !== 'stated' && meta !== 'release' && <ConfidenceBadge c={iu.confidence} small note={iu.note} unitKey={row.key} />}
       {!compact && <span className="hidden text-xs text-muted-foreground md:inline">{label.platform(row.platform)}</span>}
     </li>
   );

@@ -25,7 +25,101 @@
     "grouping_schemes": [
       "chapter"
     ],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
+        "as_of": "2026-11-27",
+        "note": "Primary order = the DCU (current continuity) in release order. The guides suggest Peacemaker season 1 and Blue Beetle (DCEU) as optional lead-ins; they belong to the DCEU continuity and are not mixed in here.",
+        "unit_ids": [
+          "creature-commandos-s1",
+          "superman-2025",
+          "peacemaker-dcu-s2",
+          "supergirl-2026",
+          "lanterns-s1",
+          "clayface"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [],
+        "sources": [
+          {
+            "url": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
+            "title": "How to Watch the DCU in Order",
+            "date": "2026-10-26"
+          },
+          {
+            "url": "https://guides.justwatch.com/us/james-gunn-dcu-in-order",
+            "title": "How To Watch James Gunn's DCU In Order",
+            "date": "2026-09-27"
+          },
+          {
+            "url": "https://www.gamesradar.com/how-to-watch-dc-movies-in-order-dceu/",
+            "title": "How to watch DC movies in order (release date and chronological) — last updated",
+            "date": "2026-10-23"
+          },
+          {
+            "url": "https://www.gamesradar.com/dcu-timeline-movies-tv-shows-order/",
+            "title": "DCU timeline: all DC movies and TV shows in chronological order — last updated",
+            "date": "2026-10-23"
+          },
+          {
+            "url": "https://www.techradar.com/how-to/how-to-watch-the-dceu-movies-in-order",
+            "title": "How to watch the DC movies in order: chronological and release date, DCEU films, James Gunn's DCU, and more — last updated",
+            "date": "2025-07-18"
+          },
+          {
+            "url": "https://www.thepopverse.com/movies-dc-studios-james-gunn-peter-safran-dc-universe-watch-order-release-chronological",
+            "title": "How to watch DC movies in order: Every DCU and DECU project and how James Gunn is bringing them all together",
+            "date": "2025-07-03"
+          }
+        ],
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "unit_sources": {
+          "creature-commandos-s1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "superman-2025": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "peacemaker-dcu-s2": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "supergirl-2026": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "lanterns-s1": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "clayface": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    ],
     "description": "James Gunn and Peter Safran's DC Studios shared universe (2024–).",
     "source_urls": [
       "https://en.wikipedia.org/wiki/DC_Universe_(franchise)"
@@ -67,7 +161,157 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
+        "as_of": "2026-11-27",
+        "note": "Primary order = the DCU (current continuity) in release order. DCEU in release order (sources 2, 4, 5).",
+        "unit_ids": [
+          "man-of-steel",
+          "batman-v-superman",
+          "suicide-squad-2016",
+          "wonder-woman-2017",
+          "justice-league-2017",
+          "aquaman-2018",
+          "shazam",
+          "birds-of-prey",
+          "wonder-woman-1984",
+          "zack-snyders-justice-league",
+          "the-suicide-squad",
+          "peacemaker-dceu-s1",
+          "black-adam",
+          "shazam-fury-of-the-gods",
+          "the-flash-2023",
+          "blue-beetle",
+          "aquaman-and-the-lost-kingdom"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "zack-snyders-justice-league",
+          "peacemaker-dceu-s1"
+        ],
+        "sources": [
+          {
+            "url": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
+            "title": "How to Watch the DCU in Order",
+            "date": "2026-10-26"
+          },
+          {
+            "url": "https://guides.justwatch.com/us/james-gunn-dcu-in-order",
+            "title": "How To Watch James Gunn's DCU In Order",
+            "date": "2026-09-27"
+          },
+          {
+            "url": "https://www.gamesradar.com/how-to-watch-dc-movies-in-order-dceu/",
+            "title": "How to watch DC movies in order (release date and chronological) — last updated",
+            "date": "2026-10-23"
+          },
+          {
+            "url": "https://www.gamesradar.com/dcu-timeline-movies-tv-shows-order/",
+            "title": "DCU timeline: all DC movies and TV shows in chronological order — last updated",
+            "date": "2026-10-23"
+          },
+          {
+            "url": "https://www.techradar.com/how-to/how-to-watch-the-dceu-movies-in-order",
+            "title": "How to watch the DC movies in order: chronological and release date, DCEU films, James Gunn's DCU, and more — last updated",
+            "date": "2025-07-18"
+          },
+          {
+            "url": "https://www.thepopverse.com/movies-dc-studios-james-gunn-peter-safran-dc-universe-watch-order-release-chronological",
+            "title": "How to watch DC movies in order: Every DCU and DECU project and how James Gunn is bringing them all together",
+            "date": "2025-07-03"
+          }
+        ],
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "unit_sources": {
+          "man-of-steel": [
+            2,
+            4,
+            5
+          ],
+          "batman-v-superman": [
+            2,
+            4,
+            5
+          ],
+          "suicide-squad-2016": [
+            2,
+            4,
+            5
+          ],
+          "wonder-woman-2017": [
+            2,
+            4,
+            5
+          ],
+          "justice-league-2017": [
+            2,
+            4,
+            5
+          ],
+          "aquaman-2018": [
+            2,
+            4,
+            5
+          ],
+          "shazam": [
+            2,
+            4,
+            5
+          ],
+          "birds-of-prey": [
+            2,
+            4,
+            5
+          ],
+          "wonder-woman-1984": [
+            2,
+            4,
+            5
+          ],
+          "zack-snyders-justice-league": [
+            2,
+            4,
+            5
+          ],
+          "the-suicide-squad": [
+            2,
+            4,
+            5
+          ],
+          "peacemaker-dceu-s1": [
+            5
+          ],
+          "black-adam": [
+            2,
+            4,
+            5
+          ],
+          "shazam-fury-of-the-gods": [
+            2,
+            4,
+            5
+          ],
+          "the-flash-2023": [
+            2,
+            4,
+            5
+          ],
+          "blue-beetle": [
+            2,
+            4,
+            5
+          ],
+          "aquaman-and-the-lost-kingdom": [
+            2,
+            4,
+            5
+          ]
+        }
+      }
+    ],
     "description": "Warner Bros./DC Films shared universe (2013–2023).",
     "source_urls": [
       "https://en.wikipedia.org/wiki/DC_Extended_Universe"

@@ -46,12 +46,16 @@ export function ReleaseView({ rows }: { rows: Row[] }) {
             return (
               <section key={lane.lane} aria-label={lane.label}>
                 {lanes.length > 1 && <h2 className="font-heading mb-2 text-lg font-bold">{lane.label}</h2>}
-                {groups.map((g) => (
-                  <div key={g.key} className="mb-5">
-                    <h3 className="font-heading text-base font-bold" style={{ color: 'var(--u-primary)' }}>{g.label} <span className="text-sm font-normal text-muted-foreground">({g.rows.length})</span></h3>
-                    <ul className="space-y-0.5">{g.rows.map((r) => <UnitItem key={r.key} row={r} meta="both" />)}</ul>
-                  </div>
-                ))}
+                {/* Drawn as a vertical timeline (release dates), like the in-universe spine. */}
+                <ol className="relative ml-2 border-l-2 pl-6" style={{ borderColor: 'var(--u-secondary)' }} aria-label={`${lane.label}: release order`}>
+                  {groups.map((g) => (
+                    <li key={g.key} className="relative mb-5">
+                      <span aria-hidden className="absolute -left-[33px] top-1 size-4 rounded-full border-2 bg-background" style={{ borderColor: 'var(--u-secondary)' }} />
+                      <h3 className="font-heading text-base font-bold" style={{ color: 'var(--u-primary)' }}>{g.label} <span className="text-sm font-normal text-muted-foreground">({g.rows.length})</span></h3>
+                      <ul className="space-y-0.5">{g.rows.map((r) => <UnitItem key={r.key} row={r} meta="both" />)}</ul>
+                    </li>
+                  ))}
+                </ol>
               </section>
             );
           })}

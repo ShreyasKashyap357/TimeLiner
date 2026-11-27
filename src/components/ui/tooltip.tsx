@@ -2,14 +2,18 @@ import * as React from "react"
 import { cn } from "cn"
 import { Tooltip as TooltipPrimitive } from "radix-ui"
 
+// TimeLiner: a short delay so tooltips don't pop up while the pointer merely passes over controls
+// (user report: "way too sensitive"); moving between triggers stays instant (skipDelayDuration).
 function TooltipProvider({
-  delayDuration = 0,
+  delayDuration = 350,
+  skipDelayDuration = 300,
   ...props
 }: React.ComponentProps<typeof TooltipPrimitive.Provider>) {
   return (
     <TooltipPrimitive.Provider
       data-slot="tooltip-provider"
       delayDuration={delayDuration}
+      skipDelayDuration={skipDelayDuration}
       {...props}
     />
   )

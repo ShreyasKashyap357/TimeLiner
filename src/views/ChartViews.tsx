@@ -26,7 +26,7 @@ function RowTip({ row }: { row: Row }) {
   return (
     <div className="space-y-1.5 text-sm">
       <div className="flex items-start gap-2"><Marker shape={markerShape(row)} color={markerColor(row)} size={14} /><span className="font-heading font-semibold leading-tight">{row.name}</span></div>
-      <div className="flex flex-wrap items-center gap-2"><span>{iu.label}</span><ConfidenceBadge c={iu.confidence} small /></div>
+      <div className="flex flex-wrap items-center gap-2"><span>{iu.label}</span><ConfidenceBadge c={iu.confidence} small note={iu.note} /></div>
       <div className="text-muted-foreground">Released {formatRelease(row.unit.release.date)} · {markerMeaning(row)}</div>
       <div className="text-xs text-muted-foreground">Click or press Enter for details</div>
     </div>

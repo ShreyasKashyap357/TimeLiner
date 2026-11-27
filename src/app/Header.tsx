@@ -12,6 +12,7 @@ import { Textarea } from '@/components/ui/textarea';
 import { toast } from 'sonner';
 import { Search, ListChecks, EyeOff, Eye } from 'lucide-react';
 import { RowMarker } from '@/components/Marker';
+import { Tip } from '@/components/Tip';
 
 /** Top bar: brand, universe + continuity pickers, filter-by-text, search palette, watched menu. */
 export function HeaderBar() {
@@ -62,14 +63,16 @@ function FilterBox() {
   const t = useRef<number | undefined>(undefined);
   useEffect(() => setText(state.q), [state.q]);
   return (
+    <Tip content="Filter the list by title, character or person (narrows what is shown; use Search to jump to one title)">
     <div className="relative min-w-0 flex-1 basis-28 sm:flex-none">
       <Search aria-hidden className="pointer-events-none absolute left-2 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
       <Input
-        type="search" value={text} placeholder="Filter titles…" title="Filter by title, character or person" aria-label="Filter by title, character or person"
+        type="search" value={text} placeholder="Filter titles…" aria-label="Filter by title, character or person"
         className="w-full pl-8 sm:w-52"
         onChange={(e) => { const v = e.target.value; setText(v); window.clearTimeout(t.current); t.current = window.setTimeout(() => update({ q: v }), 200); }}
       />
     </div>
+    </Tip>
   );
 }
 
@@ -135,9 +138,11 @@ function WatchedMenu() {
   return (
     <>
       <DropdownMenu>
+        <Tip content="Done list (watched / read): export, import or clear. Stored in this browser."><span className="inline-flex">
         <DropdownMenuTrigger asChild>
-          <Button variant="outline" aria-label={`Done: ${watched.set.size}. Open done-list menu`} title="Done list (watched / read): export, import or clear, stored in this browser"><ListChecks aria-hidden className="size-4" />{watched.set.size}</Button>
+          <Button variant="outline" aria-label={`Done: ${watched.set.size}. Open done-list menu`}><ListChecks aria-hidden className="size-4" />{watched.set.size}</Button>
         </DropdownMenuTrigger>
+        </span></Tip>
         <DropdownMenuContent align="end">
           <DropdownMenuLabel>Done ({watched.set.size}) · stored in this browser</DropdownMenuLabel>
           <DropdownMenuSeparator />

@@ -156,3 +156,21 @@ test('detail panel shows cast & crew, and a name filters by that person', async 
   await expect(page).toHaveURL(/ppl=Q\d+/);
   await expect(page.getByText(/Person: Jon Favreau/)).toBeVisible();
 });
+
+test('header picker tooltips: not on a quick pass, not after choosing, yes on a deliberate hover', async ({ page, isMobile }) => {
+  test.skip(isMobile, 'hover only');
+  const tips = () => page.locator('[data-slot="tooltip-content"]');
+  await page.goto('/?u=marvel');
+  const uni = page.getByRole('combobox', { name: 'Universe', exact: true });
+  const box = (await uni.boundingBox())!;
+  await page.mouse.move(10, 400);
+  await page.mouse.move(box.x + box.width + 80, box.y + 10, { steps: 6 });
+  await expect(tips()).toHaveCount(0);
+  await uni.click();
+  await page.getByRole('option', { name: 'A Song of Ice and Fire' }).click();
+  await page.mouse.move(700, 500);
+  await page.waitForTimeout(600);
+  await expect(tips()).toHaveCount(0);
+  await page.mouse.move(box.x + 10, box.y + 10);
+  await expect(tips().first()).toContainText('Franchise universe');
+});

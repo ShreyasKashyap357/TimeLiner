@@ -1,6 +1,13 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger } from '@/components/ui/select';
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
+
+// Last input modality, tracked app-wide: ':focus-visible' is unreliable when a Select hands focus back.
+let lastInput: 'keyboard' | 'pointer' = 'pointer';
+if (typeof window !== 'undefined') {
+  window.addEventListener('keydown', (e) => { if (e.key === 'Tab') lastInput = 'keyboard'; }, true);
+  window.addEventListener('pointerdown', () => { lastInput = 'pointer'; }, true);
+}
 
 export interface HeaderOption { value: string; label: string; color?: string }
 
@@ -21,14 +28,25 @@ export function HeaderSelect({ label, hint, value, options, onChange, placeholde
   label: string; hint: string; value: string; options: HeaderOption[]; onChange: (v: string) => void; placeholder?: string; minRem?: number;
 }) {
   const [open, setOpen] = useState(false);
+  // The hint opens on real pointer hover (after the provider's delay) or keyboard focus only. Radix would also
+  // open it when the Select hands focus back to its trigger after a choice/Escape, and it then stayed open with
+  // the pointer far away (user report: tooltips "interfering"), so focus that isn't :focus-visible is ignored.
   const [hover, setHover] = useState(false);
+  const [kbd, setKbd] = useState(false);
+  const hoverTimer = useRef<number | undefined>(undefined);
+  const closedAt = useRef(0);
   const current = options.find((o) => o.value === value);
   const anyColor = options.some((o) => o.color);
   return (
-    <Tooltip open={hover && !open} onOpenChange={setHover}>
+    <Tooltip open={(hover || kbd) && !open} onOpenChange={(o) => { if (!o) { setHover(false); setKbd(false); } }}>
       <TooltipTrigger asChild>
-        <div className="min-w-0 shrink" style={minRem ? { minWidth: `${minRem}rem` } : undefined}>
-          <Select value={value} onValueChange={onChange} open={open} onOpenChange={(o) => { setOpen(o); if (o) setHover(false); }}>
+        <div className="min-w-0 shrink" style={minRem ? { minWidth: `${minRem}rem` } : undefined}
+          onPointerEnter={() => { window.clearTimeout(hoverTimer.current); hoverTimer.current = window.setTimeout(() => setHover(true), 350); }}
+          onPointerLeave={() => { window.clearTimeout(hoverTimer.current); setHover(false); }}
+          onPointerDown={() => { window.clearTimeout(hoverTimer.current); setHover(false); }}
+          onFocus={() => setKbd(lastInput === 'keyboard' && Date.now() - closedAt.current > 500)}
+          onBlur={() => setKbd(false)}>
+          <Select value={value} onValueChange={onChange} open={open} onOpenChange={(o) => { setOpen(o); setHover(false); setKbd(false); if (!o) closedAt.current = Date.now(); }}>
             <SelectTrigger aria-label={label} className="w-full min-w-0">
               <span className="grid min-w-0 flex-1 grid-cols-[minmax(0,1fr)] text-left">
                 {options.map((o) => (

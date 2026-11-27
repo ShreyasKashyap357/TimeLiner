@@ -29,7 +29,508 @@
     "grouping_schemes": [
       "era"
     ],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order, which sources 1, 2, 3 and 5 recommend for first-time viewers (source 4 dissents in favour of chronological).",
+        "unit_ids": [
+          "a-new-hope",
+          "the-empire-strikes-back",
+          "return-of-the-jedi",
+          "the-phantom-menace",
+          "attack-of-the-clones",
+          "revenge-of-the-sith",
+          "the-force-awakens",
+          "the-last-jedi",
+          "the-rise-of-skywalker",
+          "rogue-one",
+          "solo",
+          "the-clone-wars-film",
+          "the-clone-wars-s1",
+          "the-clone-wars-s2",
+          "the-clone-wars-s3",
+          "the-clone-wars-s4",
+          "the-clone-wars-s5",
+          "the-clone-wars-s6",
+          "star-wars-rebels-s1",
+          "star-wars-rebels-s2",
+          "star-wars-rebels-s3",
+          "star-wars-rebels-s4",
+          "star-wars-resistance-s1",
+          "star-wars-resistance-s2",
+          "the-mandalorian-s1",
+          "the-clone-wars-s7",
+          "the-mandalorian-s2",
+          "the-bad-batch-s1",
+          "the-book-of-boba-fett",
+          "obi-wan-kenobi-series",
+          "andor-s1",
+          "tales-of-the-jedi",
+          "the-bad-batch-s2",
+          "the-mandalorian-s3",
+          "young-jedi-adventures-s1",
+          "ahsoka-s1",
+          "the-bad-batch-s3",
+          "tales-of-the-empire",
+          "the-acolyte",
+          "young-jedi-adventures-s2",
+          "skeleton-crew",
+          "andor-s2",
+          "tales-of-the-underworld",
+          "young-jedi-adventures-s3",
+          "maul-shadow-lord-s1",
+          "the-mandalorian-and-grogu"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "solo",
+          "the-clone-wars-film",
+          "star-wars-resistance-s1",
+          "star-wars-resistance-s2",
+          "the-bad-batch-s1",
+          "tales-of-the-jedi",
+          "the-bad-batch-s2",
+          "young-jedi-adventures-s1",
+          "the-bad-batch-s3",
+          "tales-of-the-empire",
+          "young-jedi-adventures-s2",
+          "tales-of-the-underworld",
+          "young-jedi-adventures-s3",
+          "maul-shadow-lord-s1"
+        ],
+        "sources": [
+          {
+            "url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+            "title": "Star Wars Movies and Series Viewing Guide — byline date; page content covers releases through 2026",
+            "date": "2025-05-01"
+          },
+          {
+            "url": "https://www.thewrap.com/creative-content/movies/star-wars-movies-in-order-how-to-watch/",
+            "title": "How to Watch the ‘Star Wars’ Movies in Order",
+            "date": "2026-05-22"
+          },
+          {
+            "url": "https://www.gamesradar.com/star-wars-movies-order-first-chronological/",
+            "title": "How to watch the Star Wars movies in order (release and chronological) — last updated",
+            "date": "2026-10-22"
+          },
+          {
+            "url": "https://www.tomsguide.com/news/star-wars-movies-in-order-4k-hdr",
+            "title": "How to watch the Star Wars movies in order — and the shows too — last updated",
+            "date": "2026-01-08"
+          },
+          {
+            "url": "https://www.techradar.com/how-to/how-to-watch-the-star-wars-movies-in-order",
+            "title": "How to watch the Star Wars movies in order: chronological and release date — last updated",
+            "date": "2026-04-30"
+          },
+          {
+            "url": "https://www.tvinsider.com/1189176/star-wars-movies-where-to-watch",
+            "title": "How to Watch All 11 ‘Star Wars’ Movies in Order — Where to Start & Which to Skip",
+            "date": "2025-05-03"
+          },
+          {
+            "url": "https://www.popsci.com/diy/how-to-watch-star-wars-in-order/",
+            "title": "How to watch Star Wars in order—even the shows — updated",
+            "date": "2026-03-30"
+          }
+        ],
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "unit_sources": {
+          "a-new-hope": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "the-empire-strikes-back": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "return-of-the-jedi": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "the-phantom-menace": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "attack-of-the-clones": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "revenge-of-the-sith": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "the-force-awakens": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "the-last-jedi": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "the-rise-of-skywalker": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "rogue-one": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "solo": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "the-clone-wars-film": [
+            0,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s1": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s2": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s3": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s4": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s5": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s6": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "star-wars-rebels-s1": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "star-wars-rebels-s2": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "star-wars-rebels-s3": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "star-wars-rebels-s4": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "star-wars-resistance-s1": [
+            0,
+            3,
+            4,
+            6
+          ],
+          "star-wars-resistance-s2": [
+            0,
+            3,
+            4,
+            6
+          ],
+          "the-mandalorian-s1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "the-clone-wars-s7": [
+            0,
+            1,
+            3,
+            4,
+            6
+          ],
+          "the-mandalorian-s2": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "the-bad-batch-s1": [
+            0,
+            3,
+            4,
+            6
+          ],
+          "the-book-of-boba-fett": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "obi-wan-kenobi-series": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "andor-s1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "tales-of-the-jedi": [
+            0,
+            3,
+            6
+          ],
+          "the-bad-batch-s2": [
+            0,
+            3,
+            4,
+            6
+          ],
+          "the-mandalorian-s3": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "young-jedi-adventures-s1": [
+            4
+          ],
+          "ahsoka-s1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "the-bad-batch-s3": [
+            0,
+            4,
+            6
+          ],
+          "tales-of-the-empire": [
+            0,
+            6
+          ],
+          "the-acolyte": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "young-jedi-adventures-s2": [
+            4
+          ],
+          "skeleton-crew": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "andor-s2": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6
+          ],
+          "tales-of-the-underworld": [
+            0,
+            6
+          ],
+          "young-jedi-adventures-s3": [
+            4
+          ],
+          "maul-shadow-lord-s1": [
+            0,
+            4
+          ],
+          "the-mandalorian-and-grogu": [
+            0,
+            1,
+            2,
+            6
+          ]
+        }
+      },
+      {
+        "id": "starwars-com",
+        "label": "StarWars.com chronological order",
+        "source_url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+        "as_of": "2026-11-27",
+        "note": "The official \"Star Wars Movies and Series Viewing Guide\" chronological list (28 entries, as printed). It leaves out Young Jedi Adventures and Forces of Destiny.",
+        "unit_ids": [
+          "the-acolyte",
+          "the-phantom-menace",
+          "attack-of-the-clones",
+          "the-clone-wars-film",
+          "the-clone-wars-s1",
+          "the-clone-wars-s2",
+          "the-clone-wars-s3",
+          "the-clone-wars-s4",
+          "the-clone-wars-s5",
+          "the-clone-wars-s6",
+          "the-clone-wars-s7",
+          "tales-of-the-jedi",
+          "revenge-of-the-sith",
+          "tales-of-the-empire",
+          "tales-of-the-underworld",
+          "the-bad-batch-s1",
+          "the-bad-batch-s2",
+          "the-bad-batch-s3",
+          "maul-shadow-lord-s1",
+          "maul-shadow-lord-s2",
+          "solo",
+          "obi-wan-kenobi-series",
+          "andor-s1",
+          "andor-s2",
+          "star-wars-rebels-s1",
+          "star-wars-rebels-s2",
+          "star-wars-rebels-s3",
+          "star-wars-rebels-s4",
+          "rogue-one",
+          "a-new-hope",
+          "the-empire-strikes-back",
+          "return-of-the-jedi",
+          "the-mandalorian-s1",
+          "the-mandalorian-s2",
+          "the-mandalorian-s3",
+          "the-book-of-boba-fett",
+          "ahsoka-s1",
+          "ahsoka-s2",
+          "skeleton-crew",
+          "the-mandalorian-and-grogu",
+          "star-wars-resistance-s1",
+          "star-wars-resistance-s2",
+          "the-force-awakens",
+          "the-last-jedi",
+          "the-rise-of-skywalker"
+        ],
+        "kind": "official",
+        "optional_unit_ids": [],
+        "sources": [
+          {
+            "url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+            "title": "Star Wars Movies and Series Viewing Guide",
+            "date": "2025-05-01"
+          }
+        ],
+        "criteria": "",
+        "unit_sources": {}
+      }
+    ],
     "description": "\"the only preexisting works to be considered canonical within the franchise would be the primary episodic films and the 2008 The Clone Wars film and TV series\", plus all later works.",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Star_Wars_in_other_media",

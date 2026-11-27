@@ -212,67 +212,89 @@
         "role": "creator",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Brannon Braga",
         "qid": "Q540510",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Dennis McCarthy",
         "qid": "Q1189355",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Scott Bakula",
         "qid": "Q311699",
-        "character": "Jonathan Archer"
+        "character": "Jonathan Archer",
+        "character_qid": "Q1101459",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "John Billingsley",
         "qid": "Q453724",
-        "character": "Phlox"
+        "character": "Phlox",
+        "character_qid": "Q2600949",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jolene Blalock",
         "qid": "Q234466",
-        "character": "T'Pol"
+        "character": "T'Pol",
+        "character_qid": "Q1315662",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anthony Montgomery",
         "qid": "Q550115",
-        "character": "Travis Mayweather"
+        "character": "Travis Mayweather",
+        "character_qid": "Q738817",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Linda Park",
         "qid": "Q241873",
-        "character": "Hoshi Sato"
+        "character": "Hoshi Sato",
+        "character_qid": "Q1055776",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Connor Trinneer",
         "qid": "Q552103",
-        "character": "Trip Tucker"
+        "character": "Trip Tucker",
+        "character_qid": "Q860266",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Dominic Keating",
         "qid": "Q713738",
-        "character": "Malcolm Reed"
+        "character": "Malcolm Reed",
+        "character_qid": "Q2631797",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Gary Graham",
         "qid": "Q2571025",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -539,169 +561,961 @@
         "role": "creator",
         "name": "Bryan Fuller",
         "qid": "Q995026",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "David Semel",
         "qid": "Q3018772",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Adam Kane",
         "qid": "Q4679312",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Olatunde Osunsanmi",
         "qid": "Q17090902",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Lee Rose",
         "qid": "Q6514839",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Douglas Aarniokoski",
         "qid": "Q11856301",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "David Barrett",
         "qid": "Q5231164",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "John Stuart Scott",
         "qid": "Q2129942",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Heather Kadin",
         "qid": "Q21663076",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Bryan Fuller",
         "qid": "Q995026",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Rod Roddenberry",
         "qid": "Q7356345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "David Semel",
         "qid": "Q3018772",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jeff Russo",
         "qid": "Q6174877",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sonequa Martin-Green",
         "qid": "Q7560935",
-        "character": "Michael Burnham"
+        "character": "Michael Burnham",
+        "character_qid": "Q40935468",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michelle Yeoh",
         "qid": "Q214289",
-        "character": "Philippa Georgiou / Philippa Georgiou"
+        "character": "Philippa Georgiou / Philippa Georgiou",
+        "character_qid": "Q43740811",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anthony Rapp",
         "qid": "Q39983",
-        "character": "Paul Stamets"
+        "character": "Paul Stamets",
+        "character_qid": "Q42716550",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Doug Jones",
         "qid": "Q461309",
-        "character": "Saru"
+        "character": "Saru",
+        "character_qid": "Q42713428",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Mary Wiseman",
         "qid": "Q28921867",
-        "character": "Sylvia Tilly"
+        "character": "Sylvia Tilly",
+        "character_qid": "Q43217835",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Frain",
         "qid": "Q535507",
-        "character": "Sarek"
+        "character": "Sarek",
+        "character_qid": "Q2712069",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Shazad Latif",
         "qid": "Q7491731",
-        "character": "Ash Tyler"
+        "character": "Ash Tyler",
+        "character_qid": "Q44569965",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Emily Coutts",
         "qid": "Q50359274",
-        "character": "Keyla Detmer"
+        "character": "Keyla Detmer",
+        "character_qid": "Q63136230",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Oyin Oladejo",
         "qid": "Q63124741",
-        "character": "Joann Owosekun"
+        "character": "Joann Owosekun",
+        "character_qid": "Q63125084",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jason Isaacs",
         "qid": "Q214223",
-        "character": "Gabriel Lorca"
+        "character": "Gabriel Lorca",
+        "character_qid": "Q41796329",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jayne Brook",
+        "qid": "Q449561",
+        "character": "Katrina Cornwell",
+        "character_qid": "Q48080009",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rainn Wilson",
+        "qid": "Q349548",
+        "character": "Harcourt Mudd",
+        "character_qid": "Q3127322",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Violette",
+        "qid": "Q3270529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter MacNeill",
+        "qid": "Q516483",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Boisvert",
+        "qid": "Q16201541",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mia Kirshner",
+        "qid": "Q231660",
+        "character": "Amanda Grayson",
+        "character_qid": "Q1412447",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wilson Cruz",
+        "qid": "Q1190037",
+        "character": "Hugh Culber",
+        "character_qid": "Q48032489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Obi",
+        "qid": "Q30039197",
+        "character": "T'Kuvma",
+        "character_qid": "Q48078634",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rekha Sharma",
+        "qid": "Q651681",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mary Chieffo",
+        "qid": "Q50974754",
+        "character": "L'Rell",
+        "character_qid": "Q48081407",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anson Mount",
+        "qid": "Q570006",
+        "character": "Christopher Pike",
+        "character_qid": "Q612625",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kenneth Mitchell",
+        "qid": "Q732763",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Arista Arhin",
+        "qid": "Q68038158",
+        "character": "Michael Burnham",
+        "character_qid": "Q40935468",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kenric Green",
+        "qid": "Q67648349",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hannah Cheesman",
+        "qid": "Q24963319",
+        "character": "Airiam",
+        "character_qid": "Q62077334",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rachael Ancheril",
+        "qid": "Q16145966",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Clare McConnell",
+        "qid": "Q68339088",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Maulik Pancholy",
+        "qid": "Q1338610",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ethan Peck",
+        "qid": "Q1320452",
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Patrick Kwok-Choon",
+        "qid": "Q16911059",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Julianne Grossman",
+        "qid": "Q57002079",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ronnie Rowe",
+        "qid": "Q68441369",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sara Mitich",
+        "qid": "Q62077689",
+        "character": "Airiam",
+        "character_qid": "Q62077334",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alan van Sprang",
+        "qid": "Q948310",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Benjamin Tomlinson",
+        "qid": "Q68492294",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Raven Dauda",
+        "qid": "Q42418858",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tasia Valenza",
+        "qid": "Q3515945",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tig Notaro",
+        "qid": "Q7801308",
+        "character": "Jett Reno",
+        "character_qid": "Q61655496",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ali Momen",
+        "qid": "Q68630001",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bahia Watson",
+        "qid": "Q68647093",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Conrad Coates",
+        "qid": "Q5162503",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Ayres",
+        "qid": "Q68775694",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Riley Gilchrist",
+        "qid": "Q68817272",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Romaine Waite",
+        "qid": "Q52236130",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Damon Runyan",
+        "qid": "Q63285715",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Harry Judge",
+        "qid": "Q69054814",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Liam Hughes",
+        "qid": "Q69087443",
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sam Vartholomeos",
+        "qid": "Q69506379",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rebecca Romijn",
+        "qid": "Q202792",
+        "character": "Number One",
+        "character_qid": "Q1568510",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sonja Sohn",
+        "qid": "Q441836",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Russell",
+        "qid": "Q69525944",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nicole Dickinson",
+        "qid": "Q69527493",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jeremy Crittenden",
+        "qid": "Q69544731",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Yadira Guevara-Prip",
+        "qid": "Q56927373",
+        "character": "Me Hani Ika Hali Ka Po",
+        "character_qid": "Q56926823",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Terry Serpico",
+        "qid": "Q1990966",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Devon MacDonald",
+        "qid": "Q69841809",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dwain Murphy",
+        "qid": "Q5317847",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anthony Grant",
+        "qid": "Q69903446",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alisen Down",
+        "qid": "Q2837131",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tyler Evan Webb",
+        "qid": "Q69974862",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hannah Spear",
+        "qid": "Q59579779",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tara Nicodemo",
+        "qid": "Q70357284",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Samora Smallwood",
+        "qid": "Q70846755",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hanneke Talbot",
+        "qid": "Q70873739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chai Valladares",
+        "qid": "Q71106466",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kyana Teresa",
+        "qid": "Q71358379",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sheila McCarthy",
+        "qid": "Q434844",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andrew Moodie",
+        "qid": "Q57452613",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Katherine Barrell",
+        "qid": "Q24335234",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Javier Botet",
+        "qid": "Q3163137",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Melissa George",
+        "qid": "Q233575",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Grace Lynn Kung",
+        "qid": "Q5591276",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sam Asante",
+        "qid": "Q71971463",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Milton Barnes",
+        "qid": "Q57002298",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Clint Howard",
+        "qid": "Q1101612",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dennis Andres",
+        "qid": "Q72147765",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jason Deline",
+        "qid": "Q6162357",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy MacLellan",
+        "qid": "Q2903668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dee Pelletier",
+        "qid": "Q72230620",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hamza Fouad",
+        "qid": "Q72366928",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Conrad Pla",
+        "qid": "Q5162584",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Binkley",
+        "qid": "Q72577921",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rob Brownstein",
+        "qid": "Q72670384",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jordana Blake",
+        "qid": "Q66819366",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Luke Humphrey",
+        "qid": "Q72941488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Justin Howell",
+        "qid": "Q73891277",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Simon Northwood",
+        "qid": "Q74071333",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marie Ward",
+        "qid": "Q74213433",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Noah Davis",
+        "qid": "Q74520881",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tyler Hynes",
+        "qid": "Q2569647",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Pellington",
+        "qid": "Q662257",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Saad Siddiqui",
+        "qid": "Q64891312",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Connolly Affleck",
+        "qid": "Q74728418",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kiara Groulx",
+        "qid": "Q74970086",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elias Toufexis",
+        "qid": "Q5360620",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Claire Qute",
+        "qid": "Q77043583",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bonnie Morgan",
+        "qid": "Q4942414",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Thamela Mpumlwana",
+        "qid": "Q23061598",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Alexander",
+        "qid": "Q56062807",
+        "character": "Gray Tal",
+        "character_qid": "Q104760690",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Blu del Barrio",
+        "qid": "Q99673126",
+        "character": "Adira",
+        "character_qid": "Q101059840",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Ajala",
+        "qid": "Q28113147",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Matkai Burmaster",
+        "qid": "Q69750156",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -963,73 +1777,97 @@
         "role": "director",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Maja Vrvilo",
         "qid": "Q29341423",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Nami Melumad",
         "qid": "Q16341114",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anson Mount",
         "qid": "Q570006",
-        "character": "Christopher Pike"
+        "character": "Christopher Pike",
+        "character_qid": "Q612625",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Ethan Peck",
         "qid": "Q1320452",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Rebecca Romijn",
         "qid": "Q202792",
-        "character": "Number One"
+        "character": "Number One",
+        "character_qid": "Q1568510",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Babs Olusanmokun",
         "qid": "Q40571737",
-        "character": "Joseph M'Benga"
+        "character": "Joseph M'Benga",
+        "character_qid": "Q77657722",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Christina Chong",
         "qid": "Q14954989",
-        "character": "La'an Noonien-Singh"
+        "character": "La'an Noonien-Singh",
+        "character_qid": "Q111983179",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Celia Rose Gooding",
         "qid": "Q100702045",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jess Bush",
         "qid": "Q111024535",
-        "character": "Christine Chapel"
+        "character": "Christine Chapel",
+        "character_qid": "Q2737692",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Melissa Navia",
         "qid": "Q111039022",
-        "character": "Erica Ortegas"
+        "character": "Erica Ortegas",
+        "character_qid": "Q111983180",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1206,109 +2044,161 @@
         "role": "creator",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Gene L. Coon",
         "qid": "Q721288",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "D. C. Fontana",
         "qid": "Q450706",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Gene L. Coon",
         "qid": "Q721288",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Fred Freiberger",
         "qid": "Q1452295",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "John Meredyth Lucas",
         "qid": "Q1282874",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "John D. F. Black",
         "qid": "Q6228142",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Alexander Courage",
         "qid": "Q1394107",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Majel Barrett",
         "qid": "Q232917",
-        "character": "Christine Chapel"
+        "character": "Christine Chapel",
+        "character_qid": "Q2737692",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Grace Lee Whitney",
         "qid": "Q272214",
-        "character": "Janice Rand"
+        "character": "Janice Rand",
+        "character_qid": "Q2707157",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "John Winston",
         "qid": "Q2736038",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Baxley",
+        "qid": "Q3370585",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Eddie Paskey",
+        "qid": "Q5336388",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1439,25 +2329,33 @@
         "role": "creator",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Hal Sutherland",
         "qid": "Q5640945",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Norm Prescott",
         "qid": "Q3343707",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Lou Scheimer",
         "qid": "Q1369625",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1542,97 +2440,193 @@
         "role": "director",
         "name": "Robert Wise",
         "qid": "Q59821",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Harold Livingston",
         "qid": "Q5661509",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Alan Dean Foster",
         "qid": "Q575345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jerry Goldsmith",
         "qid": "Q235077",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Persis Khambatta",
         "qid": "Q432731",
-        "character": "Ilia"
+        "character": "Ilia",
+        "character_qid": "Q55083084",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Stephen Collins",
         "qid": "Q435434",
-        "character": "Willard Decker"
+        "character": "Willard Decker",
+        "character_qid": "Q18233872",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Majel Barrett",
         "qid": "Q232917",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Grace Lee Whitney",
         "qid": "Q272214",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Lenard",
+        "qid": "Q940971",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Roger Aaron Brown",
+        "qid": "Q44450",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Walter Koenig",
+        "qid": "Q376176",
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Franklyn Seales",
+        "qid": "Q711870",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marcy Lafferty",
+        "qid": "Q1894431",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bjo Trimble",
+        "qid": "Q2905190",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Denise Okuda",
+        "qid": "Q5257735",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Susan Sackett",
+        "qid": "Q7648346",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1715,103 +2709,169 @@
         "role": "director",
         "name": "Nicholas Meyer",
         "qid": "Q8312",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Jack B. Sowards",
         "qid": "Q1676969",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Nicholas Meyer",
         "qid": "Q8312",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Robert Sallin",
         "qid": "Q7349543",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "James Horner",
         "qid": "Q106221",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Ricardo Montalbán",
         "qid": "Q333595",
-        "character": "Khan Noonien Singh"
+        "character": "Khan Noonien Singh",
+        "character_qid": "Q23031",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Merritt Butrick",
         "qid": "Q623999",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Paul Winfield",
         "qid": "Q344576",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Kirstie Alley",
         "qid": "Q151935",
-        "character": "Saavik"
+        "character": "Saavik",
+        "character_qid": "Q607452",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Bibi Besch",
         "qid": "Q84696",
-        "character": "Carol Marcus"
+        "character": "Carol Marcus",
+        "character_qid": "Q13218515",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Winston",
+        "qid": "Q2736038",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Shatner",
+        "qid": "Q16297",
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leonard Nimoy",
+        "qid": "Q16345",
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ike Eisenmann",
+        "qid": "Q3148398",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1896,103 +2956,193 @@
         "role": "creator",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "James Horner",
         "qid": "Q106221",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Christopher Lloyd",
         "qid": "Q109324",
-        "character": "Kruge"
+        "character": "Kruge",
+        "character_qid": "Q124213536",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Merritt Butrick",
         "qid": "Q623999",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robin Curtis",
         "qid": "Q469827",
-        "character": "Saavik"
+        "character": "Saavik",
+        "character_qid": "Q607452",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Judith Anderson",
         "qid": "Q230415",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Miguel Ferrer",
+        "qid": "Q463497",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Lenard",
+        "qid": "Q940971",
+        "character": "Sarek",
+        "character_qid": "Q2712069",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Phil Morris",
+        "qid": "Q1371134",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Scott McGinnis",
+        "qid": "Q2260984",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert Hooks",
+        "qid": "Q2157603",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Sikking",
+        "qid": "Q1681105",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Shatner",
+        "qid": "Q16297",
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -2075,103 +3225,177 @@
         "role": "director",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Steve Meerson",
         "qid": "Q3499020",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Peter Krikes",
         "qid": "Q7175285",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Nicholas Meyer",
         "qid": "Q8312",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Leonard Rosenman",
         "qid": "Q1346580",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robin Curtis",
         "qid": "Q469827",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Catherine Hicks",
         "qid": "Q230789",
-        "character": "Gillian Taylor"
+        "character": "Gillian Taylor",
+        "character_qid": "Q3106613",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jane Wyatt",
         "qid": "Q234089",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "John Schuck",
         "qid": "Q1389759",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leonard Nimoy",
+        "qid": "Q16345",
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Majel Barrett",
+        "qid": "Q232917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Lenard",
+        "qid": "Q940971",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert Ellenstein",
+        "qid": "Q1312600",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brock Peters",
+        "qid": "Q580587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -2256,127 +3480,169 @@
         "role": "author",
         "name": "Diane Carey",
         "qid": "Q1208954",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "David Loughery",
         "qid": "Q3018318",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "David Loughery",
         "qid": "Q3018318",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Harve Bennett",
         "qid": "Q1386741",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jerry Goldsmith",
         "qid": "Q235077",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "David Warner",
         "qid": "Q363271",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Laurence Luckinbill",
         "qid": "Q356846",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Charles Cooper",
         "qid": "Q2667506",
-        "character": "Korrd"
+        "character": "Korrd",
+        "character_qid": "Q65016702",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -2459,127 +3725,257 @@
         "role": "director",
         "name": "Nicholas Meyer",
         "qid": "Q8312",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Denny Martin Flinn",
         "qid": "Q5259203",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Nicholas Meyer",
         "qid": "Q8312",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Lawrence Konner",
         "qid": "Q4572341",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Mark Rosenthal",
         "qid": "Q6769506",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Ralph Winter",
         "qid": "Q7288285",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Steven-Charles Jaffe",
         "qid": "Q7614407",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Cliff Eidelman",
         "qid": "Q1101136",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "DeForest Kelley",
         "qid": "Q16349",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nichelle Nichols",
         "qid": "Q254038",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Takei",
         "qid": "Q110154",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Kim Cattrall",
         "qid": "Q209175",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "David Warner",
         "qid": "Q363271",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Christopher Plummer",
         "qid": "Q190523",
-        "character": "Chang"
+        "character": "Chang",
+        "character_qid": "Q22992",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rosanna DeSoto",
+        "qid": "Q338396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kurtwood Smith",
+        "qid": "Q317228",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Iman",
+        "qid": "Q256531",
+        "character": "Martia",
+        "character_qid": "Q53858092",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "René Auberjonois",
+        "qid": "Q348445",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Dorn",
+        "qid": "Q316955",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christian Slater",
+        "qid": "Q204590",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Lenard",
+        "qid": "Q940971",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brock Peters",
+        "qid": "Q580587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Rossilli",
+        "qid": "Q12043973",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Schuck",
+        "qid": "Q1389759",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leon Russom",
+        "qid": "Q599274",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -2662,115 +4058,209 @@
         "role": "director",
         "name": "Olatunde Osunsanmi",
         "qid": "Q17090902",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Craig Sweeny",
         "qid": "Q5181513",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Craig Sweeny",
         "qid": "Q5181513",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Olatunde Osunsanmi",
         "qid": "Q17090902",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Rod Roddenberry",
         "qid": "Q7356345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Michelle Yeoh",
         "qid": "Q214289",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jeff Russo",
         "qid": "Q6174877",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michelle Yeoh",
         "qid": "Q214289",
-        "character": "Philippa Georgiou"
+        "character": "Philippa Georgiou",
+        "character_qid": "Q47391140",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Omari Hardwick",
         "qid": "Q7089885",
-        "character": "Alok Sahar"
+        "character": "Alok Sahar",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Kacey Rohl",
         "qid": "Q719878",
-        "character": "Rachel Garrett"
+        "character": "Rachel Garrett",
+        "character_qid": "Q106620964",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sam Richardson",
         "qid": "Q24050468",
-        "character": "Quasi"
+        "character": "Quasi",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sven Ruygrok",
         "qid": "Q65553191",
-        "character": "Fuzz"
+        "character": "Fuzz",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robert Kazinsky",
         "qid": "Q3938329",
-        "character": "Zeph"
+        "character": "Zeph",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Humberly González",
         "qid": "Q64548873",
-        "character": "Melle"
+        "character": "Melle",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Hiroyuki Liao",
         "qid": "Q8215223",
-        "character": "San"
+        "character": "San",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jamie Lee Curtis",
         "qid": "Q106997",
-        "character": "Control"
+        "character": "Control",
+        "character_qid": "Q62992395",
+        "cameo": true
       },
       {
         "role": "cast",
         "name": "Miku Martineau",
         "qid": "Q118489324",
-        "character": "Philippa Georgiou"
+        "character": "Philippa Georgiou",
+        "character_qid": "Q47391140",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joe Pingue",
+        "qid": "Q6211805",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Huang",
+        "qid": "Q6136339",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nikki Grant",
+        "qid": "Q42719638",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Benjamin Tomlinson",
+        "qid": "Q68492294",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Avaah Blackwell",
+        "qid": "Q102745297",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nicole Dickinson",
+        "qid": "Q69527493",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rif Hutton",
+        "qid": "Q4273299",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -3123,79 +4613,193 @@
         "role": "creator",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Gene Roddenberry",
         "qid": "Q191716",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Dennis McCarthy",
         "qid": "Q1189355",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Patrick Stewart",
         "qid": "Q16296",
-        "character": "Jean-Luc Picard"
+        "character": "Jean-Luc Picard",
+        "character_qid": "Q16276",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": "William Riker / Thomas Riker"
+        "character": "William Riker / Thomas Riker",
+        "character_qid": "Q752877",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": "Data / Lore"
+        "character": "Data / Lore",
+        "character_qid": "Q22983",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "LeVar Burton",
         "qid": "Q312570",
-        "character": "Geordi La Forge"
+        "character": "Geordi La Forge",
+        "character_qid": "Q384569",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Denise Crosby",
         "qid": "Q234474",
-        "character": "Tasha Yar"
+        "character": "Tasha Yar",
+        "character_qid": "Q2069947",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michael Dorn",
         "qid": "Q316955",
-        "character": "Worf"
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Gates McFadden",
         "qid": "Q253764",
-        "character": "Beverly Crusher"
+        "character": "Beverly Crusher",
+        "character_qid": "Q794335",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Marina Sirtis",
         "qid": "Q232945",
-        "character": "Deanna Troi"
+        "character": "Deanna Troi",
+        "character_qid": "Q625731",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Wil Wheaton",
         "qid": "Q264699",
-        "character": "Wesley Crusher"
+        "character": "Wesley Crusher",
+        "character_qid": "Q2000355",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Diana Muldaur",
         "qid": "Q269599",
-        "character": "Katherine Pulaski"
+        "character": "Katherine Pulaski",
+        "character_qid": "Q55191",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Majel Barrett",
+        "qid": "Q232917",
+        "character": "Lwaxana Troi",
+        "character_qid": "Q3173451",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brian Bonsall",
+        "qid": "Q708777",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rosalind Chao",
+        "qid": "Q253578",
+        "character": "Keiko O'Brien",
+        "character_qid": "Q6741449",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John de Lancie",
+        "qid": "Q550778",
+        "character": "Q",
+        "character_qid": "Q15857",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Whoopi Goldberg",
+        "qid": "Q49001",
+        "character": "Guinan",
+        "character_qid": "Q1078955",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Forbes",
+        "qid": "Q239075",
+        "character": "Ro Laren",
+        "character_qid": "Q629953",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert O'Reilly",
+        "qid": "Q2158428",
+        "character": "Gowron",
+        "character_qid": "Q1027770",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Colm Meaney",
+        "qid": "Q313671",
+        "character": "Miles O'Brien",
+        "character_qid": "Q2020365",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Schultz",
+        "qid": "Q355344",
+        "character": "Reginald Barclay",
+        "character_qid": "Q627820",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Patti Yasutake",
+        "qid": "Q467709",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Suzie Plakson",
+        "qid": "Q1396070",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -3547,97 +5151,433 @@
         "role": "creator",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Michael Piller",
         "qid": "Q957711",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Ira Steven Behr",
         "qid": "Q6066272",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Michael Piller",
         "qid": "Q957711",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jay Chattaway",
         "qid": "Q639937",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Avery Brooks",
         "qid": "Q366012",
-        "character": "Benjamin Sisko"
+        "character": "Benjamin Sisko",
+        "character_qid": "Q546404",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "René Auberjonois",
         "qid": "Q348445",
-        "character": "Odo"
+        "character": "Odo",
+        "character_qid": "Q2195486",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nicole de Boer",
         "qid": "Q238168",
-        "character": "Ezri Dax"
+        "character": "Ezri Dax",
+        "character_qid": "Q2171485",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michael Dorn",
         "qid": "Q316955",
-        "character": "Worf"
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Terry Farrell",
         "qid": "Q258612",
-        "character": "Jadzia Dax"
+        "character": "Jadzia Dax",
+        "character_qid": "Q774719",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Cirroc Lofton",
         "qid": "Q1093124",
-        "character": "Jake Sisko"
+        "character": "Jake Sisko",
+        "character_qid": "Q3160645",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Colm Meaney",
         "qid": "Q313671",
-        "character": "Miles O'Brien"
+        "character": "Miles O'Brien",
+        "character_qid": "Q2020365",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Armin Shimerman",
         "qid": "Q353101",
-        "character": "Quark"
+        "character": "Quark",
+        "character_qid": "Q2473641",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Alexander Siddig",
         "qid": "Q311165",
-        "character": "Julian Bashir"
+        "character": "Julian Bashir",
+        "character_qid": "Q1882443",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nana Visitor",
         "qid": "Q231576",
-        "character": "Kira Nerys"
+        "character": "Kira Nerys",
+        "character_qid": "Q1960052",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rosalind Chao",
+        "qid": "Q253578",
+        "character": "Keiko O'Brien",
+        "character_qid": "Q6741449",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Max Grodénchik",
+        "qid": "Q716247",
+        "character": "Rom",
+        "character_qid": "Q3440554",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aron Eisenberg",
+        "qid": "Q322750",
+        "character": "Nog",
+        "character_qid": "Q3342685",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andrew Robinson",
+        "qid": "Q506958",
+        "character": "Garak",
+        "character_qid": "Q22971",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chase Masterson",
+        "qid": "Q1396278",
+        "character": "Leeta",
+        "character_qid": "Q3829419",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marc Alaimo",
+        "qid": "Q926194",
+        "character": "Dukat",
+        "character_qid": "Q22954",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Penny Johnson Jerald",
+        "qid": "Q239328",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Louise Fletcher",
+        "qid": "Q182372",
+        "character": "Winn Adami",
+        "character_qid": "Q7046149",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Majel Barrett",
+        "qid": "Q232917",
+        "character": "Lwaxana Troi",
+        "character_qid": "Q3173451",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Allen Shepherd",
+        "qid": "Q164372",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "J. G. Hertzler",
+        "qid": "Q1504763",
+        "character": "Martok",
+        "character_qid": "Q1166091",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kenneth Marshall",
+        "qid": "Q1738645",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Casey Biggs",
+        "qid": "Q544756",
+        "character": "Damar",
+        "character_qid": "Q55347125",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert O'Reilly",
+        "qid": "Q2158428",
+        "character": "Gowron",
+        "character_qid": "Q1027770",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Philip Anglim",
+        "qid": "Q2086035",
+        "character": "Bareil Antos",
+        "character_qid": "Q4009196",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Camille Saviola",
+        "qid": "Q2935069",
+        "character": "Kai Opaka",
+        "character_qid": "Q3812476",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jeffrey Combs",
+        "qid": "Q452288",
+        "character": "Weyoun",
+        "character_qid": "Q965598",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cyia Batten",
+        "qid": "Q2597610",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tracy Middendorf",
+        "qid": "Q272166",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Melanie Smith",
+        "qid": "Q432742",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Salome Jens",
+        "qid": "Q7405616",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Barry Jenner",
+        "qid": "Q809051",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Darren",
+        "qid": "Q1345794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Duncan Regehr",
+        "qid": "Q976754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wallace Shawn",
+        "qid": "Q311068",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andrea Martin",
+        "qid": "Q442309",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cecily Adams",
+        "qid": "Q274883",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brock Peters",
+        "qid": "Q580587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Adrienne Barbeau",
+        "qid": "Q253561",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jeff McBride",
+        "qid": "Q2251648",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leigh McCloskey",
+        "qid": "Q743723",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Glover",
+        "qid": "Q281621",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gary Frank",
+        "qid": "Q1494853",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Julianna McCarthy",
+        "qid": "Q6307836",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Sloyan",
+        "qid": "Q339902",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hana Hatae",
+        "qid": "Q13341430",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Sadler",
+        "qid": "Q152542",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Dooley",
+        "qid": "Q708097",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -3721,97 +5661,153 @@
         "role": "director",
         "name": "David Carson",
         "qid": "Q3496511",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Ronald D. Moore",
         "qid": "Q549942",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Brannon Braga",
         "qid": "Q540510",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Dennis McCarthy",
         "qid": "Q1189355",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": "William Riker"
+        "character": "William Riker",
+        "character_qid": "Q752877",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": "Data"
+        "character": "Data",
+        "character_qid": "Q22983",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "LeVar Burton",
         "qid": "Q312570",
-        "character": "Geordi La Forge"
+        "character": "Geordi La Forge",
+        "character_qid": "Q384569",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michael Dorn",
         "qid": "Q316955",
-        "character": "Worf"
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Gates McFadden",
         "qid": "Q253764",
-        "character": "Beverly Crusher"
+        "character": "Beverly Crusher",
+        "character_qid": "Q794335",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Marina Sirtis",
         "qid": "Q232945",
-        "character": "Lwaxana Troi"
+        "character": "Lwaxana Troi",
+        "character_qid": "Q3173451",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "William Shatner",
         "qid": "Q16297",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Doohan",
         "qid": "Q318412",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Walter Koenig",
         "qid": "Q376176",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Alan Ruck",
         "qid": "Q498263",
-        "character": "John Harriman"
+        "character": "John Harriman",
+        "character_qid": "Q1974328",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Malcolm McDowell",
+        "qid": "Q117392",
+        "character": "Tolian Soran",
+        "character_qid": "Q14414008",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Whoopi Goldberg",
+        "qid": "Q49001",
+        "character": "Guinan",
+        "character_qid": "Q1078955",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Patrick Stewart",
+        "qid": "Q16296",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -4163,109 +6159,369 @@
         "role": "creator",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Michael Piller",
         "qid": "Q957711",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Jeri Taylor",
         "qid": "Q275707",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Jeri Taylor",
         "qid": "Q275707",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Kenneth Biller",
         "qid": "Q4992506",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Brannon Braga",
         "qid": "Q540510",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jerry Goldsmith",
         "qid": "Q235077",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robert Picardo",
         "qid": "Q313789",
-        "character": "Doctor"
+        "character": "Doctor",
+        "character_qid": "Q34359",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Kate Mulgrew",
         "qid": "Q230038",
-        "character": "Kathryn Janeway"
+        "character": "Kathryn Janeway",
+        "character_qid": "Q305387",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robert Beltran",
         "qid": "Q367549",
-        "character": "Chakotay"
+        "character": "Chakotay",
+        "character_qid": "Q766141",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jennifer Lien",
         "qid": "Q272020",
-        "character": "Kes"
+        "character": "Kes",
+        "character_qid": "Q1107814",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robert Duncan McNeill",
         "qid": "Q508333",
-        "character": "Tom Paris"
+        "character": "Tom Paris",
+        "character_qid": "Q1322354",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Tim Russ",
         "qid": "Q452232",
-        "character": "Tuvok"
+        "character": "Tuvok",
+        "character_qid": "Q9108122",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Roxann Dawson",
         "qid": "Q253977",
-        "character": "B'Elanna Torres"
+        "character": "B'Elanna Torres",
+        "character_qid": "Q855969",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Garrett Wang",
         "qid": "Q551354",
-        "character": "Harry Kim"
+        "character": "Harry Kim",
+        "character_qid": "Q252900",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Ethan Phillips",
         "qid": "Q435475",
-        "character": "Neelix"
+        "character": "Neelix",
+        "character_qid": "Q1216129",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jeri Ryan",
         "qid": "Q236809",
-        "character": "Seven of Nine"
+        "character": "Seven of Nine",
+        "character_qid": "Q7050346",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Josh Clark",
+        "qid": "Q6288759",
+        "character": "Joe Carey",
+        "character_qid": "Q12731392",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nancy Hower",
+        "qid": "Q1964497",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alexander Enberg",
+        "qid": "Q2642039",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Manu Intiraymi",
+        "qid": "Q1891371",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Scarlett Pomers",
+        "qid": "Q442453",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brad Dourif",
+        "qid": "Q329734",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Raphael Sbarge",
+        "qid": "Q277099",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Abdullah II of Jordan",
+        "qid": "Q57464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Morello",
+        "qid": "Q297552",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jason Alexander",
+        "qid": "Q311754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ed Begley, Jr.",
+        "qid": "Q464425",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Graf",
+        "qid": "Q445253",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gary Graham",
+        "qid": "Q2571025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joel Grey",
+        "qid": "Q316641",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dwayne Johnson",
+        "qid": "Q10738",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael McKean",
+        "qid": "Q1384181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sharon Lawrence",
+        "qid": "Q266814",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Virginia Madsen",
+        "qid": "Q229784",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Savage",
+        "qid": "Q249865",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Rhys-Davies",
+        "qid": "Q16455",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sarah Silverman",
+        "qid": "Q229013",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kurtwood Smith",
+        "qid": "Q317228",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ray Walston",
+        "qid": "Q692800",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Titus Welliver",
+        "qid": "Q437693",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ray Wise",
+        "qid": "Q530646",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Scott Thompson",
+        "qid": "Q324114",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John de Lancie",
+        "qid": "Q550778",
+        "character": "Q",
+        "character_qid": "Q15857",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Martha Hackett",
+        "qid": "Q538129",
+        "character": "Seska",
+        "character_qid": "Q3958149",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -4350,103 +6606,169 @@
         "role": "director",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Brannon Braga",
         "qid": "Q540510",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Ronald D. Moore",
         "qid": "Q549942",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Marty Hornstein",
         "qid": "Q6777438",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Peter Lauritson",
         "qid": "Q7175371",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jerry Goldsmith",
         "qid": "Q235077",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Gates McFadden",
         "qid": "Q253764",
-        "character": "Beverly Crusher"
+        "character": "Beverly Crusher",
+        "character_qid": "Q794335",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "James Cromwell",
         "qid": "Q299483",
-        "character": "Zefram Cochrane"
+        "character": "Zefram Cochrane",
+        "character_qid": "Q23000",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": "Data"
+        "character": "Data",
+        "character_qid": "Q22983",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "LeVar Burton",
         "qid": "Q312570",
-        "character": "Geordi La Forge"
+        "character": "Geordi La Forge",
+        "character_qid": "Q384569",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michael Dorn",
         "qid": "Q316955",
-        "character": "Worf"
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Alfre Woodard",
         "qid": "Q526620",
-        "character": "Lily Sloane"
+        "character": "Lily Sloane",
+        "character_qid": "Q1130144",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Patrick Stewart",
         "qid": "Q16296",
-        "character": "Jean-Luc Picard"
+        "character": "Jean-Luc Picard",
+        "character_qid": "Q16276",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": "William Riker"
+        "character": "William Riker",
+        "character_qid": "Q752877",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Alice Krige",
         "qid": "Q236479",
-        "character": "Borg Queen"
+        "character": "Borg Queen",
+        "character_qid": "Q14905899",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Neal McDonough",
         "qid": "Q445125",
-        "character": "Sean Hawk"
+        "character": "Sean Hawk",
+        "character_qid": "Q20435373",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marina Sirtis",
+        "qid": "Q232945",
+        "character": "Deanna Troi",
+        "character_qid": "Q625731",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Schultz",
+        "qid": "Q355344",
+        "character": "Reginald Barclay",
+        "character_qid": "Q627820",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert Picardo",
+        "qid": "Q313789",
+        "character": "Doctor",
+        "character_qid": "Q34359",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Adam Scott",
+        "qid": "Q201842",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -4531,85 +6853,201 @@
         "role": "director",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Michael Piller",
         "qid": "Q957711",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jerry Goldsmith",
         "qid": "Q235077",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Patrick Stewart",
         "qid": "Q16296",
-        "character": "Jean-Luc Picard"
+        "character": "Jean-Luc Picard",
+        "character_qid": "Q16276",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": "William Riker"
+        "character": "William Riker",
+        "character_qid": "Q752877",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": "Data"
+        "character": "Data",
+        "character_qid": "Q22983",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "LeVar Burton",
         "qid": "Q312570",
-        "character": "Geordi La Forge"
+        "character": "Geordi La Forge",
+        "character_qid": "Q384569",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michael Dorn",
         "qid": "Q316955",
-        "character": "Worf"
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Gates McFadden",
         "qid": "Q253764",
-        "character": "Beverly Crusher"
+        "character": "Beverly Crusher",
+        "character_qid": "Q794335",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Marina Sirtis",
         "qid": "Q232945",
-        "character": "Deanna Troi"
+        "character": "Deanna Troi",
+        "character_qid": "Q625731",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "F. Murray Abraham",
         "qid": "Q181936",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Donna Murphy",
         "qid": "Q439457",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anthony Zerbe",
         "qid": "Q574190",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gregg Henry",
+        "qid": "Q1355395",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephanie Niznik",
+        "qid": "Q470112",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Hugh Kelly",
+        "qid": "Q345955",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Welch",
+        "qid": "Q236463",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Majel Barrett",
+        "qid": "Q232917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rick Worthy",
+        "qid": "Q3011915",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Tung",
+        "qid": "Q527941",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Max Grodénchik",
+        "qid": "Q716247",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Morello",
+        "qid": "Q297552",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Armin Shimerman",
+        "qid": "Q353101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Ruskin",
+        "qid": "Q15483637",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -4694,97 +7132,209 @@
         "role": "director",
         "name": "Stuart Baird",
         "qid": "Q1715774",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "John Logan",
         "qid": "Q384004",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rick Berman",
         "qid": "Q502314",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Jerry Goldsmith",
         "qid": "Q235077",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Patrick Stewart",
         "qid": "Q16296",
-        "character": "Jean-Luc Picard"
+        "character": "Jean-Luc Picard",
+        "character_qid": "Q16276",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": "William Riker"
+        "character": "William Riker",
+        "character_qid": "Q752877",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": "Data"
+        "character": "Data",
+        "character_qid": "Q22983",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "LeVar Burton",
         "qid": "Q312570",
-        "character": "Geordi La Forge"
+        "character": "Geordi La Forge",
+        "character_qid": "Q384569",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Michael Dorn",
         "qid": "Q316955",
-        "character": "Worf"
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Gates McFadden",
         "qid": "Q253764",
-        "character": "Beverly Crusher"
+        "character": "Beverly Crusher",
+        "character_qid": "Q794335",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Marina Sirtis",
         "qid": "Q232945",
-        "character": "Deanna Troi"
+        "character": "Deanna Troi",
+        "character_qid": "Q625731",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Tom Hardy",
         "qid": "Q208026",
-        "character": "Shinzon"
+        "character": "Shinzon",
+        "character_qid": "Q721672",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Ron Perlman",
         "qid": "Q220698",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Whoopi Goldberg",
         "qid": "Q49001",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Shannon Cochran",
+        "qid": "Q542979",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dina Meyer",
+        "qid": "Q231438",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jude Ciccolella",
+        "qid": "Q733776",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kate Mulgrew",
+        "qid": "Q230038",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alan Dale",
+        "qid": "Q350194",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bryan Singer",
+        "qid": "Q220751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Majel Barrett",
+        "qid": "Q232917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wil Wheaton",
+        "qid": "Q264699",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stuart Baird",
+        "qid": "Q1715774",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Berg",
+        "qid": "Q201259",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -5046,37 +7596,49 @@
         "role": "creator",
         "name": "Mike McMahan",
         "qid": "Q47517180",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Heather Kadin",
         "qid": "Q21663076",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Rod Roddenberry",
         "qid": "Q7356345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Chris Prynoski",
         "qid": "Q4376392",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -5207,7 +7769,9 @@
         "role": "creator",
         "name": "The Hageman Brothers",
         "qid": "Q105755862",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -5501,163 +8065,353 @@
         "role": "creator",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Michael Chabon",
         "qid": "Q313466",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Kirsten Beyer",
         "qid": "Q42554338",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Hanelle Culpepper",
         "qid": "Q18705002",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "James Duff",
         "qid": "Q6132893",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Patrick Stewart",
         "qid": "Q16296",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Michael Chabon",
         "qid": "Q313466",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Akiva Goldsman",
         "qid": "Q419454",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Rod Roddenberry",
         "qid": "Q7356345",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "James Duff",
         "qid": "Q6132893",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Heather Kadin",
         "qid": "Q21663076",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Terry Matalas",
         "qid": "Q64853354",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Douglas Aarniokoski",
         "qid": "Q11856301",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Patrick Stewart",
         "qid": "Q16296",
-        "character": "Jean-Luc Picard"
+        "character": "Jean-Luc Picard",
+        "character_qid": "Q16276",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Santiago Cabrera",
         "qid": "Q352021",
-        "character": "Cristóbal Rios"
+        "character": "Cristóbal Rios",
+        "character_qid": "Q84566736",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Alison Pill",
         "qid": "Q237781",
-        "character": "Agnes Jurati"
+        "character": "Agnes Jurati",
+        "character_qid": "Q83565067",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Isa Briones",
         "qid": "Q63944057",
-        "character": "Dahj Asha / Soji Asha / Sutra"
+        "character": "Dahj Asha / Soji Asha / Sutra",
+        "character_qid": "Q83612365",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Harry Treadaway",
         "qid": "Q138073",
-        "character": "Narek"
+        "character": "Narek",
+        "character_qid": "Q83612214",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jeri Ryan",
         "qid": "Q236809",
-        "character": "Seven of Nine"
+        "character": "Seven of Nine",
+        "character_qid": "Q7050346",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jonathan Frakes",
         "qid": "Q346595",
-        "character": "William Riker"
+        "character": "William Riker",
+        "character_qid": "Q752877",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Marina Sirtis",
         "qid": "Q232945",
-        "character": "Deanna Troi"
+        "character": "Deanna Troi",
+        "character_qid": "Q625731",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Evan Evagora",
         "qid": "Q66126525",
-        "character": "Elnor"
+        "character": "Elnor",
+        "character_qid": "Q85121080",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Brent Spiner",
         "qid": "Q311453",
-        "character": "Data / Altan Inigo Soong"
+        "character": "Data / Altan Inigo Soong",
+        "character_qid": "Q22983",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Hurd",
+        "qid": "Q1291441",
+        "character": "Raffi Musiker",
+        "character_qid": "Q84153520",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Del Arco",
+        "qid": "Q6272935",
+        "character": "Hugh",
+        "character_qid": "Q84566653",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peyton List",
+        "qid": "Q264391",
+        "character": "Narissa Rizzo",
+        "character_qid": "Q84153357",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lulu Wilson",
+        "qid": "Q28802743",
+        "character": "Kestra Troi-Riker",
+        "character_qid": "Q87198715",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tamlyn Tomita",
+        "qid": "Q265218",
+        "character": "Oh",
+        "character_qid": "Q84153042",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Casey King",
+        "qid": "Q5048529",
+        "character": "Icheb",
+        "character_qid": "Q1098625",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orla Brady",
+        "qid": "Q444292",
+        "character": "Laris",
+        "character_qid": "Q83612202",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jamie McShane",
+        "qid": "Q22943994",
+        "character": "Zhaban",
+        "character_qid": "Q83612211",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ann Magnuson",
+        "qid": "Q538546",
+        "character": "Kirsten Clancy",
+        "character_qid": "Q84241280",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rebecca Wisocky",
+        "qid": "Q4129281",
+        "character": "Ramdha",
+        "character_qid": "Q87718112",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dinero",
+        "qid": "Q83557770",
+        "character": "Number One",
+        "character_qid": "Q83612245",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jade Ramsey",
+        "qid": "Q439554",
+        "character": "Arcana",
+        "character_qid": "Q99049293",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nikita Ramsey",
+        "qid": "Q7035096",
+        "character": "Saga",
+        "character_qid": "Q99049299",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ed Speleers",
+        "qid": "Q345038",
+        "character": "Jack Crusher",
+        "character_qid": "Q117842097",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "LeVar Burton",
+        "qid": "Q312570",
+        "character": "Geordi La Forge",
+        "character_qid": "Q384569",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Dorn",
+        "qid": "Q316955",
+        "character": "Worf",
+        "character_qid": "Q826155",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gates McFadden",
+        "qid": "Q253764",
+        "character": "Beverly Crusher",
+        "character_qid": "Q794335",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -5781,79 +8535,113 @@
         "role": "creator",
         "name": "Gaia Violo",
         "qid": "Q127685023",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Noga Landau",
         "qid": "Q104144959",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Holly Hunter",
         "qid": "Q105660",
-        "character": "Nahla Ake"
+        "character": "Nahla Ake",
+        "character_qid": "Q137825194",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Paul Giamatti",
         "qid": "Q208649",
-        "character": "Nus Braka"
+        "character": "Nus Braka",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sandro Rosta",
         "qid": "Q137793868",
-        "character": "Caleb Mir"
+        "character": "Caleb Mir",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Karim Diané",
         "qid": "Q137793874",
-        "character": "Jay-Den Kraag"
+        "character": "Jay-Den Kraag",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Kerrice Brooks",
         "qid": "Q127684962",
-        "character": "Sam"
+        "character": "Sam",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "George Hawkins",
         "qid": "Q127685004",
-        "character": "Darem Reymi"
+        "character": "Darem Reymi",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Bella Shepard",
         "qid": "Q116251175",
-        "character": "Genesis Lythe"
+        "character": "Genesis Lythe",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zoë Steiner",
         "qid": "Q137793880",
-        "character": "Tarima Sadal"
+        "character": "Tarima Sadal",
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Robert Picardo",
         "qid": "Q313789",
-        "character": "Doctor"
+        "character": "Doctor",
+        "character_qid": "Q34359",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Tig Notaro",
         "qid": "Q7801308",
-        "character": "Jett Reno"
+        "character": "Jett Reno",
+        "character_qid": "Q61655496",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Oded Fehr",
+        "qid": "Q127996",
+        "character": "Charles Vance",
+        "character_qid": "Q104759711",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -5939,121 +8727,665 @@
         "role": "director",
         "name": "J. J. Abrams",
         "qid": "Q188137",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Roberto Orci",
         "qid": "Q467500",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "J. J. Abrams",
         "qid": "Q188137",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Damon Lindelof",
         "qid": "Q310556",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Jeffrey Chernov",
         "qid": "Q6175902",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Bryan Burk",
         "qid": "Q439543",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Roberto Orci",
         "qid": "Q467500",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Michael Giacchino",
         "qid": "Q155124",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zachary Quinto",
         "qid": "Q139642",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q119142880",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Chris Pine",
         "qid": "Q23466",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q119138548",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Simon Pegg",
         "qid": "Q238464",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Ben Cross",
         "qid": "Q708256",
-        "character": "Sarek"
+        "character": "Sarek",
+        "character_qid": "Q2712069",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "John Cho",
         "qid": "Q312705",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anton Yelchin",
         "qid": "Q314133",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jimmy Bennett",
         "qid": "Q4349",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q119138548",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Leonard Nimoy",
         "qid": "Q16345",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Jacob Kogan",
         "qid": "Q1638065",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q119142880",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zoe Saldaña",
         "qid": "Q190162",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Winona Ryder",
+        "qid": "Q101797",
+        "character": "Amanda Grayson",
+        "character_qid": "Q1412447",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Greg Ellis",
+        "qid": "Q1332872",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Morrison",
+        "qid": "Q199929",
+        "character": "Winona Kirk",
+        "character_qid": "Q23753831",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Clifton Collins",
+        "qid": "Q935167",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Hemsworth",
+        "qid": "Q54314",
+        "character": "George Kirk",
+        "character_qid": "Q5877874",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rachel Nichols",
+        "qid": "Q140181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Akiva Goldsman",
+        "qid": "Q419454",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Scottie Thompson",
+        "qid": "Q437912",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Greenwood",
+        "qid": "Q342788",
+        "character": "Christopher Pike",
+        "character_qid": "Q612625",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Eric Bana",
+        "qid": "Q4440",
+        "character": "Nero",
+        "character_qid": "Q14296686",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Karl Urban",
+        "qid": "Q132430",
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Amanda Foreman",
+        "qid": "Q437799",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy Brown",
+        "qid": "Q13860314",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Colby Paul",
+        "qid": "Q2982372",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Deep Roy",
+        "qid": "Q464746",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Diora Baird",
+        "qid": "Q283504",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Douglas Tait",
+        "qid": "Q5302021",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Faran Tahir",
+        "qid": "Q371972",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Greg Grunberg",
+        "qid": "Q309592",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Jason Brooks",
+        "qid": "Q1683879",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lisa Vidal",
+        "qid": "Q290006",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lucia Rijker",
+        "qid": "Q462162",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Majel Barrett",
+        "qid": "Q232917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marlene Forte",
+        "qid": "Q2101495",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Oz Perkins",
+        "qid": "Q1379066",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul McGillion",
+        "qid": "Q503036",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Randy Pausch",
+        "qid": "Q49828",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Reggie Lee",
+        "qid": "Q1341761",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tania Gunadi",
+        "qid": "Q441699",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tyler Perry",
+        "qid": "Q686301",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anna Katarina",
+        "qid": "Q3148512",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "W. Morgan Sheppard",
+        "qid": "Q604485",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wil Wheaton",
+        "qid": "Q264699",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Pavel Lychnikoff",
+        "qid": "Q304997",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brad William Henke",
+        "qid": "Q641408",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "list of The Young and the Restless characters (2013)",
+        "qid": "Q7776830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jim Nieb",
+        "qid": "Q3178902",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tim Griffin",
+        "qid": "Q15260426",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kelvin Yu",
+        "qid": "Q6386759",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jason Matthew Smith",
+        "qid": "Q6163053",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lorenzo Henrie",
+        "qid": "Q3086608",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Chase",
+        "qid": "Q744002",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marta Martin",
+        "qid": "Q6774144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gerald W. Abrams",
+        "qid": "Q5549650",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Cawley",
+        "qid": "Q6131168",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sufe Bradshaw",
+        "qid": "Q16200220",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Doohan",
+        "qid": "Q16193082",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Dixon",
+        "qid": "Q6272961",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alex Nevil",
+        "qid": "Q4717550",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sala Baker",
+        "qid": "Q1388807",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Scott Trimble",
+        "qid": "Q7437411",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Victor Garber",
+        "qid": "Q270664",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jeffrey Byron",
+        "qid": "Q6175882",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bob Clendenin",
+        "qid": "Q887857",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "A.J. Verel",
+        "qid": "Q4647221",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Damion Poitier",
+        "qid": "Q5212563",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Neville Page",
+        "qid": "Q14949985",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Berry Jr.",
+        "qid": "Q13701277",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Freda Foh Shen",
+        "qid": "Q60355",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cody Klop",
+        "qid": "Q5140441",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kimberly Arland",
+        "qid": "Q17124059",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Patrizia Milano",
+        "qid": "Q15436396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Spencer Daniels",
+        "qid": "Q1858299",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -6143,121 +9475,289 @@
         "role": "director",
         "name": "J. J. Abrams",
         "qid": "Q188137",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Roberto Orci",
         "qid": "Q467500",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Damon Lindelof",
         "qid": "Q310556",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "J. J. Abrams",
         "qid": "Q188137",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Alex Kurtzman",
         "qid": "Q432598",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Roberto Orci",
         "qid": "Q467500",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Damon Lindelof",
         "qid": "Q310556",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Bryan Burk",
         "qid": "Q439543",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Michael Giacchino",
         "qid": "Q155124",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zoe Saldaña",
         "qid": "Q190162",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "John Cho",
         "qid": "Q312705",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Alice Eve",
         "qid": "Q232786",
-        "character": "Carol Marcus"
+        "character": "Carol Marcus",
+        "character_qid": "Q13218515",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Peter Weller",
         "qid": "Q360477",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anton Yelchin",
         "qid": "Q314133",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Chris Pine",
         "qid": "Q23466",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q16311",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zachary Quinto",
         "qid": "Q139642",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Karl Urban",
         "qid": "Q132430",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Benedict Cumberbatch",
         "qid": "Q244674",
-        "character": "Khan Noonien Singh"
+        "character": "Khan Noonien Singh",
+        "character_qid": "Q23031",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Simon Pegg",
         "qid": "Q238464",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Greenwood",
+        "qid": "Q342788",
+        "character": "Christopher Pike",
+        "character_qid": "Q612625",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Noel Clarke",
+        "qid": "Q665139",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Heather Langenkamp",
+        "qid": "Q238383",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nazneen Contractor",
+        "qid": "Q6983534",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leonard Nimoy",
+        "qid": "Q16345",
+        "character": "Spock",
+        "character_qid": "Q16341",
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Amanda Foreman",
+        "qid": "Q437799",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nolan North",
+        "qid": "Q1147104",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nick E. Tarabay",
+        "qid": "Q2290587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Hemsworth",
+        "qid": "Q54314",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aisha Hinds",
+        "qid": "Q3607216",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Morrison",
+        "qid": "Q199929",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Scott Lawrence",
+        "qid": "Q1141130",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Akiva Goldsman",
+        "qid": "Q419454",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bill Hader",
+        "qid": "Q14537",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Michael Richardson",
+        "qid": "Q488335",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Gatt",
+        "qid": "Q13479530",
+        "character": "0718",
+        "character_qid": "Q60646616",
+        "cameo": false
       }
     ],
     "constituents": []
@@ -6351,103 +9851,185 @@
         "role": "director",
         "name": "Justin Lin",
         "qid": "Q551876",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Simon Pegg",
         "qid": "Q238464",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Roberto Orci",
         "qid": "Q467500",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "J. J. Abrams",
         "qid": "Q188137",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Bryan Burk",
         "qid": "Q439543",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Roberto Orci",
         "qid": "Q467500",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Michael Giacchino",
         "qid": "Q155124",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zachary Quinto",
         "qid": "Q139642",
-        "character": "Spock"
+        "character": "Spock",
+        "character_qid": "Q119142880",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Chris Pine",
         "qid": "Q23466",
-        "character": "James T. Kirk"
+        "character": "James T. Kirk",
+        "character_qid": "Q119138548",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Simon Pegg",
         "qid": "Q238464",
-        "character": "Montgomery Scott"
+        "character": "Montgomery Scott",
+        "character_qid": "Q607489",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Karl Urban",
         "qid": "Q132430",
-        "character": "Leonard McCoy"
+        "character": "Leonard McCoy",
+        "character_qid": "Q16351",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Zoe Saldaña",
         "qid": "Q190162",
-        "character": "Nyota Uhura"
+        "character": "Nyota Uhura",
+        "character_qid": "Q616755",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "John Cho",
         "qid": "Q312705",
-        "character": "Hikaru Sulu"
+        "character": "Hikaru Sulu",
+        "character_qid": "Q606202",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Anton Yelchin",
         "qid": "Q314133",
-        "character": "Pavel Chekov"
+        "character": "Pavel Chekov",
+        "character_qid": "Q385831",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Idris Elba",
         "qid": "Q342604",
-        "character": "Krall"
+        "character": "Krall",
+        "character_qid": "Q58417612",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sofia Boutella",
         "qid": "Q258777",
-        "character": "Jaylah"
+        "character": "Jaylah",
+        "character_qid": "Q58417679",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Joe Taslim",
         "qid": "Q3459336",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lydia Wilson",
+        "qid": "Q6707700",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Harpreet Sandhu",
+        "qid": "Q5663645",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Deep Roy",
+        "qid": "Q464746",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Shohreh Aghdashloo",
+        "qid": "Q229766",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Greg Grunberg",
+        "qid": "Q309592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Shea Whigham",
+        "qid": "Q3959303",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -6520,7 +10102,9 @@
         "role": "writer",
         "name": "Casper Kelly",
         "qid": "Q5105657",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []

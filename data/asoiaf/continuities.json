@@ -66,7 +66,131 @@
     "grouping_schemes": [
       "book-series"
     ],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.thepopverse.com/tv-game-of-thrones-watch-how-where-to-order-house-of-the-dragon",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order.",
+        "unit_ids": [
+          "game-of-thrones-s1",
+          "game-of-thrones-s2",
+          "game-of-thrones-s3",
+          "game-of-thrones-s4",
+          "game-of-thrones-s5",
+          "game-of-thrones-s6",
+          "game-of-thrones-s7",
+          "game-of-thrones-s8",
+          "house-of-the-dragon-s1",
+          "house-of-the-dragon-s2",
+          "house-of-the-dragon-s3",
+          "a-knight-of-the-seven-kingdoms-s1"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [],
+        "sources": [
+          {
+            "url": "https://www.thepopverse.com/tv-game-of-thrones-watch-how-where-to-order-house-of-the-dragon",
+            "title": "How to watch Game of Thrones in order: House of the Dragon, A Knight of the Seven Kingdoms & more",
+            "date": "2026-02-25"
+          },
+          {
+            "url": "https://www.cabletv.com/entertainment/how-to-watch-game-of-thrones",
+            "title": "Three Shows, Seven Kingdoms, Twelve Seasons: How to Watch ‘Game of Thrones’ and Its Spinoffs",
+            "date": "2026-06-22"
+          },
+          {
+            "url": "https://guides.justwatch.com/us/a-knight-seven-kingdoms-got-timeline-explained",
+            "title": "Where Does 'A Knight Of The Seven Kingdoms' Fall In The 'GOT' Timeline? — updated",
+            "date": "2026-05-13"
+          },
+          {
+            "url": "https://www.cinemablend.com/game-of-thrones-news/knight-of-the-seven-kingdoms-boss-why-show-great-introduction-game-of-thrones",
+            "title": "‘It Feels Like an On-Ramp’: A Knight Of The Seven Kingdoms Boss On Why The Show Is A Great Introduction To Game Of Thrones' World",
+            "date": "2025-12-30"
+          },
+          {
+            "url": "https://3dvf.com/en/a-knight-of-the-seven-kingdoms-was-released-on-january-18-should-you-watch-game-of-thrones-before-watching-it/",
+            "title": "A Knight of the Seven Kingdoms was released on January 18, should you watch Game of Thrones before watching it? — modified 2026-04-29",
+            "date": "2026-01-19"
+          }
+        ],
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "unit_sources": {
+          "game-of-thrones-s1": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s2": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s3": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s4": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s5": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s6": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s7": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "game-of-thrones-s8": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "house-of-the-dragon-s1": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "house-of-the-dragon-s2": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "house-of-the-dragon-s3": [
+            1
+          ],
+          "a-knight-of-the-seven-kingdoms-s1": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      }
+    ],
     "description": "HBO's Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms. Kept separate from the books: the show \"deviat[es] from the novels\" and later seasons used original content.",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Game_of_Thrones",

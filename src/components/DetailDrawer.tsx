@@ -107,7 +107,7 @@ export function DetailDrawer() {
                 <Field k="In-universe">
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="font-medium">{iu.label}</span>
-                    <ConfidenceBadge c={iu.confidence} />
+                    <ConfidenceBadge c={iu.confidence} note={iu.note} unitKey={row.key} />
                   </div>
                   {iu.note && <p className="mt-1 text-xs leading-relaxed text-muted-foreground"><SpoilerText unitKey={row.key}>{iu.note}</SpoilerText></p>}
                 </Field>

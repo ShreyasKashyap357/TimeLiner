@@ -129,10 +129,26 @@ describe('Cast & crew (D-29)', () => {
   it('stores Wikidata credits and filters by person', () => {
     const im = ds.titles.find((t) => t.id === 'iron-man')!;
     expect(im.credits.some((c) => c.role === 'director' && c.name === 'Jon Favreau')).toBe(true);
-    expect(im.credits.filter((c) => c.role === 'cast').length).toBeLessThanOrEqual(10);
+    expect(im.credits.filter((c) => c.role === 'cast').length).toBeGreaterThan(10); // full cast (D-29 answer)
+    const eg = ds.titles.find((t) => t.id === 'avengers-endgame')!;
+    expect(eg.credits.some((c) => c.cameo && c.name === 'Stan Lee')).toBe(true);
     const favreau = im.credits.find((c) => c.name === 'Jon Favreau')!.qid!;
     const r = applyFilters(rows, { ...defaultState('marvel', null), people: [favreau] }, { scopeContinuity: false, scopeUniverse: true });
     expect(r.some((x) => x.title.id === 'iron-man')).toBe(true);
     expect(r.every((x) => x.title.credits.some((c) => c.qid === favreau))).toBe(true);
+  });
+});
+
+describe('Watch orders (D-14, D-34)', () => {
+  it('every recommended order states its criteria and per-entry guide support; official orders exist', () => {
+    const orders = ds.continuities.flatMap((c) => c.alt_orders.map((a) => ({ c: c.id, a })));
+    const rec = orders.filter((o) => o.a.kind === 'recommended');
+    expect(rec.map((o) => o.c)).toEqual(expect.arrayContaining(['mcu', 'sw-canon', 'st-prime', 'st-kelvin', 'dcu', 'dceu', 'monsterverse', 'got-hbo']));
+    for (const { a } of rec) {
+      expect(a.criteria.length).toBeGreaterThan(20);
+      for (const [u, idx] of Object.entries(a.unit_sources)) { expect(a.unit_ids).toContain(u); for (const i of idx) expect(i).toBeLessThan(a.sources.length); }
+    }
+    expect(orders.some((o) => o.a.id === 'startrek-com' && o.a.kind === 'official')).toBe(true);
+    expect(orders.some((o) => o.a.id === 'starwars-com' && o.a.kind === 'official')).toBe(true);
   });
 });

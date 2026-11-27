@@ -185,7 +185,7 @@ export function tagIndex(rows: Row[], ds: Dataset): { id: string; label: string;
 }
 
 // ---------------------------------------------------------------- 7. continuities overview
-export interface ContinuityLane { id: string; label: string; universe: string; branches: { id: string; label: string; marker: Branch['marker']; placeable: boolean; rows: Row[] }[]; first: number | null; last: number | null; count: number }
+export interface ContinuityLane { id: string; label: string; universe: string; branches: (Pick<Branch, 'id' | 'label' | 'marker' | 'placeable' | 'description' | 'parent' | 'diverges_at' | 'merges_into'> & { rows: Row[] })[]; first: number | null; last: number | null; count: number }
 export function continuityLanes(rows: Row[], ds: Dataset): ContinuityLane[] {
   return ds.continuities
     .map((c) => {
@@ -193,7 +193,7 @@ export function continuityLanes(rows: Row[], ds: Dataset): ContinuityLane[] {
       const years = rs.map((r) => r.unit.release.year).filter((y): y is number => y !== null);
       return {
         id: c.id, label: c.name, universe: c.universe,
-        branches: c.branches.map((b) => ({ id: b.id, label: b.label, marker: b.marker, placeable: b.placeable, rows: rs.filter((r) => r.branch.id === b.id) })).filter((b) => b.rows.length),
+        branches: c.branches.map((b) => ({ id: b.id, label: b.label, marker: b.marker, placeable: b.placeable, description: b.description, parent: b.parent, diverges_at: b.diverges_at, merges_into: b.merges_into, rows: rs.filter((r) => r.branch.id === b.id) })).filter((b) => b.rows.length),
         first: years.length ? Math.min(...years) : null, last: years.length ? Math.max(...years) : null, count: rs.length,
       };
     })

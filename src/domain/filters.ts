@@ -24,6 +24,8 @@ export interface FilterState {
   status: Status[];
   tags: string[];
   people: string[]; // Wikidata person ids (credits)
+  xu: string[]; // "All universes": universes switched off
+  chars: string[]; // characters from cast lists (Wikidata character ids); match across titles and universes
   conf: ('stated' | 'inferred' | 'disputed')[];
   branches: string[];
   watched: WatchedFilter;
@@ -41,14 +43,14 @@ export function defaultState(u: string, c: string | null): FilterState {
   return {
     u, c, view: 'spine', sort: 'in-universe', alt: null, quick: 'all', q: '',
     types: [], tiers: [...DEFAULT_TIERS], platforms: [], studios: [], groupings: [], status: [],
-    tags: [], people: [], conf: [], branches: [], watched: 'all', iu: null, rel: null, lanes: false, ess: false, unit: null,
+    tags: [], people: [], xu: [], chars: [], conf: [], branches: [], watched: 'all', iu: null, rel: null, lanes: false, ess: false, unit: null,
   };
 }
 
 // ---- URL codec: short keys, omit defaults so links stay short.
 const LIST_KEYS: [keyof FilterState, string][] = [
   ['types', 'type'], ['tiers', 'tier'], ['platforms', 'pf'], ['studios', 'st'], ['groupings', 'grp'],
-  ['status', 'status'], ['tags', 'tag'], ['people', 'ppl'], ['conf', 'conf'], ['branches', 'br'],
+  ['status', 'status'], ['tags', 'tag'], ['people', 'ppl'], ['xu', 'xu'], ['chars', 'chr'], ['conf', 'conf'], ['branches', 'br'],
 ];
 
 export function toQuery(s: FilterState, defaults = defaultState(s.u, s.c)): string {
@@ -135,6 +137,7 @@ export function applyFilters(rows: Row[], s: FilterState, o: FilterOptions): Row
   const q = s.q.trim().toLowerCase();
   return rows.filter((r) => {
     if (o.scopeUniverse && s.u !== 'all' && r.universe.id !== s.u) return false;
+    if (s.u === 'all' && s.xu.includes(r.universe.id)) return false;
     if (o.scopeContinuity && s.c && r.continuity.id !== s.c) return false;
     if (!quickMatches(r, s.quick)) return false;
     if (s.types.length && !s.types.includes(r.type)) return false;
@@ -145,6 +148,7 @@ export function applyFilters(rows: Row[], s: FilterState, o: FilterOptions): Row
     if (s.status.length && !s.status.includes(r.unit.status)) return false;
     if (s.tags.length && !s.tags.some((t) => r.title.characters.includes(t) || r.title.franchises.includes(t))) return false;
     if (s.people.length && !r.title.credits.some((c) => c.qid && s.people.includes(c.qid))) return false;
+    if (s.chars.length && !r.title.credits.some((c) => c.character_qid && s.chars.includes(c.character_qid))) return false;
     if (s.conf.length && !s.conf.includes(r.unit.in_universe.confidence)) return false;
     if (s.branches.length && !s.branches.includes(r.branch.id)) return false;
     if (s.iu) {

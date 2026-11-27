@@ -4,6 +4,30 @@ import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { X } from 'lucide-react';
 
+/** "All universes": one chip per universe, each can be switched off and back on. */
+export function UniverseChips() {
+  const { state, update, ds } = useApp();
+  if (state.u !== 'all' || ds.universes.length < 2) return null;
+  const toggle = (id: string) => update({ xu: state.xu.includes(id) ? state.xu.filter((x) => x !== id) : [...state.xu, id] });
+  return (
+    <div className="mb-3 flex flex-wrap items-center gap-1.5" role="group" aria-label="Universes shown">
+      <span className="text-sm text-muted-foreground">Universes:</span>
+      {[...ds.universes].sort((a, b) => a.order - b.order).map((u) => {
+        const on = !state.xu.includes(u.id);
+        return (
+          <button key={u.id} type="button" aria-pressed={on} onClick={() => toggle(u.id)}
+            className={`inline-flex items-center gap-1.5 border px-2 py-0.5 text-sm ${on ? 'border-border bg-card' : 'border-dashed border-border text-muted-foreground line-through'}`}>
+            <span aria-hidden className="size-2.5 ring-1 ring-foreground/60" style={{ background: on ? u.accent.primary : 'transparent' }} />
+            {u.short_name}
+            {on ? <X className="size-3 opacity-70" aria-hidden /> : <span className="sr-only">(hidden)</span>}
+          </button>
+        );
+      })}
+      {state.xu.length > 0 && <Button variant="ghost" size="sm" onClick={() => update({ xu: [] })}>Show all</Button>}
+    </div>
+  );
+}
+
 /** Removable chips for every non-default filter, shown above the results so it's always clear what applies. */
 export function ActiveFilters() {
   const { state, update, label, ds } = useApp();
@@ -17,6 +41,7 @@ export function ActiveFilters() {
   if (state.quick !== 'all') chips.push({ key: 'quick', text: { movies: 'Movies only', series: 'Series only', animated: 'Animated', books: 'Books' }[state.quick as 'movies'], clear: { quick: 'all' } });
   list('tags', 'Character', label.tag);
   list('people', 'Person', label.person);
+  list('chars', 'Character', label.character);
   list('tiers', 'Tier');
   list('types', 'Type');
   list('platforms', 'Platform', label.platform);

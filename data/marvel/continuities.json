@@ -188,7 +188,9 @@
         ],
         "kind": "official",
         "optional_unit_ids": [],
-        "sources": []
+        "sources": [],
+        "criteria": "",
+        "unit_sources": {}
       },
       {
         "id": "recommended",
@@ -417,7 +419,314 @@
             "title": "Avengers: Doomsday's Ultimate Viewing Guide: Every MCU Movie & Show You Need To Watch",
             "date": "2026-05-03"
           }
-        ]
+        ],
+        "criteria": "An entry is essential when at least 2 of these 5 selective guides recommend it: Popverse’s new-fan list, JustWatch’s “Greatest Hits” and post-Endgame paths, the official Disney+ “before Avengers: Doomsday” list (as reported by Screen Rant), Rotten Tomatoes’ essentials, and Screen Rant’s Doomsday viewing guide. Everything else is optional. SuperHeroHype’s guide lists nearly every title, so it is shown as support but does not count toward the 2. Order: release order, because no change to it was backed by two or more guides.",
+        "unit_sources": {
+          "iron-man": [
+            0,
+            1,
+            2
+          ],
+          "the-incredible-hulk": [
+            1
+          ],
+          "iron-man-2": [
+            1
+          ],
+          "thor": [
+            0,
+            1,
+            2
+          ],
+          "captain-america-the-first-avenger": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "the-consultant": [],
+          "a-funny-thing-happened-on-the-way-to-thors-hammer": [],
+          "the-avengers": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "item-47": [],
+          "iron-man-3": [
+            1
+          ],
+          "agent-carter-one-shot": [],
+          "agents-of-shield-s1": [],
+          "thor-the-dark-world": [
+            1
+          ],
+          "all-hail-the-king": [],
+          "captain-america-the-winter-soldier": [
+            0,
+            1,
+            2
+          ],
+          "guardians-of-the-galaxy": [
+            0,
+            1,
+            2
+          ],
+          "agents-of-shield-s2": [],
+          "agent-carter-series-s1": [],
+          "daredevil-s1": [],
+          "avengers-age-of-ultron": [
+            1,
+            2
+          ],
+          "ant-man": [
+            0,
+            1
+          ],
+          "agents-of-shield-s3": [],
+          "jessica-jones-s1": [],
+          "agent-carter-series-s2": [],
+          "daredevil-s2": [],
+          "captain-america-civil-war": [
+            0,
+            1,
+            2
+          ],
+          "agents-of-shield-s4": [],
+          "luke-cage-s1": [],
+          "doctor-strange": [
+            0,
+            1
+          ],
+          "agents-of-shield-slingshot-series": [],
+          "iron-fist-s1": [],
+          "guardians-of-the-galaxy-vol-2": [
+            1
+          ],
+          "spider-man-homecoming": [
+            1
+          ],
+          "the-defenders-s1": [],
+          "inhumans-s1": [],
+          "thor-ragnarok": [
+            1,
+            2
+          ],
+          "the-punisher-s1": [],
+          "runaways-s1": [],
+          "agents-of-shield-s5": [],
+          "black-panther": [
+            0,
+            1
+          ],
+          "jessica-jones-s2": [],
+          "avengers-infinity-war": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "cloak-and-dagger-s1": [],
+          "luke-cage-s2": [],
+          "ant-man-and-the-wasp": [
+            1
+          ],
+          "iron-fist-s2": [],
+          "daredevil-s3": [],
+          "runaways-s2": [],
+          "the-punisher-s2": [],
+          "captain-marvel": [
+            0,
+            1
+          ],
+          "cloak-and-dagger-s2": [],
+          "avengers-endgame": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "agents-of-shield-s6": [],
+          "jessica-jones-s3": [],
+          "spider-man-far-from-home": [
+            1
+          ],
+          "runaways-s3": [],
+          "agents-of-shield-s7": [],
+          "helstrom-s1": [],
+          "wandavision-s1": [
+            0,
+            1
+          ],
+          "the-falcon-and-the-winter-soldier-s1": [
+            0,
+            1
+          ],
+          "loki-s1": [
+            0,
+            1,
+            3,
+            4,
+            5
+          ],
+          "black-widow": [
+            0,
+            1,
+            2
+          ],
+          "what-if-s1": [],
+          "shang-chi-and-the-legend-of-the-ten-rings": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "eternals": [
+            1,
+            2
+          ],
+          "hawkeye-s1": [
+            1
+          ],
+          "spider-man-no-way-home": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "moon-knight-s1": [
+            1
+          ],
+          "doctor-strange-in-the-multiverse-of-madness": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "ms-marvel-s1": [
+            1
+          ],
+          "thor-love-and-thunder": [
+            1,
+            2,
+            5
+          ],
+          "i-am-groot-ep1": [],
+          "i-am-groot-ep2-10": [],
+          "she-hulk-attorney-at-law-s1": [
+            1
+          ],
+          "werewolf-by-night": [],
+          "black-panther-wakanda-forever": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-guardians-of-the-galaxy-holiday-special": [
+            1
+          ],
+          "ant-man-and-the-wasp-quantumania": [
+            0,
+            1,
+            2
+          ],
+          "guardians-of-the-galaxy-vol-3": [
+            0,
+            1,
+            2
+          ],
+          "secret-invasion-s1": [
+            1
+          ],
+          "loki-s2": [
+            0,
+            1,
+            3,
+            4,
+            5
+          ],
+          "the-marvels": [
+            1,
+            2
+          ],
+          "what-if-s2": [],
+          "echo-s1": [
+            1
+          ],
+          "deadpool-and-wolverine": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "agatha-all-along-s1": [
+            1
+          ],
+          "what-if-s3": [],
+          "your-friendly-neighborhood-spider-man-s1": [],
+          "captain-america-brave-new-world": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "daredevil-born-again-s1-e1": [
+            1
+          ],
+          "daredevil-born-again-s1-e2-9": [
+            1
+          ],
+          "thunderbolts": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "ironheart-s1": [
+            1
+          ],
+          "the-fantastic-four-first-steps": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "eyes-of-wakanda-ep1": [],
+          "eyes-of-wakanda-ep2": [],
+          "eyes-of-wakanda-ep3": [],
+          "eyes-of-wakanda-ep4": [],
+          "marvel-zombies-s1": [],
+          "wonder-man-s1": [
+            1
+          ],
+          "daredevil-born-again-s2": [
+            1
+          ],
+          "the-punisher-one-last-kill": [
+            1
+          ],
+          "spider-man-brand-new-day": [
+            1
+          ],
+          "visionquest-s1": [
+            4
+          ]
+        }
       }
     ],
     "description": "Marvel Studios' shared universe. Branches share one calendar; the Sacred Timeline is the main branch.",

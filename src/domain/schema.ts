@@ -107,6 +107,10 @@ export const AltOrder = z.object({
   optional_unit_ids: z.array(z.string()).default([]),
   /** All sources a collated order draws on (source_url is the primary one). */
   sources: z.array(z.object({ url, title: z.string(), date: isoDate.nullable() })).default([]),
+  /** Plain-language rule for what counts as essential vs optional (recommended orders). */
+  criteria: z.string().default(''),
+  /** Per unit: indexes into `sources` of the guides that recommend it. */
+  unit_sources: z.record(z.string(), z.array(z.number().int().min(0))).default({}),
 });
 export const Continuity = z.object({
   id: slug,
@@ -182,6 +186,10 @@ export const Credit = z.object({
   name: z.string(),
   qid: z.string().regex(/^Q\d+$/).nullable().default(null), // Wikidata person id (stable key for the People filter)
   character: z.string().nullable().default(null), // cast only
+  /** Wikidata id of the character, when Wikidata links one: lets the same character be found across titles. */
+  character_qid: z.string().regex(/^Q\d+$/).nullable().default(null),
+  /** Cast only: Wikidata marks the appearance as a cameo ("subject has role: cameo appearance"). */
+  cameo: z.boolean().default(false),
 });
 export const TitleLink = z.object({ to: slug, kind: LinkKind, note: z.string().default('') });
 

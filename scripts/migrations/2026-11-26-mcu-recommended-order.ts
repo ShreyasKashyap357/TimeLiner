@@ -45,7 +45,7 @@ const OPTIONAL: string[] = ["the-incredible-hulk","iron-man-2","the-consultant",
 const ORDER: AltOrder = {
   id: 'recommended', label: 'Recommended for new viewers', kind: 'recommended', source_url: SOURCES[0]!.url, as_of: '2026-11-26',
   note: 'Release order (no reordering had support from two or more guides). Entries at least two of the selective guides recommend are essentials; the rest are marked optional. Unreleased titles are not included.',
-  unit_ids: UNIT_IDS, optional_unit_ids: OPTIONAL, sources: SOURCES,
+  unit_ids: UNIT_IDS, optional_unit_ids: OPTIONAL, sources: SOURCES, criteria: '', unit_sources: {},
 };
 
 const conts = ContinuitiesFile.parse(JSON.parse(await readFile(FILE, 'utf8')));

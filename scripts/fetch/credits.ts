@@ -13,7 +13,7 @@ export const ROLES = {
   P50: 'author', P161: 'cast', P57: 'director', P58: 'writer', P162: 'producer', P1431: 'executive-producer', P86: 'composer', P170: 'creator',
 } as const;
 export type Role = (typeof ROLES)[keyof typeof ROLES];
-export interface CreditPerson { qid: string; character_qids: string[]; character_text: string | null }
+export interface CreditPerson { qid: string; character_qids: string[]; character_text: string | null; role_qids: string[] }
 export interface TitleCredits { enwiki: string; qid: string | null; roles: Partial<Record<Role, CreditPerson[]>> }
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
@@ -36,6 +36,7 @@ async function fetchCredits(enwikis: string[]): Promise<TitleCredits[]> {
           qid: c.mainsnak.datavalue.value.id as string,
           character_qids: (c.qualifiers?.P453 ?? []).map((x: any) => x.datavalue?.value?.id).filter(Boolean),
           character_text: c.qualifiers?.P4633?.[0]?.datavalue?.value ?? null, // "name of the character role"
+          role_qids: (c.qualifiers?.P2868 ?? []).map((x: any) => x.datavalue?.value?.id).filter(Boolean), // "subject has role", e.g. cameo appearance
         })).filter((p: CreditPerson) => p.qid);
         if (people.length) roles[role] = people;
       }
@@ -67,7 +68,7 @@ for (const u of universes) {
   for (const t of titles) if (t.external_ids.enwiki) count.set(t.external_ids.enwiki, (count.get(t.external_ids.enwiki) ?? 0) + 1);
   const enwikis = [...count].filter(([, n]) => n === 1).map(([w]) => w);
   const credits = await fetchCredits(enwikis);
-  const qids = [...new Set(credits.flatMap((c) => Object.values(c.roles).flat().flatMap((p) => [p!.qid, ...p!.character_qids])))];
+  const qids = [...new Set(credits.flatMap((c) => Object.values(c.roles).flat().flatMap((p) => [p!.qid, ...p!.character_qids, ...(p!.role_qids ?? [])])))];
   const labels = await fetchLabels(qids);
   const dir = path.join(SOURCES_DIR, 'wikidata');
   await mkdir(dir, { recursive: true });

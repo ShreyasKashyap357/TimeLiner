@@ -82,7 +82,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -163,19 +165,25 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "author",
         "name": "Elio Garcia",
         "qid": "Q55861554",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "author",
         "name": "Linda Antonsson",
         "qid": "Q55861557",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -261,7 +269,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -348,7 +358,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -437,7 +449,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -750,19 +764,25 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "author",
         "name": "Elio Garcia",
         "qid": "Q55861554",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "author",
         "name": "Linda Antonsson",
         "qid": "Q55861557",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -860,7 +880,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -952,7 +974,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1043,7 +1067,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1132,7 +1158,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1222,7 +1250,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1297,7 +1327,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1372,7 +1404,9 @@
         "role": "author",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1610,85 +1644,833 @@
         "role": "creator",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "Ryan Condal",
         "qid": "Q106720695",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Miguel Sapochnik",
         "qid": "Q6844804",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Ramin Djawadi",
         "qid": "Q57577",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Paddy Considine",
         "qid": "Q498389",
-        "character": "Viserys I Targaryen"
+        "character": "Viserys I Targaryen",
+        "character_qid": "Q111620801",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Matt Smith",
         "qid": "Q312385",
-        "character": "Daemon Targaryen"
+        "character": "Daemon Targaryen",
+        "character_qid": "Q55520758",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Olivia Cooke",
         "qid": "Q15069963",
-        "character": "Alicent Hightower"
+        "character": "Alicent Hightower",
+        "character_qid": "Q111620823",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Emma D'Arcy",
         "qid": "Q101232509",
-        "character": "Rhaenyra Targaryen"
+        "character": "Rhaenyra Targaryen",
+        "character_qid": "Q55452801",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Steve Toussaint",
         "qid": "Q2347359",
-        "character": "Corlys Velaryon"
+        "character": "Corlys Velaryon",
+        "character_qid": "Q111620844",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Eve Best",
         "qid": "Q2406771",
-        "character": "Rhaenys Targaryen (The Princess and the Queen)"
+        "character": "Rhaenys Targaryen (The Princess and the Queen)",
+        "character_qid": "Q138510455",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Fabien Frankel",
         "qid": "Q64875657",
-        "character": "Criston Cole"
+        "character": "Criston Cole",
+        "character_qid": "Q111620880",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sonoya Mizuno",
         "qid": "Q19665276",
-        "character": "Mysaria"
+        "character": "Mysaria",
+        "character_qid": "Q111631894",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Rhys Ifans",
         "qid": "Q215017",
-        "character": "Otto Hightower"
+        "character": "Otto Hightower",
+        "character_qid": "Q111631910",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Milly Alcock",
         "qid": "Q108816955",
-        "character": "Rhaenyra Targaryen"
+        "character": "Rhaenyra Targaryen",
+        "character_qid": "Q55452801",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Emily Carey",
+        "qid": "Q16239251",
+        "character": "Alicent Hightower",
+        "character_qid": "Q111620823",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Harry Collett",
+        "qid": "Q79189030",
+        "character": "Jacaerys Velaryon",
+        "character_qid": "Q111632671",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ryan Corr",
+        "qid": "Q2035268",
+        "character": "Harwin Strong",
+        "character_qid": "Q111632709",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Glynn-Carney",
+        "qid": "Q33133445",
+        "character": "Aegon II Targaryen",
+        "character_qid": "Q55452778",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jefferson Hall",
+        "qid": "Q6175481",
+        "character": "Tyland Lannister / Jason Lannister",
+        "character_qid": "Q111648353",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Horovitch",
+        "qid": "Q5235147",
+        "character": "Mellos",
+        "character_qid": "Q111648578",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wil Johnson",
+        "qid": "Q8000017",
+        "character": "Vaemond Velaryon",
+        "character_qid": "Q111648594",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Graham McTavish",
+        "qid": "Q609464",
+        "character": "Harrold Westerling",
+        "character_qid": "Q111648653",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ewan Mitchell",
+        "qid": "Q75732852",
+        "character": "Aemond Targaryen",
+        "character_qid": "Q111648688",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Needham",
+        "qid": "Q6791009",
+        "character": "Larys Strong",
+        "character_qid": "Q111648739",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bill Paterson",
+        "qid": "Q862358",
+        "character": "Lyman Beesbury",
+        "character_qid": "Q111648778",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Savannah Steyn",
+        "qid": "Q65716601",
+        "character": "Laena Velaryon",
+        "character_qid": "Q111648952",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Phia Saban",
+        "qid": "Q112776583",
+        "character": "Helaena Targaryen",
+        "character_qid": "Q111648813",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gavin Spokes",
+        "qid": "Q112725790",
+        "character": "Lyonel Strong",
+        "character_qid": "Q111648907",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elliot Grihault",
+        "qid": "Q118645221",
+        "character": "Lucerys Velaryon",
+        "character_qid": "Q113563047",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Phil Daniels",
+        "qid": "Q2671473",
+        "character": "Maester Gerardys",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bethany Antonia",
+        "qid": "Q113586180",
+        "character": "Baela Targaryen",
+        "character_qid": "Q111631938",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Max Wrottesley",
+        "qid": "Q27055366",
+        "character": "Lorent Marbrand",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anthony Flanagan",
+        "qid": "Q4772518",
+        "character": "Steffon Darklyn",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Phoebe Campbell",
+        "qid": "Q122188168",
+        "character": "Rhaena Targaryen",
+        "character_qid": "Q111632658",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Luke Tittensor",
+        "qid": "Q6702399",
+        "character": "Arryk Cargyll",
+        "character_qid": "Q113563034",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nicholas Jones",
+        "qid": "Q11210141",
+        "character": "Bartimos Celtigar",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Abubakar Salim",
+        "qid": "Q99773366",
+        "character": "Alyn of Hull",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kieran Bew",
+        "qid": "Q6405340",
+        "character": "Hugh Hammer",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elliott Tittensor",
+        "qid": "Q5365734",
+        "character": "Erryk Cargyll",
+        "character_qid": "Q113563023",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Freddie Fox",
+        "qid": "Q303332",
+        "character": "Gwayne Hightower",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Bennett",
+        "qid": "Q7814937",
+        "character": "Ulf White",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Simon Russell Beale",
+        "qid": "Q971782",
+        "character": "Simon Strong",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Kenna",
+        "qid": "Q6147055",
+        "character": "Alfred Broome",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Dreyfus",
+        "qid": "Q934973",
+        "character": "Gormon Massey",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Vincent Regan",
+        "qid": "Q381664",
+        "character": "Rickard Thorne",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gayle Rankin",
+        "qid": "Q33089270",
+        "character": "Alys Rivers",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Clinton Liberty",
+        "qid": "Q109969539",
+        "character": "Addam of Hull",
+        "character_qid": "Q127866102",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Elwyn",
+        "qid": "Q6830117",
+        "character": "Simon Staunton",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Bonnard",
+        "qid": "Q740129",
+        "character": "Sylvi",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Eddie Eyre",
+        "qid": "Q26704281",
+        "character": "Axell Bulwer",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ellora Torchia",
+        "qid": "Q120174053",
+        "character": "Kat",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alexis Raben",
+        "qid": "Q56264880",
+        "character": "Talya",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kieron Jecchinis",
+        "qid": "Q65551564",
+        "character": "Dragonstone Elder",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rebecca Calder",
+        "qid": "Q112947138",
+        "character": "Dragon Keeper Elder",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Steffan Rhodri",
+        "qid": "Q7606601",
+        "character": "Hobert Hightower",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nanna Blondell",
+        "qid": "Q4939637",
+        "character": "Laena Velaryon",
+        "character_qid": "Q111648952",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Fathers",
+        "qid": "Q54866",
+        "character": "Humfrey Lefford",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Amanda Collin",
+        "qid": "Q38471178",
+        "character": "Jeyne Arryn",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Antonio Magro",
+        "qid": "Q55866591",
+        "character": "Petyr Piper",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ty Tennant",
+        "qid": "Q106537478",
+        "character": "Aegon II Targaryen",
+        "character_qid": "Q55452778",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Siân Brooke",
+        "qid": "Q7506784",
+        "character": "Aemma Arryn",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Eva Ossei-Gerning",
+        "qid": "Q124417045",
+        "character": "Rhaena Targaryen",
+        "character_qid": "Q111632658",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Macmillan",
+        "qid": "Q112161752",
+        "character": "Laenor Velaryon",
+        "character_qid": "Q111648620",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Solly McLeod",
+        "qid": "Q113757045",
+        "character": "Joffrey Lonmouth",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andrew Bicknell",
+        "qid": "Q4756349",
+        "character": "Dragonkeeper Elder",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Julian Lewis Jones",
+        "qid": "Q6307356",
+        "character": "Boremund Baratheon",
+        "character_qid": "Q113996507",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bijan Daneshmand",
+        "qid": "Q4907157",
+        "character": "High Priest",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lucy Briers",
+        "qid": "Q462216",
+        "character": "Ceira Lannister",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Arty Froushan",
+        "qid": "Q67199354",
+        "character": "Qarl Correy",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gary Raymond",
+        "qid": "Q345763",
+        "character": "High Septon",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Clea Martin",
+        "qid": "Q126092712",
+        "character": "Royal Handmaiden",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Cernow",
+        "qid": "Q105315480",
+        "character": "Black Cell Gaunt Prisoner",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Abigail Thorn",
+        "qid": "Q66715738",
+        "character": "Sharako Lohar",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Haqi Ali",
+        "qid": "Q110855883",
+        "character": "Maester Kelvyn",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Archie Barnes",
+        "qid": "Q116264745",
+        "character": "Oscar Tully",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Stobbart",
+        "qid": "Q67984378",
+        "character": "Cheese",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Samson Kayo",
+        "qid": "Q66362723",
+        "character": "Mujja",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Doherty",
+        "qid": "Q6132689",
+        "character": "Cley",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alistair Brammer",
+        "qid": "Q15442068",
+        "character": "Gold Cloak",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anna Francolini",
+        "qid": "Q4767012",
+        "character": "Lady Mallister",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Turlough Convery",
+        "qid": "Q68366702",
+        "character": "Walys Mooton",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gabriel Scott",
+        "qid": "Q123463804",
+        "character": "Jerrel Bracken",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Carter",
+        "qid": "Q6829143",
+        "character": "Jaehaerys I Targaryen",
+        "character_qid": "Q55583339",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alfie Todd",
+        "qid": "Q113503262",
+        "character": "Willem Blackwood",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Garry Cooper",
+        "qid": "Q5524113",
+        "character": "Ryam Redwyne",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Taylor",
+        "qid": "Q29841940",
+        "character": "Cregan Stark",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Edward Rowe",
+        "qid": "Q25685270",
+        "character": "Howland Sharp",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Leonard",
+        "qid": "Q48355132",
+        "character": "Beric Dondarrion",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joanna David",
+        "qid": "Q447160",
+        "character": "Joselyn Redwyne",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Simon Chandler",
+        "qid": "Q3484238",
+        "character": "Septon Eustace",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mikhail Sen",
+        "qid": "Q113754431",
+        "character": "Mickon",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rhys Parry Jones",
+        "qid": "Q7321828",
+        "character": "Master of Revels",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Thom Ashley",
+        "qid": "Q111182901",
+        "character": "Brett Lannister",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tripti Tripuraneni",
+        "qid": "Q124579223",
+        "character": "Helaena's Nurse",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Miriam Lucia",
+        "qid": "Q66091712",
+        "character": "Lady Fell",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Oscar Salem",
+        "qid": "Q123614024",
+        "character": "Addam",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rachel Redford",
+        "qid": "Q113648538",
+        "character": "Rhea Royce",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Clayton",
+        "qid": "Q16188936",
+        "character": "Lord Merryweather",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aron von Andrian",
+        "qid": "Q115614805",
+        "character": "Velaryon Knight (Bloodstone)",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Patrice Naiambana",
+        "qid": "Q84193340",
+        "character": "Dragonkeeper Elder",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Cann",
+        "qid": "Q5232133",
+        "character": "Dragonkeeper",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Matt Carver",
+        "qid": "Q106625302",
+        "character": "Laenor Velaryon",
+        "character_qid": "Q111648620",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Jarman",
+        "qid": "Q5106994",
+        "character": "Triarchy Lieutenant",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Norton",
+        "qid": "Q15990205",
+        "character": "Ormund Hightower",
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -1823,121 +2605,177 @@
         "role": "creator",
         "name": "Ira Parker",
         "qid": "Q135314090",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Owen Harris",
         "qid": "Q18030292",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "director",
         "name": "Sarah Adina Smith",
         "qid": "Q60399091",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Ira Parker",
         "qid": "Q135314090",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Owen Harris",
         "qid": "Q18030292",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Ryan Condal",
         "qid": "Q106720695",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Ira Parker",
         "qid": "Q135314090",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Dan Romer",
         "qid": "Q5214306",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Peter Claffey",
         "qid": "Q125372931",
-        "character": "Duncan the Tall"
+        "character": "Duncan the Tall",
+        "character_qid": "Q55552079",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Dexter Sol Ansell",
         "qid": "Q125372943",
-        "character": "Aegon V Targaryen"
+        "character": "Aegon V Targaryen",
+        "character_qid": "Q23749763",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Finn Bennett",
         "qid": "Q124455435",
-        "character": "Aerion Targaryen"
+        "character": "Aerion Targaryen",
+        "character_qid": "Q114094763",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Bertie Carvel",
         "qid": "Q14956941",
-        "character": "Baelor Targaryen"
+        "character": "Baelor Targaryen",
+        "character_qid": "Q114094615",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Daniel Ings",
         "qid": "Q5217576",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sam Spruell",
         "qid": "Q1433961",
-        "character": "Maekar I Targaryen"
+        "character": "Maekar I Targaryen",
+        "character_qid": "Q114151431",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Shaun Thomas",
         "qid": "Q138209126",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Tanzyn Crawford",
         "qid": "Q133850030",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Danny Webb",
         "qid": "Q3015315",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Henry Ashton",
         "qid": "Q127324654",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Monks",
+        "qid": "Q66459229",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Vaughan-Lawlor",
+        "qid": "Q16216818",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []
@@ -2370,181 +3208,1225 @@
         "role": "creator",
         "name": "D. B. Weiss",
         "qid": "Q1151388",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "creator",
         "name": "David Benioff",
         "qid": "Q503997",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "David Benioff",
         "qid": "Q503997",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "D. B. Weiss",
         "qid": "Q1151388",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Bryan Cogman",
         "qid": "Q4980025",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Jane Espenson",
         "qid": "Q289973",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Vanessa Taylor",
         "qid": "Q15710074",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "writer",
         "name": "Dave Hill",
         "qid": "Q19560737",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "David Benioff",
         "qid": "Q503997",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "D. B. Weiss",
         "qid": "Q1151388",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "producer",
         "name": "Mark Huffam",
         "qid": "Q22075526",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "David Benioff",
         "qid": "Q503997",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Carolyn Strauss",
         "qid": "Q5045474",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "David Nutter",
         "qid": "Q1279660",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Miguel Sapochnik",
         "qid": "Q6844804",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "D. B. Weiss",
         "qid": "Q1151388",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "George R. R. Martin",
         "qid": "Q181677",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "executive-producer",
         "name": "Bernadette Caulfield",
         "qid": "Q4892785",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "composer",
         "name": "Ramin Djawadi",
         "qid": "Q57577",
-        "character": null
+        "character": null,
+        "character_qid": null,
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sean Bean",
         "qid": "Q191104",
-        "character": "Eddard Stark"
+        "character": "Eddard Stark",
+        "character_qid": "Q259818",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Nikolaj Coster-Waldau",
         "qid": "Q445772",
-        "character": "Jaime Lannister"
+        "character": "Jaime Lannister",
+        "character_qid": "Q3806180",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Peter Dinklage",
         "qid": "Q310937",
-        "character": "Tyrion Lannister"
+        "character": "Tyrion Lannister",
+        "character_qid": "Q2076759",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Emilia Clarke",
         "qid": "Q235132",
-        "character": "Daenerys Targaryen"
+        "character": "Daenerys Targaryen",
+        "character_qid": "Q2708078",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Lena Headey",
         "qid": "Q228789",
-        "character": "Cersei Lannister"
+        "character": "Cersei Lannister",
+        "character_qid": "Q3665163",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Iain Glen",
         "qid": "Q371430",
-        "character": "Jorah Mormont"
+        "character": "Jorah Mormont",
+        "character_qid": "Q3810007",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Kit Harington",
         "qid": "Q357607",
-        "character": "Jon Snow"
+        "character": "Jon Snow",
+        "character_qid": "Q3183235",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Sophie Turner",
         "qid": "Q240573",
-        "character": "Sansa Stark"
+        "character": "Sansa Stark",
+        "character_qid": "Q3472490",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Maisie Williams",
         "qid": "Q234363",
-        "character": "Arya Stark"
+        "character": "Arya Stark",
+        "character_qid": "Q3624677",
+        "cameo": false
       },
       {
         "role": "cast",
         "name": "Isaac Hempstead-Wright",
         "qid": "Q967656",
-        "character": "Bran Stark"
+        "character": "Bran Stark",
+        "character_qid": "Q3643599",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Natalie Dormer",
+        "qid": "Q236839",
+        "character": "Margaery Tyrell",
+        "character_qid": "Q12900933",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Iwan Rheon",
+        "qid": "Q1148937",
+        "character": "Ramsay Bolton",
+        "character_qid": "Q19796006",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dean-Charles Chapman",
+        "qid": "Q16713577",
+        "character": "Tommen Baratheon",
+        "character_qid": "Q19792294",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aidan Gillen",
+        "qid": "Q358032",
+        "character": "Petyr Baelish",
+        "character_qid": "Q4360302",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Harry Lloyd",
+        "qid": "Q380178",
+        "character": "Viserys Targaryen",
+        "character_qid": "Q12902594",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Addy",
+        "qid": "Q342430",
+        "character": "Robert Baratheon",
+        "character_qid": "Q13634885",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Bradley",
+        "qid": "Q549101",
+        "character": "Samwell Tarly",
+        "character_qid": "Q11703515",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Conan Stevens",
+        "qid": "Q1530432",
+        "character": "Gregor Clegane",
+        "character_qid": "Q26899515",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ellie Kendrick",
+        "qid": "Q2514417",
+        "character": "Meera Reed",
+        "character_qid": "Q26944965",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sibel Kekilli",
+        "qid": "Q63682",
+        "character": "Shae",
+        "character_qid": "Q12902104",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joel Fry",
+        "qid": "Q16208371",
+        "character": "Hizdahr zo Loraq",
+        "character_qid": "Q24285726",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aimee Richardson",
+        "qid": "Q15069985",
+        "character": "Myrcella Baratheon",
+        "character_qid": "Q19799435",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gemma Whelan",
+        "qid": "Q1501158",
+        "character": "Asha Greyjoy",
+        "character_qid": "Q19799441",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Conleth Hill",
+        "qid": "Q1126128",
+        "character": "Varys",
+        "character_qid": "Q4008842",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jacob Anderson",
+        "qid": "Q1677416",
+        "character": "Grey Worm",
+        "character_qid": "Q26944967",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Dillane",
+        "qid": "Q707538",
+        "character": "Stannis Baratheon",
+        "character_qid": "Q12056060",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jerome Flynn",
+        "qid": "Q1687736",
+        "character": "Bronn",
+        "character_qid": "Q12899075",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joe Dempsie",
+        "qid": "Q503114",
+        "character": "Gendry",
+        "character_qid": "Q26944959",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rory McCann",
+        "qid": "Q971177",
+        "character": "Sandor Clegane",
+        "character_qid": "Q3948140",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Whyte",
+        "qid": "Q1655682",
+        "character": "White Walker / Gregor Clegane",
+        "character_qid": "Q23807848",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Carice van Houten",
+        "qid": "Q232384",
+        "character": "Melisandre",
+        "character_qid": "Q6009607",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alfie Allen",
+        "qid": "Q552026",
+        "character": "Theon Greyjoy",
+        "character_qid": "Q1120793",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ciarán Hinds",
+        "qid": "Q314892",
+        "character": "Mance Rayder",
+        "character_qid": "Q5991029",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gwendoline Christie",
+        "qid": "Q440353",
+        "character": "Brienne of Tarth",
+        "character_qid": "Q11680307",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Richard Madden",
+        "qid": "Q510848",
+        "character": "Robb Stark",
+        "character_qid": "Q13634884",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rose Leslie",
+        "qid": "Q461132",
+        "character": "Ygritte",
+        "character_qid": "Q12902673",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kerry Ingram",
+        "qid": "Q6394546",
+        "character": "Shireen Baratheon",
+        "character_qid": "Q23747242",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Liam Cunningham",
+        "qid": "Q460572",
+        "character": "Davos Seaworth",
+        "character_qid": "Q5800500",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jason Momoa",
+        "qid": "Q315271",
+        "character": "Khal Drogo",
+        "character_qid": "Q5959381",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Fairley",
+        "qid": "Q262898",
+        "character": "Catelyn Stark",
+        "character_qid": "Q2941743",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Clive Russell",
+        "qid": "Q1102002",
+        "character": "Brynden Tully",
+        "character_qid": "Q23782360",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Bradley",
+        "qid": "Q320073",
+        "character": "Walder Frey",
+        "character_qid": "Q23782368",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hafþór Júlíus Björnsson",
+        "qid": "Q5638484",
+        "character": "Gregor Clegane",
+        "character_qid": "Q26899515",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jessica Henwick",
+        "qid": "Q6187270",
+        "character": "Nymeria Sand",
+        "character_qid": "Q55433555",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kristofer Hivju",
+        "qid": "Q6438398",
+        "character": "Tormund Giantsbane",
+        "character_qid": "Q24944284",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jack Gleeson",
+        "qid": "Q777260",
+        "character": "Joffrey Baratheon",
+        "character_qid": "Q12900597",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Charles Dance",
+        "qid": "Q309690",
+        "character": "Tywin Lannister",
+        "character_qid": "Q12902445",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Cosmo",
+        "qid": "Q733122",
+        "character": "Jeor Mormont",
+        "character_qid": "Q12900593",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Wlaschiha",
+        "qid": "Q22675",
+        "character": "Jaqen H'ghar",
+        "character_qid": "Q9010830",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Oona Castilla Chaplin",
+        "qid": "Q459348",
+        "character": "Talisa Stark",
+        "character_qid": "Q22253513",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hannah Murray",
+        "qid": "Q231086",
+        "character": "Gilly",
+        "character_qid": "Q28451311",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael McElhatton",
+        "qid": "Q6832667",
+        "character": "Roose Bolton",
+        "character_qid": "Q19799430",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michiel Huisman",
+        "qid": "Q2262485",
+        "character": "Daario Naharis",
+        "character_qid": "Q22254472",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nathalie Emmanuel",
+        "qid": "Q6968794",
+        "character": "Missandei",
+        "character_qid": "Q24951568",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Indira Varma",
+        "qid": "Q463585",
+        "character": "Ellaria Sand",
+        "character_qid": "Q24933002",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Pryce",
+        "qid": "Q312702",
+        "character": "The High Sparrow",
+        "character_qid": "Q27031110",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ed Skrein",
+        "qid": "Q5335413",
+        "character": "Daario Naharis",
+        "character_qid": "Q22254472",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nell Tiger Free",
+        "qid": "Q17466021",
+        "character": "Myrcella Baratheon",
+        "character_qid": "Q19799435",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Callum Wharry",
+        "qid": "Q15069990",
+        "character": "Tommen Baratheon",
+        "character_qid": "Q19792294",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Toby Sebastian",
+        "qid": "Q19650504",
+        "character": "Trystane Martell",
+        "character_qid": "Q55433629",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dominic Carter",
+        "qid": "Q18385091",
+        "character": "Janos Slynt",
+        "character_qid": "Q17355556",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Art Parkinson",
+        "qid": "Q15069989",
+        "character": "Rickon Stark",
+        "character_qid": "Q12815803",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Enzo Cilenti",
+        "qid": "Q3726488",
+        "character": "Yezzan zo Qaggaz",
+        "character_qid": "Q66309855",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Donald Sumpter",
+        "qid": "Q3713649",
+        "character": "Maester Luwin",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Finn Jones",
+        "qid": "Q368090",
+        "character": "Loras Tyrell",
+        "character_qid": "Q18920137",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Owen Teale",
+        "qid": "Q361536",
+        "character": "Alliser Thorne",
+        "character_qid": "Q55442011",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Brodie-Sangster",
+        "qid": "Q312531",
+        "character": "Jojen Reed",
+        "character_qid": "Q55433701",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alexander Siddig",
+        "qid": "Q311165",
+        "character": "Doran Martell",
+        "character_qid": "Q28468107",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kristian Nairn",
+        "qid": "Q3817038",
+        "character": "Hodor",
+        "character_qid": "Q55237547",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Patrick Malahide",
+        "qid": "Q377072",
+        "character": "Balon Greyjoy",
+        "character_qid": "Q23746101",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Keisha Castle-Hughes",
+        "qid": "Q466150",
+        "character": "Obara Sand",
+        "character_qid": "Q55441953",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Esmé Bianco",
+        "qid": "Q440013",
+        "character": "Ros",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rosabell Laurenti Sellers",
+        "qid": "Q3941283",
+        "character": "Tyene Sand",
+        "character_qid": "Q55441912",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wilko Johnson",
+        "qid": "Q2944958",
+        "character": "Ilyn Payne",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Gatt",
+        "qid": "Q13479530",
+        "character": "Thenn Warg",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Gethin Anthony",
+        "qid": "Q1519956",
+        "character": "Renly Baratheon",
+        "character_qid": "Q18920105",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "J. J. Murphy",
+        "qid": "Q16873133",
+        "character": "Denys Mallister",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Pedro Pascal",
+        "qid": "Q14752155",
+        "character": "Oberyn Martell",
+        "character_qid": "Q19359499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Eugene Simon",
+        "qid": "Q178046",
+        "character": "Lancel Lannister",
+        "character_qid": "Q23765105",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Rupert Vansittart",
+        "qid": "Q1964106",
+        "character": "Yohn Royce",
+        "character_qid": "Q55433787",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kate Dickie",
+        "qid": "Q212351",
+        "character": "Lysa Arryn",
+        "character_qid": "Q19791067",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Natalia Tena",
+        "qid": "Q232163",
+        "character": "Osha",
+        "character_qid": "Q55433838",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Diana Rigg",
+        "qid": "Q232876",
+        "character": "Olenna Tyrell",
+        "character_qid": "Q23748587",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ron Donachie",
+        "qid": "Q2165440",
+        "character": "Rodrik Cassel",
+        "character_qid": "Q55441824",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "DeObia Oparei",
+        "qid": "Q2686633",
+        "character": "Areo Hotah",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ben Crompton",
+        "qid": "Q4885474",
+        "character": "Eddison Tollett",
+        "character_qid": "Q55433876",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nonso Anozie",
+        "qid": "Q264751",
+        "character": "Xaro Xhoan Daxos",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Burn Gorman",
+        "qid": "Q981821",
+        "character": "Karl Tanner",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Julian Glover",
+        "qid": "Q499644",
+        "character": "Grand Maester Pycelle",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Portman",
+        "qid": "Q5218475",
+        "character": "Podrick Payne",
+        "character_qid": "Q22253833",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Mawle",
+        "qid": "Q1329519",
+        "character": "Benjen Stark",
+        "character_qid": "Q23759067",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elyes Gabel",
+        "qid": "Q5368467",
+        "character": "Rakharo",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McElhinney",
+        "qid": "Q5982285",
+        "character": "Barristan Selmy",
+        "character_qid": "Q5721186",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Gatiss",
+        "qid": "Q560286",
+        "character": "Tycho Nestoris",
+        "character_qid": "Q55441721",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lino Facioli",
+        "qid": "Q6554671",
+        "character": "Robert Arryn",
+        "character_qid": "Q23749057",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Roger Ashton-Griffiths",
+        "qid": "Q740202",
+        "character": "Mace Tyrell",
+        "character_qid": "Q23746151",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hoji Fortuna",
+        "qid": "Q10297782",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paola Dionisotti",
+        "qid": "Q7132082",
+        "character": "Anya Waynwood",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Vaughan",
+        "qid": "Q930691",
+        "character": "Aemon Targaryen",
+        "character_qid": "Q24814689",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Wilf Scolding",
+        "qid": "Q42685525",
+        "character": "Rhaegar Targaryen",
+        "character_qid": "Q20818052",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Rintoul",
+        "qid": "Q519488",
+        "character": "Aerys II Targaryen",
+        "character_qid": "Q18920152",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Gelder",
+        "qid": "Q1418319",
+        "character": "Kevan Lannister",
+        "character_qid": "Q23758900",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anton Lesser",
+        "qid": "Q591515",
+        "character": "Qyburn",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bella Ramsey",
+        "qid": "Q24891605",
+        "character": "Lyanna Mormont",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aisling Franciosi",
+        "qid": "Q21208049",
+        "character": "Lyanna Stark",
+        "character_qid": "Q23759071",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Max von Sydow",
+        "qid": "Q203215",
+        "character": "Brynden Rivers",
+        "character_qid": "Q55409490",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Brooke",
+        "qid": "Q16201839",
+        "character": "Lothar Frey",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Tuite",
+        "qid": "Q27898522",
+        "character": "Lothar Frey",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alexandra Dowling",
+        "qid": "Q16233528",
+        "character": "Roslin Tully",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tobias Menzies",
+        "qid": "Q1852090",
+        "character": "Edmure Tully",
+        "character_qid": "Q23749012",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kae Alexander",
+        "qid": "Q58749711",
+        "character": "Leaf",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Newman",
+        "qid": "Q1086864",
+        "character": "Hoster Tully",
+        "character_qid": "Q23730371",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tara Fitzgerald",
+        "qid": "Q272174",
+        "character": "Selyse Baratheon",
+        "character_qid": "Q23747220",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Francis Magee",
+        "qid": "Q826043",
+        "character": "Yoren",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Yuri Kolokolnikov",
+        "qid": "Q4228271",
+        "character": "Styr",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mackenzie Crook",
+        "qid": "Q447614",
+        "character": "Orell",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brenock O'Connor",
+        "qid": "Q19650458",
+        "character": "Olly",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Luke Roberts",
+        "qid": "Q4354675",
+        "character": "Arthur Dayne",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Pilou Asbæk",
+        "qid": "Q117906",
+        "character": "Euron Greyjoy",
+        "character_qid": "Q38137598",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tom Hopper",
+        "qid": "Q1190081",
+        "character": "Dickon Tarly",
+        "character_qid": "Q23760191",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Faulkner",
+        "qid": "Q1343000",
+        "character": "Randyll Tarly",
+        "character_qid": "Q23760171",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Freddie Stroma",
+        "qid": "Q1320512",
+        "character": "Dickon Tarly",
+        "character_qid": "Q23760191",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert Pugh",
+        "qid": "Q953257",
+        "character": "Craster",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brian Fortune",
+        "qid": "Q19829668",
+        "character": "Othell Yarwyck",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Condron",
+        "qid": "Q18763973",
+        "character": "Bowen Marsh",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Blowers",
+        "qid": "Q7440827",
+        "character": "Wyman Manderly",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tim Plester",
+        "qid": "Q7804116",
+        "character": "Walder Rivers",
+        "character_qid": "Q96201256",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Richard Dormer",
+        "qid": "Q7325246",
+        "character": "Beric Dondarrion",
+        "character_qid": "Q11680202",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Kaye",
+        "qid": "Q3371571",
+        "character": "Thoros",
+        "character_qid": "Q55474148",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Philip McGinley",
+        "qid": "Q7184058",
+        "character": "Anguy",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ben Hawkey",
+        "qid": "Q17180643",
+        "character": "Hot Pie",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jóhannes Haukur Jóhannesson",
+        "qid": "Q19788544",
+        "character": "Lem Lemoncloak",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McShane",
+        "qid": "Q234141",
+        "character": "Brother Ray",
+        "character_qid": null,
+        "cameo": false
       }
     ],
     "constituents": []

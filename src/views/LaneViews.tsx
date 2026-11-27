@@ -89,6 +89,55 @@ export function TagsView({ rows, allScoped }: { rows: Row[]; allScoped: Row[] })
   );
 }
 
+type LaneBranch = ReturnType<typeof continuityLanes>[number]['branches'][number];
+const when = (d: { y: number; m?: number } | null | undefined) => (d ? `${d.m ? new Date(2000, d.m - 1).toLocaleString('en-US', { month: 'short' }) + ' ' : ''}${d.y}` : '');
+
+/** Schematic of how branches relate: branches that merge converge into their target; branches with a parent
+ *  split off from it. Drawn only when a continuity has merges or splits. Text below says the same in words. */
+function BranchMap({ branches }: { branches: LaneBranch[] }) {
+  const merging = branches.filter((b) => b.merges_into && branches.some((t) => t.id === b.merges_into!.branch));
+  const splitting = branches.filter((b) => b.parent && branches.some((t) => t.id === b.parent));
+  if (!merging.length && !splitting.length) return null;
+  const order = branches.map((b) => b.id);
+  const rowH = 26, W = 640, mid = 360, H = order.length * rowH + 8;
+  const y = (id: string) => 14 + order.indexOf(id) * rowH;
+  const targets = new Set(merging.map((b) => b.merges_into!.branch));
+  const color = (b: LaneBranch) => (b.placeable ? 'var(--u-secondary)' : 'var(--marker-unplaced)');
+  const desc = [
+    ...[...targets].map((t) => {
+      const from = merging.filter((b) => b.merges_into!.branch === t);
+      const tb = branches.find((b) => b.id === t)!;
+      return `${from.map((b) => b.label).join(', ')} merge into ${tb.label}${from[0]!.merges_into!.at ? ` (${when(from[0]!.merges_into!.at)})` : ''}${from[0]!.merges_into!.note ? `: ${from[0]!.merges_into!.note}` : ''}.`;
+    }),
+    ...splitting.map((b) => `${b.label} splits off from ${branches.find((x) => x.id === b.parent)!.label}${b.diverges_at ? ` (${when(b.diverges_at)})` : ''}.`),
+  ];
+  return (
+    <figure className="mb-3 rounded-md border border-dashed border-border p-2">
+      <figcaption className="mb-1 text-sm font-semibold">How the branches connect</figcaption>
+      <div className="overflow-x-auto">
+        <svg viewBox={`0 0 ${W} ${H}`} className="h-auto w-full min-w-[480px]" role="img" aria-label={desc.join(' ')}>
+          {branches.map((b) => {
+            const yy = y(b.id);
+            const m = b.merges_into && targets.has(b.merges_into.branch) ? b.merges_into : null;
+            const startsMid = targets.has(b.id) || splitting.includes(b);
+            const x0 = startsMid ? mid : 150, x1 = m ? mid : W - 10;
+            return (
+              <g key={b.id}>
+                <text x={4} y={yy + 4} className="fill-current text-[11px]">{b.label}</text>
+                <line x1={x0} y1={yy} x2={x1 - (m ? 30 : 0)} y2={yy} stroke={color(b)} strokeWidth={3} strokeDasharray={b.placeable ? undefined : '4 4'} />
+                {m && <path d={`M ${x1 - 30} ${yy} C ${x1 - 10} ${yy}, ${x1 - 10} ${y(m.branch)}, ${x1 + 6} ${y(m.branch)}`} fill="none" stroke={color(b)} strokeWidth={3} />}
+                {b.parent && splitting.includes(b) && <path d={`M ${mid - 30} ${y(b.parent)} C ${mid - 10} ${y(b.parent)}, ${mid - 10} ${yy}, ${mid} ${yy}`} fill="none" stroke={color(b)} strokeWidth={3} />}
+              </g>
+            );
+          })}
+          <line x1={mid} y1={2} x2={mid} y2={H - 2} stroke="currentColor" strokeOpacity={0.25} strokeDasharray="2 3" />
+        </svg>
+      </div>
+      <ul className="mt-1 space-y-0.5 text-xs text-muted-foreground">{desc.map((d) => <li key={d}>{d}</li>)}</ul>
+    </figure>
+  );
+}
+
 export function ContinuitiesView({ rows }: { rows: Row[] }) {
   const { ds, update } = useApp();
   const lanes = continuityLanes(rows, ds);
@@ -103,9 +152,12 @@ export function ContinuitiesView({ rows }: { rows: Row[] }) {
             <span className="text-sm text-muted-foreground">{l.count} entries · released {l.first}–{l.last}</span>
             <button type="button" className="text-sm underline" onClick={() => update({ view: 'spine', c: l.id }, true)}>Open in-universe timeline →</button>
           </div>
+          <BranchMap branches={l.branches} />
           <div className="grid gap-3 md:grid-cols-2">
             {l.branches.map((b) => (
-              <div key={b.id} className={b.placeable ? '' : 'rounded-md border border-dashed border-border p-2'}>
+              // Every branch box gets a dashed border so each scrollable list is visibly its own area (user request);
+              // non-placeable branches are also tinted.
+              <div key={b.id} className={`rounded-md border border-dashed border-border p-2 ${b.placeable ? '' : 'bg-muted/40'}`}>
                 <h3 className="mb-1 flex items-center gap-2 text-sm font-semibold">
                   <Marker shape={b.marker} color={b.placeable ? (l.branches[0]?.id === b.id ? 'var(--marker-main)' : 'var(--marker-variant)') : 'var(--marker-unplaced)'} />
                   {b.label}{!b.placeable && <span className="font-normal text-muted-foreground"> (non-placeable)</span>}

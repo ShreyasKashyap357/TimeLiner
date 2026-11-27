@@ -23,7 +23,123 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.slashfilm.com/1527197/correct-order-to-watch-monsterverse-franchise",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order.",
+        "unit_ids": [
+          "godzilla-2014",
+          "monarch-legacy-of-monsters-s1",
+          "kong-skull-island",
+          "godzilla-king-of-the-monsters",
+          "godzilla-vs-kong",
+          "skull-island-series-s1",
+          "godzilla-x-kong-the-new-empire",
+          "monarch-legacy-of-monsters-s2"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "skull-island-series-s1",
+          "monarch-legacy-of-monsters-s2"
+        ],
+        "sources": [
+          {
+            "url": "https://www.slashfilm.com/1527197/correct-order-to-watch-monsterverse-franchise",
+            "title": "The Correct Order To Watch The MonsterVerse Franchise",
+            "date": "2024-03-04"
+          },
+          {
+            "url": "https://www.looper.com/1699029/monsterverse-movies-in-order-best-way-to-watch",
+            "title": "The Best Way To Watch The MonsterVerse Movies In Order",
+            "date": "2024-10-29"
+          },
+          {
+            "url": "https://www.thepopverse.com/monsterverse-godzilla-king-kong-movies-movie-tv-show-watch-how-to-where-monarch-legacy-of-monsters",
+            "title": "MonsterVerse watch order: How to watch all Legendary's Godzilla and Kong movies in release and chronological order",
+            "date": "2026-03-18"
+          },
+          {
+            "url": "https://guides.justwatch.com/us/watch-monsterverse-movies-in-order",
+            "title": "How To Watch The MonsterVerse In Order: Release vs Chronological — updated",
+            "date": "2026-05-05"
+          },
+          {
+            "url": "https://www.thewrap.com/monsterverse-movies-in-order/",
+            "title": "How to Watch the MonsterVerse Movies in Order",
+            "date": "2024-03-29"
+          },
+          {
+            "url": "https://comicbook.com/tv-shows/list/the-complete-monsterverse-timeline-explained-ahead-of-monarch-season-2/",
+            "title": "The Complete Monsterverse Timeline Explained Ahead of Monarch Season 2",
+            "date": "2026-02-21"
+          }
+        ],
+        "criteria": "Only one source (0) gives a newcomer-specific, selective list, so the general ≥2-selective rule would mark nothing essential. Franchise rule used instead: essential = in source 0 newcomer list AND listed by at least one other source AND not described by any source as skippable or disconnected; optional otherwise. supported_by = sources whose lists include the unit.",
+        "unit_sources": {
+          "godzilla-2014": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "monarch-legacy-of-monsters-s1": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "kong-skull-island": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "godzilla-king-of-the-monsters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "godzilla-vs-kong": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "skull-island-series-s1": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "godzilla-x-kong-the-new-empire": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "monarch-legacy-of-monsters-s2": [
+            5
+          ]
+        }
+      }
+    ],
     "description": "Legendary's shared universe: \"five films and two television series\" (plus announced titles).",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Monsterverse"

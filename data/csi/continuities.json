@@ -1,0 +1,33 @@
+[
+  {
+    "id": "csi-main",
+    "universe": "csi",
+    "name": "CSI (shared universe)",
+    "short_name": "CSI",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "CSI with its spin-offs and revival, handed on via crossover pilots. Wikipedia: \"Between the series the baton is passed to the new CSI series via a crossover/pilot where cases are overlapped and personnel are shared.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=CSI_%28franchise%29&oldid=1386814174"
+    ],
+    "notes": ""
+  }
+]

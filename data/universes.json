@@ -866,5 +866,69 @@
     "data_dir": "lego",
     "description": "The Lego Movie franchise and LEGO's own worlds: Ninjago, Bionicle, Chima, Nexo Knights, Monkie Kid, Dreamzzz, Friends and more, plus LEGO's own games. LEGO versions of other franchises live in those universes.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "law-and-order",
+    "name": "Law & Order",
+    "short_name": "Law & Order",
+    "order": 24,
+    "enabled": true,
+    "accent": {
+      "primary": "#2E5C8A",
+      "secondary": "#C9A227"
+    },
+    "default_continuity": "law-and-order-main",
+    "grouping_schemes": [],
+    "data_dir": "law-and-order",
+    "description": "Dick Wolf's Law & Order franchise: the US series and Exiled in one shared continuity, the international adaptations separately.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "ncis",
+    "name": "NCIS",
+    "short_name": "NCIS",
+    "order": 25,
+    "enabled": true,
+    "accent": {
+      "primary": "#1F3A93",
+      "secondary": "#D4AF37"
+    },
+    "default_continuity": "ncis-main",
+    "grouping_schemes": [],
+    "data_dir": "ncis",
+    "description": "JAG, NCIS and its spin-offs in one shared continuity (NCIS began as a JAG backdoor pilot).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "csi",
+    "name": "CSI",
+    "short_name": "CSI",
+    "order": 26,
+    "enabled": true,
+    "accent": {
+      "primary": "#00A3A3",
+      "secondary": "#B0BEC5"
+    },
+    "default_continuity": "csi-main",
+    "grouping_schemes": [],
+    "data_dir": "csi",
+    "description": "CSI and its spin-offs (Miami, NY, Cyber, Vegas) in one shared continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "one-chicago",
+    "name": "One Chicago",
+    "short_name": "One Chicago",
+    "order": 27,
+    "enabled": true,
+    "accent": {
+      "primary": "#C62828",
+      "secondary": "#1565C0"
+    },
+    "default_continuity": "one-chicago-main",
+    "grouping_schemes": [],
+    "data_dir": "one-chicago",
+    "description": "Chicago Fire, P.D., Med and Justice: one shared continuity with regular crossovers.",
+    "last_verified": "2026-11-27"
   }
 ]

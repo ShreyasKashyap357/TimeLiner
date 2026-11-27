@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "chicago-fire",
+    "title": "Chicago Fire",
+    "sort_title": null,
+    "type": "series",
+    "universe": "one-chicago",
+    "continuity": "one-chicago-main",
+    "studio_brand": "wolf-entertainment",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Chicago Fire (TV series)",
+      "wikidata": "Q1187416",
+      "tmdb": "44006",
+      "imdb": "tt2261391"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "chicago-fire-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-10-10",
+          "end_date": "2013-05-22",
+          "year": 2012,
+          "note": "Wikipedia: | episodes1 = 24 | start1 = {{#invoke:Date time|generate_date|2012|10|10}} | end1 = {{#invoke:Date time|generate_date|template=end date|2013|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-09-24",
+          "end_date": "2014-05-13",
+          "year": 2013,
+          "note": "Wikipedia: | episodes2 = 22 | start2 = {{#invoke:Date time|generate_date|2013|9|24}} | end2 = {{#invoke:Date time|generate_date|template=end date|2014|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-23",
+          "end_date": "2015-05-12",
+          "year": 2014,
+          "note": "Wikipedia: | episodes3 = 23 | start3 = {{#invoke:Date time|generate_date|2014|9|23}} | end3 = {{#invoke:Date time|generate_date|template=end date|2015|5|12}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-10-13",
+          "end_date": "2016-05-17",
+          "year": 2015,
+          "note": "Wikipedia: | episodes4 = 23 | start4 = {{#invoke:Date time|generate_date|2015|10|13}} | end4 = {{#invoke:Date time|generate_date|template=end date|2016|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-10-11",
+          "end_date": "2017-05-16",
+          "year": 2016,
+          "note": "Wikipedia: | episodes5 = 22 | start5 = {{#invoke:Date time|generate_date|2016|10|11}} | end5 = {{#invoke:Date time|generate_date|template=end date|2017|5|16}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-09-28",
+          "end_date": "2018-05-10",
+          "year": 2017,
+          "note": "Wikipedia: | episodes6 = 23 | start6 = {{#invoke:Date time|generate_date|2017|9|28}} | end6 = {{#invoke:Date time|generate_date|template=end date|2018|5|10}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-26",
+          "end_date": "2019-05-22",
+          "year": 2018,
+          "note": "Wikipedia: | episodes7 = 22 | start7 = {{#invoke:Date time|generate_date|2018|9|26}} | end7 = {{#invoke:Date time|generate_date|template=end date|2019|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-25",
+          "end_date": "2020-04-15",
+          "year": 2019,
+          "note": "Wikipedia: | episodes8 = 20 | start8 = {{#invoke:Date time|generate_date|2019|9|25}} | end8 = {{#invoke:Date time|generate_date|template=end date|2020|4|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-11",
+          "end_date": "2021-05-26",
+          "year": 2020,
+          "note": "Wikipedia: | episodes9 = 16 | start9 = {{#invoke:Date time|generate_date|2020|11|11}} | end9 = {{#invoke:Date time|generate_date|template=end date|2021|5|26}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 250,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-22",
+          "end_date": "2022-05-25",
+          "year": 2021,
+          "note": "Wikipedia: | episodes10 = 22 | start10 = {{#invoke:Date time|generate_date|2021|9|22}} | end10 = {{#invoke:Date time|generate_date|template=end date|2022|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s11",
+        "label": "Season 11",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 280,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-21",
+          "end_date": "2023-05-24",
+          "year": 2022,
+          "note": "Wikipedia: | episodes11 = 22 | start11 = {{#invoke:Date time|generate_date|2022|9|21}} | end11 = {{#invoke:Date time|generate_date|template=end date|2023|5|24}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s12",
+        "label": "Season 12",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 310,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-01-17",
+          "end_date": "2024-05-22",
+          "year": 2024,
+          "note": "Wikipedia: | episodes12 = 13 | start12 = {{#invoke:Date time|generate_date|2024|1|17}} | end12 = {{#invoke:Date time|generate_date|template=end date|2024|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s13",
+        "label": "Season 13",
+        "season": 13,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 12",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 340,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-09-25",
+          "end_date": "2025-05-21",
+          "year": 2024,
+          "note": "Wikipedia: | episodes13 = 22 | start13 = {{#invoke:Date time|generate_date|2024|9|25}} | end13 = {{#invoke:Date time|generate_date|template=end date|2025|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "13"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s14",
+        "label": "Season 14",
+        "season": 14,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 13",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 370,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-01",
+          "end_date": "2026-05-13",
+          "year": 2025,
+          "note": "Wikipedia: | episodes14 = 21 | start14 = {{#invoke:Date time|generate_date|2025|10|1}} | end14 = {{#invoke:Date time|generate_date|2026|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "14"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-fire-s15",
+        "label": "Season 15",
+        "season": 15,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 14",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-07",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | episodes15 = 21 | start15 = {{#invoke:Date time|generate_date|2026|10|7}} | end15 = "
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "15"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Fire_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Fire_%28TV_series%29&oldid=1387379437"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "chicago-pd",
+    "title": "Chicago P.D.",
+    "sort_title": null,
+    "type": "series",
+    "universe": "one-chicago",
+    "continuity": "one-chicago-main",
+    "studio_brand": "wolf-entertainment",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Chicago P.D. (TV series)",
+      "wikidata": "Q13218686",
+      "tmdb": "58841",
+      "imdb": "tt2805096"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "chicago-pd-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 15,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-01-08",
+          "end_date": "2014-05-21",
+          "year": 2014,
+          "note": "Wikipedia: | episodes1 = 15 | start1 = {{Start date|2014|1|8}} | end1 = {{End date|2014|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-24",
+          "end_date": "2015-05-20",
+          "year": 2014,
+          "note": "Wikipedia: | episodes2 = 23 | start2 = {{Start date|2014|9|24}} | end2 = {{End date|2015|5|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-30",
+          "end_date": "2016-05-25",
+          "year": 2015,
+          "note": "Wikipedia: | episodes3 = 23 | start3 = {{Start date|2015|9|30}} | end3 = {{End date|2016|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-09-21",
+          "end_date": "2017-05-17",
+          "year": 2016,
+          "note": "Wikipedia: | episodes4 = 23 | start4 = {{Start date|2016|9|21}} | end4 = {{End date|2017|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-09-27",
+          "end_date": "2018-05-09",
+          "year": 2017,
+          "note": "Wikipedia: | episodes5 = 22 | start5 = {{Start date|2017|9|27}} | end5 = {{End date|2018|5|9}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-26",
+          "end_date": "2019-05-22",
+          "year": 2018,
+          "note": "Wikipedia: | episodes6 = 22 | start6 = {{Start date|2018|9|26}} | end6 = {{End date|2019|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-25",
+          "end_date": "2020-04-15",
+          "year": 2019,
+          "note": "Wikipedia: | episodes7 = 20 | start7 = {{Start date|2019|9|25}} | end7 = {{End date|2020|4|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-11",
+          "end_date": "2021-05-26",
+          "year": 2020,
+          "note": "Wikipedia: | episodes8 = 16 | start8 = {{Start date|2020|11|11}} | end8 = {{End date|2021|5|26}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 260,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-22",
+          "end_date": "2022-05-25",
+          "year": 2021,
+          "note": "Wikipedia: | episodes9 = 22 | start9 = {{Start date|2021|9|22}} | end9 = {{End date|2022|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 290,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-21",
+          "end_date": "2023-05-24",
+          "year": 2022,
+          "note": "Wikipedia: | episodes10 = 22 | start10 = {{Start date|2022|9|21}} | end10 = {{End date|2023|5|24}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s11",
+        "label": "Season 11",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 320,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-01-17",
+          "end_date": "2024-05-22",
+          "year": 2024,
+          "note": "Wikipedia: | episodes11 = 13 | start11 = {{Start date|2024|1|17}} | end11 = {{End date|2024|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s12",
+        "label": "Season 12",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 350,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-09-25",
+          "end_date": "2025-05-21",
+          "year": 2024,
+          "note": "Wikipedia: | episodes12 = 22 | start12 = {{Start date|2024|9|25}} | end12 = {{End date|2025|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s13",
+        "label": "Season 13",
+        "season": 13,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 12",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-01",
+          "end_date": "2026-05-13",
+          "year": 2025,
+          "note": "Wikipedia: | episodes13 = 21 | start13 = {{Start date|2025|10|1}} | end13 = {{End date|2026|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "13"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-pd-s14",
+        "label": "Season 14",
+        "season": 14,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 13",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 410,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-07",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | episodes14 = 21 | start14 = {{Start date|2026|10|7}} | end14 = "
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "14"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_P.D._(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_P.D._%28TV_series%29&oldid=1387995579"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "chicago-fire",
+        "kind": "spinoff",
+        "note": "\"A spin-off of Chicago Fire\". Backdoor pilot in Chicago Fire season 1, released May 15, 2013 (series overview 0S). The P.D. article names it \"Let Her Go\", marked {{citation needed}}."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "chicago-med",
+    "title": "Chicago Med",
+    "sort_title": null,
+    "type": "series",
+    "universe": "one-chicago",
+    "continuity": "one-chicago-main",
+    "studio_brand": "wolf-entertainment",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Chicago Med",
+      "wikidata": "Q19848860",
+      "tmdb": "62650",
+      "imdb": "tt4655480"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicago_Med",
+      "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "chicago-med-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-11-17",
+          "end_date": "2016-05-17",
+          "year": 2015,
+          "note": "Wikipedia: | episodes1 = 18 | start1 = {{Start date|2015|11|17}} | end1 = {{End date|2016|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-09-22",
+          "end_date": "2017-05-11",
+          "year": 2016,
+          "note": "Wikipedia: | episodes2 = 23 | start2 = {{Start date|2016|9|22}} | end2 = {{End date|2017|5|11}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-11-21",
+          "end_date": "2018-05-15",
+          "year": 2017,
+          "note": "Wikipedia: | episodes3 = 20 | start3 = {{Start date|2017|11|21}} | end3 = {{End date|2018|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-26",
+          "end_date": "2019-05-22",
+          "year": 2018,
+          "note": "Wikipedia: | episodes4 = 22 | start4 = {{Start date|2018|9|26}} | end4 = {{End date|2019|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-25",
+          "end_date": "2020-04-15",
+          "year": 2019,
+          "note": "Wikipedia: | episodes5 = 20 | start5 = {{Start date|2019|9|25}} | end5 = {{End date|2020|4|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-11",
+          "end_date": "2021-05-26",
+          "year": 2020,
+          "note": "Wikipedia: | episodes6 = 16 | start6 = {{Start date|2020|11|11}} | end6 = {{End date|2021|5|26}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 270,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-22",
+          "end_date": "2022-05-25",
+          "year": 2021,
+          "note": "Wikipedia: | episodes7 = 22 | start7 = {{Start date|2021|9|22}} | end7 = {{End date|2022|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 300,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-21",
+          "end_date": "2023-05-24",
+          "year": 2022,
+          "note": "Wikipedia: | episodes8 = 22 | start8 = {{Start date|2022|9|21}} | end8 = {{End date|2023|5|24}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 330,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-01-17",
+          "end_date": "2024-05-22",
+          "year": 2024,
+          "note": "Wikipedia: | episodes9 = 13 | start9 = {{Start date|2024|1|17}} | end9 = {{End date|2024|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 360,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-09-25",
+          "end_date": "2025-05-21",
+          "year": 2024,
+          "note": "Wikipedia: | episodes10 = 22 | start10 = {{Start date|2024|9|25}} | end10 = {{End date|2025|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s11",
+        "label": "Season 11",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-01",
+          "end_date": "2026-05-13",
+          "year": 2025,
+          "note": "Wikipedia: | episodes11 = 21 | start11 = {{Start date|2025|10|1}} | end11 = {{End date|2026|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "chicago-med-s12",
+        "label": "Season 12",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 420,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-07",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | episodes12 = 21 | start12 = {{Start date|2026|10|7}} | end12 = "
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Med",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Med&oldid=1386526750"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "chicago-fire",
+        "kind": "spinoff",
+        "note": "Backdoor pilot released April 7, 2015 (series overview 0S, \"Pilot\"). The Chicago P.D. article names Chicago Fire \"I Am the Apocalypse\" (S03E19) as the backdoor pilot, marked {{citation needed}}."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "chicago-justice",
+    "title": "Chicago Justice",
+    "sort_title": null,
+    "type": "series",
+    "universe": "one-chicago",
+    "continuity": "one-chicago-main",
+    "studio_brand": "wolf-films",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Chicago Justice",
+      "wikidata": "Q24068396",
+      "tmdb": "67993",
+      "imdb": "tt5640060"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicago_Justice",
+      "https://en.wikipedia.org/w/index.php?title=Chicago_Justice&oldid=1387198786"
+    ],
+    "notes": "\"NBC canceled the series after one season.\" Peter Stone later became a regular on Law & Order: SVU (see cross_universe_links).",
+    "units": [
+      {
+        "id": "chicago-justice",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-03-01",
+          "end_date": "2017-05-14",
+          "year": 2017,
+          "note": "Wikipedia: ===Season 1 (2017)=== … 13 {{Episode list}} entries; first OriginalAirDate = {{Start date|2017|3|1}}; last OriginalAirDate = {{Start date|2017|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chicago_Justice",
+          "https://en.wikipedia.org/w/index.php?title=Chicago_Justice&oldid=1387198786"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "chicago-pd",
+        "kind": "spinoff",
+        "note": "\"A backdoor pilot aired on May 11, 2016, as part of the third season of Chicago P.D. before being ordered to series.\" (episode \"Justice\")"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

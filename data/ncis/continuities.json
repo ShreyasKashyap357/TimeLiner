@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ncis-main",
+    "universe": "ncis",
+    "name": "NCIS (shared universe, incl. JAG)",
+    "short_name": "NCIS",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "JAG and the NCIS series, linked by backdoor pilots, spin-offs and crossovers. Wikipedia: \"In 2003, NCIS was introduced via a backdoor pilot from the TV show JAG. Over the years, NCIS itself has spawned several spin-offs: NCIS: Los Angeles (2009), NCIS: New Orleans (2014), NCIS: Hawaiʻi (2021), NCIS: Sydney (2023), NCIS: Origins (2024), NCIS: Tony & Ziva (2025) and NCIS: New York (2026).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=NCIS_%28franchise%29&oldid=1383305510"
+    ],
+    "notes": ""
+  }
+]

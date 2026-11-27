@@ -1,0 +1,3011 @@
+[
+  {
+    "id": "jag",
+    "title": "JAG",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "belisarius-productions",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "JAG (TV series)",
+      "wikidata": "Q754197",
+      "tmdb": "4376",
+      "imdb": "tt0112022"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+    ],
+    "notes": "Networks per series overview: network1 = NBC (season 1), network2 = CBS (seasons 2–10). Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "jag-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-09-23",
+          "end_date": "1996-07-08",
+          "year": 1995,
+          "note": "Wikipedia: | episodes1 = 22 | start1 = {{Start date|1995|9|23}} | end1 = {{End date|1996|7|8}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 15,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-01-03",
+          "end_date": "1997-04-18",
+          "year": 1997,
+          "note": "Wikipedia: | episodes2 = 15 | start2 = {{Start date|1997|1|3}} | end2 = {{End date|1997|4|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-09-23",
+          "end_date": "1998-05-19",
+          "year": 1997,
+          "note": "Wikipedia: | episodes3 = 24 | start3 = {{Start date|1997|9|23}} | end3 = {{End date|1998|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-09-22",
+          "end_date": "1999-05-25",
+          "year": 1998,
+          "note": "Wikipedia: | episodes4 = 24 | start4 = {{Start date|1998|9|22}} | end4 = {{End date|1999|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-09-21",
+          "end_date": "2000-05-23",
+          "year": 1999,
+          "note": "Wikipedia: | episodes5 = 25 | start5 = {{Start date|1999|9|21}} | end5 = {{End date|2000|5|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-10-03",
+          "end_date": "2001-05-22",
+          "year": 2000,
+          "note": "Wikipedia: | episodes6 = 24 | start6 = {{Start date|2000|10|3}} | end6 = {{End date|2001|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-09-25",
+          "end_date": "2002-05-21",
+          "year": 2001,
+          "note": "Wikipedia: | episodes7 = 24 | start7 = {{Start date|2001|9|25}} | end7 = {{End date|2002|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-09-24",
+          "end_date": "2003-05-20",
+          "year": 2002,
+          "note": "Wikipedia: | episodes8 = 24 | start8 = {{Start date|2002|9|24}} | end8 = {{End date|2003|5|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-26",
+          "end_date": "2004-05-21",
+          "year": 2003,
+          "note": "Wikipedia: | episodes9 = 23 | start9 = {{Start date|2003|9|26}} | end9 = {{End date|2004|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jag-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-09-24",
+          "end_date": "2005-04-29",
+          "year": 2004,
+          "note": "Wikipedia: | episodes10 = 22 | start10 = {{Start date|2004|9|24}} | end10 = {{End date|2005|4|29}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/JAG_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=JAG_%28TV_series%29&oldid=1387454404"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis",
+    "title": "NCIS",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "belisarius-productions",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS (TV series)",
+      "wikidata": "Q4525",
+      "tmdb": "4614",
+      "imdb": "tt0364845"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+    ],
+    "notes": "Series overview row 0S (2 episodes, 2003-04-22 to 2003-04-29) is the JAG backdoor pilot and is not a unit here. Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "ncis-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-23",
+          "end_date": "2004-05-25",
+          "year": 2003,
+          "note": "Wikipedia: | episodes1 = 23 | start1 = {{Start date|2003|9|23}} | end1 = {{End date|2004|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-09-28",
+          "end_date": "2005-05-24",
+          "year": 2004,
+          "note": "Wikipedia: | episodes2 = 23 | start2 = {{Start date|2004|9|28}} | end2 = {{End date|2005|5|24}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-09-20",
+          "end_date": "2006-05-16",
+          "year": 2005,
+          "note": "Wikipedia: | episodes3 = 24 | start3 = {{Start date|2005|9|20}} | end3 = {{End date|2006|5|16}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-19",
+          "end_date": "2007-05-22",
+          "year": 2006,
+          "note": "Wikipedia: | episodes4 = 24 | start4 = {{Start date|2006|9|19}} | end4 = {{End date|2007|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 19,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-09-25",
+          "end_date": "2008-05-20",
+          "year": 2007,
+          "note": "Wikipedia: | episodes5 = 19 | start5 = {{Start date|2007|9|25}} | end5 = {{End date|2008|5|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-09-23",
+          "end_date": "2009-05-19",
+          "year": 2008,
+          "note": "Wikipedia: | episodes6 = 25 | start6 = {{Start date|2008|9|23}} | end6 = {{End date|2009|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-22",
+          "end_date": "2010-05-25",
+          "year": 2009,
+          "note": "Wikipedia: | episodes7 = 24 | start7 = {{Start date|2009|9|22}} | end7 = {{End date|2010|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-21",
+          "end_date": "2011-05-17",
+          "year": 2010,
+          "note": "Wikipedia: | episodes8 = 24 | start8 = {{Start date|2010|9|21}} | end8 = {{End date|2011|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 250,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-20",
+          "end_date": "2012-05-15",
+          "year": 2011,
+          "note": "Wikipedia: | episodes9 = 24 | start9 = {{Start date|2011|9|20}} | end9 = {{End date|2012|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 270,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-25",
+          "end_date": "2013-05-14",
+          "year": 2012,
+          "note": "Wikipedia: | episodes10 = 24 | start10 = {{Start date|2012|9|25}} | end10 = {{End date|2013|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s11",
+        "label": "Season 11",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 290,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-09-24",
+          "end_date": "2014-05-13",
+          "year": 2013,
+          "note": "Wikipedia: | episodes11 = 24 | start11 = {{Start date|2013|9|24}} | end11 = {{End date|2014|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s12",
+        "label": "Season 12",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 310,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-23",
+          "end_date": "2015-05-12",
+          "year": 2014,
+          "note": "Wikipedia: | episodes12 = 24 | start12 = {{Start date|2014|9|23}} | end12 = {{End date|2015|5|12}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s13",
+        "label": "Season 13",
+        "season": 13,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 12",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 350,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-22",
+          "end_date": "2016-05-17",
+          "year": 2015,
+          "note": "Wikipedia: | episodes13 = 24 | start13 = {{Start date|2015|9|22}} | end13 = {{End date|2016|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "13"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s14",
+        "label": "Season 14",
+        "season": 14,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 13",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 370,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-09-20",
+          "end_date": "2017-05-16",
+          "year": 2016,
+          "note": "Wikipedia: | episodes14 = 24 | start14 = {{Start date|2016|9|20}} | end14 = {{End date|2017|5|16}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "14"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s15",
+        "label": "Season 15",
+        "season": 15,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 14",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-09-26",
+          "end_date": "2018-05-22",
+          "year": 2017,
+          "note": "Wikipedia: | episodes15 = 24 | start15 = {{Start date|2017|9|26}} | end15 = {{End date|2018|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "15"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s16",
+        "label": "Season 16",
+        "season": 16,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 15",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 430,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-25",
+          "end_date": "2019-05-21",
+          "year": 2018,
+          "note": "Wikipedia: | episodes16 = 24 | start16 = {{Start date|2018|9|25}} | end16 = {{End date|2019|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "16"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s17",
+        "label": "Season 17",
+        "season": 17,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 16",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 460,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-24",
+          "end_date": "2020-04-14",
+          "year": 2019,
+          "note": "Wikipedia: | episodes17 = 20 | start17 = {{Start date|2019|9|24}} | end17 = {{End date|2020|4|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "17"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s18",
+        "label": "Season 18",
+        "season": 18,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 510,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-17",
+          "end_date": "2021-05-25",
+          "year": 2020,
+          "note": "Wikipedia: | episodes18 = 16 | start18 = {{Start date|2020|11|17}} | end18 = {{End date|2021|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "18"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s19",
+        "label": "Season 19",
+        "season": 19,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 18",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 520,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-20",
+          "end_date": "2022-05-23",
+          "year": 2021,
+          "note": "Wikipedia: | episodes19 = 21 | start19 = {{Start date|2021|9|20}} | end19 = {{End date|2022|5|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "19"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s20",
+        "label": "Season 20",
+        "season": 20,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 19",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 550,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-19",
+          "end_date": "2023-05-22",
+          "year": 2022,
+          "note": "Wikipedia: | episodes20 = 22 | start20 = {{Start date|2022|9|19}} | end20 = {{End date|2023|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "20"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s21",
+        "label": "Season 21",
+        "season": 21,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 20",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 590,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-02-12",
+          "end_date": "2024-05-06",
+          "year": 2024,
+          "note": "Wikipedia: | episodes21 = 10 | start21 = {{Start date|2024|2|12}} | end21 = {{End date|2024|5|6}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "21"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s22",
+        "label": "Season 22",
+        "season": 22,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 21",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 610,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-10-14",
+          "end_date": "2025-05-05",
+          "year": 2024,
+          "note": "Wikipedia: | episodes22 = 20 | start22 = {{Start date|2024|10|14}} | end22 = {{End date|2025|5|5}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "22"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s23",
+        "label": "Season 23",
+        "season": 23,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 22",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 640,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-14",
+          "end_date": "2026-05-12",
+          "year": 2025,
+          "note": "Wikipedia: | episodes23 = 20 | start23 = {{Start date|2025|10|14}} | end23 = {{End date|2026|5|12}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "23"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-s24",
+        "label": "Season 24",
+        "season": 24,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 23",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 660,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-06",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | episodes24 = 18 | start24 = {{Start date|2026|10|6}} | end24 = {{n/a|TBA}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "24"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28TV_series%29&oldid=1387239709"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jag",
+        "kind": "spinoff",
+        "note": "Backdoor pilot: JAG season 8 episodes 20 and 21, \"Ice Queen\" and \"Meltdown\", aired April 22 and 29, 2003; \"as a spin-off from JAG, the series premiered on September 23, 2003, on CBS.\""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-los-angeles",
+    "title": "NCIS: Los Angeles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "shane-brennan-productions",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: Los Angeles",
+      "wikidata": "Q6084",
+      "tmdb": "17610",
+      "imdb": "tt1378167"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+      "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+    ],
+    "notes": "Series overview row 0S (the backdoor pilot) is not a unit here. Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "ncis-los-angeles-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-22",
+          "end_date": "2010-05-25",
+          "year": 2009,
+          "note": "Wikipedia: | episodes1 = 24 | start1 = {{Start date|2009|9|22}} | end1 = {{End date|2010|5|25}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-21",
+          "end_date": "2011-05-17",
+          "year": 2010,
+          "note": "Wikipedia: | episodes2 = 24 | start2 = {{Start date|2010|9|21}} | end2 = {{End date|2011|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 260,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-20",
+          "end_date": "2012-05-15",
+          "year": 2011,
+          "note": "Wikipedia: | episodes3 = 24 | start3 = {{Start date|2011|9|20}} | end3 = {{End date|2012|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 280,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-25",
+          "end_date": "2013-05-14",
+          "year": 2012,
+          "note": "Wikipedia: | episodes4 = 24 | start4 = {{Start date|2012|9|25}} | end4 = {{End date|2013|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 300,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-09-24",
+          "end_date": "2014-05-13",
+          "year": 2013,
+          "note": "Wikipedia: | episodes5 = 24 | start5 = {{Start date|2013|9|24}} | end5 = {{End date|2014|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 330,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-29",
+          "end_date": "2015-05-18",
+          "year": 2014,
+          "note": "Wikipedia: | episodes6 = 24 | start6 = {{Start date|2014|9|29}} | end6 = {{End date|2015|5|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 340,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-21",
+          "end_date": "2016-05-02",
+          "year": 2015,
+          "note": "Wikipedia: | episodes7 = 24 | start7 = {{Start date|2015|9|21}} | end7 = {{End date|2016|5|2}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-09-25",
+          "end_date": "2017-05-14",
+          "year": 2016,
+          "note": "Wikipedia: | episodes8 = 24 | start8 = {{Start date|2016|9|25}} | end8 = {{End date|2017|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 420,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-01",
+          "end_date": "2018-05-20",
+          "year": 2017,
+          "note": "Wikipedia: | episodes9 = 24 | start9 = {{Start date|2017|10|1}} | end9 = {{End date|2018|5|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 450,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-30",
+          "end_date": "2019-05-19",
+          "year": 2018,
+          "note": "Wikipedia: | episodes10 = 24 | start10 = {{Start date|2018|9|30}} | end10 = {{End date|2019|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s11",
+        "label": "Season 11",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 480,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-29",
+          "end_date": "2020-04-26",
+          "year": 2019,
+          "note": "Wikipedia: | episodes11 = 22 | start11 = {{Start date|2019|9|29}} | end11 = {{End date|2020|4|26}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s12",
+        "label": "Season 12",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 490,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-08",
+          "end_date": "2021-05-23",
+          "year": 2020,
+          "note": "Wikipedia: | episodes12 = 18 | start12 = {{Start date|2020|11|8}} | end12 = {{End date|2021|5|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s13",
+        "label": "Season 13",
+        "season": 13,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 12",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 540,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-10-10",
+          "end_date": "2022-05-22",
+          "year": 2021,
+          "note": "Wikipedia: | episodes13 = 22 | start13 = {{Start date|2021|10|10}} | end13 = {{End date|2022|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "13"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-los-angeles-s14",
+        "label": "Season 14",
+        "season": 14,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 13",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 570,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-10-09",
+          "end_date": "2023-05-21",
+          "year": 2022,
+          "note": "Wikipedia: | episodes14 = 21 | start14 = {{Start date|2022|10|9}} | end14 = {{End date|2023|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "14"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Los_Angeles&oldid=1387239723"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "spinoff",
+        "note": "Backdoor pilot: the two-part NCIS season 6 episode \"Legend\", April 28 and May 5, 2009 (\"These episodes served as a backdoor pilot for the series\")."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-new-orleans",
+    "title": "NCIS: New Orleans",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: New Orleans",
+      "wikidata": "Q16802335",
+      "tmdb": "61387",
+      "imdb": "tt3560084"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+      "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+    ],
+    "notes": "Series overview row 0S (the backdoor pilot) is not a unit here. Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "ncis-new-orleans-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 320,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-23",
+          "end_date": "2015-05-12",
+          "year": 2014,
+          "note": "Wikipedia: | episodes1 = 23 | start1 = {{Start date|2014|9|23}} | end1 = {{End date|2015|5|12}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-new-orleans-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 360,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-22",
+          "end_date": "2016-05-17",
+          "year": 2015,
+          "note": "Wikipedia: | episodes2 = 24 | start2 = {{Start date|2015|9|22}} | end2 = {{End date|2016|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-new-orleans-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-09-20",
+          "end_date": "2017-05-16",
+          "year": 2016,
+          "note": "Wikipedia: | episodes3 = 24 | start3 = {{Start date|2016|9|20}} | end3 = {{End date|2017|5|16}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-new-orleans-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 410,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-09-26",
+          "end_date": "2018-05-15",
+          "year": 2017,
+          "note": "Wikipedia: | episodes4 = 24 | start4 = {{Start date|2017|9|26}} | end4 = {{End date|2018|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-new-orleans-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 440,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-09-25",
+          "end_date": "2019-05-14",
+          "year": 2018,
+          "note": "Wikipedia: | episodes5 = 24 | start5 = {{Start date|2018|9|25}} | end5 = {{End date|2019|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-new-orleans-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 470,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-24",
+          "end_date": "2020-04-19",
+          "year": 2019,
+          "note": "Wikipedia: | episodes6 = 20 | start6 = {{Start date|2019|9|24}} | end6 = {{End date|2020|4|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-new-orleans-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 500,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-08",
+          "end_date": "2021-05-23",
+          "year": 2020,
+          "note": "Wikipedia: | episodes7 = 16 | start7 = {{Start date|2020|11|8}} | end7 = {{End date|2021|5|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_Orleans",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_Orleans&oldid=1388002372"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "spinoff",
+        "note": "Backdoor pilot: NCIS season 11 \"Crescent City (Part I)\" and \"(Part II)\", March 25 and April 1, 2014."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-hawaii",
+    "title": "NCIS: Hawaiʻi",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: Hawaiʻi",
+      "wikidata": "Q106623987",
+      "tmdb": "124271",
+      "imdb": "tt14218674"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_Hawai%CA%BBi",
+      "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Hawai%CA%BBi&oldid=1387996566"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "ncis-hawaii-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 530,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-20",
+          "end_date": "2022-05-23",
+          "year": 2021,
+          "note": "Wikipedia: | episodes1 = 22 | start1 = {{Start date|2021|9|20}} | end1 = {{End date|2022|5|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Hawai%CA%BBi",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Hawai%CA%BBi&oldid=1387996566"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-hawaii-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 560,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-19",
+          "end_date": "2023-05-22",
+          "year": 2022,
+          "note": "Wikipedia: | episodes2 = 22 | start2 = {{Start date|2022|9|19}} | end2 = {{End date|2023|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Hawai%CA%BBi",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Hawai%CA%BBi&oldid=1387996566"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-hawaii-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 600,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-02-12",
+          "end_date": "2024-05-06",
+          "year": 2024,
+          "note": "Wikipedia: | episodes3 = 10 | start3 = {{Start date|2024|2|12}} | end3 = {{End date|2024|5|6}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Hawai%CA%BBi",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Hawai%CA%BBi&oldid=1387996566"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "spinoff",
+        "note": "\"a spin-off of the series NCIS and the fourth series in the NCIS franchise.\" \"Unlike the other series in the franchise, it is not planned to start with a backdoor pilot within another series.\""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-sydney",
+    "title": "NCIS: Sydney",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "endemol-shine-australia",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: Sydney",
+      "wikidata": "Q111133839",
+      "tmdb": "157950",
+      "imdb": "tt18258908"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_Sydney",
+      "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Sydney&oldid=1387269192"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ncis-sydney-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 580,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-11-10",
+          "end_date": "2023-12-29",
+          "year": 2023,
+          "note": "Wikipedia: | episodes1 = 8 | start1 = {{Start date|2023|11|10|df=y}} | end1 = {{End date|2023|12|29|df=y}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Sydney",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Sydney&oldid=1387269192"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-sydney-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 620,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-02-07",
+          "end_date": "2025-04-11",
+          "year": 2025,
+          "note": "Wikipedia: | episodes2 = 10 | start2 = {{Start date|2025|02|07|df=y}} | end2 = {{End date|2025|04|11|df=y}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Sydney",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Sydney&oldid=1387269192"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-sydney-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 650,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-14",
+          "end_date": "2026-05-12",
+          "year": 2025,
+          "note": "Wikipedia: | episodes3 = 20 | start3 = {{Start date|2025|10|14|df=y}} | end3 = {{End date|2026|05|12|df=y}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Sydney",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Sydney&oldid=1387269192"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-sydney-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: In January 2026, it was renewed for a fourth season."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Sydney",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Sydney&oldid=1387269192"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "spinoff",
+        "note": "\"a spin-off of NCIS and its franchise. It was created as the first spin-off outside the United States\"."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-origins",
+    "title": "NCIS: Origins",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "wings-productions",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: Origins",
+      "wikidata": "Q125178220",
+      "tmdb": "243006",
+      "imdb": "tt30796986"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_Origins",
+      "https://en.wikipedia.org/w/index.php?title=List_of_NCIS%3A_Origins_episodes&oldid=1386958474",
+      "https://en.wikipedia.org/w/index.php?title=NCIS_%28franchise%29&oldid=1383305510"
+    ],
+    "notes": "Season 3: the overview figure \"10\" carries a ref about a reduced episode order.",
+    "units": [
+      {
+        "id": "ncis-origins-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "1991",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "The series is a prequel to NCIS and it follows a younger Leroy Jethro Gibbs in 1991 during his early career as a Naval Investigative Service special agent at the Camp Pendleton office. Placed before NCIS season 1 because it is a prequel; its order relative to JAG is not stated.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-10-14",
+          "end_date": "2025-04-28",
+          "year": 2024,
+          "note": "Wikipedia: | episodes1 = 18 | start1 = {{Start date|2024|10|14}} | end1 = {{End date|2025|4|28}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Origins",
+          "https://en.wikipedia.org/w/index.php?title=List_of_NCIS%3A_Origins_episodes&oldid=1386958474"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-origins-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1 (1990s)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "In January 2024, CBS ordered the prequel series NCIS: Origins; set in the 1990s Placed before NCIS season 1 because it is a prequel; its order relative to JAG is not stated.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-10-14",
+          "end_date": "2026-05-05",
+          "year": 2025,
+          "note": "Wikipedia: | episodes2 = 18 | start2 = {{Start date|2025|10|14}} | end2 = {{End date|2026|5|5}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Origins",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28franchise%29&oldid=1383305510"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ncis-origins-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2 (1990s)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "In January 2024, CBS ordered the prequel series NCIS: Origins; set in the 1990s Placed before NCIS season 1 because it is a prequel; its order relative to JAG is not stated.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-06",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | episodes3 = 10 | start3 = {{Start date|2026|10|6}} | end3 = {{End date|2027|1|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Origins",
+          "https://en.wikipedia.org/w/index.php?title=NCIS_%28franchise%29&oldid=1383305510"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "sequel",
+        "note": "\"It is a prequel to the original series and follows a younger Leroy Jethro Gibbs\". \"Harmon reprising his role as the present-day, retired Gibbs, who serves as narrator.\""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-tony-ziva",
+    "title": "NCIS: Tony & Ziva",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "cbs-studios",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: Tony & Ziva",
+      "wikidata": "Q125899005",
+      "tmdb": "247732",
+      "imdb": "tt31512256"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_Tony_&_Ziva",
+      "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Tony_%26_Ziva&oldid=1387239755"
+    ],
+    "notes": "\"In December 2025, the series was canceled after one season.\"",
+    "units": [
+      {
+        "id": "ncis-tony-ziva",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 630,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-09-04",
+          "end_date": "2025-10-23",
+          "year": 2025,
+          "note": "Wikipedia: ==Episodes== … 10 {{Episode list}} entries; first OriginalAirDate = {{Start date|2025|9|4}}; last OriginalAirDate = {{Start date|2025|10|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_Tony_&_Ziva",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_Tony_%26_Ziva&oldid=1387239755"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "spinoff",
+        "note": "\"a spin-off of the long-running crime procedural NCIS\". \"The spin-off reunites the two characters and centers on the events that shaped their storyline in Europe.\""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ncis-new-york",
+    "title": "NCIS: New York",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ncis",
+    "continuity": "ncis-main",
+    "studio_brand": "ll-cool-j-incorporated",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "NCIS: New York",
+      "wikidata": "Q139380665",
+      "tmdb": "319800",
+      "imdb": "tt41814911"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/NCIS:_New_York",
+      "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_York&oldid=1388045583"
+    ],
+    "notes": "Not in the original brief. Included because it premiered on October 6, 2026, before 2026-11-27. Infobox: num_episodes = 6 aired so far.",
+    "units": [
+      {
+        "id": "ncis-new-york",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 670,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-06",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: == Episodes == … 8 {{Episode list}} entries; first OriginalAirDate = {{Start date|2026|10|6}}; last OriginalAirDate = {{Start date|2026|12|8}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/NCIS:_New_York",
+          "https://en.wikipedia.org/w/index.php?title=NCIS%3A_New_York&oldid=1388045583"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ncis",
+        "kind": "spinoff",
+        "note": "\"A spin-off of NCIS, the series features LL Cool J reprising his character of Sam Hanna from NCIS: Los Angeles\"."
+      },
+      {
+        "to": "ncis-los-angeles",
+        "kind": "shares-characters",
+        "note": "Sam Hanna is reprised from NCIS: Los Angeles."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

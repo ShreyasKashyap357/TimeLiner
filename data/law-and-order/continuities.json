@@ -1,0 +1,64 @@
+[
+  {
+    "id": "law-and-order-main",
+    "universe": "law-and-order",
+    "name": "Law & Order (US shared universe)",
+    "short_name": "Law & Order",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The American Law & Order series and the TV film Exiled, linked by shared characters, fictional institutions and crossovers. Wikipedia: \"Shared characters and fictional organizations, such as Hudson University and the New York Ledger tabloid newspaper, serve as connecting links between the shows. … Occasionally, crossovers of main characters or shared storylines between two of the shows will occur.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Law_%26_Order_%28franchise%29&oldid=1387571388"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "law-and-order-international",
+    "universe": "law-and-order",
+    "name": "Law & Order international adaptations",
+    "short_name": "Law & Order international adaptations",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Foreign adaptations with their own casts (UK, France, Canada). Each remakes a US series and is not crossover-linked to the US shows. Ordered by release only. Wikipedia: \"| otherlabel1 = Foreign adaptations | otherdata1 = … Paris enquêtes criminelles … Law & Order: UK … Law & Order Toronto: Criminal Intent\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Law_%26_Order_%28franchise%29&oldid=1387571388"
+    ],
+    "notes": "Grouped as one ordered-only continuity per the brief, though each adaptation is really its own continuity. The two Russian adaptations exist only as sections of the SVU and Criminal Intent articles, so they are not included."
+  }
+]

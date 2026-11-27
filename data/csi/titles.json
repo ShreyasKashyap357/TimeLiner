@@ -1,0 +1,1779 @@
+[
+  {
+    "id": "csi",
+    "title": "CSI: Crime Scene Investigation",
+    "sort_title": null,
+    "type": "series",
+    "universe": "csi",
+    "continuity": "csi-main",
+    "studio_brand": "jerry-bruckheimer-television",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "CSI: Crime Scene Investigation",
+      "wikidata": "Q117396",
+      "tmdb": "1431",
+      "imdb": "tt0247082"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+      "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "csi-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-10-06",
+          "end_date": "2001-05-17",
+          "year": 2000,
+          "note": "Wikipedia: | episodes1 = 23 | start1 = {{Start date|2000|10|6}} | end1 = {{End date|2001|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-09-27",
+          "end_date": "2002-05-16",
+          "year": 2001,
+          "note": "Wikipedia: | episodes2 = 23 | start2 = {{Start date|2001|9|27}} | end2 = {{End date|2002|5|16}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-09-26",
+          "end_date": "2003-05-15",
+          "year": 2002,
+          "note": "Wikipedia: | episodes3 = 23 | start3 = {{Start date|2002|9|26}} | end3 = {{End date|2003|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-25",
+          "end_date": "2004-05-20",
+          "year": 2003,
+          "note": "Wikipedia: | episodes4 = 23 | start4 = {{Start date|2003|9|25}} | end4 = {{End date|2004|5|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-09-23",
+          "end_date": "2005-05-19",
+          "year": 2004,
+          "note": "Wikipedia: | episodes5 = 25 | start5 = {{Start date|2004|9|23}} | end5 = {{End date|2005|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-09-22",
+          "end_date": "2006-05-18",
+          "year": 2005,
+          "note": "Wikipedia: | episodes6 = 24 | start6 = {{Start date|2005|9|22}} | end6 = {{End date|2006|5|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-21",
+          "end_date": "2007-05-17",
+          "year": 2006,
+          "note": "Wikipedia: | episodes7 = 24 | start7 = {{Start date|2006|9|21}} | end7 = {{End date|2007|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 17,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-09-27",
+          "end_date": "2008-05-15",
+          "year": 2007,
+          "note": "Wikipedia: | episodes8 = 17 | start8 = {{Start date|2007|9|27}} | end8 = {{End date|2008|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-10-09",
+          "end_date": "2009-05-14",
+          "year": 2008,
+          "note": "Wikipedia: | episodes9 = 24 | start9 = {{Start date|2008|10|9}} | end9 = {{End date|2009|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-24",
+          "end_date": "2010-05-20",
+          "year": 2009,
+          "note": "Wikipedia: | episodes10 = 23 | start10 = {{Start date|2009|9|24}} | end10 = {{End date|2010|5|20}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s11",
+        "label": "Season 11",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 250,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-23",
+          "end_date": "2011-05-12",
+          "year": 2010,
+          "note": "Wikipedia: | episodes11 = 22 | start11 = {{Start date|2010|9|23}} | end11 = {{End date|2011|5|12}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s12",
+        "label": "Season 12",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 280,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-21",
+          "end_date": "2012-05-09",
+          "year": 2011,
+          "note": "Wikipedia: | episodes12 = 22 | start12 = {{Start date|2011|9|21}} | end12 = {{End date|2012|5|9}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s13",
+        "label": "Season 13",
+        "season": 13,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 12",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 320,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-26",
+          "end_date": "2013-05-15",
+          "year": 2012,
+          "note": "Wikipedia: | episodes13 = 22 | start13 = {{Start date|2012|9|26}} | end13 = {{End date|2013|5|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "13"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s14",
+        "label": "Season 14",
+        "season": 14,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 13",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 330,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-09-25",
+          "end_date": "2014-05-07",
+          "year": 2013,
+          "note": "Wikipedia: | episodes14 = 22 | start14 = {{Start date|2013|9|25}} | end14 = {{End date|2014|5|7}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "14"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-s15",
+        "label": "Season 15",
+        "season": 15,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 14",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 340,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-28",
+          "end_date": "2015-02-15",
+          "year": 2014,
+          "note": "Wikipedia: | episodes15 = 18 | start15 = {{Start date|2014|9|28}} | end15 = {{End date|2015|2|15}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "15"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-finale",
+        "label": "Immortality (series finale)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 2,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 15",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 360,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-27",
+          "end_date": "2015-09-27",
+          "year": 2015,
+          "note": "Wikipedia: | linkT15S = Series finale | episodes15S = 2 | released15S = {{Start date|2015|9|27}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Crime_Scene_Investigation&oldid=1388053152"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "csi-miami",
+    "title": "CSI: Miami",
+    "sort_title": null,
+    "type": "series",
+    "universe": "csi",
+    "continuity": "csi-main",
+    "studio_brand": "jerry-bruckheimer-television",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "CSI: Miami",
+      "wikidata": "Q189411",
+      "tmdb": "1620",
+      "imdb": "tt0313043"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/CSI:_Miami",
+      "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "csi-miami-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-09-23",
+          "end_date": "2003-05-19",
+          "year": 2002,
+          "note": "Wikipedia: | episodes1 = 24 | start1 = {{Start date|2002|9|23}} | end1 = {{End date|2003|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-22",
+          "end_date": "2004-05-24",
+          "year": 2003,
+          "note": "Wikipedia: | episodes2 = 24 | start2 = {{Start date|2003|9|22}} | end2 = {{End date|2004|5|24}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-09-20",
+          "end_date": "2005-05-23",
+          "year": 2004,
+          "note": "Wikipedia: | episodes3 = 24 | start3 = {{Start date|2004|9|20}} | end3 = {{End date|2005|5|23}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-09-19",
+          "end_date": "2006-05-22",
+          "year": 2005,
+          "note": "Wikipedia: | episodes4 = 25 | start4 = {{Start date|2005|9|19}} | end4 = {{End date|2006|5|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-18",
+          "end_date": "2007-05-14",
+          "year": 2006,
+          "note": "Wikipedia: | episodes5 = 24 | start5 = {{Start date|2006|9|18}} | end5 = {{End date|2007|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-09-24",
+          "end_date": "2008-05-19",
+          "year": 2007,
+          "note": "Wikipedia: | episodes6 = 21 | start6 = {{Start date|2007|9|24}} | end6 = {{End date|2008|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-09-22",
+          "end_date": "2009-05-18",
+          "year": 2008,
+          "note": "Wikipedia: | episodes7 = 25 | start7 = {{Start date|2008|9|22}} | end7 = {{End date|2009|5|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-21",
+          "end_date": "2010-05-24",
+          "year": 2009,
+          "note": "Wikipedia: | episodes8 = 24 | start8 = {{Start date|2009|9|21}} | end8 = {{End date|2010|5|24}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 270,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-10-03",
+          "end_date": "2011-05-08",
+          "year": 2010,
+          "note": "Wikipedia: | episodes9 = 22 | start9 = {{Start date|2010|10|3}} | end9 = {{End date|2011|5|8}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-miami-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 19,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 300,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-25",
+          "end_date": "2012-04-08",
+          "year": 2011,
+          "note": "Wikipedia: | episodes10 = 19 | start10 = {{Start date|2011|9|25}} | end10 = {{End date|2012|4|8}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Miami",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Miami&oldid=1388053344"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "csi",
+        "kind": "spinoff",
+        "note": "\"the first direct spin-off of CSI: Crime Scene Investigation\". Backdoor pilot \"Cross Jurisdictions\" (CSI season 2), released May 9, 2002 (series overview row 0S)."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "csi-ny",
+    "title": "CSI: NY",
+    "sort_title": null,
+    "type": "series",
+    "universe": "csi",
+    "continuity": "csi-main",
+    "studio_brand": "jerry-bruckheimer-television",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "CSI: NY",
+      "wikidata": "Q192259",
+      "tmdb": "2458",
+      "imdb": "tt0395843"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/CSI:_NY",
+      "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "csi-ny-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-09-22",
+          "end_date": "2005-05-18",
+          "year": 2004,
+          "note": "Wikipedia: | episodes1 = 23 | start1 = {{Start date|2004|9|22}} | end1 = {{End date|2005|5|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-09-28",
+          "end_date": "2006-05-17",
+          "year": 2005,
+          "note": "Wikipedia: | episodes2 = 24 | start2 = {{Start date|2005|9|28}} | end2 = {{End date|2006|5|17}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 24,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-20",
+          "end_date": "2007-05-16",
+          "year": 2006,
+          "note": "Wikipedia: | episodes3 = 24 | start3 = {{Start date|2006|9|20}} | end3 = {{End date|2007|5|16}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-09-26",
+          "end_date": "2008-05-21",
+          "year": 2007,
+          "note": "Wikipedia: | episodes4 = 21 | start4 = {{Start date|2007|9|26}} | end4 = {{End date|2008|5|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 25,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-09-24",
+          "end_date": "2009-05-14",
+          "year": 2008,
+          "note": "Wikipedia: | episodes5 = 25 | start5 = {{Start date|2008|9|24}} | end5 = {{End date|2009|5|14}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-23",
+          "end_date": "2010-05-26",
+          "year": 2009,
+          "note": "Wikipedia: | episodes6 = 23 | start6 = {{Start date|2009|9|23}} | end6 = {{End date|2010|5|26}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 260,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-24",
+          "end_date": "2011-05-13",
+          "year": 2010,
+          "note": "Wikipedia: | episodes7 = 22 | start7 = {{Start date|2010|9|24}} | end7 = {{End date|2011|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 290,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-23",
+          "end_date": "2012-05-11",
+          "year": 2011,
+          "note": "Wikipedia: | episodes8 = 18 | start8 = {{Start date|2011|9|23}} | end8 = {{End date|2012|5|11}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-ny-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 17,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 310,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-21",
+          "end_date": "2013-02-22",
+          "year": 2012,
+          "note": "Wikipedia: | episodes9 = 17 | start9 = {{Start date|2012|9|21}} | end9 = {{End date|2013|2|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_NY",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_NY&oldid=1388053578"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "csi-miami",
+        "kind": "spinoff",
+        "note": "\"an indirect spin-off from the veteran series CSI: Crime Scene Investigation and a direct spin-off from CSI: Miami, during an episode in which several of the CSI: NY characters made their first appearances.\" Backdoor pilot \"MIA/NYC NonStop\" (CSI: Miami season 2), May 17, 2004."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "csi-cyber",
+    "title": "CSI: Cyber",
+    "sort_title": null,
+    "type": "series",
+    "universe": "csi",
+    "continuity": "csi-main",
+    "studio_brand": "jerry-bruckheimer-television",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "CSI: Cyber",
+      "wikidata": "Q16919551",
+      "tmdb": "61811",
+      "imdb": "tt3560060"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/CSI:_Cyber",
+      "https://en.wikipedia.org/w/index.php?title=CSI%3A_Cyber&oldid=1387201699"
+    ],
+    "notes": "Studio string not checked against the infobox.",
+    "units": [
+      {
+        "id": "csi-cyber-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 350,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-03-04",
+          "end_date": "2015-05-13",
+          "year": 2015,
+          "note": "Wikipedia: | episodes1 = 13 | start1 = {{Start date|2015|3|4}} | end1 = {{End date|2015|5|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Cyber",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Cyber&oldid=1387201699"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-cyber-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 18,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 370,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-10-04",
+          "end_date": "2016-03-13",
+          "year": 2015,
+          "note": "Wikipedia: | episodes2 = 18 | start2 = {{Start date|2015|10|4}} | end2 = {{End date|2016|3|13}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Cyber",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Cyber&oldid=1387201699"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "csi",
+        "kind": "spinoff",
+        "note": "\"the third spin-off of CSI: Crime Scene Investigation\". Introductory episodes in CSI: \"Kitty\" (season 14, April 30, 2014) and \"The Twin Paradox\" (November 16, 2014)."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "csi-vegas",
+    "title": "CSI: Vegas",
+    "sort_title": null,
+    "type": "series",
+    "universe": "csi",
+    "continuity": "csi-main",
+    "studio_brand": "jerry-bruckheimer-television",
+    "label": null,
+    "platform_or_network": "cbs",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "CSI: Vegas",
+      "wikidata": "Q106910380",
+      "tmdb": "122194",
+      "imdb": "tt12887536"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/CSI:_Vegas",
+      "https://en.wikipedia.org/w/index.php?title=CSI%3A_Vegas&oldid=1387998729"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "csi-vegas-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-10-06",
+          "end_date": "2021-12-08",
+          "year": 2021,
+          "note": "Wikipedia: | episodes1 = 10 | start1 = {{Start date|2021|10|6}} | end1 = {{End date|2021|12|8}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Vegas",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Vegas&oldid=1387998729"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-vegas-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 21,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-29",
+          "end_date": "2023-05-18",
+          "year": 2022,
+          "note": "Wikipedia: | episodes2 = 21 | start2 = {{Start date|2022|9|29}} | end2 = {{End date|2023|5|18}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Vegas",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Vegas&oldid=1387998729"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "csi-vegas-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-02-18",
+          "end_date": "2024-05-19",
+          "year": 2024,
+          "note": "Wikipedia: | episodes3 = 10 | start3 = {{Start date|2024|2|18}} | end3 = {{End date|2024|5|19}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/CSI:_Vegas",
+          "https://en.wikipedia.org/w/index.php?title=CSI%3A_Vegas&oldid=1387998729"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "csi",
+        "kind": "references",
+        "note": "\"It is a revival of the 2000–15 series CSI: Crime Scene Investigation and the fifth and final series in the CSI franchise.\" Grissom, Sidle and Willows return."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

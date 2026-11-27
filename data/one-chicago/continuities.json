@@ -1,0 +1,33 @@
+[
+  {
+    "id": "one-chicago-main",
+    "universe": "one-chicago",
+    "name": "One Chicago (shared universe)",
+    "short_name": "One Chicago",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Chicago Fire, P.D., Med and Justice: one interconnected universe with frequent crossovers. Wikipedia: \"A recurring and unifying theme of the four shows is Molly's, a small bar owned by three firefighters which has been frequented by characters from all four shows.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Chicago_%28franchise%29&oldid=1387031475"
+    ],
+    "notes": ""
+  }
+]

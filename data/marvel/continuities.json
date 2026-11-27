@@ -917,10 +917,10 @@
     "notes": ""
   },
   {
-    "id": "marvel-disney-xd",
+    "id": "marvel-xd-2012",
     "universe": "marvel",
-    "name": "Marvel Disney XD animated continuity",
-    "short_name": "Disney XD",
+    "name": "Marvel Universe block continuity (Disney XD, 2012–2018)",
+    "short_name": "Disney XD 2012",
     "order": 7,
     "kind": "shared",
     "calendar": {
@@ -941,18 +941,50 @@
     ],
     "grouping_schemes": [],
     "alt_orders": [],
-    "description": "Avengers Assemble, Guardians of the Galaxy (TV) and Spider-Man (2017).",
+    "description": "Ultimate Spider-Man, Hulk and the Agents of S.M.A.S.H. and Avengers Assemble seasons 1–4. Marvel (May 2013): the shows \"would be a part of the same fictional universe\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Animation",
+      "https://en.wikipedia.org/wiki/Spider-Man_(2017_TV_series)"
+    ],
+    "notes": "Writer Harrison Wilcox, cited by Wikipedia: \"Ultimate Spider-Man, Agents of SMASH, and Seasons 1-4 of Avengers are all in the same continuity. Guardians, Marvel's Spider-Man, and Black Panther's Quest are all in another continuity.\""
+  },
+  {
+    "id": "marvel-disney-xd",
+    "universe": "marvel",
+    "name": "Marvel Disney XD continuity (2015–2020)",
+    "short_name": "Disney XD 2015",
+    "order": 8,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Guardians of the Galaxy (2015), Spider-Man (2017) and Avengers: Black Panther's Quest (Avengers Assemble season 5).",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Spider-Man_(2017_TV_series)"
     ],
-    "notes": "Spider-Man (2017): \"The series' incarnation of Spider-Man makes guest appearances in Guardians of the Galaxy and the fifth season of Avengers Assemble, which are set in the same continuity.\" Whether Ultimate Spider-Man and Hulk and the Agents of S.M.A.S.H. share it is not stated in the fetched sources, so they are in the standalone collection."
+    "notes": "Spider-Man (2017): \"…Guardians of the Galaxy and the fifth season of Avengers Assemble, which are set in the same continuity.\" Writer Harrison Wilcox, cited by Wikipedia: \"Ultimate Spider-Man, Agents of SMASH, and Seasons 1-4 of Avengers are all in the same continuity. Guardians, Marvel's Spider-Man, and Black Panther's Quest are all in another continuity.\""
   },
   {
     "id": "marvel-anime",
     "universe": "marvel",
     "name": "Marvel Anime",
     "short_name": "Marvel Anime",
-    "order": 8,
+    "order": 9,
     "kind": "shared",
     "calendar": {
       "kind": "ordered-only"
@@ -983,7 +1015,7 @@
     "universe": "marvel",
     "name": "Spidey and His Amazing Friends",
     "short_name": "Spidey",
-    "order": 9,
+    "order": 10,
     "kind": "shared",
     "calendar": {
       "kind": "ordered-only"
@@ -1015,7 +1047,7 @@
     "universe": "marvel",
     "name": "Other Marvel animated and adult animated series",
     "short_name": "Other animation",
-    "order": 10,
+    "order": 11,
     "kind": "standalone-collection",
     "calendar": {
       "kind": "ordered-only"
@@ -1047,7 +1079,7 @@
     "universe": "marvel",
     "name": "Specials (animated features, motion comics, anime, LEGO…)",
     "short_name": "Specials",
-    "order": 11,
+    "order": 12,
     "kind": "standalone-collection",
     "calendar": {
       "kind": "ordered-only"

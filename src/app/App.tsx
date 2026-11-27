@@ -177,7 +177,9 @@ export function App() {
                         {v === 'groupings' && <GroupingsView rows={filtered} />}
                         {v === 'tags' && <TagsView rows={filtered} allScoped={tagScoped} />}
                         {v === 'continuities' && <ContinuitiesView rows={filtered} />}
-                        {v === 'dual' && <DualAxisView rows={filtered} />}
+                        {v === 'dual' && (crossScope || new Set(filtered.map((r) => r.continuity.id)).size > 1
+                          ? <p className="border border-border bg-muted/40 p-4 text-sm text-muted-foreground">The dual-axis chart compares release dates with in-universe dates inside one continuity (calendars differ between continuities and are never merged). Pick a single universe and continuity{state.people.length || state.chars.length ? ', or clear the person / character filter,' : ''} to see it.</p>
+                          : <DualAxisView rows={filtered} />)}
                         {v === 'connections' && <ConnectionsView rows={filtered} />}
                       </Suspense>
                     )}

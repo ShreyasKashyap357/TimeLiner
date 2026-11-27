@@ -64,6 +64,13 @@ export function DetailDrawer() {
   const Verb = verb[0]!.toUpperCase() + verb.slice(1);
   const isPrint = row?.medium === 'print';
   const firstUnitOf = (titleId: string) => rows.find((r) => r.title.id === titleId)?.key;
+  // Numbered source list; facts with their own source (e.g. word counts) cite it Wikipedia-style: [n].
+  const sources = row ? [...new Set([...row.unit.source_urls, ...(row.unit.word_count_source ? [row.unit.word_count_source] : []), ...row.title.source_urls])] : [];
+  const cite = (url: string | null) => {
+    const n = url ? sources.indexOf(url) + 1 : 0;
+    if (!row || !n) return null;
+    return <sup className="ml-0.5"><a href={`#src-${row.key}-${n}`} className="text-primary underline" aria-label={`Source ${n}`}>[{n}]</a></sup>;
+  };
 
   return (
     <Sheet open={open} onOpenChange={(o) => { if (!o) update({ unit: null }); }}>
@@ -113,7 +120,7 @@ export function DetailDrawer() {
                 </Field>
                 <Field k={isPrint ? 'Published' : 'Released'}>{formatRelease(row.unit.release.date)}{row.unit.release.end_date ? ` – ${formatRelease(row.unit.release.end_date)}` : ''} <span className="text-muted-foreground">({row.unit.status})</span>
                   {row.unit.release.note && <p className="text-xs text-muted-foreground">{row.unit.release.note}</p>}</Field>
-                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}{row.unit.word_count ? ` · ${row.unit.word_count.toLocaleString('en-US')} words (about ${Math.round(readingMinutes(row.unit.word_count) / 60)} h at 250 words/min)` : ''}</Field>
+                <Field k="Type">{row.type}{row.unit.episode_count ? ` · ${row.unit.episode_count} episode${row.unit.episode_count > 1 ? 's' : ''}` : ''}{row.unit.runtime_min ? ` · ${row.unit.runtime_min} min` : ''}{row.unit.pages ? ` · ${row.unit.pages} pages` : ''}{row.unit.word_count ? <> · {row.unit.word_count.toLocaleString('en-US')} words{cite(row.unit.word_count_source)} (about {Math.round(readingMinutes(row.unit.word_count) / 60)} h at 250 words/min)</> : null}</Field>
                 <Field k={isPrint ? 'First edition' : 'Original platform'}>{label.platform(row.platform)}</Field>
                 <Field k={studio?.kind === 'publisher' || studio?.kind === 'imprint' ? 'Publisher' : 'Studio'}>
                   <span className="flex flex-col gap-0.5">
@@ -202,9 +209,9 @@ export function DetailDrawer() {
               )}
 
               <Section title="Sources">
-                <ul className="space-y-1 text-sm">
-                  {[...new Set([...row.unit.source_urls, ...row.title.source_urls])].map((u) => (
-                    <li key={u} className="[overflow-wrap:anywhere]">
+                <ol className="ml-5 list-decimal space-y-1 text-sm">
+                  {sources.map((u, i) => (
+                    <li key={u} id={`src-${row.key}-${i + 1}`} className="[overflow-wrap:anywhere]">
                       <a href={u} target="_blank" rel="noreferrer noopener" className="inline-flex items-center gap-1 underline">
                         {decodeURIComponent(u.replace(/^https?:\/\/(en\.)?/, '').replace(/_/g, ' '))}<ExternalLink aria-hidden className="size-3" />
                         <span className="sr-only">(opens in new tab)</span>
@@ -214,7 +221,7 @@ export function DetailDrawer() {
                   {row.title.external_ids.wikidata && (
                     <li><a className="underline" href={`https://www.wikidata.org/wiki/${row.title.external_ids.wikidata}`} target="_blank" rel="noreferrer noopener">Wikidata {row.title.external_ids.wikidata}</a></li>
                   )}
-                </ul>
+                </ol>
               </Section>
             </div>
           </>

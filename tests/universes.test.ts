@@ -152,3 +152,27 @@ describe('Watch orders (D-14, D-34)', () => {
     expect(orders.some((o) => o.a.id === 'starwars-com' && o.a.kind === 'official')).toBe(true);
   });
 });
+
+describe('Round 2 data (D-12, D-11, D-31)', () => {
+  const t = (id: string) => ds.titles.find((x) => x.id === id)!;
+  it('Disney XD shows form two continuities, Avengers Assemble split at season 5', () => {
+    expect(t('ultimate-spider-man').continuity).toBe('marvel-xd-2012');
+    expect(t('hulk-and-the-agents-of-smash').continuity).toBe('marvel-xd-2012');
+    expect(t('avengers-assemble').continuity).toBe('marvel-xd-2012');
+    expect(t('avengers-assemble').units.map((u) => u.id)).toEqual(['avengers-assemble-s1', 'avengers-assemble-s2', 'avengers-assemble-s3', 'avengers-assemble-s4']);
+    expect(t('avengers-black-panthers-quest').continuity).toBe('marvel-disney-xd');
+    expect(ds.aliases['avengers-assemble-series']).toEqual(expect.arrayContaining(['avengers-assemble-s1', 'avengers-black-panthers-quest']));
+  });
+  it('adds the remaining DC titles with sourced placements', () => {
+    expect(t('dc-showcase-kamandi-the-last-boy-on-earth').continuity).toBe('tomorrowverse');
+    const hom = t('dc-showcase-constantine-the-house-of-mystery').units[0]!.in_universe;
+    expect(hom.relative_to?.after).toBe('justice-league-dark-apokolips-war');
+    expect(t('gotham-girls').continuity).toBe('dcau');
+    expect(t('mister-miracle').units[0]!.status).toBe('upcoming');
+  });
+  it('cites every word count', () => {
+    const books = ds.titles.flatMap((x) => x.units).filter((u) => u.word_count !== null);
+    expect(books.length).toBeGreaterThan(20);
+    for (const u of books) expect(u.word_count_source, u.id).toBeTruthy();
+  });
+});

@@ -84,7 +84,7 @@ for (const st of DC_SEED) {
     const unit: Unit = {
       id, label: su.label, season: su.season ?? null, episode_range: null,
       episode_count: su.episodes ?? rel.episodes ?? null,
-      runtime_min: st.type.includes('film') ? wd?.duration_min ?? null : null, pages: null, word_count: null,
+      runtime_min: st.type.includes('film') ? wd?.duration_min ?? null : null, pages: null, word_count: null, word_count_source: null,
       timeline_branch: su.branch ?? mainBranch, canon_tier: su.tier ?? null, in_universe: iu,
       release: { date: rel.date, end_date: rel.end, year: rel.date ? Number(rel.date.slice(0, 4)) : null, note: rel.note },
       status: statusFor(rel.date, rel.status_text), groupings, platform_or_network: su.platform ?? null,

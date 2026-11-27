@@ -29,7 +29,7 @@ export function HeaderBar() {
           options={[...universes.map((u) => ({ value: u.id, label: u.name, color: u.accent.primary })), ...(universes.length > 1 ? [{ value: 'all', label: 'All universes' }] : [])]}
           onChange={(u) => { const uni = allUniverses.find((x) => x.id === u); update({ u, c: uni ? uni.default_continuity : state.c, unit: null }, true); }} />
         <HeaderSelect label="Continuity (in-universe views)" hint="Continuity used by the In-universe and Dual-axis views. In-universe order only exists within one continuity."
-          value={state.c ?? ''} placeholder="Continuity" minRem={9}
+          value={state.u === 'all' ? '' : state.c ?? ''} placeholder={state.u === 'all' ? 'All continuities' : 'Continuity'} minRem={9} disabled={state.u === 'all'}
           options={conts.map((c) => ({ value: c.id, label: c.name }))}
           onChange={(c) => update({ c, unit: null }, true)} />
       </div>

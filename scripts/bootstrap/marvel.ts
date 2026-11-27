@@ -172,7 +172,7 @@ for (const t of MARVEL_SEED) {
       id, label: su.label, season: su.season ?? null,
       episode_range: su.eps ? { from: { season: su.eps[0], episode: su.eps[1] }, to: { season: su.eps[2], episode: su.eps[3] } } : null,
       episode_count: su.episodes ?? rel.episodes ?? null,
-      runtime_min: t.type === 'film' || t.type === 'one-shot' || t.type === 'special' ? wd?.duration_min ?? null : null, pages: null, word_count: null,
+      runtime_min: t.type === 'film' || t.type === 'one-shot' || t.type === 'special' ? wd?.duration_min ?? null : null, pages: null, word_count: null, word_count_source: null,
       timeline_branch: branch,
       canon_tier: su.tier ?? null,
       in_universe: iu,

@@ -174,3 +174,12 @@ test('header picker tooltips: not on a quick pass, not after choosing, yes on a 
   await page.mouse.move(box.x + 10, box.y + 10);
   await expect(tips().first()).toContainText('Franchise universe');
 });
+
+test('a person across universes shows an Appearances list, not a timeline', async ({ page }) => {
+  await page.goto('/?u=all&ppl=Q172678'); // Samuel L. Jackson
+  const section = page.getByRole('region', { name: 'Samuel L. Jackson' });
+  await expect(section).toBeVisible({ timeout: 20_000 });
+  await expect(section.getByText('Kong: Skull Island')).toBeVisible();
+  await expect(section.getByText('as Nick Fury').first()).toBeVisible();
+  await expect(page.getByRole('group', { name: 'Universes shown' })).toBeVisible();
+});

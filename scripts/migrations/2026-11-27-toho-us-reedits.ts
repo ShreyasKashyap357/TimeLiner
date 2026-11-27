@@ -141,7 +141,7 @@ ITEMS.forEach((i, idx) => {
     notes: `Wikipedia: "${i.quote}" US distributor: ${i.distributor}.`,
     links: [{ to: i.original, kind: 're-edit-of', note: '' }], constituents: [], credits: [],
     units: [{
-      id: i.id, label: 'Film', season: null, episode_range: null, episode_count: null, runtime_min: i.runtime, pages: null, word_count: null,
+      id: i.id, label: 'Film', season: null, episode_range: null, episode_count: null, runtime_min: i.runtime, pages: null, word_count: null, word_count_source: null,
       timeline_branch: 'main', canon_tier: null,
       in_universe: { start: null, end: null, label: `US version of ${orig.title}`, precision: 'relative', confidence: 'stated',
         note: 'Same story as the original; not placed separately on the Toho timeline.', order_index: (idx + 1) * 10, relative_to: null },

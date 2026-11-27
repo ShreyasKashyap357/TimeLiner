@@ -504,3 +504,34 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
 - **Credits are per title, not per season.** Wikidata rarely has season-level items.
 - **Coverage on 2026-11-27:** 408 of 523 titles.
 - **Refresh:** `npm run credits`.
+
+## Combined decisions, round 2 (2026-11-27)
+
+- **Marvel Disney XD shows (D-12).** There are two continuities:
+  - `marvel-xd-2012`: *Ultimate Spider-Man*, *Hulk and the Agents of S.M.A.S.H.*, and *Avengers Assemble* S1–4.
+  - `marvel-disney-xd`: *Guardians of the Galaxy* (2015), *Spider-Man* (2017), and *Avengers: Black Panther's Quest*.
+  - Sources: Wikipedia's "Marvel Animation" ("would be a part of the same fictional universe", Marvel, May 2013), and "Spider-Man (2017 TV series)" citing writer Harrison Wilcox (2020-07-13): "Ultimate Spider-Man, Agents of SMASH, and Seasons 1-4 of Avengers are all in the same continuity. Guardians, Marvel's Spider-Man, and Black Panther's Quest are all in another continuity."
+  - That is a writer's tweet, not an official Marvel statement.
+  - Season dates come from the episode-list articles. Old series-level ids are aliased to the new season ids.
+  - *Black Panther's Quest* is its own title, linked to *Avengers Assemble*.
+- **More DC titles (D-11).** 21 added:
+  - 14 DC Showcase shorts, from the DC Showcase table in DCUAOM (rev 1388055290). *Kamandi* goes in the Tomorrowverse and *Constantine: The House of Mystery* in the DCAMU, right after *Apokolips War*; both are sourced. *Catwoman* and *Death in the Family* get links.
+  - *Lobo* (2000) is standalone, since its DCAU status is "still disputed". *Gotham Girls* is in the DCAU ("It takes place in the DC Animated Universe").
+  - *Mister Miracle* is in the DCU, unreleased, with only the year (2028).
+  - *DC Super Hero Girls* (2015 and 2019), *Batman: Caped Crusader* and *My Adventures with Superman* each have their own continuity, since no source places them in one.
+- **Cast & crew (D-29 answer).**
+  - Cast is no longer capped: every Wikidata cast member is kept, with Wikidata character ids, so the same character can be matched across titles and universes.
+  - Cameos (D-35): Wikidata has no cameo qualifier on these items (checked: only P453, P4633, P1545 and P1810 are used). `scripts/fetch/cameos.ts` keeps each Wikipedia sentence that mentions "cameo", along with its linked names. A cast credit is flagged as a cameo only if that person, or their character, is linked in one of those sentences. No new people are added this way.
+- **Watch orders.** Each new recommended order comes with its guides, their dates, a written criteria text, and the guides supporting each entry (`unit_sources`).
+  - Release order is the backbone; a change needs at least 2 guides to agree.
+  - Exceptions: Star Wars (saga films first, agreed by 2 guides); Star Trek (grouped by crew, agreed by 2); MonsterVerse (*Monarch* S1 after *Godzilla* 2014, agreed by 2).
+  - The MonsterVerse essentials rule (D-36) and HotD S3 (D-37) are judgement calls.
+  - Official orders:
+    - StarWars.com "Star Wars Movies and Series Viewing Guide": 28 chronological entries, verbatim.
+    - StarTrek.com, published 2026-07-20: series-level order, verbatim. Each series is shown in full in that order.
+  - Orders never mix continuities (D-38).
+- **Word counts (D-31).**
+  - Counts now carry `word_count_source` and are shown with a numbered citation.
+  - *The Wheel of Time Companion*: about 350,000. This is a pre-publication figure from editor Harriet McDougal, reported by The Wertzone (Worldcon 2014).
+  - The Wheel of Time Wiki's books table (oldid 165374, uncited) gives different counts. These are noted on each book.
+  - Not used: ReadingLength's "Guess" values (*Fire & Blood* 176,500; *The Hedge Knight* 42,000, comic edition) and a from-memory forum figure. No count was found for *The Sworn Sword*, *The Mystery Knight*, *The Rise of the Dragon*, *The Sons of the Dragon*, *The Rogue Prince* or *The World of Ice & Fire*.

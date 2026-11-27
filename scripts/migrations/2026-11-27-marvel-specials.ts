@@ -940,7 +940,7 @@ for (const i of ITEMS) {
     links: [], constituents: [], credits: [],
     units: [{
       id: i.id, label: i.type === 'motion-comic' ? 'Series' : i.type === 'special' ? 'Special' : 'Film', season: null, episode_range: null, episode_count: null,
-      runtime_min: i.runtime, pages: null, word_count: null, timeline_branch: 'main', canon_tier: null,
+      runtime_min: i.runtime, pages: null, word_count: null, word_count_source: null, timeline_branch: 'main', canon_tier: null,
       in_universe: { start: null, end: null, label: 'Standalone', precision: 'relative', confidence: 'stated', note: 'Standalone story; listed by release.', order_index: (sorted.indexOf(i) + 1) * 10, relative_to: null },
       release: { date: i.date, end_date: null, year: Number(i.date.slice(0, 4)), note: [i.note, i.date.length === 4 ? 'Year only: no exact date in the sources.' : ''].filter(Boolean).join(' ') },
       status: 'released', groupings: { origin: i.line }, platform_or_network: null, source_keys: {}, source_urls: src, notes: `Wikipedia: "${i.quote}"`,

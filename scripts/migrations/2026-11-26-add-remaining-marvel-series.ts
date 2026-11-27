@@ -107,7 +107,7 @@ for (const s of SPECS) {
   }
   const units: Unit[] = parts.map((p) => ({
     id: parts.length === 1 && p.label.startsWith('Series') ? `${s.id}-series` : `${s.id}-s${p.season}`,
-    label: p.label, season: p.season, episode_range: null, episode_count: p.episodes, runtime_min: null, pages: null, word_count: null,
+    label: p.label, season: p.season, episode_range: null, episode_count: p.episodes, runtime_min: null, pages: null, word_count: null, word_count_source: null,
     timeline_branch: branch, canon_tier: null,
     in_universe: { start: null, end: null, label: p.label, precision: 'relative', confidence: 'inferred', note: s.note, order_index: 0, relative_to: null },
     release: { date: p.start, end_date: p.end, year: p.start ? Number(p.start.slice(0, 4)) : null, note: p.label.startsWith('Series (') ? 'Series-level dates from the article infobox; per-season split is a TODO.' : '' },

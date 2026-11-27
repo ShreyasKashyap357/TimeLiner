@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T07:23:50.937Z",
+ "fetched_at": "2026-11-27T07:47:09.196Z",
  "license": "CC0",
  "credits": [
   {
@@ -18537,6 +18537,64 @@
    "enwiki": "Batman: Knightfall (film)",
    "qid": "Q140660842",
    "roles": {}
+  },
+  {
+   "enwiki": "Gotham Girls",
+   "qid": "Q1615413",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q253561",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "DC Super Hero Girls (2015 web series)",
+   "qid": null,
+   "roles": {}
+  },
+  {
+   "enwiki": "DC Super Hero Girls (TV series)",
+   "qid": "Q48742831",
+   "roles": {}
+  },
+  {
+   "enwiki": "Batman: Caped Crusader",
+   "qid": "Q125988942",
+   "roles": {
+    "creator": [
+     {
+      "qid": "Q369717",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "My Adventures with Superman",
+   "qid": "Q119774569",
+   "roles": {
+    "composer": [
+     {
+      "qid": "Q43268790",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q121120468",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
   }
  ],
  "labels": {
@@ -20739,6 +20797,8 @@
   "Q17566714": "Álvaro Morte",
   "Q9012879": "Jorge R. Gutiérrez",
   "Q1191146": "Teresa Ruiz",
-  "Q19878055": "Ego Plum"
+  "Q19878055": "Ego Plum",
+  "Q43268790": "Dominic Lewis",
+  "Q121120468": "Daniel Futcher"
  }
 }

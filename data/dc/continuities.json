@@ -1382,5 +1382,129 @@
       "https://en.wikipedia.org/wiki/Creature_Commandos_(TV_series)"
     ],
     "notes": ""
+  },
+  {
+    "id": "dc-super-hero-girls-2015",
+    "universe": "dc",
+    "name": "DC Super Hero Girls (2015 web series)",
+    "short_name": "DCSHG 2015",
+    "order": 34,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Super_Hero_Girls_(2015_web_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dc-super-hero-girls-2019",
+    "universe": "dc",
+    "name": "DC Super Hero Girls (2019 series)",
+    "short_name": "DCSHG 2019",
+    "order": 35,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "A separate series from the 2015 web series.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DC_Super_Hero_Girls_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "batman-caped-crusader",
+    "universe": "dc",
+    "name": "Batman: Caped Crusader",
+    "short_name": "Caped Crusader",
+    "order": 36,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Called a \"spiritual successor\" to Batman: The Animated Series; not placed in the DCAU. Each season was released all at once.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman:_Caped_Crusader"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "my-adventures-with-superman",
+    "universe": "dc",
+    "name": "My Adventures with Superman",
+    "short_name": "MAWS",
+    "order": 37,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/My_Adventures_with_Superman"
+    ],
+    "notes": ""
   }
 ]

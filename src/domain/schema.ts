@@ -160,6 +160,8 @@ export const Unit = z.object({
   runtime_min: z.number().nullable().default(null),
   pages: z.number().int().nullable().default(null), // print: first-edition page count
   word_count: z.number().int().nullable().default(null),
+  /** Source of word_count, shown as a numbered citation next to it. */
+  word_count_source: url.nullable().default(null),
   timeline_branch: slug,
   canon_tier: CanonTier.nullable().default(null), // null = inherit title's
   in_universe: InUniverse,

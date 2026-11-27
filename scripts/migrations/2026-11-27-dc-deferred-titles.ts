@@ -1600,7 +1600,7 @@ for (const r of RAW) {
     links: [], constituents: [], credits: [], units, ...extra,
   });
   const unit = (id: string, label: string, date: string | null, end: string | null, note: string, extra: Partial<Unit> = {}): Unit => {
-    const u: Unit = { id, label, season: null, episode_range: null, episode_count: null, runtime_min: null, pages: null, word_count: null, timeline_branch: 'main', canon_tier: null,
+    const u: Unit = { id, label, season: null, episode_range: null, episode_count: null, runtime_min: null, pages: null, word_count: null, word_count_source: null, timeline_branch: 'main', canon_tier: null,
       in_universe: iuFor(r, cid), release: { date, end_date: end, year: date ? Number(date.slice(0, 4)) : null, note }, status: status(date), groupings: {},
       platform_or_network: null, source_keys: {}, source_urls: src, notes: '', ...extra };
     newUnits.push(u);

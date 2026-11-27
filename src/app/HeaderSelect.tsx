@@ -24,8 +24,8 @@ export function Swatch({ color, reserve = false }: { color?: string; reserve?: b
  * width), down to `minRem`; the shown value then ellipsises and the tooltip carries the full name.
  * The list opens below the trigger with every option visible. The hint tooltip is suppressed while open.
  */
-export function HeaderSelect({ label, hint, value, options, onChange, placeholder, minRem = 8 }: {
-  label: string; hint: string; value: string; options: HeaderOption[]; onChange: (v: string) => void; placeholder?: string; minRem?: number;
+export function HeaderSelect({ label, hint, value, options, onChange, placeholder, minRem = 8, disabled = false }: {
+  label: string; hint: string; value: string; options: HeaderOption[]; onChange: (v: string) => void; placeholder?: string; minRem?: number; disabled?: boolean;
 }) {
   const [open, setOpen] = useState(false);
   // The hint opens on real pointer hover (after the provider's delay) or keyboard focus only. Radix would also
@@ -46,7 +46,7 @@ export function HeaderSelect({ label, hint, value, options, onChange, placeholde
           onPointerDown={() => { window.clearTimeout(hoverTimer.current); setHover(false); }}
           onFocus={() => setKbd(lastInput === 'keyboard' && Date.now() - closedAt.current > 500)}
           onBlur={() => setKbd(false)}>
-          <Select value={value} onValueChange={onChange} open={open} onOpenChange={(o) => { setOpen(o); setHover(false); setKbd(false); if (!o) closedAt.current = Date.now(); }}>
+          <Select disabled={disabled} value={value} onValueChange={onChange} open={open} onOpenChange={(o) => { setOpen(o); setHover(false); setKbd(false); if (!o) closedAt.current = Date.now(); }}>
             <SelectTrigger aria-label={label} className="w-full min-w-0">
               <span className="grid min-w-0 flex-1 grid-cols-[minmax(0,1fr)] text-left">
                 {options.map((o) => (
@@ -70,7 +70,7 @@ export function HeaderSelect({ label, hint, value, options, onChange, placeholde
           </Select>
         </div>
       </TooltipTrigger>
-      <TooltipContent className="max-w-xs">{current ? <><strong className="font-semibold">{current.label}</strong><br /></> : null}{hint}</TooltipContent>
+      <TooltipContent className="max-w-xs">{disabled ? <>Pick a single universe to choose a continuity.<br /></> : null}{current ? <><strong className="font-semibold">{current.label}</strong><br /></> : null}{hint}</TooltipContent>
     </Tooltip>
   );
 }

@@ -112,7 +112,7 @@ function BranchMap({ branches }: { branches: LaneBranch[] }) {
     ...splitting.map((b) => `${b.label} splits off from ${branches.find((x) => x.id === b.parent)!.label}${b.diverges_at ? ` (${when(b.diverges_at)})` : ''}.`),
   ];
   return (
-    <figure className="mb-3 rounded-md border border-dashed border-border p-2">
+    <figure className="mb-3 min-w-0 rounded-md border border-dashed border-border p-2">
       <figcaption className="mb-1 text-sm font-semibold">How the branches connect</figcaption>
       <div className="overflow-x-auto">
         <svg viewBox={`0 0 ${W} ${H}`} className="h-auto w-full min-w-[480px]" role="img" aria-label={desc.join(' ')}>
@@ -153,11 +153,11 @@ export function ContinuitiesView({ rows }: { rows: Row[] }) {
             <button type="button" className="text-sm underline" onClick={() => update({ view: 'spine', c: l.id }, true)}>Open in-universe timeline →</button>
           </div>
           <BranchMap branches={l.branches} />
-          <div className="grid gap-3 md:grid-cols-2">
+          <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
             {l.branches.map((b) => (
               // Every branch box gets a dashed border so each scrollable list is visibly its own area (user request);
               // non-placeable branches are also tinted.
-              <div key={b.id} className={`rounded-md border border-dashed border-border p-2 ${b.placeable ? '' : 'bg-muted/40'}`}>
+              <div key={b.id} className={`min-w-0 rounded-md border border-dashed border-border p-2 [overflow-wrap:anywhere] ${b.placeable ? '' : 'bg-muted/40'}`}>
                 <h3 className="mb-1 flex items-center gap-2 text-sm font-semibold">
                   <Marker shape={b.marker} color={b.placeable ? (l.branches[0]?.id === b.id ? 'var(--marker-main)' : 'var(--marker-variant)') : 'var(--marker-unplaced)'} />
                   {b.label}{!b.placeable && <span className="font-normal text-muted-foreground"> (non-placeable)</span>}

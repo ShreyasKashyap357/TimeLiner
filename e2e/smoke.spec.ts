@@ -278,3 +278,14 @@ test('tv drawer: viewers per episode and season, no overflow', async ({ page }) 
   await h.scrollIntoViewIfNeeded();
   expect(await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)).toBeLessThanOrEqual(0);
 });
+
+test('long release lists render in batches with "Show more" (all universes)', async ({ page }) => {
+  test.setTimeout(90_000);
+  await page.goto('/?u=all&view=release');
+  const list = page.getByRole('list', { name: /release order/ }).first();
+  await expect(list).toBeVisible({ timeout: 60_000 });
+  const before = await page.locator('main [data-unit]').count();
+  expect(before).toBeLessThanOrEqual(260);
+  await page.getByRole('button', { name: /^Show \d+ more/ }).first().click();
+  await expect.poll(() => page.locator('main [data-unit]').count()).toBeGreaterThan(before);
+});

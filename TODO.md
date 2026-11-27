@@ -23,7 +23,8 @@
 - [x] Playwright smoke (desktop + mobile) incl. axe WCAG 2.1 AA
 - [x] README, CLAUDE.md, CI + Pages deploy workflow, weekly data-drift workflow
 - [ ] update:propose script (auto PR for mechanical drift fixes)
-- [ ] Virtualise long lists (>500 rows) if scrolling gets slow (all-universe view is ~800 units now)
+- [x] Release view renders long lists in batches with "Show more" (all-universe release went from ~16 s to ~5 s)
+- [ ] All universes: initial data load is ~5 s for 42 universes (lazy per-universe chunks; consider an index-only first paint)
 - [x] CHECKPOINT 2 delivered (continuing to Stage 3 per R-10)
 
 ## Stage 3: DC data
@@ -78,7 +79,7 @@
 - [x] Films: runtime, budget, box office from Wikidata / Wikipedia infobox (R-56); 408 / 281 / 276 films. Open: D-67
 - [x] TV: viewers per episode and season from Wikipedia episode tables (R-56); 236 seasons in 64 series. Streaming-only series have no published figures. Open: D-68, D-69
 - [x] No browser-native hover text: runtime e2e check over pages and the drawer (R-55)
-- [ ] Wave 2 universes: research running 2026-11-27 (TWD, Yellowstone, Breaking Bad, Twin Peaks, Stargate, BSG, Expanse, Dune, Narnia, Hunger Games, Shadowhunters, Outlander, Dark Tower, Discworld, Cosmere, Law & Order, NCIS, CSI, One Chicago)
+- [x] Wave 2: 19 universes added 2026-11-27 (procedurals, TWD, Yellowstone, Breaking Bad, Twin Peaks, Narnia, Hunger Games, Shadowhunters, Outlander, Dark Tower, Discworld, Cosmere, Stargate, BSG, Expanse, Dune) with credits
 - [ ] Wave 1 (researching): Wizarding World; radio/stage + Riordan extras; watch orders (Arrowverse, Riordan, Middle-earth, Bond, F&F, WoT); Terminator + Halloween; games for existing universes; GTA / Assassin's Creed / Halo / Fallout / The Last of Us / The Witcher; LEGO; Doctor Who; Gundam
 - [ ] Wave 2: The Walking Dead, Yellowstone (Sheridan), Stargate, Battlestar Galactica, Breaking Bad/BCS, Law & Order / NCIS / CSI / One Chicago, Twin Peaks, Dune, Narnia, Hunger Games, Shadowhunters, The Expanse, Outlander, The Dark Tower, Discworld, Cosmere
 - [ ] Wave 3: Sherlock Holmes (D-51), Jack Ryan, Bourne, Mission: Impossible, Dragon Ball, Naruto/Boruto, One Piece, Pokémon, Ultraman, Kamen Rider, Super Sentai / Power Rangers, Avatar: The Last Airbender, Transformers, TMNT

@@ -1,0 +1,642 @@
+[
+  {
+    "id": "young-indiana-jones-chronicles",
+    "title": "The Young Indiana Jones Chronicles",
+    "sort_title": "Young Indiana Jones Chronicles",
+    "type": "series",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Young Indiana Jones Chronicles",
+      "wikidata": "Q685962",
+      "tmdb": "661",
+      "imdb": "tt0103586"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Young_Indiana_Jones_Chronicles",
+      "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520"
+    ],
+    "notes": "Season-level units; release dates from the episode list's series overview (seasons 1–2 on ABC, TV films on The Family Channel). Episode-title years overlap across seasons, so seasons are ordered by broadcast, not strictly by in-universe year. Harrison Ford appears in one episode as an older Jones narrating 1920 Chicago from 1950 Wyoming (framing only).",
+    "units": [
+      {
+        "id": "young-indiana-jones-chronicles-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1908
+          },
+          "end": {
+            "y": 1917
+          },
+          "label": "1908–1917",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "This feature-length episode consisted of \"Egypt 1908\" and \"Mexico, March 1916\". … Congo, January 1917",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-03-04",
+          "end_date": "1992-04-08",
+          "year": 1992,
+          "note": "Wikipedia: | start1 = March 4, 1992 | end1 = April 8, 1992 | network1 = ABC"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Young_Indiana_Jones_Chronicles",
+          "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "young-indiana-jones-chronicles-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1908
+          },
+          "end": {
+            "y": 1920
+          },
+          "label": "1908–1920",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Vienna, November 1908 … Paris, September 1908 … This feature-length episode consisted of \"New York, June 1920\" and \"New York, July 1920.\"",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-09-21",
+          "end_date": "1993-07-24",
+          "year": 1992,
+          "note": "Wikipedia: | start2 = September 21, 1992 | end2 = July 24, 1993"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Young_Indiana_Jones_Chronicles",
+          "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "young-indiana-jones-chronicles-tv-films",
+        "label": "TV films (1994–96)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 4,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1910
+          },
+          "end": {
+            "y": 1920
+          },
+          "label": "1910–1920",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "This television movie consisted of \"Russia 1910\" and \"Athens 1910\". … This television movie consisted of \"Hollywood, August 1920 (1)\"",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-10-15",
+          "end_date": "1996-06-16",
+          "year": 1994,
+          "note": "Wikipedia: | start2S = October 15, 1994 | end2S = June 16, 1996 | network2S = The Family Channel"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Young_Indiana_Jones_Chronicles",
+          "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "indiana-jones-temple-of-doom",
+        "kind": "references",
+        "note": "Jones in his youth (1908–1920), before the films"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "indiana-jones-temple-of-doom",
+    "title": "Indiana Jones and the Temple of Doom",
+    "sort_title": null,
+    "type": "film",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Indiana Jones and the Temple of Doom",
+      "wikidata": "Q179215",
+      "tmdb": "87",
+      "imdb": "tt0087469"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom",
+      "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Temple_of_Doom&oldid=1387220177"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "indiana-jones-temple-of-doom",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 114,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1935
+          },
+          "end": {
+            "y": 1935
+          },
+          "label": "1935",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In the film, set in 1935, Indiana Jones finds himself stranded in British India",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-05-23",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: Indiana Jones and the Temple of Doom was released by Paramount Pictures on May 23, 1984"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom",
+          "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Temple_of_Doom&oldid=1387220177"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "indiana-jones-raiders",
+        "kind": "references",
+        "note": "prequel: set a year before Raiders"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "indiana-jones-raiders",
+    "title": "Raiders of the Lost Ark",
+    "sort_title": null,
+    "type": "film",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Raiders of the Lost Ark",
+      "wikidata": "Q174284",
+      "tmdb": "85",
+      "imdb": "tt0082971"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+      "https://en.wikipedia.org/w/index.php?title=Raiders_of_the_Lost_Ark&oldid=1385032772"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "indiana-jones-raiders",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 115,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1936
+          },
+          "end": {
+            "y": 1936
+          },
+          "label": "1936",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Set in 1936, the film stars Harrison Ford as Indiana Jones",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1981-06-12",
+          "end_date": null,
+          "year": 1981,
+          "note": "Wikipedia: In the United States (U.S.) and Canada, Raiders of the Lost Ark was released on June 12, 1981, in 1,078 theaters."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+          "https://en.wikipedia.org/w/index.php?title=Raiders_of_the_Lost_Ark&oldid=1385032772"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "indiana-jones-great-circle",
+    "title": "Indiana Jones and the Great Circle",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "machinegames",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Indiana Jones and the Great Circle",
+      "wikidata": "Q124312399",
+      "tmdb": null,
+      "imdb": "tt13860172"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle",
+      "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Great_Circle&oldid=1386038224"
+    ],
+    "notes": "PS5 April 17, 2025; Nintendo Switch 2 May 12, 2026 (infobox).",
+    "units": [
+      {
+        "id": "indiana-jones-great-circle",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1937
+          },
+          "end": {
+            "y": 1937
+          },
+          "label": "1937",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The story follows archaeologist Indiana Jones in 1937 as he attempts to thwart various groups",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-12-09",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: Indiana Jones and the Great Circle was released on December 9, 2024, for Windows and Xbox Series X/S as a timed console exclusive."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle",
+          "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Great_Circle&oldid=1386038224"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "indiana-jones-raiders",
+        "kind": "continues",
+        "note": "set between Raiders and Last Crusade"
+      },
+      {
+        "to": "indiana-jones-last-crusade",
+        "kind": "references",
+        "note": "interquel before Last Crusade"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "indiana-jones-last-crusade",
+    "title": "Indiana Jones and the Last Crusade",
+    "sort_title": null,
+    "type": "film",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Indiana Jones and the Last Crusade",
+      "wikidata": "Q185658",
+      "tmdb": "89",
+      "imdb": "tt0097576"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+      "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Last_Crusade&oldid=1387402580"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "indiana-jones-last-crusade",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 127,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1938
+          },
+          "end": {
+            "y": 1938
+          },
+          "label": "1938 (prologue 1912)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In the film, set in 1938, Indiana Jones searches for his father",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-05-24",
+          "end_date": null,
+          "year": 1989,
+          "note": "Wikipedia: Indiana Jones and the Last Crusade was released in the United States on May 24, 1989, by Paramount Pictures."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+          "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Last_Crusade&oldid=1387402580"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "indiana-jones-raiders",
+        "kind": "continues",
+        "note": "narrative sequel to Raiders"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "indiana-jones-crystal-skull",
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "sort_title": null,
+    "type": "film",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "wikidata": "Q182373",
+      "tmdb": "217",
+      "imdb": "tt0367882"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+      "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&oldid=1387831587"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "indiana-jones-crystal-skull",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 123,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1957
+          },
+          "end": {
+            "y": 1957
+          },
+          "label": "1957",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Set in 1957, it pits Indiana Jones (Harrison Ford) against Soviet KGB agents",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-05-22",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: Indiana Jones and the Kingdom of the Crystal Skull had its premiere at the 61st Cannes Film Festival on May 18, 2008, and was released in the United States on May 22, by Paramount Pictures."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+          "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&oldid=1387831587"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "indiana-jones-last-crusade",
+        "kind": "continues",
+        "note": "sequel to Last Crusade"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "indiana-jones-dial-of-destiny",
+    "title": "Indiana Jones and the Dial of Destiny",
+    "sort_title": null,
+    "type": "film",
+    "universe": "indiana-jones",
+    "continuity": "indiana-jones-main",
+    "studio_brand": "lucasfilm",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Indiana Jones and the Dial of Destiny",
+      "wikidata": "Q24278982",
+      "tmdb": "335977",
+      "imdb": "tt1462764"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny",
+      "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Dial_of_Destiny&oldid=1387655208"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "indiana-jones-dial-of-destiny",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 154,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1969
+          },
+          "end": {
+            "y": 1969
+          },
+          "label": "1969 (prologue 1944)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Set in 1969, the film follows Jones and his estranged goddaughter, Helena … the opening sequence, set in 1944, is meant to contrast with the main plot, which takes place in 1969",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-06-30",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: It was theatrically released in the United States on June 30, 2023, by Walt Disney Studios Motion Pictures"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny",
+          "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Dial_of_Destiny&oldid=1387655208"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "indiana-jones-crystal-skull",
+        "kind": "continues",
+        "note": "twelve years after Crystal Skull"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

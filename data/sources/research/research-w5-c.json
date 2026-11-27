@@ -1,0 +1,1187 @@
+{
+ "ghostbusters": {
+  "continuities": [
+   {
+    "id": "ghostbusters-original",
+    "name": "Ghostbusters (original continuity)",
+    "description": "The 1984 film, Ghostbusters II, the 2009 video game (by the film writers, set two years after II), Afterlife and Frozen Empire.",
+    "quote": "The series returned to the original canon with Ghostbusters: Afterlife (2021) and Ghostbusters: Frozen Empire (2024). … It is a sequel to Ghostbusters (1984) and Ghostbusters II (1989) and is the third mainline installment … Set thirty-two years after the events of Ghostbusters II",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Ghostbusters_II&oldid=1387396201",
+     "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Afterlife&oldid=1388133929"
+    ]
+   },
+   {
+    "id": "ghostbusters-2016",
+    "name": "Ghostbusters (2016 reboot)",
+    "description": "Paul Feig's 2016 reboot; Sony abandoned its sequel and continued the original canon instead.",
+    "quote": "it is a reboot of the Ghostbusters franchise, as well as serving as its third installment. … Sony abandoned plans for a sequel, opting instead to continue the original film canon with Ghostbusters: Afterlife (2021).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Ghostbusters_(2016_film)&oldid=1387982389"
+    ]
+   },
+   {
+    "id": "ghostbusters-animated",
+    "name": "Ghostbusters (animated series)",
+    "description": "The Real Ghostbusters (1986–1991) and its sequel Extreme Ghostbusters (1997). Kept separate from the films: the show reworks the film concept and treats the 1984 film as a movie made about the team.",
+    "quote": "Although the Ghostbusters concept was tinkered with, the finalized show does feature many tie-ins from the films. In the season 1 episode \"Take Two\", the Ghostbusters fly to Hollywood to visit the set of a movie based on their adventures, which is revealed to be the 1984 movie at the end of the episode. … A sequel to The Real Ghostbusters, which aired from 1986 to 1991 on ABC, Extreme Ghostbusters is set after that series' finale.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Real_Ghostbusters&oldid=1387246012",
+     "https://en.wikipedia.org/w/index.php?title=Extreme_Ghostbusters&oldid=1387208541"
+    ],
+    "note": "The Real Ghostbusters lead also calls it \"a spin-off and sequel of the 1984 comedy film Ghostbusters\"; kept as its own continuity per the caller default (the 1984 film exists as an in-universe movie in \"Take Two\"). Recorded as a spinoff link."
+   }
+  ],
+  "titles": [
+   {
+    "id": "ghostbusters-1984",
+    "title": "Ghostbusters",
+    "type": "film",
+    "wiki_article": "Ghostbusters",
+    "continuity": "ghostbusters-original",
+    "studio_or_developer": "Columbia Pictures / Black Rhino",
+    "publisher": "Columbia Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1984-06-08",
+      "release_quote": "{{Film date|1984|06|08}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters&oldid=1387050137",
+      "in_universe": {
+       "year": 1984,
+       "year_end": null,
+       "label": "1984",
+       "confidence": "inferred",
+       "quote": "Set five years after the events of the first film",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters_II&oldid=1387396201",
+       "precision": "year",
+       "note": "Derived: Ghostbusters II is set five years after the first film, and the video game places II in 1989 (\"set in 1991, two years after the events of Ghostbusters II\"), giving 1984. The Ghostbusters article's category \"Films set in 1984\" agrees.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Same name as the 2016 reboot; label Ghostbusters [1984].",
+    "revid": 1387050137,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ghostbusters&oldid=1387050137"
+   },
+   {
+    "id": "ghostbusters-ii",
+    "title": "Ghostbusters II",
+    "type": "film",
+    "wiki_article": "Ghostbusters II",
+    "continuity": "ghostbusters-original",
+    "studio_or_developer": "Columbia Pictures",
+    "publisher": "Columbia Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1989-06-16",
+      "release_quote": "{{Film date|1989|06|16}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters_II&oldid=1387396201",
+      "in_universe": {
+       "year": 1989,
+       "year_end": null,
+       "label": "1989",
+       "confidence": "inferred",
+       "quote": "The game's plot is set in 1991, two years after the events of Ghostbusters II",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423",
+       "precision": "year",
+       "note": "Derived from the video game article (1991 minus two years); article category \"Films set in 1989\" agrees.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ghostbusters-1984",
+      "kind": "continues",
+      "note": "set five years after the first film"
+     }
+    ],
+    "notes": "",
+    "revid": 1387396201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ghostbusters_II&oldid=1387396201"
+   },
+   {
+    "id": "ghostbusters-the-video-game",
+    "title": "Ghostbusters: The Video Game",
+    "type": "video-game",
+    "wiki_article": "Ghostbusters: The Video Game",
+    "continuity": "ghostbusters-original",
+    "studio_or_developer": "Terminal Reality (PS3, Windows, X360) / Red Fly Studio (PS2, PSP, Wii)",
+    "publisher": "Atari Interactive",
+    "platform": "PlayStation 3 / Xbox 360 / Windows / PS2 / Wii",
+    "platforms": [
+     "PlayStation 2",
+     "PlayStation 3",
+     "Wii",
+     "Windows",
+     "Xbox 360"
+    ],
+    "units": [
+     {
+      "key": "game",
+      "label": "Game",
+      "release_date": "2009-06-16",
+      "release_quote": "{{vgrelease|NA|June 16, 2009 … |EU|June 19, 2009}} (PS2, PS3 row of the infobox)",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423",
+      "in_universe": {
+       "year": 1991,
+       "year_end": null,
+       "label": "November 1991 (Thanksgiving)",
+       "confidence": "stated",
+       "quote": "Ghostbusters: The Video Game is set in November 1991 during the Thanksgiving celebrations, two years after the events of the 1989 supernatural comedy film Ghostbusters II.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423",
+       "precision": "year",
+       "note": "Canon status: Aykroyd described the game as \"essentially the third movie\"; on Wikipedia the films neither confirm nor contradict it (only a hidden editor comment in the Afterlife article says Aykroyd \"stated that the Ghostbusters: Video Game was canon\"). Placed in the original continuity on the writers' word; treat canon status as disputed.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ghostbusters-ii",
+      "kind": "continues",
+      "note": "set two years after Ghostbusters II"
+     }
+    ],
+    "notes": "Canon status disputed: \"Aykroyd later described the game as being \\\"essentially the third movie.\\\"\" Afterlife (set 32 years after II) neither references nor contradicts it per Wikipedia. Publisher per infobox: Atari Interactive; PAL PlayStation releases by Sony Computer Entertainment Europe. 2019 remaster by Saber Interactive / Mad Dog Games not a separate unit.",
+    "revid": 1384600423,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423"
+   },
+   {
+    "id": "ghostbusters-afterlife",
+    "title": "Ghostbusters: Afterlife",
+    "type": "film",
+    "wiki_article": "Ghostbusters: Afterlife",
+    "continuity": "ghostbusters-original",
+    "studio_or_developer": "Columbia Pictures / Bron Creative / Ghost Corps",
+    "publisher": "Sony Pictures Releasing",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-11-19",
+      "release_quote": "{{Film date|2021|11|19|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Afterlife&oldid=1388133929",
+      "in_universe": {
+       "year": 2021,
+       "year_end": null,
+       "label": "2021",
+       "confidence": "inferred",
+       "quote": "Set thirty-two years after the events of Ghostbusters II",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Afterlife&oldid=1388133929",
+       "precision": "year",
+       "note": "Derived: 1989 (Ghostbusters II, itself inferred) + 32 = 2021; article category \"Films set in 2021\" agrees.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ghostbusters-ii",
+      "kind": "continues",
+      "note": "set 32 years after Ghostbusters II"
+     },
+     {
+      "to": "ghostbusters-2016",
+      "kind": "references",
+      "note": "Sony dropped the 2016 reboot's sequel to continue the original canon"
+     }
+    ],
+    "notes": "",
+    "revid": 1388133929,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Afterlife&oldid=1388133929"
+   },
+   {
+    "id": "ghostbusters-frozen-empire",
+    "title": "Ghostbusters: Frozen Empire",
+    "type": "film",
+    "wiki_article": "Ghostbusters: Frozen Empire",
+    "continuity": "ghostbusters-original",
+    "studio_or_developer": "Columbia Pictures / Ghost Corps",
+    "publisher": "Sony Pictures Releasing",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-03-22",
+      "release_quote": "{{Film date|2024|3|14|AMC Lincoln Square Theater|2024|3|22|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Frozen_Empire&oldid=1387897105",
+      "in_universe": {
+       "year": 2024,
+       "year_end": null,
+       "label": "2024 (prologue 1904)",
+       "confidence": "inferred",
+       "quote": "Three years after the Summerville incident",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Frozen_Empire&oldid=1387897105",
+       "precision": "year",
+       "note": "Derived: Afterlife (2021, inferred) + 3 = 2024; article categories \"Films set in 1904\" and \"Films set in 2024\" agree.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ghostbusters-afterlife",
+      "kind": "continues",
+      "note": "three years after Afterlife"
+     }
+    ],
+    "notes": "",
+    "revid": 1387897105,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Frozen_Empire&oldid=1387897105"
+   },
+   {
+    "id": "ghostbusters-2016",
+    "title": "Ghostbusters",
+    "type": "film",
+    "wiki_article": "Ghostbusters (2016 film)",
+    "continuity": "ghostbusters-2016",
+    "studio_or_developer": "Columbia Pictures / Village Roadshow Pictures / Ghost Corps",
+    "publisher": "Sony Pictures Releasing",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2016-07-15",
+      "release_quote": "{{Film date|2016|7|9|TCL Chinese Theatre|2016|7|15|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters_(2016_film)&oldid=1387982389",
+      "in_universe": {
+       "year": 2016,
+       "year_end": null,
+       "label": "2016",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Ghostbusters_(2016_film)&oldid=1387982389",
+       "precision": "year",
+       "note": "No prose statement of the year; only the article category \"Films set in 2016\". Not assumed from the release year alone.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ghostbusters-1984",
+      "kind": "reboot-of",
+      "note": "all-female reboot of the franchise"
+     }
+    ],
+    "notes": "Same name as the 1984 film; label Ghostbusters [2016].",
+    "revid": 1387982389,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ghostbusters_(2016_film)&oldid=1387982389"
+   },
+   {
+    "id": "the-real-ghostbusters",
+    "title": "The Real Ghostbusters",
+    "type": "series",
+    "wiki_article": "The Real Ghostbusters",
+    "continuity": "ghostbusters-animated",
+    "studio_or_developer": "DIC Enterprises / Columbia Pictures Television",
+    "publisher": null,
+    "platform": "abc",
+    "platforms": [
+     "abc",
+     "syndication"
+    ],
+    "units": [
+     {
+      "key": "series",
+      "label": "Series (7 seasons)",
+      "release_date": "1986-09-13",
+      "release_end": "1991-10-05",
+      "release_quote": "The series ran on ABC between September 13, 1986 and October 5, 1991 … The series ran on ABC between September 13, 1986 and October 5, 1991",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Real_Ghostbusters&oldid=1387246012",
+      "note": "Per-season air dates are in \"List of The Real Ghostbusters episodes\", which could not be fetched (HTTP 429). Only the series start/end (and season 4 starting in 1988) are sourced.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Series (1986–1991)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Real_Ghostbusters&oldid=1387246012",
+       "precision": "relative",
+       "note": "No in-universe year stated; ordered by season. Episodes aired out of order: \"with multiple episodes airing out of production order.\" Per-season air dates could not be sourced, so the series is one entry.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ghostbusters-1984",
+      "kind": "spinoff",
+      "note": "\"a spin-off and sequel of the 1984 comedy film Ghostbusters\" (kept as a separate continuity)"
+     }
+    ],
+    "notes": "7 seasons, 140 episodes + Slimer! shorts per infobox. Season 1 is the syndicated package in some listings; season boundaries not verified (episode list unfetched).",
+    "revid": 1387246012,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Real_Ghostbusters&oldid=1387246012"
+   },
+   {
+    "id": "extreme-ghostbusters",
+    "title": "Extreme Ghostbusters",
+    "type": "series",
+    "wiki_article": "Extreme Ghostbusters",
+    "continuity": "ghostbusters-animated",
+    "studio_or_developer": "Columbia TriStar Television / Adelaide Productions",
+    "publisher": null,
+    "platform": "syndication",
+    "platforms": [
+     "syndication"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 40,
+      "release_date": "1997-09-01",
+      "release_end": "1997-12-08",
+      "release_quote": "Extreme Ghostbusters is an American animated television series, based on the Ghostbusters franchise, which initially aired from September 1 to December 8, 1997.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Extreme_Ghostbusters&oldid=1387208541",
+      "in_universe": {
+       "year": 1997,
+       "year_end": null,
+       "label": "1997",
+       "confidence": "stated",
+       "quote": "Several years after The Real Ghostbusters ended, there is a lull in supernatural activity in New York City and the team has gone their separate ways. In 1997, during excavation of a new subway",
+       "source": "https://en.wikipedia.org/w/index.php?title=Extreme_Ghostbusters&oldid=1387208541",
+       "precision": "year",
+       "note": "From the episode 1 summary on the series article.",
+       "order_index": 7
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-real-ghostbusters",
+      "kind": "continues",
+      "note": "set after The Real Ghostbusters finale"
+     }
+    ],
+    "notes": "Aired on Bohbot Kids Network's \"Extreme Block\".",
+    "revid": 1387208541,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Extreme_Ghostbusters&oldid=1387208541"
+   }
+  ]
+ },
+ "indiana-jones": {
+  "continuities": [
+   {
+    "id": "indiana-jones-main",
+    "name": "Indiana Jones",
+    "description": "The five films, The Young Indiana Jones Chronicles (Jones in his youth) and the Great Circle game (set between Raiders and Last Crusade).",
+    "quote": "In 1992, the franchise expanded to a television series with The Young Indiana Jones Chronicles, depicting Jones in his youth. … features an original narrative set between the events of Raiders of the Lost Ark (1981) and Indiana Jones and the Last Crusade (1989).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Indiana_Jones&oldid=1384872391",
+     "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Great_Circle&oldid=1386038224"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "young-indiana-jones-chronicles",
+    "title": "The Young Indiana Jones Chronicles",
+    "type": "series",
+    "wiki_article": "The Young Indiana Jones Chronicles",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "Lucasfilm / Amblin Entertainment / Paramount",
+    "publisher": null,
+    "platform": "abc",
+    "platforms": [
+     "abc",
+     "family-channel"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 6,
+      "release_date": "1992-03-04",
+      "release_end": "1992-04-08",
+      "release_quote": "| start1 = {{Start date|1992|3|4}} | end1 = {{End date|1992|4|8}} | network1 = ABC",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520",
+      "in_universe": {
+       "year": 1908,
+       "year_end": 1917,
+       "label": "1908–1917",
+       "confidence": "stated",
+       "quote": "This feature-length episode consisted of \"Egypt 1908\" and \"Mexico, March 1916\". … Congo, January 1917",
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520",
+       "precision": "year",
+       "note": "Season 1 episode titles run from \"Egypt 1908\" (part of Curse of the Jackal) to \"Congo, January 1917\". Each episode title states its place and date; the season range spans them. Bookend scenes with the 93-year-old Jones are not counted.",
+       "order_index": 0
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 22,
+      "release_date": "1992-09-21",
+      "release_end": "1993-07-24",
+      "release_quote": "| start2 = {{Start date|1992|9|21}} | end2 = {{End date|1993|7|24}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520",
+      "in_universe": {
+       "year": 1908,
+       "year_end": 1920,
+       "label": "1908–1920",
+       "confidence": "stated",
+       "quote": "Vienna, November 1908 … Paris, September 1908 … This feature-length episode consisted of \"New York, June 1920\" and \"New York, July 1920.\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520",
+       "precision": "year",
+       "note": "Season 2 episode titles run from \"Paris, September 1908\" / \"Vienna, November 1908\" / \"Florence, May 1908\" to \"New York, July 1920\". Each episode title states its place and date; the season range spans them. Bookend scenes with the 93-year-old Jones are not counted.",
+       "order_index": 1
+      },
+      "note": "22 episodes per the overview; four (\"Florence, May 1908\", \"Prague, August 1917\", \"Palestine, October 1917\", \"Transylvania, January 1918\") were unaired in the original run. The end date is the last aired episode."
+     },
+     {
+      "key": "tv-films",
+      "label": "TV films (1994–96)",
+      "episodes": 4,
+      "release_date": "1994-10-15",
+      "release_end": "1996-06-16",
+      "release_quote": "| start2S = {{Start date|1994|10|15}} | end2S = {{End date|1996|6|16}} | network2S = The Family Channel",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520",
+      "in_universe": {
+       "year": 1910,
+       "year_end": 1920,
+       "label": "1910–1920",
+       "confidence": "stated",
+       "quote": "This television movie consisted of \"Russia 1910\" and \"Athens 1910\". … This television movie consisted of \"Hollywood, August 1920 (1)\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520",
+       "precision": "year",
+       "note": "TV films run from \"Russia 1910\" / \"Athens 1910\" (Travels with Father) to \"Hollywood, August 1920\". Each episode title states its place and date; the season range spans them. Bookend scenes with the 93-year-old Jones are not counted.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "indiana-jones-temple-of-doom",
+      "kind": "references",
+      "note": "Jones in his youth (1908–1920), before the films"
+     }
+    ],
+    "notes": "Season-level units; release dates from the episode list's series overview (seasons 1–2 on ABC, TV films on The Family Channel). Episode-title years overlap across seasons, so seasons are ordered by broadcast, not strictly by in-universe year. Harrison Ford appears in one episode as an older Jones narrating 1920 Chicago from 1950 Wyoming (framing only).",
+    "revid": 1387263115,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Young_Indiana_Jones_Chronicles&oldid=1387263115",
+    "episode_list_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Young_Indiana_Jones_Chronicles_episodes&oldid=1325448520"
+   },
+   {
+    "id": "indiana-jones-temple-of-doom",
+    "title": "Indiana Jones and the Temple of Doom",
+    "type": "film",
+    "wiki_article": "Indiana Jones and the Temple of Doom",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "Lucasfilm",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1984-05-23",
+      "release_quote": "Indiana Jones and the Temple of Doom was released by Paramount Pictures on May 23, 1984",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Temple_of_Doom&oldid=1387220177",
+      "in_universe": {
+       "year": 1935,
+       "year_end": null,
+       "label": "1935",
+       "confidence": "stated",
+       "quote": "In the film, set in 1935, Indiana Jones finds himself stranded in British India",
+       "source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Temple_of_Doom&oldid=1387220177",
+       "precision": "year",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "indiana-jones-raiders",
+      "kind": "references",
+      "note": "prequel: set a year before Raiders"
+     }
+    ],
+    "notes": "",
+    "revid": 1387220177,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Temple_of_Doom&oldid=1387220177"
+   },
+   {
+    "id": "indiana-jones-raiders",
+    "title": "Raiders of the Lost Ark",
+    "type": "film",
+    "wiki_article": "Raiders of the Lost Ark",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "Lucasfilm",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1981-06-12",
+      "release_quote": "In the United States (U.S.) and Canada, Raiders of the Lost Ark was released on June 12, 1981, in 1,078 theaters.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Raiders_of_the_Lost_Ark&oldid=1385032772",
+      "in_universe": {
+       "year": 1936,
+       "year_end": null,
+       "label": "1936",
+       "confidence": "stated",
+       "quote": "Set in 1936, the film stars Harrison Ford as Indiana Jones",
+       "source": "https://en.wikipedia.org/w/index.php?title=Raiders_of_the_Lost_Ark&oldid=1385032772",
+       "precision": "year",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1385032772,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Raiders_of_the_Lost_Ark&oldid=1385032772"
+   },
+   {
+    "id": "indiana-jones-great-circle",
+    "title": "Indiana Jones and the Great Circle",
+    "type": "video-game",
+    "wiki_article": "Indiana Jones and the Great Circle",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "MachineGames",
+    "publisher": "Bethesda Softworks",
+    "platform": "Windows / Xbox Series X/S",
+    "platforms": [
+     "Windows",
+     "Xbox Series X/S",
+     "PlayStation 5",
+     "Nintendo Switch 2"
+    ],
+    "units": [
+     {
+      "key": "game",
+      "label": "Game",
+      "release_date": "2024-12-09",
+      "release_quote": "Indiana Jones and the Great Circle was released on December 9, 2024, for Windows and Xbox Series X/S as a timed console exclusive.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Great_Circle&oldid=1386038224",
+      "in_universe": {
+       "year": 1937,
+       "year_end": null,
+       "label": "1937",
+       "confidence": "stated",
+       "quote": "The story follows archaeologist Indiana Jones in 1937 as he attempts to thwart various groups",
+       "source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Great_Circle&oldid=1386038224",
+       "precision": "year",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "indiana-jones-raiders",
+      "kind": "continues",
+      "note": "set between Raiders and Last Crusade"
+     },
+     {
+      "to": "indiana-jones-last-crusade",
+      "kind": "references",
+      "note": "interquel before Last Crusade"
+     }
+    ],
+    "notes": "PS5 April 17, 2025; Nintendo Switch 2 May 12, 2026 (infobox).",
+    "revid": 1386038224,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Great_Circle&oldid=1386038224"
+   },
+   {
+    "id": "indiana-jones-last-crusade",
+    "title": "Indiana Jones and the Last Crusade",
+    "type": "film",
+    "wiki_article": "Indiana Jones and the Last Crusade",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "Lucasfilm",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1989-05-24",
+      "release_quote": "Indiana Jones and the Last Crusade was released in the United States on May 24, 1989, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Last_Crusade&oldid=1387402580",
+      "in_universe": {
+       "year": 1938,
+       "year_end": null,
+       "label": "1938 (prologue 1912)",
+       "confidence": "stated",
+       "quote": "In the film, set in 1938, Indiana Jones searches for his father",
+       "source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Last_Crusade&oldid=1387402580",
+       "precision": "year",
+       "note": "Prologue with the young Indiana; article category \"Films set in 1912\".",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "indiana-jones-raiders",
+      "kind": "continues",
+      "note": "narrative sequel to Raiders"
+     }
+    ],
+    "notes": "",
+    "revid": 1387402580,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Last_Crusade&oldid=1387402580"
+   },
+   {
+    "id": "indiana-jones-crystal-skull",
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "type": "film",
+    "wiki_article": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "Lucasfilm",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2008-05-22",
+      "release_quote": "Indiana Jones and the Kingdom of the Crystal Skull had its premiere at the 61st Cannes Film Festival on May 18, 2008, and was released in the United States on May 22, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&oldid=1387831587",
+      "in_universe": {
+       "year": 1957,
+       "year_end": null,
+       "label": "1957",
+       "confidence": "stated",
+       "quote": "Set in 1957, it pits Indiana Jones (Harrison Ford) against Soviet KGB agents",
+       "source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&oldid=1387831587",
+       "precision": "year",
+       "order_index": 7
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "indiana-jones-last-crusade",
+      "kind": "continues",
+      "note": "sequel to Last Crusade"
+     }
+    ],
+    "notes": "",
+    "revid": 1387831587,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&oldid=1387831587"
+   },
+   {
+    "id": "indiana-jones-dial-of-destiny",
+    "title": "Indiana Jones and the Dial of Destiny",
+    "type": "film",
+    "wiki_article": "Indiana Jones and the Dial of Destiny",
+    "continuity": "indiana-jones-main",
+    "studio_or_developer": "Lucasfilm",
+    "publisher": "Walt Disney Studios Motion Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-06-30",
+      "release_quote": "It was theatrically released in the United States on June 30, 2023, by Walt Disney Studios Motion Pictures",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Dial_of_Destiny&oldid=1387655208",
+      "in_universe": {
+       "year": 1969,
+       "year_end": null,
+       "label": "1969 (prologue 1944)",
+       "confidence": "stated",
+       "quote": "Set in 1969, the film follows Jones and his estranged goddaughter, Helena … the opening sequence, set in 1944, is meant to contrast with the main plot, which takes place in 1969",
+       "source": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Dial_of_Destiny&oldid=1387655208",
+       "precision": "year",
+       "order_index": 8
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "indiana-jones-crystal-skull",
+      "kind": "continues",
+      "note": "twelve years after Crystal Skull"
+     }
+    ],
+    "notes": "",
+    "revid": 1387655208,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Indiana_Jones_and_the_Dial_of_Destiny&oldid=1387655208"
+   }
+  ]
+ },
+ "rocky": {
+  "continuities": [
+   {
+    "id": "rocky-main",
+    "name": "Rocky / Creed",
+    "description": "The six Rocky films and the Creed sequel films, one continuity.",
+    "quote": "Creed, was released in 2015 and started its own series. … Three years after his loss to \"Pretty\" Ricky Conlan, Adonis \"Donnie\" Creed, alongside his trainer Rocky Balboa",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Rocky_Balboa_(film)&oldid=1384177326",
+     "https://en.wikipedia.org/w/index.php?title=Creed_II&oldid=1384987002"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "rocky",
+    "title": "Rocky",
+    "type": "film",
+    "wiki_article": "Rocky",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Chartoff-Winkler Productions",
+    "publisher": "United Artists",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1976-11-21",
+      "release_quote": "{{Film date|1976|11|21|New York City}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rocky&oldid=1388311318",
+      "in_universe": {
+       "year": 1975,
+       "year_end": 1976,
+       "label": "November 1975 – New Year's Day 1976",
+       "confidence": "inferred",
+       "quote": "was released in the United States on November 25, by Warner Bros. Pictures, to coincide with the 40th anniversary of the date of the opening scene in the first film",
+       "source": "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664",
+       "precision": "year",
+       "note": "Derived: Creed (US release November 25, 2015) marks the 40th anniversary of Rocky's opening scene, so the film opens November 25, 1975; Rocky II's plot opens \"On New Year's Day 1976\" with the title fight just over. Rocky article categories \"Films set in 1975\" and \"Films set in 1976\" agree. Release date is the New York City premiere in the infobox.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Label Rocky [1976] if a same-name title exists.",
+    "revid": 1388311318,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rocky&oldid=1388311318"
+   },
+   {
+    "id": "rocky-ii",
+    "title": "Rocky II",
+    "type": "film",
+    "wiki_article": "Rocky II",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Chartoff-Winkler Productions",
+    "publisher": "United Artists",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1979-06-15",
+      "release_quote": "{{Film date|1979|6|15|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rocky_II&oldid=1384940716",
+      "in_universe": {
+       "year": 1976,
+       "year_end": null,
+       "label": "1976",
+       "confidence": "stated",
+       "quote": "On New Year's Day 1976, world heavyweight boxing champion Apollo Creed has successfully defended his title in a split decision against challenger Rocky Balboa.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rocky_II&oldid=1384940716",
+       "precision": "year",
+       "note": "Opens on the night of the first film's fight; the rematch date is not stated. Category \"Films set in 1976\".",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rocky",
+      "kind": "continues",
+      "note": "opens the night of the first fight"
+     }
+    ],
+    "notes": "",
+    "revid": 1384940716,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rocky_II&oldid=1384940716"
+   },
+   {
+    "id": "rocky-iii",
+    "title": "Rocky III",
+    "type": "film",
+    "wiki_article": "Rocky III",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Chartoff-Winkler Productions",
+    "publisher": "MGM/UA Entertainment Co.",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1982-05-28",
+      "release_quote": "Rocky III was released in the United States on May 28, 1982, by MGM/UA Entertainment Co.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rocky_III&oldid=1387994863",
+      "in_universe": {
+       "year": 1981,
+       "year_end": 1982,
+       "label": "1981–1982",
+       "confidence": "stated",
+       "quote": "In 1981, 5 years after winning the world heavyweight championship against Apollo Creed",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rocky_III&oldid=1387994863",
+       "precision": "year",
+       "note": "End year from the article category \"Films set in 1982\" only.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rocky-ii",
+      "kind": "continues",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1387994863,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rocky_III&oldid=1387994863"
+   },
+   {
+    "id": "rocky-iv",
+    "title": "Rocky IV",
+    "type": "film",
+    "wiki_article": "Rocky IV",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Chartoff-Winkler Productions",
+    "publisher": "MGM/UA Entertainment Co.",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1985-11-27",
+      "release_quote": "{{Film date|1985|11|21|Premiere|1985|11|27|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rocky_IV&oldid=1385220851",
+      "in_universe": {
+       "year": 1985,
+       "year_end": null,
+       "label": "1985",
+       "confidence": "stated",
+       "quote": "In 1985, Russian boxer and Soviet Army Captain Ivan Drago arrives in the United States from the Soviet Union",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rocky_IV&oldid=1385220851",
+       "precision": "year",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rocky-iii",
+      "kind": "continues",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1385220851,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rocky_IV&oldid=1385220851"
+   },
+   {
+    "id": "rocky-v",
+    "title": "Rocky V",
+    "type": "film",
+    "wiki_article": "Rocky V",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Chartoff-Winkler Productions",
+    "publisher": "United Artists (US) / United International Pictures (international)",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1990-11-16",
+      "release_quote": "{{Film date|1990|11|16|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rocky_V&oldid=1385585645",
+      "in_universe": {
+       "year": 1985,
+       "year_end": 1986,
+       "label": "1985–1986",
+       "confidence": "inferred",
+       "quote": "The age of Robert Jr. has often been cited as a continuity error, as in Rocky IV, which is set in 1985, he is 9 years old, yet in Rocky V, which takes place immediately after Rocky IV, he is 14 years old.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rocky_V&oldid=1385585645",
+       "precision": "year",
+       "note": "Derived: \"takes place immediately after Rocky IV\" (1985); categories \"Films set in 1985\" and \"Films set in 1986\". Robert Jr.'s age jump is a noted continuity error.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rocky-iv",
+      "kind": "continues",
+      "note": "immediately after Rocky IV"
+     }
+    ],
+    "notes": "",
+    "revid": 1385585645,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rocky_V&oldid=1385585645"
+   },
+   {
+    "id": "rocky-balboa",
+    "title": "Rocky Balboa",
+    "type": "film",
+    "wiki_article": "Rocky Balboa (film)",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Revolution Studios / Chartoff Productions / Winkler Films",
+    "publisher": "MGM Distribution Co.",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-12-20",
+      "release_quote": "theatrically released by MGM Distribution Co. on December 20, 2006, sixteen years after the release of Rocky V",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rocky_Balboa_(film)&oldid=1384177326",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "sixteen years after Rocky V",
+       "confidence": "inferred",
+       "quote": "Sixteen years after his street fight with Tommy \"The Machine\" Gunn, Rocky Balboa, now approaching sixty years of age, is long retired from boxing",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rocky_Balboa_(film)&oldid=1384177326",
+       "precision": "relative",
+       "note": "Relative only. Arithmetic from Rocky V (1985–86, inferred) would give about 2001–2002, but no source states a year and the article has no \"Films set in\" year category, so the year is left null.",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rocky-v",
+      "kind": "continues",
+      "note": "sixteen years after Rocky V"
+     }
+    ],
+    "notes": "",
+    "revid": 1384177326,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rocky_Balboa_(film)&oldid=1384177326"
+   },
+   {
+    "id": "creed",
+    "title": "Creed",
+    "type": "film",
+    "wiki_article": "Creed (film)",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Metro-Goldwyn-Mayer / New Line Cinema / Chartoff-Winkler",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-11-25",
+      "release_quote": "Creed had its premiere on November 19, 2015, at the Regency Village Theater in Los Angeles and was released in the United States on November 25, by Warner Bros. Pictures",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664",
+      "in_universe": {
+       "year": 2015,
+       "year_end": null,
+       "label": "2015 (prologue 1998)",
+       "confidence": "inferred",
+       "quote": "In 1998, Adonis \"Donnie\" Johnson … is serving time in a Los Angeles youth detention center … In the present time, Adonis is in Tijuana",
+       "source": "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664",
+       "precision": "year",
+       "note": "Prologue year 1998 is stated; the main story is \"the present time\", dated 2015 only by the category \"Films set in 2015\".",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rocky-balboa",
+      "kind": "continues",
+      "note": "spin-off sequel series with Rocky as trainer"
+     }
+    ],
+    "notes": "",
+    "revid": 1387940664,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664"
+   },
+   {
+    "id": "creed-ii",
+    "title": "Creed II",
+    "type": "film",
+    "wiki_article": "Creed II",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Metro-Goldwyn-Mayer / New Line Cinema",
+    "publisher": "MGM (US) / Warner Bros. Pictures (international)",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-11-21",
+      "release_quote": "{{Film date|2018|11|14|Premiere|2018|11|21|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Creed_II&oldid=1384987002",
+      "in_universe": {
+       "year": 2018,
+       "year_end": null,
+       "label": "2018 (flashback 1985)",
+       "confidence": "inferred",
+       "quote": "Three years after his loss to \"Pretty\" Ricky Conlan",
+       "source": "https://en.wikipedia.org/w/index.php?title=Creed_II&oldid=1384987002",
+       "precision": "year",
+       "note": "Derived: Creed (2015, inferred) + 3 = 2018; categories \"Films set in 1985\" and \"Films set in 2018\" agree.",
+       "order_index": 7
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "creed",
+      "kind": "continues",
+      "note": ""
+     },
+     {
+      "to": "rocky-iv",
+      "kind": "references",
+      "note": "the Dragos; the 1985 fight that killed Apollo"
+     }
+    ],
+    "notes": "",
+    "revid": 1384987002,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Creed_II&oldid=1384987002"
+   },
+   {
+    "id": "creed-iii",
+    "title": "Creed III",
+    "type": "film",
+    "wiki_article": "Creed III",
+    "continuity": "rocky-main",
+    "studio_or_developer": "Metro-Goldwyn-Mayer / Proximity Media",
+    "publisher": "Metro-Goldwyn-Mayer Pictures (US) / Warner Bros. Pictures (international)",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-03-03",
+      "release_quote": "Creed III premiered in Mexico City on February 9, 2023, which coincided with Jordan's 36th birthday, and was released in the United States on March 3.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Creed_III&oldid=1386707299",
+      "in_universe": {
+       "year": 2024,
+       "year_end": null,
+       "label": "2024 (prologue 2002)",
+       "confidence": "disputed",
+       "quote": "In 2002, Adonis \"Donnie\" Creed sneaks out … In 2024, six years after defeating Viktor Drago",
+       "source": "https://en.wikipedia.org/w/index.php?title=Creed_III&oldid=1386707299",
+       "precision": "year",
+       "note": "Conflict: the plot says 2024 (consistent with six years after Creed II, 2018) but the article categories are \"Films set in 2002\", \"Films set in 2017\" and \"Films set in 2022\"; a footnote also says \"the film erroneously states the fight took place in 2017\". Plot year used.",
+       "order_index": 8
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "creed-ii",
+      "kind": "continues",
+      "note": "six years after Creed II"
+     }
+    ],
+    "notes": "",
+    "revid": 1386707299,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Creed_III&oldid=1386707299"
+   }
+  ]
+ },
+ "_ranks": {
+  "ghostbusters": [
+   "ghostbusters-1984:film",
+   "ghostbusters-ii:film",
+   "ghostbusters-the-video-game:game",
+   "ghostbusters-afterlife:film",
+   "ghostbusters-frozen-empire:film",
+   "ghostbusters-2016:film",
+   "the-real-ghostbusters:series",
+   "extreme-ghostbusters:s1"
+  ],
+  "indiana-jones": [
+   "young-indiana-jones-chronicles:s1",
+   "young-indiana-jones-chronicles:s2",
+   "young-indiana-jones-chronicles:tv-films",
+   "indiana-jones-temple-of-doom:film",
+   "indiana-jones-raiders:film",
+   "indiana-jones-great-circle:game",
+   "indiana-jones-last-crusade:film",
+   "indiana-jones-crystal-skull:film",
+   "indiana-jones-dial-of-destiny:film"
+  ],
+  "rocky": [
+   "rocky:film",
+   "rocky-ii:film",
+   "rocky-iii:film",
+   "rocky-iv:film",
+   "rocky-v:film",
+   "rocky-balboa:film",
+   "creed:film",
+   "creed-ii:film",
+   "creed-iii:film"
+  ]
+ }
+}

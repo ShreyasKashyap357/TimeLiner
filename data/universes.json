@@ -1770,5 +1770,53 @@
     "data_dir": "maddock-horror-comedy",
     "description": "Maddock Films' connected horror comedies: Stree, Bhediya, Munjya, Stree 2, Thamma.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "ghostbusters",
+    "name": "Ghostbusters",
+    "short_name": "Ghostbusters",
+    "order": 70,
+    "enabled": true,
+    "accent": {
+      "primary": "#2E7D32",
+      "secondary": "#D32F2F"
+    },
+    "default_continuity": "ghostbusters-original",
+    "grouping_schemes": [],
+    "data_dir": "ghostbusters",
+    "description": "The original Ghostbusters films with Afterlife and Frozen Empire (and the 2009 game, canon status disputed), the 2016 reboot, and the animated series.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "indiana-jones",
+    "name": "Indiana Jones",
+    "short_name": "Indiana Jones",
+    "order": 71,
+    "enabled": true,
+    "accent": {
+      "primary": "#8D6E63",
+      "secondary": "#FFB300"
+    },
+    "default_continuity": "indiana-jones-main",
+    "grouping_schemes": [],
+    "data_dir": "indiana-jones",
+    "description": "The five Indiana Jones films, The Young Indiana Jones Chronicles and The Great Circle game, in one continuity by their stated years.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "rocky",
+    "name": "Rocky",
+    "short_name": "Rocky",
+    "order": 72,
+    "enabled": true,
+    "accent": {
+      "primary": "#B71C1C",
+      "secondary": "#FFD54F"
+    },
+    "default_continuity": "rocky-main",
+    "grouping_schemes": [],
+    "data_dir": "rocky",
+    "description": "The Rocky and Creed films in one continuity.",
+    "last_verified": "2026-11-27"
   }
 ]

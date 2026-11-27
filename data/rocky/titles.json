@@ -1,0 +1,711 @@
+[
+  {
+    "id": "rocky",
+    "title": "Rocky",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "chartoff-winkler-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rocky",
+      "wikidata": "Q188652",
+      "tmdb": "1366",
+      "imdb": "tt0075148"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocky",
+      "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664"
+    ],
+    "notes": "Label Rocky [1976] if a same-name title exists.",
+    "units": [
+      {
+        "id": "rocky",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 119,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1975
+          },
+          "end": {
+            "y": 1976
+          },
+          "label": "November 1975 – New Year's Day 1976",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "was released in the United States on November 25, by Warner Bros. Pictures, to coincide with the 40th anniversary of the date of the opening scene in the first film",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1976-11-21",
+          "end_date": null,
+          "year": 1976,
+          "note": "Wikipedia: November 21, 1976 (New York City)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky",
+          "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "rocky-ii",
+    "title": "Rocky II",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "chartoff-winkler-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rocky II",
+      "wikidata": "Q478366",
+      "tmdb": "1367",
+      "imdb": "tt0079817"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocky_II",
+      "https://en.wikipedia.org/w/index.php?title=Rocky_II&oldid=1384940716"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "rocky-ii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 119,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1976
+          },
+          "end": {
+            "y": 1976
+          },
+          "label": "1976",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "On New Year's Day 1976, world heavyweight boxing champion Apollo Creed has successfully defended his title in a split decision against challenger Rocky Balboa.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1979-06-15",
+          "end_date": null,
+          "year": 1979,
+          "note": "Wikipedia: June 15, 1979 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky_II",
+          "https://en.wikipedia.org/w/index.php?title=Rocky_II&oldid=1384940716"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "rocky",
+        "kind": "continues",
+        "note": "opens the night of the first fight"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "rocky-iii",
+    "title": "Rocky III",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "chartoff-winkler-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rocky III",
+      "wikidata": "Q241504",
+      "tmdb": "1371",
+      "imdb": "tt0084602"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocky_III",
+      "https://en.wikipedia.org/w/index.php?title=Rocky_III&oldid=1387994863"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "rocky-iii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 99,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1981
+          },
+          "end": {
+            "y": 1982
+          },
+          "label": "1981–1982",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "In 1981, 5 years after winning the world heavyweight championship against Apollo Creed",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1982-05-28",
+          "end_date": null,
+          "year": 1982,
+          "note": "Wikipedia: Rocky III was released in the United States on May 28, 1982, by MGM/UA Entertainment Co."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky_III",
+          "https://en.wikipedia.org/w/index.php?title=Rocky_III&oldid=1387994863"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "rocky-ii",
+        "kind": "continues",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "rocky-iv",
+    "title": "Rocky IV",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "chartoff-winkler-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rocky IV",
+      "wikidata": "Q387638",
+      "tmdb": "1374",
+      "imdb": "tt0089927"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocky_IV",
+      "https://en.wikipedia.org/w/index.php?title=Rocky_IV&oldid=1385220851"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "rocky-iv",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1985
+          },
+          "end": {
+            "y": 1985
+          },
+          "label": "1985",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1985, Russian boxer and Soviet Army Captain Ivan Drago arrives in the United States from the Soviet Union",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-11-27",
+          "end_date": null,
+          "year": 1985,
+          "note": "Wikipedia: November 21, 1985 (Premiere); November 27, 1985 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky_IV",
+          "https://en.wikipedia.org/w/index.php?title=Rocky_IV&oldid=1385220851"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "rocky-iii",
+        "kind": "continues",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "rocky-v",
+    "title": "Rocky V",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "chartoff-winkler-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rocky V",
+      "wikidata": "Q82949",
+      "tmdb": "1375",
+      "imdb": "tt0100507"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocky_V",
+      "https://en.wikipedia.org/w/index.php?title=Rocky_V&oldid=1385585645"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "rocky-v",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 104,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1985
+          },
+          "end": {
+            "y": 1986
+          },
+          "label": "1985–1986",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "The age of Robert Jr. has often been cited as a continuity error, as in Rocky IV, which is set in 1985, he is 9 years old, yet in Rocky V, which takes place immediately after Rocky IV, he is 14 years old.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-11-16",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: November 16, 1990 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky_V",
+          "https://en.wikipedia.org/w/index.php?title=Rocky_V&oldid=1385585645"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "rocky-iv",
+        "kind": "continues",
+        "note": "immediately after Rocky IV"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "rocky-balboa",
+    "title": "Rocky Balboa",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "revolution-studios",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rocky Balboa (film)",
+      "wikidata": "Q724455",
+      "tmdb": "1246",
+      "imdb": "tt0479143"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocky_Balboa_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Rocky_Balboa_(film)&oldid=1384177326"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "rocky-balboa",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 102,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "sixteen years after Rocky V",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Sixteen years after his street fight with Tommy \"The Machine\" Gunn, Rocky Balboa, now approaching sixty years of age, is long retired from boxing",
+          "order_index": 60,
+          "relative_to": {
+            "after": "creed-iii",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2006-12-20",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: theatrically released by MGM Distribution Co. on December 20, 2006, sixteen years after the release of Rocky V"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky_Balboa_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Rocky_Balboa_(film)&oldid=1384177326"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "rocky-v",
+        "kind": "continues",
+        "note": "sixteen years after Rocky V"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "creed",
+    "title": "Creed",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "metro-goldwyn-mayer",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Creed (film)",
+      "wikidata": "Q18822138",
+      "tmdb": "312221",
+      "imdb": "tt3076658"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Creed_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "creed",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 133,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2015
+          },
+          "end": {
+            "y": 2015
+          },
+          "label": "2015 (prologue 1998)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "In 1998, Adonis \"Donnie\" Johnson … is serving time in a Los Angeles youth detention center … In the present time, Adonis is in Tijuana",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-11-25",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: Creed had its premiere on November 19, 2015, at the Regency Village Theater in Los Angeles and was released in the United States on November 25, by Warner Bros. Pictures"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Creed_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Creed_(film)&oldid=1387940664"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "rocky-balboa",
+        "kind": "continues",
+        "note": "spin-off sequel series with Rocky as trainer"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "creed-ii",
+    "title": "Creed II",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "metro-goldwyn-mayer",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Creed II",
+      "wikidata": "Q50233658",
+      "tmdb": "480530",
+      "imdb": "tt6343314"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Creed_II",
+      "https://en.wikipedia.org/w/index.php?title=Creed_II&oldid=1384987002"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "creed-ii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 129,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2018
+          },
+          "end": {
+            "y": 2018
+          },
+          "label": "2018 (flashback 1985)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Three years after his loss to \"Pretty\" Ricky Conlan",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-11-21",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: November 14, 2018 (Premiere); November 21, 2018 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Creed_II",
+          "https://en.wikipedia.org/w/index.php?title=Creed_II&oldid=1384987002"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "creed",
+        "kind": "continues",
+        "note": ""
+      },
+      {
+        "to": "rocky-iv",
+        "kind": "references",
+        "note": "the Dragos; the 1985 fight that killed Apollo"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "creed-iii",
+    "title": "Creed III",
+    "sort_title": null,
+    "type": "film",
+    "universe": "rocky",
+    "continuity": "rocky-main",
+    "studio_brand": "metro-goldwyn-mayer",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Creed III",
+      "wikidata": "Q110664384",
+      "tmdb": "677179",
+      "imdb": "tt11145118"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Creed_III",
+      "https://en.wikipedia.org/w/index.php?title=Creed_III&oldid=1386707299"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "creed-iii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 116,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2024
+          },
+          "end": {
+            "y": 2024
+          },
+          "label": "2024 (prologue 2002)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "In 2002, Adonis \"Donnie\" Creed sneaks out … In 2024, six years after defeating Viktor Drago",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-03-03",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Creed III premiered in Mexico City on February 9, 2023, which coincided with Jordan's 36th birthday, and was released in the United States on March 3."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Creed_III",
+          "https://en.wikipedia.org/w/index.php?title=Creed_III&oldid=1386707299"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "creed-ii",
+        "kind": "continues",
+        "note": "six years after Creed II"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

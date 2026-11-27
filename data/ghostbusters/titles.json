@@ -1,0 +1,632 @@
+[
+  {
+    "id": "ghostbusters-1984",
+    "title": "Ghostbusters",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-original",
+    "studio_brand": "columbia-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghostbusters",
+      "wikidata": "Q108745",
+      "tmdb": "620",
+      "imdb": "tt0087332"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghostbusters",
+      "https://en.wikipedia.org/w/index.php?title=Ghostbusters_II&oldid=1387396201"
+    ],
+    "notes": "Same name as the 2016 reboot; label Ghostbusters [1984].",
+    "units": [
+      {
+        "id": "ghostbusters-1984",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 105,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 1984
+          },
+          "label": "1984",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Set five years after the events of the first film",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-06-08",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: June 8, 1984"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghostbusters",
+          "https://en.wikipedia.org/w/index.php?title=Ghostbusters_II&oldid=1387396201"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ghostbusters-ii",
+    "title": "Ghostbusters II",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-original",
+    "studio_brand": "columbia-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghostbusters II",
+      "wikidata": "Q492214",
+      "tmdb": "2978",
+      "imdb": "tt0097428"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghostbusters_II",
+      "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ghostbusters-ii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 104,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1989
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "1989",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The game's plot is set in 1991, two years after the events of Ghostbusters II",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-06-16",
+          "end_date": null,
+          "year": 1989,
+          "note": "Wikipedia: June 16, 1989"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghostbusters_II",
+          "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ghostbusters-1984",
+        "kind": "continues",
+        "note": "set five years after the first film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ghostbusters-the-video-game",
+    "title": "Ghostbusters: The Video Game",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-original",
+    "studio_brand": "terminal-reality",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghostbusters: The Video Game",
+      "wikidata": "Q1514853",
+      "tmdb": null,
+      "imdb": "tt1142978"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game",
+      "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423"
+    ],
+    "notes": "Canon status disputed: \"Aykroyd later described the game as being \\\"essentially the third movie.\\\"\" Afterlife (set 32 years after II) neither references nor contradicts it per Wikipedia. Publisher per infobox: Atari Interactive; PAL PlayStation releases by Sony Computer Entertainment Europe. 2019 remaster by Saber Interactive / Mad Dog Games not a separate unit.",
+    "units": [
+      {
+        "id": "ghostbusters-the-video-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1991
+          },
+          "end": {
+            "y": 1991
+          },
+          "label": "November 1991 (Thanksgiving)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Ghostbusters: The Video Game is set in November 1991 during the Thanksgiving celebrations, two years after the events of the 1989 supernatural comedy film Ghostbusters II.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-06-16",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: NA: June 16, 2009 …; EU: June 19, 2009 (PS2, PS3 row of the infobox)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game",
+          "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_The_Video_Game&oldid=1384600423"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ghostbusters-ii",
+        "kind": "continues",
+        "note": "set two years after Ghostbusters II"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ghostbusters-afterlife",
+    "title": "Ghostbusters: Afterlife",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-original",
+    "studio_brand": "columbia-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghostbusters: Afterlife",
+      "wikidata": "Q61883088",
+      "tmdb": "425909",
+      "imdb": "tt4513678"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife",
+      "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Afterlife&oldid=1388133929"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ghostbusters-afterlife",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 124,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2021
+          },
+          "end": {
+            "y": 2021
+          },
+          "label": "2021",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Set thirty-two years after the events of Ghostbusters II",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-11-19",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: November 19, 2021 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife",
+          "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Afterlife&oldid=1388133929"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ghostbusters-ii",
+        "kind": "continues",
+        "note": "set 32 years after Ghostbusters II"
+      },
+      {
+        "to": "ghostbusters-2016",
+        "kind": "references",
+        "note": "Sony dropped the 2016 reboot's sequel to continue the original canon"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ghostbusters-frozen-empire",
+    "title": "Ghostbusters: Frozen Empire",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-original",
+    "studio_brand": "columbia-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghostbusters: Frozen Empire",
+      "wikidata": "Q113300586",
+      "tmdb": "967847",
+      "imdb": "tt21235248"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghostbusters:_Frozen_Empire",
+      "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Frozen_Empire&oldid=1387897105"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "ghostbusters-frozen-empire",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 115,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2024
+          },
+          "end": {
+            "y": 2024
+          },
+          "label": "2024 (prologue 1904)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Three years after the Summerville incident",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-03-22",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: March 14, 2024 (AMC Lincoln Square Theater); March 22, 2024 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghostbusters:_Frozen_Empire",
+          "https://en.wikipedia.org/w/index.php?title=Ghostbusters%3A_Frozen_Empire&oldid=1387897105"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ghostbusters-afterlife",
+        "kind": "continues",
+        "note": "three years after Afterlife"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "ghostbusters-2016",
+    "title": "Ghostbusters",
+    "sort_title": null,
+    "type": "film",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-2016",
+    "studio_brand": "columbia-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ghostbusters (2016 film)",
+      "wikidata": "Q20120108",
+      "tmdb": "43074",
+      "imdb": "tt1289401"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghostbusters_(2016_film)",
+      "https://en.wikipedia.org/w/index.php?title=Ghostbusters_(2016_film)&oldid=1387982389"
+    ],
+    "notes": "Same name as the 1984 film; label Ghostbusters [2016].",
+    "units": [
+      {
+        "id": "ghostbusters-2016",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 117,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2016
+          },
+          "end": {
+            "y": 2016
+          },
+          "label": "2016",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "No prose statement of the year; only the article category \"Films set in 2016\". Not assumed from the release year alone.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-07-15",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: July 9, 2016 (TCL Chinese Theatre); July 15, 2016 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ghostbusters_(2016_film)",
+          "https://en.wikipedia.org/w/index.php?title=Ghostbusters_(2016_film)&oldid=1387982389"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ghostbusters-1984",
+        "kind": "reboot-of",
+        "note": "all-female reboot of the franchise"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-real-ghostbusters",
+    "title": "The Real Ghostbusters",
+    "sort_title": "Real Ghostbusters",
+    "type": "series",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-animated",
+    "studio_brand": "dic-enterprises",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Real Ghostbusters",
+      "wikidata": "Q733938",
+      "tmdb": "2286",
+      "imdb": "tt0090506"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Real_Ghostbusters",
+      "https://en.wikipedia.org/w/index.php?title=The_Real_Ghostbusters&oldid=1387246012"
+    ],
+    "notes": "7 seasons, 140 episodes + Slimer! shorts per infobox. Season 1 is the syndicated package in some listings; season boundaries not verified (episode list unfetched).",
+    "units": [
+      {
+        "id": "the-real-ghostbusters",
+        "label": "Series (7 seasons)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series (1986–1991)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": {
+            "after": "extreme-ghostbusters",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "1986-09-13",
+          "end_date": "1991-10-05",
+          "year": 1986,
+          "note": "Wikipedia: The series ran on ABC between September 13, 1986 and October 5, 1991 … The series ran on ABC between September 13, 1986 and October 5, 1991"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Real_Ghostbusters",
+          "https://en.wikipedia.org/w/index.php?title=The_Real_Ghostbusters&oldid=1387246012"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ghostbusters-1984",
+        "kind": "spinoff",
+        "note": "\"a spin-off and sequel of the 1984 comedy film Ghostbusters\" (kept as a separate continuity)"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "extreme-ghostbusters",
+    "title": "Extreme Ghostbusters",
+    "sort_title": null,
+    "type": "series",
+    "universe": "ghostbusters",
+    "continuity": "ghostbusters-animated",
+    "studio_brand": "columbia-tristar-television",
+    "label": null,
+    "platform_or_network": "first-run-syndication",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Extreme Ghostbusters",
+      "wikidata": "Q471531",
+      "tmdb": "4793",
+      "imdb": "tt0121932"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Extreme_Ghostbusters",
+      "https://en.wikipedia.org/w/index.php?title=Extreme_Ghostbusters&oldid=1387208541"
+    ],
+    "notes": "Aired on Bohbot Kids Network's \"Extreme Block\".",
+    "units": [
+      {
+        "id": "extreme-ghostbusters",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 40,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1997
+          },
+          "end": {
+            "y": 1997
+          },
+          "label": "1997",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Several years after The Real Ghostbusters ended, there is a lull in supernatural activity in New York City and the team has gone their separate ways. In 1997, during excavation of a new subway",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-09-01",
+          "end_date": "1997-12-08",
+          "year": 1997,
+          "note": "Wikipedia: Extreme Ghostbusters is an American animated television series, based on the Ghostbusters franchise, which initially aired from September 1 to December 8, 1997."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Extreme_Ghostbusters",
+          "https://en.wikipedia.org/w/index.php?title=Extreme_Ghostbusters&oldid=1387208541"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-real-ghostbusters",
+        "kind": "continues",
+        "note": "set after The Real Ghostbusters finale"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

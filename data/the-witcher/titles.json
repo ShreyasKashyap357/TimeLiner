@@ -859,9 +859,18 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Witcher_(video_game)",
           "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28video_game%29&oldid=1385167555",
-          "https://witcher.fandom.com/wiki/The_Witcher_%28game%29?oldid=645270"
+          "https://witcher.fandom.com/wiki/The_Witcher_%28game%29?oldid=645270",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_(video_game)&oldid=1385167555"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "macos",
+            "date": "2012-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_(video_game)&oldid=1385167555"
+          }
+        ]
       }
     ],
     "links": [
@@ -957,7 +966,7 @@
           "date": "2011-05-17",
           "end_date": null,
           "year": 2011,
-          "note": "Wikipedia: The Witcher 2: Assassins of Kings was released for PC on 17 May 2011 at retail stores and digital distribution services such as GOG and Steam."
+          "note": "Wikipedia: The Witcher 2: Assassins of Kings was released for PC on 17 May 2011 at retail stores and digital distribution services such as GOG and Steam. Windows first (17 May 2011); Enhanced Edition on Xbox 360 and Windows the same day (17 April 2012); OS X and Linux later."
         },
         "status": "released",
         "groupings": {},
@@ -967,7 +976,33 @@
           "https://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings",
           "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2011-05-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2012-04-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
+          },
+          {
+            "platform": "macos",
+            "date": "2012-10-18",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
+          },
+          {
+            "platform": "linux",
+            "date": "2014-05-22",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
+          }
+        ]
       }
     ],
     "links": [
@@ -1479,7 +1514,7 @@
           "date": null,
           "end_date": null,
           "year": null,
-          "note": "Wikipedia: The game is scheduled to release in 2028 for PlayStation 5, Windows, and Xbox Series X/S."
+          "note": "Wikipedia: The game is scheduled to release in 2028 for PlayStation 5, Windows, and Xbox Series X/S. Planned for the same year (2028) on PlayStation 5, Windows and Xbox Series X/S (scheduled, not released)."
         },
         "status": "upcoming",
         "groupings": {},
@@ -1489,7 +1524,27 @@
           "https://en.wikipedia.org/wiki/The_Witcher_IV",
           "https://en.wikipedia.org/w/index.php?title=The_Witcher_IV&oldid=1388202905"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2028",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_IV&oldid=1388202905"
+          },
+          {
+            "platform": "windows",
+            "date": "2028",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_IV&oldid=1388202905"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2028",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Witcher_IV&oldid=1388202905"
+          }
+        ]
       }
     ],
     "links": [

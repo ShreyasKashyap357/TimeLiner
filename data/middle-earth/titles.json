@@ -6981,7 +6981,7 @@
           "date": "2023-05-25",
           "end_date": null,
           "year": 2023,
-          "note": "Wikipedia: released = 25 May 2023"
+          "note": "Wikipedia: released = 25 May 2023 Released the same day on PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {},
@@ -6989,9 +6989,42 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1386493718",
-          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Gollum"
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Gollum",
+          "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_Gollum&oldid=1386493718"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2023-05-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_Gollum&oldid=1386493718"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2023-05-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_Gollum&oldid=1386493718"
+          },
+          {
+            "platform": "windows",
+            "date": "2023-05-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_Gollum&oldid=1386493718"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2023-05-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_Gollum&oldid=1386493718"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2023-05-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lord_of_the_Rings%3A_Gollum&oldid=1386493718"
+          }
+        ]
       }
     ],
     "links": [

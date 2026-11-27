@@ -7413,16 +7413,43 @@
           "date": "2017-09-22",
           "end_date": null,
           "year": 2017,
-          "note": "Wikipedia: NA: 22 September 2017; EU: 6 October 2017<small> (PS4, XBO)</small>"
+          "note": "Wikipedia: NA: 22 September 2017; EU: 6 October 2017<small> (PS4, XBO)</small> Released the same day (NA) on Nintendo Switch, PlayStation 4, Windows and Xbox One (infobox EU dates differ per platform: PS4/XBO 6 Oct, PC 13 Oct, NS 20 Oct 2017)."
         },
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
         "source_keys": {},
         "source_urls": [
-          "https://en.wikipedia.org/wiki/The_Lego_Ninjago_Movie_Video_Game"
+          "https://en.wikipedia.org/wiki/The_Lego_Ninjago_Movie_Video_Game",
+          "https://en.wikipedia.org/w/index.php?title=The_Lego_Ninjago_Movie_Video_Game&oldid=1376916385"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "switch",
+            "date": "2017-09-22",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lego_Ninjago_Movie_Video_Game&oldid=1376916385"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2017-09-22",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lego_Ninjago_Movie_Video_Game&oldid=1376916385"
+          },
+          {
+            "platform": "windows",
+            "date": "2017-09-22",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lego_Ninjago_Movie_Video_Game&oldid=1376916385"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2017-09-22",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lego_Ninjago_Movie_Video_Game&oldid=1376916385"
+          }
+        ]
       }
     ],
     "links": [
@@ -7568,16 +7595,31 @@
           "date": "2014-07-29",
           "end_date": null,
           "year": 2014,
-          "note": "Wikipedia: NA: July 29, 2014; AU: July 30, 2014; EU: August 1, 2014"
+          "note": "Wikipedia: NA: July 29, 2014; AU: July 30, 2014; EU: August 1, 2014 Released the same day on Nintendo 3DS and PlayStation Vita."
         },
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
         "source_keys": {},
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Lego_Ninjago:_Nindroids"
+          "https://en.wikipedia.org/wiki/Lego_Ninjago:_Nindroids",
+          "https://en.wikipedia.org/w/index.php?title=Lego_Ninjago%3A_Nindroids&oldid=1368017791"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "nintendo-3ds",
+            "date": "2014-07-29",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Ninjago%3A_Nindroids&oldid=1368017791"
+          },
+          {
+            "platform": "playstation-vita",
+            "date": "2014-07-29",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Ninjago%3A_Nindroids&oldid=1368017791"
+          }
+        ]
       }
     ],
     "links": [
@@ -9168,16 +9210,55 @@
           "date": "2023-05-19",
           "end_date": null,
           "year": 2023,
-          "note": "Wikipedia: WW: May 19, 2023"
+          "note": "Wikipedia: WW: May 19, 2023 Released the same day on Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
         "source_keys": {},
         "source_urls": [
-          "https://en.wikipedia.org/wiki/Lego_2K_Drive"
+          "https://en.wikipedia.org/wiki/Lego_2K_Drive",
+          "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "switch",
+            "date": "2023-05-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2023-05-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2023-05-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
+          },
+          {
+            "platform": "windows",
+            "date": "2023-05-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2023-05-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2023-05-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_2K_Drive&oldid=1384387562"
+          }
+        ]
       }
     ],
     "links": [],

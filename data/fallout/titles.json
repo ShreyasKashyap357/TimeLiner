@@ -386,7 +386,7 @@
           "date": "2008-10-28",
           "end_date": null,
           "year": 2008,
-          "note": "Wikipedia: Fallout 3 was released for Microsoft Windows, PlayStation 3, and Xbox 360 on October 28, 2008, in North America, October 30 in Europe and Australia, and December 4 in Japan."
+          "note": "Wikipedia: Fallout 3 was released for Microsoft Windows, PlayStation 3, and Xbox 360 on October 28, 2008, in North America, October 30 in Europe and Australia, and December 4 in Japan. Released the same day (NA) on Windows, PlayStation 3 and Xbox 360."
         },
         "status": "released",
         "groupings": {},
@@ -396,7 +396,27 @@
           "https://en.wikipedia.org/wiki/Fallout_3",
           "https://en.wikipedia.org/w/index.php?title=Fallout_3&oldid=1383531353"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2008-10-28",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_3&oldid=1383531353"
+          },
+          {
+            "platform": "playstation-3",
+            "date": "2008-10-28",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_3&oldid=1383531353"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2008-10-28",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_3&oldid=1383531353"
+          }
+        ]
       }
     ],
     "links": [
@@ -493,7 +513,7 @@
           "date": "2010-10-19",
           "end_date": null,
           "year": 2010,
-          "note": "Wikipedia: Fallout: New Vegas was released in North America for Microsoft Windows, PlayStation 3, and Xbox 360 on October 19, 2010; October 21 in Australia; and October 22 in Europe."
+          "note": "Wikipedia: Fallout: New Vegas was released in North America for Microsoft Windows, PlayStation 3, and Xbox 360 on October 19, 2010; October 21 in Australia; and October 22 in Europe. Released the same day (NA) on Windows, PlayStation 3 and Xbox 360."
         },
         "status": "released",
         "groupings": {},
@@ -503,7 +523,27 @@
           "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
           "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2010-10-19",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+          },
+          {
+            "platform": "playstation-3",
+            "date": "2010-10-19",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2010-10-19",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+          }
+        ]
       }
     ],
     "links": [

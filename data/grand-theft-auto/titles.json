@@ -155,7 +155,7 @@
           "date": "1999-04-30",
           "end_date": null,
           "year": 1999,
-          "note": "Wikipedia: released = 30 April 1999 … It was released for PC (MS-DOS and Windows) and PlayStation in April 1999."
+          "note": "Wikipedia: released = 30 April 1999 … It was released for PC (MS-DOS and Windows) and PlayStation in April 1999. Released the same day on PC (MS-DOS and Windows) and PlayStation (lead: \"It was released for PC (MS-DOS and Windows) and PlayStation in April 1999.\")."
         },
         "status": "released",
         "groupings": {},
@@ -165,7 +165,27 @@
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969",
           "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_London_1969&oldid=1388008848"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "ms-dos",
+            "date": "1999-04-30",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_London_1969&oldid=1388008848"
+          },
+          {
+            "platform": "windows",
+            "date": "1999-04-30",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_London_1969&oldid=1388008848"
+          },
+          {
+            "platform": "playstation",
+            "date": "1999-04-30",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_London_1969&oldid=1388008848"
+          }
+        ]
       }
     ],
     "links": [
@@ -234,7 +254,7 @@
           "date": "1999-07-01",
           "end_date": null,
           "year": 1999,
-          "note": "Wikipedia: It was released on 1 July 1999 in tandem with and through the website for Grand Theft Auto 2."
+          "note": "Wikipedia: It was released on 1 July 1999 in tandem with and through the website for Grand Theft Auto 2. PC-only freeware expansion (\"A second, freeware expansion, Grand Theft Auto Mission Pack #2: London 1961, was released for PC in July 1999, to coincide with the release of the Grand Theft Auto games on the internet.\")."
         },
         "status": "released",
         "groupings": {},
@@ -244,7 +264,15 @@
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969",
           "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_London_1969&oldid=1388008848"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "1999-07-01",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_London_1969&oldid=1388008848"
+          }
+        ]
       }
     ],
     "links": [
@@ -2009,7 +2037,7 @@
           "date": "2026-11-19",
           "end_date": null,
           "year": 2026,
-          "note": "Wikipedia: After two delays, further leaks, and an extensive marketing campaign, it was released on 19 November 2026 for the PlayStation 5 and Xbox Series X/S."
+          "note": "Wikipedia: After two delays, further leaks, and an extensive marketing campaign, it was released on 19 November 2026 for the PlayStation 5 and Xbox Series X/S. Released the same day on PlayStation 5 and Xbox Series X/S (no Windows release as of November 2026)."
         },
         "status": "released",
         "groupings": {},
@@ -2018,9 +2046,24 @@
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
           "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487",
-          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_VI&oldid=1388261019"
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_VI&oldid=1388261019",
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_VI&oldid=1388302437"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2026-11-19",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_VI&oldid=1388302437"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2026-11-19",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_VI&oldid=1388302437"
+          }
+        ]
       }
     ],
     "links": [

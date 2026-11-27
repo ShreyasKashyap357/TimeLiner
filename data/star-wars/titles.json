@@ -14011,7 +14011,7 @@
           "date": "2017-11-17",
           "end_date": null,
           "year": 2017,
-          "note": "Wikipedia: released = November 17, 2017"
+          "note": "Wikipedia: released = November 17, 2017 Released worldwide the same day on PlayStation 4, Xbox One and Windows."
         },
         "status": "released",
         "groupings": {
@@ -14021,9 +14021,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1386472665",
-          "https://en.wikipedia.org/wiki/Star_Wars_Battlefront_II_(2017_video_game)"
+          "https://en.wikipedia.org/wiki/Star_Wars_Battlefront_II_(2017_video_game)",
+          "https://en.wikipedia.org/w/index.php?title=Star_Wars_Battlefront_II_(2017_video_game)&oldid=1386472665"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2017-11-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars_Battlefront_II_(2017_video_game)&oldid=1386472665"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2017-11-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars_Battlefront_II_(2017_video_game)&oldid=1386472665"
+          },
+          {
+            "platform": "windows",
+            "date": "2017-11-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars_Battlefront_II_(2017_video_game)&oldid=1386472665"
+          }
+        ]
       }
     ],
     "links": [
@@ -14496,7 +14517,7 @@
           "date": "2026-08-27",
           "end_date": null,
           "year": 2026,
-          "note": "Wikipedia: released = August 27, 2026"
+          "note": "Wikipedia: released = August 27, 2026 Released the same day on PlayStation 5, Windows and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {
@@ -14506,9 +14527,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1386277939",
-          "https://en.wikipedia.org/wiki/Star_Wars_Zero_Company"
+          "https://en.wikipedia.org/wiki/Star_Wars_Zero_Company",
+          "https://en.wikipedia.org/w/index.php?title=Star_Wars_Zero_Company&oldid=1386277939"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2026-08-27",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars_Zero_Company&oldid=1386277939"
+          },
+          {
+            "platform": "windows",
+            "date": "2026-08-27",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars_Zero_Company&oldid=1386277939"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2026-08-27",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars_Zero_Company&oldid=1386277939"
+          }
+        ]
       }
     ],
     "links": [],
@@ -14890,9 +14932,18 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1384348571",
-          "https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic"
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic",
+          "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Old_Republic&oldid=1384348571"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2011-12-20",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Old_Republic&oldid=1384348571"
+          }
+        ]
       }
     ],
     "links": [],
@@ -15055,7 +15106,7 @@
           "date": "2010-10-26",
           "end_date": null,
           "year": 2010,
-          "note": "Wikipedia: NA October 26, 2010 | AU October 27, 2010 | EU October 29, 2010"
+          "note": "Wikipedia: NA October 26, 2010 | AU October 27, 2010 | EU October 29, 2010 Released the same day (US) on PlayStation 3, Xbox 360, Wii, Windows, Nintendo DS and iOS."
         },
         "status": "released",
         "groupings": {},
@@ -15063,9 +15114,48 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1386321085",
-          "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed_II"
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed_II",
+          "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2010-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2010-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
+          },
+          {
+            "platform": "wii",
+            "date": "2010-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
+          },
+          {
+            "platform": "windows",
+            "date": "2010-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
+          },
+          {
+            "platform": "nintendo-ds",
+            "date": "2010-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
+          },
+          {
+            "platform": "ios",
+            "date": "2010-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Wars%3A_The_Force_Unleashed_II&oldid=1386321085"
+          }
+        ]
       }
     ],
     "links": [
@@ -16346,7 +16436,7 @@
           "date": "2022-04-05",
           "end_date": null,
           "year": 2022,
-          "note": "Wikipedia: The Skywalker Saga was released on 5 April 2022 for Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S."
+          "note": "Wikipedia: The Skywalker Saga was released on 5 April 2022 for Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S. Released the same day on Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {},
@@ -16354,9 +16444,48 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1387527515",
-          "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Skywalker_Saga"
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Skywalker_Saga",
+          "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "switch",
+            "date": "2022-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2022-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2022-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
+          },
+          {
+            "platform": "windows",
+            "date": "2022-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2022-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2022-04-05",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Lego_Star_Wars%3A_The_Skywalker_Saga&oldid=1387527515"
+          }
+        ]
       }
     ],
     "links": [],

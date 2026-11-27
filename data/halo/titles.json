@@ -1100,7 +1100,7 @@
           "date": "2017-02-21",
           "end_date": null,
           "year": 2017,
-          "note": "Wikipedia: released = February 21, 2017"
+          "note": "Wikipedia: released = February 21, 2017 Released the same day on Windows and Xbox One."
         },
         "status": "released",
         "groupings": {},
@@ -1110,7 +1110,21 @@
           "https://en.wikipedia.org/wiki/Halo_Wars_2",
           "https://en.wikipedia.org/w/index.php?title=Halo_Wars_2&oldid=1386806866"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2017-02-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo_Wars_2&oldid=1386806866"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2017-02-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo_Wars_2&oldid=1386806866"
+          }
+        ]
       }
     ],
     "links": [
@@ -1179,7 +1193,7 @@
           "date": "2021-12-08",
           "end_date": null,
           "year": 2021,
-          "note": "Wikipedia: Following an open beta release of the multiplayer component on November 15, 2021, coinciding with the franchise's 20th anniversary, the campaign was released on December 8, 2021, for Windows, Xbox One, and Xbox Series X/S."
+          "note": "Wikipedia: Following an open beta release of the multiplayer component on November 15, 2021, coinciding with the franchise's 20th anniversary, the campaign was released on December 8, 2021, for Windows, Xbox One, and Xbox Series X/S. Campaign released the same day on Windows, Xbox One and Xbox Series X/S (free-to-play multiplayer open beta on the same three platforms on November 15, 2021)."
         },
         "status": "released",
         "groupings": {},
@@ -1189,7 +1203,27 @@
           "https://en.wikipedia.org/wiki/Halo_Infinite",
           "https://en.wikipedia.org/w/index.php?title=Halo_Infinite&oldid=1387278746"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2021-12-08",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo_Infinite&oldid=1387278746"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2021-12-08",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo_Infinite&oldid=1387278746"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2021-12-08",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo_Infinite&oldid=1387278746"
+          }
+        ]
       }
     ],
     "links": [
@@ -1291,7 +1325,7 @@
           "date": "2026-07-28",
           "end_date": null,
           "year": 2026,
-          "note": "Wikipedia: Halo: Campaign Evolved was released for PlayStation 5, Windows and Xbox Series X/S on July 28, 2026."
+          "note": "Wikipedia: Halo: Campaign Evolved was released for PlayStation 5, Windows and Xbox Series X/S on July 28, 2026. Released the same day on PlayStation 5, Windows and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {},
@@ -1299,9 +1333,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Halo:_Campaign_Evolved",
-          "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+          "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702",
+          "https://en.wikipedia.org/w/index.php?title=Halo%3A_Campaign_Evolved&oldid=1382151666"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2026-07-28",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo%3A_Campaign_Evolved&oldid=1382151666"
+          },
+          {
+            "platform": "windows",
+            "date": "2026-07-28",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo%3A_Campaign_Evolved&oldid=1382151666"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2026-07-28",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Halo%3A_Campaign_Evolved&oldid=1382151666"
+          }
+        ]
       }
     ],
     "links": [

@@ -5786,7 +5786,7 @@
           "date": "2025-05-21",
           "end_date": null,
           "year": 2025,
-          "note": "Wikipedia: It was released on May 21, 2025, for Android and iOS, and Microsoft Windows. The game had released in early access on March 26, 2025."
+          "note": "Wikipedia: It was released on May 21, 2025, for Android and iOS, and Microsoft Windows. The game had released in early access on March 26, 2025. Released the same day on Android, iOS and Windows (early access began March 26, 2025, platforms not stated)."
         },
         "status": "released",
         "groupings": {},
@@ -5794,9 +5794,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1375665226",
-          "https://en.wikipedia.org/wiki/Game_of_Thrones:_Kingsroad"
+          "https://en.wikipedia.org/wiki/Game_of_Thrones:_Kingsroad",
+          "https://en.wikipedia.org/w/index.php?title=Game_of_Thrones%3A_Kingsroad&oldid=1375665226"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "android",
+            "date": "2025-05-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Game_of_Thrones%3A_Kingsroad&oldid=1375665226"
+          },
+          {
+            "platform": "ios",
+            "date": "2025-05-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Game_of_Thrones%3A_Kingsroad&oldid=1375665226"
+          },
+          {
+            "platform": "windows",
+            "date": "2025-05-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Game_of_Thrones%3A_Kingsroad&oldid=1375665226"
+          }
+        ]
       }
     ],
     "links": [],

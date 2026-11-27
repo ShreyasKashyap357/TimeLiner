@@ -4710,7 +4710,7 @@
           "date": "2020-08-07",
           "end_date": null,
           "year": 2020,
-          "note": "Wikipedia: released = August 7, 2020"
+          "note": "Wikipedia: released = August 7, 2020 Released the same day on PlayStation 4, Windows and Xbox One (year from: \"On May 27, 2020, it was announced that the game would be released on August 7, 2020.\")."
         },
         "status": "released",
         "groupings": {},
@@ -4718,9 +4718,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1384072617",
-          "https://en.wikipedia.org/wiki/Fast_%26_Furious_Crossroads"
+          "https://en.wikipedia.org/wiki/Fast_%26_Furious_Crossroads",
+          "https://en.wikipedia.org/w/index.php?title=Fast_%26_Furious_Crossroads&oldid=1384072617"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2020-08-07",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fast_%26_Furious_Crossroads&oldid=1384072617"
+          },
+          {
+            "platform": "windows",
+            "date": "2020-08-07",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fast_%26_Furious_Crossroads&oldid=1384072617"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2020-08-07",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fast_%26_Furious_Crossroads&oldid=1384072617"
+          }
+        ]
       }
     ],
     "links": [

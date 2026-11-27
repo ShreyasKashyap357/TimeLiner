@@ -3021,7 +3021,7 @@
           "date": "2026-07-09",
           "end_date": null,
           "year": 2026,
-          "note": "Wikipedia: It released on July 9, 2026, for PlayStation 5, Xbox Series X/S, and Windows."
+          "note": "Wikipedia: It released on July 9, 2026, for PlayStation 5, Xbox Series X/S, and Windows. Released the same day on PlayStation 5, Windows and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {},
@@ -3029,9 +3029,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Assassin's_Creed_Black_Flag_Resynced",
-          "https://en.wikipedia.org/w/index.php?title=Assassin%27s_Creed_Black_Flag_Resynced&oldid=1386425225"
+          "https://en.wikipedia.org/w/index.php?title=Assassin%27s_Creed_Black_Flag_Resynced&oldid=1386425225",
+          "https://en.wikipedia.org/w/index.php?title=Assassin's_Creed_Black_Flag_Resynced&oldid=1386425225"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2026-07-09",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Assassin's_Creed_Black_Flag_Resynced&oldid=1386425225"
+          },
+          {
+            "platform": "windows",
+            "date": "2026-07-09",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Assassin's_Creed_Black_Flag_Resynced&oldid=1386425225"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2026-07-09",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Assassin's_Creed_Black_Flag_Resynced&oldid=1386425225"
+          }
+        ]
       }
     ],
     "links": [

@@ -81052,7 +81052,7 @@
           "date": "2012-05-29",
           "end_date": null,
           "year": 2012,
-          "note": "Wikipedia: Harley Quinn's Revenge, a story-based campaign expansion, was released on May 29, 2012, for the PlayStation 3 and the Xbox 360, with a PC version coming out a week later."
+          "note": "Wikipedia: Harley Quinn's Revenge, a story-based campaign expansion, was released on May 29, 2012, for the PlayStation 3 and the Xbox 360, with a PC version coming out a week later. Released the same day on PlayStation 3 and Xbox 360; PC a week later."
         },
         "status": "released",
         "groupings": {},
@@ -81060,9 +81060,24 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1386370983",
-          "https://en.wikipedia.org/wiki/Batman:_Arkham"
+          "https://en.wikipedia.org/wiki/Batman:_Arkham",
+          "https://en.wikipedia.org/w/index.php?title=Batman:_Arkham_City&oldid=1388178067"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2012-05-29",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman:_Arkham_City&oldid=1388178067"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2012-05-29",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman:_Arkham_City&oldid=1388178067"
+          }
+        ]
       }
     ],
     "links": [
@@ -81127,7 +81142,7 @@
           "date": "2013-10-25",
           "end_date": null,
           "year": 2013,
-          "note": "Wikipedia: released = October 25, 2013 (some European retail Wii U/Windows: November 8, 2013)"
+          "note": "Wikipedia: released = October 25, 2013 (some European retail Wii U/Windows: November 8, 2013) Released worldwide the same day on PlayStation 3, Wii U, Windows and Xbox 360 (infobox footnote: retail Wii U and Windows versions were November 8, 2013 in some European countries)."
         },
         "status": "released",
         "groupings": {},
@@ -81135,9 +81150,36 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1387278938",
-          "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins"
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins",
+          "https://en.wikipedia.org/w/index.php?title=Batman%3A_Arkham_Origins&oldid=1387278938"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2013-10-25",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_Arkham_Origins&oldid=1387278938"
+          },
+          {
+            "platform": "wii-u",
+            "date": "2013-10-25",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_Arkham_Origins&oldid=1387278938"
+          },
+          {
+            "platform": "windows",
+            "date": "2013-10-25",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_Arkham_Origins&oldid=1387278938"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2013-10-25",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_Arkham_Origins&oldid=1387278938"
+          }
+        ]
       }
     ],
     "links": [
@@ -81661,7 +81703,7 @@
           "date": "2024-02-02",
           "end_date": null,
           "year": 2024,
-          "note": "Wikipedia: released = February 2, 2024 (Deluxe Edition early access January 30, 2024; Epic Games Store March 26, 2024)"
+          "note": "Wikipedia: released = February 2, 2024 (Deluxe Edition early access January 30, 2024; Epic Games Store March 26, 2024) Released worldwide the same day on PlayStation 5, Windows and Xbox Series X/S (deluxe early access from January 29/30, 2024; Epic Games Store version delayed to March 26, 2024)."
         },
         "status": "released",
         "groupings": {},
@@ -81669,9 +81711,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1385978909",
-          "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"
+          "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League",
+          "https://en.wikipedia.org/w/index.php?title=Suicide_Squad%3A_Kill_the_Justice_League&oldid=1385978909"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2024-02-02",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Suicide_Squad%3A_Kill_the_Justice_League&oldid=1385978909"
+          },
+          {
+            "platform": "windows",
+            "date": "2024-02-02",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Suicide_Squad%3A_Kill_the_Justice_League&oldid=1385978909"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2024-02-02",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Suicide_Squad%3A_Kill_the_Justice_League&oldid=1385978909"
+          }
+        ]
       }
     ],
     "links": [
@@ -82095,7 +82158,7 @@
           "date": "2017-08-08",
           "end_date": null,
           "year": 2017,
-          "note": "Wikipedia: Episode 1 WW August 8, 2017"
+          "note": "Wikipedia: Episode 1 WW August 8, 2017 Episode 1 (August 8, 2017, per the episode table directly below that sentence) released the same day on macOS, PlayStation 4, Windows, Xbox One and mobile platforms; Nintendo Switch later as a single package."
         },
         "status": "released",
         "groupings": {},
@@ -82103,9 +82166,48 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1384316345",
-          "https://en.wikipedia.org/wiki/Batman:_The_Enemy_Within"
+          "https://en.wikipedia.org/wiki/Batman:_The_Enemy_Within",
+          "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "macos",
+            "date": "2017-08-08",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2017-08-08",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
+          },
+          {
+            "platform": "windows",
+            "date": "2017-08-08",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2017-08-08",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
+          },
+          {
+            "platform": "mobile",
+            "date": "2017-08-08",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
+          },
+          {
+            "platform": "switch",
+            "date": "2018-10-02",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Batman%3A_The_Enemy_Within&oldid=1384316345"
+          }
+        ]
       }
     ],
     "links": [
@@ -82170,7 +82272,7 @@
           "date": "2022-10-21",
           "end_date": null,
           "year": 2022,
-          "note": "Wikipedia: released = October 21, 2022"
+          "note": "Wikipedia: released = October 21, 2022 Released the same day on PlayStation 5, Windows and Xbox Series X/S."
         },
         "status": "released",
         "groupings": {},
@@ -82178,9 +82280,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1385489063",
-          "https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)"
+          "https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)",
+          "https://en.wikipedia.org/w/index.php?title=Gotham_Knights_(video_game)&oldid=1385489063"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2022-10-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Gotham_Knights_(video_game)&oldid=1385489063"
+          },
+          {
+            "platform": "windows",
+            "date": "2022-10-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Gotham_Knights_(video_game)&oldid=1385489063"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2022-10-21",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Gotham_Knights_(video_game)&oldid=1385489063"
+          }
+        ]
       }
     ],
     "links": [],

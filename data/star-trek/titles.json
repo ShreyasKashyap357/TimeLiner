@@ -14831,7 +14831,7 @@
           "date": "2023-05-23",
           "end_date": null,
           "year": 2023,
-          "note": "Wikipedia: released = May 23, 2023"
+          "note": "Wikipedia: released = May 23, 2023 Released the same day on Windows (Epic Games Store), Xbox One, Xbox Series X/S, PlayStation 4 and PlayStation 5 (the PS4 edition, playable on PS5); Nintendo Switch on August 28, 2025."
         },
         "status": "released",
         "groupings": {},
@@ -14839,9 +14839,48 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1379750377",
-          "https://en.wikipedia.org/wiki/Star_Trek:_Resurgence"
+          "https://en.wikipedia.org/wiki/Star_Trek:_Resurgence",
+          "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2023-05-23",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2023-05-23",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2023-05-23",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2023-05-23",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2023-05-23",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
+          },
+          {
+            "platform": "switch",
+            "date": "2025-08-28",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Resurgence&oldid=1379750377"
+          }
+        ]
       }
     ],
     "links": [
@@ -15106,7 +15145,7 @@
           "date": "2013-04-23",
           "end_date": null,
           "year": 2013,
-          "note": "Wikipedia: NA April 23, 2013 | EU April 26, 2013"
+          "note": "Wikipedia: NA April 23, 2013 | EU April 26, 2013 Released the same day (NA) on PlayStation 3, Xbox 360 and Windows."
         },
         "status": "released",
         "groupings": {},
@@ -15114,9 +15153,30 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1387415910",
-          "https://en.wikipedia.org/wiki/Star_Trek_(2013_video_game)"
+          "https://en.wikipedia.org/wiki/Star_Trek_(2013_video_game)",
+          "https://en.wikipedia.org/w/index.php?title=Star_Trek_(2013_video_game)&oldid=1387415910"
         ],
-        "notes": ""
+        "notes": "",
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2013-04-23",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_(2013_video_game)&oldid=1387415910"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2013-04-23",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_(2013_video_game)&oldid=1387415910"
+          },
+          {
+            "platform": "windows",
+            "date": "2013-04-23",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_(2013_video_game)&oldid=1387415910"
+          }
+        ]
       }
     ],
     "links": [

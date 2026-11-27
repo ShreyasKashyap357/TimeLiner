@@ -1,0 +1,478 @@
+[
+  {
+    "id": "koi-mil-gaya",
+    "title": "Koi... Mil Gaya",
+    "sort_title": null,
+    "type": "film",
+    "universe": "krrish",
+    "continuity": "krrish-films",
+    "studio_brand": "filmkraft-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Koi... Mil Gaya",
+      "wikidata": "Q1094839",
+      "tmdb": "25516",
+      "imdb": "tt0254481"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koi..._Mil_Gaya",
+      "https://en.wikipedia.org/w/index.php?title=Koi..._Mil_Gaya&oldid=1387731442"
+    ],
+    "notes": "Distributor: Yash Raj Films.",
+    "units": [
+      {
+        "id": "koi-mil-gaya",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 165,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Rohit Mehra's birth, then \"years later\" as an adult",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Years later, a grown-up Rohit is still in school due to his disability, but has found companionship among six children.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-08-08",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: Filmed on a budget of ₹25 crore, Koi... Mil Gaya was released on 8 August 2003 and was the first instalment of the Krrish franchise."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Koi..._Mil_Gaya",
+          "https://en.wikipedia.org/w/index.php?title=Koi..._Mil_Gaya&oldid=1387731442"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "krrish",
+    "title": "Krrish",
+    "sort_title": null,
+    "type": "film",
+    "universe": "krrish",
+    "continuity": "krrish-films",
+    "studio_brand": "filmkraft-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Krrish",
+      "wikidata": "Q1076823",
+      "tmdb": "32740",
+      "imdb": "tt0432637"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Krrish",
+      "https://en.wikipedia.org/w/index.php?title=Krrish&oldid=1388092180"
+    ],
+    "notes": "Distributor: Yash Raj Films (India), Adlabs (international).",
+    "units": [
+      {
+        "id": "krrish",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 175,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Krishna's childhood, then twenty years later",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Twenty years later, Krishna meets Priya and Honey, two holidaymakers camping near his home.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-06-23",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: Krrish was released on 23 June 2006 at a budget of ₹40 crore"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Krrish",
+          "https://en.wikipedia.org/w/index.php?title=Krrish&oldid=1388092180"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "koi-mil-gaya",
+        "kind": "continues",
+        "note": "next generation: Rohit's son Krishna"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "krrish-3",
+    "title": "Krrish 3",
+    "sort_title": null,
+    "type": "film",
+    "universe": "krrish",
+    "continuity": "krrish-films",
+    "studio_brand": "filmkraft-productions",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Krrish 3",
+      "wikidata": "Q6439145",
+      "tmdb": "204435",
+      "imdb": "tt1029231"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Krrish_3",
+      "https://en.wikipedia.org/w/index.php?title=Krrish_3&oldid=1387730983"
+    ],
+    "notes": "Krrish 4 is not released: \"In June 2026, Rakesh Roshan noted filming would likely commence at the end of 2026\" (franchise article). Not included.",
+    "units": [
+      {
+        "id": "krrish-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 152,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Six years after Krrish",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Six years after getting rescued and returning to India with his son Krishna after eliminating Dr. Siddhant Arya, Dr. Rohit Mehra now lives with the former in Mumbai",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-11-01",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: | released = November 1, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Krrish_3",
+          "https://en.wikipedia.org/w/index.php?title=Krrish_3&oldid=1387730983"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "krrish",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "kid-krrish",
+    "title": "Kid Krrish",
+    "sort_title": null,
+    "type": "film",
+    "universe": "krrish",
+    "continuity": "krrish-kid",
+    "studio_brand": "toonz-animation",
+    "label": null,
+    "platform_or_network": "cartoon-network",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Kid Krrish",
+      "wikidata": "Q52883672",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kid_Krrish"
+    ],
+    "notes": "Animated TV films on Cartoon Network India. The franchise cast table labels it \"Kid Krrish (2013–2016)\", but the Kid Krrish article's last date is 25 April 2015.",
+    "units": [
+      {
+        "id": "kid-krrish-kid-krrish",
+        "label": "Kid Krrish",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Kid Krishna adventures",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-02",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: | 1 || Kid Krrish|| 2 October 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kid_Krrish"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kid-krrish-mission-bhutan",
+        "label": "Kid Krrish: Mission Bhutan",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the previous Kid Krrish film",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-07-19",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: | 2 || Kid Krrish: Mission Bhutan || 19 July 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kid_Krrish"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kid-krrish-mystery-in-mongolia",
+        "label": "Kid Krrish: Mystery in Mongolia",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the previous Kid Krrish film",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-27",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: | 3 || Kid Krrish: Mystery in Mongolia|| 27 September 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kid_Krrish"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kid-krrish-shakalaka-africa",
+        "label": "Kid Krrish: Shakalaka Africa",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the previous Kid Krrish film",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-04-25",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: | 4 || Kid Krrish: Shakalaka Africa || 25 April 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kid_Krrish"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "krrish",
+        "kind": "spinoff",
+        "note": "animated TV films based on Krrish"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "j-bole-toh-jadoo",
+    "title": "J Bole Toh Jadoo",
+    "sort_title": null,
+    "type": "series",
+    "universe": "krrish",
+    "continuity": "krrish-jadoo",
+    "studio_brand": "graphiti-multimedia",
+    "label": null,
+    "platform_or_network": "nickelodeon-india",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "J Bole Toh Jadoo",
+      "wikidata": "Q55614761",
+      "tmdb": null,
+      "imdb": "tt21880044"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/J_Bole_Toh_Jadoo"
+    ],
+    "notes": "Animation and live-action hybrid (\"the first locally produced live action-animation show in India\").",
+    "units": [
+      {
+        "id": "j-bole-toh-jadoo",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Jadoo on Tarkopar and Earth",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-11-14",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: | first_aired = November 14, 2004 | last_aired = 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/J_Bole_Toh_Jadoo"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "koi-mil-gaya",
+        "kind": "spinoff",
+        "note": "built around the alien Jadoo from the film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

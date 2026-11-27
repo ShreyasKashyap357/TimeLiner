@@ -1642,5 +1642,69 @@
     "data_dir": "drishyam",
     "description": "The Malayalam Drishyam films and each language's remakes as separate continuities.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "baahubali",
+    "name": "Baahubali",
+    "short_name": "Baahubali",
+    "order": 62,
+    "enabled": true,
+    "accent": {
+      "primary": "#B8860B",
+      "secondary": "#8B0000"
+    },
+    "default_continuity": "baahubali-main",
+    "grouping_schemes": [],
+    "data_dir": "baahubali",
+    "description": "The Baahubali films, the prequel novels and animated series, and the 2025 re-edit, in one continuity in story order.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "kgf-salaar",
+    "name": "KGF & Salaar",
+    "short_name": "KGF & Salaar",
+    "order": 63,
+    "enabled": true,
+    "accent": {
+      "primary": "#3E2723",
+      "secondary": "#FFB300"
+    },
+    "default_continuity": "kgf",
+    "grouping_schemes": [],
+    "data_dir": "kgf-salaar",
+    "description": "Prashanth Neel's KGF films and Salaar, kept as separate continuities (no source says they share a universe).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "krrish",
+    "name": "Krrish",
+    "short_name": "Krrish",
+    "order": 64,
+    "enabled": true,
+    "accent": {
+      "primary": "#1565C0",
+      "secondary": "#C62828"
+    },
+    "default_continuity": "krrish-films",
+    "grouping_schemes": [],
+    "data_dir": "krrish",
+    "description": "Koi... Mil Gaya and the Krrish films, plus the Kid Krrish TV films and J Bole Toh Jadoo as separate continuities.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "dhoom",
+    "name": "Dhoom",
+    "short_name": "Dhoom",
+    "order": 65,
+    "enabled": true,
+    "accent": {
+      "primary": "#212121",
+      "secondary": "#FF6F00"
+    },
+    "default_continuity": "dhoom",
+    "grouping_schemes": [],
+    "data_dir": "dhoom",
+    "description": "The Dhoom films, one continuity with Jai and Ali throughout.",
+    "last_verified": "2026-11-27"
   }
 ]

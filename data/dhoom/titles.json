@@ -1,0 +1,231 @@
+[
+  {
+    "id": "dhoom",
+    "title": "Dhoom",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dhoom",
+    "continuity": "dhoom",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dhoom",
+      "wikidata": "Q431609",
+      "tmdb": "17478",
+      "imdb": "tt0422091"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhoom",
+      "https://en.wikipedia.org/w/index.php?title=Dhoom&oldid=1388000312"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "dhoom",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 129,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "First Jai and Ali case (Mumbai)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "A.C.P Jai Dixit is assigned to investigate the case, where he seeks the help of Ali Akbar Fateh Khan, a local bike dealer",
+          "order_index": 20,
+          "relative_to": {
+            "after": "dhoom-3",
+            "before": "dhoom-2"
+          }
+        },
+        "release": {
+          "date": "2004-08-27",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: Dhoom was released on 27 August 2004 to mixed reviews from critics"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dhoom",
+          "https://en.wikipedia.org/w/index.php?title=Dhoom&oldid=1388000312"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dhoom-2",
+    "title": "Dhoom 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dhoom",
+    "continuity": "dhoom",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dhoom 2",
+      "wikidata": "Q517398",
+      "tmdb": "14194",
+      "imdb": "tt0441048"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhoom_2",
+      "https://en.wikipedia.org/w/index.php?title=Dhoom_2&oldid=1388000318"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "dhoom-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 152,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After Dhoom (Ali newly promoted to SI)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "ACP Jai Dixit and newly promoted SI Ali Akbar Khan are introduced to Shonali Bose",
+          "order_index": 30,
+          "relative_to": {
+            "after": "dhoom",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2006-11-24",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: Dhoom 2 was released on 24 November 2006 to positive reviews from critics"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dhoom_2",
+          "https://en.wikipedia.org/w/index.php?title=Dhoom_2&oldid=1388000318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dhoom",
+        "kind": "continues",
+        "note": "Jai and Ali return"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dhoom-3",
+    "title": "Dhoom 3",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dhoom",
+    "continuity": "dhoom",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dhoom 3",
+      "wikidata": "Q14948561",
+      "tmdb": "44977",
+      "imdb": "tt1833673"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhoom_3",
+      "https://en.wikipedia.org/w/index.php?title=Dhoom_3&oldid=1388000330"
+    ],
+    "notes": "Dhoom 4 has no Wikipedia article (the series article says \"Do not add Dhoom 4 unless and until it becomes blue linked\"). Not included.",
+    "units": [
+      {
+        "id": "dhoom-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 172,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2013
+          },
+          "end": {
+            "y": 2013
+          },
+          "label": "2013 (prologue 1990)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1990, Iqbal Haroon Khan, who owns The Great Indian Circus in Illinois, is ordered by the Western Bank of Chicago to close down the circus … In 2013, Sahir robs various branches of the Western Bank of Chicago as revenge.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-12-20",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Dhoom 3 was released on 20 December 2013."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dhoom_3",
+          "https://en.wikipedia.org/w/index.php?title=Dhoom_3&oldid=1388000330"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dhoom-2",
+        "kind": "continues",
+        "note": "Jai and Ali return"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

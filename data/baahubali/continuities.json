@@ -1,0 +1,36 @@
+[
+  {
+    "id": "baahubali-main",
+    "universe": "baahubali",
+    "name": "Baahubali (films, animated series, prequel novels)",
+    "short_name": "Baahubali",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "One continuity: the two Rajamouli films (and their re-edit), the two animated prequel series and Anand Neelakantan's prequel novel trilogy. Wikipedia frames every one of these as part of the franchise and as prequels to the films. No absolute in-universe years are given anywhere, so the order is relative only. Wikipedia: \"S. S. Rajamouli approached Indian novelist Anand Neelakantan to write a prequel trilogy of novels for the Baahubali film franchise. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion. … Set before the events of the films, this prequel follows Baahubali and Bhallaladeva\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Baahubali_%28franchise%29&oldid=1387980366",
+      "https://en.wikipedia.org/w/index.php?title=The_Rise_of_Sivagami&oldid=1388080087",
+      "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+      "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_Crown_of_Blood&oldid=1387666729"
+    ],
+    "notes": "Wikipedia never says whether the novels, The Lost Legends and Crown of Blood agree with one another; each is only tied to the films. Kept in one continuity per the instruction (Wikipedia ties the novels to the film continuity); a stricter reading would split the tie-ins into their own continuities."
+  }
+]

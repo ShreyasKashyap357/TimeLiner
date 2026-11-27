@@ -1,0 +1,270 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "jack-ryan",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "atlantic-ocean-q97",
+        "name": "Atlantic Ocean",
+        "lat": 0,
+        "lng": -30,
+        "title_ids": [
+          "the-hunt-for-red-october",
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q97",
+        "confidence": "stated"
+      },
+      {
+        "id": "colombia-q739",
+        "name": "Colombia",
+        "lat": 4,
+        "lng": -73.25,
+        "title_ids": [
+          "clear-and-present-danger-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q739",
+        "confidence": "stated"
+      },
+      {
+        "id": "george-bush-center-for-intelligence-q5425102",
+        "name": "George Bush Center for Intelligence",
+        "lat": 38.952222222,
+        "lng": -77.144444444,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q5425102",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-q84",
+        "name": "London",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "title_ids": [
+          "the-hunt-for-red-october-film",
+          "patriot-games-film",
+          "jack-ryan-shadow-recruit"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q84",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-heathrow-airport-q8691",
+        "name": "London Heathrow Airport",
+        "lat": 51.4775,
+        "lng": -0.461389,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8691",
+        "confidence": "stated"
+      },
+      {
+        "id": "maine-q724",
+        "name": "Maine",
+        "lat": 45.5,
+        "lng": -69,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q724",
+        "confidence": "stated"
+      },
+      {
+        "id": "maryland-q1391",
+        "name": "Maryland",
+        "lat": 39,
+        "lng": -76.7,
+        "title_ids": [
+          "patriot-games-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1391",
+        "confidence": "stated"
+      },
+      {
+        "id": "middle-east-q7204",
+        "name": "Middle East",
+        "lat": 28,
+        "lng": 45,
+        "title_ids": [
+          "the-sum-of-all-fears",
+          "against-all-enemies"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q7204",
+        "confidence": "stated"
+      },
+      {
+        "id": "moscow-q649",
+        "name": "Moscow",
+        "lat": 55.750555555,
+        "lng": 37.6175,
+        "title_ids": [
+          "the-hunt-for-red-october-film",
+          "the-sum-of-all-fears-film",
+          "jack-ryan-shadow-recruit"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q649",
+        "confidence": "stated"
+      },
+      {
+        "id": "naval-air-station-patuxent-river-q1972204",
+        "name": "Naval Air Station Patuxent River",
+        "lat": 38.2837401,
+        "lng": -76.4185285,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1972204",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-york-city-q60",
+        "name": "New York City",
+        "lat": 40.712777777,
+        "lng": -74.006111111,
+        "title_ids": [
+          "jack-ryan-shadow-recruit"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q60",
+        "confidence": "stated"
+      },
+      {
+        "id": "penobscot-river-q945954",
+        "name": "Penobscot River",
+        "lat": 44.433333333,
+        "lng": -68.833333333,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q945954",
+        "confidence": "stated"
+      },
+      {
+        "id": "soviet-union-q15180",
+        "name": "Soviet Union",
+        "lat": 65,
+        "lng": 90,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q15180",
+        "confidence": "stated"
+      },
+      {
+        "id": "the-pentagon-q11208",
+        "name": "The Pentagon",
+        "lat": 38.870833333,
+        "lng": -77.055,
+        "title_ids": [
+          "the-hunt-for-red-october"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q11208",
+        "confidence": "stated"
+      },
+      {
+        "id": "ukraine-q212",
+        "name": "Ukraine",
+        "lat": 49,
+        "lng": 32,
+        "title_ids": [
+          "the-sum-of-all-fears-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q212",
+        "confidence": "stated"
+      },
+      {
+        "id": "united-states-q30",
+        "name": "United States",
+        "lat": 39.828175,
+        "lng": -98.5795,
+        "title_ids": [
+          "the-hunt-for-red-october",
+          "debt-of-honor",
+          "against-all-enemies",
+          "command-authority"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q30",
+        "confidence": "stated"
+      },
+      {
+        "id": "vietnam-q881",
+        "name": "Vietnam",
+        "lat": 16,
+        "lng": 108,
+        "title_ids": [
+          "without-remorse"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q881",
+        "confidence": "stated"
+      },
+      {
+        "id": "washington-dulles-international-airport-q466835",
+        "name": "Washington Dulles International Airport",
+        "lat": 38.944444,
+        "lng": -77.455833,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q466835",
+        "confidence": "stated"
+      },
+      {
+        "id": "washington-d-c-q61",
+        "name": "Washington, D.C.",
+        "lat": 38.895,
+        "lng": -77.036666666,
+        "title_ids": [
+          "clear-and-present-danger-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q61",
+        "confidence": "stated"
+      },
+      {
+        "id": "white-house-q35525",
+        "name": "White House",
+        "lat": 38.897777777,
+        "lng": -77.036666666,
+        "title_ids": [
+          "the-hunt-for-red-october-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q35525",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

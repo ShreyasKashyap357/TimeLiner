@@ -4,7 +4,7 @@
 // Validation (D-4): the data is validated against the Zod schema in CI (`npm run verify` and the
 // unit tests), so production builds skip runtime validation and Zod stays out of the bundle.
 // In `npm run dev` every file is still parsed, so a bad edit fails loudly while developing.
-import type { Continuity, Platform, Studio, Tag, Title, Universe } from '@/domain/schema';
+import type { Continuity, Platform, Studio, Tag, Title, Universe, WorldMap } from '@/domain/schema';
 import type { Dataset } from '@/domain/model';
 import universesRaw from '../../data/universes.json';
 import studiosRaw from '../../data/registry/studios.json';
@@ -57,4 +57,20 @@ export async function loadDataset(ids: string[] = universes.filter((u) => u.enab
     tags: parts.flatMap((p) => p.tags),
     aliases: Object.assign({}, ...parts.map((p) => p.aliases)),
   };
+}
+
+// Maps (optional data/<universe>/maps.json) load only when the Maps view opens.
+const mapChunks = import.meta.glob<{ default: unknown }>('../../data/*/maps.json');
+const mapKey = (id: string) => {
+  const u = universes.find((x) => x.id === id);
+  return u ? `../../data/${u.data_dir}/maps.json` : '';
+};
+/** True when the universe has a maps.json (known at build time, no fetch needed). */
+export const hasMaps = (id: string): boolean => !!mapChunks[mapKey(id)];
+export async function loadMaps(id: string): Promise<WorldMap[]> {
+  const loader = mapChunks[mapKey(id)];
+  if (!loader) return [];
+  const raw = (await loader()).default;
+  if (!import.meta.env.DEV) return raw as WorldMap[];
+  return (await import('@/domain/schema')).MapsFile.parse(raw);
 }

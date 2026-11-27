@@ -1,0 +1,470 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "mission-impossible",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "austria-q40",
+        "name": "Austria",
+        "lat": 48,
+        "lng": 14,
+        "title_ids": [
+          "mi-film-7"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q40",
+        "confidence": "stated"
+      },
+      {
+        "id": "belfast-q10686",
+        "name": "Belfast",
+        "lat": 54.596666666,
+        "lng": -5.93,
+        "title_ids": [
+          "mi-film-6"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q10686",
+        "confidence": "stated"
+      },
+      {
+        "id": "berlin-q64",
+        "name": "Berlin",
+        "lat": 52.516666666,
+        "lng": 13.383333333,
+        "title_ids": [
+          "mi-film-3",
+          "mi-film-6"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q64",
+        "confidence": "stated"
+      },
+      {
+        "id": "budapest-q1781",
+        "name": "Budapest",
+        "lat": 47.498333333,
+        "lng": 19.040833333,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1781",
+        "confidence": "stated"
+      },
+      {
+        "id": "burj-khalifa-q12495",
+        "name": "Burj Khalifa",
+        "lat": 25.197222222,
+        "lng": 55.274166666,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q12495",
+        "confidence": "stated"
+      },
+      {
+        "id": "casablanca-q7903",
+        "name": "Casablanca",
+        "lat": 33.599166666,
+        "lng": -7.62,
+        "title_ids": [
+          "mi-film-5"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q7903",
+        "confidence": "stated"
+      },
+      {
+        "id": "channel-tunnel-q10257",
+        "name": "Channel Tunnel",
+        "lat": 51.016694444,
+        "lng": 1.45,
+        "title_ids": [
+          "mi-film-1"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q10257",
+        "confidence": "stated"
+      },
+      {
+        "id": "dead-horse-point-state-park-q129470",
+        "name": "Dead Horse Point State Park",
+        "lat": 38.50582,
+        "lng": -109.73317,
+        "title_ids": [
+          "mi-film-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q129470",
+        "confidence": "stated"
+      },
+      {
+        "id": "dubai-q612",
+        "name": "Dubai",
+        "lat": 25.269722222,
+        "lng": 55.309444444,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q612",
+        "confidence": "stated"
+      },
+      {
+        "id": "dublin-q1761",
+        "name": "Dublin",
+        "lat": 53.349722222,
+        "lng": -6.260277777,
+        "title_ids": [
+          "mi-film-1"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1761",
+        "confidence": "stated"
+      },
+      {
+        "id": "havana-q1563",
+        "name": "Havana",
+        "lat": 23.136666666,
+        "lng": -82.358888888,
+        "title_ids": [
+          "mi-film-5"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1563",
+        "confidence": "stated"
+      },
+      {
+        "id": "kashmir-q43100",
+        "name": "Kashmir",
+        "lat": 34.5,
+        "lng": 76,
+        "title_ids": [
+          "mi-film-6"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q43100",
+        "confidence": "stated"
+      },
+      {
+        "id": "langley-q523606",
+        "name": "Langley",
+        "lat": 38.9464,
+        "lng": -77.1589,
+        "title_ids": [
+          "mi-film-1",
+          "mi-film-5"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q523606",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-q84",
+        "name": "London",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "title_ids": [
+          "mi-film-1",
+          "mi-film-5",
+          "mi-film-6",
+          "mi-film-8"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q84",
+        "confidence": "stated"
+      },
+      {
+        "id": "minsk-q2280",
+        "name": "Minsk",
+        "lat": 53.902246,
+        "lng": 27.561837,
+        "title_ids": [
+          "mi-film-5"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2280",
+        "confidence": "stated"
+      },
+      {
+        "id": "moscow-q649",
+        "name": "Moscow",
+        "lat": 55.750555555,
+        "lng": 37.6175,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q649",
+        "confidence": "stated"
+      },
+      {
+        "id": "mount-weather-emergency-operations-center-q1950803",
+        "name": "Mount Weather Emergency Operations Center",
+        "lat": 39.063,
+        "lng": -77.889,
+        "title_ids": [
+          "mi-film-8"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1950803",
+        "confidence": "stated"
+      },
+      {
+        "id": "mumbai-q1156",
+        "name": "Mumbai",
+        "lat": 19.075833333,
+        "lng": 72.8775,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1156",
+        "confidence": "stated"
+      },
+      {
+        "id": "paris-q90",
+        "name": "Paris",
+        "lat": 48.856666666,
+        "lng": 2.352222222,
+        "title_ids": [
+          "mi-film-6"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q90",
+        "confidence": "stated"
+      },
+      {
+        "id": "prague-q1085",
+        "name": "Prague",
+        "lat": 50.0875,
+        "lng": 14.421388888,
+        "title_ids": [
+          "mi-film-1"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1085",
+        "confidence": "stated"
+      },
+      {
+        "id": "ramstein-air-base-q161348",
+        "name": "Ramstein Air Base",
+        "lat": 49.436944444,
+        "lng": 7.6,
+        "title_ids": [
+          "mi-film-6"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q161348",
+        "confidence": "stated"
+      },
+      {
+        "id": "rome-q220",
+        "name": "Rome",
+        "lat": 41.893055555,
+        "lng": 12.482777777,
+        "title_ids": [
+          "mi-film-7"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q220",
+        "confidence": "stated"
+      },
+      {
+        "id": "rub-al-khali-q229269",
+        "name": "Rub' al Khali",
+        "lat": 20,
+        "lng": 50,
+        "title_ids": [
+          "mi-film-7"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q229269",
+        "confidence": "stated"
+      },
+      {
+        "id": "san-francisco-q62",
+        "name": "San Francisco",
+        "lat": 37.775,
+        "lng": -122.419444444,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q62",
+        "confidence": "stated"
+      },
+      {
+        "id": "seattle-q5083",
+        "name": "Seattle",
+        "lat": 47.605,
+        "lng": -122.33,
+        "title_ids": [
+          "mi-film-4"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q5083",
+        "confidence": "stated"
+      },
+      {
+        "id": "seville-q8717",
+        "name": "Seville",
+        "lat": 37.388611111,
+        "lng": -5.995,
+        "title_ids": [
+          "mi-film-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8717",
+        "confidence": "stated"
+      },
+      {
+        "id": "shanghai-q8686",
+        "name": "Shanghai",
+        "lat": 31.2325,
+        "lng": 121.469166666,
+        "title_ids": [
+          "mi-film-3"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8686",
+        "confidence": "stated"
+      },
+      {
+        "id": "south-africa-q258",
+        "name": "South Africa",
+        "lat": -29,
+        "lng": 24,
+        "title_ids": [
+          "mi-film-8"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q258",
+        "confidence": "stated"
+      },
+      {
+        "id": "st-matthew-island-q1655937",
+        "name": "St. Matthew Island",
+        "lat": 60.423611111,
+        "lng": -172.72,
+        "title_ids": [
+          "mi-film-8"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1655937",
+        "confidence": "stated"
+      },
+      {
+        "id": "swiss-alps-q25220",
+        "name": "Swiss Alps",
+        "lat": 46.5,
+        "lng": 8.5,
+        "title_ids": [
+          "mi-film-7"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q25220",
+        "confidence": "stated"
+      },
+      {
+        "id": "sydney-q3130",
+        "name": "Sydney",
+        "lat": -33.867777777,
+        "lng": 151.21,
+        "title_ids": [
+          "mi-film-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3130",
+        "confidence": "stated"
+      },
+      {
+        "id": "vatican-city-q237",
+        "name": "Vatican City",
+        "lat": 41.904,
+        "lng": 12.453,
+        "title_ids": [
+          "mi-film-3"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q237",
+        "confidence": "stated"
+      },
+      {
+        "id": "venice-q641",
+        "name": "Venice",
+        "lat": 45.439722222,
+        "lng": 12.331944444,
+        "title_ids": [
+          "mi-film-7"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q641",
+        "confidence": "stated"
+      },
+      {
+        "id": "vienna-q1741",
+        "name": "Vienna",
+        "lat": 48.208333333,
+        "lng": 16.3725,
+        "title_ids": [
+          "mi-film-5"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1741",
+        "confidence": "stated"
+      },
+      {
+        "id": "virginia-q1370",
+        "name": "Virginia",
+        "lat": 37.5,
+        "lng": -79,
+        "title_ids": [
+          "mi-film-3"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1370",
+        "confidence": "stated"
+      },
+      {
+        "id": "washington-d-c-q61",
+        "name": "Washington, D.C.",
+        "lat": 38.895,
+        "lng": -77.036666666,
+        "title_ids": [
+          "mi-film-5"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q61",
+        "confidence": "stated"
+      },
+      {
+        "id": "zayed-international-airport-q643562",
+        "name": "Zayed International Airport",
+        "lat": 24.433055555,
+        "lng": 54.651111111,
+        "title_ids": [
+          "mi-film-7"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q643562",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

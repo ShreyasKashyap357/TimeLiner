@@ -1,0 +1,1673 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "marvel",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "afghanistan-q889",
+        "name": "Afghanistan",
+        "lat": 33,
+        "lng": 66,
+        "title_ids": [
+          "iron-man"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q889",
+        "confidence": "stated"
+      },
+      {
+        "id": "alaska-q797",
+        "name": "Alaska",
+        "lat": 64,
+        "lng": -150,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q797",
+        "confidence": "stated"
+      },
+      {
+        "id": "alberta-q1951",
+        "name": "Alberta",
+        "lat": 54.5,
+        "lng": -115,
+        "title_ids": [
+          "x-men",
+          "x-men-the-last-stand",
+          "x-men-apocalypse"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1951",
+        "confidence": "stated"
+      },
+      {
+        "id": "amazon-river-q3783",
+        "name": "Amazon River",
+        "lat": -4.44836,
+        "lng": -73.4559,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3783",
+        "confidence": "stated"
+      },
+      {
+        "id": "argentina-q414",
+        "name": "Argentina",
+        "lat": -34,
+        "lng": -64,
+        "title_ids": [
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q414",
+        "confidence": "stated"
+      },
+      {
+        "id": "atlanta-q23556",
+        "name": "Atlanta",
+        "lat": 33.754444444,
+        "lng": -84.389722222,
+        "title_ids": [
+          "the-gifted"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q23556",
+        "confidence": "stated"
+      },
+      {
+        "id": "atlantic-ocean-q97",
+        "name": "Atlantic Ocean",
+        "lat": 0,
+        "lng": -30,
+        "title_ids": [
+          "morbius"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q97",
+        "confidence": "stated"
+      },
+      {
+        "id": "auschwitz-q7341",
+        "name": "Auschwitz",
+        "lat": 50.035833333,
+        "lng": 19.178333333,
+        "title_ids": [
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q7341",
+        "confidence": "stated"
+      },
+      {
+        "id": "australia-q408",
+        "name": "Australia",
+        "lat": -25,
+        "lng": 133,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q408",
+        "confidence": "stated"
+      },
+      {
+        "id": "babylon-q5684",
+        "name": "Babylon",
+        "lat": 32.522907,
+        "lng": 44.42415,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q5684",
+        "confidence": "stated"
+      },
+      {
+        "id": "berlin-q64",
+        "name": "Berlin",
+        "lat": 52.516666666,
+        "lng": 13.383333333,
+        "title_ids": [
+          "captain-america-civil-war",
+          "spider-man-far-from-home"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q64",
+        "confidence": "stated"
+      },
+      {
+        "id": "bleecker-street-q2724557",
+        "name": "Bleecker Street",
+        "lat": 40.7303,
+        "lng": -74.0025,
+        "title_ids": [
+          "doctor-strange"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2724557",
+        "confidence": "stated"
+      },
+      {
+        "id": "boston-q100",
+        "name": "Boston",
+        "lat": 42.360277777,
+        "lng": -71.057777777,
+        "title_ids": [
+          "x2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q100",
+        "confidence": "stated"
+      },
+      {
+        "id": "british-columbia-q1973",
+        "name": "British Columbia",
+        "lat": 54.5,
+        "lng": -124.5,
+        "title_ids": [
+          "legion"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1973",
+        "confidence": "stated"
+      },
+      {
+        "id": "broek-op-langedijk-q2464635",
+        "name": "Broek op Langedijk",
+        "lat": 52.6725,
+        "lng": 4.8056,
+        "title_ids": [
+          "spider-man-far-from-home"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2464635",
+        "confidence": "stated"
+      },
+      {
+        "id": "bucharest-q19660",
+        "name": "Bucharest",
+        "lat": 44.413361111,
+        "lng": 26.097777777,
+        "title_ids": [
+          "captain-america-civil-war"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q19660",
+        "confidence": "stated"
+      },
+      {
+        "id": "budapest-q1781",
+        "name": "Budapest",
+        "lat": 47.498333333,
+        "lng": 19.040833333,
+        "title_ids": [
+          "black-widow"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1781",
+        "confidence": "stated"
+      },
+      {
+        "id": "busan-q16520",
+        "name": "Busan",
+        "lat": 35.18,
+        "lng": 129.075,
+        "title_ids": [
+          "black-panther"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q16520",
+        "confidence": "stated"
+      },
+      {
+        "id": "cairo-q85",
+        "name": "Cairo",
+        "lat": 30.044444444,
+        "lng": 31.235833333,
+        "title_ids": [
+          "x-men-apocalypse"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q85",
+        "confidence": "stated"
+      },
+      {
+        "id": "california-q99",
+        "name": "California",
+        "lat": 37,
+        "lng": -120,
+        "title_ids": [
+          "iron-man-2",
+          "captain-marvel",
+          "venom-let-there-be-carnage"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q99",
+        "confidence": "stated"
+      },
+      {
+        "id": "cambridge-q49111",
+        "name": "Cambridge",
+        "lat": 42.375,
+        "lng": -71.106111111,
+        "title_ids": [
+          "ironheart"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q49111",
+        "confidence": "stated"
+      },
+      {
+        "id": "canada-q16",
+        "name": "Canada",
+        "lat": 56,
+        "lng": -109,
+        "title_ids": [
+          "x-men-origins-wolverine",
+          "x2",
+          "deadpool-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q16",
+        "confidence": "stated"
+      },
+      {
+        "id": "cerro-de-la-muerte-q4391501",
+        "name": "Cerro de la Muerte",
+        "lat": 9.56666667,
+        "lng": -83.75,
+        "title_ids": [
+          "morbius"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q4391501",
+        "confidence": "stated"
+      },
+      {
+        "id": "chicago-q1297",
+        "name": "Chicago",
+        "lat": 41.881944444,
+        "lng": -87.627777777,
+        "title_ids": [
+          "eternals",
+          "ironheart"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1297",
+        "confidence": "stated"
+      },
+      {
+        "id": "china-q29520",
+        "name": "China",
+        "lat": 35,
+        "lng": 105,
+        "title_ids": [
+          "x-men-days-of-future-past"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q29520",
+        "confidence": "stated"
+      },
+      {
+        "id": "cleveland-q37320",
+        "name": "Cleveland",
+        "lat": 41.499166666,
+        "lng": -81.694722222,
+        "title_ids": [
+          "captain-america-civil-war"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q37320",
+        "confidence": "stated"
+      },
+      {
+        "id": "cuba-q241",
+        "name": "Cuba",
+        "lat": 22,
+        "lng": -79.5,
+        "title_ids": [
+          "black-widow",
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q241",
+        "confidence": "stated"
+      },
+      {
+        "id": "drochia-q2440155",
+        "name": "Drochia",
+        "lat": 48.113888888,
+        "lng": 27.808055555,
+        "title_ids": [
+          "the-amazing-spider-man"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2440155",
+        "confidence": "stated"
+      },
+      {
+        "id": "east-berlin-q56037",
+        "name": "East Berlin",
+        "lat": 52.518611111,
+        "lng": 13.404444444,
+        "title_ids": [
+          "x-men-apocalypse"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q56037",
+        "confidence": "stated"
+      },
+      {
+        "id": "edinburgh-q23436",
+        "name": "Edinburgh",
+        "lat": 55.953333333,
+        "lng": -3.189166666,
+        "title_ids": [
+          "avengers-infinity-war",
+          "visionquest"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q23436",
+        "confidence": "stated"
+      },
+      {
+        "id": "edwards-air-force-base-q217563",
+        "name": "Edwards Air Force Base",
+        "lat": 34.923890144,
+        "lng": -117.891256356,
+        "title_ids": [
+          "iron-man-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q217563",
+        "confidence": "stated"
+      },
+      {
+        "id": "el-paso-q16562",
+        "name": "El Paso",
+        "lat": 31.759166666,
+        "lng": -106.488611111,
+        "title_ids": [
+          "logan"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q16562",
+        "confidence": "stated"
+      },
+      {
+        "id": "finland-q33",
+        "name": "Finland",
+        "lat": 65,
+        "lng": 27,
+        "title_ids": [
+          "secret-invasion"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q33",
+        "confidence": "stated"
+      },
+      {
+        "id": "flushing-q1058775",
+        "name": "Flushing",
+        "lat": 40.76583,
+        "lng": -73.833084,
+        "title_ids": [
+          "iron-man-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1058775",
+        "confidence": "stated"
+      },
+      {
+        "id": "georgia-q1428",
+        "name": "Georgia",
+        "lat": 33,
+        "lng": -83.5,
+        "title_ids": [
+          "luke-cage"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1428",
+        "confidence": "stated"
+      },
+      {
+        "id": "greece-q41",
+        "name": "Greece",
+        "lat": 38.5,
+        "lng": 23,
+        "title_ids": [
+          "morbius"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q41",
+        "confidence": "stated"
+      },
+      {
+        "id": "green-bank-q1012806",
+        "name": "Green Bank",
+        "lat": 38.4201186,
+        "lng": -79.8314461,
+        "title_ids": [
+          "captain-america-brave-new-world"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1012806",
+        "confidence": "stated"
+      },
+      {
+        "id": "gupta-empire-q11774",
+        "name": "Gupta Empire",
+        "lat": 23.988888888,
+        "lng": 88.731111111,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q11774",
+        "confidence": "stated"
+      },
+      {
+        "id": "harlem-q189074",
+        "name": "Harlem",
+        "lat": 40.809033333,
+        "lng": -73.948372222,
+        "title_ids": [
+          "luke-cage"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q189074",
+        "confidence": "stated"
+      },
+      {
+        "id": "hell-s-kitchen-q840133",
+        "name": "Hell's Kitchen",
+        "lat": 40.764166666,
+        "lng": -73.992222222,
+        "title_ids": [
+          "iron-fist"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q840133",
+        "confidence": "stated"
+      },
+      {
+        "id": "hiroshima-q34664",
+        "name": "Hiroshima",
+        "lat": 34.38525,
+        "lng": 132.455305555,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34664",
+        "confidence": "stated"
+      },
+      {
+        "id": "hmnb-clyde-q628776",
+        "name": "HMNB Clyde",
+        "lat": 56.066,
+        "lng": -4.817,
+        "title_ids": [
+          "secret-invasion"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q628776",
+        "confidence": "stated"
+      },
+      {
+        "id": "hollywood-q34006",
+        "name": "Hollywood",
+        "lat": 34.098333333,
+        "lng": -118.326666666,
+        "title_ids": [
+          "the-guardians-of-the-galaxy-holiday-special"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34006",
+        "confidence": "stated"
+      },
+      {
+        "id": "hong-kong-q8646",
+        "name": "Hong Kong",
+        "lat": 22.278333333,
+        "lng": 114.158611111,
+        "title_ids": [
+          "doctor-strange"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8646",
+        "confidence": "stated"
+      },
+      {
+        "id": "hotel-de-paris-monte-carlo-q1279896",
+        "name": "Hôtel de Paris Monte-Carlo",
+        "lat": 43.73898,
+        "lng": 7.42751,
+        "title_ids": [
+          "iron-man-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1279896",
+        "confidence": "stated"
+      },
+      {
+        "id": "iraq-q796",
+        "name": "Iraq",
+        "lat": 33,
+        "lng": 43,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q796",
+        "confidence": "stated"
+      },
+      {
+        "id": "italy-q38",
+        "name": "Italy",
+        "lat": 42.5,
+        "lng": 12.5,
+        "title_ids": [
+          "captain-america-the-first-avenger"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q38",
+        "confidence": "stated"
+      },
+      {
+        "id": "ixtenco-q16892769",
+        "name": "Ixtenco",
+        "lat": 19.25,
+        "lng": -97.894444444,
+        "title_ids": [
+          "spider-man-far-from-home"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q16892769",
+        "confidence": "stated"
+      },
+      {
+        "id": "japan-q17",
+        "name": "Japan",
+        "lat": 35,
+        "lng": 136,
+        "title_ids": [
+          "the-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q17",
+        "confidence": "stated"
+      },
+      {
+        "id": "jersey-city-q26339",
+        "name": "Jersey City",
+        "lat": 40.71,
+        "lng": -74.06,
+        "title_ids": [
+          "ms-marvel"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q26339",
+        "confidence": "stated"
+      },
+      {
+        "id": "johannesburg-q34647",
+        "name": "Johannesburg",
+        "lat": -26.204361111,
+        "lng": 28.041638888,
+        "title_ids": [
+          "avengers-age-of-ultron"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34647",
+        "confidence": "stated"
+      },
+      {
+        "id": "joint-base-anacostia-bolling-q6269101",
+        "name": "Joint Base Anacostia-Bolling",
+        "lat": 38.8428,
+        "lng": -77.0161,
+        "title_ids": [
+          "captain-america-brave-new-world"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q6269101",
+        "confidence": "stated"
+      },
+      {
+        "id": "kalaeloa-q1991494",
+        "name": "Kalaeloa",
+        "lat": 21.313888888,
+        "lng": -158.063333333,
+        "title_ids": [
+          "inhumans"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1991494",
+        "confidence": "stated"
+      },
+      {
+        "id": "karachi-q8660",
+        "name": "Karachi",
+        "lat": 24.86,
+        "lng": 67.01,
+        "title_ids": [
+          "ms-marvel"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8660",
+        "confidence": "stated"
+      },
+      {
+        "id": "kathmandu-q3037",
+        "name": "Kathmandu",
+        "lat": 27.71,
+        "lng": 85.32,
+        "title_ids": [
+          "doctor-strange"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3037",
+        "confidence": "stated"
+      },
+      {
+        "id": "kolkata-q1348",
+        "name": "Kolkata",
+        "lat": 22.5675,
+        "lng": 88.37,
+        "title_ids": [
+          "the-avengers"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1348",
+        "confidence": "stated"
+      },
+      {
+        "id": "kuala-lumpur-q1865",
+        "name": "Kuala Lumpur",
+        "lat": 3.147777777,
+        "lng": 101.695277777,
+        "title_ids": [
+          "thunderbolts"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1865",
+        "confidence": "stated"
+      },
+      {
+        "id": "kunar-province-q188147",
+        "name": "Kunar Province",
+        "lat": 35,
+        "lng": 71.2,
+        "title_ids": [
+          "iron-man"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q188147",
+        "confidence": "stated"
+      },
+      {
+        "id": "lagos-q8673",
+        "name": "Lagos",
+        "lat": 6.456111111,
+        "lng": 3.393611111,
+        "title_ids": [
+          "captain-america-civil-war",
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8673",
+        "confidence": "stated"
+      },
+      {
+        "id": "las-vegas-q23768",
+        "name": "Las Vegas",
+        "lat": 36.167222222,
+        "lng": -115.148611111,
+        "title_ids": [
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q23768",
+        "confidence": "stated"
+      },
+      {
+        "id": "latvia-q211",
+        "name": "Latvia",
+        "lat": 57,
+        "lng": 25,
+        "title_ids": [
+          "the-falcon-and-the-winter-soldier"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q211",
+        "confidence": "stated"
+      },
+      {
+        "id": "leipzig-halle-airport-q668382",
+        "name": "Leipzig/Halle Airport",
+        "lat": 51.423991666,
+        "lng": 12.236383333,
+        "title_ids": [
+          "captain-america-civil-war"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q668382",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-q84",
+        "name": "London",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "title_ids": [
+          "captain-america-the-first-avenger",
+          "thor-the-dark-world",
+          "avengers-age-of-ultron",
+          "captain-america-civil-war",
+          "doctor-strange",
+          "black-panther",
+          "spider-man-far-from-home",
+          "eternals",
+          "secret-invasion",
+          "visionquest",
+          "agent-carter-series"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q84",
+        "confidence": "stated"
+      },
+      {
+        "id": "los-angeles-q65",
+        "name": "Los Angeles",
+        "lat": 34.05223,
+        "lng": -118.24368,
+        "title_ids": [
+          "iron-man",
+          "iron-man-3",
+          "she-hulk-attorney-at-law",
+          "wonder-man",
+          "runaways",
+          "agent-carter-series",
+          "deadpool"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q65",
+        "confidence": "stated"
+      },
+      {
+        "id": "lower-east-side-q1511813",
+        "name": "Lower East Side",
+        "lat": 40.717222,
+        "lng": -73.989722,
+        "title_ids": [
+          "moon-girl-and-devil-dinosaur"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1511813",
+        "confidence": "stated"
+      },
+      {
+        "id": "macau-q14773",
+        "name": "Macau",
+        "lat": 22.19,
+        "lng": 113.538055555,
+        "title_ids": [
+          "shang-chi-and-the-legend-of-the-ten-rings"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q14773",
+        "confidence": "stated"
+      },
+      {
+        "id": "malibu-q387047",
+        "name": "Malibu",
+        "lat": 34.035,
+        "lng": -118.695,
+        "title_ids": [
+          "iron-man-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q387047",
+        "confidence": "stated"
+      },
+      {
+        "id": "mazatlan-q40194",
+        "name": "Mazatlán",
+        "lat": 23.216666666,
+        "lng": -106.408333333,
+        "title_ids": [
+          "thor-ragnarok"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q40194",
+        "confidence": "stated"
+      },
+      {
+        "id": "meridian-q118152",
+        "name": "Meridian",
+        "lat": 32.364305555,
+        "lng": -88.703666666,
+        "title_ids": [
+          "x-men"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q118152",
+        "confidence": "stated"
+      },
+      {
+        "id": "mesopotamia-q11767",
+        "name": "Mesopotamia",
+        "lat": 33.7,
+        "lng": 43.5,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q11767",
+        "confidence": "stated"
+      },
+      {
+        "id": "mexico-q96",
+        "name": "Mexico",
+        "lat": 23,
+        "lng": -102,
+        "title_ids": [
+          "logan"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q96",
+        "confidence": "stated"
+      },
+      {
+        "id": "miami-q8652",
+        "name": "Miami",
+        "lat": 25.774166666,
+        "lng": -80.193611111,
+        "title_ids": [
+          "iron-man-3",
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8652",
+        "confidence": "stated"
+      },
+      {
+        "id": "miami-metropolitan-area-q2915506",
+        "name": "Miami metropolitan area",
+        "lat": 26.133333333,
+        "lng": -80.2,
+        "title_ids": [
+          "iron-man-3",
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2915506",
+        "confidence": "stated"
+      },
+      {
+        "id": "missouri-q1581",
+        "name": "Missouri",
+        "lat": 38.5,
+        "lng": -92.5,
+        "title_ids": [
+          "guardians-of-the-galaxy-vol-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1581",
+        "confidence": "stated"
+      },
+      {
+        "id": "monaco-q235",
+        "name": "Monaco",
+        "lat": 43.731111111,
+        "lng": 7.42,
+        "title_ids": [
+          "iron-man-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q235",
+        "confidence": "stated"
+      },
+      {
+        "id": "monte-carlo-q45240",
+        "name": "Monte Carlo",
+        "lat": 43.738942,
+        "lng": 7.425237,
+        "title_ids": [
+          "iron-man-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q45240",
+        "confidence": "stated"
+      },
+      {
+        "id": "morocco-q1028",
+        "name": "Morocco",
+        "lat": 32,
+        "lng": -6,
+        "title_ids": [
+          "black-widow"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1028",
+        "confidence": "stated"
+      },
+      {
+        "id": "moscow-q649",
+        "name": "Moscow",
+        "lat": 55.750555555,
+        "lng": 37.6175,
+        "title_ids": [
+          "iron-man-2",
+          "secret-invasion",
+          "x-men-first-class",
+          "x-men-days-of-future-past"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q649",
+        "confidence": "stated"
+      },
+      {
+        "id": "mumbai-q1156",
+        "name": "Mumbai",
+        "lat": 19.075833333,
+        "lng": 72.8775,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1156",
+        "confidence": "stated"
+      },
+      {
+        "id": "munich-q1726",
+        "name": "Munich",
+        "lat": 48.1375,
+        "lng": 11.575,
+        "title_ids": [
+          "the-falcon-and-the-winter-soldier"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1726",
+        "confidence": "stated"
+      },
+      {
+        "id": "nagasaki-prefecture-q169376",
+        "name": "Nagasaki Prefecture",
+        "lat": 32.75,
+        "lng": 129.8675,
+        "title_ids": [
+          "the-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q169376",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-jersey-q1408",
+        "name": "New Jersey",
+        "lat": 40,
+        "lng": -74.5,
+        "title_ids": [
+          "captain-america-the-winter-soldier",
+          "avengers-endgame",
+          "wandavision",
+          "agatha-all-along"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1408",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-mexico-q1522",
+        "name": "New Mexico",
+        "lat": 34,
+        "lng": -106,
+        "title_ids": [
+          "iron-man-2",
+          "thor"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1522",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-orleans-q34404",
+        "name": "New Orleans",
+        "lat": 29.976111111,
+        "lng": -90.078333333,
+        "title_ids": [
+          "cloak-and-dagger",
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34404",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-york-q1384",
+        "name": "New York",
+        "lat": 43,
+        "lng": -75,
+        "title_ids": [
+          "captain-america-the-winter-soldier",
+          "avengers-endgame",
+          "x-men-first-class",
+          "x-men",
+          "x2",
+          "x-men-the-last-stand",
+          "x-men-days-of-future-past",
+          "dark-phoenix",
+          "deadpool-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1384",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-york-city-q60",
+        "name": "New York City",
+        "lat": 40.712777777,
+        "lng": -74.006111111,
+        "title_ids": [
+          "the-incredible-hulk",
+          "iron-man-2",
+          "captain-america-the-first-avenger",
+          "the-avengers",
+          "captain-america-the-winter-soldier",
+          "avengers-age-of-ultron",
+          "doctor-strange",
+          "spider-man-homecoming",
+          "avengers-infinity-war",
+          "avengers-endgame",
+          "spider-man-far-from-home",
+          "spider-man-no-way-home",
+          "thunderbolts",
+          "spider-man-brand-new-day",
+          "hawkeye",
+          "secret-invasion",
+          "echo",
+          "daredevil-born-again",
+          "daredevil",
+          "jessica-jones",
+          "iron-fist",
+          "the-defenders",
+          "the-punisher",
+          "agent-carter-series",
+          "x-men-days-of-future-past",
+          "spider-man-2002",
+          "spider-man-2",
+          "spider-man-3",
+          "the-amazing-spider-man-2",
+          "morbius",
+          "ultimate-spider-man",
+          "ultimate-avengers"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q60",
+        "confidence": "stated"
+      },
+      {
+        "id": "north-dakota-q1207",
+        "name": "North Dakota",
+        "lat": 47.5,
+        "lng": -100.5,
+        "title_ids": [
+          "logan"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1207",
+        "confidence": "stated"
+      },
+      {
+        "id": "norway-q20",
+        "name": "Norway",
+        "lat": 59.933333333,
+        "lng": 10.683333333,
+        "title_ids": [
+          "thor",
+          "captain-america-the-first-avenger",
+          "avengers-age-of-ultron",
+          "thor-ragnarok",
+          "black-widow"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q20",
+        "confidence": "stated"
+      },
+      {
+        "id": "oakland-q17042",
+        "name": "Oakland",
+        "lat": 37.8,
+        "lng": -122.25,
+        "title_ids": [
+          "black-panther"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q17042",
+        "confidence": "stated"
+      },
+      {
+        "id": "oaxaca-q34110",
+        "name": "Oaxaca",
+        "lat": 17.055,
+        "lng": -96.653888888,
+        "title_ids": [
+          "captain-america-brave-new-world"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34110",
+        "confidence": "stated"
+      },
+      {
+        "id": "ohio-q1397",
+        "name": "Ohio",
+        "lat": 40.5,
+        "lng": -82.5,
+        "title_ids": [
+          "black-widow"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1397",
+        "confidence": "stated"
+      },
+      {
+        "id": "oklahoma-city-q34863",
+        "name": "Oklahoma City",
+        "lat": 35.482222222,
+        "lng": -97.535277777,
+        "title_ids": [
+          "logan"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34863",
+        "confidence": "stated"
+      },
+      {
+        "id": "oxford-q34217",
+        "name": "Oxford",
+        "lat": 51.751944444,
+        "lng": -1.257777777,
+        "title_ids": [
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34217",
+        "confidence": "stated"
+      },
+      {
+        "id": "paris-q90",
+        "name": "Paris",
+        "lat": 48.856666666,
+        "lng": 2.352222222,
+        "title_ids": [
+          "secret-invasion",
+          "x-men-days-of-future-past"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q90",
+        "confidence": "stated"
+      },
+      {
+        "id": "pennsylvania-q1400",
+        "name": "Pennsylvania",
+        "lat": 41,
+        "lng": -77.5,
+        "title_ids": [
+          "captain-america-the-winter-soldier",
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1400",
+        "confidence": "stated"
+      },
+      {
+        "id": "poland-q36",
+        "name": "Poland",
+        "lat": 52,
+        "lng": 19,
+        "title_ids": [
+          "x-men-first-class",
+          "x-men",
+          "x-men-apocalypse"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q36",
+        "confidence": "stated"
+      },
+      {
+        "id": "prague-q1085",
+        "name": "Prague",
+        "lat": 50.0875,
+        "lng": 14.421388888,
+        "title_ids": [
+          "spider-man-far-from-home"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1085",
+        "confidence": "stated"
+      },
+      {
+        "id": "queens-q18424",
+        "name": "Queens",
+        "lat": 40.713611111,
+        "lng": -73.828055555,
+        "title_ids": [
+          "captain-america-civil-war"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q18424",
+        "confidence": "stated"
+      },
+      {
+        "id": "rio-de-janeiro-q8678",
+        "name": "Rio de Janeiro",
+        "lat": -22.911111111,
+        "lng": -43.205555555,
+        "title_ids": [
+          "the-incredible-hulk"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8678",
+        "confidence": "stated"
+      },
+      {
+        "id": "rodeo-beach-q3438155",
+        "name": "Rodeo Beach",
+        "lat": 37.82993,
+        "lng": -122.53692,
+        "title_ids": [
+          "venom-let-there-be-carnage"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3438155",
+        "confidence": "stated"
+      },
+      {
+        "id": "russia-q159",
+        "name": "Russia",
+        "lat": 66.416666666,
+        "lng": 94.25,
+        "title_ids": [
+          "black-widow"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q159",
+        "confidence": "stated"
+      },
+      {
+        "id": "san-francisco-q62",
+        "name": "San Francisco",
+        "lat": 37.775,
+        "lng": -122.419444444,
+        "title_ids": [
+          "ant-man",
+          "ant-man-and-the-wasp",
+          "avengers-endgame",
+          "shang-chi-and-the-legend-of-the-ten-rings",
+          "x-men-the-last-stand",
+          "venom",
+          "venom-let-there-be-carnage"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q62",
+        "confidence": "stated"
+      },
+      {
+        "id": "san-quentin-rehabilitation-center-q912407",
+        "name": "San Quentin Rehabilitation Center",
+        "lat": 37.9375,
+        "lng": -122.4891,
+        "title_ids": [
+          "venom-let-there-be-carnage"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q912407",
+        "confidence": "stated"
+      },
+      {
+        "id": "sarawak-q170462",
+        "name": "Sarawak",
+        "lat": 2.5,
+        "lng": 113,
+        "title_ids": [
+          "venom"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q170462",
+        "confidence": "stated"
+      },
+      {
+        "id": "seoul-q8684",
+        "name": "Seoul",
+        "lat": 37.56,
+        "lng": 126.99,
+        "title_ids": [
+          "avengers-age-of-ultron"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8684",
+        "confidence": "stated"
+      },
+      {
+        "id": "siberia-q5428",
+        "name": "Siberia",
+        "lat": 60,
+        "lng": 105,
+        "title_ids": [
+          "captain-america-civil-war"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q5428",
+        "confidence": "stated"
+      },
+      {
+        "id": "south-dakota-q1211",
+        "name": "South Dakota",
+        "lat": 44.5,
+        "lng": -100,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1211",
+        "confidence": "stated"
+      },
+      {
+        "id": "soviet-union-q15180",
+        "name": "Soviet Union",
+        "lat": 65,
+        "lng": 90,
+        "title_ids": [
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q15180",
+        "confidence": "stated"
+      },
+      {
+        "id": "springfield-q40325",
+        "name": "Springfield",
+        "lat": 39.926944444,
+        "lng": -83.804166666,
+        "title_ids": [
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q40325",
+        "confidence": "stated"
+      },
+      {
+        "id": "statue-of-liberty-q9202",
+        "name": "Statue of Liberty",
+        "lat": 40.689209166,
+        "lng": -74.044425277,
+        "title_ids": [
+          "spider-man-no-way-home"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q9202",
+        "confidence": "stated"
+      },
+      {
+        "id": "switzerland-q39",
+        "name": "Switzerland",
+        "lat": 46.798562,
+        "lng": 8.231973,
+        "title_ids": [
+          "iron-man-3",
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q39",
+        "confidence": "stated"
+      },
+      {
+        "id": "tamaha-q2601095",
+        "name": "Tamaha",
+        "lat": 35.3939,
+        "lng": -94.9883,
+        "title_ids": [
+          "echo"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2601095",
+        "confidence": "stated"
+      },
+      {
+        "id": "tennessee-q1509",
+        "name": "Tennessee",
+        "lat": 36,
+        "lng": -86,
+        "title_ids": [
+          "iron-man-3"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1509",
+        "confidence": "stated"
+      },
+      {
+        "id": "tenochtitlan-q13695",
+        "name": "Tenochtitlan",
+        "lat": 19.435,
+        "lng": -99.13138889,
+        "title_ids": [
+          "eternals"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q13695",
+        "confidence": "stated"
+      },
+      {
+        "id": "the-tombs-q7769545",
+        "name": "The Tombs",
+        "lat": 40.71652,
+        "lng": -74.00048,
+        "title_ids": [
+          "morbius"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q7769545",
+        "confidence": "stated"
+      },
+      {
+        "id": "three-mile-island-nuclear-generating-station-q862589",
+        "name": "Three Mile Island Nuclear Generating Station",
+        "lat": 40.152047,
+        "lng": -76.724911,
+        "title_ids": [
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q862589",
+        "confidence": "stated"
+      },
+      {
+        "id": "tokyo-q1490",
+        "name": "Tokyo",
+        "lat": 35.689444444,
+        "lng": 139.691666666,
+        "title_ids": [
+          "avengers-endgame",
+          "the-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1490",
+        "confidence": "stated"
+      },
+      {
+        "id": "treasure-island-q778565",
+        "name": "Treasure Island",
+        "lat": 37.824166666,
+        "lng": -122.371111111,
+        "title_ids": [
+          "ant-man"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q778565",
+        "confidence": "stated"
+      },
+      {
+        "id": "united-states-q30",
+        "name": "United States",
+        "lat": 39.828175,
+        "lng": -98.5795,
+        "title_ids": [
+          "guardians-of-the-galaxy",
+          "agents-of-shield-slingshot"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q30",
+        "confidence": "stated"
+      },
+      {
+        "id": "utah-q829",
+        "name": "Utah",
+        "lat": 39.5,
+        "lng": -111.5,
+        "title_ids": [
+          "thunderbolts"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q829",
+        "confidence": "stated"
+      },
+      {
+        "id": "venice-q641",
+        "name": "Venice",
+        "lat": 45.439722222,
+        "lng": 12.331944444,
+        "title_ids": [
+          "spider-man-far-from-home"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q641",
+        "confidence": "stated"
+      },
+      {
+        "id": "vienna-q1741",
+        "name": "Vienna",
+        "lat": 48.208333333,
+        "lng": 16.3725,
+        "title_ids": [
+          "captain-america-civil-war",
+          "black-panther"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1741",
+        "confidence": "stated"
+      },
+      {
+        "id": "vietnam-q881",
+        "name": "Vietnam",
+        "lat": 16,
+        "lng": 108,
+        "title_ids": [
+          "x-men-origins-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q881",
+        "confidence": "stated"
+      },
+      {
+        "id": "villa-gesell-q991574",
+        "name": "Villa Gesell",
+        "lat": -37.255634,
+        "lng": -56.9680922,
+        "title_ids": [
+          "x-men-first-class"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q991574",
+        "confidence": "stated"
+      },
+      {
+        "id": "virginia-q1370",
+        "name": "Virginia",
+        "lat": 37.5,
+        "lng": -79,
+        "title_ids": [
+          "the-incredible-hulk"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1370",
+        "confidence": "stated"
+      },
+      {
+        "id": "walter-reed-national-military-medical-center-q1457886",
+        "name": "Walter Reed National Military Medical Center",
+        "lat": 39.001944444,
+        "lng": -77.093611111,
+        "title_ids": [
+          "captain-america-brave-new-world"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1457886",
+        "confidence": "stated"
+      },
+      {
+        "id": "washington-d-c-q61",
+        "name": "Washington, D.C.",
+        "lat": 38.895,
+        "lng": -77.036666666,
+        "title_ids": [
+          "iron-man-2",
+          "captain-america-the-winter-soldier",
+          "spider-man-homecoming",
+          "captain-america-brave-new-world",
+          "thunderbolts",
+          "x-men-first-class",
+          "x-men",
+          "x2",
+          "x-men-the-last-stand",
+          "x-men-days-of-future-past"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q61",
+        "confidence": "stated"
+      },
+      {
+        "id": "westchester-county-q54066",
+        "name": "Westchester County",
+        "lat": 41.15,
+        "lng": -73.775,
+        "title_ids": [
+          "x-men-first-class",
+          "x-men-apocalypse"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q54066",
+        "confidence": "stated"
+      },
+      {
+        "id": "yukon-q2009",
+        "name": "Yukon",
+        "lat": 60.720833333,
+        "lng": -135.053333333,
+        "title_ids": [
+          "the-wolverine"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2009",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

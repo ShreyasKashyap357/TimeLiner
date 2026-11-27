@@ -50,7 +50,8 @@ async function audit(page: Page) {
       const clips = cs.textOverflow === 'ellipsis' || cs.overflowX === 'hidden' || cs.overflowX === 'clip';
       if (!clips || el.scrollWidth <= el.clientWidth + 1 || !el.textContent?.trim()) continue;
       // OK when it is a Truncated (tooltip on hover) or inside a scroll container meant to scroll.
-      if (el.closest('[data-slot="tooltip-trigger"]') || el.matches('[data-slot="tabs-list"]')) continue;
+      // A pan/zoom map viewport clips by design (its panes move under it).
+      if (el.closest('[data-slot="tooltip-trigger"]') || el.matches('[data-slot="tabs-list"], .leaflet-container')) continue;
       clipped.push(`${el.tagName.toLowerCase()}.${el.className.toString().slice(0, 60)}: "${el.textContent.trim().slice(0, 50)}"`);
     }
     const text = document.body.innerText;
@@ -72,9 +73,11 @@ for (const vp of VIEWPORTS) {
         test.setTimeout(180_000);
         test.skip(test.info().project.name !== 'desktop', 'viewport set explicitly; run once');
         const problems: string[] = [];
-        for (const v of VIEWS) {
+        // the Maps view exists only for universes with data/<universe>/maps.json
+        for (const v of existsSync(`data/${u}/maps.json`) ? [...VIEWS, 'maps'] : VIEWS) {
           await page.goto(`./?u=${u}${v === 'spine' ? '' : `&view=${v}`}`);
           await page.locator('main').waitFor();
+          if (v === 'maps') await page.getByTestId('map-credit').waitFor();
           await page.waitForTimeout(150);
           const r = await audit(page);
           if (r.overflowX > 1) problems.push(`${v}: page scrolls horizontally by ${r.overflowX}px`);

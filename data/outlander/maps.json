@@ -1,0 +1,112 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "outlander",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "antilles-q166131",
+        "name": "Antilles",
+        "lat": 18.2176,
+        "lng": -67.8639,
+        "title_ids": [
+          "voyager-novel"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q166131",
+        "confidence": "stated"
+      },
+      {
+        "id": "boston-q100",
+        "name": "Boston",
+        "lat": 42.360277777,
+        "lng": -71.057777777,
+        "title_ids": [
+          "voyager-novel",
+          "outlander-tv"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q100",
+        "confidence": "stated"
+      },
+      {
+        "id": "paris-q90",
+        "name": "Paris",
+        "lat": 48.856666666,
+        "lng": 2.352222222,
+        "title_ids": [
+          "dragonfly-in-amber"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q90",
+        "confidence": "stated"
+      },
+      {
+        "id": "province-of-north-carolina-q2334526",
+        "name": "Province of North Carolina",
+        "lat": 35.75,
+        "lng": -83,
+        "title_ids": [
+          "drums-of-autumn",
+          "the-fiery-cross",
+          "a-breath-of-snow-and-ashes",
+          "an-echo-in-the-bone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2334526",
+        "confidence": "stated"
+      },
+      {
+        "id": "scotland-q22",
+        "name": "Scotland",
+        "lat": 57,
+        "lng": -5,
+        "title_ids": [
+          "dragonfly-in-amber",
+          "voyager-novel",
+          "an-echo-in-the-bone",
+          "outlander-tv"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q22",
+        "confidence": "stated"
+      },
+      {
+        "id": "south-carolina-q1456",
+        "name": "South Carolina",
+        "lat": 34,
+        "lng": -81,
+        "title_ids": [
+          "drums-of-autumn"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1456",
+        "confidence": "stated"
+      },
+      {
+        "id": "west-indies-q669037",
+        "name": "West Indies",
+        "lat": 21.98333333,
+        "lng": -79.03333333,
+        "title_ids": [
+          "voyager-novel"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q669037",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,673 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "bourne",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "accra-q3761",
+        "name": "Accra",
+        "lat": 5.55602,
+        "lng": -0.1969,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3761",
+        "confidence": "stated"
+      },
+      {
+        "id": "alaska-q797",
+        "name": "Alaska",
+        "lat": 64,
+        "lng": -150,
+        "title_ids": [
+          "the-bourne-legacy-2012",
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q797",
+        "confidence": "stated"
+      },
+      {
+        "id": "amsterdam-q727",
+        "name": "Amsterdam",
+        "lat": 52.366666666,
+        "lng": 4.883333333,
+        "title_ids": [
+          "the-bourne-supremacy-2004"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q727",
+        "confidence": "stated"
+      },
+      {
+        "id": "ashland-q725562",
+        "name": "Ashland",
+        "lat": 38.4639,
+        "lng": -82.6417,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q725562",
+        "confidence": "stated"
+      },
+      {
+        "id": "athens-q1524",
+        "name": "Athens",
+        "lat": 37.984166666,
+        "lng": 23.728055555,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1524",
+        "confidence": "stated"
+      },
+      {
+        "id": "bangkok-q1861",
+        "name": "Bangkok",
+        "lat": 13.75,
+        "lng": 100.516666666,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1861",
+        "confidence": "stated"
+      },
+      {
+        "id": "beijing-q956",
+        "name": "Beijing",
+        "lat": 39.90403,
+        "lng": 116.407526,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q956",
+        "confidence": "stated"
+      },
+      {
+        "id": "beirut-q3820",
+        "name": "Beirut",
+        "lat": 33.886944444,
+        "lng": 35.513055555,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3820",
+        "confidence": "stated"
+      },
+      {
+        "id": "berlin-q64",
+        "name": "Berlin",
+        "lat": 52.516666666,
+        "lng": 13.383333333,
+        "title_ids": [
+          "the-bourne-supremacy-2004",
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q64",
+        "confidence": "stated"
+      },
+      {
+        "id": "berlin-central-station-q1097",
+        "name": "Berlin Central Station",
+        "lat": 52.525083333,
+        "lng": 13.369388888,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1097",
+        "confidence": "stated"
+      },
+      {
+        "id": "bethesda-q584451",
+        "name": "Bethesda",
+        "lat": 38.9848265,
+        "lng": -77.0946459,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q584451",
+        "confidence": "stated"
+      },
+      {
+        "id": "budapest-q1781",
+        "name": "Budapest",
+        "lat": 47.498333333,
+        "lng": 19.040833333,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1781",
+        "confidence": "stated"
+      },
+      {
+        "id": "carson-q5046897",
+        "name": "Carson",
+        "lat": 37.0353,
+        "lng": -77.3956,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q5046897",
+        "confidence": "stated"
+      },
+      {
+        "id": "chicago-q1297",
+        "name": "Chicago",
+        "lat": 41.881944444,
+        "lng": -87.627777777,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1297",
+        "confidence": "stated"
+      },
+      {
+        "id": "dharamshala-q186182",
+        "name": "Dharamshala",
+        "lat": 32.215277777,
+        "lng": 76.318611111,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q186182",
+        "confidence": "stated"
+      },
+      {
+        "id": "east-berlin-q56037",
+        "name": "East Berlin",
+        "lat": 52.518611111,
+        "lng": 13.404444444,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q56037",
+        "confidence": "stated"
+      },
+      {
+        "id": "george-bush-center-for-intelligence-q5425102",
+        "name": "George Bush Center for Intelligence",
+        "lat": 38.952222222,
+        "lng": -77.144444444,
+        "title_ids": [
+          "the-bourne-supremacy-2004",
+          "the-bourne-ultimatum-2007"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q5425102",
+        "confidence": "stated"
+      },
+      {
+        "id": "goa-q1171",
+        "name": "Goa",
+        "lat": 15.401944444,
+        "lng": 74.043333333,
+        "title_ids": [
+          "the-bourne-supremacy-2004"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1171",
+        "confidence": "stated"
+      },
+      {
+        "id": "italy-q38",
+        "name": "Italy",
+        "lat": 42.5,
+        "lng": 12.5,
+        "title_ids": [
+          "the-bourne-identity-2002"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q38",
+        "confidence": "stated"
+      },
+      {
+        "id": "karachi-q8660",
+        "name": "Karachi",
+        "lat": 24.86,
+        "lng": 67.01,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8660",
+        "confidence": "stated"
+      },
+      {
+        "id": "kollwitzplatz-q872494",
+        "name": "Kollwitzplatz",
+        "lat": 52.5362,
+        "lng": 13.4172,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q872494",
+        "confidence": "stated"
+      },
+      {
+        "id": "langley-q523606",
+        "name": "Langley",
+        "lat": 38.9464,
+        "lng": -77.1589,
+        "title_ids": [
+          "jason-bourne-2016",
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q523606",
+        "confidence": "stated"
+      },
+      {
+        "id": "las-vegas-q23768",
+        "name": "Las Vegas",
+        "lat": 36.167222222,
+        "lng": -115.148611111,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q23768",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-q84",
+        "name": "London",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "title_ids": [
+          "the-bourne-ultimatum-2007",
+          "jason-bourne-2016",
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q84",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-waterloo-station-q795691",
+        "name": "London Waterloo station",
+        "lat": 51.5031,
+        "lng": -0.1132,
+        "title_ids": [
+          "the-bourne-ultimatum-2007",
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q795691",
+        "confidence": "stated"
+      },
+      {
+        "id": "madrid-q2807",
+        "name": "Madrid",
+        "lat": 40.416944444,
+        "lng": -3.703333333,
+        "title_ids": [
+          "the-bourne-ultimatum-2007"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2807",
+        "confidence": "stated"
+      },
+      {
+        "id": "manila-q1461",
+        "name": "Manila",
+        "lat": 14.595833333,
+        "lng": 120.977222222,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1461",
+        "confidence": "stated"
+      },
+      {
+        "id": "marseille-q23482",
+        "name": "Marseille",
+        "lat": 43.296666666,
+        "lng": 5.376388888,
+        "title_ids": [
+          "the-bourne-identity-2002"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q23482",
+        "confidence": "stated"
+      },
+      {
+        "id": "maryland-q1391",
+        "name": "Maryland",
+        "lat": 39,
+        "lng": -76.7,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1391",
+        "confidence": "stated"
+      },
+      {
+        "id": "mclean-q963138",
+        "name": "McLean",
+        "lat": 38.928333333,
+        "lng": -77.175277777,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q963138",
+        "confidence": "stated"
+      },
+      {
+        "id": "moscow-q649",
+        "name": "Moscow",
+        "lat": 55.750555555,
+        "lng": 37.6175,
+        "title_ids": [
+          "the-bourne-supremacy-2004",
+          "the-bourne-ultimatum-2007",
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q649",
+        "confidence": "stated"
+      },
+      {
+        "id": "munich-q1726",
+        "name": "Munich",
+        "lat": 48.1375,
+        "lng": 11.575,
+        "title_ids": [
+          "the-bourne-supremacy-2004"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1726",
+        "confidence": "stated"
+      },
+      {
+        "id": "naples-q2634",
+        "name": "Naples",
+        "lat": 40.835833333,
+        "lng": 14.248611111,
+        "title_ids": [
+          "the-bourne-supremacy-2004"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q2634",
+        "confidence": "stated"
+      },
+      {
+        "id": "nevers-q166997",
+        "name": "Nevers",
+        "lat": 46.9925,
+        "lng": 3.156666666,
+        "title_ids": [
+          "the-bourne-identity-2002"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q166997",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-delhi-q987",
+        "name": "New Delhi",
+        "lat": 28.613888888,
+        "lng": 77.208888888,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q987",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-york-city-q60",
+        "name": "New York City",
+        "lat": 40.712777777,
+        "lng": -74.006111111,
+        "title_ids": [
+          "the-bourne-supremacy-2004",
+          "the-bourne-ultimatum-2007",
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q60",
+        "confidence": "stated"
+      },
+      {
+        "id": "paris-q90",
+        "name": "Paris",
+        "lat": 48.856666666,
+        "lng": 2.352222222,
+        "title_ids": [
+          "the-bourne-identity-2002",
+          "the-bourne-ultimatum-2007",
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q90",
+        "confidence": "stated"
+      },
+      {
+        "id": "pyongyang-q18808",
+        "name": "Pyongyang",
+        "lat": 39.016666666,
+        "lng": 125.7475,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q18808",
+        "confidence": "stated"
+      },
+      {
+        "id": "reston-q1375280",
+        "name": "Reston",
+        "lat": 38.958888888,
+        "lng": -77.358611111,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1375280",
+        "confidence": "stated"
+      },
+      {
+        "id": "reykjavik-q1764",
+        "name": "Reykjavík",
+        "lat": 64.1475,
+        "lng": -21.935,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1764",
+        "confidence": "stated"
+      },
+      {
+        "id": "rome-q220",
+        "name": "Rome",
+        "lat": 41.893055555,
+        "lng": 12.482777777,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q220",
+        "confidence": "stated"
+      },
+      {
+        "id": "salisbury-q755566",
+        "name": "Salisbury",
+        "lat": 38.361111111,
+        "lng": -75.6,
+        "title_ids": [
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q755566",
+        "confidence": "stated"
+      },
+      {
+        "id": "santorini-q129296",
+        "name": "Santorini",
+        "lat": 36.415,
+        "lng": 25.4325,
+        "title_ids": [
+          "the-bourne-identity-2002"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q129296",
+        "confidence": "stated"
+      },
+      {
+        "id": "seoul-q8684",
+        "name": "Seoul",
+        "lat": 37.56,
+        "lng": 126.99,
+        "title_ids": [
+          "the-bourne-legacy-2012"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q8684",
+        "confidence": "stated"
+      },
+      {
+        "id": "silicon-valley-q163820",
+        "name": "Silicon Valley",
+        "lat": 37.3775,
+        "lng": -122.0675,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q163820",
+        "confidence": "stated"
+      },
+      {
+        "id": "switzerland-q39",
+        "name": "Switzerland",
+        "lat": 46.798562,
+        "lng": 8.231973,
+        "title_ids": [
+          "the-bourne-identity-2002"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q39",
+        "confidence": "stated"
+      },
+      {
+        "id": "syntagma-square-q1137997",
+        "name": "Syntagma Square",
+        "lat": 37.975556,
+        "lng": 23.734722,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1137997",
+        "confidence": "stated"
+      },
+      {
+        "id": "tangier-q126148",
+        "name": "Tangier",
+        "lat": 35.7694908,
+        "lng": -5.8044679,
+        "title_ids": [
+          "the-bourne-ultimatum-2007"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q126148",
+        "confidence": "stated"
+      },
+      {
+        "id": "tsamantas-q3305102",
+        "name": "Tsamantas",
+        "lat": 39.7793,
+        "lng": 20.3431,
+        "title_ids": [
+          "jason-bourne-2016"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q3305102",
+        "confidence": "stated"
+      },
+      {
+        "id": "turin-q495",
+        "name": "Turin",
+        "lat": 45.079166666,
+        "lng": 7.676111111,
+        "title_ids": [
+          "the-bourne-ultimatum-2007"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q495",
+        "confidence": "stated"
+      },
+      {
+        "id": "united-states-q30",
+        "name": "United States",
+        "lat": 39.828175,
+        "lng": -98.5795,
+        "title_ids": [
+          "the-bourne-deception"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q30",
+        "confidence": "stated"
+      },
+      {
+        "id": "washington-d-c-q61",
+        "name": "Washington, D.C.",
+        "lat": 38.895,
+        "lng": -77.036666666,
+        "title_ids": [
+          "the-bourne-identity-2002",
+          "the-bourne-legacy-2012",
+          "jason-bourne-2016",
+          "treadstone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q61",
+        "confidence": "stated"
+      },
+      {
+        "id": "zurich-q72",
+        "name": "Zurich",
+        "lat": 47.374444444,
+        "lng": 8.541111111,
+        "title_ids": [
+          "the-bourne-identity-2002"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q72",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

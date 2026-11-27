@@ -1,0 +1,52 @@
+[
+  {
+    "id": "world-of-one-piece",
+    "universe": "one-piece",
+    "title": "The four Blues and the Grand Line",
+    "kind": "image",
+    "continuity": null,
+    "image": {
+      "path": "maps/one-piece/world-of-one-piece.svg",
+      "width": 610,
+      "height": 500
+    },
+    "credit": {
+      "title": "File:World of One Piece.svg",
+      "author": "Binabik155",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_url": "https://commons.wikimedia.org/wiki/File:World_of_One_Piece.svg",
+      "modified": false,
+      "fan_made": true,
+      "note": "A schematic diagram of the world of One Piece, based on the information given in chapter 22 of the manga (per the file page). It shows the structure, not a drawn map."
+    },
+    "places": [
+      {
+        "id": "east-blue",
+        "name": "East Blue",
+        "x": 480,
+        "y": 105,
+        "title_ids": [
+          "one-piece-manga",
+          "one-piece-anime"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (One Piece): Luffy \"sets off on a journey from the East Blue Sea to find the deceased King of the Pirates Gold Roger's ultimate treasure\"."
+      },
+      {
+        "id": "grand-line",
+        "name": "Grand Line",
+        "x": 360,
+        "y": 265,
+        "title_ids": [
+          "one-piece-manga",
+          "one-piece-anime"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (One Piece): \"the Grand Line, which is a sea that runs perpendicular to the Red Line, along what would be the equator on Earth\"."
+      }
+    ]
+  }
+]

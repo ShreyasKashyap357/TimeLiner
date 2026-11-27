@@ -1,0 +1,138 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "sherlock-holmes",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "dartmoor-q214823",
+        "name": "Dartmoor",
+        "lat": 50.566666666,
+        "lng": -4,
+        "title_ids": [
+          "the-hound-of-the-baskervilles"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q214823",
+        "confidence": "stated"
+      },
+      {
+        "id": "devon-q23156",
+        "name": "Devon",
+        "lat": 50.7,
+        "lng": -3.8,
+        "title_ids": [
+          "the-hound-of-the-baskervilles"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q23156",
+        "confidence": "stated"
+      },
+      {
+        "id": "england-q21",
+        "name": "England",
+        "lat": 53,
+        "lng": -1,
+        "title_ids": [
+          "sherlock-holmes-2009",
+          "sherlock-holmes-a-game-of-shadows"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q21",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-q84",
+        "name": "London",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "title_ids": [
+          "a-study-in-scarlet",
+          "the-hound-of-the-baskervilles",
+          "his-last-bow",
+          "sherlock-bbc",
+          "elementary",
+          "sherlock-holmes-2009",
+          "sherlock-holmes-a-game-of-shadows",
+          "enola-holmes",
+          "enola-holmes-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q84",
+        "confidence": "stated"
+      },
+      {
+        "id": "malta-q233",
+        "name": "Malta",
+        "lat": 35.9,
+        "lng": 14.4,
+        "title_ids": [
+          "enola-holmes-3"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q233",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-york-city-q60",
+        "name": "New York City",
+        "lat": 40.712777777,
+        "lng": -74.006111111,
+        "title_ids": [
+          "elementary"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q60",
+        "confidence": "stated"
+      },
+      {
+        "id": "paris-q90",
+        "name": "Paris",
+        "lat": 48.856666666,
+        "lng": 2.352222222,
+        "title_ids": [
+          "sherlock-holmes-a-game-of-shadows"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q90",
+        "confidence": "stated"
+      },
+      {
+        "id": "switzerland-q39",
+        "name": "Switzerland",
+        "lat": 46.798562,
+        "lng": 8.231973,
+        "title_ids": [
+          "sherlock-holmes-a-game-of-shadows"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q39",
+        "confidence": "stated"
+      },
+      {
+        "id": "united-kingdom-q145",
+        "name": "United Kingdom",
+        "lat": 54.6,
+        "lng": -2,
+        "title_ids": [
+          "the-valley-of-fear"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q145",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

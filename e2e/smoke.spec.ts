@@ -313,3 +313,59 @@ test('Universe picker: type to search, All universes pinned on top', async ({ pa
   await page.getByRole('option', { name: 'Dune' }).click();
   await expect(page).toHaveURL(/u=dune/);
 });
+
+test.describe('maps', () => {
+  const nativeTitles = (page: import('@playwright/test').Page) => page.evaluate(() => [...document.querySelectorAll('[title], svg title')].filter((e) => !(e instanceof HTMLTitleElement)).map((e) => e.outerHTML.slice(0, 120)));
+  const overflowX = (page: import('@playwright/test').Page) => page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+
+  test('map: image map shows credits, places open a popup that opens the drawer', async ({ page }) => {
+    await page.goto('/?u=narnia&view=maps');
+    const credit = page.getByTestId('map-credit');
+    await expect(credit).toBeVisible({ timeout: 30_000 });
+    await expect(credit).toContainText('AnonMoos');
+    await expect(credit).toContainText('Public domain');
+    await expect(credit.getByText('Fan-made')).toBeVisible();
+    await expect(page.locator('.tl-map img.leaflet-image-layer')).toHaveCount(1);
+    await expect(page.locator('.tl-map [data-place]')).toHaveCount(4);
+    await page.getByTestId('place-list').getByRole('button', { name: /Tashbaan/ }).click();
+    const card = page.getByTestId('place-card');
+    await expect(card).toBeVisible();
+    await expect(card).toContainText('Inferred');
+    await card.getByRole('button', { name: 'The Horse and His Boy' }).click();
+    await expect(page).toHaveURL(/unit=/);
+    await expect(page.getByRole('dialog')).toBeVisible();
+    await page.keyboard.press('Escape');
+    expect(await overflowX(page)).toBeLessThanOrEqual(1);
+    expect(await nativeTitles(page)).toEqual([]);
+  });
+
+  test('map: OSM story locations render markers and credits without tiles', async ({ page }) => {
+    await page.route('https://tile.openstreetmap.org/**', (r) => r.abort()); // never depend on (or load) real tiles in tests
+    await page.goto('/?u=sherlock-holmes&view=maps');
+    const credit = page.getByTestId('map-credit');
+    await expect(credit).toBeVisible({ timeout: 30_000 });
+    await expect(credit).toContainText('CC0');
+    await expect(credit.getByRole('link', { name: 'OpenStreetMap' })).toHaveAttribute('href', 'https://www.openstreetmap.org/copyright');
+    await expect.poll(() => page.locator('.tl-map [data-place]').count()).toBeGreaterThan(3);
+    await page.locator('.tl-map [data-place]').first().focus();
+    await page.keyboard.press('Enter');
+    await expect(page.getByTestId('place-card')).toBeVisible();
+    expect(await overflowX(page)).toBeLessThanOrEqual(1);
+    expect(await nativeTitles(page)).toEqual([]);
+  });
+
+  test('map: the Maps view is offered only where maps exist', async ({ page, isMobile }) => {
+    await page.goto('/?u=dune');
+    await page.getByTestId('result-count').waitFor({ state: 'attached', timeout: 30_000 });
+    if (isMobile) {
+      await page.getByRole('combobox', { name: 'View', exact: true }).click();
+      await expect(page.getByRole('option', { name: 'Maps', exact: true })).toHaveCount(0);
+    } else await expect(page.locator('[data-view="maps"]')).toHaveCount(0);
+    await page.goto('/?u=narnia');
+    await page.getByTestId('result-count').waitFor({ state: 'attached', timeout: 30_000 });
+    if (isMobile) {
+      await page.getByRole('combobox', { name: 'View', exact: true }).click();
+      await expect(page.getByRole('option', { name: 'Maps', exact: true })).toHaveCount(1);
+    } else await expect(page.locator('[data-view="maps"]')).toHaveCount(1);
+  });
+});

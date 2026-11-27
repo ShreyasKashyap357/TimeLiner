@@ -269,6 +269,45 @@ export const TitlesFile = z.array(Title);
 export const TagsFile = z.array(Tag);
 export const StudiosFile = z.array(Studio);
 export const PlatformsFile = z.array(Platform);
+// ---------- Maps (optional data/<universe>/maps.json) ----------
+const nonEmpty = z.string().trim().min(1);
+export const MapCredit = z.object({
+  title: nonEmpty, // the source file's title, e.g. "File:World of One Piece.svg"; for 'osm' maps the data source
+  author: nonEmpty,
+  licence: nonEmpty,
+  licence_url: url,
+  source_url: url, // the file page (or data source) the licence was read from
+  modified: z.boolean(), // true when the image was altered from the source file
+  fan_made: z.boolean(),
+  note: z.string().default(''),
+});
+export const MapPlace = z.object({
+  id: slug,
+  name: nonEmpty,
+  /** image maps: pixel coordinates in the source image (x right, y down). */
+  x: z.number().optional(),
+  y: z.number().optional(),
+  /** osm maps: WGS84 coordinates. */
+  lat: z.number().min(-90).max(90).optional(),
+  lng: z.number().min(-180).max(180).optional(),
+  title_ids: z.array(slug).default([]),
+  note: z.string().default(''),
+  source_url: url,
+  confidence: Confidence,
+}).refine((p) => (p.x !== undefined && p.y !== undefined) !== (p.lat !== undefined && p.lng !== undefined), 'a place needs either x+y (image map) or lat+lng (osm map)');
+export const WorldMap = z.object({
+  id: slug,
+  universe: slug,
+  title: nonEmpty,
+  kind: z.enum(['image', 'osm']),
+  /** null = the map covers the whole universe. */
+  continuity: slug.nullable().default(null),
+  image: z.object({ path: z.string().regex(/^maps\/[a-z0-9-]+\/[a-z0-9._-]+\.(svg|png|jpe?g|webp)$/, 'path under public/maps/<universe>/'), width: z.number().int().positive(), height: z.number().int().positive() }).optional(),
+  credit: MapCredit,
+  places: z.array(MapPlace).default([]),
+}).refine((m) => (m.kind === 'image') === !!m.image, 'image maps need image; osm maps must not have one');
+export const MapsFile = z.array(WorldMap);
+
 /** old unit id -> replacement unit ids (watched-state migration). */
 export const AliasesFile = z.record(z.string(), z.array(z.string()));
 
@@ -289,3 +328,6 @@ export type Money = z.infer<typeof Money>;
 export type Status = z.infer<typeof Status>;
 export type Credit = z.infer<typeof Credit>;
 export type CreditRole = z.infer<typeof CreditRole>;
+export type WorldMap = z.infer<typeof WorldMap>;
+export type MapPlace = z.infer<typeof MapPlace>;
+export type MapCredit = z.infer<typeof MapCredit>;

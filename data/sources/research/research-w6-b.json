@@ -1,0 +1,3386 @@
+{
+ "scream": {
+  "continuities": [
+   {
+    "id": "scream-films",
+    "name": "Scream (film series)",
+    "description": "The seven theatrical films, one continuous storyline.",
+    "quote": "The film takes place eleven years after the previous film, and once again follows Sidney Prescott as she returns to Woodsboro … The plot takes place twenty-five years after the original Woodsboro murders from Scream (1996)",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804",
+     "https://en.wikipedia.org/w/index.php?title=Scream_(2022_film)&oldid=1386901427"
+    ]
+   },
+   {
+    "id": "scream-tv",
+    "name": "Scream (MTV TV series, seasons 1–2)",
+    "description": "MTV anthology series (Lakewood storyline), not canon to the films.",
+    "quote": "An anthology television series Scream, which followed new characters and settings and is not canon to the films, aired for three seasons from 2015 to 2016 on MTV and on VH1 in 2019.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804",
+     "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+    ],
+    "ordered_only": true
+   },
+   {
+    "id": "scream-tv-resurrection",
+    "name": "Scream: Resurrection (TV season 3)",
+    "description": "Season 3 rebooted the TV series with a new cast, setting and timeline.",
+    "quote": "In April 2017, MTV announced that they were rebooting the series with the third season, with a new cast, setting, timeline, and production company.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+    ],
+    "ordered_only": true
+   }
+  ],
+  "titles": [
+   {
+    "id": "scream-1996",
+    "title": "Scream",
+    "type": "film",
+    "wiki_article": "Scream (1996 film)",
+    "continuity": "scream-films",
+    "studio_or_developer": "Dimension Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1996-12-20",
+      "release_quote": "Infobox: {{Film date|1996|12|18|Los Angeles|1996|12|20|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_(1996_film)&oldid=1386868560",
+      "in_universe": {
+       "year": 1996,
+       "year_end": null,
+       "label": "1996",
+       "confidence": "inferred",
+       "quote": "The film takes place on the fifteenth anniversary of the original Woodsboro murders from Scream (1996) and involves Sidney Prescott (Campbell) returning to the town after fifteen years",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_4&oldid=1387969104",
+       "precision": "year",
+       "order_index": 0,
+       "note": "Scream 4 is placed in 2011 (inferred) and is the fifteenth anniversary of these murders, so 1996; the 1996 article also carries \"Category:Films set in 1996\". Not stated in its own prose."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 1996-12-18 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1386868560,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_(1996_film)&oldid=1386868560"
+   },
+   {
+    "id": "scream-2",
+    "title": "Scream 2",
+    "type": "film",
+    "wiki_article": "Scream 2",
+    "continuity": "scream-films",
+    "studio_or_developer": "Dimension Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1997-12-12",
+      "release_quote": "Infobox: {{Film date|1997|12|10|[[Hollywood, Los Angeles|Hollywood]]|1997|12|12|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_2&oldid=1387355697",
+      "in_universe": {
+       "year": 1997,
+       "year_end": null,
+       "label": "1997",
+       "confidence": "stated",
+       "quote": "Set in 1997, the film again focuses on the character of Sidney Prescott, now a college student, as a series of copycat crimes begin",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804",
+       "precision": "year",
+       "order_index": 1
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 1997-12-10 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-1996",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387355697,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_2&oldid=1387355697"
+   },
+   {
+    "id": "scream-3",
+    "title": "Scream 3",
+    "type": "film",
+    "wiki_article": "Scream 3",
+    "continuity": "scream-films",
+    "studio_or_developer": "Dimension Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2000-02-04",
+      "release_quote": "Infobox: {{Film date|2000|2|3|[[Westwood, Los Angeles|Westwood]]|2000|02|04|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_3&oldid=1384331823",
+      "in_universe": {
+       "year": 2000,
+       "year_end": null,
+       "label": "2000",
+       "confidence": "stated",
+       "quote": "Set in 2000, the film focuses on Sidney Prescott who faces a new Ghostface killer and the truth about her mother that led to the start of the Ghostface killings.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804",
+       "precision": "year",
+       "order_index": 2
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2000-02-03 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-2",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1384331823,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_3&oldid=1384331823"
+   },
+   {
+    "id": "scream-4",
+    "title": "Scream 4",
+    "type": "film",
+    "wiki_article": "Scream 4",
+    "continuity": "scream-films",
+    "studio_or_developer": "Dimension Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-04-15",
+      "release_quote": "Infobox: {{Film date|2011|4|11|[[TCL Chinese Theatre]]|2011|04|15|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_4&oldid=1387969104",
+      "in_universe": {
+       "year": 2011,
+       "year_end": null,
+       "label": "2011",
+       "confidence": "inferred",
+       "quote": "The film takes place eleven years after the previous film, and once again follows Sidney Prescott as she returns to Woodsboro",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804",
+       "precision": "year",
+       "order_index": 3,
+       "note": "Scream 3 is set in 2000 (stated); +11 years = 2011. Article also has \"Category:Films set in 2011\"."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2011-04-11 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-3",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387969104,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_4&oldid=1387969104"
+   },
+   {
+    "id": "scream-2022",
+    "title": "Scream",
+    "type": "film",
+    "wiki_article": "Scream (2022 film)",
+    "continuity": "scream-films",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-01-14",
+      "release_quote": "Infobox: {{Film date|2022|1|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_(2022_film)&oldid=1386901427",
+      "in_universe": {
+       "year": 2021,
+       "year_end": null,
+       "label": "2021",
+       "confidence": "inferred",
+       "quote": "The plot takes place twenty-five years after the original Woodsboro murders from Scream (1996)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(2022_film)&oldid=1386901427",
+       "precision": "year",
+       "order_index": 4,
+       "note": "1996 (inferred) + 25 = 2021; the article carries \"Category:Films set in 2021\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-4",
+      "kind": "continues",
+      "note": "fifth film; legacy sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1386901427,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_(2022_film)&oldid=1386901427"
+   },
+   {
+    "id": "scream-vi",
+    "title": "Scream VI",
+    "type": "film",
+    "wiki_article": "Scream VI",
+    "continuity": "scream-films",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-03-10",
+      "release_quote": "Infobox: {{Film date|2023|3|6|[[Lincoln Square, Manhattan|AMC Lincoln Square Theater]]|2023|3|10|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_VI&oldid=1387286237",
+      "in_universe": {
+       "year": 2022,
+       "year_end": null,
+       "label": "2022",
+       "confidence": "inferred",
+       "quote": "One year after the Woodsboro killings orchestrated by Richie Kirsch and Amber Freeman",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_VI&oldid=1387286237",
+       "precision": "year",
+       "order_index": 5,
+       "note": "One year after Scream (2022), which is placed in 2021 (inferred); article has \"Category:Films set in 2022\"."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2023-03-06 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-2022",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387286237,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_VI&oldid=1387286237"
+   },
+   {
+    "id": "scream-7",
+    "title": "Scream 7",
+    "type": "film",
+    "wiki_article": "Scream 7",
+    "continuity": "scream-films",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-02-27",
+      "release_quote": "Infobox: {{Film date|2026|2|25|Paramount Pictures lot|2026|2|27|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Scream_7&oldid=1387132268",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Scream VI",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_7&oldid=1387132268",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No setting year stated in the article; placed after Scream VI by release order."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2026-02-25 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-vi",
+      "kind": "continues",
+      "note": "seventh film"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387132268,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_7&oldid=1387132268"
+   },
+   {
+    "id": "scream-tv",
+    "title": "Scream",
+    "type": "series",
+    "wiki_article": "Scream (TV series)",
+    "continuity": "scream-tv",
+    "studio_or_developer": null,
+    "publisher": null,
+    "platform": "mtv",
+    "platforms": [
+     "mtv"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 10,
+      "release_date": "2015-06-30",
+      "release_end": "2015-09-01",
+      "release_quote": "Series overview: episodes1 = 10 | start1 = {{Start date|2015|6|30}} | end1 = {{End date|2015|9|1}} | network1 = MTV",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Scream_episodes&oldid=1378232386",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Lakewood (season 1)",
+       "confidence": "inferred",
+       "quote": "The first two seasons, set in a fictional version of the town of Lakewood, Colorado, follow the story of Emma Duval",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 14,
+      "release_date": "2016-05-30",
+      "release_end": "2016-10-18",
+      "release_quote": "Series overview: episodes2 = 14 | start2 = {{Start date|2016|5|30}} | end2 = {{End date|2016|10|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Scream_episodes&oldid=1378232386",
+      "note": "The end date and count include the two-part Halloween special (\"After its second season concluded, a two-hour Halloween special aired in October 2016\").",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "Continues the Lakewood storyline from season 1; no year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-1996",
+      "kind": "ignores",
+      "note": "TV series is not canon to the films"
+     }
+    ],
+    "notes": "Production companies not checked.",
+    "revid": 1388247846,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+   },
+   {
+    "id": "scream-resurrection",
+    "title": "Scream: Resurrection",
+    "type": "series",
+    "wiki_article": "Scream (TV series)",
+    "continuity": "scream-tv-resurrection",
+    "studio_or_developer": null,
+    "publisher": null,
+    "platform": "vh1",
+    "platforms": [
+     "vh1"
+    ],
+    "units": [
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 6,
+      "release_date": "2019-07-08",
+      "release_end": "2019-07-10",
+      "release_quote": "Series overview: episodes3 = 6 | start3 = {{Start date|2019|7|8}} | end3 = {{End date|2019|7|10}} | network3 = VH1",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Scream_episodes&oldid=1378232386",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Atlanta (rebooted season)",
+       "confidence": "inferred",
+       "quote": "The third season follows the story of Deion Elliot, a local football star in Atlanta, who is tormented by the events of his tragic past.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "scream-tv",
+      "kind": "reboot-of",
+      "note": "season 3 rebooted the series with new cast, setting and timeline"
+     }
+    ],
+    "notes": "Split from scream-tv because Wikipedia says season 3 rebooted the timeline; it is season 3 of the same TV article. Production company not checked.",
+    "revid": 1388247846,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+   }
+  ]
+ },
+ "saw": {
+  "continuities": [
+   {
+    "id": "saw-main",
+    "name": "Saw",
+    "description": "All ten films share one continuity; the franchise article gives a story chronology including Saw X and Spiral.",
+    "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) … Spiral takes place an unknown amount of time after John's death, as another Jigsaw copycat creates their own games",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+     "https://en.wikipedia.org/w/index.php?title=Spiral_(2021_film)&oldid=1386762808"
+    ],
+    "ordered_only": true
+   }
+  ],
+  "titles": [
+   {
+    "id": "saw-2004",
+    "title": "Saw",
+    "type": "film",
+    "wiki_article": "Saw (film)",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lions Gate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2004-10-29",
+      "release_quote": "Infobox: {{Film date|2004|01|19|[[Sundance Film Festival|Sundance]]|2004|10|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_(film)&oldid=1387948675",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "First in the franchise story-chronology table; no year stated."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2004-01-19 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [],
+    "notes": "Requested as \"Saw (2004 film)\"; the article is \"Saw (film)\". studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387948675,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_(film)&oldid=1387948675"
+   },
+   {
+    "id": "saw-x",
+    "title": "Saw X",
+    "type": "film",
+    "wiki_article": "Saw X",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-09-29",
+      "release_quote": "Infobox: {{Film date|2023|9|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_X&oldid=1379264809",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "between Saw and Saw II",
+       "confidence": "stated",
+       "quote": "Set between the events of Saw (2004) and Saw II (2005), the film sees John Kramer (Bell) travelling to Mexico in hopes that an experimental procedure may cure his terminal cancer.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_X&oldid=1379264809",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "Placement stated explicitly; no year."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-2004",
+      "kind": "continues",
+      "note": "interquel between Saw and Saw II"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1379264809,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_X&oldid=1379264809"
+   },
+   {
+    "id": "saw-ii",
+    "title": "Saw II",
+    "type": "film",
+    "wiki_article": "Saw II",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lions Gate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2005-10-28",
+      "release_quote": "Infobox: {{Film date|2005|10|28|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_II&oldid=1387489805",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "Third in the story chronology (after Saw X); no year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-2004",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387489805,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_II&oldid=1387489805"
+   },
+   {
+    "id": "saw-iii",
+    "title": "Saw III",
+    "type": "film",
+    "wiki_article": "Saw III",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-10-27",
+      "release_quote": "Infobox: {{Film date|2006|10|27|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_III&oldid=1387489815",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-ii",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387489815,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_III&oldid=1387489815"
+   },
+   {
+    "id": "saw-iv",
+    "title": "Saw IV",
+    "type": "film",
+    "wiki_article": "Saw IV",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-10-25",
+      "release_quote": "Infobox: {{Film date|2007|10|25}} (Australia)",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_IV&oldid=1383817806",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "The events of Saw III and Saw IV occur concurrently.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "Concurrent with Saw III; placed after it per the chronology table."
+      },
+      "note": "The infobox gives only the Australian release date (\"{{Film date|2007|10|25}} (Australia)\"); the US date was not checked."
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-iii",
+      "kind": "continues",
+      "note": "runs concurrently with Saw III"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1383817806,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_IV&oldid=1383817806"
+   },
+   {
+    "id": "saw-v",
+    "title": "Saw V",
+    "type": "film",
+    "wiki_article": "Saw V",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2008-10-24",
+      "release_quote": "Infobox: {{Film date|2008|10|24}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_V&oldid=1381156164",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-iv",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1381156164,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_V&oldid=1381156164"
+   },
+   {
+    "id": "saw-vi",
+    "title": "Saw VI",
+    "type": "film",
+    "wiki_article": "Saw VI",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-10-23",
+      "release_quote": "Infobox: {{Film date|2009|10|23}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_VI&oldid=1381156172",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-v",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1381156172,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_VI&oldid=1381156172"
+   },
+   {
+    "id": "saw-3d",
+    "title": "Saw 3D",
+    "type": "film",
+    "wiki_article": "Saw 3D",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2010-10-29",
+      "release_quote": "Infobox: {{Film date|2010|10|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Saw_3D&oldid=1387549041",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "see chronology",
+       "confidence": "inferred",
+       "quote": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-vi",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387549041,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Saw_3D&oldid=1387549041"
+   },
+   {
+    "id": "jigsaw",
+    "title": "Jigsaw",
+    "type": "film",
+    "wiki_article": "Jigsaw (2017 film)",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-10-27",
+      "release_quote": "Infobox: {{Film date|2017|10|27}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jigsaw_(2017_film)&oldid=1388172673",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "~10 years after Saw III",
+       "confidence": "disputed",
+       "quote": "The present-day portion of Jigsaw takes place roughly ten years after John's death in Saw III.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "Disputed: the chronology table lists it ninth, but its footnote says \"According to Entertainment Weekly, Jigsaw is first in the timeline because it takes place both before and after the events of Saw.\" Its barn game took place \"ten years earlier … before the events of the first film\". The present-day portion is used for ordering."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "saw-3d",
+      "kind": "continues",
+      "note": "standalone sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1388172673,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jigsaw_(2017_film)&oldid=1388172673"
+   },
+   {
+    "id": "spiral",
+    "title": "Spiral",
+    "type": "film",
+    "wiki_article": "Spiral (2021 film)",
+    "continuity": "saw-main",
+    "studio_or_developer": "Lionsgate Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-05-14",
+      "release_quote": "Infobox: {{Film date|2021|5|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Spiral_(2021_film)&oldid=1386762808",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "unknown time after John Kramer's death",
+       "confidence": "inferred",
+       "quote": "Spiral takes place an unknown amount of time after John's death, as another Jigsaw copycat creates their own games to punish corrupt police officers and detectives.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251",
+       "precision": "relative",
+       "order_index": 9,
+       "note": "Last in the chronology table. Spiral lead: \"It serves as a spin-off and the ninth installment of the Saw film series\". The exact phrase \"set in the Saw universe\" was not found in either article."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jigsaw",
+      "kind": "continues",
+      "note": "spin-off; ninth installment"
+     }
+    ],
+    "notes": "Also subtitled From the Book of Saw. studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1386762808,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Spiral_(2021_film)&oldid=1386762808"
+   }
+  ]
+ },
+ "evil-dead": {
+  "continuities": [
+   {
+    "id": "evil-dead-ash",
+    "name": "Evil Dead (Ash Williams continuity)",
+    "description": "The Raimi trilogy and the Starz series, a direct sequel to it.",
+    "quote": "Evil Dead II … serves as a direct sequel to The Evil Dead, continuing from the events of its predecessor … in 2015, it was followed by the television series Ash vs Evil Dead, a direct sequel to the first three films.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Evil_Dead&oldid=1387526768",
+     "https://en.wikipedia.org/w/index.php?title=Evil_Dead_II&oldid=1387215959"
+    ]
+   },
+   {
+    "id": "evil-dead-2013",
+    "name": "Evil Dead (2013)",
+    "description": "Soft reboot / \"standalone sequel\" following Mia Allen. Kept separate: Wikipedia files it under \"Standalone films\" and calls it a soft reboot, though it also says it is \"considered a continuation\".",
+    "quote": "Evil Dead is a standalone sequel to the previous three films. Unlike those films, it does not feature the character of Ash Williams in a major role; Ash appears only briefly in a post-credits scene. … It is considered a continuation of the franchise",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Evil_Dead&oldid=1387526768",
+     "https://en.wikipedia.org/w/index.php?title=Evil_Dead_(2013_film)&oldid=1387654752"
+    ],
+    "ordered_only": true
+   },
+   {
+    "id": "evil-dead-rise",
+    "name": "Evil Dead Rise / Burn",
+    "description": "Evil Dead Rise and its sequel Evil Dead Burn, both under \"Standalone films\" in the franchise article.",
+    "quote": "It serves as a sequel to Evil Dead Rise (2023) and is the sixth installment in the Evil Dead film series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Burn&oldid=1387494528",
+     "https://en.wikipedia.org/w/index.php?title=Evil_Dead&oldid=1387526768"
+    ],
+    "ordered_only": true
+   }
+  ],
+  "titles": [
+   {
+    "id": "the-evil-dead",
+    "title": "The Evil Dead",
+    "type": "film",
+    "wiki_article": "The Evil Dead",
+    "continuity": "evil-dead-ash",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1983-04-15",
+      "release_quote": "Infobox: {{Film date|1981|10|15|[[Redford Theatre]]||1983|04|15|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Evil_Dead&oldid=1385666497",
+      "in_universe": {
+       "year": 1982,
+       "year_end": null,
+       "label": "1982",
+       "confidence": "inferred",
+       "quote": "Category:Films set in 1982",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Evil_Dead&oldid=1385666497",
+       "precision": "year",
+       "order_index": 0,
+       "note": "Only source is the article category \"Films set in 1982\" (no prose statement)."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 1981-10-15 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1385666497,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Evil_Dead&oldid=1385666497"
+   },
+   {
+    "id": "evil-dead-ii",
+    "title": "Evil Dead II",
+    "type": "film",
+    "wiki_article": "Evil Dead II",
+    "continuity": "evil-dead-ash",
+    "studio_or_developer": "Rosebud Releasing Corporation",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1987-03-13",
+      "release_quote": "Infobox: {{Film date|1987|03|13|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_II&oldid=1387215959",
+      "in_universe": {
+       "year": 1982,
+       "year_end": null,
+       "label": "1982 (ends in 1300 AD)",
+       "confidence": "inferred",
+       "quote": "Category:Films set in 1982 … serves as a direct sequel to The Evil Dead, continuing from the events of its predecessor following a brief recap.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_II&oldid=1387215959",
+       "precision": "year",
+       "order_index": 1,
+       "note": "Year only from the category \"Films set in 1982\"; continues directly from the first film."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-evil-dead",
+      "kind": "continues",
+      "note": "direct sequel after a brief recap"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387215959,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_II&oldid=1387215959"
+   },
+   {
+    "id": "army-of-darkness",
+    "title": "Army of Darkness",
+    "type": "film",
+    "wiki_article": "Army of Darkness",
+    "continuity": "evil-dead-ash",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1993-02-19",
+      "release_quote": "Infobox: {{Film date|1992|10|09|[[Sitges Film Festival|Sitges]]|1993|02|19|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Army_of_Darkness&oldid=1387516137",
+      "in_universe": {
+       "year": 1300,
+       "year_end": null,
+       "label": "1300 AD",
+       "confidence": "stated",
+       "quote": "The film follows Ash Williams after he is transported to England in 1300 AD.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead&oldid=1387526768",
+       "precision": "year",
+       "order_index": 2
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 1992-10-09 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "evil-dead-ii",
+      "kind": "continues",
+      "note": "direct sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387516137,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Army_of_Darkness&oldid=1387516137"
+   },
+   {
+    "id": "ash-vs-evil-dead",
+    "title": "Ash vs Evil Dead",
+    "type": "series",
+    "wiki_article": "Ash vs Evil Dead",
+    "continuity": "evil-dead-ash",
+    "studio_or_developer": null,
+    "publisher": null,
+    "platform": "starz",
+    "platforms": [
+     "starz"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 10,
+      "release_date": "2015-10-31",
+      "release_end": "2016-01-02",
+      "release_quote": "Series overview: episodes1 = 10 | start1 = {{Start date|2015|10|31}} | end1 = {{End date|2016|1|2}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "~30 years after Army of Darkness",
+       "confidence": "inferred",
+       "quote": "The series is set approximately 30 years after Ash Williams returned from 1300 AD at the end of Army of Darkness (1992).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "Relative only; Wikipedia gives no absolute year."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 10,
+      "release_date": "2016-10-02",
+      "release_end": "2016-12-11",
+      "release_quote": "Series overview: episodes2 = 10 | start2 = {{Start date|2016|10|2}} | end2 = {{End date|2016|12|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "Follows season 1; no year stated."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 10,
+      "release_date": "2018-02-25",
+      "release_end": "2018-04-29",
+      "release_quote": "Series overview: episodes3 = 10 | start3 = {{Start date|2018|2|25}} | end3 = {{Start date|2018|4|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "Follows season 2; no year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "army-of-darkness",
+      "kind": "continues",
+      "note": "set ~30 years after Army of Darkness"
+     }
+    ],
+    "notes": "Network Starz per article (\"Starz announced that they officially put an order in for the series\"). Production companies not checked.",
+    "revid": 1387628922,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922"
+   },
+   {
+    "id": "evil-dead-2013",
+    "title": "Evil Dead",
+    "type": "film",
+    "wiki_article": "Evil Dead (2013 film)",
+    "continuity": "evil-dead-2013",
+    "studio_or_developer": "TriStar Pictures (through Sony Pictures Releasing)",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-04-05",
+      "release_quote": "Infobox: {{Film date|2013|03|08|[[South by Southwest|SXSW]]|2013|04|05|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_(2013_film)&oldid=1387654752",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "unspecified",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_(2013_film)&oldid=1387654752",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No setting year given."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2013-03-08 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "the-evil-dead",
+      "kind": "reboot-of",
+      "note": "soft reboot / \"standalone sequel\"; Wikipedia wording is mixed"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387654752,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_(2013_film)&oldid=1387654752"
+   },
+   {
+    "id": "evil-dead-rise",
+    "title": "Evil Dead Rise",
+    "type": "film",
+    "wiki_article": "Evil Dead Rise",
+    "continuity": "evil-dead-rise",
+    "studio_or_developer": "Warner Bros. Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-04-21",
+      "release_quote": "Infobox: {{Film date|2023|3|15|[[2023 South by Southwest Film & TV Festival|SXSW]]|2023|4|21|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Rise&oldid=1385151012",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "unspecified",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Rise&oldid=1385151012",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No setting year given."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2023-03-15 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "evil-dead-2013",
+      "kind": "ignores",
+      "note": "fifth film; standalone, no stated story link to the 2013 film"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1385151012,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Rise&oldid=1385151012"
+   },
+   {
+    "id": "evil-dead-burn",
+    "title": "Evil Dead Burn",
+    "type": "film",
+    "wiki_article": "Evil Dead Burn",
+    "continuity": "evil-dead-rise",
+    "studio_or_developer": "Warner Bros. Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-07-10",
+      "release_quote": "Infobox: {{Film date|2026|7|10}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Burn&oldid=1387494528",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Evil Dead Rise",
+       "confidence": "inferred",
+       "quote": "It serves as a sequel to Evil Dead Rise (2023)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Burn&oldid=1387494528",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No setting year given; follows Rise."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "evil-dead-rise",
+      "kind": "continues",
+      "note": "sequel to Evil Dead Rise"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387494528,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Burn&oldid=1387494528"
+   }
+  ]
+ },
+ "friday-the-13th": {
+  "continuities": [
+   {
+    "id": "f13-main",
+    "name": "Friday the 13th (original continuity)",
+    "description": "The twelve films from 1980 to 2003 (incl. Jason X and the crossover Freddy vs. Jason), plus the prequel series Crystal Lake. Internal dating is notoriously inconsistent; see unit notes.",
+    "quote": "Among the twelve films was a crossover film featuring fellow horror icon Freddy Krueger from the A Nightmare on Elm Street franchise. … Crystal Lake is an American slasher television series … that serves as the prequel to the Friday the 13th franchise, set seven years before the original film, in 1972.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(franchise)&oldid=1388138344",
+     "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045"
+    ]
+   },
+   {
+    "id": "f13-2009",
+    "name": "Friday the 13th (2009 reboot)",
+    "description": "The 2009 film restarted the continuity.",
+    "quote": "In 2009, a new Friday the 13th film which restarted the film series continuity was released.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(franchise)&oldid=1388138344"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "crystal-lake",
+    "title": "Crystal Lake",
+    "type": "series",
+    "wiki_article": "Crystal Lake (TV series)",
+    "continuity": "f13-main",
+    "studio_or_developer": null,
+    "publisher": null,
+    "platform": "peacock",
+    "platforms": [
+     "peacock"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2026-10-15",
+      "release_end": "2026-10-15",
+      "release_quote": "Crystal Lake premiered on Peacock in the United States with all episodes on October 15, 2026.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045",
+      "in_universe": {
+       "year": 1972,
+       "year_end": null,
+       "label": "1972",
+       "confidence": "stated",
+       "quote": "serves as the prequel to the Friday the 13th franchise, set seven years before the original film, in 1972.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-1980",
+      "kind": "continues",
+      "note": "prequel set seven years before the original film"
+     }
+    ],
+    "notes": "num_episodes = 8 per infobox. Production companies not checked.",
+    "revid": 1388217045,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045"
+   },
+   {
+    "id": "f13-1980",
+    "title": "Friday the 13th",
+    "type": "film",
+    "wiki_article": "Friday the 13th (1980 film)",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures (United States and Canada); Warner Bros. (International)",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1980-05-09",
+      "release_quote": "Infobox: {{Film date|1980|5|9|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(1980_film)&oldid=1387653699",
+      "in_universe": {
+       "year": 1979,
+       "year_end": null,
+       "label": "1979 (prologue 1958)",
+       "confidence": "stated",
+       "quote": "Around the campfire that night, Paul tells the counselors the legend of Jason Voorhees, a boy who drowned at Camp Crystal Lake in 1957, sending his vengeful mother Pamela on two killing sprees in 1958 and 1979",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541",
+       "precision": "year",
+       "order_index": 1,
+       "note": "Year stated in the Part 2 plot; the 1980 article opens \"In 1958 at Camp Crystal Lake\" and carries \"Category:Films set in 1979\"."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387653699,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(1980_film)&oldid=1387653699"
+   },
+   {
+    "id": "f13-part-2",
+    "title": "Friday the 13th Part 2",
+    "type": "film",
+    "wiki_article": "Friday the 13th Part 2",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1981-05-01",
+      "release_quote": "Infobox: {{Film date|1981|5|1}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541",
+      "in_universe": {
+       "year": 1984,
+       "year_end": null,
+       "label": "1984",
+       "confidence": "stated",
+       "quote": "In 1984, Paul Holt has opened a school for camp counselors on the shore of Crystal Lake.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541",
+       "precision": "year",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-1980",
+      "kind": "continues",
+      "note": "five years later"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1388239541,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541"
+   },
+   {
+    "id": "f13-part-3",
+    "title": "Friday the 13th Part III",
+    "type": "film",
+    "wiki_article": "Friday the 13th Part III",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1982-08-13",
+      "release_quote": "Infobox: {{Film date|1982|8|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_III&oldid=1387985340",
+      "in_universe": {
+       "year": 1984,
+       "year_end": null,
+       "label": "1984",
+       "confidence": "inferred",
+       "quote": "Category:Films set in 1982; Category:Films set in 1984",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_III&oldid=1387985340",
+       "precision": "year",
+       "order_index": 3,
+       "note": "Only the article categories date it (1982 and 1984 both listed); 1984 chosen as it follows Part 2 (1984). No prose statement."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-part-2",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387985340,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_III&oldid=1387985340"
+   },
+   {
+    "id": "f13-final-chapter",
+    "title": "Friday the 13th: The Final Chapter",
+    "type": "film",
+    "wiki_article": "Friday the 13th: The Final Chapter",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1984-04-13",
+      "release_quote": "Infobox: {{Film date|1984|4|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_The_Final_Chapter&oldid=1383987585",
+      "in_universe": {
+       "year": 1984,
+       "year_end": null,
+       "label": "1984",
+       "confidence": "inferred",
+       "quote": "Category:Films set in 1984",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_The_Final_Chapter&oldid=1383987585",
+       "precision": "year",
+       "order_index": 4,
+       "note": "Category only; no prose statement."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-part-3",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1383987585,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_The_Final_Chapter&oldid=1383987585"
+   },
+   {
+    "id": "f13-new-beginning",
+    "title": "Friday the 13th: A New Beginning",
+    "type": "film",
+    "wiki_article": "Friday the 13th: A New Beginning",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1985-03-22",
+      "release_quote": "Infobox: {{Film date|1985|03|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_A_New_Beginning&oldid=1386047577",
+      "in_universe": {
+       "year": 1989,
+       "year_end": null,
+       "label": "1989",
+       "confidence": "inferred",
+       "quote": "Five years after killing mass murderer Jason Voorhees, a teenage Tommy Jarvis is tormented by nightmares of him",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_A_New_Beginning&oldid=1386047577",
+       "precision": "year",
+       "order_index": 5,
+       "note": "1984 + 5 = 1989; matches \"Category:Films set in 1989\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-final-chapter",
+      "kind": "continues",
+      "note": "five years later"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1386047577,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_A_New_Beginning&oldid=1386047577"
+   },
+   {
+    "id": "f13-jason-lives",
+    "title": "Friday the 13th Part VI: Jason Lives",
+    "type": "film",
+    "wiki_article": "Friday the 13th Part VI: Jason Lives",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1986-08-01",
+      "release_quote": "Infobox: {{Film date|1986|8|1}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VI%3A_Jason_Lives&oldid=1387345047",
+      "in_universe": {
+       "year": 1990,
+       "year_end": null,
+       "label": "1990",
+       "confidence": "disputed",
+       "quote": "Category:Films set in 1990",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VI%3A_Jason_Lives&oldid=1387345047",
+       "precision": "year",
+       "order_index": 6,
+       "note": "Category only. The series' internal dating is inconsistent (Part VII is \"set seven years after\" this film, and its categories give 1990 and 1997)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-new-beginning",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387345047,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VI%3A_Jason_Lives&oldid=1387345047"
+   },
+   {
+    "id": "f13-new-blood",
+    "title": "Friday the 13th Part VII: The New Blood",
+    "type": "film",
+    "wiki_article": "Friday the 13th Part VII: The New Blood",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1988-05-13",
+      "release_quote": "Infobox: {{Film date|1988|5|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VII%3A_The_New_Blood&oldid=1383448559",
+      "in_universe": {
+       "year": 1997,
+       "year_end": null,
+       "label": "1997 (prologue c. 1990)",
+       "confidence": "disputed",
+       "quote": "Set seven years after the events of the previous film … Category:Films set in 1990; Category:Films set in 1997",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VII%3A_The_New_Blood&oldid=1383448559",
+       "precision": "year",
+       "order_index": 7,
+       "note": "1990 + 7 = 1997, consistent with the 1997 category; the series' dating is internally contradictory, so disputed."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-jason-lives",
+      "kind": "continues",
+      "note": "seven years later"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1383448559,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VII%3A_The_New_Blood&oldid=1383448559"
+   },
+   {
+    "id": "f13-jason-takes-manhattan",
+    "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "type": "film",
+    "wiki_article": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "continuity": "f13-main",
+    "studio_or_developer": "Paramount Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1989-07-28",
+      "release_quote": "Infobox: {{Film date|1989|7|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VIII%3A_Jason_Takes_Manhattan&oldid=1383965518",
+      "in_universe": {
+       "year": 1998,
+       "year_end": null,
+       "label": "1998",
+       "confidence": "disputed",
+       "quote": "Category:Films set in 1998",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VIII%3A_Jason_Takes_Manhattan&oldid=1383965518",
+       "precision": "year",
+       "order_index": 8,
+       "note": "Category only; disputed given the series' inconsistent dating."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-new-blood",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1383965518,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VIII%3A_Jason_Takes_Manhattan&oldid=1383965518"
+   },
+   {
+    "id": "jason-goes-to-hell",
+    "title": "Jason Goes to Hell: The Final Friday",
+    "type": "film",
+    "wiki_article": "Jason Goes to Hell: The Final Friday",
+    "continuity": "f13-main",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1993-08-13",
+      "release_quote": "Infobox: {{Film date|1993|8|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jason_Goes_to_Hell%3A_The_Final_Friday&oldid=1388178808",
+      "in_universe": {
+       "year": 2003,
+       "year_end": null,
+       "label": "2003",
+       "confidence": "disputed",
+       "quote": "Category:Films set in 2003",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jason_Goes_to_Hell%3A_The_Final_Friday&oldid=1388178808",
+       "precision": "year",
+       "order_index": 9,
+       "note": "Category only; disputed."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-jason-takes-manhattan",
+      "kind": "continues",
+      "note": "ninth installment"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1388178808,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jason_Goes_to_Hell%3A_The_Final_Friday&oldid=1388178808"
+   },
+   {
+    "id": "freddy-vs-jason",
+    "title": "Freddy vs. Jason",
+    "type": "film",
+    "wiki_article": "Freddy vs. Jason",
+    "continuity": "f13-main",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-08-15",
+      "release_quote": "Infobox: {{Film date|2003|8|15}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Freddy_vs._Jason&oldid=1388228459",
+      "in_universe": {
+       "year": 2003,
+       "year_end": null,
+       "label": "2003",
+       "confidence": "disputed",
+       "quote": "Category:Films set in 2003",
+       "source": "https://en.wikipedia.org/w/index.php?title=Freddy_vs._Jason&oldid=1388228459",
+       "precision": "year",
+       "order_index": 10,
+       "note": "Category only. Wikipedia does not state its placement relative to Jason X (2008 prologue, then 400+ years later); ordered before Jason X by year. Kept in f13-main because the franchise article counts it among \"the twelve films\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jason-goes-to-hell",
+      "kind": "continues",
+      "note": "follows Jason Goes to Hell"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1388228459,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Freddy_vs._Jason&oldid=1388228459"
+   },
+   {
+    "id": "jason-x",
+    "title": "Jason X",
+    "type": "film",
+    "wiki_article": "Jason X",
+    "continuity": "f13-main",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2002-04-26",
+      "release_quote": "Infobox: {{Film date|2001|11|15|Spain|2002|4|26|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jason_X&oldid=1386534442",
+      "in_universe": {
+       "year": 2008,
+       "year_end": null,
+       "label": "2008, then 400+ years later",
+       "confidence": "stated",
+       "quote": "In 2008, mass murderer Jason Voorhees is captured by the United States government and held at the Crystal Lake Research Facility.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jason_X&oldid=1386534442",
+       "precision": "year",
+       "order_index": 11,
+       "note": "Prologue 2008 is stated; the main story is \"Over 400 years later\" (franchise article). Categories: 2008 and 2010."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2001-11-15 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "jason-goes-to-hell",
+      "kind": "continues",
+      "note": "tenth installment"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1386534442,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jason_X&oldid=1386534442"
+   },
+   {
+    "id": "f13-2009",
+    "title": "Friday the 13th",
+    "type": "film",
+    "wiki_article": "Friday the 13th (2009 film)",
+    "continuity": "f13-2009",
+    "studio_or_developer": "Warner Bros. Pictures (United States and Canada); Paramount Pictures (International)",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-02-13",
+      "release_quote": "Infobox: {{Film date|2009|2|9|[[Mann's Chinese Theater]]|2009|2|13|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(2009_film)&oldid=1388150483",
+      "in_universe": {
+       "year": 2008,
+       "year_end": null,
+       "label": "2008 (prologue 1980)",
+       "confidence": "inferred",
+       "quote": "Category:Films set in 1980; Category:Films set in 2008",
+       "source": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(2009_film)&oldid=1388150483",
+       "precision": "year",
+       "order_index": 0,
+       "note": "Category only; no prose year found."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 2009-02-09 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "f13-1980",
+      "kind": "reboot-of",
+      "note": "restarted the film series continuity"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1388150483,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(2009_film)&oldid=1388150483"
+   }
+  ]
+ },
+ "texas-chain-saw": {
+  "continuities": [
+   {
+    "id": "tcm-original",
+    "name": "Original continuity",
+    "description": "The 1974 film and its first three sequels, as grouped by the franchise article. The later alternate continuities each also follow the 1974 film; that is recorded as links, not shared ordering.",
+    "quote": "Original continuity: The Texas Chain Saw Massacre (1974) | The Texas Chainsaw Massacre 2 (1986) | Leatherface: The Texas Chainsaw Massacre III (1990) | The Return of the Texas Chainsaw Massacre",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(franchise)&oldid=1385727224"
+    ]
+   },
+   {
+    "id": "tcm-platinum-dunes",
+    "name": "Platinum Dunes' remake continuity",
+    "description": "2003 remake and its 2006 prequel.",
+    "quote": "Platinum Dunes' remake continuity: The Texas Chainsaw Massacre: The Beginning (2006) | The Texas Chainsaw Massacre (2003)",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(franchise)&oldid=1385727224"
+    ]
+   },
+   {
+    "id": "tcm-millennium",
+    "name": "Millennium Films' alternate continuity",
+    "description": "Leatherface (2017) and Texas Chainsaw 3D (2013), both following the 1974 film.",
+    "quote": "Millennium Films' alternate continuity: Leatherface (2017) | The Texas Chain Saw Massacre (1974) | Texas Chainsaw 3D (2013) … The seventh film, Texas Chainsaw 3D (2013), is a direct sequel to the original 1974 film, and makes no reference to the events of the other sequels.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(franchise)&oldid=1385727224"
+    ]
+   },
+   {
+    "id": "tcm-legendary",
+    "name": "Legendary Pictures' alternate continuity",
+    "description": "The 2022 Netflix film, a sequel to the 1974 film set fifty years later.",
+    "quote": "Legendary Pictures' alternate continuity: The Texas Chain Saw Massacre (1974) | Texas Chainsaw Massacre (2022) — The film is a sequel to The Texas Chain Saw Massacre (1974) set fifty years later. … The Texas Chainsaw Massacre 2 and Texas Chainsaw Massacre (2022) are explicitly continuous with the original 1974 film, though not necessarily with one another.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(franchise)&oldid=1385727224",
+     "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_Massacre_(2022_film)&oldid=1385857493"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "tcm-1974",
+    "title": "The Texas Chain Saw Massacre",
+    "type": "film",
+    "wiki_article": "The Texas Chain Saw Massacre",
+    "continuity": "tcm-original",
+    "studio_or_developer": "Bryanston Distributing Company",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1974-10-11",
+      "release_quote": "Infobox: {{Film date|1974|10|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chain_Saw_Massacre&oldid=1386626673",
+      "in_universe": {
+       "year": 1973,
+       "year_end": null,
+       "label": "1973",
+       "confidence": "stated",
+       "quote": "In 1990, 17 years after Leatherface's killing spree in 1973",
+       "source": "https://en.wikipedia.org/w/index.php?title=Leatherface%3A_The_Texas_Chainsaw_Massacre_III&oldid=1383822960",
+       "precision": "year",
+       "order_index": 0,
+       "note": "Year stated in the plots of TCM III, Texas Chainsaw 3D (\"In 1973, after her friends and older brother were brutally murdered\") and the 2022 film; the 1974 article has \"Category:Films set in 1973\"."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1386626673,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chain_Saw_Massacre&oldid=1386626673"
+   },
+   {
+    "id": "tcm-2",
+    "title": "The Texas Chainsaw Massacre 2",
+    "type": "film",
+    "wiki_article": "The Texas Chainsaw Massacre 2",
+    "continuity": "tcm-original",
+    "studio_or_developer": "Cannon Releasing",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1986-08-22",
+      "release_quote": "Infobox: {{film date|1986|08|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_2&oldid=1383637863",
+      "in_universe": {
+       "year": 1986,
+       "year_end": null,
+       "label": "1986",
+       "confidence": "inferred",
+       "quote": "The Texas Chainsaw Massacre 2 (1986) is set 13 years after the events of the first film.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(franchise)&oldid=1385727224",
+       "precision": "year",
+       "order_index": 1,
+       "note": "1973 + 13 = 1986; matches \"Category:Films set in 1986\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-1974",
+      "kind": "continues",
+      "note": "set 13 years later"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1383637863,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_2&oldid=1383637863"
+   },
+   {
+    "id": "tcm-3",
+    "title": "Leatherface: The Texas Chainsaw Massacre III",
+    "type": "film",
+    "wiki_article": "Leatherface: The Texas Chainsaw Massacre III",
+    "continuity": "tcm-original",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1990-01-12",
+      "release_quote": "Infobox: {{Film date|1990|01|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Leatherface%3A_The_Texas_Chainsaw_Massacre_III&oldid=1383822960",
+      "in_universe": {
+       "year": 1990,
+       "year_end": null,
+       "label": "1990",
+       "confidence": "stated",
+       "quote": "In 1990, 17 years after Leatherface's killing spree in 1973",
+       "source": "https://en.wikipedia.org/w/index.php?title=Leatherface%3A_The_Texas_Chainsaw_Massacre_III&oldid=1383822960",
+       "precision": "year",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-2",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1383822960,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Leatherface%3A_The_Texas_Chainsaw_Massacre_III&oldid=1383822960"
+   },
+   {
+    "id": "tcm-return",
+    "title": "The Return of the Texas Chainsaw Massacre",
+    "type": "film",
+    "wiki_article": "The Return of the Texas Chainsaw Massacre",
+    "continuity": "tcm-original",
+    "studio_or_developer": "CFP Distribution",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1995-09-22",
+      "release_quote": "Infobox: {{Film date|1995|03|12|[[South by Southwest|SXSW]]||1995|09|22|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Return_of_the_Texas_Chainsaw_Massacre&oldid=1387492731",
+      "in_universe": {
+       "year": 1994,
+       "year_end": null,
+       "label": "May 22, 1994 (1996 in the 1997 cut)",
+       "confidence": "disputed",
+       "quote": "On May 22, 1994, 21 years after Leatherface's killing spree in 1973 … In the revised 1997 cut, the date has been changed to May 22, 1996.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Return_of_the_Texas_Chainsaw_Massacre&oldid=1387492731",
+       "precision": "year",
+       "order_index": 3,
+       "note": "Two cuts give different years (1994 original, 1996 revised). Its place in the original continuity is also ambiguous (\"billed as a sequel … also been described as a remake\"); kept where the franchise table puts it."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier date(s): 1995-03-12 (premiere/festival/other territory)."
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-1974",
+      "kind": "remake",
+      "note": "\"Though sometimes billed as a sequel or direct sequel to the original film, it has also been described as a remake\""
+     }
+    ],
+    "notes": "Also known as Texas Chainsaw Massacre: The Next Generation (the requested title redirects here). studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387492731,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Return_of_the_Texas_Chainsaw_Massacre&oldid=1387492731"
+   },
+   {
+    "id": "tcm-the-beginning",
+    "title": "The Texas Chainsaw Massacre: The Beginning",
+    "type": "film",
+    "wiki_article": "The Texas Chainsaw Massacre: The Beginning",
+    "continuity": "tcm-platinum-dunes",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-10-06",
+      "release_quote": "Infobox: {{Film date|2006|10|06}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre%3A_The_Beginning&oldid=1384801996",
+      "in_universe": {
+       "year": 1969,
+       "year_end": null,
+       "label": "1969 (prologue 1939)",
+       "confidence": "stated",
+       "quote": "Thirty years later, in 1969, four years before the events of the first film, Thomas works in the slaughterhouse",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre%3A_The_Beginning&oldid=1384801996",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-2003",
+      "kind": "continues",
+      "note": "prequel set four years before the remake"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1384801996,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre%3A_The_Beginning&oldid=1384801996"
+   },
+   {
+    "id": "tcm-2003",
+    "title": "The Texas Chainsaw Massacre",
+    "type": "film",
+    "wiki_article": "The Texas Chainsaw Massacre (2003 film)",
+    "continuity": "tcm-platinum-dunes",
+    "studio_or_developer": "New Line Cinema",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-10-17",
+      "release_quote": "Infobox: {{Film date|2003|10|17}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(2003_film)&oldid=1387055865",
+      "in_universe": {
+       "year": 1973,
+       "year_end": null,
+       "label": "August 18, 1973",
+       "confidence": "stated",
+       "quote": "On August 18, 1973, five young adults – Erin Hardesty, her boyfriend Kemper and their friends Morgan, Andy and Pepper – are traveling to a concert",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(2003_film)&oldid=1387055865",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-1974",
+      "kind": "remake",
+      "note": "remake of the 1974 film"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387055865,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Texas_Chainsaw_Massacre_(2003_film)&oldid=1387055865"
+   },
+   {
+    "id": "leatherface-2017",
+    "title": "Leatherface",
+    "type": "film",
+    "wiki_article": "Leatherface (2017 film)",
+    "continuity": "tcm-millennium",
+    "studio_or_developer": "Lionsgate",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-10-20",
+      "release_quote": "Infobox: {{Film date|2017|8|25|[[Empire, Leicester Square|Leicester Square]]|2017|10|20|United States|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Leatherface_(2017_film)&oldid=1387709742",
+      "in_universe": {
+       "year": 1955,
+       "year_end": 1965,
+       "label": "1955; main story 1965",
+       "confidence": "inferred",
+       "quote": "In 1955, a couple, Betty Hartman and Ted Hardesty, are driving down a country road … 10 years later, at the Gorman House",
+       "source": "https://en.wikipedia.org/w/index.php?title=Leatherface_(2017_film)&oldid=1387709742",
+       "precision": "year",
+       "order_index": 0,
+       "note": "Prologue 1955 stated; main story 1955 + 10 = 1965 (category \"Films set in 1965\")."
+      },
+      "note": "Release date is the US VOD/limited theatrical date (October 20, 2017); premiered at Leicester Square on August 25, 2017 and was a DirecTV exclusive from September 21, 2017."
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-1974",
+      "kind": "continues",
+      "note": "prequel to the 1974 film in the Millennium continuity"
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1387709742,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Leatherface_(2017_film)&oldid=1387709742"
+   },
+   {
+    "id": "texas-chainsaw-3d",
+    "title": "Texas Chainsaw 3D",
+    "type": "film",
+    "wiki_article": "Texas Chainsaw 3D",
+    "continuity": "tcm-millennium",
+    "studio_or_developer": "Lionsgate",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-01-04",
+      "release_quote": "Infobox: {{Film date|2013|01|04}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_3D&oldid=1379266828",
+      "in_universe": {
+       "year": 2012,
+       "year_end": null,
+       "label": "2012 (prologue 1973)",
+       "confidence": "stated",
+       "quote": "In 2012, a woman named Heather discovers that she was adopted after receiving a letter informing her that her grandmother, Verna Carson, has died.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_3D&oldid=1379266828",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-1974",
+      "kind": "continues",
+      "note": "direct sequel to the 1974 film"
+     },
+     {
+      "to": "tcm-2",
+      "kind": "ignores",
+      "note": "\"makes no reference to the events of the other sequels\""
+     }
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1379266828,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_3D&oldid=1379266828"
+   },
+   {
+    "id": "tcm-2022",
+    "title": "Texas Chainsaw Massacre",
+    "type": "film",
+    "wiki_article": "Texas Chainsaw Massacre (2022 film)",
+    "continuity": "tcm-legendary",
+    "studio_or_developer": "Netflix",
+    "publisher": null,
+    "platform": "netflix",
+    "platforms": [
+     "netflix"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-02-18",
+      "release_quote": "Infobox: {{Film date|2022|2|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_Massacre_(2022_film)&oldid=1385857493",
+      "in_universe": {
+       "year": 2023,
+       "year_end": null,
+       "label": "2023",
+       "confidence": "inferred",
+       "quote": "Following Leatherface's killing spree in 1973, the sole survivor, Sally Hardesty, never spoke about the story again … 50 years later, young entrepreneurs Melody and Dante",
+       "source": "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_Massacre_(2022_film)&oldid=1385857493",
+       "precision": "year",
+       "order_index": 0,
+       "note": "1973 + 50 = 2023; matches \"Category:Films set in 2023\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tcm-1974",
+      "kind": "continues",
+      "note": "sequel set fifty years later"
+     },
+     {
+      "to": "texas-chainsaw-3d",
+      "kind": "ignores",
+      "note": "\"it does not exist within the Leatherface timeline\""
+     }
+    ],
+    "notes": "Released on Netflix. studio_or_developer holds the infobox distributor; production companies not checked.",
+    "revid": 1385857493,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Texas_Chainsaw_Massacre_(2022_film)&oldid=1385857493"
+   }
+  ]
+ },
+ "universal-monsters": {
+  "continuities": [
+   {
+    "id": "universal-monsters-classic",
+    "name": "Universal Monsters (classic, 1931–1955)",
+    "description": "Standalone collection of Universal's Dracula, Frankenstein, Mummy, Invisible Man and Wolf Man films with their sequels and crossovers. Several sub-series with loose, sometimes retconned links; ordered by release only.",
+    "quote": "Frankenstein Meets the Wolf Man … follows The Ghost of Frankenstein (1942) and The Wolf Man (1941), though with a number of retcons.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186"
+    ],
+    "ordered_only": true
+   }
+  ],
+  "titles": [
+   {
+    "id": "dracula-1931",
+    "title": "Dracula",
+    "type": "film",
+    "wiki_article": "Dracula (1931 English-language film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1931-02-14",
+      "release_quote": "Infobox: {{Film date|1931|02|12|New York|1931|02|14|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dracula_(1931_English-language_film)&oldid=1388343413",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Dracula is a 1931 American pre-Code vampire film directed and produced by Tod Browning from a screenplay written by Garrett Fort, and starring Bela Lugosi as Count Dracula.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dracula_(1931_English-language_film)&oldid=1388343413",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier: 1931-02-12."
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1388343413,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dracula_(1931_English-language_film)&oldid=1388343413"
+   },
+   {
+    "id": "frankenstein-1931",
+    "title": "Frankenstein",
+    "type": "film",
+    "wiki_article": "Frankenstein (1931 film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1931-11-21",
+      "release_quote": "Infobox: {{Film date|1931|11|21}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Frankenstein_(1931_film)&oldid=1387296905",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Frankenstein is a 1931 American pre-Code horror film directed by James Whale and produced by Carl Laemmle Jr..",
+       "source": "https://en.wikipedia.org/w/index.php?title=Frankenstein_(1931_film)&oldid=1387296905",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1387296905,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Frankenstein_(1931_film)&oldid=1387296905"
+   },
+   {
+    "id": "the-mummy-1932",
+    "title": "The Mummy",
+    "type": "film",
+    "wiki_article": "The Mummy (1932 film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1932-12-22",
+      "release_quote": "Infobox: {{Film date|1932|12|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Mummy_(1932_film)&oldid=1385985809",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Released by Universal Studios as a part of the Universal Monsters franchise, the pre-Code film features Karloff as Imhotep, an ancient Egyptian mummy who was killed for attempting to resurrect his dead lover, Anck-es-en-Amon.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Mummy_(1932_film)&oldid=1385985809",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1385985809,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Mummy_(1932_film)&oldid=1385985809"
+   },
+   {
+    "id": "the-invisible-man-1933",
+    "title": "The Invisible Man",
+    "type": "film",
+    "wiki_article": "The Invisible Man (1933 film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1933-10-31",
+      "release_quote": "Infobox: {{Film date|1933|10|31|[[Greeley, Colorado|Greeley]]}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_(1933_film)&oldid=1383817890",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "The Invisible Man is a 1933 pre-Code American science fiction horror film directed by James Whale loosely based on H.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_(1933_film)&oldid=1383817890",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Infobox gives only a premiere date (local premiere city); general release not checked."
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1383817890,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_(1933_film)&oldid=1383817890"
+   },
+   {
+    "id": "bride-of-frankenstein",
+    "title": "Bride of Frankenstein",
+    "type": "film",
+    "wiki_article": "Bride of Frankenstein",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1935-04-20",
+      "release_quote": "Infobox: {{Film date|1935|4|19|San Francisco|1935|4|20|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Bride_of_Frankenstein&oldid=1387873095",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Bride of Frankenstein is a 1935 American horror film as well as the first sequel to Universal Pictures' 1931 film Frankenstein.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Bride_of_Frankenstein&oldid=1387873095",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier: 1935-04-19."
+     }
+    ],
+    "links": [
+     {
+      "to": "frankenstein-1931",
+      "kind": "continues",
+      "note": "first sequel to Frankenstein"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1387873095,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Bride_of_Frankenstein&oldid=1387873095"
+   },
+   {
+    "id": "draculas-daughter",
+    "title": "Dracula's Daughter",
+    "type": "film",
+    "wiki_article": "Dracula's Daughter",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1936-05-11",
+      "release_quote": "Infobox: {{Film date|1936|05|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dracula's_Daughter&oldid=1387215060",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Dracula's Daughter is a 1936 American vampire film produced by Universal Pictures as a sequel to the 1931 film Dracula.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dracula's_Daughter&oldid=1387215060",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "dracula-1931",
+      "kind": "continues",
+      "note": "sequel to Dracula"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1387215060,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dracula's_Daughter&oldid=1387215060"
+   },
+   {
+    "id": "son-of-frankenstein",
+    "title": "Son of Frankenstein",
+    "type": "film",
+    "wiki_article": "Son of Frankenstein",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1939-01-13",
+      "release_quote": "Infobox: {{Film date|1939|1|13|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Son_of_Frankenstein&oldid=1384714263",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "The film is the third in Universal Pictures' Frankenstein series and is the follow-up to the 1935 film Bride of Frankenstein.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Son_of_Frankenstein&oldid=1384714263",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "bride-of-frankenstein",
+      "kind": "continues",
+      "note": "follow-up to Bride of Frankenstein"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1384714263,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Son_of_Frankenstein&oldid=1384714263"
+   },
+   {
+    "id": "the-invisible-man-returns",
+    "title": "The Invisible Man Returns",
+    "type": "film",
+    "wiki_article": "The Invisible Man Returns",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1940-01-12",
+      "release_quote": "Infobox: {{Film date|df=yes|1940|1|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_Returns&oldid=1383823346",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "The film is a sequel to the 1933 film The Invisible Man, and the second film in the Invisible Man film series, loosely based on the novel by H.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_Returns&oldid=1383823346",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-invisible-man-1933",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1383823346,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_Returns&oldid=1383823346"
+   },
+   {
+    "id": "the-mummys-hand",
+    "title": "The Mummy's Hand",
+    "type": "film",
+    "wiki_article": "The Mummy's Hand",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1940-09-20",
+      "release_quote": "Infobox: {{Film date|df=yes|1940|9|20}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Hand&oldid=1380351967",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Shot in black-and-white, the film is about the ancient Egyptian mummy of Kharis (Tom Tyler), who is kept alive with a brew of tana leaves by The High Priest (Eduardo Ciannelli) and his successor Andoheb (George Zucco).",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Hand&oldid=1380351967",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1380351967,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Hand&oldid=1380351967"
+   },
+   {
+    "id": "the-invisible-woman",
+    "title": "The Invisible Woman",
+    "type": "film",
+    "wiki_article": "The Invisible Woman (1940 film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1940-12-27",
+      "release_quote": "Infobox: {{Film date|df=yes|1940|12|27|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Woman_(1940_film)&oldid=1339369751",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "It is the third film in Universal Pictures' The Invisible Man film series, following 1933's The Invisible Man and The Invisible Man Returns, which was released earlier in the year.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Woman_(1940_film)&oldid=1339369751",
+       "precision": "relative",
+       "order_index": 9,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-invisible-man-returns",
+      "kind": "continues",
+      "note": "third film in the Invisible Man series"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1339369751,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Woman_(1940_film)&oldid=1339369751"
+   },
+   {
+    "id": "the-wolf-man-1941",
+    "title": "The Wolf Man",
+    "type": "film",
+    "wiki_article": "The Wolf Man (1941 film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1941-12-12",
+      "release_quote": "Infobox: {{Film date|1941|12|09|United States|1941|12|12|United Kingdom}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Wolf_Man_(1941_film)&oldid=1383817373",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "The Wolf Man is a 1941 American Gothic horror film written by Curt Siodmak and produced and directed by George Waggner.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Wolf_Man_(1941_film)&oldid=1383817373",
+       "precision": "relative",
+       "order_index": 10,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier: 1941-12-09."
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1383817373,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Wolf_Man_(1941_film)&oldid=1383817373"
+   },
+   {
+    "id": "the-ghost-of-frankenstein",
+    "title": "The Ghost of Frankenstein",
+    "type": "film",
+    "wiki_article": "The Ghost of Frankenstein",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1942-03-13",
+      "release_quote": "Infobox: {{Film date|df=yes|1942|3|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Ghost_of_Frankenstein&oldid=1379672286",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "It is the fourth film in the Frankenstein series by Universal Pictures, and the follow-up to Son of Frankenstein (1939).",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Ghost_of_Frankenstein&oldid=1379672286",
+       "precision": "relative",
+       "order_index": 11,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "son-of-frankenstein",
+      "kind": "continues",
+      "note": "follow-up to Son of Frankenstein"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1379672286,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Ghost_of_Frankenstein&oldid=1379672286"
+   },
+   {
+    "id": "invisible-agent",
+    "title": "Invisible Agent",
+    "type": "film",
+    "wiki_article": "Invisible Agent",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1942-07-31",
+      "release_quote": "Infobox: {{Film date|1942|7|31|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Invisible_Agent&oldid=1362940357",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "The film is inspired by the 1897 H.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Invisible_Agent&oldid=1362940357",
+       "precision": "relative",
+       "order_index": 12,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1362940357,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Invisible_Agent&oldid=1362940357"
+   },
+   {
+    "id": "the-mummys-tomb",
+    "title": "The Mummy's Tomb",
+    "type": "film",
+    "wiki_article": "The Mummy's Tomb",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1942-10-23",
+      "release_quote": "Infobox: {{Film date|df=yes|1942|10|23}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Tomb&oldid=1344660508",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Taking place 30 years after the events of The Mummy's Hand, where Andoheb (George Zucco) has survived and plans revenge on Stephen Banning (Dick Foran) and his entire family in Mapleton, Massachusetts.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Tomb&oldid=1344660508",
+       "precision": "relative",
+       "order_index": 13,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-mummys-hand",
+      "kind": "continues",
+      "note": "30 years after The Mummy's Hand"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1344660508,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Tomb&oldid=1344660508"
+   },
+   {
+    "id": "frankenstein-meets-the-wolf-man",
+    "title": "Frankenstein Meets the Wolf Man",
+    "type": "film",
+    "wiki_article": "Frankenstein Meets the Wolf Man",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1943-03-12",
+      "release_quote": "Infobox: {{Film date|df=yes|1943|3|5|New York|1943|3|12|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "The script, written by Curt Siodmak, follows The Ghost of Frankenstein (1942) and The Wolf Man (1941), though with a number of retcons.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186",
+       "precision": "relative",
+       "order_index": 14,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier: 1943-03-05."
+     }
+    ],
+    "links": [
+     {
+      "to": "the-ghost-of-frankenstein",
+      "kind": "crossover",
+      "note": "follows The Ghost of Frankenstein"
+     },
+     {
+      "to": "the-wolf-man-1941",
+      "kind": "crossover",
+      "note": "follows The Wolf Man, with retcons"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1382324186,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186"
+   },
+   {
+    "id": "son-of-dracula",
+    "title": "Son of Dracula",
+    "type": "film",
+    "wiki_article": "Son of Dracula (1943 film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1943-10-30",
+      "release_quote": "Infobox: {{Film date|df=yes|1943|10|20|Cine Olimpia, [[Mexico City]]|1943|10|30|United States",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Son_of_Dracula_(1943_film)&oldid=1383134804",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Son of Dracula is a 1943 American horror film directed by Robert Siodmak with a screenplay based on an original story by his brother Curt Siodmak.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Son_of_Dracula_(1943_film)&oldid=1383134804",
+       "precision": "relative",
+       "order_index": 15,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier: 1943-10-20."
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1383134804,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Son_of_Dracula_(1943_film)&oldid=1383134804"
+   },
+   {
+    "id": "the-invisible-mans-revenge",
+    "title": "The Invisible Man's Revenge",
+    "type": "film",
+    "wiki_article": "The Invisible Man's Revenge",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1944-06-09",
+      "release_quote": "Infobox: {{Film date|df=yes|1944|6|9}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man's_Revenge&oldid=1360208593",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "It is the fifth film in the Invisible Man film series, loosely based on the novel by H.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man's_Revenge&oldid=1360208593",
+       "precision": "relative",
+       "order_index": 16,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-invisible-man-1933",
+      "kind": "continues",
+      "note": "fifth film in the Invisible Man series"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1360208593,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man's_Revenge&oldid=1360208593"
+   },
+   {
+    "id": "the-mummys-ghost",
+    "title": "The Mummy's Ghost",
+    "type": "film",
+    "wiki_article": "The Mummy's Ghost",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1944-06-30",
+      "release_quote": "Infobox: {{Film date|df=yes|1944|6|30|New York|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Ghost&oldid=1380351840",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "It is the second of three sequels to The Mummy's Hand (1940), following The Mummy's Tomb (1942) and preceding The Mummy's Curse (1944).",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Ghost&oldid=1380351840",
+       "precision": "relative",
+       "order_index": 17,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Infobox gives only the New York date."
+     }
+    ],
+    "links": [
+     {
+      "to": "the-mummys-tomb",
+      "kind": "continues",
+      "note": "second of three sequels to The Mummy's Hand"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1380351840,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Ghost&oldid=1380351840"
+   },
+   {
+    "id": "the-mummys-curse",
+    "title": "The Mummy's Curse",
+    "type": "film",
+    "wiki_article": "The Mummy's Curse",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1944-12-22",
+      "release_quote": "Infobox: {{Film date|1944|12|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Curse&oldid=1383035776",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Produced by Universal Pictures, it is the fifth entry in Universal's original Mummy franchise, serving as a sequel to The Mummy's Ghost (1944).",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Curse&oldid=1383035776",
+       "precision": "relative",
+       "order_index": 18,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-mummys-ghost",
+      "kind": "continues",
+      "note": "sequel to The Mummy's Ghost"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1383035776,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Curse&oldid=1383035776"
+   },
+   {
+    "id": "house-of-frankenstein",
+    "title": "House of Frankenstein",
+    "type": "film",
+    "wiki_article": "House of Frankenstein (film)",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1945-02-16",
+      "release_quote": "Infobox: {{Film date|df=yes|1944|12|15|New York City|1945|2|16|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=House_of_Frankenstein_(film)&oldid=1379829850",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Over the course of the film, they encounter Count Dracula, the Wolf Man (Larry Talbot), and Frankenstein's monster.",
+       "source": "https://en.wikipedia.org/w/index.php?title=House_of_Frankenstein_(film)&oldid=1379829850",
+       "precision": "relative",
+       "order_index": 19,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Release date is the last (general/US) date in the infobox; earlier: 1944-12-15."
+     }
+    ],
+    "links": [
+     {
+      "to": "frankenstein-meets-the-wolf-man",
+      "kind": "crossover",
+      "note": "encounters Count Dracula, the Wolf Man and the Monster"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1379829850,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=House_of_Frankenstein_(film)&oldid=1379829850"
+   },
+   {
+    "id": "house-of-dracula",
+    "title": "House of Dracula",
+    "type": "film",
+    "wiki_article": "House of Dracula",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1945-12-07",
+      "release_quote": "Infobox: {{Film date|df=yes|1945|12|7|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=House_of_Dracula&oldid=1347899129",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Kenton, the film features several Universal Horror properties meeting as they had done in the 1944 film House of Frankenstein.",
+       "source": "https://en.wikipedia.org/w/index.php?title=House_of_Dracula&oldid=1347899129",
+       "precision": "relative",
+       "order_index": 20,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "house-of-frankenstein",
+      "kind": "crossover",
+      "note": "several Universal Horror properties meeting as in House of Frankenstein"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1347899129,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=House_of_Dracula&oldid=1347899129"
+   },
+   {
+    "id": "abbott-and-costello-meet-frankenstein",
+    "title": "Abbott and Costello Meet Frankenstein",
+    "type": "film",
+    "wiki_article": "Abbott and Costello Meet Frankenstein",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1948-06-25",
+      "release_quote": "Infobox: {{Film date|1948|6|25}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_Frankenstein&oldid=1386134343",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Abbott and Costello Meet Frankenstein is a 1948 American horror comedy film directed by Charles Barton.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_Frankenstein&oldid=1386134343",
+       "precision": "relative",
+       "order_index": 21,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "house-of-dracula",
+      "kind": "crossover",
+      "note": "comedy crossover with Dracula, the Monster and the Wolf Man (not verified from article text)"
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1386134343,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_Frankenstein&oldid=1386134343"
+   },
+   {
+    "id": "abbott-and-costello-meet-the-invisible-man",
+    "title": "Abbott and Costello Meet the Invisible Man",
+    "type": "film",
+    "wiki_article": "Abbott and Costello Meet the Invisible Man",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1951-03-14",
+      "release_quote": "Infobox: {{Film date|1951|03|14|''US''}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Invisible_Man&oldid=1383014964",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "Abbott and Costello Meet the Invisible Man is a 1951 American science fiction comedy film directed by Charles Lamont and starring the team of Abbott and Costello alongside Nancy Guild.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Invisible_Man&oldid=1383014964",
+       "precision": "relative",
+       "order_index": 22,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1383014964,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Invisible_Man&oldid=1383014964"
+   },
+   {
+    "id": "abbott-and-costello-meet-the-mummy",
+    "title": "Abbott and Costello Meet the Mummy",
+    "type": "film",
+    "wiki_article": "Abbott and Costello Meet the Mummy",
+    "continuity": "universal-monsters-classic",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1955-04-16",
+      "release_quote": "Infobox: {{Film date|1955|04|16|[[Rantoul, Illinois]]}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Mummy&oldid=1373646933",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": "It is the sixth entry in Universal's original Mummy franchise and the 28th and final Abbott and Costello film produced by Universal-International.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Mummy&oldid=1373646933",
+       "precision": "relative",
+       "order_index": 23,
+       "note": "No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation."
+      },
+      "note": "Infobox gives only a premiere date (local premiere city); general release not checked."
+     }
+    ],
+    "links": [
+     {
+      "to": "the-mummys-curse",
+      "kind": "continues",
+      "note": "\"sixth entry in Universal's original Mummy franchise\""
+     }
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "revid": 1373646933,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Mummy&oldid=1373646933"
+   }
+  ]
+ },
+ "_ranks": {
+  "scream": [
+   "scream-1996:film",
+   "scream-2:film",
+   "scream-3:film",
+   "scream-4:film",
+   "scream-2022:film",
+   "scream-vi:film",
+   "scream-7:film",
+   "scream-tv:s1",
+   "scream-tv:s2",
+   "scream-resurrection:s3"
+  ],
+  "saw": [
+   "saw-2004:film",
+   "saw-x:film",
+   "saw-ii:film",
+   "saw-iii:film",
+   "saw-iv:film",
+   "saw-v:film",
+   "saw-vi:film",
+   "saw-3d:film",
+   "jigsaw:film",
+   "spiral:film"
+  ],
+  "evil-dead": [
+   "the-evil-dead:film",
+   "evil-dead-ii:film",
+   "army-of-darkness:film",
+   "ash-vs-evil-dead:s1",
+   "ash-vs-evil-dead:s2",
+   "ash-vs-evil-dead:s3",
+   "evil-dead-2013:film",
+   "evil-dead-rise:film",
+   "evil-dead-burn:film"
+  ],
+  "friday-the-13th": [
+   "crystal-lake:s1",
+   "f13-1980:film",
+   "f13-part-2:film",
+   "f13-part-3:film",
+   "f13-final-chapter:film",
+   "f13-new-beginning:film",
+   "f13-jason-lives:film",
+   "f13-new-blood:film",
+   "f13-jason-takes-manhattan:film",
+   "jason-goes-to-hell:film",
+   "freddy-vs-jason:film",
+   "jason-x:film",
+   "f13-2009:film"
+  ],
+  "texas-chain-saw": [
+   "tcm-1974:film",
+   "tcm-2:film",
+   "tcm-3:film",
+   "tcm-return:film",
+   "tcm-the-beginning:film",
+   "tcm-2003:film",
+   "leatherface-2017:film",
+   "texas-chainsaw-3d:film",
+   "tcm-2022:film"
+  ],
+  "universal-monsters": [
+   "dracula-1931:film",
+   "frankenstein-1931:film",
+   "the-mummy-1932:film",
+   "the-invisible-man-1933:film",
+   "bride-of-frankenstein:film",
+   "draculas-daughter:film",
+   "son-of-frankenstein:film",
+   "the-invisible-man-returns:film",
+   "the-mummys-hand:film",
+   "the-invisible-woman:film",
+   "the-wolf-man-1941:film",
+   "the-ghost-of-frankenstein:film",
+   "invisible-agent:film",
+   "the-mummys-tomb:film",
+   "frankenstein-meets-the-wolf-man:film",
+   "son-of-dracula:film",
+   "the-invisible-mans-revenge:film",
+   "the-mummys-ghost:film",
+   "the-mummys-curse:film",
+   "house-of-frankenstein:film",
+   "house-of-dracula:film",
+   "abbott-and-costello-meet-frankenstein:film",
+   "abbott-and-costello-meet-the-invisible-man:film",
+   "abbott-and-costello-meet-the-mummy:film"
+  ]
+ }
+}

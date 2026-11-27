@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "the-evil-dead",
+    "title": "The Evil Dead",
+    "sort_title": "Evil Dead",
+    "type": "film",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-ash",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Evil Dead",
+      "wikidata": "Q327604",
+      "tmdb": "764",
+      "imdb": "tt0083907"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Evil_Dead",
+      "https://en.wikipedia.org/w/index.php?title=The_Evil_Dead&oldid=1385666497"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "the-evil-dead",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 85,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1982
+          },
+          "end": {
+            "y": 1982
+          },
+          "label": "1982",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category:Films set in 1982 Only source is the article category \"Films set in 1982\" (no prose statement).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1983-04-15",
+          "end_date": null,
+          "year": 1983,
+          "note": "Wikipedia: Infobox: October 15, 1981 (Redford Theatre); 1983 04; 15 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Evil_Dead",
+          "https://en.wikipedia.org/w/index.php?title=The_Evil_Dead&oldid=1385666497"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Joseph LoDuca",
+        "qid": "Q1386387",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": "Ash Williams",
+        "character_qid": "Q2552758",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Baker",
+        "qid": "Q4898268",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard DeManincor",
+        "qid": "Q3125881",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Theresa Tilly",
+        "qid": "Q3473437",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ellen Sandweiss",
+        "qid": "Q2275533",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ted Raimi",
+        "qid": "Q447713",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Spiegel",
+        "qid": "Q965826",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ivan Raimi",
+        "qid": "Q1134855",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Cameron",
+        "qid": "Q24817361",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "evil-dead-ii",
+    "title": "Evil Dead II",
+    "sort_title": null,
+    "type": "film",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-ash",
+    "studio_brand": "rosebud-releasing-corporation",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Evil Dead II",
+      "wikidata": "Q750028",
+      "tmdb": "765",
+      "imdb": "tt0092991"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Evil_Dead_II",
+      "https://en.wikipedia.org/w/index.php?title=Evil_Dead_II&oldid=1387215959"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "evil-dead-ii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 85,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1982
+          },
+          "end": {
+            "y": 1982
+          },
+          "label": "1982 (ends in 1300 AD)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category:Films set in 1982 … serves as a direct sequel to The Evil Dead, continuing from the events of its predecessor following a brief recap. Year only from the category \"Films set in 1982\"; continues directly from the first film.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1987-03-13",
+          "end_date": null,
+          "year": 1987,
+          "note": "Wikipedia: Infobox: March 13, 1987 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Evil_Dead_II",
+          "https://en.wikipedia.org/w/index.php?title=Evil_Dead_II&oldid=1387215959"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-evil-dead",
+        "kind": "continues",
+        "note": "direct sequel after a brief recap"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Scott Spiegel",
+        "qid": "Q965826",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Irvin Shapiro",
+        "qid": "Q3154598",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Joseph LoDuca",
+        "qid": "Q1386387",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": "Ash Williams",
+        "character_qid": "Q2552758",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kassie DePaiva",
+        "qid": "Q530992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dan Hicks",
+        "qid": "Q5213674",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ted Raimi",
+        "qid": "Q447713",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lou Hancock",
+        "qid": "Q3260127",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Josh Becker",
+        "qid": "Q15487568",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Spiegel",
+        "qid": "Q965826",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "army-of-darkness",
+    "title": "Army of Darkness",
+    "sort_title": null,
+    "type": "film",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-ash",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Army of Darkness",
+      "wikidata": "Q471992",
+      "tmdb": "766",
+      "imdb": "tt0106308"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Army_of_Darkness",
+      "https://en.wikipedia.org/w/index.php?title=Evil_Dead&oldid=1387526768"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "army-of-darkness",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 81,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1300
+          },
+          "end": {
+            "y": 1300
+          },
+          "label": "1300 AD",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The film follows Ash Williams after he is transported to England in 1300 AD.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-02-19",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: Infobox: October 9, 1992 (Sitges Film Festival); Sitges 1993 02; 19 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Army_of_Darkness",
+          "https://en.wikipedia.org/w/index.php?title=Evil_Dead&oldid=1387526768"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "evil-dead-ii",
+        "kind": "continues",
+        "note": "direct sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Ivan Raimi",
+        "qid": "Q1134855",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Danny Elfman",
+        "qid": "Q193338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Embeth Davidtz",
+        "qid": "Q260622",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": "Ash Williams",
+        "character_qid": "Q2552758",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marcus Gilbert",
+        "qid": "Q549087",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ted Raimi",
+        "qid": "Q447713",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bridget Fonda",
+        "qid": "Q913872",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bill Moseley",
+        "qid": "Q862342",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Abercrombie",
+        "qid": "Q2269990",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Patricia Tallman",
+        "qid": "Q258122",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Grove",
+        "qid": "Q1295480",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Josh Becker",
+        "qid": "Q15487568",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harley Cokeliss",
+        "qid": "Q3127485",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Lustig",
+        "qid": "Q1849400",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bernard Rose",
+        "qid": "Q323074",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Angela Featherstone",
+        "qid": "Q447036",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ivan Raimi",
+        "qid": "Q1134855",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "ash-vs-evil-dead",
+    "title": "Ash vs Evil Dead",
+    "sort_title": null,
+    "type": "series",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-ash",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "starz",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ash vs Evil Dead",
+      "wikidata": "Q19952911",
+      "tmdb": "62264",
+      "imdb": "tt4189022"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ash_vs_Evil_Dead",
+      "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922"
+    ],
+    "notes": "Network Starz per article (\"Starz announced that they officially put an order in for the series\"). Production companies not checked.",
+    "units": [
+      {
+        "id": "ash-vs-evil-dead-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "~30 years after Army of Darkness",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The series is set approximately 30 years after Ash Williams returned from 1300 AD at the end of Army of Darkness (1992). Relative only; Wikipedia gives no absolute year.",
+          "order_index": 40,
+          "relative_to": {
+            "after": "evil-dead-ii",
+            "before": "ash-vs-evil-dead-s2"
+          }
+        },
+        "release": {
+          "date": "2015-10-31",
+          "end_date": "2016-01-02",
+          "year": 2015,
+          "note": "Wikipedia: Series overview: episodes1 = 10 | start1 = October 31, 2015 | end1 = January 2, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ash_vs_Evil_Dead",
+          "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ash-vs-evil-dead-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Follows season 1; no year stated.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "ash-vs-evil-dead-s1",
+            "before": "ash-vs-evil-dead-s3"
+          }
+        },
+        "release": {
+          "date": "2016-10-02",
+          "end_date": "2016-12-11",
+          "year": 2016,
+          "note": "Wikipedia: Series overview: episodes2 = 10 | start2 = October 2, 2016 | end2 = December 11, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ash_vs_Evil_Dead",
+          "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ash-vs-evil-dead-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Follows season 2; no year stated.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "ash-vs-evil-dead-s2",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2018-02-25",
+          "end_date": "2018-04-29",
+          "year": 2018,
+          "note": "Wikipedia: Series overview: episodes3 = 10 | start3 = February 25, 2018 | end3 = April 29, 2018"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ash_vs_Evil_Dead",
+          "https://en.wikipedia.org/w/index.php?title=Ash_vs_Evil_Dead&oldid=1387628922"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "army-of-darkness",
+        "kind": "continues",
+        "note": "set ~30 years after Army of Darkness"
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Mark Beesley",
+        "qid": "Q139558905",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Joseph LoDuca",
+        "qid": "Q1386387",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": "Ash Williams",
+        "character_qid": "Q2552758",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ray Santiago",
+        "qid": "Q7298071",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dana DeLorenzo",
+        "qid": "Q21642407",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucy Lawless",
+        "qid": "Q133112",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "evil-dead-2013",
+    "title": "Evil Dead",
+    "sort_title": null,
+    "type": "film",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-2013",
+    "studio_brand": "tristar-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Evil Dead (2013 film)",
+      "wikidata": "Q73279",
+      "tmdb": "109428",
+      "imdb": "tt1288558"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Evil_Dead_(2013_film)",
+      "https://en.wikipedia.org/w/index.php?title=Evil_Dead_(2013_film)&oldid=1387654752"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "evil-dead-2013",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "unspecified",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No setting year given.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-04-05",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Infobox: March 8, 2013 (South by Southwest); SXSW 2013 04; 05 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Evil_Dead_(2013_film)",
+          "https://en.wikipedia.org/w/index.php?title=Evil_Dead_(2013_film)&oldid=1387654752"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-evil-dead",
+        "kind": "reboot-of",
+        "note": "soft reboot / \"standalone sequel\"; Wikipedia wording is mixed"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Fede Álvarez",
+        "qid": "Q5439920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Fede Álvarez",
+        "qid": "Q5439920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Rodo Sayagues",
+        "qid": "Q83027896",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Diablo Cody",
+        "qid": "Q230795",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Roque Baños",
+        "qid": "Q1340657",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jane Levy",
+        "qid": "Q452618",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shiloh Fernandez",
+        "qid": "Q713634",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lou Taylor Pucci",
+        "qid": "Q708512",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jessica Lucas",
+        "qid": "Q258071",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Campbell",
+        "qid": "Q309932",
+        "character": "Ash Williams",
+        "character_qid": "Q2552758",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elizabeth Blackmore",
+        "qid": "Q13405953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lorenzo Lamas",
+        "qid": "Q145464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "evil-dead-rise",
+    "title": "Evil Dead Rise",
+    "sort_title": null,
+    "type": "film",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-rise",
+    "studio_brand": "warner-bros-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Evil Dead Rise",
+      "wikidata": "Q107203508",
+      "tmdb": "713704",
+      "imdb": "tt13345606"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Evil_Dead_Rise",
+      "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Rise&oldid=1385151012"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "evil-dead-rise",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 97,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "unspecified",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No setting year given.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-04-21",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Infobox: March 15, 2023 (2023 South by Southwest Film & TV Festival); SXSW 2023 4; 21 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Evil_Dead_Rise",
+          "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Rise&oldid=1385151012"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "evil-dead-2013",
+        "kind": "ignores",
+        "note": "fifth film; standalone, no stated story link to the 2013 film"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Lee Cronin",
+        "qid": "Q55215630",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Lee Cronin",
+        "qid": "Q55215630",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Stephen McKeon",
+        "qid": "Q7609965",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alyssa Sutherland",
+        "qid": "Q4738779",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lily Sullivan",
+        "qid": "Q19662510",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Morgan Davies",
+        "qid": "Q6911944",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mirabai Pease",
+        "qid": "Q131283329",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "evil-dead-burn",
+    "title": "Evil Dead Burn",
+    "sort_title": null,
+    "type": "film",
+    "universe": "evil-dead",
+    "continuity": "evil-dead-rise",
+    "studio_brand": "warner-bros-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Evil Dead Burn",
+      "wikidata": "Q132731331",
+      "tmdb": "1212763",
+      "imdb": "tt31170389"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Evil_Dead_Burn",
+      "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Burn&oldid=1387494528"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "evil-dead-burn",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 110,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Evil Dead Rise",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It serves as a sequel to Evil Dead Rise (2023) No setting year given; follows Rise.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-07-10",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: Infobox: July 10, 2026"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Evil_Dead_Burn",
+          "https://en.wikipedia.org/w/index.php?title=Evil_Dead_Burn&oldid=1387494528"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "evil-dead-rise",
+        "kind": "continues",
+        "note": "sequel to Evil Dead Rise"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Sébastien Vaniček",
+        "qid": "Q123371488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Sébastien Vaniček",
+        "qid": "Q123371488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Florent Bernard",
+        "qid": "Q19955870",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sam Raimi",
+        "qid": "Q275402",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rob Tapert",
+        "qid": "Q1336149",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Souheila Yacoub",
+        "qid": "Q3491566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hunter Doohan",
+        "qid": "Q112144155",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luciane Buchanan",
+        "qid": "Q47536762",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tandi Wright",
+        "qid": "Q7682451",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Pullar",
+        "qid": "Q60736582",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

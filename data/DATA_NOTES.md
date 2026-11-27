@@ -899,3 +899,13 @@ Optional `data/<universe>/maps.json` (schema `WorldMap` in `src/domain/schema.ts
 - **Spider-Verse.** Sony's animated films only; Marvel live-action Spider-Man stays in the Marvel universe. Beyond the Spider-Verse is excluded (June 2027).
 - **Invincible.** The series plus the Atom Eve special (before season 2, inferred). The comic is separate.
 - **Hellboy.** The del Toro films, the 2019 reboot, The Crooked Man (the "second reboot"; 1959 is stated) and the animated films are each their own continuity.
+
+## Wave 6: horror (2026-11-28)
+
+- **Scream.** The seven films are one continuity (years from the stated anniversaries). The MTV series is "not canon to the films". Its third season ("rebooting the series… new timeline") is a separate continuity.
+- **Saw.** Follows the franchise's story chronology table (Saw X between Saw and Saw II). Jigsaw is disputed (a cited Entertainment Weekly piece puts it first).
+- **Evil Dead.** The Ash films plus Ash vs Evil Dead form one continuity. The 2013 "soft reboot" is separate, linked as `reboot-of` (Wikipedia also calls it "a continuation"). Rise and Burn are their own continuity.
+- **Friday the 13th.** The twelve films plus Crystal Lake (a 1972 prequel) are one continuity. The 2009 film "restarted the film series continuity". Years for Parts VI–VIII and later films are disputed: they come from categories only, and the series contradicts itself.
+- **Texas Chain Saw.** Four continuities, exactly as the franchise article tables them. The 1974 film sits in the original one, and the others link to it.
+- **Universal Monsters.** 1931–1955, release order, with sequels and crossovers as links.
+- **Studios.** For this batch, studios are the infobox distributors; production companies were not checked.

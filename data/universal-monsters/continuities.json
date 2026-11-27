@@ -1,0 +1,33 @@
+[
+  {
+    "id": "universal-monsters-classic",
+    "universe": "universal-monsters",
+    "name": "Universal Monsters (classic, 1931–1955)",
+    "short_name": "Universal Monsters",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Standalone collection of Universal's Dracula, Frankenstein, Mummy, Invisible Man and Wolf Man films with their sequels and crossovers. Several sub-series with loose, sometimes retconned links; ordered by release only. Wikipedia: \"Frankenstein Meets the Wolf Man … follows The Ghost of Frankenstein (1942) and The Wolf Man (1941), though with a number of retcons.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186"
+    ],
+    "notes": ""
+  }
+]

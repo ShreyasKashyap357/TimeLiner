@@ -1,0 +1,5764 @@
+[
+  {
+    "id": "dracula-1931",
+    "title": "Dracula",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dracula (1931 English-language film)",
+      "wikidata": "Q279378",
+      "tmdb": "138",
+      "imdb": "tt0021814"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+      "https://en.wikipedia.org/w/index.php?title=Dracula_(1931_English-language_film)&oldid=1388343413"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "dracula-1931",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 75,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Dracula is a 1931 American pre-Code vampire film directed and produced by Tod Browning from a screenplay written by Garrett Fort, and starring Bela Lugosi as Count Dracula. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1931-02-14",
+          "end_date": null,
+          "year": 1931,
+          "note": "Wikipedia: Infobox: February 12, 1931 (New York); February 14, 1931 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "https://en.wikipedia.org/w/index.php?title=Dracula_(1931_English-language_film)&oldid=1388343413"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Tod Browning",
+        "qid": "Q51476",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Karl Freund",
+        "qid": "Q62099",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Garrett Fort",
+        "qid": "Q5523889",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John L. Balderston",
+        "qid": "Q721191",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Tod Browning",
+        "qid": "Q51476",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Carl Laemmle Jr.",
+        "qid": "Q1039367",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Tod Browning",
+        "qid": "Q51476",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Philip Glass",
+        "qid": "Q189729",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bela Lugosi",
+        "qid": "Q34529",
+        "character": "Count Dracula",
+        "character_qid": "Q3266236",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Helen Chandler",
+        "qid": "Q273104",
+        "character": "Mina Harker",
+        "character_qid": "Q2570236",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Manners",
+        "qid": "Q359463",
+        "character": "Jonathan Harker",
+        "character_qid": "Q660377",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": "Renfield",
+        "character_qid": "Q1977348",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Van Sloan",
+        "qid": "Q1293958",
+        "character": "Abraham Van Helsing",
+        "character_qid": "Q1622359",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carla Laemmle",
+        "qid": "Q260337",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wyndham Standing",
+        "qid": "Q3570220",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dorothy Tree",
+        "qid": "Q3037190",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Herbert Bunston",
+        "qid": "Q16026139",
+        "character": "John Seward",
+        "character_qid": "Q2970639",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frances Dade",
+        "qid": "Q5478594",
+        "character": "Lucy Westenra",
+        "character_qid": "Q2404481",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joan Standing",
+        "qid": "Q4444787",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles K. Gerrard",
+        "qid": "Q5079648",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tod Browning",
+        "qid": "Q51476",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Florence Wix",
+        "qid": "Q19600406",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John George",
+        "qid": "Q6235082",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "frankenstein-1931",
+    "title": "Frankenstein",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Frankenstein (1931 film)",
+      "wikidata": "Q546829",
+      "tmdb": "3035",
+      "imdb": "tt0021884"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+      "https://en.wikipedia.org/w/index.php?title=Frankenstein_(1931_film)&oldid=1387296905"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "frankenstein-1931",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 71,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Frankenstein is a 1931 American pre-Code horror film directed by James Whale and produced by Carl Laemmle Jr.. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1931-11-21",
+          "end_date": null,
+          "year": 1931,
+          "note": "Wikipedia: Infobox: November 21, 1931"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "https://en.wikipedia.org/w/index.php?title=Frankenstein_(1931_film)&oldid=1387296905"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Whale",
+        "qid": "Q381831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John L. Balderston",
+        "qid": "Q721191",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Francis Edward Faragoh",
+        "qid": "Q1310292",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Robert Florey",
+        "qid": "Q1349886",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Russell",
+        "qid": "Q3809592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Carl Laemmle Jr.",
+        "qid": "Q1039367",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Bernhard Kaun",
+        "qid": "Q825410",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colin Clive",
+        "qid": "Q445538",
+        "character": "Victor Frankenstein",
+        "character_qid": "Q2320164",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mae Clarke",
+        "qid": "Q435532",
+        "character": "Elizabeth Lavenza",
+        "character_qid": "Q5363105",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Boles",
+        "qid": "Q327130",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Van Sloan",
+        "qid": "Q1293958",
+        "character": "Doctor Waldman",
+        "character_qid": "Q5287408",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": "Fritz",
+        "character_qid": "Q5504844",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Belmore",
+        "qid": "Q434901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frederick Kerr",
+        "qid": "Q3752739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Francis Ford",
+        "qid": "Q1361838",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Panzer",
+        "qid": "Q70692",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marilyn Harris",
+        "qid": "Q6763544",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Soledad Jiménez",
+        "qid": "Q28065172",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-mummy-1932",
+    "title": "The Mummy",
+    "sort_title": "Mummy",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mummy (1932 film)",
+      "wikidata": "Q909071",
+      "tmdb": "15849",
+      "imdb": "tt0023245"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mummy_(1932_film)",
+      "https://en.wikipedia.org/w/index.php?title=The_Mummy_(1932_film)&oldid=1385985809"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-mummy-1932",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 73,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Released by Universal Studios as a part of the Universal Monsters franchise, the pre-Code film features Karloff as Imhotep, an ancient Egyptian mummy who was killed for attempting to resurrect his dead lover, Anck-es-en-Amon. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1932-12-22",
+          "end_date": null,
+          "year": 1932,
+          "note": "Wikipedia: Infobox: December 22, 1932"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mummy_(1932_film)",
+          "https://en.wikipedia.org/w/index.php?title=The_Mummy_(1932_film)&oldid=1385985809"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Karl Freund",
+        "qid": "Q62099",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John L. Balderston",
+        "qid": "Q721191",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Nina Wilcox Putnam",
+        "qid": "Q7038163",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Richard Schayer",
+        "qid": "Q3431196",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Carl Laemmle Jr.",
+        "qid": "Q1039367",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Stanley Bergerman",
+        "qid": "Q62993899",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": "Imhotep",
+        "character_qid": "Q936278",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Manners",
+        "qid": "Q359463",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Van Sloan",
+        "qid": "Q1293958",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noble Johnson",
+        "qid": "Q1308273",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leonard Mudie",
+        "qid": "Q3830310",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zita Johann",
+        "qid": "Q206141",
+        "character": "Anck-Su-Namun",
+        "character_qid": "Q50111456",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arthur Byron",
+        "qid": "Q708804",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bramwell Fletcher",
+        "qid": "Q523390",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wild Bill Elliott",
+        "qid": "Q374721",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Henry Victor",
+        "qid": "Q382045",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eddie Kane",
+        "qid": "Q5336180",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Gray",
+        "qid": "Q61455060",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Florence Britton",
+        "qid": "Q110693793",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leyland Hodgson",
+        "qid": "Q14654489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "C. Montague Shaw",
+        "qid": "Q5006717",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Pat Somerset",
+        "qid": "Q88425837",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-invisible-man-1933",
+    "title": "The Invisible Man",
+    "sort_title": "Invisible Man",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Invisible Man (1933 film)",
+      "wikidata": "Q135932",
+      "tmdb": "10787",
+      "imdb": "tt0024184"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)",
+      "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_(1933_film)&oldid=1383817890"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-invisible-man-1933",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 71,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The Invisible Man is a 1933 pre-Code American science fiction horror film directed by James Whale loosely based on H. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1933-10-31",
+          "end_date": null,
+          "year": 1933,
+          "note": "Wikipedia: Infobox: October 31, 1933 (Greeley, Colorado); Greeley"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)",
+          "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_(1933_film)&oldid=1383817890"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Whale",
+        "qid": "Q381831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "R. C. Sherriff",
+        "qid": "Q941966",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Philip Wylie",
+        "qid": "Q675396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Preston Sturges",
+        "qid": "Q546204",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "H. G. Wells",
+        "qid": "Q42511",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Whale",
+        "qid": "Q381831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Carl Laemmle Jr.",
+        "qid": "Q1039367",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Heinz Eric Roemheld",
+        "qid": "Q453461",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Claude Rains",
+        "qid": "Q318734",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gloria Stuart",
+        "qid": "Q189407",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Henry Travers",
+        "qid": "Q960050",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Una O'Connor",
+        "qid": "Q448534",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Forrester Harvey",
+        "qid": "Q3077698",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Holmes Herbert",
+        "qid": "Q1344901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "E. E. Clive",
+        "qid": "Q556552",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dudley Digges",
+        "qid": "Q2743601",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Harrigan",
+        "qid": "Q3568682",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Carradine",
+        "qid": "Q312878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Walter Brennan",
+        "qid": "Q219521",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jameson Thomas",
+        "qid": "Q1681350",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leo White",
+        "qid": "Q1383202",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mary Gordon",
+        "qid": "Q467968",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emma Tansey",
+        "qid": "Q15939216",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bob Reeves",
+        "qid": "Q17413878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Crauford Kent",
+        "qid": "Q5182696",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "bride-of-frankenstein",
+    "title": "Bride of Frankenstein",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Bride of Frankenstein",
+      "wikidata": "Q875904",
+      "tmdb": "229",
+      "imdb": "tt0026138"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+      "https://en.wikipedia.org/w/index.php?title=Bride_of_Frankenstein&oldid=1387873095"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "bride-of-frankenstein",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 78,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Bride of Frankenstein is a 1935 American horror film as well as the first sequel to Universal Pictures' 1931 film Frankenstein. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1935-04-20",
+          "end_date": null,
+          "year": 1935,
+          "note": "Wikipedia: Infobox: April 19, 1935 (San Francisco); April 20, 1935 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "https://en.wikipedia.org/w/index.php?title=Bride_of_Frankenstein&oldid=1387873095"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "frankenstein-1931",
+        "kind": "continues",
+        "note": "first sequel to Frankenstein"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Whale",
+        "qid": "Q381831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John L. Balderston",
+        "qid": "Q721191",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Carl Laemmle Jr.",
+        "qid": "Q1039367",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Franz Waxman",
+        "qid": "Q213611",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elsa Lanchester",
+        "qid": "Q233009",
+        "character": "Bride of Frankenstein",
+        "character_qid": "Q13512240",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colin Clive",
+        "qid": "Q445538",
+        "character": "Victor Frankenstein",
+        "character_qid": "Q2320164",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Valerie Hobson",
+        "qid": "Q437157",
+        "character": "Elizabeth Lavenza",
+        "character_qid": "Q5363105",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gavin Gordon",
+        "qid": "Q3758989",
+        "character": "Lord Byron",
+        "character_qid": "Q5679",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Una O'Connor",
+        "qid": "Q448534",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ernest Thesiger",
+        "qid": "Q120215",
+        "character": "Doctor Septimus Pretorius",
+        "character_qid": "Q5287382",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "E. E. Clive",
+        "qid": "Q556552",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "O.P. Heggie",
+        "qid": "Q2007296",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Douglas Walton",
+        "qid": "Q15999694",
+        "character": "Percy Bysshe Shelley",
+        "character_qid": "Q93343",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mary Gordon",
+        "qid": "Q467968",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joan Woodbury",
+        "qid": "Q3179630",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tempe Pigott",
+        "qid": "Q3517461",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Reginald Barlow",
+        "qid": "Q3423495",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John George",
+        "qid": "Q6235082",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "draculas-daughter",
+    "title": "Dracula's Daughter",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dracula's Daughter",
+      "wikidata": "Q282276",
+      "tmdb": "22440",
+      "imdb": "tt0027545"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dracula's_Daughter",
+      "https://en.wikipedia.org/w/index.php?title=Dracula's_Daughter&oldid=1387215060"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "draculas-daughter",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 71,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Dracula's Daughter is a 1936 American vampire film produced by Universal Pictures as a sequel to the 1931 film Dracula. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1936-05-11",
+          "end_date": null,
+          "year": 1936,
+          "note": "Wikipedia: Infobox: May 11, 1936"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dracula's_Daughter",
+          "https://en.wikipedia.org/w/index.php?title=Dracula's_Daughter&oldid=1387215060"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dracula-1931",
+        "kind": "continues",
+        "note": "sequel to Dracula"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Lambert Hillyer",
+        "qid": "Q542941",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David O. Selznick",
+        "qid": "Q72291",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Heinz Eric Roemheld",
+        "qid": "Q453461",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Otto Kruger",
+        "qid": "Q204013",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gloria Holden",
+        "qid": "Q263215",
+        "character": "Countess Marya Zaleska",
+        "character_qid": "Q130294344",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marguerite Churchill",
+        "qid": "Q3290693",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Van Sloan",
+        "qid": "Q1293958",
+        "character": "Abraham Van Helsing",
+        "character_qid": "Q1622359",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gilbert Emery",
+        "qid": "Q3105707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Irving Pichel",
+        "qid": "Q1668336",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nan Grey",
+        "qid": "Q4111649",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hedda Hopper",
+        "qid": "Q271324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Fred Walton",
+        "qid": "Q3752667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Halliwell Hobbes",
+        "qid": "Q3126164",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "E. E. Clive",
+        "qid": "Q556552",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Billy Bevan",
+        "qid": "Q530562",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bert Sprotte",
+        "qid": "Q2899210",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Christian Rub",
+        "qid": "Q2481772",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Claud Allister",
+        "qid": "Q2976624",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edgar Norton",
+        "qid": "Q18360289",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eily Malyon",
+        "qid": "Q3049429",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elsa Janssen",
+        "qid": "Q3051723",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hedwiga Reicher",
+        "qid": "Q5697764",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Weigel",
+        "qid": "Q946153",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Douglas Wood",
+        "qid": "Q19872703",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vernon Steele",
+        "qid": "Q7922239",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "son-of-frankenstein",
+    "title": "Son of Frankenstein",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Son of Frankenstein",
+      "wikidata": "Q1077374",
+      "tmdb": "3077",
+      "imdb": "tt0031951"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Son_of_Frankenstein",
+      "https://en.wikipedia.org/w/index.php?title=Son_of_Frankenstein&oldid=1384714263"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "son-of-frankenstein",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 99,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The film is the third in Universal Pictures' Frankenstein series and is the follow-up to the 1935 film Bride of Frankenstein. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1939-01-13",
+          "end_date": null,
+          "year": 1939,
+          "note": "Wikipedia: Infobox: January 13, 1939"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Son_of_Frankenstein",
+          "https://en.wikipedia.org/w/index.php?title=Son_of_Frankenstein&oldid=1384714263"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "bride-of-frankenstein",
+        "kind": "continues",
+        "note": "follow-up to Bride of Frankenstein"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Rowland V. Lee",
+        "qid": "Q618330",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Wyllis Cooper",
+        "qid": "Q8039957",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Rowland V. Lee",
+        "qid": "Q618330",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Frank Skinner",
+        "qid": "Q165686",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Basil Rathbone",
+        "qid": "Q336865",
+        "character": "Wolf Frankenstein",
+        "character_qid": "Q15260358",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bela Lugosi",
+        "qid": "Q34529",
+        "character": "Igor",
+        "character_qid": "Q3071490",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Atwill",
+        "qid": "Q575668",
+        "character": "Inspector Krogh",
+        "character_qid": "Q16566568",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Josephine Hutchinson",
+        "qid": "Q932792",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emma Dunn",
+        "qid": "Q458513",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Grant",
+        "qid": "Q1809184",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Belmore",
+        "qid": "Q434901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Donnie Dunagan",
+        "qid": "Q3036807",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Clarence Wilson",
+        "qid": "Q2975587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edgar Norton",
+        "qid": "Q18360289",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gustav von Seyffertitz",
+        "qid": "Q73168",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ward Bond",
+        "qid": "Q1280760",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-invisible-man-returns",
+    "title": "The Invisible Man Returns",
+    "sort_title": "Invisible Man Returns",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Invisible Man Returns",
+      "wikidata": "Q1197712",
+      "tmdb": "28421",
+      "imdb": "tt0032635"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Invisible_Man_Returns",
+      "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_Returns&oldid=1383823346"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-invisible-man-returns",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 81,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The film is a sequel to the 1933 film The Invisible Man, and the second film in the Invisible Man film series, loosely based on the novel by H. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1940-01-12",
+          "end_date": null,
+          "year": 1940,
+          "note": "Wikipedia: Infobox: January 12, 1940"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Invisible_Man_Returns",
+          "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man_Returns&oldid=1383823346"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-invisible-man-1933",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Joe May",
+        "qid": "Q85134",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Curt Siodmak",
+        "qid": "Q77489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "H. G. Wells",
+        "qid": "Q42511",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Lester Cole",
+        "qid": "Q3236786",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Ken Goldsmith",
+        "qid": "Q126080756",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cedric Hardwicke",
+        "qid": "Q527735",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vincent Price",
+        "qid": "Q219640",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nan Grey",
+        "qid": "Q4111649",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cecil Kellaway",
+        "qid": "Q891104",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alan Napier",
+        "qid": "Q373306",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Sutton",
+        "qid": "Q1701859",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Forrester Harvey",
+        "qid": "Q3077698",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Billy Bevan",
+        "qid": "Q530562",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jimmy Aubrey",
+        "qid": "Q3179007",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mary Gordon",
+        "qid": "Q467968",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colin Kenny",
+        "qid": "Q2982621",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jean Brooks",
+        "qid": "Q1089513",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Lester",
+        "qid": "Q2926439",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frank Hagney",
+        "qid": "Q5487056",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frank O'Connor",
+        "qid": "Q3082744",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mary Field",
+        "qid": "Q3296176",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rex Evans",
+        "qid": "Q16233032",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Fielding",
+        "qid": "Q16064063",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-mummys-hand",
+    "title": "The Mummy's Hand",
+    "sort_title": "Mummy's Hand",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mummy's Hand",
+      "wikidata": "Q2720955",
+      "tmdb": "31498",
+      "imdb": "tt0032818"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mummy's_Hand",
+      "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Hand&oldid=1380351967"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-mummys-hand",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 67,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Shot in black-and-white, the film is about the ancient Egyptian mummy of Kharis (Tom Tyler), who is kept alive with a brew of tana leaves by The High Priest (Eduardo Ciannelli) and his successor Andoheb (George Zucco). No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1940-09-20",
+          "end_date": null,
+          "year": 1940,
+          "note": "Wikipedia: Infobox: September 20, 1940"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mummy's_Hand",
+          "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Hand&oldid=1380351967"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Christy Cabanne",
+        "qid": "Q1993804",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Maxwell Shane",
+        "qid": "Q3853145",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dick Foran",
+        "qid": "Q1209649",
+        "character": "Steve Banning",
+        "character_qid": "Q124246018",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peggy Moran",
+        "qid": "Q7160703",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wallace Ford",
+        "qid": "Q1704485",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cecil Kellaway",
+        "qid": "Q891104",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eduardo Ciannelli",
+        "qid": "Q945605",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Zucco",
+        "qid": "Q1508673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Tyler",
+        "qid": "Q1375849",
+        "character": "Kharis",
+        "character_qid": "Q3196086",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles Trowbridge",
+        "qid": "Q2960351",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leon Belasco",
+        "qid": "Q6524510",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sig Arno",
+        "qid": "Q95444",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Mark",
+        "qid": "Q6832529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Murdock MacQuarrie",
+        "qid": "Q3328076",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ken Terrell",
+        "qid": "Q6388600",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-invisible-woman",
+    "title": "The Invisible Woman",
+    "sort_title": "Invisible Woman",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Invisible Woman (1940 film)",
+      "wikidata": "Q1219687",
+      "tmdb": "28423",
+      "imdb": "tt0032637"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Invisible_Woman_(1940_film)",
+      "https://en.wikipedia.org/w/index.php?title=The_Invisible_Woman_(1940_film)&oldid=1339369751"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-invisible-woman",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 70,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the third film in Universal Pictures' The Invisible Man film series, following 1933's The Invisible Man and The Invisible Man Returns, which was released earlier in the year. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1940-12-27",
+          "end_date": null,
+          "year": 1940,
+          "note": "Wikipedia: Infobox: December 27, 1940"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Invisible_Woman_(1940_film)",
+          "https://en.wikipedia.org/w/index.php?title=The_Invisible_Woman_(1940_film)&oldid=1339369751"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-invisible-man-returns",
+        "kind": "continues",
+        "note": "third film in the Invisible Man series"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "A. Edward Sutherland",
+        "qid": "Q278657",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Robert Lees",
+        "qid": "Q3435723",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Frank Skinner",
+        "qid": "Q165686",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Virginia Bruce",
+        "qid": "Q242462",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Barrymore",
+        "qid": "Q95034",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Howard",
+        "qid": "Q3181785",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles Ruggles",
+        "qid": "Q934722",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Oskar Homolka",
+        "qid": "Q79044",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Brophy",
+        "qid": "Q987741",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Margaret Hamilton",
+        "qid": "Q257756",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kathryn Adams",
+        "qid": "Q391601",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Maria Montez",
+        "qid": "Q296283",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles Lane",
+        "qid": "Q634150",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thurston Hall",
+        "qid": "Q3526153",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Donald MacBride",
+        "qid": "Q3036047",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shemp Howard",
+        "qid": "Q1287517",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-wolf-man-1941",
+    "title": "The Wolf Man",
+    "sort_title": "Wolf Man",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Wolf Man (1941 film)",
+      "wikidata": "Q431873",
+      "tmdb": "13666",
+      "imdb": "tt0034398"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Wolf_Man_(1941_film)",
+      "https://en.wikipedia.org/w/index.php?title=The_Wolf_Man_(1941_film)&oldid=1383817373"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-wolf-man-1941",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 70,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The Wolf Man is a 1941 American Gothic horror film written by Curt Siodmak and produced and directed by George Waggner. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1941-12-12",
+          "end_date": null,
+          "year": 1941,
+          "note": "Wikipedia: Infobox: December 9, 1941 (United States); December 12, 1941 (United Kingdom)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Wolf_Man_(1941_film)",
+          "https://en.wikipedia.org/w/index.php?title=The_Wolf_Man_(1941_film)&oldid=1383817373"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "George Waggner",
+        "qid": "Q3101978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Curt Siodmak",
+        "qid": "Q77489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "George Waggner",
+        "qid": "Q3101978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charles Previn",
+        "qid": "Q1065815",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Larry Talbot",
+        "character_qid": "Q4006190",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Claude Rains",
+        "qid": "Q318734",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Warren William",
+        "qid": "Q950857",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ralph Bellamy",
+        "qid": "Q364135",
+        "character": "Captain Paul Montford",
+        "character_qid": "Q5036762",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Patric Knowles",
+        "qid": "Q206113",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bela Lugosi",
+        "qid": "Q34529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Maria Ouspenskaya",
+        "qid": "Q255808",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Evelyn Ankers",
+        "qid": "Q443538",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. M. Kerrigan",
+        "qid": "Q967922",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Forrester Harvey",
+        "qid": "Q3077698",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Doris Lloyd",
+        "qid": "Q3037066",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-ghost-of-frankenstein",
+    "title": "The Ghost of Frankenstein",
+    "sort_title": "Ghost of Frankenstein",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Ghost of Frankenstein",
+      "wikidata": "Q1444710",
+      "tmdb": "3074",
+      "imdb": "tt0034786"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Ghost_of_Frankenstein",
+      "https://en.wikipedia.org/w/index.php?title=The_Ghost_of_Frankenstein&oldid=1379672286"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-ghost-of-frankenstein",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 67,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the fourth film in the Frankenstein series by Universal Pictures, and the follow-up to Son of Frankenstein (1939). No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1942-03-13",
+          "end_date": null,
+          "year": 1942,
+          "note": "Wikipedia: Infobox: March 13, 1942"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Ghost_of_Frankenstein",
+          "https://en.wikipedia.org/w/index.php?title=The_Ghost_of_Frankenstein&oldid=1379672286"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "son-of-frankenstein",
+        "kind": "continues",
+        "note": "follow-up to Son of Frankenstein"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Erle C. Kenton",
+        "qid": "Q219499",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Scott Darling",
+        "qid": "Q3476195",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "George Waggner",
+        "qid": "Q3101978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cedric Hardwicke",
+        "qid": "Q527735",
+        "character": "Ludwig Frankenstein / Victor Frankenstein",
+        "character_qid": "Q24904672",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bela Lugosi",
+        "qid": "Q34529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ralph Bellamy",
+        "qid": "Q364135",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Atwill",
+        "qid": "Q575668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Evelyn Ankers",
+        "qid": "Q443538",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Holmes Herbert",
+        "qid": "Q1344901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Doris Lloyd",
+        "qid": "Q3037066",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Olaf Hytten",
+        "qid": "Q7082960",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Smith",
+        "qid": "Q975046",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colin Clive",
+        "qid": "Q445538",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brandon Hurst",
+        "qid": "Q650815",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Alexander",
+        "qid": "Q3430461",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harry Tenbrook",
+        "qid": "Q3127927",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Eldredge",
+        "qid": "Q5538943",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Belmore",
+        "qid": "Q434901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Grant",
+        "qid": "Q1809184",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "invisible-agent",
+    "title": "Invisible Agent",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Invisible Agent",
+      "wikidata": "Q1199739",
+      "tmdb": "28426",
+      "imdb": "tt0034902"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Invisible_Agent",
+      "https://en.wikipedia.org/w/index.php?title=Invisible_Agent&oldid=1362940357"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "invisible-agent",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 79,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The film is inspired by the 1897 H. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1942-07-31",
+          "end_date": null,
+          "year": 1942,
+          "note": "Wikipedia: Infobox: July 31, 1942"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Invisible_Agent",
+          "https://en.wikipedia.org/w/index.php?title=Invisible_Agent&oldid=1362940357"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Edwin L. Marin",
+        "qid": "Q920059",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Curt Siodmak",
+        "qid": "Q77489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Lloyd",
+        "qid": "Q28941",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ilona Massey",
+        "qid": "Q459926",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jon Hall",
+        "qid": "Q585953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Lorre",
+        "qid": "Q78505",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cedric Hardwicke",
+        "qid": "Q527735",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Albert Bassermann",
+        "qid": "Q64150",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Keye Luke",
+        "qid": "Q609316",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wolfgang Zilzer",
+        "qid": "Q108479",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Holmes Herbert",
+        "qid": "Q1344901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. Edward Bromberg",
+        "qid": "Q3156798",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Litel",
+        "qid": "Q3181945",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-mummys-tomb",
+    "title": "The Mummy's Tomb",
+    "sort_title": "Mummy's Tomb",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mummy's Tomb",
+      "wikidata": "Q2549036",
+      "tmdb": "29239",
+      "imdb": "tt0035096"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mummy's_Tomb",
+      "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Tomb&oldid=1344660508"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-mummys-tomb",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 61,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Taking place 30 years after the events of The Mummy's Hand, where Andoheb (George Zucco) has survived and plans revenge on Stephen Banning (Dick Foran) and his entire family in Mapleton, Massachusetts. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1942-10-23",
+          "end_date": null,
+          "year": 1942,
+          "note": "Wikipedia: Infobox: October 23, 1942"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mummy's_Tomb",
+          "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Tomb&oldid=1344660508"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-mummys-hand",
+        "kind": "continues",
+        "note": "30 years after The Mummy's Hand"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Harold Young",
+        "qid": "Q3127658",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Kharis",
+        "character_qid": "Q3196086",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dick Foran",
+        "qid": "Q1209649",
+        "character": "Steve Banning",
+        "character_qid": "Q124246018",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Hubbard",
+        "qid": "Q3181788",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Turhan Bey",
+        "qid": "Q78763",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elyse Knox",
+        "qid": "Q457657",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Zucco",
+        "qid": "Q1508673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mary Gordon",
+        "qid": "Q467968",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Virginia Brissac",
+        "qid": "Q3560666",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wallace Ford",
+        "qid": "Q1704485",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "frankenstein-meets-the-wolf-man",
+    "title": "Frankenstein Meets the Wolf Man",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Frankenstein Meets the Wolf Man",
+      "wikidata": "Q1444712",
+      "tmdb": "3076",
+      "imdb": "tt0035899"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frankenstein_Meets_the_Wolf_Man",
+      "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "frankenstein-meets-the-wolf-man",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 74,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The script, written by Curt Siodmak, follows The Ghost of Frankenstein (1942) and The Wolf Man (1941), though with a number of retcons. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1943-03-12",
+          "end_date": null,
+          "year": 1943,
+          "note": "Wikipedia: Infobox: March 5, 1943 (New York); March 12, 1943 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Frankenstein_Meets_the_Wolf_Man",
+          "https://en.wikipedia.org/w/index.php?title=Frankenstein_Meets_the_Wolf_Man&oldid=1382324186"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-ghost-of-frankenstein",
+        "kind": "crossover",
+        "note": "follows The Ghost of Frankenstein"
+      },
+      {
+        "to": "the-wolf-man-1941",
+        "kind": "crossover",
+        "note": "follows The Wolf Man, with retcons"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Roy William Neill",
+        "qid": "Q2485848",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Curt Siodmak",
+        "qid": "Q77489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "George Waggner",
+        "qid": "Q3101978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Larry Talbot",
+        "character_qid": "Q4006190",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ilona Massey",
+        "qid": "Q459926",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Patric Knowles",
+        "qid": "Q206113",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Atwill",
+        "qid": "Q575668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bela Lugosi",
+        "qid": "Q34529",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Maria Ouspenskaya",
+        "qid": "Q255808",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dennis Hoey",
+        "qid": "Q3023171",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Don Barclay",
+        "qid": "Q382464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dwight Frye",
+        "qid": "Q940662",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cyril Delevanti",
+        "qid": "Q5158665",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Corey",
+        "qid": "Q448430",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Martha Vickers",
+        "qid": "Q468084",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rex Evans",
+        "qid": "Q16233032",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lance Fuller",
+        "qid": "Q1801799",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "son-of-dracula",
+    "title": "Son of Dracula",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Son of Dracula (1943 film)",
+      "wikidata": "Q646187",
+      "tmdb": "32023",
+      "imdb": "tt0036376"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Son_of_Dracula_(1943_film)",
+      "https://en.wikipedia.org/w/index.php?title=Son_of_Dracula_(1943_film)&oldid=1383134804"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "son-of-dracula",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 80,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Son of Dracula is a 1943 American horror film directed by Robert Siodmak with a screenplay based on an original story by his brother Curt Siodmak. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1943-10-30",
+          "end_date": null,
+          "year": 1943,
+          "note": "Wikipedia: Infobox: Film date|df=yes|1943|10|20|Cine Olimpia, Mexico City|1943|10|30|United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Son_of_Dracula_(1943_film)",
+          "https://en.wikipedia.org/w/index.php?title=Son_of_Dracula_(1943_film)&oldid=1383134804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Robert Siodmak",
+        "qid": "Q51498",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Curt Siodmak",
+        "qid": "Q77489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Ford Beebe",
+        "qid": "Q3077064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Count Alucard",
+        "character_qid": "Q5176636",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Paige",
+        "qid": "Q4347997",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Evelyn Ankers",
+        "qid": "Q443538",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adeline De Walt Reynolds",
+        "qid": "Q3605193",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Samuel S. Hinds",
+        "qid": "Q2750248",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Irving",
+        "qid": "Q152941",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Dudley",
+        "qid": "Q7343666",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Etta McDaniel",
+        "qid": "Q3059381",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Walter Sande",
+        "qid": "Q5421985",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frank Craven",
+        "qid": "Q3082561",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. Edward Bromberg",
+        "qid": "Q3156798",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Louise Allbritton",
+        "qid": "Q15060610",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-invisible-mans-revenge",
+    "title": "The Invisible Man's Revenge",
+    "sort_title": "Invisible Man's Revenge",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Invisible Man's Revenge",
+      "wikidata": "Q976139",
+      "tmdb": "28425",
+      "imdb": "tt0036959"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Invisible_Man's_Revenge",
+      "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man's_Revenge&oldid=1360208593"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-invisible-mans-revenge",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 75,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the fifth film in the Invisible Man film series, loosely based on the novel by H. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1944-06-09",
+          "end_date": null,
+          "year": 1944,
+          "note": "Wikipedia: Infobox: June 9, 1944"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Invisible_Man's_Revenge",
+          "https://en.wikipedia.org/w/index.php?title=The_Invisible_Man's_Revenge&oldid=1360208593"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-invisible-man-1933",
+        "kind": "continues",
+        "note": "fifth film in the Invisible Man series"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Ford Beebe",
+        "qid": "Q3077064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "H. G. Wells",
+        "qid": "Q42511",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Ford Beebe",
+        "qid": "Q3077064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jon Hall",
+        "qid": "Q585953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Carradine",
+        "qid": "Q312878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Evelyn Ankers",
+        "qid": "Q443538",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gale Sondergaard",
+        "qid": "Q233845",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alan Curtis",
+        "qid": "Q1382576",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lester Matthews",
+        "qid": "Q249968",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Halliwell Hobbes",
+        "qid": "Q3126164",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Doris Lloyd",
+        "qid": "Q3037066",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Wolfe",
+        "qid": "Q346833",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Billy Bevan",
+        "qid": "Q530562",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mildred Dunnock",
+        "qid": "Q271890",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arthur Gould-Porter",
+        "qid": "Q709552",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Beatrice Roberts",
+        "qid": "Q542247",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leon Errol",
+        "qid": "Q6524628",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Skelton Knaggs",
+        "qid": "Q7534529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jimmy Aubrey",
+        "qid": "Q3179007",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dan White",
+        "qid": "Q3013243",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-mummys-ghost",
+    "title": "The Mummy's Ghost",
+    "sort_title": "Mummy's Ghost",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mummy's Ghost",
+      "wikidata": "Q2549045",
+      "tmdb": "29243",
+      "imdb": "tt0037099"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mummy's_Ghost",
+      "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Ghost&oldid=1380351840"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-mummys-ghost",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 61,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the second of three sequels to The Mummy's Hand (1940), following The Mummy's Tomb (1942) and preceding The Mummy's Curse (1944). No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1944-06-30",
+          "end_date": null,
+          "year": 1944,
+          "note": "Wikipedia: Infobox: June 30, 1944 (New York)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mummy's_Ghost",
+          "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Ghost&oldid=1380351840"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-mummys-tomb",
+        "kind": "continues",
+        "note": "second of three sequels to The Mummy's Hand"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Reginald LeBorg",
+        "qid": "Q86685",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Frank Skinner",
+        "qid": "Q165686",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Kharis",
+        "character_qid": "Q3196086",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Carradine",
+        "qid": "Q312878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Lowery",
+        "qid": "Q3078072",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ramsay Ames",
+        "qid": "Q4064257",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Barton MacLane",
+        "qid": "Q577621",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frank Reicher",
+        "qid": "Q1307857",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Claire Whitney",
+        "qid": "Q3678983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Zucco",
+        "qid": "Q1508673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harry Shannon",
+        "qid": "Q3127914",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Oscar O'Shea",
+        "qid": "Q4340934",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emmett Vogan",
+        "qid": "Q5373573",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Martha Vickers",
+        "qid": "Q468084",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steve Barclay",
+        "qid": "Q1445597",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eddy Waller",
+        "qid": "Q5336701",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bess Flowers",
+        "qid": "Q513849",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ivan Triesault",
+        "qid": "Q1675623",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Rockwell",
+        "qid": "Q19866991",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Desmond",
+        "qid": "Q507344",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-mummys-curse",
+    "title": "The Mummy's Curse",
+    "sort_title": "Mummy's Curse",
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Mummy's Curse",
+      "wikidata": "Q2549022",
+      "tmdb": "29242",
+      "imdb": "tt0037098"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Mummy's_Curse",
+      "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Curse&oldid=1383035776"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "the-mummys-curse",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 61,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Produced by Universal Pictures, it is the fifth entry in Universal's original Mummy franchise, serving as a sequel to The Mummy's Ghost (1944). No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1944-12-22",
+          "end_date": null,
+          "year": 1944,
+          "note": "Wikipedia: Infobox: December 22, 1944"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Mummy's_Curse",
+          "https://en.wikipedia.org/w/index.php?title=The_Mummy's_Curse&oldid=1383035776"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-mummys-ghost",
+        "kind": "continues",
+        "note": "sequel to The Mummy's Ghost"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Leslie Goodwins",
+        "qid": "Q3236698",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Leon Abrams",
+        "qid": "Q18763696",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oliver Drake",
+        "qid": "Q774497",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "William Lava",
+        "qid": "Q2621011",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Kharis",
+        "character_qid": "Q3196086",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Virginia Christine",
+        "qid": "Q275543",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Addison Richards",
+        "qid": "Q353142",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Farnum",
+        "qid": "Q2251599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Al Ferguson",
+        "qid": "Q3607492",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Tyler",
+        "qid": "Q1375849",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Holmes Herbert",
+        "qid": "Q1344901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Martin Kosleck",
+        "qid": "Q114683",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dennis Moore",
+        "qid": "Q5258753",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ann Codee",
+        "qid": "Q4766328",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "house-of-frankenstein",
+    "title": "House of Frankenstein",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "House of Frankenstein (film)",
+      "wikidata": "Q1444746",
+      "tmdb": "3103",
+      "imdb": "tt0036931"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/House_of_Frankenstein_(film)",
+      "https://en.wikipedia.org/w/index.php?title=House_of_Frankenstein_(film)&oldid=1379829850"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "house-of-frankenstein",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 71,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Over the course of the film, they encounter Count Dracula, the Wolf Man (Larry Talbot), and Frankenstein's monster. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1945-02-16",
+          "end_date": null,
+          "year": 1945,
+          "note": "Wikipedia: Infobox: December 15, 1944 (New York City); February 16, 1945 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/House_of_Frankenstein_(film)",
+          "https://en.wikipedia.org/w/index.php?title=House_of_Frankenstein_(film)&oldid=1379829850"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "frankenstein-meets-the-wolf-man",
+        "kind": "crossover",
+        "note": "encounters Count Dracula, the Wolf Man and the Monster"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Erle C. Kenton",
+        "qid": "Q219499",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Curt Siodmak",
+        "qid": "Q77489",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Edward T. Lowe, Jr.",
+        "qid": "Q5345537",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Hans J. Salter",
+        "qid": "Q85707",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Paul Dessau",
+        "qid": "Q213613",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": "Gustav Niemann",
+        "character_qid": "Q105429",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Larry Talbot",
+        "character_qid": "Q4006190",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Carradine",
+        "qid": "Q312878",
+        "character": "Count Dracula",
+        "character_qid": "Q3266236",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn Strange",
+        "qid": "Q1368948",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. Carrol Naish",
+        "qid": "Q642876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anne Gwynne",
+        "qid": "Q3617943",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Atwill",
+        "qid": "Q575668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sig Ruman",
+        "qid": "Q67543",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Edmunds",
+        "qid": "Q6476470",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles Miller",
+        "qid": "Q3666566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frank Reicher",
+        "qid": "Q1307857",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Coe",
+        "qid": "Q2074382",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Zucco",
+        "qid": "Q1508673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gino Corrado",
+        "qid": "Q5563216",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elena Verdugo",
+        "qid": "Q3050734",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julius Tannen",
+        "qid": "Q607389",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brandon Hurst",
+        "qid": "Q650815",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles Wagenheim",
+        "qid": "Q1066372",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Lynn",
+        "qid": "Q16003718",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Philip Van Zandt",
+        "qid": "Q2464819",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edmund Cobb",
+        "qid": "Q3048088",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Belle Mitchell",
+        "qid": "Q4883660",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "house-of-dracula",
+    "title": "House of Dracula",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "House of Dracula",
+      "wikidata": "Q1254460",
+      "tmdb": "30793",
+      "imdb": "tt0037793"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/House_of_Dracula",
+      "https://en.wikipedia.org/w/index.php?title=House_of_Dracula&oldid=1347899129"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "house-of-dracula",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 67,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Kenton, the film features several Universal Horror properties meeting as they had done in the 1944 film House of Frankenstein. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1945-12-07",
+          "end_date": null,
+          "year": 1945,
+          "note": "Wikipedia: Infobox: December 7, 1945"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/House_of_Dracula",
+          "https://en.wikipedia.org/w/index.php?title=House_of_Dracula&oldid=1347899129"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "house-of-frankenstein",
+        "kind": "crossover",
+        "note": "several Universal Horror properties meeting as in House of Frankenstein"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Erle C. Kenton",
+        "qid": "Q219499",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Edward T. Lowe, Jr.",
+        "qid": "Q5345537",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Joseph E. Gershenson",
+        "qid": "Q1707096",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "William Lava",
+        "qid": "Q2621011",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Larry Talbot",
+        "character_qid": "Q4006190",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Carradine",
+        "qid": "Q312878",
+        "character": "Count Dracula",
+        "character_qid": "Q3266236",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Martha O'Driscoll",
+        "qid": "Q3076295",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lionel Atwill",
+        "qid": "Q575668",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Onslow Stevens",
+        "qid": "Q1673199",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn Strange",
+        "qid": "Q1368948",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boris Karloff",
+        "qid": "Q203219",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ludwig Stössel",
+        "qid": "Q86348",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Skelton Knaggs",
+        "qid": "Q7534529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "abbott-and-costello-meet-frankenstein",
+    "title": "Abbott and Costello Meet Frankenstein",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Abbott and Costello Meet Frankenstein",
+      "wikidata": "Q306791",
+      "tmdb": "3073",
+      "imdb": "tt0040068"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_Frankenstein",
+      "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_Frankenstein&oldid=1386134343"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "abbott-and-costello-meet-frankenstein",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 83,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Abbott and Costello Meet Frankenstein is a 1948 American horror comedy film directed by Charles Barton. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1948-06-25",
+          "end_date": null,
+          "year": 1948,
+          "note": "Wikipedia: Infobox: June 25, 1948"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_Frankenstein",
+          "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_Frankenstein&oldid=1386134343"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "house-of-dracula",
+        "kind": "crossover",
+        "note": "comedy crossover with Dracula, the Monster and the Wolf Man (not verified from article text)"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Charles Barton",
+        "qid": "Q769200",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Robert Lees",
+        "qid": "Q3435723",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Grant",
+        "qid": "Q6236039",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Robert Arthur",
+        "qid": "Q7341609",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Frank Skinner",
+        "qid": "Q165686",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lou Costello",
+        "qid": "Q23884",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bud Abbott",
+        "qid": "Q23888",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lon Chaney Jr.",
+        "qid": "Q318261",
+        "character": "Larry Talbot",
+        "character_qid": "Q4006190",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn Strange",
+        "qid": "Q1368948",
+        "character": "Frankenstein's monster",
+        "character_qid": "Q2021531",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bela Lugosi",
+        "qid": "Q34529",
+        "character": "Count Dracula",
+        "character_qid": "Q3266236",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jane Randolph",
+        "qid": "Q433583",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frank Ferguson",
+        "qid": "Q2093541",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vincent Price",
+        "qid": "Q219640",
+        "character": "Griffin",
+        "character_qid": "Q1423956",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bobby Barber",
+        "qid": "Q4934741",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Stader",
+        "qid": "Q16012701",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joe Kirk",
+        "qid": "Q6210701",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lenore Aubert",
+        "qid": "Q6523085",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "abbott-and-costello-meet-the-invisible-man",
+    "title": "Abbott and Costello Meet the Invisible Man",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Abbott and Costello Meet the Invisible Man",
+      "wikidata": "Q759335",
+      "tmdb": "33475",
+      "imdb": "tt0043255"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_the_Invisible_Man",
+      "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Invisible_Man&oldid=1383014964"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "abbott-and-costello-meet-the-invisible-man",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 79,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Abbott and Costello Meet the Invisible Man is a 1951 American science fiction comedy film directed by Charles Lamont and starring the team of Abbott and Costello alongside Nancy Guild. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1951-03-14",
+          "end_date": null,
+          "year": 1951,
+          "note": "Wikipedia: Infobox: March 14, 1951 (US)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_the_Invisible_Man",
+          "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Invisible_Man&oldid=1383014964"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Charles Lamont",
+        "qid": "Q1065270",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Grant",
+        "qid": "Q6236039",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Erich Zeisl",
+        "qid": "Q214385",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bud Abbott",
+        "qid": "Q23888",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lou Costello",
+        "qid": "Q23884",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nancy Guild",
+        "qid": "Q6962725",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arthur Franz",
+        "qid": "Q709403",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Balter",
+        "qid": "Q375858",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adele Jergens",
+        "qid": "Q354452",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sheldon Leonard",
+        "qid": "Q1545340",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Frawley",
+        "qid": "Q1290248",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gavin Muir",
+        "qid": "Q3099595",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harold Goodwin",
+        "qid": "Q3127608",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "abbott-and-costello-meet-the-mummy",
+    "title": "Abbott and Costello Meet the Mummy",
+    "sort_title": null,
+    "type": "film",
+    "universe": "universal-monsters",
+    "continuity": "universal-monsters-classic",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Abbott and Costello Meet the Mummy",
+      "wikidata": "Q306778",
+      "tmdb": "26661",
+      "imdb": "tt0047795"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_the_Mummy",
+      "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Mummy&oldid=1373646933"
+    ],
+    "notes": "Studio set to Universal Pictures for the whole collection; distributor fields not individually checked.",
+    "units": [
+      {
+        "id": "abbott-and-costello-meet-the-mummy",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 78,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "release order",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the sixth entry in Universal's original Mummy franchise and the 28th and final Abbott and Costello film produced by Universal-International. No in-universe dates sourced; the collection is ordered by release date (ordered_only). Quote is the article lead describing series relation.",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1955-04-16",
+          "end_date": null,
+          "year": 1955,
+          "note": "Wikipedia: Infobox: April 16, 1955 (Rantoul, Illinois)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_the_Mummy",
+          "https://en.wikipedia.org/w/index.php?title=Abbott_and_Costello_Meet_the_Mummy&oldid=1373646933"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-mummys-curse",
+        "kind": "continues",
+        "note": "\"sixth entry in Universal's original Mummy franchise\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Charles Lamont",
+        "qid": "Q1065270",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Joseph E. Gershenson",
+        "qid": "Q1707096",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bud Abbott",
+        "qid": "Q23888",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lou Costello",
+        "qid": "Q23884",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marie Windsor",
+        "qid": "Q2448652",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Ansara",
+        "qid": "Q1276579",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peggy King",
+        "qid": "Q7160673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Deacon",
+        "qid": "Q1289785",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dan Seymour",
+        "qid": "Q953504",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Khoury",
+        "qid": "Q1507708",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Chefe",
+        "qid": "Q20723206",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Franklyn Farnum",
+        "qid": "Q1273140",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hank Mann",
+        "qid": "Q3126801",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

@@ -12,6 +12,7 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | D-80 | Wikidata narrative locations include countries and regions (e.g. "England", "Afghanistan"), which show as one point at the centre. Keep them, or show only cities and smaller places? | Keep them, with a note on each place saying a country or region is shown at its centre. |
 | D-81 | **Predator: Badlands and the Alien films.** Its director says it is set "after the events of all the previous Alien and Alien vs. Predator films", which suggests one shared Alien/Predator universe; the AVP films' canon is contested. | Alien, Predator and AVP stay separate continuities; Badlands has a crossover link to the Alien films. |
 | D-82 | **The Curse of La Llorona** is "set within The Conjuring Universe" but "not an official installment". | In the main Conjuring continuity, with that noted. |
+| D-83 | **Scream TV season 3** ("rebooting the series… new cast, setting, timeline") as its own continuity, separate from seasons 1–2. | Separate continuity. |
 
 ## Resolved
 

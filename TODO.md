@@ -50,8 +50,8 @@
 - [x] Stage 9: Wizarding World (Middle-earth done)
 - [x] Stage 10 (2026-11-28): Indian universes (YRF Spy, LCU, Maddock Horror Comedy, Cop Universe)
 - [x] Stage 11 (2026-11-28): Hollywood batch: Alien & Predator, Conjuring, Jurassic, Apes, John Wick, Ghostbusters, Indiana Jones, Rocky/Creed, Matrix, Mad Max, Avatar (F&F, M:I, Bond, Transformers were already in)
-- [ ] Stage 12: other superhero (The Boys, Spider-Verse, Invincible, Hellboy)
-- [ ] Stage 13: horror batch (Scream, Saw, Evil Dead, Friday the 13th, Texas Chain Saw, Universal Monsters)
+- [x] Stage 12 (2026-11-28): other superhero (The Boys, Spider-Verse, Invincible, Hellboy)
+- [x] Stage 13 (2026-11-28): horror (Scream, Saw, Evil Dead, Friday the 13th, Texas Chain Saw, Universal Monsters)
 - [x] Later: anime / tokusatsu (Gundam, Ultraman, Kamen Rider, Dragon Ball)
 
 ## Books (PLAN.md §8.1–8.2): needs the schema changes approved first (D-16)

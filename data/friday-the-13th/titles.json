@@ -1,0 +1,3115 @@
+[
+  {
+    "id": "crystal-lake",
+    "title": "Crystal Lake",
+    "sort_title": null,
+    "type": "series",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "peacock",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Crystal Lake (TV series)",
+      "wikidata": "Q135166893",
+      "tmdb": "213562",
+      "imdb": "tt23148340"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crystal_Lake_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045"
+    ],
+    "notes": "num_episodes = 8 per infobox. Production companies not checked.",
+    "units": [
+      {
+        "id": "crystal-lake",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1972
+          },
+          "end": {
+            "y": 1972
+          },
+          "label": "1972",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "serves as the prequel to the Friday the 13th franchise, set seven years before the original film, in 1972.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-15",
+          "end_date": "2026-10-15",
+          "year": 2026,
+          "note": "Wikipedia: Crystal Lake premiered on Peacock in the United States with all episodes on October 15, 2026."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Crystal_Lake_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-1980",
+        "kind": "continues",
+        "note": "prequel set seven years before the original film"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Michael Lennox",
+        "qid": "Q19895767",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Celine Held",
+        "qid": "Q105755598",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Logan George",
+        "qid": "Q105887703",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Quyen Tran",
+        "qid": "Q65589471",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Brad Caleb Kane",
+        "qid": "Q980104",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Marc Toberoff",
+        "qid": "Q6755922",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Victor Miller",
+        "qid": "Q7926158",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Tyson Bidner",
+        "qid": "Q136277214",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Michael Lennox",
+        "qid": "Q19895767",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Roy Lee",
+        "qid": "Q1990920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Giosuè Greco",
+        "qid": "Q141568274",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Cardellini",
+        "qid": "Q234204",
+        "character": "Pamela Voorhees",
+        "character_qid": "Q2576457",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Catlett",
+        "qid": "Q123486791",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-1980",
+    "title": "Friday the 13th",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th (1980 film)",
+      "wikidata": "Q1243029",
+      "tmdb": "4488",
+      "imdb": "tt0080761"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-1980",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1979
+          },
+          "end": {
+            "y": 1979
+          },
+          "label": "1979 (prologue 1958)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Around the campfire that night, Paul tells the counselors the legend of Jason Voorhees, a boy who drowned at Camp Crystal Lake in 1957, sending his vengeful mother Pamela on two killing sprees in 1958 and 1979 Year stated in the Part 2 plot; the 1980 article opens \"In 1958 at Camp Crystal Lake\" and carries \"Category:Films set in 1979\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1980-05-09",
+          "end_date": null,
+          "year": 1980,
+          "note": "Wikipedia: Infobox: May 9, 1980"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Victor Miller",
+        "qid": "Q7926158",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Palmer",
+        "qid": "Q263765",
+        "character": "Pamela Voorhees",
+        "character_qid": "Q2576457",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adrienne King",
+        "qid": "Q2440012",
+        "character": "Alice Hardy",
+        "character_qid": "Q27777572",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Bacon",
+        "qid": "Q3454165",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rex Everhart",
+        "qid": "Q3428829",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harry Crosby",
+        "qid": "Q13218111",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laurie Bartram",
+        "qid": "Q2570201",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ari Lehman",
+        "qid": "Q524486",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeannine Taylor",
+        "qid": "Q3047636",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robbi Morgan",
+        "qid": "Q3434272",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-part-2",
+    "title": "Friday the 13th Part 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th Part 2",
+      "wikidata": "Q1243009",
+      "tmdb": "9725",
+      "imdb": "tt0082418"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_Part_2",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-part-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 83,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 1984
+          },
+          "label": "1984",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1984, Paul Holt has opened a school for camp counselors on the shore of Crystal Lake.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1981-05-01",
+          "end_date": null,
+          "year": 1981,
+          "note": "Wikipedia: Infobox: May 1, 1981"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_Part_2",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_2&oldid=1388239541"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-1980",
+        "kind": "continues",
+        "note": "five years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Steve Miner",
+        "qid": "Q107404",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Ron Kurz",
+        "qid": "Q106577014",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Steve Miner",
+        "qid": "Q107404",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amy Steel",
+        "qid": "Q455879",
+        "character": "Ginny Field",
+        "character_qid": "Q30597920",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adrienne King",
+        "qid": "Q2440012",
+        "character": "Alice Hardy",
+        "character_qid": "Q27777572",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Palmer",
+        "qid": "Q263765",
+        "character": "Pamela Voorhees",
+        "character_qid": "Q2576457",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Furey",
+        "qid": "Q6234410",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kristin Baker",
+        "qid": "Q1789285",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stuart Charno",
+        "qid": "Q7626409",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom McBride",
+        "qid": "Q7816761",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bill Randolph",
+        "qid": "Q4910594",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lauren-Marie Taylor",
+        "qid": "Q5971790",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Russell Todd",
+        "qid": "Q4383845",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marta Kober",
+        "qid": "Q11770584",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rex Everhart",
+        "qid": "Q3428829",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robbi Morgan",
+        "qid": "Q3434272",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-part-3",
+    "title": "Friday the 13th Part III",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th Part III",
+      "wikidata": "Q1243013",
+      "tmdb": "9728",
+      "imdb": "tt0083972"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_Part_III",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_III&oldid=1387985340"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-part-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 1984
+          },
+          "label": "1984",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category:Films set in 1982; Category:Films set in 1984 Only the article categories date it (1982 and 1984 both listed); 1984 chosen as it follows Part 2 (1984). No prose statement.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1982-08-13",
+          "end_date": null,
+          "year": 1982,
+          "note": "Wikipedia: Infobox: August 13, 1982"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_Part_III",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_III&oldid=1387985340"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-part-2",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Steve Miner",
+        "qid": "Q107404",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Martin Kitrosser",
+        "qid": "Q108006580",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Carol Watson",
+        "qid": "Q108006600",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Petru Popescu",
+        "qid": "Q7179181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Mancuso, Jr.",
+        "qid": "Q3082711",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Michael Zager",
+        "qid": "Q1855369",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dana Kimmell",
+        "qid": "Q508282",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Kratka",
+        "qid": "Q584955",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tracie Savage",
+        "qid": "Q3288389",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeffrey Rogers",
+        "qid": "Q3049936",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Catherine Parks",
+        "qid": "Q2877898",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Brooker",
+        "qid": "Q5492577",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amy Steel",
+        "qid": "Q455879",
+        "character": "Ginny Field",
+        "character_qid": "Q30597920",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Furey",
+        "qid": "Q6234410",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gloria Charles",
+        "qid": "Q48870673",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steve Susskind",
+        "qid": "Q3973396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steve Miner",
+        "qid": "Q107404",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387985340"
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Palmer",
+        "qid": "Q263765",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-final-chapter",
+    "title": "Friday the 13th: The Final Chapter",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th: The Final Chapter",
+      "wikidata": "Q1243019",
+      "tmdb": "9730",
+      "imdb": "tt0087298"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th:_The_Final_Chapter",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_The_Final_Chapter&oldid=1383987585"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-final-chapter",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 1984
+          },
+          "label": "1984",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category:Films set in 1984 Category only; no prose statement.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-04-13",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: Infobox: April 13, 1984"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th:_The_Final_Chapter",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_The_Final_Chapter&oldid=1383987585"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-part-3",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Joseph Zito",
+        "qid": "Q11335",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Barney Cohen",
+        "qid": "Q62678015",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Mancuso, Jr.",
+        "qid": "Q3082711",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kimberly Beck",
+        "qid": "Q2178802",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erich Anderson",
+        "qid": "Q2610657",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Corey Feldman",
+        "qid": "Q375419",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Barton",
+        "qid": "Q2093730",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Crispin Glover",
+        "qid": "Q310060",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ted White",
+        "qid": "Q3517052",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Judie Aronson",
+        "qid": "Q446825",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Camilla More",
+        "qid": "Q433805",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Mahler",
+        "qid": "Q991708",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Monoson",
+        "qid": "Q2113276",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carey More",
+        "qid": "Q923279",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wayne Grace",
+        "qid": "Q3566829",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-new-beginning",
+    "title": "Friday the 13th: A New Beginning",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th: A New Beginning",
+      "wikidata": "Q286830",
+      "tmdb": "9731",
+      "imdb": "tt0089173"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th:_A_New_Beginning",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_A_New_Beginning&oldid=1386047577"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-new-beginning",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 88,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1989
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "1989",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Five years after killing mass murderer Jason Voorhees, a teenage Tommy Jarvis is tormented by nightmares of him 1984 + 5 = 1989; matches \"Category:Films set in 1989\".",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1985-03-22",
+          "end_date": null,
+          "year": 1985,
+          "note": "Wikipedia: Infobox: March 22, 1985"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th:_A_New_Beginning",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th%3A_A_New_Beginning&oldid=1386047577"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-final-chapter",
+        "kind": "continues",
+        "note": "five years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Danny Steinmann",
+        "qid": "Q1778633",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Mancuso, Jr.",
+        "qid": "Q3082711",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Melanie Kinnaman",
+        "qid": "Q2913301",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Shepherd",
+        "qid": "Q6257591",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shavar Ross",
+        "qid": "Q3045652",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Young",
+        "qid": "Q2614606",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marco St. John",
+        "qid": "Q434014",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Juliette Cummins",
+        "qid": "Q6308992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tiffany Helm",
+        "qid": "Q3528267",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Corey Feldman",
+        "qid": "Q375419",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1386047577"
+      },
+      {
+        "role": "cast",
+        "name": "Mark Venturini",
+        "qid": "Q1706336",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Miguel A. Núñez",
+        "qid": "Q1387358",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Lineback",
+        "qid": "Q3430985",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Debi Sue Voorhees",
+        "qid": "Q5248085",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-jason-lives",
+    "title": "Friday the 13th Part VI: Jason Lives",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th Part VI: Jason Lives",
+      "wikidata": "Q1454799",
+      "tmdb": "10225",
+      "imdb": "tt0091080"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_Part_VI:_Jason_Lives",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VI%3A_Jason_Lives&oldid=1387345047"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-jason-lives",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 84,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1990
+          },
+          "end": {
+            "y": 1990
+          },
+          "label": "1990",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Category:Films set in 1990 Category only. The series' internal dating is inconsistent (Part VII is \"set seven years after\" this film, and its categories give 1990 and 1997).",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1986-08-01",
+          "end_date": null,
+          "year": 1986,
+          "note": "Wikipedia: Infobox: August 1, 1986"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_Part_VI:_Jason_Lives",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VI%3A_Jason_Lives&oldid=1387345047"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-new-beginning",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Tom McLoughlin",
+        "qid": "Q730985",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Tom McLoughlin",
+        "qid": "Q730985",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Don Behrns",
+        "qid": "Q108022194",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tony Goldwyn",
+        "qid": "Q224754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thom Mathews",
+        "qid": "Q3063036",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Cooke",
+        "qid": "Q3116155",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Kagen",
+        "qid": "Q5235815",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Renée Jones",
+        "qid": "Q2443799",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kerry Noonan",
+        "qid": "Q6394602",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Darcy DeMoss",
+        "qid": "Q536438",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Fridley",
+        "qid": "Q7815867",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "C. J. Graham",
+        "qid": "Q551838",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bob Larkin",
+        "qid": "Q2907729",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ron Palillo",
+        "qid": "Q3091876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-new-blood",
+    "title": "Friday the 13th Part VII: The New Blood",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th Part VII: The New Blood",
+      "wikidata": "Q1454798",
+      "tmdb": "10281",
+      "imdb": "tt0095179"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_Part_VII:_The_New_Blood",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VII%3A_The_New_Blood&oldid=1383448559"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-new-blood",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 84,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1997
+          },
+          "end": {
+            "y": 1997
+          },
+          "label": "1997 (prologue c. 1990)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Set seven years after the events of the previous film … Category:Films set in 1990; Category:Films set in 1997 1990 + 7 = 1997, consistent with the 1997 category; the series' dating is internally contradictory, so disputed.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1988-05-13",
+          "end_date": null,
+          "year": 1988,
+          "note": "Wikipedia: Infobox: May 13, 1988"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_Part_VII:_The_New_Blood",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VII%3A_The_New_Blood&oldid=1383448559"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-jason-lives",
+        "kind": "continues",
+        "note": "seven years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "John Carl Buechler",
+        "qid": "Q3052099",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Daryl Haney",
+        "qid": "Q5226181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Manuel Fidello",
+        "qid": "Q108032961",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Mancuso, Jr.",
+        "qid": "Q3082711",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Fred Mollin",
+        "qid": "Q3086901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lar Park Lincoln",
+        "qid": "Q3217806",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Spirtas",
+        "qid": "Q2611866",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Susan Blu",
+        "qid": "Q3142726",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Terry Kiser",
+        "qid": "Q128541",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kane Hodder",
+        "qid": "Q465134",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Banko-Stewart",
+        "qid": "Q728346",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Craig Thomas",
+        "qid": "Q3002075",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elizabeth Kaitan",
+        "qid": "Q3051238",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Bennett",
+        "qid": "Q311103",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Cooke",
+        "qid": "Q3116155",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Susan Jennifer Sullivan",
+        "qid": "Q3505578",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thom Mathews",
+        "qid": "Q3063036",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Butler",
+        "qid": "Q3568469",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Corey Feldman",
+        "qid": "Q375419",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Diana Barrows",
+        "qid": "Q9206992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kerry Noonan",
+        "qid": "Q6394602",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-jason-takes-manhattan",
+    "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "wikidata": "Q1454794",
+      "tmdb": "10283",
+      "imdb": "tt0097388"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_Part_VIII:_Jason_Takes_Manhattan",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VIII%3A_Jason_Takes_Manhattan&oldid=1383965518"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-jason-takes-manhattan",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 96,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1998
+          },
+          "end": {
+            "y": 1998
+          },
+          "label": "1998",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Category:Films set in 1998 Category only; disputed given the series' inconsistent dating.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-07-28",
+          "end_date": null,
+          "year": 1989,
+          "note": "Wikipedia: Infobox: July 28, 1989"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_Part_VIII:_Jason_Takes_Manhattan",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_Part_VIII%3A_Jason_Takes_Manhattan&oldid=1383965518"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-new-blood",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Rob Hedden",
+        "qid": "Q21280751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Rob Hedden",
+        "qid": "Q21280751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Randy Cheveldave",
+        "qid": "Q108033596",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Fred Mollin",
+        "qid": "Q3086901",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jensen Daggett",
+        "qid": "Q11724216",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Reeves",
+        "qid": "Q3476296",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Mark Richman",
+        "qid": "Q591205",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kane Hodder",
+        "qid": "Q465134",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Martin Cummins",
+        "qid": "Q712761",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kelly Hu",
+        "qid": "Q231116",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gordon Currie",
+        "qid": "Q626553",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sharlene Martin",
+        "qid": "Q9335930",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ken Kirzinger",
+        "qid": "Q1228672",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Benyaer",
+        "qid": "Q6828593",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jason-goes-to-hell",
+    "title": "Jason Goes to Hell: The Final Friday",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jason Goes to Hell: The Final Friday",
+      "wikidata": "Q1683918",
+      "tmdb": "10285",
+      "imdb": "tt0107254"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jason_Goes_to_Hell:_The_Final_Friday",
+      "https://en.wikipedia.org/w/index.php?title=Jason_Goes_to_Hell%3A_The_Final_Friday&oldid=1388178808"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "jason-goes-to-hell",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 87,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2003
+          },
+          "end": {
+            "y": 2003
+          },
+          "label": "2003",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Category:Films set in 2003 Category only; disputed.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-08-13",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: Infobox: August 13, 1993"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jason_Goes_to_Hell:_The_Final_Friday",
+          "https://en.wikipedia.org/w/index.php?title=Jason_Goes_to_Hell%3A_The_Final_Friday&oldid=1388178808"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-jason-takes-manhattan",
+        "kind": "continues",
+        "note": "ninth installment"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Adam Marcus",
+        "qid": "Q4679450",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dean Lorey",
+        "qid": "Q5246313",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kane Hodder",
+        "qid": "Q465134",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steven Culp",
+        "qid": "Q465914",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erin Gray",
+        "qid": "Q264377",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leslie Jordan",
+        "qid": "Q684370",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Clunie",
+        "qid": "Q269807",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John D. LeMay",
+        "qid": "Q1699724",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kari Keegan",
+        "qid": "Q6370377",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Allison Smith",
+        "qid": "Q2838353",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steven Williams",
+        "qid": "Q2035396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Billy \"Green\" Bush",
+        "qid": "Q863108",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael B. Silver",
+        "qid": "Q3050134",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Gant",
+        "qid": "Q1280821",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rusty Schwimmer",
+        "qid": "Q3038793",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adam Marcus",
+        "qid": "Q4679450",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Penner",
+        "qid": "Q779352",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dean Lorey",
+        "qid": "Q5246313",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "freddy-vs-jason",
+    "title": "Freddy vs. Jason",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Freddy vs. Jason",
+      "wikidata": "Q965859",
+      "tmdb": "6466",
+      "imdb": "tt0329101"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Freddy_vs._Jason",
+      "https://en.wikipedia.org/w/index.php?title=Freddy_vs._Jason&oldid=1388228459"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "freddy-vs-jason",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 97,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2003
+          },
+          "end": {
+            "y": 2003
+          },
+          "label": "2003",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Category:Films set in 2003 Category only. Wikipedia does not state its placement relative to Jason X (2008 prologue, then 400+ years later); ordered before Jason X by year. Kept in f13-main because the franchise article counts it among \"the twelve films\".",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-08-15",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: Infobox: August 15, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Freddy_vs._Jason",
+          "https://en.wikipedia.org/w/index.php?title=Freddy_vs._Jason&oldid=1388228459"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jason-goes-to-hell",
+        "kind": "continues",
+        "note": "follows Jason Goes to Hell"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Ronny Yu",
+        "qid": "Q525109",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Damian Shannon",
+        "qid": "Q30327831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Mark Swift",
+        "qid": "Q26460510",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Robert Shaye",
+        "qid": "Q1314250",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Graeme Revell",
+        "qid": "Q920963",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Englund",
+        "qid": "Q310389",
+        "character": "Freddy Krueger",
+        "character_qid": "Q329466",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ken Kirzinger",
+        "qid": "Q1228672",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Monica Keena",
+        "qid": "Q255883",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Ritter",
+        "qid": "Q431362",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kelly Rowland",
+        "qid": "Q184249",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lochlyn Munro",
+        "qid": "Q73930",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Katharine Isabelle",
+        "qid": "Q236826",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kyle Labine",
+        "qid": "Q2619903",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rey Mysterio",
+        "qid": "Q44152",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brendan Fletcher",
+        "qid": "Q908689",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brent Chapman",
+        "qid": "Q2924465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Gauthier",
+        "qid": "Q505983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Kopp",
+        "qid": "Q200973",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gary Chalk",
+        "qid": "Q5524826",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jesse Hutch",
+        "qid": "Q3177618",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paula Shaw",
+        "qid": "Q3372569",
+        "character": "Pamela Voorhees",
+        "character_qid": "Q2576457",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Butler",
+        "qid": "Q3530675",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zack Ward",
+        "qid": "Q139906",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Garry Chalk",
+        "qid": "Q267772",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Shaye",
+        "qid": "Q1314250",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Evangeline Lilly",
+        "qid": "Q160392",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jason-x",
+    "title": "Jason X",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-main",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jason X",
+      "wikidata": "Q1427521",
+      "tmdb": "11470",
+      "imdb": "tt0211443"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jason_X",
+      "https://en.wikipedia.org/w/index.php?title=Jason_X&oldid=1386534442"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "jason-x",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 88,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2008
+          },
+          "end": {
+            "y": 2008
+          },
+          "label": "2008, then 400+ years later",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 2008, mass murderer Jason Voorhees is captured by the United States government and held at the Crystal Lake Research Facility. Prologue 2008 is stated; the main story is \"Over 400 years later\" (franchise article). Categories: 2008 and 2010.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-04-26",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: Infobox: November 15, 2001 (Spain); April 26, 2002 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jason_X",
+          "https://en.wikipedia.org/w/index.php?title=Jason_X&oldid=1386534442"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jason-goes-to-hell",
+        "kind": "continues",
+        "note": "tenth installment"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Isaac",
+        "qid": "Q472868",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Todd Farmer",
+        "qid": "Q3992161",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harry Manfredini",
+        "qid": "Q664025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lexa Doig",
+        "qid": "Q116281",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lisa Ryder",
+        "qid": "Q272296",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chuck Campbell",
+        "qid": "Q637974",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Potts",
+        "qid": "Q3183440",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kane Hodder",
+        "qid": "Q465134",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Mensah",
+        "qid": "Q469145",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Cronenberg",
+        "qid": "Q55422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Yani Gellman",
+        "qid": "Q1589252",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boyd Banks",
+        "qid": "Q2923015",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Philip Williams",
+        "qid": "Q3379095",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amanda Brugel",
+        "qid": "Q4739577",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Melody Johnson",
+        "qid": "Q97373359",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "f13-2009",
+    "title": "Friday the 13th",
+    "sort_title": null,
+    "type": "film",
+    "universe": "friday-the-13th",
+    "continuity": "f13-2009",
+    "studio_brand": "warner-bros-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Friday the 13th (2009 film)",
+      "wikidata": "Q1454815",
+      "tmdb": "13207",
+      "imdb": "tt0758746"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Friday_the_13th_(2009_film)",
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(2009_film)&oldid=1388150483"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "f13-2009",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 97,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2008
+          },
+          "end": {
+            "y": 2008
+          },
+          "label": "2008 (prologue 1980)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Category:Films set in 1980; Category:Films set in 2008 Category only; no prose year found.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-02-13",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: Infobox: February 9, 2009 (Mann's Chinese Theater); February 13, 2009 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Friday_the_13th_(2009_film)",
+          "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(2009_film)&oldid=1388150483"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "f13-1980",
+        "kind": "reboot-of",
+        "note": "restarted the film series continuity"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Marcus Nispel",
+        "qid": "Q77399",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Damian Shannon",
+        "qid": "Q30327831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Mark Swift",
+        "qid": "Q26460510",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Michael Bay",
+        "qid": "Q59259",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Bradley Fuller",
+        "qid": "Q4954920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Sean S. Cunningham",
+        "qid": "Q709325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Steve Jablonsky",
+        "qid": "Q18920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Derek Mears",
+        "qid": "Q616982",
+        "character": "Jason Voorhees",
+        "character_qid": "Q366957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nana Visitor",
+        "qid": "Q231576",
+        "character": "Pamela Voorhees",
+        "character_qid": "Q2576457",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jared Padalecki",
+        "qid": "Q215757",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danielle Panabaker",
+        "qid": "Q230461",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amanda Righetti",
+        "qid": "Q230329",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Travis Van Winkle",
+        "qid": "Q622864",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julianna Guill",
+        "qid": "Q269891",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Aaron Yoo",
+        "qid": "Q302930",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Willa Ford",
+        "qid": "Q262396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ryan Hansen",
+        "qid": "Q720754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Burgi",
+        "qid": "Q442274",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "America Olivo",
+        "qid": "Q2842824",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arlen Escarpeta",
+        "qid": "Q957454",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ben Feldman",
+        "qid": "Q1139600",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Sadowski",
+        "qid": "Q595479",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Travis Davis",
+        "qid": "Q3538223",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

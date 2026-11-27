@@ -1,0 +1,2664 @@
+[
+  {
+    "id": "scream-1996",
+    "title": "Scream",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "dimension-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream (1996 film)",
+      "wikidata": "Q27411",
+      "tmdb": "4232",
+      "imdb": "tt0117571"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_(1996_film)",
+      "https://en.wikipedia.org/w/index.php?title=Scream_4&oldid=1387969104"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-1996",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 111,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1996
+          },
+          "end": {
+            "y": 1996
+          },
+          "label": "1996",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The film takes place on the fifteenth anniversary of the original Woodsboro murders from Scream (1996) and involves Sidney Prescott (Campbell) returning to the town after fifteen years Scream 4 is placed in 2011 (inferred) and is the fifteenth anniversary of these murders, so 1996; the 1996 article also carries \"Category:Films set in 1996\". Not stated in its own prose.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-12-20",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: Infobox: December 18, 1996 (Los Angeles); December 20, 1996 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_(1996_film)",
+          "https://en.wikipedia.org/w/index.php?title=Scream_4&oldid=1387969104"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Cathy Konrad",
+        "qid": "Q2942203",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Cary Woods",
+        "qid": "Q2940710",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Stuart M. Besser",
+        "qid": "Q7626779",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bob Weinstein",
+        "qid": "Q888311",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marco Beltrami",
+        "qid": "Q465754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neve Campbell",
+        "qid": "Q193482",
+        "character": "Sidney Prescott",
+        "character_qid": "Q303741",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Skeet Ulrich",
+        "qid": "Q472320",
+        "character": "Billy Loomis",
+        "character_qid": "Q130296462",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rose McGowan",
+        "qid": "Q211040",
+        "character": "Tatum Riley",
+        "character_qid": "Q6139261",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Lillard",
+        "qid": "Q29086",
+        "character": "Stu Macher",
+        "character_qid": "Q130296465",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Kennedy",
+        "qid": "Q355133",
+        "character": "Randy Meeks",
+        "character_qid": "Q122943253",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Arquette",
+        "qid": "Q294185",
+        "character": "Dewey Riley",
+        "character_qid": "Q120262580",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "W. Earl Brown",
+        "qid": "Q2572165",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Whipp",
+        "qid": "Q255676",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Drew Barrymore",
+        "qid": "Q676094",
+        "character": "Casey Becker",
+        "character_qid": "Q112567694",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Frances Lee McCain",
+        "qid": "Q174999",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Henry Winkler",
+        "qid": "Q343983",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1386868560"
+      },
+      {
+        "role": "cast",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1386868560"
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liev Schreiber",
+        "qid": "Q298368",
+        "character": "Cotton Weary",
+        "character_qid": "Q138024403",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Blair",
+        "qid": "Q232280",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1386868560"
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-2",
+    "title": "Scream 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "dimension-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream 2",
+      "wikidata": "Q270599",
+      "tmdb": "4233",
+      "imdb": "tt0120082"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_2",
+      "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 120,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1997
+          },
+          "end": {
+            "y": 1997
+          },
+          "label": "1997",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Set in 1997, the film again focuses on the character of Sidney Prescott, now a college student, as a series of copycat crimes begin",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-12-12",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: Infobox: December 10, 1997 (Hollywood, Los Angeles); Hollywood 1997 12; 12 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_2",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-1996",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Cathy Konrad",
+        "qid": "Q2942203",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Marianne Maddalena",
+        "qid": "Q4216222",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Andrew Rona",
+        "qid": "Q18352260",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bob Weinstein",
+        "qid": "Q888311",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marco Beltrami",
+        "qid": "Q465754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neve Campbell",
+        "qid": "Q193482",
+        "character": "Sidney Prescott",
+        "character_qid": "Q303741",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Arquette",
+        "qid": "Q294185",
+        "character": "Dewey Riley",
+        "character_qid": "Q120262580",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Kennedy",
+        "qid": "Q355133",
+        "character": "Randy Meeks",
+        "character_qid": "Q122943253",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Timothy Olyphant",
+        "qid": "Q309835",
+        "character": "Mickey Altieri",
+        "character_qid": "Q138024456",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jerry O'Connell",
+        "qid": "Q378672",
+        "character": "Derek Feldman",
+        "character_qid": "Q138024365",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liev Schreiber",
+        "qid": "Q298368",
+        "character": "Cotton Weary",
+        "character_qid": "Q138024403",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elise Neal",
+        "qid": "Q1319793",
+        "character": "Hallie McDaniel",
+        "character_qid": "Q138024545",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laurie Metcalf",
+        "qid": "Q236711",
+        "character": "Nancy Loomis",
+        "character_qid": "Q138024465",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sarah Michelle Gellar",
+        "qid": "Q180665",
+        "character": "Cici Cooper",
+        "character_qid": "Q138024535",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jada Pinkett Smith",
+        "qid": "Q228787",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lewis Arquette",
+        "qid": "Q960993",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rebecca Gayheart",
+        "qid": "Q241681",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Portia de Rossi",
+        "qid": "Q215366",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Omar Epps",
+        "qid": "Q297334",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Warner",
+        "qid": "Q363271",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Heather Graham",
+        "qid": "Q224026",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tori Spelling",
+        "qid": "Q229050",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387355697"
+      },
+      {
+        "role": "cast",
+        "name": "Luke Wilson",
+        "qid": "Q107769",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Éric Etcheverry",
+        "qid": "Q3591116",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joshua Jackson",
+        "qid": "Q219653",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marisol Nichols",
+        "qid": "Q239050",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Lillard",
+        "qid": "Q29086",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nancy O'Dell",
+        "qid": "Q3335599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rose McGowan",
+        "qid": "Q211040",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Selma Blair",
+        "qid": "Q264748",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Duane Martin",
+        "qid": "Q1139269",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adam Shankman",
+        "qid": "Q350903",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Doyle",
+        "qid": "Q22261492",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anne Fletcher",
+        "qid": "Q242557",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Deming",
+        "qid": "Q1462878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Trost",
+        "qid": "Q15732460",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-3",
+    "title": "Scream 3",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "dimension-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream 3",
+      "wikidata": "Q391784",
+      "tmdb": "4234",
+      "imdb": "tt0134084"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_3",
+      "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 117,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2000
+          },
+          "end": {
+            "y": 2000
+          },
+          "label": "2000",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Set in 2000, the film focuses on Sidney Prescott who faces a new Ghostface killer and the truth about her mother that led to the start of the Ghostface killings.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-02-04",
+          "end_date": null,
+          "year": 2000,
+          "note": "Wikipedia: Infobox: February 3, 2000 (Westwood, Los Angeles); Westwood 2000 02; 04 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_3",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-2",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Ehren Kruger",
+        "qid": "Q534224",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Cathy Konrad",
+        "qid": "Q2942203",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Marianne Maddalena",
+        "qid": "Q4216222",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bob Weinstein",
+        "qid": "Q888311",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marco Beltrami",
+        "qid": "Q465754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neve Campbell",
+        "qid": "Q193482",
+        "character": "Sidney Prescott",
+        "character_qid": "Q303741",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Arquette",
+        "qid": "Q294185",
+        "character": "Dewey Riley",
+        "character_qid": "Q120262580",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Parker Posey",
+        "qid": "Q204586",
+        "character": "Jennifer Jolie",
+        "character_qid": "Q138024371",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Foley",
+        "qid": "Q364822",
+        "character": "Roman Bridger",
+        "character_qid": "Q138024473",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Patrick Dempsey",
+        "qid": "Q212518",
+        "character": "Mark Kincaid",
+        "character_qid": "Q110738979",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Deon Richmond",
+        "qid": "Q2669794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emily Mortimer",
+        "qid": "Q230308",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lance Henriksen",
+        "qid": "Q312077",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Keeslar",
+        "qid": "Q1319532",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jenny McCarthy",
+        "qid": "Q230993",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liev Schreiber",
+        "qid": "Q298368",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kelly Rutherford",
+        "qid": "Q230615",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Patrick Warburton",
+        "qid": "Q343564",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Kennedy",
+        "qid": "Q355133",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Josh Pais",
+        "qid": "Q2050378",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Smith",
+        "qid": "Q489831",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384331823"
+      },
+      {
+        "role": "cast",
+        "name": "Jason Mewes",
+        "qid": "Q316627",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384331823"
+      },
+      {
+        "role": "cast",
+        "name": "Heather Matarazzo",
+        "qid": "Q236755",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carrie Fisher",
+        "qid": "Q108941",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384331823"
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Skeet Ulrich",
+        "qid": "Q472320",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Lillard",
+        "qid": "Q29086",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Beth Toussaint",
+        "qid": "Q532448",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roger Corman",
+        "qid": "Q318292",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1384331823"
+      },
+      {
+        "role": "cast",
+        "name": "Richmond Arquette",
+        "qid": "Q1139511",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Deming",
+        "qid": "Q1462878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ethan Erickson",
+        "qid": "Q3059248",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-4",
+    "title": "Scream 4",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "dimension-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream 4",
+      "wikidata": "Q323392",
+      "tmdb": "41446",
+      "imdb": "tt1262416"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_4",
+      "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-4",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 111,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2011
+          },
+          "end": {
+            "y": 2011
+          },
+          "label": "2011",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The film takes place eleven years after the previous film, and once again follows Sidney Prescott as she returns to Woodsboro Scream 3 is set in 2000 (stated); +11 years = 2011. Article also has \"Category:Films set in 2011\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-04-15",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: Infobox: April 11, 2011 (TCL Chinese Theatre); April 15, 2011 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_4",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(franchise)&oldid=1387759804"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-3",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Wes Craven",
+        "qid": "Q223992",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bob Weinstein",
+        "qid": "Q888311",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marco Beltrami",
+        "qid": "Q465754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neve Campbell",
+        "qid": "Q193482",
+        "character": "Sidney Prescott",
+        "character_qid": "Q303741",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Arquette",
+        "qid": "Q294185",
+        "character": "Dewey Riley",
+        "character_qid": "Q120262580",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emma Roberts",
+        "qid": "Q228598",
+        "character": "Jill Roberts",
+        "character_qid": "Q125179104",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hayden Panettiere",
+        "qid": "Q171571",
+        "character": "Kirby Reed",
+        "character_qid": "Q111721458",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rory Culkin",
+        "qid": "Q431038",
+        "character": "Charlie Walker",
+        "character_qid": "Q138024550",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nico Tortorella",
+        "qid": "Q185679",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marley Shelton",
+        "qid": "Q235072",
+        "character": "Judy Hicks",
+        "character_qid": "Q138024384",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marielle Jaffe",
+        "qid": "Q269799",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mary McDonnell",
+        "qid": "Q117500",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anthony Anderson",
+        "qid": "Q313918",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adam Brody",
+        "qid": "Q294372",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erik Knudsen",
+        "qid": "Q461300",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alison Brie",
+        "qid": "Q235328",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Aimee Teegarden",
+        "qid": "Q254954",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Britt Robertson",
+        "qid": "Q235333",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucy Hale",
+        "qid": "Q229940",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387969104"
+      },
+      {
+        "role": "cast",
+        "name": "Shenae Grimes",
+        "qid": "Q253183",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387969104"
+      },
+      {
+        "role": "cast",
+        "name": "Anna Paquin",
+        "qid": "Q199884",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387969104"
+      },
+      {
+        "role": "cast",
+        "name": "Kristen Bell",
+        "qid": "Q178882",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387969104"
+      },
+      {
+        "role": "cast",
+        "name": "Heather Graham",
+        "qid": "Q224026",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nancy O'Dell",
+        "qid": "Q3335599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emily Williams",
+        "qid": "Q5372426",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carlos Alazraqui",
+        "qid": "Q1075796",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-2022",
+    "title": "Scream (2022 film)",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream (2022 film)",
+      "wikidata": "Q88563268",
+      "tmdb": "646385",
+      "imdb": "tt11245972"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_(2022_film)",
+      "https://en.wikipedia.org/w/index.php?title=Scream_(2022_film)&oldid=1386901427"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-2022",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 114,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2021
+          },
+          "end": {
+            "y": 2021
+          },
+          "label": "2021",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The plot takes place twenty-five years after the original Woodsboro murders from Scream (1996) 1996 (inferred) + 25 = 2021; the article carries \"Category:Films set in 2021\".",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-01-14",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: Infobox: January 14, 2022"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_(2022_film)",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(2022_film)&oldid=1386901427"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-4",
+        "kind": "continues",
+        "note": "fifth film; legacy sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Matt Bettinelli-Olpin",
+        "qid": "Q6788348",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Tyler Gillett",
+        "qid": "Q16221753",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Vanderbilt",
+        "qid": "Q919049",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Guy Busick",
+        "qid": "Q110551211",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "William Sherak",
+        "qid": "Q64516629",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Vanderbilt",
+        "qid": "Q919049",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Melissa Barrera",
+        "qid": "Q20810462",
+        "character": "Samantha Carpenter",
+        "character_qid": "Q122421965",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jenna Ortega",
+        "qid": "Q21738166",
+        "character": "Tara Carpenter",
+        "character_qid": "Q116971120",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Quaid",
+        "qid": "Q1139078",
+        "character": "Richie Kirsch",
+        "character_qid": "Q138024469",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Arquette",
+        "qid": "Q294185",
+        "character": "Dewey Riley",
+        "character_qid": "Q120262580",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mikey Madison",
+        "qid": "Q26923245",
+        "character": "Amber Freeman",
+        "character_qid": "Q138024558",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jasmin Savoy Brown",
+        "qid": "Q24266627",
+        "character": "Mindy Meeks-Martin",
+        "character_qid": "Q138024460",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sonia Ben Ammar",
+        "qid": "Q21622936",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neve Campbell",
+        "qid": "Q193482",
+        "character": "Sidney Prescott",
+        "character_qid": "Q303741",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mason Gooding",
+        "qid": "Q47015205",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marley Shelton",
+        "qid": "Q235072",
+        "character": "Judy Hicks",
+        "character_qid": "Q138024384",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dylan Minnette",
+        "qid": "Q2469915",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kyle Gallner",
+        "qid": "Q704395",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Skeet Ulrich",
+        "qid": "Q472320",
+        "character": "Billy Loomis",
+        "character_qid": "Q130296462",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Heather Matarazzo",
+        "qid": "Q236755",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chelsea Rebecca",
+        "qid": "Q111421016",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Lillard",
+        "qid": "Q29086",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adam Brody",
+        "qid": "Q294372",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Kennedy",
+        "qid": "Q355133",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Henry Winkler",
+        "qid": "Q343983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Drew Barrymore",
+        "qid": "Q676094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-vi",
+    "title": "Scream VI",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream VI",
+      "wikidata": "Q112183099",
+      "tmdb": "934433",
+      "imdb": "tt17663992"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_VI",
+      "https://en.wikipedia.org/w/index.php?title=Scream_VI&oldid=1387286237"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-vi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 118,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2022
+          },
+          "end": {
+            "y": 2022
+          },
+          "label": "2022",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "One year after the Woodsboro killings orchestrated by Richie Kirsch and Amber Freeman One year after Scream (2022), which is placed in 2021 (inferred); article has \"Category:Films set in 2022\".",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-03-10",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Infobox: March 6, 2023 (Lincoln Square, Manhattan); AMC Lincoln Square Theater 2023 3; 10 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_VI",
+          "https://en.wikipedia.org/w/index.php?title=Scream_VI&oldid=1387286237"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-2022",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Matt Bettinelli-Olpin",
+        "qid": "Q6788348",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Tyler Gillett",
+        "qid": "Q16221753",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Vanderbilt",
+        "qid": "Q919049",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Guy Busick",
+        "qid": "Q110551211",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Vanderbilt",
+        "qid": "Q919049",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Melissa Barrera",
+        "qid": "Q20810462",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jenna Ortega",
+        "qid": "Q21738166",
+        "character": "Tara Carpenter",
+        "character_qid": "Q116971120",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jasmin Savoy Brown",
+        "qid": "Q24266627",
+        "character": "Mindy Meeks-Martin",
+        "character_qid": "Q138024460",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mason Gooding",
+        "qid": "Q47015205",
+        "character": "Chad Meeks-Martin",
+        "character_qid": "Q138024552",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hayden Panettiere",
+        "qid": "Q171571",
+        "character": "Kirby Reed",
+        "character_qid": "Q111721458",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Champion",
+        "qid": "Q65966450",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dermot Mulroney",
+        "qid": "Q363386",
+        "character": "Wayne Bailey",
+        "character_qid": "Q138024542",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liana Liberato",
+        "qid": "Q271125",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Devyn Nekoda",
+        "qid": "Q42605223",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Henry Czerny",
+        "qid": "Q739004",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Josh Segarra",
+        "qid": "Q6289358",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tony Revolori",
+        "qid": "Q16237562",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Samara Weaving",
+        "qid": "Q7408805",
+        "character": "Laura Crane",
+        "character_qid": "Q138674086",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Quaid",
+        "qid": "Q1139078",
+        "character": "Richie Kirsch",
+        "character_qid": "Q138024469",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387286237"
+      },
+      {
+        "role": "cast",
+        "name": "Andre Anthony",
+        "qid": "Q105534977",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Cadrot",
+        "qid": "Q85926606",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Max Laferriere",
+        "qid": "Q65116338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-7",
+    "title": "Scream 7",
+    "sort_title": null,
+    "type": "film",
+    "universe": "scream",
+    "continuity": "scream-films",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream 7",
+      "wikidata": "Q124758309",
+      "tmdb": "1159559",
+      "imdb": "tt27047903"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_7",
+      "https://en.wikipedia.org/w/index.php?title=Scream_7&oldid=1387132268"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "scream-7",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 114,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Scream VI",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No setting year stated in the article; placed after Scream VI by release order.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "scream-vi",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2026-02-27",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: Infobox: February 25, 2026 (Paramount Pictures lot); February 27, 2026 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_7",
+          "https://en.wikipedia.org/w/index.php?title=Scream_7&oldid=1387132268"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-vi",
+        "kind": "continues",
+        "note": "seventh film"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Kevin Williamson",
+        "qid": "Q360642",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Guy Busick",
+        "qid": "Q110551211",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Vanderbilt",
+        "qid": "Q919049",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marco Beltrami",
+        "qid": "Q465754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Neve Campbell",
+        "qid": "Q193482",
+        "character": "Sidney Prescott",
+        "character_qid": "Q303741",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Isabel May",
+        "qid": "Q64000332",
+        "character": "Tatum Evans",
+        "character_qid": "Q138568519",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joel McHale",
+        "qid": "Q311993",
+        "character": "Mark Evans",
+        "character_qid": "Q138568527",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courteney Cox",
+        "qid": "Q58912",
+        "character": "Gale Weathers",
+        "character_qid": "Q5518297",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jasmin Savoy Brown",
+        "qid": "Q24266627",
+        "character": "Mindy Meeks-Martin",
+        "character_qid": "Q138024460",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mason Gooding",
+        "qid": "Q47015205",
+        "character": "Chad Meeks-Martin",
+        "character_qid": "Q138024552",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anna Camp",
+        "qid": "Q1150316",
+        "character": "Jessica Bowden",
+        "character_qid": "Q138568579",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Rechner",
+        "qid": "Q112243292",
+        "character": "Ben Brown",
+        "character_qid": "Q138568593",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matthew Lillard",
+        "qid": "Q29086",
+        "character": "Stu Macher",
+        "character_qid": "Q130296465",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Consuelos",
+        "qid": "Q3124543",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ethan Embry",
+        "qid": "Q383064",
+        "character": "Marco Davis",
+        "character_qid": "Q138568615",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Asa Germann",
+        "qid": "Q123983571",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mckenna Grace",
+        "qid": "Q20752077",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Celeste O'Connor",
+        "qid": "Q97065529",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Randolph",
+        "qid": "Q124639221",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jimmy Tatro",
+        "qid": "Q17417513",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tim Simmons",
+        "qid": "Q98761729",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roger L. Jackson",
+        "qid": "Q2461148",
+        "character": "Ghostface",
+        "character_qid": "Q2444720",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Arquette",
+        "qid": "Q294185",
+        "character": "Dewey Riley",
+        "character_qid": "Q120262580",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Foley",
+        "qid": "Q364822",
+        "character": "Roman Bridger",
+        "character_qid": "Q138024473",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laurie Metcalf",
+        "qid": "Q236711",
+        "character": "Nancy Loomis",
+        "character_qid": "Q138024465",
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "scream-tv",
+    "title": "Scream",
+    "sort_title": null,
+    "type": "series",
+    "universe": "scream",
+    "continuity": "scream-tv",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "mtv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream (TV series)",
+      "wikidata": "Q18645277",
+      "tmdb": "62823",
+      "imdb": "tt3921180"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+    ],
+    "notes": "Production companies not checked.",
+    "units": [
+      {
+        "id": "scream-tv-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Lakewood (season 1)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The first two seasons, set in a fictional version of the town of Lakewood, Colorado, follow the story of Emma Duval No year stated.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-06-30",
+          "end_date": "2015-09-01",
+          "year": 2015,
+          "note": "Wikipedia: Series overview: episodes1 = 10 | start1 = June 30, 2015 | end1 = September 1, 2015 | network1 = MTV"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "scream-tv-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 14,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Continues the Lakewood storyline from season 1; no year stated.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-05-30",
+          "end_date": "2016-10-18",
+          "year": 2016,
+          "note": "Wikipedia: Series overview: episodes2 = 14 | start2 = May 30, 2016 | end2 = October 18, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-1996",
+        "kind": "ignores",
+        "note": "TV series is not canon to the films"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "scream-resurrection",
+    "title": "Scream: Resurrection",
+    "sort_title": null,
+    "type": "series",
+    "universe": "scream",
+    "continuity": "scream-tv-resurrection",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "vh1",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Scream (TV series)",
+      "wikidata": "Q18645277",
+      "tmdb": "62823",
+      "imdb": "tt3921180"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scream_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+    ],
+    "notes": "Split from scream-tv because Wikipedia says season 3 rebooted the timeline; it is season 3 of the same TV article. Production company not checked.",
+    "units": [
+      {
+        "id": "scream-resurrection",
+        "label": "Season 3",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Atlanta (rebooted season)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The third season follows the story of Deion Elliot, a local football star in Atlanta, who is tormented by the events of his tragic past. No year stated.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-07-08",
+          "end_date": "2019-07-10",
+          "year": 2019,
+          "note": "Wikipedia: Series overview: episodes3 = 6 | start3 = July 8, 2019 | end3 = July 10, 2019 | network3 = VH1"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Scream_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Scream_(TV_series)&oldid=1388247846"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "scream-tv",
+        "kind": "reboot-of",
+        "note": "season 3 rebooted the series with new cast, setting and timeline"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "f13-main",
+    "universe": "friday-the-13th",
+    "name": "Friday the 13th (original continuity)",
+    "short_name": "Friday the 13th",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The twelve films from 1980 to 2003 (incl. Jason X and the crossover Freddy vs. Jason), plus the prequel series Crystal Lake. Internal dating is notoriously inconsistent; see unit notes. Wikipedia: \"Among the twelve films was a crossover film featuring fellow horror icon Freddy Krueger from the A Nightmare on Elm Street franchise. … Crystal Lake is an American slasher television series … that serves as the prequel to the Friday the 13th franchise, set seven years before the original film, in 1972.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(franchise)&oldid=1388138344",
+      "https://en.wikipedia.org/w/index.php?title=Crystal_Lake_(TV_series)&oldid=1388217045"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "f13-2009",
+    "universe": "friday-the-13th",
+    "name": "Friday the 13th (2009 reboot)",
+    "short_name": "Friday the 13th",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The 2009 film restarted the continuity. Wikipedia: \"In 2009, a new Friday the 13th film which restarted the film series continuity was released.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Friday_the_13th_(franchise)&oldid=1388138344"
+    ],
+    "notes": ""
+  }
+]

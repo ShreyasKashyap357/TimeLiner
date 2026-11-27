@@ -2010,5 +2010,101 @@
     "data_dir": "hellboy",
     "description": "Guillermo del Toro's Hellboy films, the 2019 reboot, The Crooked Man (2024), and the animated films, each its own continuity.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "scream",
+    "name": "Scream",
+    "short_name": "Scream",
+    "order": 85,
+    "enabled": true,
+    "accent": {
+      "primary": "#B71C1C",
+      "secondary": "#E0E0E0"
+    },
+    "default_continuity": "scream-films",
+    "grouping_schemes": [],
+    "data_dir": "scream",
+    "description": "The seven Scream films (one continuity), the MTV series (not canon to the films) and its rebooted third season.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "saw",
+    "name": "Saw",
+    "short_name": "Saw",
+    "order": 86,
+    "enabled": true,
+    "accent": {
+      "primary": "#5D4037",
+      "secondary": "#C62828"
+    },
+    "default_continuity": "saw-main",
+    "grouping_schemes": [],
+    "data_dir": "saw",
+    "description": "The Saw films in the franchise's stated story chronology (Saw X is set between Saw and Saw II).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "evil-dead",
+    "name": "Evil Dead",
+    "short_name": "Evil Dead",
+    "order": 87,
+    "enabled": true,
+    "accent": {
+      "primary": "#33691E",
+      "secondary": "#B71C1C"
+    },
+    "default_continuity": "evil-dead-ash",
+    "grouping_schemes": [],
+    "data_dir": "evil-dead",
+    "description": "The Ash trilogy with Ash vs Evil Dead, the 2013 soft reboot, and Evil Dead Rise with its sequel.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "friday-the-13th",
+    "name": "Friday the 13th",
+    "short_name": "Friday the 13th",
+    "order": 88,
+    "enabled": true,
+    "accent": {
+      "primary": "#263238",
+      "secondary": "#B71C1C"
+    },
+    "default_continuity": "f13-main",
+    "grouping_schemes": [],
+    "data_dir": "friday-the-13th",
+    "description": "The twelve Friday the 13th films (with Jason X and Freddy vs. Jason) and Crystal Lake, and the 2009 remake as a separate continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "texas-chain-saw",
+    "name": "The Texas Chain Saw Massacre",
+    "short_name": "Texas Chain Saw Massacre",
+    "order": 89,
+    "enabled": true,
+    "accent": {
+      "primary": "#4E342E",
+      "secondary": "#FF7043"
+    },
+    "default_continuity": "tcm-original",
+    "grouping_schemes": [],
+    "data_dir": "texas-chain-saw",
+    "description": "The four Texas Chainsaw continuities as Wikipedia lays them out: the original sequels, the Platinum Dunes remake and prequel, the Millennium films, and the 2022 direct sequel.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "universal-monsters",
+    "name": "Universal Monsters",
+    "short_name": "Universal Monsters",
+    "order": 90,
+    "enabled": true,
+    "accent": {
+      "primary": "#37474F",
+      "secondary": "#9E9E9E"
+    },
+    "default_continuity": "universal-monsters-classic",
+    "grouping_schemes": [],
+    "data_dir": "universal-monsters",
+    "description": "Universal's classic monster films (1931–1955) with their stated sequels and crossovers.",
+    "last_verified": "2026-11-27"
   }
 ]

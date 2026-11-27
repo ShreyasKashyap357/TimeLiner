@@ -1,0 +1,3123 @@
+[
+  {
+    "id": "saw-2004",
+    "title": "Saw",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw (film)",
+      "wikidata": "Q486239",
+      "tmdb": "176",
+      "imdb": "tt0387564"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "Requested as \"Saw (2004 film)\"; the article is \"Saw (film)\". studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-2004",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 103,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) First in the franchise story-chronology table; no year stated.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-10-29",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: Infobox: January 19, 2004 (Sundance Film Festival); Sundance 2004 10; 29"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gregg Hoffman",
+        "qid": "Q1140592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cary Elwes",
+        "qid": "Q311093",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Glover",
+        "qid": "Q192165",
+        "character": "David Tapp",
+        "character_qid": "Q5240275",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Monica Potter",
+        "qid": "Q234344",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Emerson",
+        "qid": "Q276302",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ken Leung",
+        "qid": "Q312051",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Benito Martinez",
+        "qid": "Q817351",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Makenzie Vega",
+        "qid": "Q265547",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dina Meyer",
+        "qid": "Q231438",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ned Bellamy",
+        "qid": "Q1139190",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alexandra Bokyun Chun",
+        "qid": "Q3616285",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-x",
+    "title": "Saw X",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw X",
+      "wikidata": "Q115734942",
+      "tmdb": "951491",
+      "imdb": "tt21807222"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_X",
+      "https://en.wikipedia.org/w/index.php?title=Saw_X&oldid=1379264809"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-x",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 118,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "between Saw and Saw II",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Set between the events of Saw (2004) and Saw II (2005), the film sees John Kramer (Bell) travelling to Mexico in hopes that an experimental procedure may cure his terminal cancer. Placement stated explicitly; no year.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-09-29",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Infobox: September 29, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_X",
+          "https://en.wikipedia.org/w/index.php?title=Saw_X&oldid=1379264809"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-2004",
+        "kind": "continues",
+        "note": "interquel between Saw and Saw II"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kevin Greutert",
+        "qid": "Q926978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Josh Stolberg",
+        "qid": "Q6289410",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Pete Goldfinger",
+        "qid": "Q101477319",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Synnøve Macody Lund",
+        "qid": "Q12004583",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steven Brand",
+        "qid": "Q1190511",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Beach",
+        "qid": "Q1320615",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Renata Vaca",
+        "qid": "Q72924021",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Costas Mandylor",
+        "qid": "Q81489",
+        "character": "Mark Hoffman",
+        "character_qid": "Q751192",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1379264809"
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-ii",
+    "title": "Saw II",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw II",
+      "wikidata": "Q270410",
+      "tmdb": "215",
+      "imdb": "tt0432348"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_II",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-ii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 93,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) Third in the story chronology (after Saw X); no year stated.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-10-28",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: Infobox: October 28, 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_II",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-2004",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Darren Lynn Bouseman",
+        "qid": "Q518770",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Darren Lynn Bouseman",
+        "qid": "Q518770",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gregg Hoffman",
+        "qid": "Q1140592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Donnie Wahlberg",
+        "qid": "Q313470",
+        "character": "Eric Matthews",
+        "character_qid": "Q4532449",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Franky G",
+        "qid": "Q1058672",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Beverley Mitchell",
+        "qid": "Q234487",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dina Meyer",
+        "qid": "Q231438",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emmanuelle Vaugier",
+        "qid": "Q231739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erik Knudsen",
+        "qid": "Q461300",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn E. Plummer",
+        "qid": "Q594738",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noam Jenkins",
+        "qid": "Q3877584",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kelly Jones",
+        "qid": "Q725516",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cary Elwes",
+        "qid": "Q311093",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Emerson",
+        "qid": "Q276302",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lyriq Bent",
+        "qid": "Q3097678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Timothy Burd",
+        "qid": "Q42329064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-iii",
+    "title": "Saw III",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw III",
+      "wikidata": "Q276392",
+      "tmdb": "214",
+      "imdb": "tt0489270"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_III",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-iii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) No year stated.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-10-27",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: Infobox: October 27, 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_III",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-ii",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Darren Lynn Bouseman",
+        "qid": "Q518770",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gregg Hoffman",
+        "qid": "Q1140592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Angus Macfadyen",
+        "qid": "Q355392",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bahar Soomekh",
+        "qid": "Q269830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dina Meyer",
+        "qid": "Q231438",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Donnie Wahlberg",
+        "qid": "Q313470",
+        "character": "Eric Matthews",
+        "character_qid": "Q4532449",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Costas Mandylor",
+        "qid": "Q81489",
+        "character": "Mark Hoffman",
+        "character_qid": "Q751192",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Russell",
+        "qid": "Q239181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kelly Jones",
+        "qid": "Q725516",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cary Elwes",
+        "qid": "Q311093",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Emerson",
+        "qid": "Q276302",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Glover",
+        "qid": "Q192165",
+        "character": "David Tapp",
+        "character_qid": "Q5240275",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ken Leung",
+        "qid": "Q312051",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emmanuelle Vaugier",
+        "qid": "Q231739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Beverley Mitchell",
+        "qid": "Q234487",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noam Jenkins",
+        "qid": "Q3877584",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn E. Plummer",
+        "qid": "Q594738",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erik Knudsen",
+        "qid": "Q461300",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alan van Sprang",
+        "qid": "Q948310",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Debra Lynne McCabe",
+        "qid": "Q3020921",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. Larose",
+        "qid": "Q3042656",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kim Roberts",
+        "qid": "Q3196793",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lyriq Bent",
+        "qid": "Q3097678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Niamh Wilson",
+        "qid": "Q73566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Timothy Burd",
+        "qid": "Q42329064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mpho Koaho",
+        "qid": "Q6928260",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-iv",
+    "title": "Saw IV",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw IV",
+      "wikidata": "Q326319",
+      "tmdb": "663",
+      "imdb": "tt0890870"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_IV",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-iv",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 96,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The events of Saw III and Saw IV occur concurrently. Concurrent with Saw III; placed after it per the chronology table.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-10-25",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: Infobox: October 25, 2007 (Australia)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_IV",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-iii",
+        "kind": "continues",
+        "note": "runs concurrently with Saw III"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Darren Lynn Bouseman",
+        "qid": "Q518770",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Patrick Melton",
+        "qid": "Q3037574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Marcus Dunstan",
+        "qid": "Q3038269",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gregg Hoffman",
+        "qid": "Q1140592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Costas Mandylor",
+        "qid": "Q81489",
+        "character": "Mark Hoffman",
+        "character_qid": "Q751192",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Patterson",
+        "qid": "Q546119",
+        "character": "Agent Peter Strahm",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Russell",
+        "qid": "Q239181",
+        "character": "Jill Tuck",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Louis Ferreira",
+        "qid": "Q714479",
+        "character": "Art Blank",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Donnie Wahlberg",
+        "qid": "Q313470",
+        "character": "Eric Matthews",
+        "character_qid": "Q4532449",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Angus Macfadyen",
+        "qid": "Q355392",
+        "character": "Jeff Denlon",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bahar Soomekh",
+        "qid": "Q269830",
+        "character": "Lynn Denlon",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dina Meyer",
+        "qid": "Q231438",
+        "character": "Detective Kerry",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Devon Bostick",
+        "qid": "Q552896",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emmanuelle Vaugier",
+        "qid": "Q231739",
+        "character": "Addison",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noam Jenkins",
+        "qid": "Q3877584",
+        "character": "Michael",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erik Knudsen",
+        "qid": "Q461300",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lyriq Bent",
+        "qid": "Q3097678",
+        "character": "Officer Daniel Rigg",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. Larose",
+        "qid": "Q3042656",
+        "character": "Troy",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Van Patten",
+        "qid": "Q3161455",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kelly Jones",
+        "qid": "Q28025824",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Rushton",
+        "qid": "Q3195794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kim Roberts",
+        "qid": "Q3196793",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Niamh Wilson",
+        "qid": "Q73566",
+        "character": "Corbett Denlon",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ron Lea",
+        "qid": "Q3441429",
+        "character": "Rex",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sarain Boylan",
+        "qid": "Q3473446",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Simon Reynolds",
+        "qid": "Q9337054",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julian Richings",
+        "qid": "Q1319495",
+        "character": "Vagrant",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Athena Karkanis",
+        "qid": "Q2601064",
+        "character": "Agent Lindsey Perez",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marty Adams",
+        "qid": "Q6777354",
+        "character": "Ivan Landsness",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joanne Boland",
+        "qid": "Q42315916",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tony Nappo",
+        "qid": "Q9360019",
+        "character": "Gus",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": "Donnie Greco",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Janet Land",
+        "qid": "Q6153446",
+        "character": "Morgan",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-v",
+    "title": "Saw V",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw V",
+      "wikidata": "Q326177",
+      "tmdb": "11917",
+      "imdb": "tt1132626"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_V",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-v",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 92,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) No year stated.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-10-24",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: Infobox: October 24, 2008"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_V",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-iv",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "David Hackl",
+        "qid": "Q392716",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Patrick Melton",
+        "qid": "Q3037574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Marcus Dunstan",
+        "qid": "Q3038269",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Costas Mandylor",
+        "qid": "Q81489",
+        "character": "Mark Hoffman",
+        "character_qid": "Q751192",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Patterson",
+        "qid": "Q546119",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Russell",
+        "qid": "Q239181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julie Benz",
+        "qid": "Q230320",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Meagan Good",
+        "qid": "Q257286",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Rolston",
+        "qid": "Q693301",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Greg Bryk",
+        "qid": "Q203730",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Louis Ferreira",
+        "qid": "Q714479",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Donnie Wahlberg",
+        "qid": "Q313470",
+        "character": "Eric Matthews",
+        "character_qid": "Q4532449",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Glover",
+        "qid": "Q192165",
+        "character": "David Tapp",
+        "character_qid": "Q5240275",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bahar Soomekh",
+        "qid": "Q269830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Angus Macfadyen",
+        "qid": "Q355392",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cory Lee",
+        "qid": "Q448960",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ken Leung",
+        "qid": "Q312051",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dina Meyer",
+        "qid": "Q231438",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erik Knudsen",
+        "qid": "Q461300",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emmanuelle Vaugier",
+        "qid": "Q231739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Beverley Mitchell",
+        "qid": "Q234487",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn E. Plummer",
+        "qid": "Q594738",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carlo Rota",
+        "qid": "Q608695",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joris Jarsky",
+        "qid": "Q3183923",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laura Gordon",
+        "qid": "Q3218688",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Niamh Wilson",
+        "qid": "Q73566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Al Sapienza",
+        "qid": "Q2598599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lyriq Bent",
+        "qid": "Q3097678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Natalie Brown",
+        "qid": "Q3090630",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sarah Power",
+        "qid": "Q23978733",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Athena Karkanis",
+        "qid": "Q2601064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Timothy Burd",
+        "qid": "Q42329064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-vi",
+    "title": "Saw VI",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw VI",
+      "wikidata": "Q834327",
+      "tmdb": "22804",
+      "imdb": "tt1233227"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_VI",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-vi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 90,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) No year stated.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-10-23",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: Infobox: October 23, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_VI",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-v",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kevin Greutert",
+        "qid": "Q926978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Patrick Melton",
+        "qid": "Q3037574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Marcus Dunstan",
+        "qid": "Q3038269",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Costas Mandylor",
+        "qid": "Q81489",
+        "character": "Mark Hoffman",
+        "character_qid": "Q751192",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Russell",
+        "qid": "Q239181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Rolston",
+        "qid": "Q693301",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Outerbridge",
+        "qid": "Q82377",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tanedra Howard",
+        "qid": "Q369519",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "George Newbern",
+        "qid": "Q615200",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Devon Bostick",
+        "qid": "Q552896",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Karen Cliche",
+        "qid": "Q262840",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Patterson",
+        "qid": "Q546119",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Angus Macfadyen",
+        "qid": "Q355392",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bahar Soomekh",
+        "qid": "Q269830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Caroline Cave",
+        "qid": "Q2939979",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Darius McCrary",
+        "qid": "Q712964",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "François Sagat",
+        "qid": "Q561686",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gerry Mendicino",
+        "qid": "Q784987",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Van Patten",
+        "qid": "Q3161455",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shauna MacDonald",
+        "qid": "Q93818",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Athena Karkanis",
+        "qid": "Q2601064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Gilbert",
+        "qid": "Q6134606",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mpho Koaho",
+        "qid": "Q6928260",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Owens",
+        "qid": "Q504028",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Melanie Scrofano",
+        "qid": "Q6811348",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "saw-3d",
+    "title": "Saw 3D",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Saw 3D",
+      "wikidata": "Q676284",
+      "tmdb": "41439",
+      "imdb": "tt1477076"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saw_3D",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "saw-3d",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 90,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "see chronology",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Saw story chronology: Saw (2004) | Saw X (2023) | Saw II (2005) | Saw III (2006) | Saw IV (2007) | Saw V (2008) | Saw VI (2009) | Saw 3D (2010) | Jigsaw (2017) | Spiral (2021) No year stated.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-10-29",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: Infobox: October 29, 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Saw_3D",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-vi",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kevin Greutert",
+        "qid": "Q926978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Patrick Melton",
+        "qid": "Q3037574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gregg Hoffman",
+        "qid": "Q1140592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Costas Mandylor",
+        "qid": "Q81489",
+        "character": "Mark Hoffman",
+        "character_qid": "Q751192",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Betsy Russell",
+        "qid": "Q239181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sean Patrick Flanery",
+        "qid": "Q447967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cary Elwes",
+        "qid": "Q311093",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gina Holden",
+        "qid": "Q272965",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dean Armstrong",
+        "qid": "Q902542",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chester Bennington",
+        "qid": "Q19198",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tanedra Howard",
+        "qid": "Q369519",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noam Jenkins",
+        "qid": "Q3877584",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawnee Smith",
+        "qid": "Q233313",
+        "character": "Amanda Young",
+        "character_qid": "Q581031",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bahar Soomekh",
+        "qid": "Q269830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erik Knudsen",
+        "qid": "Q461300",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chad Donella",
+        "qid": "Q1058560",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gabby West",
+        "qid": "Q3093504",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Greg Bryk",
+        "qid": "Q203730",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Van Patten",
+        "qid": "Q3161455",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Rushton",
+        "qid": "Q3195794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rebecca Marshall",
+        "qid": "Q3421714",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shauna MacDonald",
+        "qid": "Q93818",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sebastian Pigott",
+        "qid": "Q7442499",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jon Cor",
+        "qid": "Q18392762",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jigsaw",
+    "title": "Jigsaw",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jigsaw (2017 film)",
+      "wikidata": "Q15712110",
+      "tmdb": "298250",
+      "imdb": "tt3348730"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jigsaw_(2017_film)",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "jigsaw",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 92,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "~10 years after Saw III",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "The present-day portion of Jigsaw takes place roughly ten years after John's death in Saw III. Disputed: the chronology table lists it ninth, but its footnote says \"According to Entertainment Weekly, Jigsaw is first in the timeline because it takes place both before and after the events of Saw.\" Its barn game took place \"ten years earlier … before the events of the first film\". The present-day portion is used for ordering.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-27",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: Infobox: October 27, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jigsaw_(2017_film)",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "saw-3d",
+        "kind": "continues",
+        "note": "standalone sequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Michael Spierig",
+        "qid": "Q23836180",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Peter Spierig",
+        "qid": "Q23836181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Josh Stolberg",
+        "qid": "Q6289410",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Pete Goldfinger",
+        "qid": "Q101477319",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gregg Hoffman",
+        "qid": "Q1140592",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Wan",
+        "qid": "Q108047434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Leigh Whannell",
+        "qid": "Q471215",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tobin Bell",
+        "qid": "Q310190",
+        "character": "Jigsaw",
+        "character_qid": "Q1985548",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Passmore",
+        "qid": "Q714861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Callum Keith Rennie",
+        "qid": "Q551558",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Hannah Emily Anderson",
+        "qid": "Q56164609",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laura Vandervoort",
+        "qid": "Q231401",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Braunstein",
+        "qid": "Q3370734",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mandela Van Peebles",
+        "qid": "Q6747959",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brittany Allen",
+        "qid": "Q4971579",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "spiral",
+    "title": "Spiral",
+    "sort_title": null,
+    "type": "film",
+    "universe": "saw",
+    "continuity": "saw-main",
+    "studio_brand": "lionsgate-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Spiral (2021 film)",
+      "wikidata": "Q64590532",
+      "tmdb": "602734",
+      "imdb": "tt10342730"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spiral_(2021_film)",
+      "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+    ],
+    "notes": "Also subtitled From the Book of Saw. studio_or_developer holds the infobox distributor; production companies not checked.",
+    "units": [
+      {
+        "id": "spiral",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 93,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "unknown time after John Kramer's death",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Spiral takes place an unknown amount of time after John's death, as another Jigsaw copycat creates their own games to punish corrupt police officers and detectives. Last in the chronology table. Spiral lead: \"It serves as a spin-off and the ninth installment of the Saw film series\". The exact phrase \"set in the Saw universe\" was not found in either article.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-05-14",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: Infobox: May 14, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Spiral_(2021_film)",
+          "https://en.wikipedia.org/w/index.php?title=Saw_(franchise)&oldid=1385887251"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jigsaw",
+        "kind": "continues",
+        "note": "spin-off; ninth installment"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Darren Lynn Bouseman",
+        "qid": "Q518770",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Josh Stolberg",
+        "qid": "Q6289410",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Pete Goldfinger",
+        "qid": "Q101477319",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mark Burg",
+        "qid": "Q3294017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Chris Rock",
+        "qid": "Q4109",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Oren Koules",
+        "qid": "Q1564667",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Charlie Clouser",
+        "qid": "Q537386",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Rock",
+        "qid": "Q4109",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Samuel L. Jackson",
+        "qid": "Q172678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Max Minghella",
+        "qid": "Q360426",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marisol Nichols",
+        "qid": "Q239050",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

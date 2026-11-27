@@ -1,0 +1,33 @@
+[
+  {
+    "id": "lcu-main",
+    "universe": "lcu",
+    "name": "Lokesh Cinematic Universe",
+    "short_name": "Lokesh Cinematic Universe",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Shared universe of Tamil-language action thrillers created by Lokesh Kanagaraj. Years come from the universe article's Timeline section, which says no official timeline exists. Wikipedia: \"The first film in the universe was Kaithi (2019), followed by Vikram (2022) and Leo (2023). It is set to continue with Benz, the first LCU film not to be directed by Lokesh, and Kaithi 2. … An official timeline has not been released by the makers, but the films indicate this.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+    ],
+    "notes": ""
+  }
+]

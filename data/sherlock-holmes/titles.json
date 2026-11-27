@@ -216,7 +216,7 @@
           "precision": "relative",
           "confidence": "inferred",
           "note": "The stories are collected in the same sequence, which is not supported by any fictional chronology.",
-          "order_index": 50,
+          "order_index": 30,
           "relative_to": {
             "after": "the-return-of-sherlock-holmes",
             "before": "the-valley-of-fear"
@@ -298,7 +298,7 @@
           "precision": "relative",
           "confidence": "inferred",
           "note": "The first story, set in 1894, has Holmes returning in London and explaining the period from 1891–1894.",
-          "order_index": 70,
+          "order_index": 60,
           "relative_to": {
             "after": "the-valley-of-fear",
             "before": "the-case-book-of-sherlock-holmes"
@@ -384,7 +384,7 @@
           "precision": "year",
           "confidence": "stated",
           "note": "In London in 1889, Sherlock Holmes and John Watson are visited by a Dr James Mortimer, who requests the aid of Holmes. / Reader demand stimulated him to write another Holmes novel in 1901–1902, The Hound of the Baskervilles, set before \"The Final Problem\".",
-          "order_index": 30,
+          "order_index": 40,
           "relative_to": null
         },
         "release": {
@@ -467,7 +467,7 @@
           "precision": "year",
           "confidence": "inferred",
           "note": "The first story, set in 1894, has Holmes returning in London and explaining the period from 1891–1894.",
-          "order_index": 40,
+          "order_index": 70,
           "relative_to": null
         },
         "release": {
@@ -552,7 +552,7 @@
           "precision": "relative",
           "confidence": "inferred",
           "note": "Sherlock Holmes receives a cipher message from Fred Porlock, a pseudonymous double agent of Professor Moriarty. Category: \"Novels set in 1875\".",
-          "order_index": 60,
+          "order_index": 50,
           "relative_to": {
             "after": "the-adventures-of-sherlock-holmes",
             "before": "the-memoirs-of-sherlock-holmes"

@@ -1,0 +1,1113 @@
+{
+ "foundation": {
+  "continuities": [
+   {
+    "id": "foundation-asimov",
+    "name": "Asimov's Foundation universe (Robot, Galactic Empire and Foundation books)",
+    "kind": "books",
+    "description": "One continuity: Asimov's Robot novels and collections, the three Galactic Empire novels and the seven Foundation novels, which Asimov merged into one future history in his later books, plus the estate-authorized Second Foundation trilogy (Benford, Bear, Brin), which Wikipedia places inside the Foundation timeline. order_index follows Asimov's own reading order from the Author's Note to Prelude to Foundation (1988), with Forward the Foundation and the Benford/Bear/Brin books inserted where Wikipedia places them.",
+    "quote": "Robot series: \"Later, Asimov merged the Robot series with his Foundation series.\" / Foundation universe: \"The Foundation universe describes a future history of humanity's colonization of the galaxy, spanning nearly 25,000 years, created through the gradual fusion of the Robot, Galactic Empire, and Foundation book series written by American author Isaac Asimov.\" … \"Asimov decided to merge the Foundation/Galactic Empire series with his Robot series. Thus, all three series are set in the same universe\" / Foundation (novel series): \"Asimov had tied in his Foundation series with his various other series, creating a single unified universe.\" / Galactic Empire series: \"set around the rise of Asimov's Galactic Empire, between the Robot and Foundation series to which they were linked in Asimov's later novels.\" / Foundation's Fear: \"set in Isaac Asimov's Foundation universe. It is the first book in a trilogy written after Asimov's death by three authors, authorized by the Asimov estate.\" / Foundation (novel series): \"A second Foundation trilogy of prequels was written after Asimov's death by three authors, authorized by the Asimov estate.\"",
+    "order_quote": "Asimov, \"Author's Note\" to Prelude to Foundation (Doubleday 1988), as transcribed by Neil Rieck (page linked from Wikipedia's Foundation universe, Robot series and Galactic Empire series articles): \"The chronological order of the books, in terms of future history (and not of publication date), is as follows:\" 1 The Complete Robot, 2 Caves of Steel, 3 The Naked Sun, 4 The Robots of Dawn, 5 Robots and Empire, 6 The Currents of Space, 7 The Stars, Like Dust, 8 Pebble in the Sky, 9 Prelude to Foundation, [Forward the Foundation not in Asimov's list], Foundation, Foundation and Empire, Second Foundation, Foundation's Edge, Foundation and Earth. \"There is room for a book between Robots and Empire and The Currents of Space, and between Prelude to Foundation and Foundation\". / Wikipedia (Foundation universe): \"The foreword to Prelude to Foundation contains the chronological ordering of Asimov's science fiction books. … Forward the Foundation does not appear in Asimov's list, as it had not yet been published at the time, and the order of the Empire novels in Asimov's list is not entirely consistent with other lists.\" / Galactic Empire series: \"In order of internal chronology the Empire series consists of: The Stars, Like Dust (1951) … The Currents of Space (1952) … Pebble in the Sky (1950) … However, Asimov stated in 1988 in the \\\"Author's Note\\\" to Prelude to Foundation that book #6 was \\\"The Currents of Space\\\" (1952), and that this was \\\"the first of my Empire novels,\\\" and that book #7 was \\\"The Stars, Like Dust\\\" (1951), which was \\\"[the] second Empire novel.\\\"\"",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Robot_series&oldid=1386792921",
+     "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+     "https://en.wikipedia.org/w/index.php?title=Foundation_(novel_series)&oldid=1385053714",
+     "https://en.wikipedia.org/w/index.php?title=Galactic_Empire_series&oldid=1386797694",
+     "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Fear&oldid=1384228271",
+     "https://neilrieck.net/links/cool_sci_fi.html#asimov-suggested-reading-order"
+    ],
+    "groupings": [
+     {
+      "id": "robot",
+      "label": "Robot"
+     },
+     {
+      "id": "empire",
+      "label": "Galactic Empire"
+     },
+     {
+      "id": "foundation",
+      "label": "Foundation"
+     },
+     {
+      "id": "second-foundation-trilogy",
+      "label": "Second Foundation trilogy"
+     }
+    ],
+    "calendar_note": "Two in-universe calendars appear in sources: Earth AD dates for the Robot era, and the Galactic Era (G.E.) / Foundation Era (F.E.) for the Empire and Foundation books (Seldon dies 12,069 G.E. = 1 F.E., per the Hari Seldon article). Numeric `year` is AD throughout, taken from the fan chronology (Johnny Pez) that Wikipedia's Foundation universe article cites in a section tagged original research, where G.E. 0 ≈ 11,584 AD. So every numeric year is inferred at best, and Foundation- and Empire-era years are disputed because Wikipedia also quotes Asimov's 1955 estimate that Seldon was born in 47,000 CE. G.E./F.E. labels are kept as stated. Asimov's order puts The Currents of Space before The Stars, Like Dust, so numeric years are not monotonic there."
+   },
+   {
+    "id": "foundation-apple-tv",
+    "name": "Foundation (Apple TV+ series)",
+    "kind": "screen",
+    "description": "The Apple TV+ series is its own continuity: a loose adaptation that changes the books (Cleon clone dynasty, Demerzel as a robot ruling behind it, reworked Gaal Dornick and Salvor Hardin). It uses its own E.I. (Era Imperial) calendar.",
+    "quote": "Foundation (TV series): \"the \\\"genetic dynasty\\\" of clones of the long-deceased Emperor Cleon … has been surreptitiously administered for 400 years by the regal Lady Demerzel … secretly a unique, ageless humanoid robot\"; reception: Rob Bricken (Gizmodo): \"Honestly, after most of the second episode, the show and the books are pretty much unrecognizable\"",
+    "source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+    "calendar_note": "Only season 1 gives an absolute year: 12,067 E.I. (Era Imperial). Seasons 2 and 3 are relative (\"152 years after the Second Crisis\")."
+   },
+   {
+    "id": "foundation-bbc-radio-1973",
+    "name": "The Foundation Trilogy (BBC Radio 4, 1973)",
+    "kind": "audio",
+    "ordered_only": true,
+    "description": "An eight-part BBC Radio 4 radio-drama adaptation of the original trilogy (1973), with some small date changes.",
+    "quote": "\"It is an adaptation of Isaac Asimov's Foundation trilogy of science fiction novels.\" … \"The conflict between The Foundation and Anacreon takes place 70 years into the Foundation era; in the novels it occurs in year 80 F.E.\"",
+    "source": "https://en.wikipedia.org/w/index.php?title=The_Foundation_Trilogy_(radio_series)&oldid=1358693564"
+   }
+  ],
+  "titles": [
+   {
+    "id": "i-robot",
+    "title": "I, Robot",
+    "type": "short-story-collection",
+    "wiki_article": "I, Robot",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Gnome Press",
+    "platform": "print-hardcover",
+    "pages": 253,
+    "units": [
+     {
+      "key": "i-robot",
+      "label": "Collection",
+      "release_date": "1950-12-02",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publisher = Gnome Press\"; \"publication_date = December 2, 1950\"; \"media_type = Print (hardback)\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=I%2C_Robot&oldid=1388105213",
+      "in_universe": {
+       "year": 1998,
+       "year_end": 2052,
+       "label": "21st century (1998–2052)",
+       "confidence": "inferred",
+       "precision": "year",
+       "quote": "I, Robot: \"Susan Calvin tells each story to a reporter, who serves as the narrator, in the 21st century.\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"I, Robot (1950) — a fixup novel composed of 9 short stories about robots, set in the 21st century (1998–2052) on Earth\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=I%2C_Robot&oldid=1388105213",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "\"21st century\" is stated by the I, Robot article; the exact 1998–2052 span comes from a fan chronology cited on Wikipedia, so inferred.",
+       "order_index": 0
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [],
+    "notes": "Fix-up collection of nine stories (1940–1950). Its stories (minus the frame) were later included in The Complete Robot. Asimov's Author's Note lists only The Complete Robot as book 1; I, Robot is placed first because Wikipedia's narrative-order list puts it first.",
+    "revid": 1388105213,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=I%2C_Robot&oldid=1388105213"
+   },
+   {
+    "id": "the-rest-of-the-robots",
+    "title": "The Rest of the Robots",
+    "type": "short-story-collection",
+    "wiki_article": "The Rest of the Robots",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 556,
+    "units": [
+     {
+      "key": "the-rest-of-the-robots",
+      "label": "Collection",
+      "release_date": "1964",
+      "release_precision": "year",
+      "release_quote": "Infobox: \"publisher = Doubleday\"; \"publication_date = 1964\". Lead: \"a collection of eight short stories and two full-length novels by American writer Isaac Asimov, published in 1964.\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Rest_of_the_Robots&oldid=1384228305",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Robot short stories (20th–22nd centuries); also reprints The Caves of Steel and The Naked Sun",
+       "confidence": "inferred",
+       "precision": "relative",
+       "quote": "Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Short stories about robots, set from the 20th to 22nd centuries (1995–2180), collected in The Complete Robot (1982), Robot Dreams (1986), Robot Visions (1990) and Gold\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=The_Rest_of_the_Robots&oldid=1384228305",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "Not in Asimov's Author's Note list. Placed with the robot short stories, before The Complete Robot (which supersedes it). No year because the collection also contains the two Baley novels (35th century), so no single span applies.",
+       "order_index": 1
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [],
+    "notes": "Eight short stories plus the novels The Caves of Steel and The Naked Sun (per lead). Overlaps with The Complete Robot and with the novel titles.",
+    "revid": 1384228305,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Rest_of_the_Robots&oldid=1384228305"
+   },
+   {
+    "id": "the-complete-robot",
+    "title": "The Complete Robot",
+    "type": "short-story-collection",
+    "wiki_article": "The Complete Robot",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 557,
+    "units": [
+     {
+      "key": "the-complete-robot",
+      "label": "Collection",
+      "release_date": "1982-04-09",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publisher = Doubleday\"; \"publication_date = 9 April 1982\" (cited to ISFDB); \"media_type = print\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Complete_Robot&oldid=1388105094",
+      "in_universe": {
+       "year": 1995,
+       "year_end": 2180,
+       "label": "20th–22nd centuries (1995–2180)",
+       "confidence": "inferred",
+       "precision": "year",
+       "quote": "Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Short stories about robots, set from the 20th to 22nd centuries (1995–2180), collected in The Complete Robot (1982) …\" / Robot series: \"The Complete Robot (1982) (which contains all short stories published in the earlier collections I, Robot (1950) and The Rest of the Robots (1964))\", item 1 of the \"List of works in the Robot Series, in chronological order by narrative\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+        "https://en.wikipedia.org/w/index.php?title=Robot_series&oldid=1386792921"
+       ],
+       "note": "Span from a fan chronology cited on Wikipedia. Asimov's Author's Note lists The Complete Robot as book 1.",
+       "order_index": 2
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [],
+    "notes": "Infobox media_type is just \"print\"; print-hardcover assumed for the 1982 Doubleday first edition (not stated). Contains the I, Robot and Rest of the Robots short stories.",
+    "revid": 1388105094,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Complete_Robot&oldid=1388105094"
+   },
+   {
+    "id": "the-caves-of-steel",
+    "title": "The Caves of Steel",
+    "type": "novel",
+    "wiki_article": "The Caves of Steel",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 224,
+    "units": [
+     {
+      "key": "the-caves-of-steel",
+      "label": "Novel",
+      "release_date": "1954-02-04",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publication_date = 1953 (magazine), 4 February 1954 (book)\"; \"A Doubleday hardcover followed in 1954.\" (serialised in Galaxy, October–December 1953)",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Caves_of_Steel&oldid=1388002944",
+      "in_universe": {
+       "year": 3421,
+       "year_end": null,
+       "label": "c. 3421 AD (35th century)",
+       "confidence": "inferred",
+       "precision": "year",
+       "quote": "The Caves of Steel: \"They live roughly three millennia in Earth's future\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"The Caves of Steel (1954) — first novel, set in the 35th century (3421) on Earth\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=The_Caves_of_Steel&oldid=1388002944",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "Novel article only says \"roughly three millennia in Earth's future\"; 3421 is from the fan chronology cited on Wikipedia.",
+       "order_index": 3
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [],
+    "notes": "Asimov's Author's Note #2: \"My first robot novel.\" Robot series: \"The next four robot novels The Caves of Steel (1953), The Naked Sun (1955), The Robots of Dawn (1983), and Robots and Empire (1985) make up the Elijah Baley … series\". Book release (1954-02-04) used, not the 1953 Galaxy serial.",
+    "revid": 1388002944,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Caves_of_Steel&oldid=1388002944"
+   },
+   {
+    "id": "the-naked-sun",
+    "title": "The Naked Sun",
+    "type": "novel",
+    "wiki_article": "The Naked Sun",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 187,
+    "units": [
+     {
+      "key": "the-naked-sun",
+      "label": "Novel",
+      "release_date": "1957-01",
+      "release_precision": "month",
+      "release_quote": "Infobox: \"publication_date = 1956 (magazine), January 1957 (book)\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Naked_Sun&oldid=1384227450",
+      "in_universe": {
+       "year": 3422,
+       "year_end": null,
+       "label": "c. 3422 AD (35th century)",
+       "confidence": "inferred",
+       "precision": "year",
+       "quote": "Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"The Naked Sun (1957) — second novel, set in the 35th century (3422) on the Spacer planet Solaria\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+       "note": "Year from the fan chronology cited on Wikipedia; the novel article gives no year.",
+       "order_index": 4
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [
+     {
+      "to": "the-caves-of-steel",
+      "kind": "continues",
+      "note": "Second Elijah Baley / R. Daneel Olivaw novel."
+     }
+    ],
+    "notes": "Serialised in Astounding 1956; book January 1957.",
+    "revid": 1384227450,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Naked_Sun&oldid=1384227450"
+   },
+   {
+    "id": "the-robots-of-dawn",
+    "title": "The Robots of Dawn",
+    "type": "novel",
+    "wiki_article": "The Robots of Dawn",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 419,
+    "units": [
+     {
+      "key": "the-robots-of-dawn",
+      "label": "Novel",
+      "release_date": "1983",
+      "release_precision": "year",
+      "release_quote": "Infobox: \"publication_date = 1983\"; lead: \"first published in 1983\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Robots_of_Dawn&oldid=1384227533",
+      "in_universe": {
+       "year": 3424,
+       "year_end": null,
+       "label": "c. 3424 AD (35th century)",
+       "confidence": "inferred",
+       "precision": "year",
+       "quote": "Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"The Robots of Dawn (1983) — third novel, set in the 35th century (3424) on the Spacer planet Aurora\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+       "note": "Year from the fan chronology cited on Wikipedia.",
+       "order_index": 5
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [
+     {
+      "to": "the-naked-sun",
+      "kind": "continues",
+      "note": "Third Baley/Daneel novel."
+     }
+    ],
+    "notes": "",
+    "revid": 1384227533,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Robots_of_Dawn&oldid=1384227533"
+   },
+   {
+    "id": "robots-and-empire",
+    "title": "Robots and Empire",
+    "type": "novel",
+    "wiki_article": "Robots and Empire",
+    "continuity": "foundation-asimov",
+    "grouping": "robot",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 383,
+    "units": [
+     {
+      "key": "robots-and-empire",
+      "label": "Novel",
+      "release_date": "1985-09-20",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publisher = Doubleday Books\"; \"publication_date = 20 September 1985\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Robots_and_Empire&oldid=1384225781",
+      "in_universe": {
+       "year": 3624,
+       "year_end": null,
+       "label": "c. 3624 AD (37th century; about two centuries after Baley's death)",
+       "confidence": "inferred",
+       "precision": "year",
+       "quote": "Robots and Empire: \"The Earthman Elijah Baley (the detective hero of the previous Robot books) has died nearly two centuries earlier.\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Robots and Empire (1985) — fourth novel, set in the 37th century (3624) on Earth, Solaria, Aurora, and Baleyworld\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Robots_and_Empire&oldid=1384225781",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "Year from the fan chronology cited on Wikipedia; the novel article gives only the relative gap.",
+       "order_index": 6
+      },
+      "grouping": "robot"
+     }
+    ],
+    "links": [
+     {
+      "to": "the-robots-of-dawn",
+      "kind": "continues",
+      "note": "Fourth Baley/Daneel novel."
+     },
+     {
+      "to": "pebble-in-the-sky",
+      "kind": "shares-characters",
+      "note": "Explains the radioactive Earth of Pebble in the Sky."
+     }
+    ],
+    "notes": "Bridge book between the Robot and Empire/Foundation series.",
+    "revid": 1384225781,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Robots_and_Empire&oldid=1384225781"
+   },
+   {
+    "id": "the-currents-of-space",
+    "title": "The Currents of Space",
+    "type": "novel",
+    "wiki_article": "The Currents of Space",
+    "continuity": "foundation-asimov",
+    "grouping": "empire",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 217,
+    "units": [
+     {
+      "key": "the-currents-of-space",
+      "label": "Novel",
+      "release_date": "1952",
+      "release_precision": "year",
+      "release_quote": "Infobox: \"publication_date = 1952\"; lead: \"published in 1952\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Currents_of_Space&oldid=1384228268",
+      "in_universe": {
+       "year": 11129,
+       "year_end": null,
+       "label": "c. 11,000 AD (Trantor's rise to galactic empire)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "The Currents of Space: \"The approximate date is around the year 11,000 AD (originally 34,500 AD, according to Asimov's early 1950s chronology), when the Trantorian Empire encompasses roughly half of the galaxy.\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"The Currents of Space (1952) — second novel, set in the 112th century (11129)\" / Galactic Empire series: \"In order of internal chronology the Empire series consists of: The Stars, Like Dust (1951) … The Currents of Space (1952) … Pebble in the Sky (1950) … However, Asimov stated in 1988 in the \\\"Author's Note\\\" to Prelude to Foundation that book #6 was \\\"The Currents of Space\\\" (1952), and that this was \\\"the first of my Empire novels,\\\" and that book #7 was \\\"The Stars, Like Dust\\\" (1951), which was \\\"[the] second Empire novel.\\\"\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=The_Currents_of_Space&oldid=1384228268",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+        "https://en.wikipedia.org/w/index.php?title=Galactic_Empire_series&oldid=1386797694"
+       ],
+       "note": "Disputed twice: (1) date (c. 11,000 AD vs Asimov's early 34,500 AD); (2) order: Asimov's Author's Note puts Currents (#6) before The Stars, Like Dust (#7), but Wikipedia's internal-chronology lists put Stars (c. 4850 AD) first. order_index follows Asimov as instructed, so years are not monotonic here.",
+       "order_index": 7
+      },
+      "grouping": "empire"
+     }
+    ],
+    "links": [],
+    "notes": "Asimov's Author's Note #6: \"the first of my Empire novels\".",
+    "revid": 1384228268,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Currents_of_Space&oldid=1384228268"
+   },
+   {
+    "id": "the-stars-like-dust",
+    "title": "The Stars, Like Dust",
+    "type": "novel",
+    "wiki_article": "The Stars, Like Dust",
+    "continuity": "foundation-asimov",
+    "grouping": "empire",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 218,
+    "units": [
+     {
+      "key": "the-stars-like-dust",
+      "label": "Novel",
+      "release_date": "1951-02-15",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publication_date = February 15, 1951\" (cited to NYT \"Books Published Today\")",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Stars%2C_Like_Dust&oldid=1384227974",
+      "in_universe": {
+       "year": 4850,
+       "year_end": null,
+       "label": "c. 4850 AD (49th century, before the Galactic Empire)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"The Stars, Like Dust (1951) — first novel, set in the 49th century (4850), thousands of years in the future before the founding of a Galactic Empire\" / Galactic Empire series: \"In order of internal chronology the Empire series consists of: The Stars, Like Dust (1951) … The Currents of Space (1952) … Pebble in the Sky (1950) … However, Asimov stated in 1988 in the \\\"Author's Note\\\" to Prelude to Foundation that book #6 was \\\"The Currents of Space\\\" (1952), and that this was \\\"the first of my Empire novels,\\\" and that book #7 was \\\"The Stars, Like Dust\\\" (1951), which was \\\"[the] second Empire novel.\\\"\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+        "https://en.wikipedia.org/w/index.php?title=Galactic_Empire_series&oldid=1386797694"
+       ],
+       "note": "Asimov ordered this AFTER The Currents of Space (Author's Note #7), while Wikipedia's internal-chronology lists place it first (c. 4850 AD). Kept at Asimov's position; year disputed.",
+       "order_index": 8
+      },
+      "grouping": "empire"
+     }
+    ],
+    "links": [],
+    "notes": "Asimov's Author's Note #7: \"the second Empire novel\". Foundation universe: \"This work is regarded by Asimov as part of the Empire series, but does not directly mention either Trantor or the other Spacer worlds.\"",
+    "revid": 1384227974,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Stars%2C_Like_Dust&oldid=1384227974"
+   },
+   {
+    "id": "pebble-in-the-sky",
+    "title": "Pebble in the Sky",
+    "type": "novel",
+    "wiki_article": "Pebble in the Sky",
+    "continuity": "foundation-asimov",
+    "grouping": "empire",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 223,
+    "units": [
+     {
+      "key": "pebble-in-the-sky",
+      "label": "Novel",
+      "release_date": "1950-01-19",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publication_date = January 19, 1950\"; lead: \"published in 1950. This work is his first novel.\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Pebble_in_the_Sky&oldid=1384223880",
+      "in_universe": {
+       "year": 12411,
+       "year_end": null,
+       "label": "c. 12,411 AD (Galactic Empire era)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Pebble in the Sky: \"transported tens of thousands of years into the future (50,000 years, by one character's estimate, a figure later retconned by future Asimov works as a \\\"mistake\\\")\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Pebble in the Sky (1950) — third novel, set in the 125th century (12411)\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Pebble_in_the_Sky&oldid=1384223880",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "The in-text estimate (50,000 years ahead) conflicts with the later retconned chronology (c. 12,411 AD), so disputed.",
+       "order_index": 9
+      },
+      "grouping": "empire"
+     }
+    ],
+    "links": [],
+    "notes": "Asimov's Author's Note #8: third Empire novel. Foundation universe: \"The Foundation series is set in the same universe as Asimov's first published novel, Pebble in the Sky, although Foundation takes place about 10,000 years later.\"",
+    "revid": 1384223880,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Pebble_in_the_Sky&oldid=1384223880"
+   },
+   {
+    "id": "prelude-to-foundation",
+    "title": "Prelude to Foundation",
+    "type": "novel",
+    "wiki_article": "Prelude to Foundation",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 403,
+    "units": [
+     {
+      "key": "prelude-to-foundation",
+      "label": "Novel",
+      "release_date": "1988-11",
+      "release_precision": "month",
+      "release_quote": "Infobox: \"publisher = Doubleday\"; \"publication_date = November 1988\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Prelude_to_Foundation&oldid=1384221799",
+      "in_universe": {
+       "year": 23604,
+       "year_end": null,
+       "label": "12,020 G.E.",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Prelude to Foundation: \"Prelude to Foundation is set in the year 12,020 G.E. (Galactic Era), during the rocky reign of the Emperor Cleon I.\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Prelude to Foundation (1988) — first novel, set in the 237th century (23604)\" / Foundation (novel series): \"Asimov estimates that his Foundation series takes place nearly 50,000 years into the future, with Hari Seldon born in 47,000 CE.\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Prelude_to_Foundation&oldid=1384221799",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_(novel_series)&oldid=1385053714"
+       ],
+       "note": "The 12,020 G.E. label is stated. The numeric AD year is a conversion from a fan chronology cited on Wikipedia (G.E. 0 ≈ 11,584 AD) and conflicts with Asimov's 1955 estimate quoted on Wikipedia (\"Hari Seldon born in 47,000 CE\"), so the numeric year is disputed.",
+       "order_index": 10
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [],
+    "notes": "Asimov's Author's Note #9: \"This is the first Foundation novel.\"",
+    "revid": 1384221799,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Prelude_to_Foundation&oldid=1384221799"
+   },
+   {
+    "id": "forward-the-foundation",
+    "title": "Forward the Foundation",
+    "type": "novel",
+    "wiki_article": "Forward the Foundation",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 417,
+    "units": [
+     {
+      "key": "forward-the-foundation",
+      "label": "Novel",
+      "release_date": "1993",
+      "release_precision": "year",
+      "release_quote": "Infobox: \"publication_date = 1993\"; lead: \"published posthumously in 1993\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Forward_the_Foundation&oldid=1384226866",
+      "in_universe": {
+       "year": 23612,
+       "year_end": 23653,
+       "label": "12,028–12,069 G.E. (ends at Seldon's death, 1 F.E.)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Forward the Foundation: \"The story takes place on Trantor, and begins eight years after the events of Prelude to Foundation.\" / Hari Seldon: \"born in the 10th month of the 11,988th year of the Galactic Era (GE) (−79 Foundation Era (FE)) and died 12,069 GE (1 FE).\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Forward the Foundation (1993) — second novel, set in the 237th century (23612–23653)\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Forward_the_Foundation&oldid=1384226866",
+        "https://en.wikipedia.org/w/index.php?title=Hari_Seldon&oldid=1364807075",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "Start derived: 12,020 G.E. (Prelude) + 8 years = 12,028 G.E. End = Seldon's death, 12,069 G.E. (1 F.E.), stated in the Hari Seldon article from the in-universe Encyclopedia Galactica. Numeric AD years from the fan chronology (see Prelude note on the 47,000 CE conflict).",
+       "order_index": 11
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [
+     {
+      "to": "prelude-to-foundation",
+      "kind": "continues",
+      "note": "Second prequel, eight years after Prelude."
+     }
+    ],
+    "notes": "Not in Asimov's 1988 Author's Note (published 1993). Placed between Prelude and Foundation, where Asimov said there was \"room for a book\" and where Wikipedia's list puts it.",
+    "revid": 1384226866,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Forward_the_Foundation&oldid=1384226866"
+   },
+   {
+    "id": "foundations-fear",
+    "title": "Foundation's Fear",
+    "type": "novel",
+    "wiki_article": "Foundation's Fear",
+    "continuity": "foundation-asimov",
+    "grouping": "second-foundation-trilogy",
+    "studio_or_publisher": "HarperPrism",
+    "platform": "print-hardcover",
+    "pages": 624,
+    "units": [
+     {
+      "key": "foundations-fear",
+      "label": "Novel",
+      "release_date": "1997-02",
+      "release_precision": "month",
+      "release_quote": "Infobox: \"publisher = Harper Prism\"; \"publication_date = February 1997\"; \"media_type = Print (hardback & paperback)\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Fear&oldid=1384228271",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "During Forward the Foundation (between its parts one and two)",
+       "confidence": "inferred",
+       "precision": "relative",
+       "quote": "Foundation universe: \"Foundation's Fear (1997) takes place chronologically between part one and part two of Asimov's second prequel novel, Forward the Foundation; Foundation and Chaos (1998) is set at the same time as the first chapter of Foundation, filling in the background; Foundation's Triumph (1999) covers ground following the recording of the holographic messages to the Foundation\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+       "note": "No year given. Placed after Forward the Foundation because it falls inside it (between parts one and two); a single unit cannot be split, so this is approximate.",
+       "order_index": 12
+      },
+      "grouping": "second-foundation-trilogy"
+     }
+    ],
+    "links": [
+     {
+      "to": "forward-the-foundation",
+      "kind": "shares-characters",
+      "note": "Set between parts one and two of Forward the Foundation."
+     }
+    ],
+    "notes": "Benford. First of the estate-authorized \"Second Foundation trilogy\". First-edition format not stated (infobox: hardback & paperback); print-hardcover assumed.",
+    "revid": 1384228271,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Fear&oldid=1384228271",
+    "author": "Gregory Benford"
+   },
+   {
+    "id": "foundation-and-chaos",
+    "title": "Foundation and Chaos",
+    "type": "novel",
+    "wiki_article": "Foundation and Chaos",
+    "continuity": "foundation-asimov",
+    "grouping": "second-foundation-trilogy",
+    "studio_or_publisher": "HarperPrism",
+    "platform": "print-hardcover",
+    "pages": 352,
+    "units": [
+     {
+      "key": "foundation-and-chaos",
+      "label": "Novel",
+      "release_date": "1998-02",
+      "release_precision": "month",
+      "release_quote": "Infobox: \"publisher = Harper Prism\"; \"publication_date = February 1998\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_and_Chaos&oldid=1384228276",
+      "in_universe": {
+       "year": 23651,
+       "year_end": null,
+       "label": "c. 12,067 G.E. (same time as \"The Psychohistorians\")",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Foundation and Chaos: \"takes place almost entirely in the same time frame as \\\"The Psychohistorians\\\", which is the first part of the novel Foundation\" / Foundation (Asimov novel): \"In 12,067 G.E. (\\\"Galactic Era\\\"), mathematician and psychologist Hari Seldon has developed psychohistory\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation_and_Chaos&oldid=1384228276",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_(Asimov_novel)&oldid=1384225785"
+       ],
+       "note": "Year derived from the Psychohistorians' 12,067 G.E.; AD conversion as for the Asimov novels. Placed before Foundation because it parallels Foundation's first part.",
+       "order_index": 13
+      },
+      "grouping": "second-foundation-trilogy"
+     }
+    ],
+    "links": [
+     {
+      "to": "foundations-fear",
+      "kind": "continues",
+      "note": "Second book of the trilogy."
+     },
+     {
+      "to": "foundation-novel",
+      "kind": "shares-characters",
+      "note": "Parallels \"The Psychohistorians\"."
+     }
+    ],
+    "notes": "Bear. Print-hardcover assumed (infobox: hardback & paperback).",
+    "revid": 1384228276,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation_and_Chaos&oldid=1384228276",
+    "author": "Greg Bear"
+   },
+   {
+    "id": "foundations-triumph",
+    "title": "Foundation's Triumph",
+    "type": "novel",
+    "wiki_article": "Foundation's Triumph",
+    "continuity": "foundation-asimov",
+    "grouping": "second-foundation-trilogy",
+    "studio_or_publisher": "HarperPrism",
+    "platform": "print-hardcover",
+    "pages": 400,
+    "units": [
+     {
+      "key": "foundations-triumph",
+      "label": "Novel",
+      "release_date": "1999-05",
+      "release_precision": "month",
+      "release_quote": "Infobox: \"publisher = Harper Prism\"; \"publication_date = May 1999\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Triumph&oldid=1384228281",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After Seldon records his holographic messages (end of Seldon's life)",
+       "confidence": "inferred",
+       "precision": "relative",
+       "quote": "Foundation universe: \"Foundation's Fear (1997) takes place chronologically between part one and part two of Asimov's second prequel novel, Forward the Foundation; Foundation and Chaos (1998) is set at the same time as the first chapter of Foundation, filling in the background; Foundation's Triumph (1999) covers ground following the recording of the holographic messages to the Foundation\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+       "note": "No year. Placed after Foundation and Chaos and before the main body of Foundation. Seldon's death is 12,069 G.E. (1 F.E.) per the Hari Seldon article, but the novel's own span is not given.",
+       "order_index": 14
+      },
+      "grouping": "second-foundation-trilogy"
+     }
+    ],
+    "links": [
+     {
+      "to": "foundation-and-chaos",
+      "kind": "continues",
+      "note": "Third book of the trilogy."
+     }
+    ],
+    "notes": "Brin. Wikipedia: \"Brin synthesizes dozens of Foundation-Empire-Robots novels and short stories … into a consistent framework.\" Print-hardcover assumed.",
+    "revid": 1384228281,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Triumph&oldid=1384228281",
+    "author": "David Brin"
+   },
+   {
+    "id": "foundation-novel",
+    "title": "Foundation",
+    "type": "novel",
+    "wiki_article": "Foundation (Asimov novel)",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Gnome Press",
+    "platform": "print-hardcover",
+    "pages": 255,
+    "units": [
+     {
+      "key": "foundation-novel",
+      "label": "Novel",
+      "release_date": "1951-08-30",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publisher = Gnome Press\"; \"publication_date = August 30, 1951\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_(Asimov_novel)&oldid=1384225785",
+      "in_universe": {
+       "year": 23651,
+       "year_end": 23812,
+       "label": "12,067 G.E. – c. 155 F.E. (Encyclopedia Foundation on Terminus, 50 F.E.)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Foundation (Asimov novel): \"In 12,067 G.E. (\\\"Galactic Era\\\"), mathematician and psychologist Hari Seldon has developed psychohistory\" … \"In 50 F.E. (\\\"Foundation Era\\\"), the Encyclopedia Foundation … is established on the mineral-poor agricultural planet Terminus\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Foundation (1951) — third novel, set from the 237th to 239th centuries (23651–23812)\" / Foundation (novel series): \"Asimov estimates that his Foundation series takes place nearly 50,000 years into the future, with Hari Seldon born in 47,000 CE.\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation_(Asimov_novel)&oldid=1384225785",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_(novel_series)&oldid=1385053714"
+       ],
+       "note": "12,067 G.E. and 50 F.E. are stated. The \"c. 155 F.E.\" end is inferred from the fan chronology end (23812). The numeric AD year is a conversion from a fan chronology cited on Wikipedia (G.E. 0 ≈ 11,584 AD) and conflicts with Asimov's 1955 estimate quoted on Wikipedia (\"Hari Seldon born in 47,000 CE\"), so the numeric year is disputed.",
+       "order_index": 15
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [
+     {
+      "to": "forward-the-foundation",
+      "kind": "continues",
+      "note": "Asimov reading order: Foundation follows the prequels."
+     }
+    ],
+    "notes": "Fix-up of four Astounding stories (1942–44) plus the new \"The Psychohistorians\". Gnome first edition (hardcover).",
+    "revid": 1384225785,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation_(Asimov_novel)&oldid=1384225785"
+   },
+   {
+    "id": "foundation-and-empire",
+    "title": "Foundation and Empire",
+    "type": "novel",
+    "wiki_article": "Foundation and Empire",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Gnome Press",
+    "platform": "print-hardcover",
+    "pages": 247,
+    "units": [
+     {
+      "key": "foundation-and-empire",
+      "label": "Novel",
+      "release_date": "1952",
+      "release_precision": "year",
+      "release_quote": "Infobox: \"publisher = Gnome Press\"; \"publication_date = 1952\"; \"media_type = Print (hardcover)\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_and_Empire&oldid=1386005028",
+      "in_universe": {
+       "year": 23847,
+       "year_end": 23963,
+       "label": "c. 195–311 F.E. (Bel Riose; the Mule)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Foundation and Empire (1952) — fourth novel, set from the 239th to 240th centuries (23847–23963)\" / Foundation (novel series): \"Asimov estimates that the Mule rises and falls somewhere around 47300 CE.\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_(novel_series)&oldid=1385053714"
+       ],
+       "note": "No G.E./F.E. year is stated in the novel article. The F.E. range is derived from the fan chronology (1 F.E. ≈ 23,653 AD from Seldon's death year), so inferred, and it conflicts with Asimov's \"around 47300 CE\", so disputed.",
+       "order_index": 16
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [
+     {
+      "to": "foundation-novel",
+      "kind": "continues",
+      "note": "Second book of the Foundation Trilogy."
+     }
+    ],
+    "notes": "",
+    "revid": 1386005028,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation_and_Empire&oldid=1386005028"
+   },
+   {
+    "id": "second-foundation",
+    "title": "Second Foundation",
+    "type": "novel",
+    "wiki_article": "Second Foundation",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Gnome Press",
+    "platform": "print-hardcover",
+    "pages": 210,
+    "units": [
+     {
+      "key": "second-foundation",
+      "label": "Novel",
+      "release_date": "1953-05-15",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publisher = Gnome Press\"; \"publication_date = May 15, 1953\"; \"media_type = Print (Hardcover)\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Second_Foundation&oldid=1384225790",
+      "in_universe": {
+       "year": 23968,
+       "year_end": 24029,
+       "label": "c. 316–377 F.E. (Part II is 60 years after Part I)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Second Foundation: \"Part II takes place 60 years after the first part, 55 years after the Mule's death by natural causes.\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Second Foundation (1953) — fifth novel, set from the 240th to 241st centuries (23968–24029)\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Second_Foundation&oldid=1384225790",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "F.E. labels derived from the fan chronology (inferred); they conflict with Asimov's 47,000 CE-based estimate, so disputed.",
+       "order_index": 17
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [
+     {
+      "to": "foundation-and-empire",
+      "kind": "continues",
+      "note": "Third book of the Foundation Trilogy."
+     }
+    ],
+    "notes": "",
+    "revid": 1384225790,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Second_Foundation&oldid=1384225790"
+   },
+   {
+    "id": "foundations-edge",
+    "title": "Foundation's Edge",
+    "type": "novel",
+    "wiki_article": "Foundation's Edge",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 367,
+    "units": [
+     {
+      "key": "foundations-edge",
+      "label": "Novel",
+      "release_date": "1982-06-01",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"published = June 1, 1982 (Doubleday)\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Edge&oldid=1384221787",
+      "in_universe": {
+       "year": 24150,
+       "year_end": null,
+       "label": "c. 500 F.E.",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Foundation's Edge: \"Five hundred years after the establishment of the Foundation, the Mayor of Terminus, Harla Branno, is basking in a political glow\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Foundation's Edge (1982) — sixth novel, set in the 242nd century (24150)\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Edge&oldid=1384221787",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "\"Five hundred years after the establishment\" is stated (relative to F.E.), and the label follows it. The numeric AD year is from the fan chronology and is disputed against Asimov's 47,000 CE estimate.",
+       "order_index": 18
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [
+     {
+      "to": "second-foundation",
+      "kind": "continues",
+      "note": "First sequel, written 30 years later."
+     }
+    ],
+    "notes": "",
+    "revid": 1384221787,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation%27s_Edge&oldid=1384221787"
+   },
+   {
+    "id": "foundation-and-earth",
+    "title": "Foundation and Earth",
+    "type": "novel",
+    "wiki_article": "Foundation and Earth",
+    "continuity": "foundation-asimov",
+    "grouping": "foundation",
+    "studio_or_publisher": "Doubleday",
+    "platform": "print-hardcover",
+    "pages": 356,
+    "units": [
+     {
+      "key": "foundation-and-earth",
+      "label": "Novel",
+      "release_date": "1986-10-03",
+      "release_precision": "day",
+      "release_quote": "Infobox: \"publisher = Doubleday\"; \"publication_date = 1986-10-03\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_and_Earth&oldid=1384221805",
+      "in_universe": {
+       "year": 24150,
+       "year_end": null,
+       "label": "c. 500 F.E. (immediately after Foundation's Edge)",
+       "confidence": "disputed",
+       "precision": "year",
+       "quote": "Foundation (novel series): \"Foundation and Earth. This novel, which takes place some 500 years after Seldon, ties up all the loose ends and ties all his Robot, Empire, and Foundation novels into a single story.\" / Foundation universe (Wikipedia; section tagged original research / more citations needed; years cited to Johnny Pez's \"Insanely Complete Fiction List\", The Science Fiction Review): \"Foundation and Earth (1986) — seventh novel, set in the 242nd century (24150)\"",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Foundation_(novel_series)&oldid=1385053714",
+        "https://en.wikipedia.org/w/index.php?title=Foundation_universe&oldid=1387579607"
+       ],
+       "note": "\"Some 500 years after Seldon\" is stated. Numeric AD year from the fan chronology, disputed as above.",
+       "order_index": 19
+      },
+      "grouping": "foundation"
+     }
+    ],
+    "links": [
+     {
+      "to": "foundations-edge",
+      "kind": "continues",
+      "note": "Direct sequel."
+     },
+     {
+      "to": "the-caves-of-steel",
+      "kind": "shares-characters",
+      "note": "R. Daneel Olivaw."
+     }
+    ],
+    "notes": "Chronologically the last book. Rieck notes Asimov's Author's Note misprints its year as 1983; Wikipedia infobox gives 1986-10-03.",
+    "revid": 1384221805,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation_and_Earth&oldid=1384221805"
+   },
+   {
+    "id": "foundation-tv",
+    "title": "Foundation",
+    "type": "series",
+    "wiki_article": "Foundation (TV series)",
+    "continuity": "foundation-apple-tv",
+    "studio_or_developer": "Skydance Television / Phantom Four",
+    "publisher": null,
+    "platform": "apple-tv-plus",
+    "platforms": [
+     "apple-tv-plus"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 10,
+      "release_date": "2021-09-24",
+      "release_end": "2021-11-19",
+      "release_quote": "Series overview: \"episodes1 = 10 | start1 = {{Start date|2021|09|24}} | end1 = {{End date|2021|11|19}}\"; lead: \"The series premiered on September 24, 2021.\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+      "in_universe": {
+       "year": 12067,
+       "year_end": null,
+       "label": "12,067 E.I. (Era Imperial) onward",
+       "confidence": "stated",
+       "precision": "year",
+       "quote": "Episode 1 summary: \"In the year 12,067 E.I. (Era Imperial), the prodigy Gaal Dornick travels from her academically repressive homeworld of Synnax to Trantor\" … episode 3: \"Nineteen years after the Star Bridge attack (12,086 E.I.)\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+       "order_index": 0
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 10,
+      "release_date": "2023-07-14",
+      "release_end": "2023-09-15",
+      "release_quote": "Series overview: \"episodes2 = 10 | start2 = {{Start date|2023|07|14}} | end2 = {{End date|2023|09|15}}\"; \"The second season premiered on July 14, 2023.\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1 (the Second Crisis)",
+       "confidence": "inferred",
+       "precision": "relative",
+       "quote": "Season 3 episode 1 summary: \"152 years after the Second Crisis\" (season 2 covers the Second Crisis); cast: \"Hober Mallow (season 2), a roguish trader and con man who plays an important role in Seldon's plan\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+       "note": "Wikipedia states no E.I. year for season 2; placed after season 1 by story and broadcast order.",
+       "order_index": 1
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 10,
+      "release_date": "2025-07-11",
+      "release_end": "2025-09-12",
+      "release_quote": "Series overview: \"episodes3 = 10 | start3 = {{Start date|2025|07|11}} | end3 = {{End date|2025|09|12}}\"; \"The third season premiered on July 11, 2025.\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "152 years after the Second Crisis (the Mule)",
+       "confidence": "stated",
+       "precision": "relative",
+       "quote": "Episode 21 (S3E1) summary: \"152 years after the Second Crisis, the Empire has given up control of the Outer Reach, and the Foundation has amassed over 800 planets. The Mule, a powerful Mentalic, uses mind control to seize control of the independent planet Kalgan.\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099",
+       "note": "The relative gap is stated; there is no absolute E.I. year.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "foundation-novel",
+      "kind": "adapts",
+      "note": "Loose adaptation of the Foundation series (also draws on the prequels, Foundation and Empire and Second Foundation)."
+     }
+    ],
+    "notes": "Season 4 excluded: Wikipedia (revid 1387212099) says \"In September 2025, the series was renewed for a fourth season\" and \"The fourth season began filming in January 2026 in Prague, and was expected to wrap in July 2026\"; its season 4 episode table has no titles or air dates, so it was not released by 2026-11-27. Infobox also lists the rebranded \"Apple TV\" network. Production companies per infobox: Phantom Four, Skydance Television.",
+    "revid": 1387212099,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Foundation_(TV_series)&oldid=1387212099"
+   },
+   {
+    "id": "foundation-trilogy-radio",
+    "title": "The Foundation Trilogy",
+    "type": "radio-drama",
+    "wiki_article": "The Foundation Trilogy (radio series)",
+    "continuity": "foundation-bbc-radio-1973",
+    "studio_or_developer": "BBC",
+    "publisher": null,
+    "platform": "bbc-radio-4",
+    "platforms": [
+     "bbc-radio-4"
+    ],
+    "units": [
+     {
+      "key": "serial",
+      "label": "Serial (8 episodes)",
+      "episodes": 8,
+      "release_date": "1973-05-06",
+      "release_end": "1973-06-24",
+      "release_quote": "\"The Foundation Trilogy is a radio series that was broadcast weekly on BBC Radio 4 as eight hour-long episodes between 6 May and 24 June 1973.\" Infobox: \"first_aired = {{Start date|1973|05|06}}\", \"last_aired = {{End date|1973|06|24}}\", \"num_episodes = 8\"",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Foundation_Trilogy_(radio_series)&oldid=1358693564",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Foundation Era (adapts the original trilogy)",
+       "confidence": "inferred",
+       "precision": "relative",
+       "quote": "Episode 1: \"the meeting of Hari Seldon and Gaal Dornick, their trial, and their exile to Terminus. The action then jumps forward fifty years\"; differences: \"The conflict between The Foundation and Anacreon takes place 70 years into the Foundation era; in the novels it occurs in year 80 F.E.\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Foundation_Trilogy_(radio_series)&oldid=1358693564",
+       "note": "One unit for the whole serial; no absolute years. The radio version shifts some dates from the novels (per its differences list).",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "foundation-novel",
+      "kind": "adapts",
+      "note": "Episodes 1–3 (The Psychohistorians/Encyclopedists, The Mayors, The Merchant Princes)."
+     },
+     {
+      "to": "foundation-and-empire",
+      "kind": "adapts",
+      "note": "Episodes 4–6 (The General, The Mule, Flight From The Mule)."
+     },
+     {
+      "to": "second-foundation",
+      "kind": "adapts",
+      "note": "Episodes 7–8."
+     }
+    ],
+    "notes": "Directed by David Cain; presenters Patrick Tull (1–4) and Mike Stott (5–8; the infobox says \"Mike Scott\"). Repeated 1977 and 2002 (the Foundation series article says the BBC 7 rerun began July 2003). Episode-to-novel mapping is my reading of the episode titles/summaries.",
+    "revid": 1358693564,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Foundation_Trilogy_(radio_series)&oldid=1358693564"
+   }
+  ]
+ },
+ "_ranks": {
+  "foundation": [
+   "i-robot:i-robot",
+   "the-rest-of-the-robots:the-rest-of-the-robots",
+   "the-complete-robot:the-complete-robot",
+   "the-caves-of-steel:the-caves-of-steel",
+   "the-naked-sun:the-naked-sun",
+   "the-robots-of-dawn:the-robots-of-dawn",
+   "robots-and-empire:robots-and-empire",
+   "the-currents-of-space:the-currents-of-space",
+   "the-stars-like-dust:the-stars-like-dust",
+   "pebble-in-the-sky:pebble-in-the-sky",
+   "prelude-to-foundation:prelude-to-foundation",
+   "forward-the-foundation:forward-the-foundation",
+   "foundations-fear:foundations-fear",
+   "foundation-and-chaos:foundation-and-chaos",
+   "foundations-triumph:foundations-triumph",
+   "foundation-novel:foundation-novel",
+   "foundation-and-empire:foundation-and-empire",
+   "second-foundation:second-foundation",
+   "foundations-edge:foundations-edge",
+   "foundation-and-earth:foundation-and-earth",
+   "foundation-tv:s1",
+   "foundation-tv:s2",
+   "foundation-tv:s3",
+   "foundation-trilogy-radio:serial"
+  ]
+ }
+}

@@ -1,0 +1,1147 @@
+{
+ "baahubali": {
+  "continuities": [
+   {
+    "id": "baahubali-main",
+    "name": "Baahubali (films, animated series, prequel novels)",
+    "ordered_only": true,
+    "description": "One continuity: the two Rajamouli films (and their re-edit), the two animated prequel series and Anand Neelakantan's prequel novel trilogy. Wikipedia frames every one of these as part of the franchise and as prequels to the films. No absolute in-universe years are given anywhere, so the order is relative only.",
+    "quote": "S. S. Rajamouli approached Indian novelist Anand Neelakantan to write a prequel trilogy of novels for the Baahubali film franchise. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion. … Set before the events of the films, this prequel follows Baahubali and Bhallaladeva",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Baahubali_%28franchise%29&oldid=1387980366",
+     "https://en.wikipedia.org/w/index.php?title=The_Rise_of_Sivagami&oldid=1388080087",
+     "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+     "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_Crown_of_Blood&oldid=1387666729"
+    ],
+    "note": "Wikipedia never says whether the novels, The Lost Legends and Crown of Blood agree with one another; each is only tied to the films. Kept in one continuity per the instruction (Wikipedia ties the novels to the film continuity); a stricter reading would split the tie-ins into their own continuities."
+   }
+  ],
+  "titles": [
+   {
+    "id": "the-rise-of-sivagami",
+    "title": "The Rise of Sivagami",
+    "type": "novel",
+    "wiki_article": "The Rise of Sivagami",
+    "continuity": "baahubali-main",
+    "author": "Anand Neelakantan",
+    "studio_or_publisher": "Westland Books",
+    "publisher": "Westland Books",
+    "platform": "print-paperback",
+    "platforms": [
+     "print-paperback"
+    ],
+    "language": "English",
+    "pages": 492,
+    "isbn": "9789386224446",
+    "units": [
+     {
+      "key": "book",
+      "label": "Novel",
+      "release_date": "2017-03-07",
+      "release_quote": "| publisher = [[Westland Books]] | published = 7 March 2017 | media_type = Print ([[paperback]]) | pages = 492",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=The_Rise_of_Sivagami&oldid=1388080087",
+       "https://en.wikipedia.org/w/index.php?title=Baahubali_%28franchise%29&oldid=1387980366"
+      ],
+      "note": "Date conflict: the novel infobox and the franchise lead give 7 March 2017 (\"The first novel in the franchise titled The Rise of Sivagami was released on 7 March 2017\"), but the franchise Print media section says \"Released on 31 March 2017\". Infobox date used.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Before Baahubali's birth: young Sivagami under King Somadeva",
+       "confidence": "inferred",
+       "quote": "It acts as a prequel to the film Baahubali: The Beginning. … Thimma requests that Sivagami stay in the royal orphanage until she is eighteen, which is a few months away.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Rise_of_Sivagami&oldid=1388080087",
+       "precision": "relative",
+       "note": "Relative only. Sivagami is about to turn eighteen and Somadeva is king, a generation before the films' flashback; placed first of the three novels as Book 1.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "shares-characters",
+      "note": "prequel novel to the film (Wikipedia: \"acts as a prequel to the film Baahubali: The Beginning\")"
+     }
+    ],
+    "notes": "Book 1 of the \"Baahubali – Before the Beginning\" trilogy. First-edition format per infobox (Print, paperback).",
+    "revid": 1388080087,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Rise_of_Sivagami&oldid=1388080087"
+   },
+   {
+    "id": "chaturanga",
+    "title": "Chaturanga",
+    "type": "novel",
+    "wiki_article": "Chaturanga (Neelakantan novel)",
+    "continuity": "baahubali-main",
+    "author": "Anand Neelakantan",
+    "studio_or_publisher": "Westland Books",
+    "publisher": "Westland Books",
+    "platform": "print-paperback",
+    "platforms": [
+     "print-paperback"
+    ],
+    "language": "English",
+    "pages": 320,
+    "isbn": "9789389152449",
+    "units": [
+     {
+      "key": "book",
+      "label": "Novel",
+      "release_date": "2020-08-06",
+      "release_quote": "Chaturanga – The second part of the trilogy, released on 6 August 2020. … | publisher = [[Westland Books]] | published = 6 August 2020 | media_type = Print ([[paperback]]) | pages = 320",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Chaturanga_%28Neelakantan_novel%29&oldid=1384469220",
+       "https://en.wikipedia.org/w/index.php?title=Baahubali_%28franchise%29&oldid=1387980366"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Immediately after The Rise of Sivagami",
+       "confidence": "stated",
+       "quote": "In the present day, after a failed coup by the Vaithalikas (immediately after the incidents of the first book).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Chaturanga_%28Neelakantan_novel%29&oldid=1384469220",
+       "precision": "relative",
+       "note": "Article states it follows directly on from Book 1.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-rise-of-sivagami",
+      "kind": "continues",
+      "note": "Book 2; \"immediately after the incidents of the first book\""
+     },
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "shares-characters",
+      "note": "prequel novel to the film (Wikipedia: \"acts as a prequel to the film Baahubali: The Beginning\")"
+     }
+    ],
+    "notes": "",
+    "revid": 1384469220,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Chaturanga_%28Neelakantan_novel%29&oldid=1384469220"
+   },
+   {
+    "id": "queen-of-mahishmathi",
+    "title": "Queen of Mahishmathi",
+    "type": "novel",
+    "wiki_article": "Queen of Mahishmathi",
+    "continuity": "baahubali-main",
+    "author": "Anand Neelakantan",
+    "studio_or_publisher": "Westland Books",
+    "publisher": "Westland Books",
+    "platform": "print-paperback",
+    "platforms": [
+     "print-paperback"
+    ],
+    "language": "English",
+    "pages": 560,
+    "isbn": "9789389648720",
+    "units": [
+     {
+      "key": "book",
+      "label": "Novel",
+      "release_date": "2020-12-28",
+      "release_quote": "Queen of Mahishmathi – The third and final part, released on 28 December 2020. … | published = 28 December 2020 | media_type = Print ([[paperback]]) | pages = 560",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Queen_of_Mahishmathi&oldid=1384472081",
+       "https://en.wikipedia.org/w/index.php?title=Baahubali_%28franchise%29&oldid=1387980366"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After Chaturanga; before the films",
+       "confidence": "inferred",
+       "quote": "It acts as a prequel to the film Baahubali: The Beginning",
+       "source": "https://en.wikipedia.org/w/index.php?title=Queen_of_Mahishmathi&oldid=1384472081",
+       "precision": "relative",
+       "note": "Order from trilogy numbering (\"third and final part\"); article says it \"acts as a prequel to the film Baahubali: The Beginning\".",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "chaturanga",
+      "kind": "continues",
+      "note": "Book 3, final part of the trilogy"
+     },
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "shares-characters",
+      "note": "prequel novel to the film (Wikipedia: \"acts as a prequel to the film Baahubali: The Beginning\")"
+     }
+    ],
+    "notes": "Article body spells it \"Queen of Mahismati\".",
+    "revid": 1384472081,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Queen_of_Mahishmathi&oldid=1384472081"
+   },
+   {
+    "id": "baahubali-the-lost-legends",
+    "title": "Baahubali: The Lost Legends",
+    "type": "series",
+    "wiki_article": "Baahubali: The Lost Legends",
+    "continuity": "baahubali-main",
+    "studio_or_developer": "Arka Media Works / Graphic India",
+    "publisher": null,
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "language": "Hindi / English",
+    "animated": true,
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 13,
+      "release_date": "2017-04-19",
+      "release_end": "2017-08-04",
+      "release_quote": "| link1 = #Season 1 (2017) | episodes1 = 13 | start1 = {{Start date|2017|04|19}} | end1 = {{End date|2017|08|04}} … The first episode premiered on 19 April 2017 and the other episodes started streaming from 19 May onwards with a new episode releasing every Friday.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+      "note": "Series overview ends season 1 on 4 August 2017, but the episode table lists a final part dated 11 August 2017. A one-off special (21 July 2017) is not counted. Overview used.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Young princes Baahubali and Bhallaladeva, before the Kalakeya invasion",
+       "confidence": "inferred",
+       "quote": "Baahubali - The Lost Legends is set before the Kalakeya invasion depicted in the movie, when Baahubali and Bhallaladeva are still both young princes of Mahishmati. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+       "precision": "relative",
+       "note": "Stated as before the Kalakeya invasion seen in the films (Amarendra's flashback). Order relative to the novels inferred: the novels show Sivagami before the princes exist; this series has them as young princes under her watch. Season order assumed to follow season numbers.",
+       "order_index": 3
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 13,
+      "release_date": "2018-02-16",
+      "release_end": "2018-02-16",
+      "release_quote": "| episodes2 = 13 | released2 = {{Start date|2018|02|16}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Continues; young princes, before the Kalakeya invasion",
+       "confidence": "inferred",
+       "quote": "Baahubali - The Lost Legends is set before the Kalakeya invasion depicted in the movie, when Baahubali and Bhallaladeva are still both young princes of Mahishmati. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+       "precision": "relative",
+       "note": "Stated as before the Kalakeya invasion seen in the films (Amarendra's flashback). Order relative to the novels inferred: the novels show Sivagami before the princes exist; this series has them as young princes under her watch. Season order assumed to follow season numbers.",
+       "order_index": 4
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 13,
+      "release_date": "2018-04-28",
+      "release_end": "2018-04-28",
+      "release_quote": "| episodes3 = 13 | released3 = {{Start date|2018|04|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Continues; young princes, before the Kalakeya invasion",
+       "confidence": "inferred",
+       "quote": "Baahubali - The Lost Legends is set before the Kalakeya invasion depicted in the movie, when Baahubali and Bhallaladeva are still both young princes of Mahishmati. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+       "precision": "relative",
+       "note": "Stated as before the Kalakeya invasion seen in the films (Amarendra's flashback). Order relative to the novels inferred: the novels show Sivagami before the princes exist; this series has them as young princes under her watch. Season order assumed to follow season numbers.",
+       "order_index": 5
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 16,
+      "release_date": "2019-04-10",
+      "release_end": "2019-04-10",
+      "release_quote": "| episodes4 = 16 | released4 = {{Start date|2019|04|10}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+      "note": "Overview says 16 episodes; the season's episode table has 13 dated rows (some are two-part entries). Overview count used.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Continues; young princes, before the Kalakeya invasion",
+       "confidence": "inferred",
+       "quote": "Baahubali - The Lost Legends is set before the Kalakeya invasion depicted in the movie, when Baahubali and Bhallaladeva are still both young princes of Mahishmati. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+       "precision": "relative",
+       "note": "Stated as before the Kalakeya invasion seen in the films (Amarendra's flashback). Order relative to the novels inferred: the novels show Sivagami before the princes exist; this series has them as young princes under her watch. Season order assumed to follow season numbers.",
+       "order_index": 6
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 16,
+      "release_date": "2020-04-10",
+      "release_end": "2020-04-10",
+      "release_quote": "| episodes5 = 16 | released5 = {{Start date|2020|04|10}} … | last_aired = {{End date|2020|04|10|df=yes}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+      "note": "Overview says 16 episodes; the episode table has 13 dated rows. Overview count used.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Continues; young princes, before the Kalakeya invasion",
+       "confidence": "inferred",
+       "quote": "Baahubali - The Lost Legends is set before the Kalakeya invasion depicted in the movie, when Baahubali and Bhallaladeva are still both young princes of Mahishmati. … The series serves as a prologue to Baahubali: The Beginning and Baahubali 2: The Conclusion.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962",
+       "precision": "relative",
+       "note": "Stated as before the Kalakeya invasion seen in the films (Amarendra's flashback). Order relative to the novels inferred: the novels show Sivagami before the princes exist; this series has them as young princes under her watch. Season order assumed to follow season numbers.",
+       "order_index": 7
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "spinoff",
+      "note": "animated prologue to both films"
+     }
+    ],
+    "notes": "Infobox: 5 seasons, \"71 (+1 special episode)\". Also aired on Colors TV from 10 December 2017 (not modelled).",
+    "revid": 1378488962,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Lost_Legends&oldid=1378488962"
+   },
+   {
+    "id": "baahubali-crown-of-blood",
+    "title": "Baahubali: Crown of Blood",
+    "type": "series",
+    "wiki_article": "Baahubali: Crown of Blood",
+    "continuity": "baahubali-main",
+    "studio_or_developer": "Graphic India",
+    "publisher": null,
+    "platform": "disney-plus-hotstar",
+    "platforms": [
+     "disney-plus-hotstar"
+    ],
+    "language": "Hindi",
+    "animated": true,
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 9,
+      "release_date": "2024-05-17",
+      "release_end": "2024-07-04",
+      "release_quote": "It was premiered and released on 17 May 2024 on Disney+ Hotstar. … | first_aired = {{Start date|df=y|2024|5|17}} | last_aired = {{End date|df=y|2024|7|4}} | num_seasons = 1 | num_episodes = 9",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_Crown_of_Blood&oldid=1387666729",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Before the films (young princes vs. Raktadeva)",
+       "confidence": "inferred",
+       "quote": "Set before the events of the films, this prequel follows Baahubali and Bhallaladeva as they unite to protect their kingdom, Mahishmati, and its throne from the looming danger of Raktadeva, a mysterious and powerful warlord.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_Crown_of_Blood&oldid=1387666729",
+       "precision": "relative",
+       "note": "Stated only as \"set before the events of the films\". Placed after The Lost Legends by release order only; Wikipedia gives no order between the two animated prequels.",
+       "order_index": 8
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "spinoff",
+      "note": "animated prequel to the films"
+     }
+    ],
+    "notes": "",
+    "revid": 1387666729,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_Crown_of_Blood&oldid=1387666729"
+   },
+   {
+    "id": "baahubali-the-beginning",
+    "title": "Baahubali: The Beginning",
+    "type": "film",
+    "wiki_article": "Baahubali: The Beginning",
+    "continuity": "baahubali-main",
+    "studio_or_developer": "Arka Media Works",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Telugu / Tamil",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-07-10",
+      "release_quote": "The film was released on 10 July 2015 in 4,000 screens worldwide in Telugu, Tamil, Hindi and Malayalam languages.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Beginning&oldid=1387666744",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present (Sivudu) with flashback to Amarendra Baahubali",
+       "confidence": "inferred",
+       "quote": "The alliance is dedicated to rescuing Devasena, a former queen who has been held captive for 25 years by Bhallaladeva, the despotic ruler of Mahishmati.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Beginning&oldid=1387666744",
+       "precision": "relative",
+       "note": "No year stated. Present-day story frames a flashback; the flashback concludes in The Conclusion.",
+       "order_index": 9
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Infobox language: \"Telugu<br />Tamil\" (shot bilingually).",
+    "revid": 1387666744,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Beginning&oldid=1387666744"
+   },
+   {
+    "id": "baahubali-2-the-conclusion",
+    "title": "Baahubali 2: The Conclusion",
+    "type": "film",
+    "wiki_article": "Baahubali 2: The Conclusion",
+    "continuity": "baahubali-main",
+    "studio_or_developer": "Arka Media Works",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Telugu",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-04-28",
+      "release_quote": "The film was released on 28 April 2017 in Telugu, Tamil, Hindi, Kannada and Malayalam, and later dubbed in Japanese, Russian and Chinese.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali_2%3A_The_Conclusion&oldid=1387666725",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Flashback concluded, then the present-day war",
+       "confidence": "inferred",
+       "quote": "In the present, Mahendra Baahubali, deeply moved by his father's tragic demise, declares war against the tyrant.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali_2%3A_The_Conclusion&oldid=1387666725",
+       "precision": "relative",
+       "note": "No year stated. Continues directly from The Beginning.",
+       "order_index": 10
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "continues",
+      "note": "second half of the two-part story"
+     }
+    ],
+    "notes": "",
+    "revid": 1387666725,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Baahubali_2%3A_The_Conclusion&oldid=1387666725"
+   },
+   {
+    "id": "baahubali-the-epic",
+    "title": "Baahubali: The Epic",
+    "type": "film",
+    "wiki_article": "Baahubali: The Epic",
+    "continuity": "baahubali-main",
+    "studio_or_developer": "Arka Media Works",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Telugu",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-10-31",
+      "release_quote": "Baahubali: The Epic was released in theatres worldwide on 31 October 2025",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Epic&oldid=1386028373",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Same events as The Beginning + The Conclusion",
+       "confidence": "inferred",
+       "quote": "it is a re-edited and remastered single film version of Rajamouli's earlier two-part epic saga, The Beginning (2015) and The Conclusion (2017), combining footage from both films with technical enhancements and a previously unreleased scene.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Epic&oldid=1386028373",
+       "precision": "relative",
+       "note": "Re-edit; spans the same in-universe events as both films. Given its own order_index after them only because indices must be unique.",
+       "order_index": 11
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "baahubali-the-beginning",
+      "kind": "re-edit-of",
+      "note": "single-film recut of both films"
+     },
+     {
+      "to": "baahubali-2-the-conclusion",
+      "kind": "re-edit-of",
+      "note": "single-film recut of both films"
+     }
+    ],
+    "notes": "Released for the 10th anniversary of The Beginning; runtime 225 minutes. Not included (out of scope or unreleased): \"Baahubali: The Torch Bearer\" (Netflix live-action documentary, 26 June 2026) and \"The Eternal War - Part 1\" (listed as 2027 in the franchise infobox).",
+    "revid": 1386028373,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Baahubali%3A_The_Epic&oldid=1386028373"
+   }
+  ]
+ },
+ "kgf-salaar": {
+  "continuities": [
+   {
+    "id": "kgf",
+    "name": "KGF",
+    "description": "Prashanth Neel's KGF film series (Chapter 1 and Chapter 2), set in the Kolar Gold Fields from 1951 to 1981, with a present-day frame narration.",
+    "quote": "KGF is an Indian Kannada-language period action film series set mostly in the Kolar Gold Fields, which gives the series its name, created by Prashanth Neel and produced by Hombale Films",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=KGF_%28film_series%29&oldid=1388018186"
+    ]
+   },
+   {
+    "id": "salaar",
+    "name": "Salaar",
+    "description": "Salaar: Part 1 – Ceasefire (Part 2 not yet released). Kept separate from KGF: Wikipedia does not state that the films share a universe.",
+    "quote": "The film's initial storyline was pitched from Neel's 2014 Kannada-language debut film Ugramm and is the maiden part of a two-part film.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Salaar%3A_Part_1_%E2%80%93_Ceasefire&oldid=1387749777"
+    ],
+    "note": "Shared-universe speculation is not recorded as fact on Wikipedia. The closest statements are producer Vijay Kiragandur's ambition in the KGF series article (\"Going forward, we are going to create a Marvel kind of universe. We want to bring different characters from different movies and create something like Doctor Strange.\") and the Salaar article's reception note on \"similarities with Ugramm and KGF\". Neither says the films share a continuity, so they are not merged and no link is recorded."
+   }
+  ],
+  "titles": [
+   {
+    "id": "kgf-chapter-1",
+    "title": "K.G.F: Chapter 1",
+    "type": "film",
+    "wiki_article": "KGF: Chapter 1",
+    "continuity": "kgf",
+    "studio_or_developer": "Hombale Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Kannada",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-12-21",
+      "release_quote": "| released = {{Film date|df=yes|2018|12|20|United States, Canada|2018|12|21|India}} … The first installment, Chapter 1, was released on 21 December 2018",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=KGF%3A_Chapter_1&oldid=1388018180",
+       "https://en.wikipedia.org/w/index.php?title=KGF_%28film_series%29&oldid=1388018186"
+      ],
+      "note": "India date used. The film's lead says \"The Kannada version of K.G.F: Chapter 1 was released on 20 December 2018 and the dubbed versions … released the next day\" (marked citation needed). The infobox gives 20 December only for the United States and Canada and 21 December for India, and the series article gives 21 December 2018.",
+      "in_universe": {
+       "year": 1951,
+       "year_end": 1978,
+       "label": "1951–1978 (frame: present day)",
+       "confidence": "inferred",
+       "quote": "Journalist Anand Ingalagi's controversial book El Dorado, which documents the history of the Kolar Gold Fields (K.G.F.) from 1951 to 2018 … 1951, Raja \"Rocky\" Krishnappa Bairya is born to Shanti … Prashant explains about the setting of the film in 1970–80, stating, \"… So, 1978 was the perfect setting for us, because the higher the price of gold, the higher the greed of men.\"",
+       "source": "https://en.wikipedia.org/w/index.php?title=KGF%3A_Chapter_1&oldid=1388018180",
+       "precision": "year",
+       "note": "The 1951 start is stated in the plot. The 1978 end comes from the director's production quote about the setting, not from the plot, so the range is inferred. The framing interview is present day; the book covers events up to 2018.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Article title is now \"KGF: Chapter 1\"; the on-screen title is \"K.G.F: Chapter 1\" (title redirect).",
+    "revid": 1388018180,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=KGF%3A_Chapter_1&oldid=1388018180"
+   },
+   {
+    "id": "kgf-chapter-2",
+    "title": "K.G.F: Chapter 2",
+    "type": "film",
+    "wiki_article": "KGF: Chapter 2",
+    "continuity": "kgf",
+    "studio_or_developer": "Hombale Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Kannada",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-04-14",
+      "release_quote": "KGF: Chapter 2 was theatrically released in India on 14 April 2022 in Kannada, along with dubbed versions in Telugu, Tamil, Malayalam and Hindi languages.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=KGF%3A_Chapter_2&oldid=1388134362",
+      "in_universe": {
+       "year": 1978,
+       "year_end": 1981,
+       "label": "c. 1978–1981 (frame: present day)",
+       "confidence": "inferred",
+       "quote": "In 1981, Ramika Sen wins the Indian general election and becomes Prime Minister. … In a mid-credits scene set three months before Rocky's death, CIA agent John Booker delivers Ramika Sen a classified file detailing Rocky's criminal activities across the United States and sixteen other countries between 1978 and 1981.",
+       "source": "https://en.wikipedia.org/w/index.php?title=KGF%3A_Chapter_2&oldid=1388134362",
+       "precision": "year",
+       "note": "1981 is stated. The start is inferred: the film picks up straight after Chapter 1 (c. 1978), and the mid-credits file covers Rocky's activities \"between 1978 and 1981\".",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "kgf-chapter-1",
+      "kind": "continues",
+      "note": "direct sequel"
+     }
+    ],
+    "notes": "Chapter 2 ends teasing \"K.G.F: Chapter 3\"; the series article says it \"might start filming only in 2028 for a release in 2029\". Not released, so not included.",
+    "revid": 1388134362,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=KGF%3A_Chapter_2&oldid=1388134362"
+   },
+   {
+    "id": "salaar-part-1-ceasefire",
+    "title": "Salaar: Part 1 – Ceasefire",
+    "type": "film",
+    "wiki_article": "Salaar: Part 1 – Ceasefire",
+    "continuity": "salaar",
+    "studio_or_developer": "Hombale Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Telugu",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-12-22",
+      "release_quote": "Salaar: Part 1 – Ceasefire was theatrically released on 22 December 2023, coinciding with Christmas.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Salaar%3A_Part_1_%E2%80%93_Ceasefire&oldid=1387749777",
+      "in_universe": {
+       "year": 2017,
+       "year_end": null,
+       "label": "2017 (prologue 1985; backstory 1127–2010)",
+       "confidence": "stated",
+       "quote": "In 1985, Deva and Vardha Raja \"Vardha\" Mannar are close companions in Khansaar … In 2017, Aadhya, the daughter of NRI Krishnakanth, travels from New York City to Varanasi to immerse her mother's ashes.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Salaar%3A_Part_1_%E2%80%93_Ceasefire&oldid=1387749777",
+       "precision": "year",
+       "note": "Main story is 2017. The 1985 prologue and the 1127 / 1947 / 2010 Khansaar history are told in flashback.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Sequel \"Salaar: Part 2 – Shouryaanga Parvam\" is unreleased: \"the filming of the sequel is set to begin only after June 2027.\" Not included. No link to KGF recorded: Wikipedia names no shared characters or shared universe.",
+    "revid": 1387749777,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Salaar%3A_Part_1_%E2%80%93_Ceasefire&oldid=1387749777"
+   }
+  ]
+ },
+ "krrish": {
+  "continuities": [
+   {
+    "id": "krrish-films",
+    "name": "Krrish (films)",
+    "ordered_only": true,
+    "description": "Koi... Mil Gaya, Krrish and Krrish 3: one story across three generations of the Mehra family. No absolute in-universe years are given.",
+    "quote": "The film series covers the story of three generations of the Mehra family. … Although Koi... Mil Gaya was originally conceived as a stand-alone film, it is the first installment in the Krrish franchise.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Krrish_%28franchise%29&oldid=1379561670",
+     "https://en.wikipedia.org/w/index.php?title=Koi..._Mil_Gaya&oldid=1387731442"
+    ]
+   },
+   {
+    "id": "krrish-kid",
+    "name": "Kid Krrish (animated TV films)",
+    "ordered_only": true,
+    "description": "Animated Cartoon Network TV films \"based on\" Krrish. Wikipedia only says they are part of the franchise, not that they fit the film continuity.",
+    "quote": "The first film of the series, Kid Krrish was released on 2 October 2013 which is a part of Krrish franchise, with its three sequels",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Kid_Krrish&oldid=1376750888"
+    ]
+   },
+   {
+    "id": "krrish-jadoo",
+    "name": "J Bole Toh Jadoo (TV spin-off)",
+    "ordered_only": true,
+    "description": "Nickelodeon India animation/live-action series about Jadoo, \"based on\" Koi... Mil Gaya. Canon status not stated.",
+    "quote": "It is based on the movie Koi... Mil Gaya, which itself is part of Krrish franchise.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=J_Bole_Toh_Jadoo&oldid=1365833975"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "koi-mil-gaya",
+    "title": "Koi... Mil Gaya",
+    "type": "film",
+    "wiki_article": "Koi... Mil Gaya",
+    "continuity": "krrish-films",
+    "studio_or_developer": "Filmkraft Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Hindi",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-08-08",
+      "release_quote": "Filmed on a budget of ₹25 crore, Koi... Mil Gaya was released on 8 August 2003 and was the first instalment of the Krrish franchise.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Koi..._Mil_Gaya&oldid=1387731442",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Rohit Mehra's birth, then \"years later\" as an adult",
+       "confidence": "inferred",
+       "quote": "Years later, a grown-up Rohit is still in school due to his disability, but has found companionship among six children.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Koi..._Mil_Gaya&oldid=1387731442",
+       "precision": "relative",
+       "note": "No year stated.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Distributor: Yash Raj Films.",
+    "revid": 1387731442,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Koi..._Mil_Gaya&oldid=1387731442"
+   },
+   {
+    "id": "krrish",
+    "title": "Krrish",
+    "type": "film",
+    "wiki_article": "Krrish",
+    "continuity": "krrish-films",
+    "studio_or_developer": "Filmkraft Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Hindi",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-06-23",
+      "release_quote": "Krrish was released on 23 June 2006 at a budget of ₹40 crore",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Krrish&oldid=1388092180",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Krishna's childhood, then twenty years later",
+       "confidence": "stated",
+       "quote": "Twenty years later, Krishna meets Priya and Honey, two holidaymakers camping near his home.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Krrish&oldid=1388092180",
+       "precision": "relative",
+       "note": "No year stated. The main story is \"twenty years later\" than Krishna's childhood in Kasauli (Rohit is presumed dead after Koi... Mil Gaya).",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "koi-mil-gaya",
+      "kind": "continues",
+      "note": "next generation: Rohit's son Krishna"
+     }
+    ],
+    "notes": "Distributor: Yash Raj Films (India), Adlabs (international).",
+    "revid": 1388092180,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Krrish&oldid=1388092180"
+   },
+   {
+    "id": "krrish-3",
+    "title": "Krrish 3",
+    "type": "film",
+    "wiki_article": "Krrish 3",
+    "continuity": "krrish-films",
+    "studio_or_developer": "Filmkraft Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Hindi",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-11-01",
+      "release_quote": "| released = {{Film date|df=yes|2013|11|01}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Krrish_3&oldid=1387730983",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Six years after Krrish",
+       "confidence": "stated",
+       "quote": "Six years after getting rescued and returning to India with his son Krishna after eliminating Dr. Siddhant Arya, Dr. Rohit Mehra now lives with the former in Mumbai",
+       "source": "https://en.wikipedia.org/w/index.php?title=Krrish_3&oldid=1387730983",
+       "precision": "relative",
+       "note": "Relative gap stated in the plot.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "krrish",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "Krrish 4 is not released: \"In June 2026, Rakesh Roshan noted filming would likely commence at the end of 2026\" (franchise article). Not included.",
+    "revid": 1387730983,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Krrish_3&oldid=1387730983"
+   },
+   {
+    "id": "kid-krrish",
+    "title": "Kid Krrish",
+    "type": "film",
+    "wiki_article": "Kid Krrish",
+    "continuity": "krrish-kid",
+    "studio_or_developer": "Toonz Animation / Film Kraft Productions / Turner International India",
+    "publisher": null,
+    "platform": "cartoon-network",
+    "platforms": [
+     "cartoon-network"
+    ],
+    "language": "English / Hindi / Tamil / Telugu",
+    "animated": true,
+    "units": [
+     {
+      "key": "kid-krrish",
+      "label": "Kid Krrish",
+      "release_date": "2013-10-02",
+      "release_quote": "| 1 || Kid Krrish|| 2 October 2013",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Kid_Krrish&oldid=1376750888",
+       "https://en.wikipedia.org/w/index.php?title=Krrish_%28franchise%29&oldid=1379561670"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Kid Krishna adventures",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No setting or year stated; order assumed from the numbering (first film plus \"three sequels\").",
+       "order_index": 0
+      }
+     },
+     {
+      "key": "mission-bhutan",
+      "label": "Kid Krrish: Mission Bhutan",
+      "release_date": "2014-07-19",
+      "release_quote": "| 2 || Kid Krrish: Mission Bhutan || 19 July 2014",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Kid_Krrish&oldid=1376750888",
+       "https://en.wikipedia.org/w/index.php?title=Krrish_%28franchise%29&oldid=1379561670"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the previous Kid Krrish film",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No setting or year stated; order assumed from the numbering (first film plus \"three sequels\").",
+       "order_index": 1
+      }
+     },
+     {
+      "key": "mystery-in-mongolia",
+      "label": "Kid Krrish: Mystery in Mongolia",
+      "release_date": "2014-09-27",
+      "release_quote": "| 3 || Kid Krrish: Mystery in Mongolia|| 27 September 2014",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Kid_Krrish&oldid=1376750888",
+       "https://en.wikipedia.org/w/index.php?title=Krrish_%28franchise%29&oldid=1379561670"
+      ],
+      "note": "Date conflict: the Kid Krrish article's film list gives 27 September 2014; the Krrish franchise article says \"The third movie, Kid Krrish: Mystery in Mongolia, was aired on 7 September 2014.\" Kid Krrish article used.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the previous Kid Krrish film",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No setting or year stated; order assumed from the numbering (first film plus \"three sequels\").",
+       "order_index": 2
+      }
+     },
+     {
+      "key": "shakalaka-africa",
+      "label": "Kid Krrish: Shakalaka Africa",
+      "release_date": "2015-04-25",
+      "release_quote": "| 4 || Kid Krrish: Shakalaka Africa || 25 April 2015",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Kid_Krrish&oldid=1376750888",
+       "https://en.wikipedia.org/w/index.php?title=Krrish_%28franchise%29&oldid=1379561670"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the previous Kid Krrish film",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No setting or year stated; order assumed from the numbering (first film plus \"three sequels\").",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "krrish",
+      "kind": "spinoff",
+      "note": "animated TV films based on Krrish"
+     }
+    ],
+    "notes": "Animated TV films on Cartoon Network India. The franchise cast table labels it \"Kid Krrish (2013–2016)\", but the Kid Krrish article's last date is 25 April 2015.",
+    "revid": 1376750888,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Kid_Krrish&oldid=1376750888"
+   },
+   {
+    "id": "j-bole-toh-jadoo",
+    "title": "J Bole Toh Jadoo",
+    "type": "series",
+    "wiki_article": "J Bole Toh Jadoo",
+    "continuity": "krrish-jadoo",
+    "studio_or_developer": "Graphiti Multimedia / Nickelodeon India",
+    "publisher": null,
+    "platform": "nickelodeon-india",
+    "platforms": [
+     "nickelodeon-india"
+    ],
+    "language": "Hindi",
+    "animated": true,
+    "units": [
+     {
+      "key": "s1",
+      "label": "Series",
+      "season": 1,
+      "episodes": null,
+      "release_date": "2004-11-14",
+      "release_end": null,
+      "release_quote": "| first_aired = {{Start date|df=y|2004|11|14}} | last_aired = {{End date|df=y|2005}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=J_Bole_Toh_Jadoo&oldid=1365833975",
+      "note": "Season and episode counts are blank in the infobox; it ended in 2005 (no exact date), so release_end is null. Modelled as one unit.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Jadoo on Tarkopar and Earth",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No year or placement relative to the films stated.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "koi-mil-gaya",
+      "kind": "spinoff",
+      "note": "built around the alien Jadoo from the film"
+     }
+    ],
+    "notes": "Animation and live-action hybrid (\"the first locally produced live action-animation show in India\").",
+    "revid": 1365833975,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=J_Bole_Toh_Jadoo&oldid=1365833975"
+   }
+  ]
+ },
+ "dhoom": {
+  "continuities": [
+   {
+    "id": "dhoom",
+    "name": "Dhoom",
+    "description": "Yash Raj Films' Dhoom series: one continuity that follows police officers Jai Dixit and Ali Khan across all three films.",
+    "quote": "The series revolves around Assistant Commissioner of Police Jai Dixit (Abhishek Bachchan) and his sidekick Sub Inspector, later Inspector, Ali Akbar Fateh Khan (Uday Chopra), on missions to capture professional thieves. … Abhishek Bachchan and Uday Chopra reprise their roles as Jai Dixit and Ali Khan",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Dhoom_%28film_series%29&oldid=1378827983"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "dhoom",
+    "title": "Dhoom",
+    "type": "film",
+    "wiki_article": "Dhoom",
+    "continuity": "dhoom",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Hindi",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2004-08-27",
+      "release_quote": "Dhoom was released on 27 August 2004 to mixed reviews from critics",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dhoom&oldid=1388000312",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "First Jai and Ali case (Mumbai)",
+       "confidence": "inferred",
+       "quote": "A.C.P Jai Dixit is assigned to investigate the case, where he seeks the help of Ali Akbar Fateh Khan, a local bike dealer",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dhoom&oldid=1388000312",
+       "precision": "relative",
+       "note": "No year stated; first in series order. Not assumed to be set in its 2004 release year.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1388000312,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dhoom&oldid=1388000312"
+   },
+   {
+    "id": "dhoom-2",
+    "title": "Dhoom 2",
+    "type": "film",
+    "wiki_article": "Dhoom 2",
+    "continuity": "dhoom",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Hindi",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-11-24",
+      "release_quote": "Dhoom 2 was released on 24 November 2006 to positive reviews from critics",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dhoom_2&oldid=1388000318",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After Dhoom (Ali newly promoted to SI)",
+       "confidence": "inferred",
+       "quote": "ACP Jai Dixit and newly promoted SI Ali Akbar Khan are introduced to Shonali Bose",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dhoom_2&oldid=1388000318",
+       "precision": "relative",
+       "note": "No year stated. Placed after Dhoom because Ali, a bike dealer in Dhoom, is now \"newly promoted\" to Sub-Inspector.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "dhoom",
+      "kind": "continues",
+      "note": "Jai and Ali return"
+     }
+    ],
+    "notes": "",
+    "revid": 1388000318,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dhoom_2&oldid=1388000318"
+   },
+   {
+    "id": "dhoom-3",
+    "title": "Dhoom 3",
+    "type": "film",
+    "wiki_article": "Dhoom 3",
+    "continuity": "dhoom",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "language": "Hindi",
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-12-20",
+      "release_quote": "Dhoom 3 was released on 20 December 2013.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dhoom_3&oldid=1388000330",
+      "in_universe": {
+       "year": 2013,
+       "year_end": null,
+       "label": "2013 (prologue 1990)",
+       "confidence": "stated",
+       "quote": "In 1990, Iqbal Haroon Khan, who owns The Great Indian Circus in Illinois, is ordered by the Western Bank of Chicago to close down the circus … In 2013, Sahir robs various branches of the Western Bank of Chicago as revenge.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dhoom_3&oldid=1388000330",
+       "precision": "year",
+       "note": "Main story 2013, with a 1990 prologue.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "dhoom-2",
+      "kind": "continues",
+      "note": "Jai and Ali return"
+     }
+    ],
+    "notes": "Dhoom 4 has no Wikipedia article (the series article says \"Do not add Dhoom 4 unless and until it becomes blue linked\"). Not included.",
+    "revid": 1388000330,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dhoom_3&oldid=1388000330"
+   }
+  ]
+ },
+ "_ranks": {
+  "baahubali": [
+   "the-rise-of-sivagami:book",
+   "chaturanga:book",
+   "queen-of-mahishmathi:book",
+   "baahubali-the-lost-legends:s1",
+   "baahubali-the-lost-legends:s2",
+   "baahubali-the-lost-legends:s3",
+   "baahubali-the-lost-legends:s4",
+   "baahubali-the-lost-legends:s5",
+   "baahubali-crown-of-blood:s1",
+   "baahubali-the-beginning:film",
+   "baahubali-2-the-conclusion:film",
+   "baahubali-the-epic:film"
+  ],
+  "kgf-salaar": [
+   "kgf-chapter-1:film",
+   "kgf-chapter-2:film",
+   "salaar-part-1-ceasefire:film"
+  ],
+  "krrish": [
+   "koi-mil-gaya:film",
+   "krrish:film",
+   "krrish-3:film",
+   "kid-krrish:kid-krrish",
+   "kid-krrish:mission-bhutan",
+   "kid-krrish:mystery-in-mongolia",
+   "kid-krrish:shakalaka-africa",
+   "j-bole-toh-jadoo:s1"
+  ],
+  "dhoom": [
+   "dhoom:film",
+   "dhoom-2:film",
+   "dhoom-3:film"
+  ]
+ }
+}

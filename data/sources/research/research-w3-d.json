@@ -1,0 +1,2845 @@
+{
+ "naruto": {
+  "continuities": [
+   {
+    "id": "naruto-anime",
+    "name": "Naruto anime (TV series and canon films)",
+    "ordered_only": true,
+    "description": "The Pierrot TV anime (Naruto, Naruto: Shippuden, Boruto: Naruto Next Generations) plus the two films Wikipedia calls part of the canonical storyline (The Last, Boruto: Naruto the Movie). Kept apart from the manga because the anime adds original (filler) storylines. No calendar years exist; order is story order, with filler placed where it airs.",
+    "quote": "The episodes are based on the first twenty-seven volumes in Part I of the manga, while some episodes feature original, self-contained storylines. … [Boruto: Naruto the Movie] is the second film to be a part of the canonical Naruto storyline, being a sequel to the manga series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+     "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_the_Movie&oldid=1379221049"
+    ]
+   },
+   {
+    "id": "naruto-manga",
+    "name": "Naruto manga",
+    "ordered_only": true,
+    "description": "Masashi Kishimoto's Naruto manga and its sequel manga Boruto (Naruto Next Generations, Two Blue Vortex). Separate from the anime, which adds filler and (for Boruto) an original prequel opening.",
+    "quote": "It is a spin-off and sequel to Kishimoto's manga series Naruto … Unlike the manga, which begins as a retelling of the Boruto film, the anime starts as a prequel set before Boruto and his friends become ninjas.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271"
+    ]
+   },
+   {
+    "id": "naruto-anime-films-noncanon",
+    "name": "Naruto anime films (non-canon)",
+    "ordered_only": true,
+    "description": "The nine original-story theatrical films (2004–2012). Each is set \"after episode N\" of the anime, but none is part of the canonical storyline, so they are ordered only among themselves by that stated placement.",
+    "quote": "[Boruto: Naruto the Movie] is the second film to be a part of the canonical Naruto storyline … Naruto was adapted into 11 theatrical films. The first three films correspond to the first anime series, and the remaining eight correspond to the second.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_the_Movie&oldid=1379221049",
+     "https://en.wikipedia.org/w/index.php?title=Naruto_(TV_series)&oldid=1388101187"
+    ],
+    "note": "Wikipedia never uses the word \"non-canon\" for these nine films; the status is inferred from the Boruto film being \"the second film to be a part of the canonical Naruto storyline\" (the first being The Last), which leaves the other nine outside it."
+   }
+  ],
+  "titles": [
+   {
+    "id": "naruto-tv",
+    "title": "Naruto",
+    "type": "series",
+    "wiki_article": "List of Naruto episodes",
+    "continuity": "naruto-anime",
+    "studio_or_developer": "Pierrot",
+    "publisher": null,
+    "platform": "tv-tokyo",
+    "platforms": [
+     "tv-tokyo"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 35,
+      "release_date": "2002-10-03",
+      "release_end": "2003-05-28",
+      "release_quote": "| episodes1 = 35 | start1 = {{Start date|2002|10|3}} | end1 = {{End date|2003|5|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part I begins",
+       "confidence": "inferred",
+       "quote": "The episodes are based on the first twenty-seven volumes in Part I of the manga, while some episodes feature original, self-contained storylines.",
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No in-universe year exists. Seasons follow story order as aired (Sony/Aniplex \"stage\" divisions); anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 48,
+      "release_date": "2003-06-04",
+      "release_end": "2004-05-12",
+      "release_quote": "| episodes2 = 48 | start2 = {{Start date|2003|6|4}} | end2 = {{End date|2004|5|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part I, season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No in-universe year exists. Seasons follow story order as aired (Sony/Aniplex \"stage\" divisions); anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 48,
+      "release_date": "2004-05-19",
+      "release_end": "2005-04-20",
+      "release_quote": "| episodes3 = 48 | start3 = {{Start date|2004|5|19}} | end3 = {{End date|2005|4|20}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part I, season 3",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No in-universe year exists. Seasons follow story order as aired (Sony/Aniplex \"stage\" divisions); anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 48,
+      "release_date": "2005-04-27",
+      "release_end": "2006-04-05",
+      "release_quote": "| episodes4 = 48 | start4 = {{Start date|2005|4|27}} | end4 = {{End date|2006|4|5}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part I, season 4",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No in-universe year exists. Seasons follow story order as aired (Sony/Aniplex \"stage\" divisions); anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 41,
+      "release_date": "2006-04-12",
+      "release_end": "2007-02-08",
+      "release_quote": "| episodes5 = 41 | start5 = {{Start date|2006|4|12}} | end5 = {{End date|2007|2|8}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part I, season 5",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No in-universe year exists. Seasons follow story order as aired (Sony/Aniplex \"stage\" divisions); anime-original filler stays where it aired."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-manga",
+      "kind": "adapts",
+      "note": "adapts Part I of the manga (volumes 1–27) plus anime-original stories"
+     }
+    ],
+    "notes": "Seasons per the Japanese home-media \"stages\" (the article: \"The number of seasons and how many episodes each has varies depending on the distributor\"). 220 episodes, October 3, 2002 to February 8, 2007 on TV Tokyo. Produced by Pierrot and TV Tokyo.",
+    "revid": 1381669631,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto_episodes&oldid=1381669631"
+   },
+   {
+    "id": "naruto-shippuden",
+    "title": "Naruto: Shippuden",
+    "type": "series",
+    "wiki_article": "List of Naruto: Shippuden episodes",
+    "continuity": "naruto-anime",
+    "studio_or_developer": "Pierrot",
+    "publisher": null,
+    "platform": "tv-tokyo",
+    "platforms": [
+     "tv-tokyo"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 32,
+      "release_date": "2007-02-15",
+      "release_end": "2007-10-25",
+      "release_quote": "| episodes1 = 32 | start1 = {{Start date|2007|2|15}} | end1 = {{End date|2007|10|25}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II begins (2½ years after Part I)",
+       "confidence": "inferred",
+       "quote": "It is set two and a half years after the original series in the Naruto universe, following the teenage ninja Naruto Uzumaki and his allies.",
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "Relative gap is stated; there is no calendar year."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 21,
+      "release_date": "2007-11-08",
+      "release_end": "2008-04-03",
+      "release_quote": "| episodes2 = 21 | start2 = {{Start date|2007|11|8}} | end2 = {{End date|2008|4|3}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 18,
+      "release_date": "2008-04-03",
+      "release_end": "2008-08-14",
+      "release_quote": "| episodes3 = 18 | start3 = {{Start date|2008|4|3}} | end3 = {{End date|2008|8|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 3",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      },
+      "note": "Season 2 ends and season 3 starts on the same date (April 3, 2008) in the series overview."
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 17,
+      "release_date": "2008-08-21",
+      "release_end": "2008-12-11",
+      "release_quote": "| episodes4 = 17 | start4 = {{Start date|2008|8|21}} | end4 = {{End date|2008|12|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 4",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 24,
+      "release_date": "2008-12-18",
+      "release_end": "2009-06-04",
+      "release_quote": "| episodes5 = 24 | start5 = {{Start date|2008|12|18}} | end5 = {{End date|2009|6|4}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 5",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 9,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s6",
+      "label": "Season 6",
+      "season": 6,
+      "episodes": 31,
+      "release_date": "2009-06-11",
+      "release_end": "2010-01-14",
+      "release_quote": "| episodes6 = 31 | start6 = {{Start date|2009|6|11}} | end6 = {{End date|2010|1|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 6",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 10,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s7",
+      "label": "Season 7",
+      "season": 7,
+      "episodes": 8,
+      "release_date": "2010-01-21",
+      "release_end": "2010-03-11",
+      "release_quote": "| episodes7 = 8 | start7 = {{Start date|2010|1|21}} | end7 = {{End date|2010|3|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 7",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 11,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s8",
+      "label": "Season 8",
+      "season": 8,
+      "episodes": 24,
+      "release_date": "2010-03-25",
+      "release_end": "2010-08-26",
+      "release_quote": "| episodes8 = 24 | start8 = {{Start date|2010|3|25}} | end8 = {{End date|2010|8|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 8",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 12,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s9",
+      "label": "Season 9",
+      "season": 9,
+      "episodes": 21,
+      "release_date": "2010-09-02",
+      "release_end": "2011-01-27",
+      "release_quote": "| episodes9 = 21 | start9 = {{Start date|2010|9|2}} | end9 = {{End date|2011|1|27}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 9",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 13,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s10",
+      "label": "Season 10",
+      "season": 10,
+      "episodes": 25,
+      "release_date": "2011-02-10",
+      "release_end": "2011-07-28",
+      "release_quote": "| episodes10 = 25 | start10 = {{Start date|2011|2|10}} | end10 = {{End date|2011|7|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 10",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 14,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s11",
+      "label": "Season 11",
+      "season": 11,
+      "episodes": 21,
+      "release_date": "2011-07-28",
+      "release_end": "2011-12-28",
+      "release_quote": "| episodes11 = 21 | start11 = {{Start date|2011|7|28}} | end11 = {{End date|2011|12|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 11",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 15,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      },
+      "note": "Season 10 ends and season 11 starts on the same date (July 28, 2011) in the series overview."
+     },
+     {
+      "key": "s12",
+      "label": "Season 12",
+      "season": 12,
+      "episodes": 33,
+      "release_date": "2012-01-05",
+      "release_end": "2012-08-16",
+      "release_quote": "| episodes12 = 33 | start12 = {{Start date|2012|1|5}} | end12 = {{End date|2012|8|16}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 12",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 16,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s13",
+      "label": "Season 13",
+      "season": 13,
+      "episodes": 20,
+      "release_date": "2012-08-23",
+      "release_end": "2013-01-10",
+      "release_quote": "| episodes13 = 20 | start13 = {{Start date|2012|8|23}} | end13 = {{End date|2013|1|10}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 13",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 17,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s14",
+      "label": "Season 14",
+      "season": 14,
+      "episodes": 25,
+      "release_date": "2013-01-17",
+      "release_end": "2013-07-04",
+      "release_quote": "| episodes14 = 25 | start14 = {{Start date|2013|1|17}} | end14 = {{End date|2013|7|4}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 14",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 18,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s15",
+      "label": "Season 15",
+      "season": 15,
+      "episodes": 28,
+      "release_date": "2013-07-18",
+      "release_end": "2014-01-30",
+      "release_quote": "| episodes15 = 28 | start15 = {{Start date|2013|7|18}} | end15 = {{End date|2014|1|30}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 15",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 19,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s16",
+      "label": "Season 16",
+      "season": 16,
+      "episodes": 13,
+      "release_date": "2014-02-06",
+      "release_end": "2014-05-08",
+      "release_quote": "| episodes16 = 13 | start16 = {{Start date|2014|2|6}} | end16 = {{End date|2014|5|8}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 16",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 20,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s17",
+      "label": "Season 17",
+      "season": 17,
+      "episodes": 11,
+      "release_date": "2014-05-15",
+      "release_end": "2014-08-14",
+      "release_quote": "| episodes17 = 11 | start17 = {{Start date|2014|5|15}} | end17 = {{End date|2014|8|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 17",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 21,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s18",
+      "label": "Season 18",
+      "season": 18,
+      "episodes": 21,
+      "release_date": "2014-08-21",
+      "release_end": "2014-12-25",
+      "release_quote": "| episodes18 = 21 | start18 = {{Start date|2014|8|21}} | end18 = {{End date|2014|12|25}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 18",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 22,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s19",
+      "label": "Season 19",
+      "season": 19,
+      "episodes": 20,
+      "release_date": "2015-01-08",
+      "release_end": "2015-05-21",
+      "release_quote": "| episodes19 = 20 | start19 = {{Start date|2015|1|8}} | end19 = {{End date|2015|5|21}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 19",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 23,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s20",
+      "label": "Season 20",
+      "season": 20,
+      "episodes": 45,
+      "release_date": "2015-05-28",
+      "release_end": "2016-04-28",
+      "release_quote": "| episodes20 = 45 | start20 = {{Start date|2015|5|28}} | end20 = {{End date|2016|4|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 20",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 24,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s21",
+      "label": "Season 21",
+      "season": 21,
+      "episodes": 21,
+      "release_date": "2016-05-05",
+      "release_end": "2016-10-13",
+      "release_quote": "| episodes21 = 21 | start21 = {{Start date|2016|5|5}} | end21 = {{End date|2016|10|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 21",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 25,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     },
+     {
+      "key": "s22",
+      "label": "Season 22",
+      "season": 22,
+      "episodes": 21,
+      "release_date": "2016-10-20",
+      "release_end": "2017-03-23",
+      "release_quote": "| episodes22 = 21 | start22 = {{Start date|2016|10|20}} | end22 = {{End date|2017|3|23}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part II, season 22",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739",
+       "precision": "relative",
+       "order_index": 26,
+       "note": "Seasons follow story order as aired; anime-original filler stays where it aired."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-tv",
+      "kind": "continues",
+      "note": "direct sequel, set two and a half years later"
+     },
+     {
+      "to": "naruto-manga",
+      "kind": "adapts",
+      "note": "mainly adapted from Part II of the manga (volumes 28–72)"
+     }
+    ],
+    "notes": "\"with exactly 500 episodes … It began broadcasting on February 15, 2007, on TV Tokyo, and concluded on March 23, 2017.\" The Shippuden article title now redirects to Naruto (TV series); the episode list is used as the source.",
+    "revid": 1384642739,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_Naruto%3A_Shippuden_episodes&oldid=1384642739"
+   },
+   {
+    "id": "the-last-naruto-the-movie",
+    "title": "The Last: Naruto the Movie",
+    "type": "film",
+    "wiki_article": "The Last: Naruto the Movie",
+    "continuity": "naruto-anime",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-12-06",
+      "release_quote": "| released = {{film date|df=yes|2014|12|06}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Last%3A_Naruto_the_Movie&oldid=1377466510",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 493 (two years after the Fourth Great Ninja War)",
+       "confidence": "inferred",
+       "quote": "Set after the episode 493 of the Naruto Shippuden anime series, the film focuses on the now adults Naruto Uzumaki's ninja team",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Last%3A_Naruto_the_Movie&oldid=1377466510",
+       "precision": "relative",
+       "order_index": 27,
+       "note": "Episode 493 falls inside Shippuden season 22 (episodes 480–500); with season-level units the film is placed after season 22. Naruto (TV series): \"The film takes place two years after the Fourth Great Ninja War\" and \"The film is set two years after the conclusion of the manga.\""
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "continues",
+      "note": "set after Shippuden episode 493"
+     },
+     {
+      "to": "naruto-manga",
+      "kind": "continues",
+      "note": "set two years after the conclusion of the manga"
+     }
+    ],
+    "notes": "Canon: the Boruto film article calls Boruto \"the second film to be a part of the canonical Naruto storyline\", making The Last the first. Kishimoto \"provided the story concept, character designs and complete editorial supervision\".",
+    "revid": 1377466510,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Last%3A_Naruto_the_Movie&oldid=1377466510"
+   },
+   {
+    "id": "boruto-naruto-the-movie",
+    "title": "Boruto: Naruto the Movie",
+    "type": "film",
+    "wiki_article": "Boruto: Naruto the Movie",
+    "continuity": "naruto-anime",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-08-07",
+      "release_quote": "The film was released on August 7, 2015. | released = {{film date |2015|8|7|}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_the_Movie&oldid=1379221049",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden; retold in Boruto episodes 53–66",
+       "confidence": "inferred",
+       "quote": "Set after the finale of the Naruto: Shippuden anime series and from the adaptations of episodes 53 to 66 of the Boruto: Naruto Next Generations anime series",
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_the_Movie&oldid=1379221049",
+       "precision": "relative",
+       "order_index": 29,
+       "note": "Placed between Boruto episodes 1–52 and 53–104 because episodes 53–66 adapt the film's events. Wikipedia: \"The film is set fifteen years after the conclusion of the manga.\""
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-last-naruto-the-movie",
+      "kind": "continues",
+      "note": "second canonical film, set after The Last"
+     },
+     {
+      "to": "naruto-manga",
+      "kind": "continues",
+      "note": "set fifteen years after the conclusion of the manga"
+     }
+    ],
+    "notes": "\"the second film to be a part of the canonical Naruto storyline, being a sequel to the manga series\". Kishimoto \"served as the film's chief production supervisor, screenwriter, and character designer\".",
+    "revid": 1379221049,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_the_Movie&oldid=1379221049"
+   },
+   {
+    "id": "boruto-tv",
+    "title": "Boruto: Naruto Next Generations",
+    "type": "series",
+    "wiki_article": "List of Boruto: Naruto Next Generations episodes",
+    "continuity": "naruto-anime",
+    "studio_or_developer": "Pierrot",
+    "publisher": null,
+    "platform": "tv-tokyo",
+    "platforms": [
+     "tv-tokyo"
+    ],
+    "units": [
+     {
+      "key": "list1",
+      "label": "Episodes 1–52",
+      "season": 1,
+      "episodes": 52,
+      "release_date": "2017-04-05",
+      "release_end": "2018-04-04",
+      "release_quote": "Episode 1: OriginalAirDate = {{Start date|2017|04|05}} … Episode 52: OriginalAirDate = {{Start date|2018|04|04}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_1%E2%80%9352&oldid=1379439008",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Academy days (anime-original prequel)",
+       "confidence": "inferred",
+       "quote": "Unlike the manga, which begins as a retelling of the Boruto film, the anime starts as a prequel set before Boruto and his friends become ninjas.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271",
+       "precision": "relative",
+       "order_index": 28,
+       "note": "Placed after The Last: the anime is \"a spin-off and a sequel to the anime series Naruto (2002–2007) and Naruto: Shippuden (2007–2017)\"."
+      }
+     },
+     {
+      "key": "list2",
+      "label": "Episodes 53–104",
+      "season": 2,
+      "episodes": 52,
+      "release_date": "2018-04-11",
+      "release_end": "2019-04-28",
+      "release_quote": "Episode 53: OriginalAirDate = {{Start date|2018|04|11}} … Episode 104: OriginalAirDate = {{Start date|2019|04|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_53%E2%80%93104&oldid=1386026913",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Chūnin Exams (retells the film in eps 53–66) onward",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_53%E2%80%93104&oldid=1386026913",
+       "precision": "relative",
+       "order_index": 30,
+       "note": "Lists follow broadcast order; the article says the 52-episode lists \"do not constitute an official means for dividing the Boruto anime series\"."
+      }
+     },
+     {
+      "key": "list3",
+      "label": "Episodes 105–156",
+      "season": 3,
+      "episodes": 52,
+      "release_date": "2019-05-05",
+      "release_end": "2020-07-12",
+      "release_quote": "Episode 105: OriginalAirDate = {{Start date|2019|05|05}} … Episode 156: OriginalAirDate = {{Start date|2020|07|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_105%E2%80%93156&oldid=1374152037",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Episodes 105–156",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_105%E2%80%93156&oldid=1374152037",
+       "precision": "relative",
+       "order_index": 31,
+       "note": "Lists follow broadcast order; the article says the 52-episode lists \"do not constitute an official means for dividing the Boruto anime series\"."
+      }
+     },
+     {
+      "key": "list4",
+      "label": "Episodes 157–208",
+      "season": 4,
+      "episodes": 52,
+      "release_date": "2020-07-19",
+      "release_end": "2021-07-18",
+      "release_quote": "Episode 157: OriginalAirDate = {{Start date|2020|07|19}} … Episode 208: OriginalAirDate = {{Start date|2021|07|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_157%E2%80%93208&oldid=1372075494",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Episodes 157–208",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_157%E2%80%93208&oldid=1372075494",
+       "precision": "relative",
+       "order_index": 32,
+       "note": "Lists follow broadcast order; the article says the 52-episode lists \"do not constitute an official means for dividing the Boruto anime series\"."
+      }
+     },
+     {
+      "key": "list5",
+      "label": "Episodes 209–260",
+      "season": 5,
+      "episodes": 52,
+      "release_date": "2021-08-01",
+      "release_end": "2022-07-31",
+      "release_quote": "Episode 209: OriginalAirDate = {{Start date|2021|08|01}} … Episode 260: OriginalAirDate = {{Start date|2022|07|31}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_209%E2%80%93260&oldid=1379112092",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Episodes 209–260",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_209%E2%80%93260&oldid=1379112092",
+       "precision": "relative",
+       "order_index": 33,
+       "note": "Lists follow broadcast order; the article says the 52-episode lists \"do not constitute an official means for dividing the Boruto anime series\"."
+      }
+     },
+     {
+      "key": "list6",
+      "label": "Episodes 261–293",
+      "season": 6,
+      "episodes": 33,
+      "release_date": "2022-08-07",
+      "release_end": "2023-03-26",
+      "release_quote": "Episode 261: OriginalAirDate = {{Start date|2022|08|07}} … Episode 293: OriginalAirDate = {{Start date|2023|03|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_261%E2%80%93293&oldid=1374152071",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Episodes 261–293",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto%3A_Naruto_Next_Generations_episodes_261%E2%80%93293&oldid=1374152071",
+       "precision": "relative",
+       "order_index": 34,
+       "note": "Lists follow broadcast order; the article says the 52-episode lists \"do not constitute an official means for dividing the Boruto anime series\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "continues",
+      "note": "spin-off and sequel to Naruto: Shippuden"
+     },
+     {
+      "to": "boruto-naruto-the-movie",
+      "kind": "adapts",
+      "note": "episodes 53–66 adapt the film"
+     },
+     {
+      "to": "boruto-manga",
+      "kind": "adapts",
+      "note": "based on the Boruto manga, with original storylines"
+     }
+    ],
+    "notes": "Units are Wikipedia's 52-episode \"lists\" (no official seasons: \"These lists do not constitute an official means for dividing the Boruto anime series\"). 293 episodes, TV Tokyo, April 5, 2017 to March 26, 2023 (Part 1). Part 2 (Two Blue Vortex anime) is only \"announced to be in development\" as of this revision, so it is excluded.",
+    "revid": 1379441023,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_Boruto%3A_Naruto_Next_Generations_episodes&oldid=1379441023"
+   },
+   {
+    "id": "naruto-manga",
+    "title": "Naruto",
+    "type": "comic",
+    "wiki_article": "Naruto",
+    "continuity": "naruto-manga",
+    "studio_or_developer": "Masashi Kishimoto",
+    "publisher": "Shueisha",
+    "platform": "print",
+    "platforms": [
+     "Weekly Shōnen Jump",
+     "Jump Comics"
+    ],
+    "units": [
+     {
+      "key": "manga",
+      "label": "Manga (72 volumes)",
+      "volumes": 72,
+      "chapters": 700,
+      "release_date": "1999-09-21",
+      "release_end": "2014-11-10",
+      "release_quote": "| first = September 21, 1999 | last = November 10, 2014 | volumes = 72 … serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from September 1999 to November 2014, with its 700 chapters collected in 72 tankōbon volumes.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto&oldid=1387477978",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Part I (pre-teen, vols 1–27) and Part II (teens, vols 28–72)",
+       "confidence": "inferred",
+       "quote": "The story is told in two parts: the first is set in Naruto's pre-teen years (volumes 1–27), and the second in his teens (volumes 28–72).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto&oldid=1387477978",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No calendar years in the story. Part II \"is set two and a half years after the end of the Part I storyline\" (List of Naruto volumes)."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Release dates are serialization start/end (infobox). First tankōbon March 3, 2000; volume 72 February 4, 2015 (List of Naruto volumes).",
+    "revid": 1387477978,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto&oldid=1387477978"
+   },
+   {
+    "id": "boruto-manga",
+    "title": "Boruto",
+    "type": "comic",
+    "wiki_article": "Boruto",
+    "continuity": "naruto-manga",
+    "studio_or_developer": "Ukyō Kodachi / Mikio Ikemoto / Masashi Kishimoto",
+    "publisher": "Shueisha",
+    "platform": "print",
+    "platforms": [
+     "Weekly Shōnen Jump",
+     "V Jump",
+     "Jump Comics"
+    ],
+    "units": [
+     {
+      "key": "part1",
+      "label": "Part I: Naruto Next Generations (vols 1–20)",
+      "volumes": 20,
+      "release_date": "2016-05-09",
+      "release_end": null,
+      "release_quote": "It began serialisation in Shueisha's shōnen manga magazine Weekly Shōnen Jump on 9 May 2016. It ran in the magazine until 10 June 2019 and was then transferred to V Jump on 20 July of the same year. … In April 2023, the series concluded the first part of its story.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271",
+      "note": "Part I end is given only as \"April 2023\" (month precision), so release_end is null. Volume count 20 from \"Masashi Kishimoto (vol. 14–20)\" in List of Boruto chapters.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Naruto (opens by retelling the Boruto film)",
+       "confidence": "inferred",
+       "quote": "Unlike the manga, which begins as a retelling of the Boruto film, the anime starts as a prequel set before Boruto and his friends become ninjas.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "Sequel to the Naruto manga; no calendar year. Wikipedia sets the Boruto film \"fifteen years after the conclusion of the manga\" (Naruto (TV series))."
+      }
+     },
+     {
+      "key": "part2",
+      "label": "Part II: Two Blue Vortex",
+      "volumes": null,
+      "release_date": "2023-08-21",
+      "release_end": null,
+      "release_quote": "In April 2023, it was announced that the manga would enter a hiatus; it resumed on 21 August of the same year, with a second part titled Boruto: Two Blue Vortex.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271",
+      "note": "Ongoing. Infobox gives 29 volumes for the whole series; Two Blue Vortex count would be 29 − 20 = 9 (derived, not stated), left null.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after a time skip (teenage Boruto)",
+       "confidence": "inferred",
+       "quote": "it resumed in August of the same year with a second part titled Boruto: Two Blue Vortex in which a teenager Boruto continues protecting the village in solitude, now that he is seen as an enemy.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "Follows Part I; no calendar year."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-manga",
+      "kind": "continues",
+      "note": "spin-off and sequel to Kishimoto's Naruto manga"
+     },
+     {
+      "to": "boruto-naruto-the-movie",
+      "kind": "adapts",
+      "note": "the manga begins as a retelling of the Boruto film"
+     }
+    ],
+    "notes": "Written by Ukyō Kodachi (vols 1–13) and Masashi Kishimoto (vols 14–20 / from November 2020), illustrated by Mikio Ikemoto.",
+    "revid": 1386477271,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Boruto&oldid=1386477271"
+   },
+   {
+    "id": "naruto-movie-land-of-snow",
+    "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "type": "film",
+    "wiki_article": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2004-08-21",
+      "release_quote": "It was released in Japan on August 21, 2004.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Ninja_Clash_in_the_Land_of_Snow&oldid=1381012402",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Naruto episode 101",
+       "confidence": "inferred",
+       "quote": "The film is set after the episode 101 of the Naruto anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Ninja_Clash_in_the_Land_of_Snow&oldid=1381012402",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-tv",
+      "kind": "shares-characters",
+      "note": "after Naruto episode 101 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1381012402,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Ninja_Clash_in_the_Land_of_Snow&oldid=1381012402"
+   },
+   {
+    "id": "naruto-movie-stone-of-gelel",
+    "title": "Naruto the Movie: Legend of the Stone of Gelel",
+    "type": "film",
+    "wiki_article": "Naruto the Movie: Legend of the Stone of Gelel",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2005-08-06",
+      "release_quote": "It was released in theaters in Japan on August 6, 2005.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Legend_of_the_Stone_of_Gelel&oldid=1381012444",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Naruto episode 160",
+       "confidence": "inferred",
+       "quote": "The film is set after episode 160 of the Naruto anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Legend_of_the_Stone_of_Gelel&oldid=1381012444",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-tv",
+      "kind": "shares-characters",
+      "note": "after Naruto episode 160 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1381012444,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Legend_of_the_Stone_of_Gelel&oldid=1381012444"
+   },
+   {
+    "id": "naruto-movie-crescent-moon-kingdom",
+    "title": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+    "type": "film",
+    "wiki_article": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-08-05",
+      "release_quote": "| released = {{Film date|2006|8|5|df=y}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Guardians_of_the_Crescent_Moon_Kingdom&oldid=1379268388",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Naruto episode 196",
+       "confidence": "inferred",
+       "quote": "The film is set after episode 196 of the Naruto anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Guardians_of_the_Crescent_Moon_Kingdom&oldid=1379268388",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-tv",
+      "kind": "shares-characters",
+      "note": "after Naruto episode 196 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1379268388,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Guardians_of_the_Crescent_Moon_Kingdom&oldid=1379268388"
+   },
+   {
+    "id": "naruto-shippuden-the-movie",
+    "title": "Naruto Shippuden the Movie",
+    "type": "film",
+    "wiki_article": "Naruto Shippuden the Movie",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-08-04",
+      "release_quote": "| released = {{Film date|2007|08|04}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie&oldid=1345045176",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 32",
+       "confidence": "inferred",
+       "quote": "The movie is set after the episode 32 of the Naruto: Shippuden anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie&oldid=1345045176",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "shares-characters",
+      "note": "after Shippuden episode 32 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1345045176,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie&oldid=1345045176"
+   },
+   {
+    "id": "naruto-shippuden-movie-bonds",
+    "title": "Naruto Shippuden the Movie: Bonds",
+    "type": "film",
+    "wiki_article": "Naruto Shippuden the Movie: Bonds",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2008-08-02",
+      "release_quote": "Released on August 2, 2008, it was announced in Weekly Shōnen Jump",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_Bonds&oldid=1381217463",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 71",
+       "confidence": "inferred",
+       "quote": "The movie is set after the episode 71 of the Naruto: Shippuden anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_Bonds&oldid=1381217463",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "shares-characters",
+      "note": "after Shippuden episode 71 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1381217463,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_Bonds&oldid=1381217463"
+   },
+   {
+    "id": "naruto-shippuden-movie-will-of-fire",
+    "title": "Naruto Shippuden the Movie: The Will of Fire",
+    "type": "film",
+    "wiki_article": "Naruto Shippuden the Movie: The Will of Fire",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-08-01",
+      "release_quote": "Released on August 1, 2009, in theaters in Japan",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_The_Will_of_Fire&oldid=1379268377",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 126",
+       "confidence": "inferred",
+       "quote": "The movie is set after the episode 126 of the Naruto: Shippuden anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_The_Will_of_Fire&oldid=1379268377",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "shares-characters",
+      "note": "after Shippuden episode 126 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1379268377,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_The_Will_of_Fire&oldid=1379268377"
+   },
+   {
+    "id": "naruto-shippuden-movie-lost-tower",
+    "title": "Naruto Shippuden the Movie: The Lost Tower",
+    "type": "film",
+    "wiki_article": "Naruto Shippuden the Movie: The Lost Tower",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2010-07-31",
+      "release_quote": "It was released on July 31, 2010.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_The_Lost_Tower&oldid=1384931280",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 143",
+       "confidence": "inferred",
+       "quote": "The movie is set after the episode 143 of the Naruto: Shippuden anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_The_Lost_Tower&oldid=1384931280",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "shares-characters",
+      "note": "after Shippuden episode 143 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1384931280,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_Shippuden_the_Movie%3A_The_Lost_Tower&oldid=1384931280"
+   },
+   {
+    "id": "naruto-movie-blood-prison",
+    "title": "Naruto the Movie: Blood Prison",
+    "type": "film",
+    "wiki_article": "Naruto the Movie: Blood Prison",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-07-27",
+      "release_quote": "It was released in Japan on July 27, 2011, in North America on February 18, 2014",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Blood_Prison&oldid=1386917827",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 196",
+       "confidence": "inferred",
+       "quote": "The film is set after the episode 196 of the Naruto: Shippuden anime series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Blood_Prison&oldid=1386917827",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "shares-characters",
+      "note": "after Shippuden episode 196 (non-canon original story)"
+     }
+    ],
+    "notes": "Original story; not part of the canonical storyline (inferred, see continuity note).",
+    "revid": 1386917827,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Naruto_the_Movie%3A_Blood_Prison&oldid=1386917827"
+   },
+   {
+    "id": "road-to-ninja-naruto-the-movie",
+    "title": "Road to Ninja: Naruto the Movie",
+    "type": "film",
+    "wiki_article": "Road to Ninja: Naruto the Movie",
+    "continuity": "naruto-anime-films-noncanon",
+    "studio_or_developer": "Studio Pierrot",
+    "publisher": "Toho",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2012-07-28",
+      "release_quote": "It was released in Japan on July 28, 2012.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Road_to_Ninja%3A_Naruto_the_Movie&oldid=1386630488",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Shippuden episode 251 / 311",
+       "confidence": "inferred",
+       "quote": "Set after the episode 251 and following the episode 311 of the Naruto: Shippuden anime series",
+       "source": "https://en.wikipedia.org/w/index.php?title=Road_to_Ninja%3A_Naruto_the_Movie&oldid=1386630488",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "Ordered among the non-canon films by the stated anime placement (Part I films first, then Shippuden films by episode). Wikipedia gives two anchors (after 251, following 311); the later one is not used for ordering since it is last either way."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "naruto-shippuden",
+      "kind": "shares-characters",
+      "note": "after Shippuden episode 251 / 311 (non-canon original story)"
+     }
+    ],
+    "notes": "\"the first Naruto film to have Kishimoto directly involved with its production, including its main story and new character designs.\" Still outside the canonical storyline per the Boruto film article.",
+    "revid": 1386630488,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Road_to_Ninja%3A_Naruto_the_Movie&oldid=1386630488"
+   }
+  ]
+ },
+ "one-piece": {
+  "continuities": [
+   {
+    "id": "one-piece-anime",
+    "name": "One Piece anime (TV series and Oda-era films)",
+    "ordered_only": true,
+    "description": "Toei's 1999 TV anime, ordered by story/airing (seasons = Wikipedia story arcs, anime-original arcs where they air), plus the five films the brief treats as canon/semi-canon (Strong World, Z, Gold, Stampede, Red), each placed next to its TV tie-in arc. Wikipedia does NOT call these films canon (see film notes), so their placement is \"disputed\". No numbered years exist in the story.",
+    "quote": "| auxA5 = TV Original … With the release of films ten, twelve, thirteen, and fourteen, tie-in story arcs of the TV series were aired concurrently.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+     "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+    ]
+   },
+   {
+    "id": "one-piece-manga",
+    "name": "One Piece manga",
+    "ordered_only": true,
+    "description": "Eiichiro Oda's manga, the source text. Separate from the anime (which has anime-original arcs) and from the films (Oda \"does not connect the films to his manga\").",
+    "quote": "He stated that he does not connect the films to his manga, as doing so would make outside material effectively obligatory",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Strong_World&oldid=1380815820",
+     "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140"
+    ]
+   },
+   {
+    "id": "one-piece-anime-films-noncanon",
+    "name": "One Piece anime films (non-canon)",
+    "ordered_only": true,
+    "description": "The ten earlier theatrical films (2000–2011) with original or retold stories. Wikipedia says the films cannot share one continuity, so they are ordered by release only.",
+    "quote": "They feature self-contained, completely original plots, or alternate retellings of story arcs with animation of a higher quality than that of the regular anime series. … The films themselves offer contradictions in both chronology and design that make them incompatible with a single continuity.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140"
+    ]
+   },
+   {
+    "id": "one-piece-netflix",
+    "name": "One Piece (Netflix live-action)",
+    "ordered_only": true,
+    "description": "Netflix's live-action adaptation; its own continuity, retelling the manga from East Blue.",
+    "quote": "The series is a live-action adaptation of the 1997 Japanese manga series One Piece by Eiichiro Oda, who also serves as a creative consultant.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "one-piece-anime",
+    "title": "One Piece",
+    "type": "series",
+    "wiki_article": "List of One Piece episodes",
+    "continuity": "one-piece-anime",
+    "studio_or_developer": "Toei Animation",
+    "publisher": null,
+    "platform": "fuji-tv",
+    "platforms": [
+     "fuji-tv"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1: East Blue",
+      "season": 1,
+      "episodes": 61,
+      "release_date": "1999-10-20",
+      "release_end": "2001-03-07",
+      "release_quote": "| episodes1 = 61 | start1 = {{Start date|1999|10|20}} | end1 = {{End date|2001|3|7}} | auxA1 = ''East Blue''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "East Blue",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2: Entering into the Grand Line",
+      "season": 2,
+      "episodes": 16,
+      "release_date": "2001-03-21",
+      "release_end": "2001-08-19",
+      "release_quote": "| episodes2 = 16 | start2 = {{Start date|2001|3|21}} | end2 = {{End date|2001|8|19}} | auxA2 = ''Entering into the Grand Line''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Entering into the Grand Line",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3: Introducing Chopper at Drum Kingdom",
+      "season": 3,
+      "episodes": 15,
+      "release_date": "2001-08-26",
+      "release_end": "2001-12-09",
+      "release_quote": "| episodes3 = 15 | start3 = {{Start date|2001|8|26}} | end3 = {{End date|2001|12|9}} | auxA3 = ''Introducing Chopper at Drum Kingdom''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Introducing Chopper at Drum Kingdom",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4: Alabasta",
+      "season": 4,
+      "episodes": 38,
+      "release_date": "2001-12-16",
+      "release_end": "2002-10-27",
+      "release_quote": "| episodes4 = 38 | start4 = {{Start date|2001|12|16}} | end4 = {{End date|2002|10|27}} | auxA4 = ''Alabasta''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Alabasta",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5: TV Original",
+      "season": 5,
+      "episodes": 13,
+      "release_date": "2002-11-03",
+      "release_end": "2003-02-02",
+      "release_quote": "| episodes5 = 13 | start5 = {{Start date|2002|11|3}} | end5 = {{End date|2003|2|2}} | auxA5 = ''TV Original''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "TV Original (anime original)",
+       "confidence": "inferred",
+       "quote": "| episodes5 = 13 | start5 = {{Start date|2002|11|3}} | end5 = {{End date|2003|2|2}} | auxA5 = ''TV Original''",
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "Anime-original season, placed where it aired (between Alabasta and Skypiea)."
+      }
+     },
+     {
+      "key": "s6",
+      "label": "Season 6: Skypiea",
+      "season": 6,
+      "episodes": 52,
+      "release_date": "2003-02-09",
+      "release_end": "2004-06-13",
+      "release_quote": "| episodes6 = 52 | start6 = {{Start date|2003|2|9}} | end6 = {{End date|2004|6|13}} | auxA6 = ''Skypiea''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Skypiea",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s7",
+      "label": "Season 7: Escape! The Naval Fortress & The Foxy Pirate Crew",
+      "season": 7,
+      "episodes": 33,
+      "release_date": "2004-06-20",
+      "release_end": "2005-03-27",
+      "release_quote": "| episodes7 = 33 | start7 = {{Start date|2004|6|20}} | end7 = {{End date|2005|3|27}} | auxA7 = ''Escape! The Naval Fortress & The Foxy Pirate Crew''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Escape! The Naval Fortress & The Foxy Pirate Crew",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s8",
+      "label": "Season 8: Water Seven",
+      "season": 8,
+      "episodes": 35,
+      "release_date": "2005-04-17",
+      "release_end": "2006-04-30",
+      "release_quote": "| episodes8 = 35 | start8 = {{Start date|2005|4|17}} | end8 = {{End date|2006|4|30}} | auxA8 = ''Water Seven''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Water Seven",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s9",
+      "label": "Season 9: Enies Lobby",
+      "season": 9,
+      "episodes": 73,
+      "release_date": "2006-05-21",
+      "release_end": "2007-12-23",
+      "release_quote": "| episodes9 = 73 | start9 = {{Start date|2006|5|21}} | end9 = {{End date|2007|12|23}} | auxA9 = ''Enies Lobby''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Enies Lobby",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s10",
+      "label": "Season 10: Thriller Bark",
+      "season": 10,
+      "episodes": 45,
+      "release_date": "2008-01-06",
+      "release_end": "2008-12-14",
+      "release_quote": "| episodes10 = 45 | start10 = {{Start date|2008|1|6}} | end10 = {{End date|2008|12|14}} | auxA10 = ''Thriller Bark''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Thriller Bark",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 9,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s11",
+      "label": "Season 11: Sabaody Archipelago",
+      "season": 11,
+      "episodes": 26,
+      "release_date": "2008-12-21",
+      "release_end": "2009-06-28",
+      "release_quote": "| episodes11 = 26 | start11 = {{Start date|2008|12|21}} | end11 = {{End date|2009|6|28}} | auxA11 = ''Sabaody Archipelago''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Sabaody Archipelago",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 11,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s12",
+      "label": "Season 12: Amazon Lily",
+      "season": 12,
+      "episodes": 14,
+      "release_date": "2009-07-05",
+      "release_end": "2009-10-11",
+      "release_quote": "| episodes12 = 14 | start12 = {{Start date|2009|7|5}} | end12 = {{End date|2009|10|11}} | auxA12 = ''Amazon Lily''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Amazon Lily",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 12,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s13",
+      "label": "Season 13: Impel Down",
+      "season": 13,
+      "episodes": 35,
+      "release_date": "2009-10-18",
+      "release_end": "2010-06-20",
+      "release_quote": "| episodes13 = 35 | start13 = {{Start date|2009|10|18}} | end13 = {{End date|2010|6|20}} | auxA13 = ''Impel Down''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Impel Down",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 13,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s14",
+      "label": "Season 14: Marineford",
+      "season": 14,
+      "episodes": 60,
+      "release_date": "2010-06-27",
+      "release_end": "2011-09-25",
+      "release_quote": "| episodes14 = 60 | start14 = {{Start date|2010|6|27}} | end14 = {{End date|2011|9|25}} | auxA14 = ''Marineford''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Marineford",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 14,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s15",
+      "label": "Season 15: Fish-Man Island",
+      "season": 15,
+      "episodes": 62,
+      "release_date": "2011-10-02",
+      "release_end": "2012-12-23",
+      "release_quote": "| episodes15 = 62 | start15 = {{Start date|2011|10|2}} | end15 = {{End date|2012|12|23}} | auxA15 = ''Fish-Man Island''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Fish-Man Island",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 15,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s16",
+      "label": "Season 16: Punk Hazard",
+      "season": 16,
+      "episodes": 50,
+      "release_date": "2013-01-06",
+      "release_end": "2014-01-12",
+      "release_quote": "| episodes16 = 50 | start16 = {{Start date|2013|1|6}} | end16 = {{End date|2014|1|12}} | auxA16 = ''Punk Hazard''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Punk Hazard",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 17,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s17",
+      "label": "Season 17: Dressrosa",
+      "season": 17,
+      "episodes": 118,
+      "release_date": "2014-01-19",
+      "release_end": "2016-06-19",
+      "release_quote": "| episodes17 = 118 | start17 = {{Start date|2014|1|19}} | end17 = {{End date|2016|6|19}} | auxA17 = ''Dressrosa''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Dressrosa",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 18,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s18",
+      "label": "Season 18: Zou",
+      "season": 18,
+      "episodes": 36,
+      "release_date": "2016-06-26",
+      "release_end": "2017-04-02",
+      "release_quote": "| episodes18 = 36 | start18 = {{Start date|2016|6|26}} | end18 = {{End date|2017|4|2}} | auxA18 = ''Zou''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Zou",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 20,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s19",
+      "label": "Season 19: Whole Cake Island",
+      "season": 19,
+      "episodes": 109,
+      "release_date": "2017-04-09",
+      "release_end": "2019-06-30",
+      "release_quote": "| episodes19 = 109 | start19 = {{Start date|2017|4|9}} | end19 = {{End date|2019|6|30}} | auxA19 = ''Whole Cake Island''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Whole Cake Island",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 21,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s20",
+      "label": "Season 20: Wano Country",
+      "season": 20,
+      "episodes": 197,
+      "release_date": "2019-07-07",
+      "release_end": "2023-12-17",
+      "release_quote": "| episodes20 = 197 | start20 = {{Start date|2019|7|7}} | end20 = {{End date|2023|12|17}} | auxA20 = ''Wano Country''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Wano Country",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 23,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s21",
+      "label": "Season 21: Egghead",
+      "season": 21,
+      "episodes": 67,
+      "release_date": "2024-01-07",
+      "release_end": "2025-12-28",
+      "release_quote": "| episodes21 = 67 | start21 = {{Start date|2024|1|7}} | end21 = {{End date|2025|12|28}} | auxA21 = ''Egghead''",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Egghead",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 25,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      }
+     },
+     {
+      "key": "s22",
+      "label": "Season 22: Elbaph",
+      "season": 22,
+      "episodes": 25,
+      "release_date": "2026-04-05",
+      "release_end": null,
+      "release_quote": "| episodes22 = {{Tmpv|One Piece season 22|Infobox television season|1|num_episodes|1}}<!-- Episode count updates automatically due to this template; do not remove. --> | start22 = {{Start date|2026|4|5}} | end22 =  | auxA22 = ''Elbaph'' … | num_episodes = 25<!-- As of September 27, 2026. -->",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "https://en.wikipedia.org/w/index.php?title=One_Piece_season_22&oldid=1380006184"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Elbaph",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690",
+       "precision": "relative",
+       "order_index": 26,
+       "note": "No numbered in-universe years (\"Great Pirate Era\" only). Seasons follow story order as aired; anime-original arcs stay where they aired."
+      },
+      "note": "Ongoing; episode count (25 as of September 27, 2026) from the season 22 article infobox, which the overview transcludes."
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-manga",
+      "kind": "adapts",
+      "note": "adapts Oda's manga, with anime-original arcs"
+     }
+    ],
+    "notes": "One unit per Wikipedia season (each season = a main story arc, per the series overview \"Main arc title(s)\"). Premiered on Fuji Television October 20, 1999; ongoing. \"The 1999 series\" article: One Piece (1999 TV series). The 2027 Netflix/Wit Studio remake \"The One Piece\" is not yet released (scheduled February 2027) and is excluded.",
+    "revid": 1384009690,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_episodes&oldid=1384009690"
+   },
+   {
+    "id": "one-piece-film-strong-world",
+    "title": "One Piece Film: Strong World",
+    "type": "film",
+    "wiki_article": "One Piece Film: Strong World",
+    "continuity": "one-piece-anime",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-12-12",
+      "release_quote": "Eventually, the film premiered on December 12, 2009. | released = {{Film date|2009|12|12}}",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Strong_World&oldid=1380815820",
+       "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "between Thriller Bark and Sabaody (fan wiki)",
+       "confidence": "disputed",
+       "quote": "This movie would be chronologically set after the Thriller Bark Arc and before the Sabaody Archipelago Arc, as Brook is part of the Straw Hats and the whole crew remains together.",
+       "source": "https://onepiece.fandom.com/wiki/One_Piece_Film:_Strong_World?oldid=2130473",
+       "precision": "relative",
+       "order_index": 10,
+       "note": "Fan-wiki placement (One Piece Wiki, secondary). Conflict: the TV prologue \"A Gold Lion's Ambition\" (eps 426–429, season 13) is \"set outside the current continuity\" (One Piece season 13, Wikipedia), and Oda says he \"does not connect the films to his manga\". Placed after season 10 (Thriller Bark)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "TV prologue arc in episodes 426–429"
+     }
+    ],
+    "notes": "Canon status per Wikipedia: not canon. \"Oda addressed the canonicity of the film in 2024 … He stated that he does not connect the films to his manga\". Oda was executive producer/story writer per the article. TV prologue: episodes 426–429.",
+    "revid": 1380815820,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Strong_World&oldid=1380815820"
+   },
+   {
+    "id": "one-piece-film-z",
+    "title": "One Piece Film: Z",
+    "type": "film",
+    "wiki_article": "One Piece Film: Z",
+    "continuity": "one-piece-anime",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2012-12-15",
+      "release_quote": "The 12th One Piece film was released on December 15, 2012. | released = {{Film date|2012|12|15}}",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Z&oldid=1373662482",
+       "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "end of season 15 (after Fish-Man Island)",
+       "confidence": "disputed",
+       "quote": "The events of the film takes place near the end of the fifteenth season of the One Piece anime series during the \"Z's Ambition\" story arc, which serves as a prologue.",
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Z&oldid=1373662482",
+       "precision": "relative",
+       "order_index": 16,
+       "note": "Placement is stated by Wikipedia, but the film's canon status is not (and the One Piece article says the films are \"incompatible with a single continuity\"), so confidence is disputed."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "\"Z's Ambition\" prologue arc ends season 15"
+     }
+    ],
+    "notes": "Canon status: Wikipedia makes no canon claim; the One Piece article says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\". TV prologue \"Z's Ambition\" = final four episodes of season 15.",
+    "revid": 1373662482,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Z&oldid=1373662482"
+   },
+   {
+    "id": "one-piece-film-gold",
+    "title": "One Piece Film: Gold",
+    "type": "film",
+    "wiki_article": "One Piece Film: Gold",
+    "continuity": "one-piece-anime",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2016-07-23",
+      "release_quote": "The film was released in Japan on July 23, 2016, by its distributor Toei Company … | released = {{film date|2016|7|15|Emirates Palace|2016|7|23|Japan}}",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Gold&oldid=1379271128",
+       "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Dressrosa, before Zou",
+       "confidence": "disputed",
+       "quote": "It takes place after the Dressrosa Arc (Gild Tesoro stated that Luffy had beaten Donquixote Doflamingo and Sabo has the powers of the Mera Mera no Mi), and before the Zou Arc",
+       "source": "https://onepiece.fandom.com/wiki/One_Piece_Film:_Gold?oldid=2136116",
+       "precision": "relative",
+       "order_index": 19,
+       "note": "Fan-wiki placement (secondary), which also says \"Like most other films, this movie cannot be properly set in any point of the canon story.\" Wikipedia (One Piece season 18): the \"Silver Mine\" arc that opens season 18 \"serves as an introduction to the events of the film\". Placed after season 17 (Dressrosa)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "\"Silver Mine\" prologue arc opens season 18"
+     }
+    ],
+    "notes": "World premiere July 15, 2016 (Emirates Palace, Abu Dhabi); Japan July 23, 2016 used as release_date. Canon status: no canon claim in Wikipedia. TV prologue: \"Silver Mine\" arc (season 18).",
+    "revid": 1379271128,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Gold&oldid=1379271128"
+   },
+   {
+    "id": "one-piece-stampede",
+    "title": "One Piece: Stampede",
+    "type": "film",
+    "wiki_article": "One Piece: Stampede",
+    "continuity": "one-piece-anime",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-08-09",
+      "release_quote": "The 14th One Piece film was released on August 9, 2019. | released = {{Film date|2019|08|01|premiere|2019|08|09|Japan}}",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=One_Piece%3A_Stampede&oldid=1379271359",
+       "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "start of season 20 (before Wano proper)",
+       "confidence": "disputed",
+       "quote": "Episodes 895 and 896 contain an original story arc, \"Cidre Guild\" which ties into the film One Piece: Stampede. … Other Supernovas make their way as, elsewhere, Buena Festa looks forward to a clash between Luffy and Douglas Bullet, leading to the events in One Piece: Stampede.",
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece_season_20&oldid=1388297406",
+       "precision": "relative",
+       "order_index": 22,
+       "note": "Episodes 895–896 sit at the start of season 20 (episodes 892 onward), so the film is placed between seasons 19 and 20. Canon status not claimed by Wikipedia; disputed for the same reason as the other films."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "\"Cidre Guild\" prologue arc, episodes 895–896"
+     }
+    ],
+    "notes": "Premiere August 1, 2019; Japan release August 9, 2019 used. Canon status: no canon claim in Wikipedia.",
+    "revid": 1379271359,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece%3A_Stampede&oldid=1379271359"
+   },
+   {
+    "id": "one-piece-film-red",
+    "title": "One Piece Film: Red",
+    "type": "film",
+    "wiki_article": "One Piece Film: Red",
+    "continuity": "one-piece-anime",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-08-06",
+      "release_quote": "The 15th One Piece film was released on August 6, 2022. | released = {{film date|2022|7|22|Tokyo premiere|2022|8|6|Japan}}",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Red&oldid=1386851518",
+       "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Wano (fan wiki)",
+       "confidence": "disputed",
+       "quote": "The events of the film, while not canon, would likely take place after the Wano Country Arc, given that Jinbe is part of and sailing with the Straw Hat Pirates",
+       "source": "https://onepiece.fandom.com/wiki/One_Piece_Film:_Red?oldid=2132023",
+       "precision": "relative",
+       "order_index": 24,
+       "note": "Fan-wiki placement (secondary; it calls the film \"not canon\"). Wikipedia only says tie-in episodes 1029–1030 (\"Uta's Past\", a flashback) aired after the film's release, mid-season 20. Placed after season 20 (Wano)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "\"Uta's Past\" tie-in, episodes 1029–1030"
+     }
+    ],
+    "notes": "Tokyo premiere July 22, 2022; Japan release August 6, 2022 used. Canon status: Wikipedia makes no canon claim; the One Piece Wiki says \"while not canon\". Wikipedia (List of One Piece films) says the upcoming Film: God Valley \"will be the first canon One Piece movie\", implying Red is not.",
+    "revid": 1386851518,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Red&oldid=1386851518"
+   },
+   {
+    "id": "one-piece-manga",
+    "title": "One Piece",
+    "type": "comic",
+    "wiki_article": "One Piece",
+    "continuity": "one-piece-manga",
+    "studio_or_developer": "Eiichiro Oda",
+    "publisher": "Shueisha",
+    "platform": "print",
+    "platforms": [
+     "Weekly Shōnen Jump",
+     "Jump Comics"
+    ],
+    "units": [
+     {
+      "key": "manga",
+      "label": "Manga (115 volumes, ongoing)",
+      "volumes": 115,
+      "release_date": "1997-07-22",
+      "release_end": null,
+      "release_quote": "Written and illustrated by Eiichiro Oda, One Piece has been serialized by Shueisha in the shōnen manga anthology Weekly Shōnen Jump since July 22, 1997. Shueisha has collected its chapters into individual tankōbon volumes, with the first released on December 24, 1997. By July 3, 2026, a total of 115 volumes have been released.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Great Pirate Era (no numbered years)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "Single unit; no numbered in-universe years exist."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Ongoing; volume count as of July 2026.",
+    "revid": 1386443140,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140"
+   },
+   {
+    "id": "one-piece-the-movie",
+    "title": "One Piece",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2000-03-04",
+      "release_quote": "It premiered in Japan on March 4, 2000, and was released to DVD on January 21, 2001.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "Own article \"One Piece (film)\" exists but was not fetched; dates and section text from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-clockwork-island-adventure",
+    "title": "Clockwork Island Adventure",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2001-03-03",
+      "release_quote": "It premiered in Japan on March 3, 2001, and was released to DVD on October 21, 2001.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "No separate article fetched; dates from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-choppers-kingdom",
+    "title": "Chopper's Kingdom on the Island of Strange Animals",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2002-03-02",
+      "release_quote": "It premiered in Japan on March 2, 2002, and was released to DVD on October 21, 2002.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "No separate article fetched; dates from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-dead-end-adventure",
+    "title": "Dead End Adventure",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2003-03-01",
+      "release_quote": "It premiered in Japan on March 1, 2003, and was released to DVD on July 21, 2003.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "Own article \"One Piece The Movie: Dead End no Bōken\" exists but was not fetched; dates and section text from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-cursed-holy-sword",
+    "title": "The Cursed Holy Sword",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2004-03-06",
+      "release_quote": "It premiered in Japan on March 6, 2004, and was released to DVD on July 21, 2004.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "Own article \"One Piece: The Cursed Holy Sword\" exists but was not fetched; dates and section text from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-baron-omatsuri",
+    "title": "Baron Omatsuri and the Secret Island",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2005-03-05",
+      "release_quote": "It premiered in Japan on March 5, 2005, and was released to DVD on July 21, 2005.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "Own article \"One Piece: Baron Omatsuri and the Secret Island\" exists but was not fetched; dates and section text from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-karakuri-castle",
+    "title": "Giant Mecha Soldier of Karakuri Castle",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-03-04",
+      "release_quote": "It premiered in Japan on March 4, 2006, and was released to DVD on July 21, 2006.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "No separate article fetched; dates from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-desert-princess",
+    "title": "The Desert Princess and the Pirates: Adventures in Alabasta",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-03-03",
+      "release_quote": "It premiered in Japan on March 3, 2007, and was released to DVD on July 21, 2007.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\". This film retells a manga arc (alternate retelling)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "Own article \"One Piece Movie: The Desert Princess and the Pirates: Adventures in Alabasta\" exists but was not fetched; dates and section text from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-episode-of-chopper-plus",
+    "title": "Episode of Chopper Plus: Bloom in the Winter, Miracle Sakura",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2008-03-01",
+      "release_quote": "It premiered in Japan on March 1, 2008, and was released to DVD on July 21, 2008.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\". This film retells a manga arc (alternate retelling)."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "No separate article fetched; dates from List of One Piece films. ",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-straw-hat-chase",
+    "title": "Straw Hat Chase",
+    "type": "film",
+    "wiki_article": "List of One Piece films",
+    "continuity": "one-piece-anime-films-noncanon",
+    "studio_or_developer": "Toei Animation",
+    "publisher": "Toei Company",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-03-19",
+      "release_quote": "It was directed by Hiroyuki Satō and was released in Japan on March 19, 2011, and was released to DVD and Blu-ray on July 20, 2011.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "release order",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece&oldid=1386443140",
+       "precision": "relative",
+       "order_index": 9,
+       "note": "Ordered by release only: Wikipedia says the films \"offer contradictions in both chronology and design that make them incompatible with a single continuity\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-anime",
+      "kind": "shares-characters",
+      "note": "non-canon original or retold story"
+     }
+    ],
+    "notes": "No separate article fetched; dates from List of One Piece films. Released as part of \"Jump Heroes Film\" (3D short).",
+    "revid": 1379420201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=List_of_One_Piece_films&oldid=1379420201"
+   },
+   {
+    "id": "one-piece-netflix",
+    "title": "One Piece",
+    "type": "series",
+    "wiki_article": "One Piece (2023 TV series)",
+    "continuity": "one-piece-netflix",
+    "studio_or_developer": "Tomorrow Studios / Shueisha",
+    "publisher": null,
+    "platform": "netflix",
+    "platforms": [
+     "netflix"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2023-08-31",
+      "release_end": "2023-08-31",
+      "release_quote": "The first season was released in its entirety on Netflix on August 31, 2023.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "East Blue",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No numbered years; season order is story order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2: Into the Grand Line",
+      "season": 2,
+      "episodes": 8,
+      "release_date": "2026-03-10",
+      "release_end": "2026-03-10",
+      "release_quote": "The season, titled Into the Grand Line, was later filmed between June and December 2024, and it was released on March 10, 2026. | episodes2 = 8 | released2 = {{Start date|2026|3|10}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037",
+      "note": "Series overview gives a single \"released\" date (all-at-once Netflix release assumed from that format; not stated explicitly).",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Into the Grand Line",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "Follows season 1."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3: The Battle of Alabasta",
+      "season": 3,
+      "episodes": null,
+      "release_date": null,
+      "release_quote": "The season, titled The Battle of Alabasta, is expected to premiere in 2027.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "The Battle of Alabasta",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "Unreleased; follows season 2."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "one-piece-manga",
+      "kind": "adapts",
+      "note": "live-action adaptation of the manga; Oda is creative consultant"
+     }
+    ],
+    "notes": "Developed by Matt Owens and Steven Maeda; \"produced by Kaji Productions and Shueisha\" (lead) with Tomorrow Studios (production section). Season 3 included as an announced unit with null date (expected 2027).",
+    "revid": 1387550037,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=One_Piece_(2023_TV_series)&oldid=1387550037"
+   }
+  ]
+ },
+ "_ranks": {
+  "naruto": [
+   "naruto-tv:s1",
+   "naruto-tv:s2",
+   "naruto-tv:s3",
+   "naruto-tv:s4",
+   "naruto-tv:s5",
+   "naruto-shippuden:s1",
+   "naruto-shippuden:s2",
+   "naruto-shippuden:s3",
+   "naruto-shippuden:s4",
+   "naruto-shippuden:s5",
+   "naruto-shippuden:s6",
+   "naruto-shippuden:s7",
+   "naruto-shippuden:s8",
+   "naruto-shippuden:s9",
+   "naruto-shippuden:s10",
+   "naruto-shippuden:s11",
+   "naruto-shippuden:s12",
+   "naruto-shippuden:s13",
+   "naruto-shippuden:s14",
+   "naruto-shippuden:s15",
+   "naruto-shippuden:s16",
+   "naruto-shippuden:s17",
+   "naruto-shippuden:s18",
+   "naruto-shippuden:s19",
+   "naruto-shippuden:s20",
+   "naruto-shippuden:s21",
+   "naruto-shippuden:s22",
+   "the-last-naruto-the-movie:film",
+   "boruto-tv:list1",
+   "boruto-naruto-the-movie:film",
+   "boruto-tv:list2",
+   "boruto-tv:list3",
+   "boruto-tv:list4",
+   "boruto-tv:list5",
+   "boruto-tv:list6",
+   "naruto-manga:manga",
+   "boruto-manga:part1",
+   "boruto-manga:part2",
+   "naruto-movie-land-of-snow:film",
+   "naruto-movie-stone-of-gelel:film",
+   "naruto-movie-crescent-moon-kingdom:film",
+   "naruto-shippuden-the-movie:film",
+   "naruto-shippuden-movie-bonds:film",
+   "naruto-shippuden-movie-will-of-fire:film",
+   "naruto-shippuden-movie-lost-tower:film",
+   "naruto-movie-blood-prison:film",
+   "road-to-ninja-naruto-the-movie:film"
+  ],
+  "one-piece": [
+   "one-piece-anime:s1",
+   "one-piece-anime:s2",
+   "one-piece-anime:s3",
+   "one-piece-anime:s4",
+   "one-piece-anime:s5",
+   "one-piece-anime:s6",
+   "one-piece-anime:s7",
+   "one-piece-anime:s8",
+   "one-piece-anime:s9",
+   "one-piece-anime:s10",
+   "one-piece-film-strong-world:film",
+   "one-piece-anime:s11",
+   "one-piece-anime:s12",
+   "one-piece-anime:s13",
+   "one-piece-anime:s14",
+   "one-piece-anime:s15",
+   "one-piece-film-z:film",
+   "one-piece-anime:s16",
+   "one-piece-anime:s17",
+   "one-piece-film-gold:film",
+   "one-piece-anime:s18",
+   "one-piece-anime:s19",
+   "one-piece-stampede:film",
+   "one-piece-anime:s20",
+   "one-piece-film-red:film",
+   "one-piece-anime:s21",
+   "one-piece-anime:s22",
+   "one-piece-manga:manga",
+   "one-piece-the-movie:film",
+   "one-piece-clockwork-island-adventure:film",
+   "one-piece-choppers-kingdom:film",
+   "one-piece-dead-end-adventure:film",
+   "one-piece-cursed-holy-sword:film",
+   "one-piece-baron-omatsuri:film",
+   "one-piece-karakuri-castle:film",
+   "one-piece-desert-princess:film",
+   "one-piece-episode-of-chopper-plus:film",
+   "one-piece-straw-hat-chase:film",
+   "one-piece-netflix:s1",
+   "one-piece-netflix:s2",
+   "one-piece-netflix:s3"
+  ]
+ }
+}

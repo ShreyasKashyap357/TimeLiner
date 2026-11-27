@@ -1,0 +1,238 @@
+[
+  {
+    "id": "kaithi",
+    "title": "Kaithi",
+    "sort_title": null,
+    "type": "film",
+    "universe": "lcu",
+    "continuity": "lcu-main",
+    "studio_brand": "dream-warrior-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Kaithi (2019 film)",
+      "wikidata": "Q65081848",
+      "tmdb": "587030",
+      "imdb": "tt9900782"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaithi_(2019_film)",
+      "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+    ],
+    "notes": "Membership: \"Kaithi serves as the first instalment in the planned Lokesh Cinematic Universe (LCU). In June 2022, Lokesh stated that the film was interlinked with the Kamal Haasan-starrer Vikram (2022).\"",
+    "units": [
+      {
+        "id": "kaithi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 146,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2019
+          },
+          "end": {
+            "y": 2019
+          },
+          "label": "2019 (one night)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "In the cinematic universe, the events in Kaithi unfold in the year 2019, followed by the events in Vikram, which transpire three months after the events in Kaithi. Subsequently, the events in Leo occur three years later in 2022.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-10-25",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: Kaithi was released on October 25, 2019, ahead of the Diwali festival."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kaithi_(2019_film)",
+          "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "vikram-2022",
+    "title": "Vikram",
+    "sort_title": null,
+    "type": "film",
+    "universe": "lcu",
+    "continuity": "lcu-main",
+    "studio_brand": "raaj-kamal-films-international",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Vikram (2022 film)",
+      "wikidata": "Q102147287",
+      "tmdb": "743563",
+      "imdb": "tt9179430"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vikram_(2022_film)",
+      "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+    ],
+    "notes": "Membership: \"it is the second instalment in Lokesh Cinematic Universe. A spiritual successor to the 1986 film of the same name\". Cross-continuity: a spiritual successor to Vikram (1986), which is not part of the LCU here.",
+    "units": [
+      {
+        "id": "vikram-2022",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 173,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2019
+          },
+          "end": {
+            "y": 2019
+          },
+          "label": "2019, about three months after Kaithi (flashback 1991)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "In the cinematic universe, the events in Kaithi unfold in the year 2019, followed by the events in Vikram, which transpire three months after the events in Kaithi. Subsequently, the events in Leo occur three years later in 2022.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-06-03",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: Vikram was released worldwide on 3 June 2022 to positive reviews from critics."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Vikram_(2022_film)",
+          "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "kaithi",
+        "kind": "continues",
+        "note": "Bejoy, Anbu, Adaikalam and Stephen Raj return; Dilli is voice-only; references the Trichy drug bust."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "leo-2023",
+    "title": "Leo",
+    "sort_title": null,
+    "type": "film",
+    "universe": "lcu",
+    "continuity": "lcu-main",
+    "studio_brand": "seven-screen-studio",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Leo (2023 Indian film)",
+      "wikidata": "Q116536092",
+      "tmdb": "949229",
+      "imdb": "tt15654328"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Leo_(2023_Indian_film)",
+      "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+    ],
+    "notes": "Membership: \"Produced by Seven Screen Studio, it is the third instalment in the Lokesh Cinematic Universe.\"",
+    "units": [
+      {
+        "id": "leo-2023",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 164,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2022
+          },
+          "end": {
+            "y": 2022
+          },
+          "label": "2022 (flashback 1999)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "In the cinematic universe, the events in Kaithi unfold in the year 2019, followed by the events in Vikram, which transpire three months after the events in Kaithi. Subsequently, the events in Leo occur three years later in 2022.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-10-19",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Leo was released worldwide on 19 October 2023 in standard and IMAX formats to mixed-to-positive reviews from critics"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Leo_(2023_Indian_film)",
+          "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "kaithi",
+        "kind": "shares-characters",
+        "note": "George Maryan returns as Napoleon."
+      },
+      {
+        "to": "vikram-2022",
+        "kind": "crossover",
+        "note": "Kamal Haasan voice cameo as Agent Vikram, who calls Parthiban at the end."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

@@ -298,3 +298,15 @@ describe('Release order on the timeline (regression)', () => {
     expect(r.sections[0]!.label).not.toBe('');
   });
 });
+
+describe('Story order from research (undated entries are not pushed to the end)', () => {
+  const order = (u: string, c: string) => spine(scoped(u, c), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.title.id));
+  it('YRF Spy Universe follows the films\' stated placements', () => {
+    expect(order('yrf-spy-universe', 'yrf-spy')).toEqual(['ek-tha-tiger', 'tiger-zinda-hai', 'war-2019', 'pathaan', 'tiger-3', 'war-2', 'alpha-2026']);
+  });
+  it('Ultra Q opens the Showa Ultraman continuity; TMNT 2003 season 1 comes before Fast Forward', () => {
+    expect(order('ultraman', 'ultra-showa')[0]).toBe('ultra-q');
+    const t = spine(scoped('tmnt', 'tmnt-2003'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(t.indexOf('tmnt-2003-s1')).toBeLessThan(t.indexOf('tmnt-2003-s6'));
+  });
+});

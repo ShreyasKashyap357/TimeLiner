@@ -1,0 +1,33 @@
+[
+  {
+    "id": "mhcu-main",
+    "universe": "maddock-horror-comedy",
+    "name": "Maddock Horror Comedy Universe",
+    "short_name": "Maddock Horror Comedy Universe",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Maddock Films' shared universe of Hindi horror comedies based on Indian folklore. No in-universe years are sourced for the present-day stories. Order comes from cross-film references in the plot summaries. Wikipedia: \"The universe-building began with Bhediya, in which characters from Stree appeared. This was followed by Munjya, where characters from Bhediya and Stree appeared. Stree 2 continued by featuring characters from Bhediya. Thamma features cameos from Bhediya, Stree, Munjya, and Stree 2, making Thamma the central link connecting all five films.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Maddock_Horror_Comedy_Universe&oldid=1388026456"
+    ],
+    "notes": ""
+  }
+]

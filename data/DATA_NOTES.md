@@ -849,3 +849,17 @@ Same pipeline and rules as Wave 2. The judgement calls:
   - **What it does give:** canon statements for Film RED, Stampede and Film Z, now quoted and credited in those films' notes.
   - **Placements:** Wikipedia places Strong World (between Thriller Bark and Sabaody) and Film Z (after the time-skip). Other film positions stay disputed.
   - **Retelling films:** Desert Princess and Episode of Chopper Plus are linked to the anime as `adapts`; their ordering stays separate.
+
+## Wave 4: Indian film universes (2026-11-28)
+
+- **YRF Spy Universe.** The order is stated by each film: War is "set after the events of Ek Tha Tiger and Tiger Zinda Hai"; Tiger 3 "after the events of War and Pathaan"; War 2 "after the events of Pathaan and Tiger 3"; Alpha "after the events of War 2". The undated films sit between the dated ones (`2026-11-28-yrf-spy-order.ts`).
+- **Lokesh Cinematic Universe.** Years come from Wikipedia's timeline section, marked inferred, because "an official timeline has not been released".
+- **Cop Universe and Maddock.** No years exist. The order follows the films' cross-references and post-credit scenes. Indian Police Force and Munjya's main story are placed by release (noted). Roohi is excluded ("removed from the official canon").
+- **Baahubali.** One continuity: the prequel novels, The Lost Legends, Crown of Blood and the films. The Epic (2025) is a re-edit linked to both films.
+- **KGF & Salaar.** Separate continuities. No source says they share a universe; the speculation is noted only.
+- **Krrish.** The films form one continuity; Kid Krrish and J Bole Toh Jadoo are separate ("based on", not canon).
+- **Golmaal.** Treated as standalone: the films reuse character names with incompatible backstories (inferred, because Wikipedia doesn't say).
+- **Housefull.** "Each film starts with a fresh story unrelated with the preceding film's story", so each film is its own continuity.
+- **Bhool Bhulaiyaa.** Each film is its own continuity. The 2007 film remakes Manichitrathazhu; BB3 "is not related to the earlier films" but shares Rooh Baba with BB2.
+- **Drishyam.** Each language's series is its own continuity, linked by `remake`. The Hindi Drishyam: The Conclusion "is not narratively connected to its Malayalam counterpart", so it uses `references`, not `remake`.
+- **Story order from research (`2026-11-28-research-story-order.ts`).** Where the research gave a complete story order for a continuity, that order is now the timeline order. The year sort had pushed undated entries after every dated one, e.g. Ultra Q after Ultraman 80, and the TMNT 2003 seasons after the 2105 season. The research files are archived in `data/sources/research/`.

@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ek-tha-tiger",
+    "title": "Ek Tha Tiger",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Ek Tha Tiger",
+      "wikidata": "Q2991452",
+      "tmdb": "85985",
+      "imdb": "tt2016894"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ek_Tha_Tiger",
+      "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350"
+    ],
+    "notes": "First instalment; released as a standalone film before the shared universe was established.",
+    "units": [
+      {
+        "id": "ek-tha-tiger",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 128,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2012
+          },
+          "end": {
+            "y": 2012
+          },
+          "label": "c. 2012 (five years before Tiger Zinda Hai)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "In 2017, almost five years after the events of Ek Tha Tiger, an American journalist is killed by the ISC, a terrorist organisation, in Iraq",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-08-15",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: Ek Tha Tiger was released worldwide on 15 August 2012; the date coincided with Indian Independence Day."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ek_Tha_Tiger",
+          "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tiger-zinda-hai",
+    "title": "Tiger Zinda Hai",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Tiger Zinda Hai",
+      "wikidata": "Q28753302",
+      "tmdb": "441909",
+      "imdb": "tt5956100"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tiger_Zinda_Hai",
+      "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tiger-zinda-hai",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 145,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2017
+          },
+          "end": {
+            "y": 2018
+          },
+          "label": "2017 (epilogue a year later)",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "In 2017, almost five years after the events of Ek Tha Tiger, an American journalist is killed by the ISC … A year later, on 15 August, Shenoy receives a call from Tiger, who is in Greece.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-12-22",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: Tiger Zinda Hai was theatrically released worldwide on 22 December 2017, to positive reviews from critics."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tiger_Zinda_Hai",
+          "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "ek-tha-tiger",
+        "kind": "continues",
+        "note": "Direct sequel; Tiger and Zoya now married and in hiding."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "war-2019",
+    "title": "War",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "War (2019 film)",
+      "wikidata": "Q64390886",
+      "tmdb": "585268",
+      "imdb": "tt7430722"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/War_(2019_film)",
+      "https://en.wikipedia.org/w/index.php?title=War_%282019_film%29&oldid=1387570238"
+    ],
+    "notes": "Released as a standalone film with no connection to the Tiger films; connected retroactively through Pathaan.",
+    "units": [
+      {
+        "id": "war-2019",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Tiger Zinda Hai",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is the third installment in the YRF Spy Universe and set after the events of Ek Tha Tiger (2012) and Tiger Zinda Hai (2017)",
+          "order_index": 30,
+          "relative_to": {
+            "after": "tiger-zinda-hai",
+            "before": "pathaan"
+          }
+        },
+        "release": {
+          "date": "2019-10-02",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: War was theatrically released on 2 October 2019, with dubbed versions of Telugu and Tamil, coinciding with Gandhi Jayanti."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/War_(2019_film)",
+          "https://en.wikipedia.org/w/index.php?title=War_%282019_film%29&oldid=1387570238"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pathaan",
+    "title": "Pathaan",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pathaan (film)",
+      "wikidata": "Q114620212",
+      "tmdb": "864692",
+      "imdb": "tt12844910"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pathaan_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Pathaan_%28film%29&oldid=1387847405"
+    ],
+    "notes": "First film to establish crossovers between the strands.",
+    "units": [
+      {
+        "id": "pathaan",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 146,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2022
+          },
+          "end": {
+            "y": 2022
+          },
+          "label": "2022 (prologue 2019; flashback 2020)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 2019, the Indian Government revokes Article 370 … 2022: Pathaan, a RAW agent, captures arms dealer Raafe in Africa. … 2020: Following his recovery from a mission in Myanmar, Pathaan and Nandini establish the Joint Operations and Covert Research (J.O.C.R.) unit … 2022: Pathaan reunites with Nandini",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-01-25",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: It was theatrically released in India on 25 January 2023, coinciding with the Republic Day weekend."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pathaan_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Pathaan_%28film%29&oldid=1387847405"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "war-2019",
+        "kind": "shares-characters",
+        "note": "Colonel Luthra (Ashutosh Rana) returns from War; Jim is described as Kabir's former partner."
+      },
+      {
+        "to": "tiger-zinda-hai",
+        "kind": "crossover",
+        "note": "Salman Khan cameo as Tiger, who rescues Pathaan from a train; mid-credits scene with Pathaan and Tiger."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tiger-3",
+    "title": "Tiger 3",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Tiger 3",
+      "wikidata": "Q100704907",
+      "tmdb": "720557",
+      "imdb": "tt18411490"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tiger_3",
+      "https://en.wikipedia.org/w/index.php?title=Tiger_3&oldid=1388026116"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tiger-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 155,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Pathaan (present day; flashbacks to 1999 and 2011)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "a circumquel to Ek Tha Tiger (2012) and Tiger Zinda Hai (2017), it is set after the events of War (2019) and Pathaan",
+          "order_index": 50,
+          "relative_to": {
+            "after": "pathaan",
+            "before": "war-2"
+          }
+        },
+        "release": {
+          "date": "2023-11-12",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Tiger 3 was released on 12 November 2023 in standard, IMAX, 4DX and other premium formats, coinciding with Diwali."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tiger_3",
+          "https://en.wikipedia.org/w/index.php?title=Tiger_3&oldid=1388026116"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tiger-zinda-hai",
+        "kind": "continues",
+        "note": "Tiger sequel."
+      },
+      {
+        "to": "pathaan",
+        "kind": "crossover",
+        "note": "Shah Rukh Khan cameo as Pathaan, who helps Tiger escape a Pakistani military prison."
+      },
+      {
+        "to": "war-2019",
+        "kind": "crossover",
+        "note": "Post-credits scene: Luthra assigns Kabir (Hrithik Roshan) a mission, leading into War 2."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "war-2",
+    "title": "War 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "War 2 (film)",
+      "wikidata": "Q124852530",
+      "tmdb": "1109086",
+      "imdb": "tt27425164"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/War_2_(film)",
+      "https://en.wikipedia.org/w/index.php?title=War_2_%28film%29&oldid=1387769306"
+    ],
+    "notes": "Post-credits scene introduces the Alpha programme.",
+    "units": [
+      {
+        "id": "war-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Tiger 3 (nearly six years after War; flashback 1999)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "it is the sixth installment in the YRF Spy Universe, circumquel to the 2019 film War and set after the events of Pathaan and Tiger 3 (both 2023). … Nearly six years after going rogue and eliminating Saurabh and Rizwan Ilyasi, Kabir works as a freelance mercenary",
+          "order_index": 60,
+          "relative_to": {
+            "after": "tiger-3",
+            "before": "alpha-2026"
+          }
+        },
+        "release": {
+          "date": "2025-08-14",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: War 2 was released on 14 August 2025, coinciding with the Indian Independence Day weekend to mixed-to-negative reviews from critics"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/War_2_(film)",
+          "https://en.wikipedia.org/w/index.php?title=War_2_%28film%29&oldid=1387769306"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "war-2019",
+        "kind": "continues",
+        "note": "Sequel to War."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "alpha-2026",
+    "title": "Alpha",
+    "sort_title": null,
+    "type": "film",
+    "universe": "yrf-spy-universe",
+    "continuity": "yrf-spy",
+    "studio_brand": "yash-raj-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alpha (2026 film)",
+      "wikidata": "Q131760998",
+      "tmdb": "1122030",
+      "imdb": "tt28363783"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alpha_(2026_film)",
+      "https://en.wikipedia.org/w/index.php?title=Alpha_%282026_film%29&oldid=1388113676"
+    ],
+    "notes": "The YRF Spy Universe article cites a Bollywood Hungama headline 'Alpha locks July 10, 2026', but both articles' prose and the Alpha infobox say 3 July 2026. 3 July is used (review citations are dated 3 July 2026).",
+    "units": [
+      {
+        "id": "alpha-2026",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2026
+          },
+          "end": {
+            "y": 2026
+          },
+          "label": "2026 (prologue 1999–2002)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Twenty-four years later, in 2026, Sita systematically assassinates the scientists and military officials associated with the Alpha program … led by Vikrant, who has succeeded his late friend Sunil Luthra as the agency's chief.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-07-03",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: Alpha was released theatrically on 3 July 2026. … It was initially slated to release on 25 December 2025 … It was later postponed to 17 April 2026, due to post-production work on visual effects."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alpha_(2026_film)",
+          "https://en.wikipedia.org/w/index.php?title=Alpha_%282026_film%29&oldid=1388113676"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "war-2",
+        "kind": "continues",
+        "note": "Set after War 2; Vikrant Kaul is now R&AW chief; War 2 post-credits sets up the Alpha programme."
+      },
+      {
+        "to": "war-2019",
+        "kind": "shares-characters",
+        "note": "Hrithik Roshan has an extended cameo as Kabir."
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

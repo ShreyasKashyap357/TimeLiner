@@ -1,0 +1,1522 @@
+{
+ "golmaal": {
+  "continuities": [
+   {
+    "id": "golmaal-standalone-collection",
+    "name": "Golmaal films (standalone collection)",
+    "ordered_only": true,
+    "description": "Rohit Shetty's Golmaal comedies. Recurring character names (Gopal, Madhav, Lucky, Laxman) and cast, but each film resets their circumstances; ordered by release, not by an in-universe chronology. Wikipedia never states whether the films share a continuity. The same character names (Gopal, Madhav, Lucky, Laxman) recur, but each plot gives them incompatible backstories, so the films are treated as standalone stories in one release-ordered collection.",
+    "quote": "Friends Gopal, Lucky, Madhav and Laxman often dupe gullible people out of their money. … Gopal, who lives with his ever suspecting wife, Ekta … Five orphan men return to the orphanage they grew up in to attend their mentor's funeral. … This table lists the main characters who appear in the Golmaal franchise.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Golmaal_%28film_series%29&oldid=1387531415",
+     "https://en.wikipedia.org/w/index.php?title=Golmaal_Returns&oldid=1378827418",
+     "https://en.wikipedia.org/w/index.php?title=Golmaal_3&oldid=1384011621"
+    ],
+    "note": "Backstory conflicts, quoted from the plot sections: Golmaal Returns: \"He also lives with his sister Esha and Ekta's mute brother, his brother in law Lucky.\" Golmaal 3: \"Pritam ... His three good-for-nothing sons, Madhav ... Laxman ... and Lucky, the innocent mute\" and \"Geeta ... whose two sons, Laxman, the stammerer, and Gopal\". Golmaal Again: \"Gopal, Madhav, Laxman 1, Laxman 2, and Lucky live in an orphanage in Ooty\". Inferred standalone status: Wikipedia has no explicit statement either way."
+   }
+  ],
+  "titles": [
+   {
+    "id": "golmaal-fun-unlimited",
+    "title": "Golmaal: Fun Unlimited",
+    "type": "film",
+    "wiki_article": "Golmaal: Fun Unlimited",
+    "continuity": "golmaal-standalone-collection",
+    "studio_or_developer": "Shree Ashtavinayak Cine Vision / K Sera Sera",
+    "publisher": "Eros International",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-07-14",
+      "release_quote": "''Golmaal'' was released on 14 July 2006.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Golmaal%3A_Fun_Unlimited&oldid=1379464693",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone (1st film)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe date in the source. The collection is ordered by release. ",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Infobox studio: \"Shree Ashtavinayak Cine Vision / K Sera Sera\"; distributor Eros International.",
+    "revid": 1379464693,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Golmaal%3A_Fun_Unlimited&oldid=1379464693"
+   },
+   {
+    "id": "golmaal-returns",
+    "title": "Golmaal Returns",
+    "type": "film",
+    "wiki_article": "Golmaal Returns",
+    "continuity": "golmaal-standalone-collection",
+    "studio_or_developer": "Shree Ashtavinayak Cine Vision",
+    "publisher": "Indian Films (Viacom18 Studios)",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2008-10-29",
+      "release_quote": "| released = {{Film date|2008|10|29|df=yes}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Golmaal_Returns&oldid=1378827418",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone (2nd film)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe date in the source. The collection is ordered by release. ",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "golmaal-fun-unlimited",
+      "kind": "shares-characters",
+      "note": "Second film of the series. Gopal, Madhav, Lucky and Laxman return with different circumstances."
+     }
+    ],
+    "notes": "Release date from the infobox only: the prose has no release sentence. The film \"is a remake of the 1989 Marathi film Pheka Pheki\".",
+    "revid": 1378827418,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Golmaal_Returns&oldid=1378827418"
+   },
+   {
+    "id": "golmaal-3",
+    "title": "Golmaal 3",
+    "type": "film",
+    "wiki_article": "Golmaal 3",
+    "continuity": "golmaal-standalone-collection",
+    "studio_or_developer": "Shree Ashtavinayak Cine Vision / Eros International / Shree Ashtavinayak Light Camera Action",
+    "publisher": null,
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2010-11-04",
+      "release_quote": "''Golmaal 3'' was released on 4 November 2010, coinciding with [[Diwali]].",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Golmaal_3&oldid=1384011621",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone (3rd film)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe date in the source. The collection is ordered by release. ",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "golmaal-returns",
+      "kind": "shares-characters",
+      "note": "Third film. Same character names, now rival sets of brothers."
+     }
+    ],
+    "notes": "The storyline \"is partially inspired by Basu Chatterjee's 1978 film Khatta Meetha\".",
+    "revid": 1384011621,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Golmaal_3&oldid=1384011621"
+   },
+   {
+    "id": "golmaal-again",
+    "title": "Golmaal Again",
+    "type": "film",
+    "wiki_article": "Golmaal Again",
+    "continuity": "golmaal-standalone-collection",
+    "studio_or_developer": "Reliance Entertainment / Mangl Murti Films / Rohit Shetty Picturez",
+    "publisher": "Reliance Entertainment",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-10-20",
+      "release_quote": "| released = {{Film date|2017|10|20|df=y|ref1=}} … The fourth installment in the series, Golmaal Again, was released on 20 October 2017.",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Golmaal_Again&oldid=1381626878",
+       "https://en.wikipedia.org/w/index.php?title=Golmaal_3&oldid=1384011621"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone (4th film; childhood prologue, then \"25 years later\")",
+       "confidence": "inferred",
+       "quote": "25 years later, the five work as plot seizers; Gopal and Laxman 1 work for Babli Bhai, and Madhav, Lucky and Laxman 2 work for Vasooli Bhai.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Golmaal_Again&oldid=1381626878",
+       "precision": "relative",
+       "note": "No in-universe date in the source. The collection is ordered by release. Plot: \"25 years later, the five work as plot seizers\". No absolute year is given. The spin-off Cirkus (2022) is described as a prequel set in the 1960s (\"film is set in 1960's and it would be a prequel to the fourth film\"), but that is a trailer-based claim and Cirkus is not included here.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "golmaal-3",
+      "kind": "shares-characters",
+      "note": "Fourth film. The characters are now reimagined as orphans raised together."
+     }
+    ],
+    "notes": "Hatnote: \"The film's timeline is connected with Cirkus, and depicts the events after.\" Cirkus (2022) is a spin-off that is not in scope. Golmaal 5 is excluded: its article gives a release date of 8 January 2027, after the 2026-11-27 cutoff.",
+    "revid": 1381626878,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Golmaal_Again&oldid=1381626878"
+   }
+  ]
+ },
+ "housefull": {
+  "continuities": [
+   {
+    "id": "housefull-2010",
+    "name": "Housefull (2010)",
+    "ordered_only": true,
+    "description": "Standalone story. The Housefull series article says: \"Each film starts with a fresh story unrelated with the preceding film's story.\"",
+    "quote": "Each film starts with a fresh story unrelated with the preceding film's story.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Housefull_%28film_series%29&oldid=1383849343"
+    ]
+   },
+   {
+    "id": "housefull-2",
+    "name": "Housefull 2",
+    "ordered_only": true,
+    "description": "Standalone story. The Housefull series article says: \"Each film starts with a fresh story unrelated with the preceding film's story.\"",
+    "quote": "Each film starts with a fresh story unrelated with the preceding film's story. … is a [[standalone sequel]] to ''[[Housefull (2010 film)|Housefull]]'' (2010).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Housefull_%28film_series%29&oldid=1383849343",
+     "https://en.wikipedia.org/w/index.php?title=Housefull_2&oldid=1388284288"
+    ]
+   },
+   {
+    "id": "housefull-3",
+    "name": "Housefull 3",
+    "ordered_only": true,
+    "description": "Standalone story. The Housefull series article says: \"Each film starts with a fresh story unrelated with the preceding film's story.\"",
+    "quote": "Each film starts with a fresh story unrelated with the preceding film's story.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Housefull_%28film_series%29&oldid=1383849343"
+    ]
+   },
+   {
+    "id": "housefull-4",
+    "name": "Housefull 4",
+    "ordered_only": false,
+    "description": "Standalone story. The Housefull series article says: \"Each film starts with a fresh story unrelated with the preceding film's story.\"",
+    "quote": "Each film starts with a fresh story unrelated with the preceding film's story.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Housefull_%28film_series%29&oldid=1383849343"
+    ]
+   },
+   {
+    "id": "housefull-5",
+    "name": "Housefull 5 (5A and 5B)",
+    "ordered_only": true,
+    "description": "Standalone story. The Housefull series article says: \"Each film starts with a fresh story unrelated with the preceding film's story.\"",
+    "quote": "Each film starts with a fresh story unrelated with the preceding film's story.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Housefull_%28film_series%29&oldid=1383849343"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "housefull-2010",
+    "title": "Housefull",
+    "type": "film",
+    "wiki_article": "Housefull (2010 film)",
+    "continuity": "housefull-2010",
+    "studio_or_developer": "Nadiadwala Grandson Entertainment",
+    "publisher": "Eros International",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2010-04-30",
+      "release_quote": "The film was released worldwide on April 30, 2010, to mixed reviews from critics, emerging as a commercial success.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Housefull_%282010_film%29&oldid=1388211625",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Standalone story with no in-universe date in the source.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "It \"was loosely based on the 1998 Tamil film Kaathala Kaathala\".",
+    "revid": 1388211625,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Housefull_%282010_film%29&oldid=1388211625"
+   },
+   {
+    "id": "housefull-2",
+    "title": "Housefull 2",
+    "type": "film",
+    "wiki_article": "Housefull 2",
+    "continuity": "housefull-2",
+    "studio_or_developer": "Nadiadwala Grandson Entertainment",
+    "publisher": "Eros International",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2012-04-05",
+      "release_quote": "''Housefull 2'' was released theatrically on 5 April 2012, to mixed reviews. (infobox: {{Film date|df=y|2012|04|05|}})",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Housefull_2&oldid=1388284288",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Standalone story with no in-universe date in the source.",
+       "order_index": 0
+      },
+      "note": "Release date conflict: the Housefull (2010 film) article says \"Housefull 2 was released on 6 April 2012\". The date used comes from the film's own article (infobox and prose)."
+     }
+    ],
+    "links": [
+     {
+      "to": "housefull-2010",
+      "kind": "references",
+      "note": "A standalone sequel with no shared story. It is also \"a remake of Mattupetty Machan\"."
+     }
+    ],
+    "notes": "",
+    "revid": 1388284288,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Housefull_2&oldid=1388284288"
+   },
+   {
+    "id": "housefull-3",
+    "title": "Housefull 3",
+    "type": "film",
+    "wiki_article": "Housefull 3",
+    "continuity": "housefull-3",
+    "studio_or_developer": "Nadiadwala Grandson Entertainment",
+    "publisher": "Eros International",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2016-06-03",
+      "release_quote": "The film was released on 3 June 2016 and was a commercial success grossing {{INR}}195 crore worldwide.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Housefull_3&oldid=1376921736",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Standalone story with no in-universe date in the source.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "housefull-2",
+      "kind": "references",
+      "note": "A new standalone story in the series."
+     }
+    ],
+    "notes": "",
+    "revid": 1376921736,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Housefull_3&oldid=1376921736"
+   },
+   {
+    "id": "housefull-4",
+    "title": "Housefull 4",
+    "type": "film",
+    "wiki_article": "Housefull 4",
+    "continuity": "housefull-4",
+    "studio_or_developer": "Fox Star Studios / Nadiadwala Grandson Entertainment",
+    "publisher": "Fox Star Studios",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-10-25",
+      "release_quote": "The film was theatrically released in India on 25 October 2019 during the occasion of [[Diwali]] …",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Housefull_4&oldid=1383511576",
+      "in_universe": {
+       "year": 1419,
+       "year_end": 2019,
+       "label": "1419 and 2019 (reincarnation story)",
+       "confidence": "stated",
+       "quote": "''Housefull 4'' is a comedy film centered on [[reincarnation]], spanning 600 years from 1419 to 2019. … In Sitamgarh, hotel bellboy Aakhri Pasta recognises the group as reincarnations from 1419 [[Madhavgarh]] and Sitamgarh.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Housefull_4&oldid=1383511576",
+       "precision": "year",
+       "note": "Two time periods, not a continuous span: the past life in 1419 and the present day in 2019.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "housefull-3",
+      "kind": "references",
+      "note": "A new standalone story in the series."
+     }
+    ],
+    "notes": "",
+    "revid": 1383511576,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Housefull_4&oldid=1383511576"
+   },
+   {
+    "id": "housefull-5",
+    "title": "Housefull 5",
+    "type": "film",
+    "wiki_article": "Housefull 5",
+    "continuity": "housefull-5",
+    "studio_or_developer": "Nadiadwala Grandson Entertainment",
+    "publisher": "Pen Marudhar",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "5a",
+      "label": "Housefull 5A",
+      "release_date": "2025-06-06",
+      "release_quote": "Released on 6 June 2025, the film features two distinct versions, each showcasing a different climax sequence: ''Housefull 5A'' and ''Housefull 5B''.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Housefull_5&oldid=1388009180",
+      "note": "One film released in two versions on the same day. The 5A ending: \"The attacker is revealed as Dev, who initially claims innocence.\"",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone (version A ending)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Standalone story with no in-universe date in the source.",
+       "order_index": 0
+      }
+     },
+     {
+      "key": "5b",
+      "label": "Housefull 5B",
+      "release_date": "2025-06-06",
+      "release_quote": "The film was released in two versions, titled ''Housefull 5A'' and ''Housefull 5B'', each featuring a different climax and murderer.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Housefull_5&oldid=1388009180",
+      "note": "Alternate version, not a sequel. The 5B ending: \"Jalbushan is still caught, but the true mastermind is Maya, the cunning CFO.\" Its order after 5A is only a display order.",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "standalone (version B ending, alternate to 5A)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "Standalone story with no in-universe date in the source.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "housefull-4",
+      "kind": "references",
+      "note": "A new standalone story in the series."
+     }
+    ],
+    "notes": "Wikipedia has one article for both versions (5A and 5B are redirects), so it is one title with two units. The series article says: \"the fifth with two prints, Housefull 5A and Housefull 5B\".",
+    "revid": 1388009180,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Housefull_5&oldid=1388009180"
+   }
+  ]
+ },
+ "bhool-bhulaiyaa": {
+  "continuities": [
+   {
+    "id": "manichitrathazhu",
+    "name": "Manichitrathazhu (Malayalam, 1993)",
+    "ordered_only": true,
+    "description": "The Malayalam original. Bhool Bhulaiyaa (2007) is a remake of it, in its own continuity.",
+    "quote": "Manichitrathazhu was remade in four languages – in Kannada as Apthamitra (2004) … and in Hindi as Bhool Bhulaiyaa (2007)",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Manichitrathazhu&oldid=1388028701"
+    ]
+   },
+   {
+    "id": "bhool-bhulaiyaa-2007",
+    "name": "Bhool Bhulaiyaa (2007)",
+    "ordered_only": true,
+    "description": "Priyadarshan's Hindi remake of Manichitrathazhu.",
+    "quote": "It is a remake of the 1993 [[Malayalam]]-language film ''[[Manichitrathazhu]]''",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa&oldid=1378827054"
+    ]
+   },
+   {
+    "id": "bhool-bhulaiyaa-2",
+    "name": "Bhool Bhulaiyaa 2",
+    "ordered_only": false,
+    "description": "A standalone sequel: new story and principal cast, with only Rajpal Yadav's Chhote Pandit rebooted.",
+    "quote": "The film spawned a [[standalone sequel]] titled ''[[Bhool Bhulaiyaa 2]]'' (2022) with a new principal cast and only Yadav returning in a reboot of his role. … It is a [[standalone sequel]] to the 2007 film ''[[Bhool Bhulaiyaa]]''.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa&oldid=1378827054",
+     "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_2&oldid=1378915338"
+    ]
+   },
+   {
+    "id": "bhool-bhulaiyaa-3",
+    "name": "Bhool Bhulaiyaa 3",
+    "ordered_only": false,
+    "description": "A spiritual sequel, unrelated to the earlier films' stories. Kartik Aaryan's Ruhaan \"Rooh Baba\" Randhawa returns from Bhool Bhulaiyaa 2, and Vidya Balan plays \"an alternate version of her character\". It is a separate continuity because Wikipedia calls it unrelated; the Rooh Baba link is recorded as shares-characters.",
+    "quote": "The third part also serves as a spiritual sequel and is not related to the earlier films. … released in 2024 with Kartik Aaryan reprising his role as Rooh Baba from the sequel … A spiritual sequel, ''[[Bhool Bhulaiyaa 3]]'', starring Aaryan … was released on Diwali 2024.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa&oldid=1378827054",
+     "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_2&oldid=1378915338"
+    ],
+    "note": "Possibly disputed: Aaryan \"reprising his role as Rooh Baba from the sequel\" suggests a carried-over character, but \"not related to the earlier films\" means BB2 and BB3 are kept apart. Rooh Baba's introduction (\"Ruhaan, a conman posing as the ghostbuster\") reads as a reintroduction."
+   }
+  ],
+  "titles": [
+   {
+    "id": "manichitrathazhu",
+    "title": "Manichitrathazhu",
+    "type": "film",
+    "wiki_article": "Manichitrathazhu",
+    "continuity": "manichitrathazhu",
+    "studio_or_developer": "Swargachitra Films",
+    "publisher": "Swargachitra Release",
+    "language": "Malayalam",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1993-12-25",
+      "release_quote": "''Manichitrathazhu'' was released on 25 December 1993, and performed well at the box office …",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Manichitrathazhu&oldid=1388028701",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "present day (legend 150 years earlier)",
+       "confidence": "inferred",
+       "quote": "Local lore dictates that 150 years prior, the family's powerful patriarch, Karanavar Sankaran Thambi, became infatuated with a court dancer named Nagavalli …",
+       "source": "https://en.wikipedia.org/w/index.php?title=Manichitrathazhu&oldid=1388028701",
+       "precision": "relative",
+       "note": "No year for the main story is stated, so a contemporary setting is not assumed.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "A 4K remaster was re-released on 17 August 2024 (not a separate unit). The spin-off Geethaanjali (2013) is not included.",
+    "revid": 1388028701,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Manichitrathazhu&oldid=1388028701"
+   },
+   {
+    "id": "bhool-bhulaiyaa",
+    "title": "Bhool Bhulaiyaa",
+    "type": "film",
+    "wiki_article": "Bhool Bhulaiyaa",
+    "continuity": "bhool-bhulaiyaa-2007",
+    "studio_or_developer": "T-Series Films",
+    "publisher": "Balaji Motion Pictures / Eros International",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-10-12",
+      "release_quote": "The film was released worldwide on 12 October 2007.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa&oldid=1378827054",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "present day (Manjulika legend \"decades ago\")",
+       "confidence": "inferred",
+       "quote": "Decades ago, the Chaturvedis' ancestor, [[Maharaja]] Vibhuti Narayan, was infatuated with Manjulika …",
+       "source": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa&oldid=1378827054",
+       "precision": "relative",
+       "note": "No year is stated.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "manichitrathazhu",
+      "kind": "remake",
+      "note": "A Hindi remake of the 1993 Malayalam film."
+     }
+    ],
+    "notes": "",
+    "revid": 1378827054,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa&oldid=1378827054"
+   },
+   {
+    "id": "bhool-bhulaiyaa-2",
+    "title": "Bhool Bhulaiyaa 2",
+    "type": "film",
+    "wiki_article": "Bhool Bhulaiyaa 2",
+    "continuity": "bhool-bhulaiyaa-2",
+    "studio_or_developer": "T-Series Films / Cine1 Studios",
+    "publisher": "AA Films",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-05-20",
+      "release_quote": "''Bhool Bhulaiyaa 2'' was released on 20 May 2022.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_2&oldid=1378915338",
+      "in_universe": {
+       "year": 2022,
+       "year_end": null,
+       "label": "2022 (prologue 2004)",
+       "confidence": "inferred",
+       "quote": "Within a mansion in Bhawanigarh, [[Rajasthan]], in 2004, powerful sorcerers and priests perform sacred rituals … Eighteen years later, in [[Himachal Pradesh]], travel vlogger and influencer Ruhaan Randhawa meets medical college student Reet Thakur …",
+       "source": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_2&oldid=1378915338",
+       "precision": "year",
+       "note": "The prologue year 2004 is stated. The main story is \"Eighteen years later\", so 2004 + 18 = 2022 is derived.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "bhool-bhulaiyaa",
+      "kind": "references",
+      "note": "A standalone sequel. Manjulika's name and the haunted-palace premise are reused, and Chhote Pandit is rebooted."
+     }
+    ],
+    "notes": "",
+    "revid": 1378915338,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_2&oldid=1378915338"
+   },
+   {
+    "id": "bhool-bhulaiyaa-3",
+    "title": "Bhool Bhulaiyaa 3",
+    "type": "film",
+    "wiki_article": "Bhool Bhulaiyaa 3",
+    "continuity": "bhool-bhulaiyaa-3",
+    "studio_or_developer": "T-Series Films / Cine1 Studios",
+    "publisher": "AA Films",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-11-01",
+      "release_quote": "''Bhool Bhulaiyaa 3'' was theatrically released on 1 November 2024, coinciding with [[Diwali]].",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_3&oldid=1387983733",
+      "in_universe": {
+       "year": 2024,
+       "year_end": null,
+       "label": "2024 (prologue 1824)",
+       "confidence": "stated",
+       "quote": "In 1824, a woman performing [[Kathak]] at Raktghat Palace is caught by the king and his guards, who burn her alive on the king's orders. … Two hundred years later, in 2024, Ruhaan, a conman posing as the ghostbuster \"Rooh Baba\", and his accomplice Tillu make a living by deceiving people in Kolkata.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_3&oldid=1387983733",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "bhool-bhulaiyaa-2",
+      "kind": "shares-characters",
+      "note": "Kartik Aaryan reprises Ruhaan \"Rooh Baba\" Randhawa; Wikipedia calls the film a spiritual sequel."
+     },
+     {
+      "to": "bhool-bhulaiyaa",
+      "kind": "references",
+      "note": "Vidya Balan plays \"an alternate version of her character\" Manjulika."
+     }
+    ],
+    "notes": "",
+    "revid": 1387983733,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Bhool_Bhulaiyaa_3&oldid=1387983733"
+   }
+  ]
+ },
+ "drishyam": {
+  "continuities": [
+   {
+    "id": "drishyam-malayalam",
+    "name": "Drishyam (Malayalam original series)",
+    "ordered_only": false,
+    "description": "Jeethu Joseph's Malayalam original trilogy about Georgekutty and his family.",
+    "quote": "''Drishyam'' is an Indian [[Malayalam]]-language [[Crime thriller film|crime thriller]] [[film series]], written and directed by [[Jeethu Joseph]] … films = Drishyam (2013), Drishyam 2 (2021), Drishyam 3 (2026)",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Drishyam_%28film_series%29&oldid=1387997708"
+    ]
+   },
+   {
+    "id": "drishyam-hindi",
+    "name": "Drishyam (Hindi remake series)",
+    "ordered_only": false,
+    "description": "The Hindi remakes, with Ajay Devgn as Vijay Salgaonkar. Drishyam: The Conclusion (2026) is a Hindi sequel with an original story, not a remake of the Malayalam Drishyam 3.",
+    "quote": "Unlike its predecessors, the film features an original story and is not narratively connected to its [[Drishyam 3|Malayalam counterpart]].",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Drishyam%3A_The_Conclusion&oldid=1388240019",
+     "https://en.wikipedia.org/w/index.php?title=Drishyam_%28film_series%29&oldid=1387997708"
+    ]
+   },
+   {
+    "id": "drishyam-telugu",
+    "name": "Drushyam (Telugu remake series)",
+    "ordered_only": false,
+    "description": "Telugu remakes with Venkatesh as Rambabu.",
+    "quote": "It is a remake of his 2021 [[Malayalam]] film ''[[Drishyam 2]]'' and sequel to ''[[Drushyam]]'' (2014).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Drushyam_2&oldid=1387994189"
+    ]
+   },
+   {
+    "id": "drishyam-kannada",
+    "name": "Drishya (Kannada remake series)",
+    "ordered_only": false,
+    "description": "Kannada remakes by P. Vasu with Ravichandran as Rajendra.",
+    "quote": "It is a remake of the 2021 Malayalam film ''[[Drishyam 2]]'' (2021) and a sequel to ''[[Drishya]]'' (2014).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Drishya_2&oldid=1384301632"
+    ]
+   },
+   {
+    "id": "drishyam-tamil",
+    "name": "Papanasam (Tamil remake)",
+    "ordered_only": true,
+    "description": "Jeethu Joseph's own Tamil remake. Drishyam 2 got no Tamil remake (\"Jeethu had plans to direct a Tamil remake\").",
+    "quote": "A remake of Jeethu's own 2013 [[Malayalam]] film ''[[Drishyam]]''",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Papanasam_%28film%29&oldid=1388006997",
+     "https://en.wikipedia.org/w/index.php?title=Drishyam_%28film_series%29&oldid=1387997708"
+    ]
+   },
+   {
+    "id": "drishyam-sinhala",
+    "name": "Dharmayuddhaya (Sinhala remake series)",
+    "ordered_only": true,
+    "description": "Sri Lankan Sinhala remakes.",
+    "quote": "It is the sequel to the 2017 ''[[Dharmayuddhaya]]'' and is a remake of the Indian [[Malayalam language|Malayalam]] film ''[[Drishyam 2]]'' (2021).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya_2&oldid=1382958969",
+     "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya&oldid=1378725941"
+    ]
+   },
+   {
+    "id": "drishyam-chinese",
+    "name": "Sheep Without a Shepherd (Chinese remake)",
+    "ordered_only": true,
+    "description": "An official Mandarin Chinese remake of Drishyam (2013).",
+    "quote": "It is an official remake of the 2013 Indian [[Malayalam film|Malayalam]] film ''[[Drishyam]]''.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Sheep_Without_a_Shepherd&oldid=1376984213"
+    ]
+   },
+   {
+    "id": "drishyam-indonesian",
+    "name": "Ayah, Aku Mau Cerita... (Indonesian remake)",
+    "ordered_only": true,
+    "description": "An Indonesian remake of Drishyam (2013). It has no English Wikipedia article.",
+    "quote": "|[[Indonesian language|Indonesian]] |''Ayah, Aku Mau Cerita...'' (2026) |[[Vino G. Bastian]], Niken Anjani, [[Marsha Timothy]] |Danial Rifki",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Drishyam_%28film_series%29&oldid=1387997708",
+     "https://en.wikipedia.org/w/index.php?title=Drishyam&oldid=1387997704"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "drishyam-2013",
+    "title": "Drishyam",
+    "type": "film",
+    "wiki_article": "Drishyam",
+    "continuity": "drishyam-malayalam",
+    "studio_or_developer": "Aashirvad Cinemas",
+    "publisher": "Maxlab Cinemas and Entertainments",
+    "language": "Malayalam",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-12-19",
+      "release_quote": "''Drishyam'' was released on 19 December 2013.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam&oldid=1387997704",
+      "in_universe": {
+       "year": 2013,
+       "year_end": null,
+       "label": "2013 (August)",
+       "confidence": "inferred",
+       "quote": "In the early morning of 4 August 2013, a man named Jose George goes on the run after murdering his brother-in-law. While hiding near an under-construction police station, he notices Georgekutty emerging from the compound late at night under suspicious circumstances.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishyam_2&oldid=1388123744",
+       "precision": "year",
+       "note": "Drishyam's own plot gives no date. The year comes from the Drishyam 2 prologue, which dates the night Georgekutty reburied the body (the end of the first film) to 4 August 2013.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1387997704,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishyam&oldid=1387997704"
+   },
+   {
+    "id": "drishyam-2-2021",
+    "title": "Drishyam 2",
+    "type": "film",
+    "wiki_article": "Drishyam 2",
+    "continuity": "drishyam-malayalam",
+    "studio_or_developer": "Aashirvad Cinemas",
+    "publisher": "Amazon Prime Video",
+    "language": "Malayalam",
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-02-19",
+      "release_quote": "''Drishyam 2'' was released worldwide on 19 February 2021. … However, ''Drishyam 2'' was released worldwide on the midnight of 18 February 2021, and was made available for streaming in over 240 countries.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam_2&oldid=1388123744",
+      "in_universe": {
+       "year": 2019,
+       "year_end": null,
+       "label": "2019 (prologue 4 August 2013)",
+       "confidence": "stated",
+       "quote": "By 2019, Georgekutty, Rani, Anju, and Anu are leading a far more comfortable life.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishyam_2&oldid=1388123744",
+       "precision": "year",
+       "note": "The Malayalam article does not use the phrase \"six years after\". It says \"By 2019\", and the prologue is dated 4 August 2013, about six years earlier. \"Six years after\" appears in the Telugu remake's article: \"The story takes place six years after the events of Drushyam.\"",
+       "order_index": 1
+      },
+      "note": "A direct-to-streaming release on Amazon Prime Video, not theatrical. A theatrical re-release was \"scheduled for … 10 April 2026\"."
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "continues",
+      "note": "A direct sequel. The case is reopened years later."
+     }
+    ],
+    "notes": "Full title per lead: \"Drishyam 2: The Resumption\".",
+    "revid": 1388123744,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishyam_2&oldid=1388123744"
+   },
+   {
+    "id": "drishyam-3-2026",
+    "title": "Drishyam 3",
+    "type": "film",
+    "wiki_article": "Drishyam 3",
+    "continuity": "drishyam-malayalam",
+    "studio_or_developer": "Aashirvad Cinemas",
+    "publisher": null,
+    "language": "Malayalam",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-05-21",
+      "release_quote": "The film was released on 21 May 2026 and received mixed reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam_3&oldid=1387682201",
+      "in_universe": {
+       "year": 2024,
+       "year_end": null,
+       "label": "c. 2024 (five years after Drishyam 2)",
+       "confidence": "inferred",
+       "quote": "Five years after the events of ''[[Drishyam 2]]'', Georgekutty’s life appears stable.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishyam_3&oldid=1387682201",
+       "precision": "year",
+       "note": "Drishyam 2 is set \"By 2019\", and 2019 + 5 = 2024 is derived. This is approximate, because Drishyam 2's court and film-adaptation events may run past 2019.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2-2021",
+      "kind": "continues",
+      "note": "Sequel set five years later."
+     }
+    ],
+    "notes": "Full title: \"Drishyam 3: The Past Never Stays Silent\". It was released in Telugu, Tamil and Kannada \"as dubbed versions … instead of being remade separately\", so there are no separate remake units for those languages. Distributors vary by region (the infobox says \"see below\"), so publisher is left null.",
+    "revid": 1387682201,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishyam_3&oldid=1387682201"
+   },
+   {
+    "id": "drishyam-2015",
+    "title": "Drishyam",
+    "type": "film",
+    "wiki_article": "Drishyam (2015 film)",
+    "continuity": "drishyam-hindi",
+    "studio_or_developer": "Panorama Studios / Viacom18 Motion Pictures",
+    "publisher": "Panorama Studios / Viacom18 Motion Pictures",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-07-31",
+      "release_quote": "The film was released on 31 July 2015, and in [[China]] in 2022.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam_%282015_film%29&oldid=1381776752",
+      "in_universe": {
+       "year": 2014,
+       "year_end": null,
+       "label": "2014 (October)",
+       "confidence": "inferred",
+       "quote": "On the night of 3 October 2014, a man named David Braganza flees from authorities after committing a murder.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishyam_2_%282022_film%29&oldid=1387441372",
+       "precision": "year",
+       "note": "The film's own plot gives only \"Sunday, October 3\" (\"A CCTV camera footage of Vijay being at a bank ATM in Panaji on Sunday, October 3, proves Vijay's alibi\"), with no year. The year comes from the Drishyam 2 (2022) prologue, which mirrors the Malayalam sequel's prologue for the night the body was moved.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "A Hindi remake of the 2013 Malayalam film."
+     }
+    ],
+    "notes": "",
+    "revid": 1381776752,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishyam_%282015_film%29&oldid=1381776752"
+   },
+   {
+    "id": "drishyam-2-2022",
+    "title": "Drishyam 2",
+    "type": "film",
+    "wiki_article": "Drishyam 2 (2022 film)",
+    "continuity": "drishyam-hindi",
+    "studio_or_developer": "Panorama Studios / Viacom18 Studios / T-Series Films",
+    "publisher": "Panorama Studios (India); Yash Raj Films (International)",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-11-18",
+      "release_quote": "''Drishyam 2'' was released on 18 November 2022, and received positive reviews …",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam_2_%282022_film%29&oldid=1387441372",
+      "in_universe": {
+       "year": 2021,
+       "year_end": null,
+       "label": "c. 2021 (seven years after 3 October 2014)",
+       "confidence": "inferred",
+       "quote": "On the night of 3 October 2014, a man named David Braganza flees from authorities after committing a murder. … Seven years later, Vijay, Nandini, Anju and Anu are living contentedly.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishyam_2_%282022_film%29&oldid=1387441372",
+       "precision": "year",
+       "note": "2014 + 7 = 2021 is derived. Drishyam: The Conclusion mentions \"the night of 23 July 2021\" in this film's events, which is consistent.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2015",
+      "kind": "continues",
+      "note": "A sequel to the 2015 film."
+     },
+     {
+      "to": "drishyam-2-2021",
+      "kind": "remake",
+      "note": "A remake of the 2021 Malayalam Drishyam 2."
+     }
+    ],
+    "notes": "",
+    "revid": 1387441372,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishyam_2_%282022_film%29&oldid=1387441372"
+   },
+   {
+    "id": "drishyam-the-conclusion",
+    "title": "Drishyam: The Conclusion",
+    "type": "film",
+    "wiki_article": "Drishyam: The Conclusion",
+    "continuity": "drishyam-hindi",
+    "studio_or_developer": "Panorama Studios / Star Studio18",
+    "publisher": "Star Studio18 (India) / Panorama Studios / Zee Studios (Overseas)",
+    "language": "Hindi",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-10-02",
+      "release_quote": "''Drishyam: The Conclusion'' was released in theatres on 2 October 2026, coinciding with [[Gandhi Jayanti]].",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam%3A_The_Conclusion&oldid=1388240019",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "six months after Drishyam 2 (Hindi)",
+       "confidence": "inferred",
+       "quote": "Six months after Vijay Salgaonkar was released due to lack of evidence, the case against the Salgaonkar family has been closed due to a lack of evidence. … Raghu reveals that Vijay visited the college with him on the night of 23 July 2021 …",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishyam%3A_The_Conclusion&oldid=1388240019",
+       "precision": "relative",
+       "note": "Relative placement only. \"23 July 2021\" is a flashback to Drishyam 2 events. The date of Vijay's release in Drishyam 2 is not stated, so no year is assigned (likely late 2021 or 2022, unverified).",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2-2022",
+      "kind": "continues",
+      "note": "A sequel to Drishyam 2 (2022)."
+     },
+     {
+      "to": "drishyam-3-2026",
+      "kind": "references",
+      "note": "The Hindi counterpart of Drishyam 3, with an original story that is \"not narratively connected\" (not a remake)."
+     }
+    ],
+    "notes": "Also known as Drishyam 3. It started streaming on Netflix on 27 November 2026.",
+    "revid": 1388240019,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishyam%3A_The_Conclusion&oldid=1388240019"
+   },
+   {
+    "id": "drushyam",
+    "title": "Drushyam",
+    "type": "film",
+    "wiki_article": "Drushyam",
+    "continuity": "drishyam-telugu",
+    "studio_or_developer": "Suresh Productions / Rajkumar Theatres Pvt Ltd / Wide Angle Creations",
+    "publisher": "Suresh Productions",
+    "language": "Telugu",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-07-11",
+      "release_quote": "''Drushyam'' released on 11 July 2014 to positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drushyam&oldid=1387994180",
+      "in_universe": {
+       "year": 2014,
+       "year_end": null,
+       "label": "2014 (August)",
+       "confidence": "inferred",
+       "quote": "On the night of 3 August 2014, Janardhan sees Rambabu exiting an under-construction police station (burying Varun's body at the end of ''[[Drushyam]]'') …",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drushyam_2&oldid=1387994189",
+       "precision": "year",
+       "note": "The date comes from the sequel's prologue, which explicitly ties it to the end of Drushyam.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "A Telugu remake of the 2013 Malayalam film."
+     }
+    ],
+    "notes": "",
+    "revid": 1387994180,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drushyam&oldid=1387994180"
+   },
+   {
+    "id": "drushyam-2",
+    "title": "Drushyam 2",
+    "type": "film",
+    "wiki_article": "Drushyam 2",
+    "continuity": "drishyam-telugu",
+    "studio_or_developer": "Suresh Productions / Aashirvad Cinemas / Rajkumar Theatres Pvt. Ltd.",
+    "publisher": "Amazon Prime Video",
+    "language": "Telugu",
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-11-25",
+      "release_quote": "''Drushyam 2'' was released on [[Amazon Prime Video]] on 25 November 2021.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drushyam_2&oldid=1387994189",
+      "in_universe": {
+       "year": 2020,
+       "year_end": null,
+       "label": "c. 2020 (six years after Drushyam)",
+       "confidence": "inferred",
+       "quote": "The story takes place six years after the events of ''Drushyam''. … On the night of 3 August 2014, Janardhan sees Rambabu exiting an under-construction police station … Six years later, Rambabu, Jyothi, Anju, and Anu are living semi-normally.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drushyam_2&oldid=1387994189",
+       "precision": "year",
+       "note": "2014 + 6 = 2020 is derived.",
+       "order_index": 1
+      },
+      "note": "A direct-to-streaming release on Amazon Prime Video."
+     }
+    ],
+    "links": [
+     {
+      "to": "drushyam",
+      "kind": "continues",
+      "note": "Set six years later."
+     },
+     {
+      "to": "drishyam-2-2021",
+      "kind": "remake",
+      "note": "A Telugu remake directed by Jeethu Joseph."
+     }
+    ],
+    "notes": "",
+    "revid": 1387994189,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drushyam_2&oldid=1387994189"
+   },
+   {
+    "id": "drishya",
+    "title": "Drishya",
+    "type": "film",
+    "wiki_article": "Drishya",
+    "continuity": "drishyam-kannada",
+    "studio_or_developer": "E4 Entertainment",
+    "publisher": "E4 Entertainment",
+    "language": "Kannada",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-06-20",
+      "release_quote": "The film released on 20 June 2014 to widespread critical acclaim …",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishya&oldid=1384302142",
+      "in_universe": {
+       "year": 2014,
+       "year_end": null,
+       "label": "2014 (March)",
+       "confidence": "inferred",
+       "quote": "On the night of 3 March 2014, a convict named Annappa is on the run from the authorities for murdering his brother-in-law.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishya_2&oldid=1384301632",
+       "precision": "year",
+       "note": "The date comes from the sequel's prologue (the night of the first film's ending). Drishya's own article gives no date.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "A Kannada remake of the 2013 Malayalam film."
+     }
+    ],
+    "notes": "",
+    "revid": 1384302142,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishya&oldid=1384302142"
+   },
+   {
+    "id": "drishya-2",
+    "title": "Drishya 2",
+    "type": "film",
+    "wiki_article": "Drishya 2",
+    "continuity": "drishyam-kannada",
+    "studio_or_developer": "E4 Entertainment",
+    "publisher": "Zee Studios",
+    "language": "Kannada",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-12-10",
+      "release_quote": "The film was released on 10 December 2021, and received positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishya_2&oldid=1384301632",
+      "in_universe": {
+       "year": 2021,
+       "year_end": null,
+       "label": "c. 2021 (seven years after March 2014)",
+       "confidence": "inferred",
+       "quote": "On the night of 3 March 2014, a convict named Annappa is on the run … Seven years later, Rajendra, Seetha, Sindhu and Shreya are leading a more prosperous life.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Drishya_2&oldid=1384301632",
+       "precision": "year",
+       "note": "2014 + 7 = 2021 is derived. The gap differs from the Telugu version (six years).",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishya",
+      "kind": "continues",
+      "note": "A sequel set seven years later."
+     },
+     {
+      "to": "drishyam-2-2021",
+      "kind": "remake",
+      "note": "A Kannada remake."
+     }
+    ],
+    "notes": "",
+    "revid": 1384301632,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Drishya_2&oldid=1384301632"
+   },
+   {
+    "id": "papanasam",
+    "title": "Papanasam",
+    "type": "film",
+    "wiki_article": "Papanasam (film)",
+    "continuity": "drishyam-tamil",
+    "studio_or_developer": "Wide Angle Creations / RajKumar Theatres Pvt. Ltd.",
+    "publisher": "Maxlab Entertainments",
+    "language": "Tamil",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-07-03",
+      "release_quote": "The film was released on 3 July 2015 and is estimated to have grossed over {{INRConvert|100|c|year=2015}} worldwide.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Papanasam_%28film%29&oldid=1388006997",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "undated",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe date in the article.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "A Tamil remake by Jeethu Joseph."
+     }
+    ],
+    "notes": "",
+    "revid": 1388006997,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Papanasam_%28film%29&oldid=1388006997"
+   },
+   {
+    "id": "dharmayuddhaya",
+    "title": "Dharmayuddhaya",
+    "type": "film",
+    "wiki_article": "Dharmayuddhaya",
+    "continuity": "drishyam-sinhala",
+    "studio_or_developer": "MTV Channel",
+    "publisher": "M Entertainments",
+    "language": "Sinhala",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-07-14",
+      "release_quote": "| released = {{Film date|2017|07|14|df=yes}} … The premiere of the movie was held on 13 July 2017 at Regal Cinema.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya&oldid=1378725941",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "undated",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe date in the article.",
+       "order_index": 0
+      },
+      "note": "The release date comes from the infobox. A premiere was held on 13 July 2017."
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "A \"shot-for-shot remake\" in Sinhala."
+     }
+    ],
+    "notes": "Lead: produced by \"MTV Channel and The Capital Maharaja Organization Limited\".",
+    "revid": 1378725941,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya&oldid=1378725941"
+   },
+   {
+    "id": "dharmayuddhaya-2",
+    "title": "Dharmayuddhaya 2",
+    "type": "film",
+    "wiki_article": "Dharmayuddhaya 2",
+    "continuity": "drishyam-sinhala",
+    "studio_or_developer": "MTV Channel / The Capital Maharaja Organisation",
+    "publisher": "M Entertainments",
+    "language": "Sinhala",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-01-23",
+      "release_quote": "| released = {{Film date|2026|01|23|Sri Lanka}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya_2&oldid=1382958969",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "seven years after Dharmayuddhaya",
+       "confidence": "inferred",
+       "quote": "Seven years have passed since the disappearance of Shane, and Harishchandra has moved up in the world …",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya_2&oldid=1382958969",
+       "precision": "relative",
+       "note": "Relative only. The first film is undated.",
+       "order_index": 1
+      },
+      "note": "The release date comes from the infobox only (Sri Lanka). There is no release sentence in the prose."
+     }
+    ],
+    "links": [
+     {
+      "to": "dharmayuddhaya",
+      "kind": "continues",
+      "note": "Set seven years later."
+     },
+     {
+      "to": "drishyam-2-2021",
+      "kind": "remake",
+      "note": "A Sinhala remake."
+     }
+    ],
+    "notes": "",
+    "revid": 1382958969,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dharmayuddhaya_2&oldid=1382958969"
+   },
+   {
+    "id": "sheep-without-a-shepherd",
+    "title": "Sheep Without a Shepherd",
+    "type": "film",
+    "wiki_article": "Sheep Without a Shepherd",
+    "continuity": "drishyam-chinese",
+    "studio_or_developer": "Perfect Sky Pictures / Hengye Pictures / As One Production",
+    "publisher": "China Film Group Corporation",
+    "language": "Mandarin",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-12-13",
+      "release_quote": "''Sheep Without a Shepherd'' was released in China on 13 December 2019 in conventional and [[IMAX]] formats.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Sheep_Without_a_Shepherd&oldid=1376984213",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "undated",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No in-universe date in the article.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "An official Chinese remake."
+     }
+    ],
+    "notes": "",
+    "revid": 1376984213,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Sheep_Without_a_Shepherd&oldid=1376984213"
+   },
+   {
+    "id": "ayah-aku-mau-cerita",
+    "title": "Ayah, Aku Mau Cerita...",
+    "type": "film",
+    "wiki_article": null,
+    "continuity": "drishyam-indonesian",
+    "studio_or_developer": null,
+    "publisher": null,
+    "language": "Indonesian",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-08-20",
+      "release_quote": "The film was released in Indonesia on 20 August 2026.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Drishyam&oldid=1387997704",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "undated",
+       "confidence": "inferred",
+       "quote": null,
+       "source": null,
+       "precision": "relative",
+       "note": "No plot information was available.",
+       "order_index": 0
+      },
+      "note": "The release quote comes from the remakes section of the Drishyam (2013) article. The title comes from the remake table in the Drishyam (film series) article. There is no English Wikipedia article, and the studio was not checked."
+     }
+    ],
+    "links": [
+     {
+      "to": "drishyam-2013",
+      "kind": "remake",
+      "note": "An Indonesian remake (director Danial Rifki)."
+     }
+    ],
+    "notes": "Not verified beyond the two Wikipedia mentions.",
+    "revid": null,
+    "wiki_url": null
+   }
+  ]
+ },
+ "_ranks": {
+  "golmaal": [
+   "golmaal-fun-unlimited:film",
+   "golmaal-returns:film",
+   "golmaal-3:film",
+   "golmaal-again:film"
+  ],
+  "housefull": [
+   "housefull-2010:film",
+   "housefull-2:film",
+   "housefull-3:film",
+   "housefull-4:film",
+   "housefull-5:5a",
+   "housefull-5:5b"
+  ],
+  "bhool-bhulaiyaa": [
+   "manichitrathazhu:film",
+   "bhool-bhulaiyaa:film",
+   "bhool-bhulaiyaa-2:film",
+   "bhool-bhulaiyaa-3:film"
+  ],
+  "drishyam": [
+   "drishyam-2013:film",
+   "drishyam-2-2021:film",
+   "drishyam-3-2026:film",
+   "drishyam-2015:film",
+   "drishyam-2-2022:film",
+   "drishyam-the-conclusion:film",
+   "drushyam:film",
+   "drushyam-2:film",
+   "drishya:film",
+   "drishya-2:film",
+   "papanasam:film",
+   "dharmayuddhaya:film",
+   "dharmayuddhaya-2:film",
+   "sheep-without-a-shepherd:film",
+   "ayah-aku-mau-cerita:film"
+  ]
+ }
+}

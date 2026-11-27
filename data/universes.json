@@ -1706,5 +1706,69 @@
     "data_dir": "dhoom",
     "description": "The Dhoom films, one continuity with Jai and Ali throughout.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "yrf-spy-universe",
+    "name": "YRF Spy Universe",
+    "short_name": "YRF Spy Universe",
+    "order": 66,
+    "enabled": true,
+    "accent": {
+      "primary": "#B71C1C",
+      "secondary": "#FBC02D"
+    },
+    "default_continuity": "yrf-spy",
+    "grouping_schemes": [],
+    "data_dir": "yrf-spy-universe",
+    "description": "Yash Raj Films' spy films (Ek Tha Tiger, Tiger Zinda Hai, War, Pathaan, Tiger 3, War 2, Alpha) in one shared continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "lcu",
+    "name": "Lokesh Cinematic Universe",
+    "short_name": "Lokesh Cinematic Universe",
+    "order": 67,
+    "enabled": true,
+    "accent": {
+      "primary": "#4E342E",
+      "secondary": "#FF8F00"
+    },
+    "default_continuity": "lcu-main",
+    "grouping_schemes": [],
+    "data_dir": "lcu",
+    "description": "Lokesh Kanagaraj's connected Tamil films: Kaithi, Vikram and Leo.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "cop-universe",
+    "name": "Cop Universe",
+    "short_name": "Cop Universe",
+    "order": 68,
+    "enabled": true,
+    "accent": {
+      "primary": "#0D47A1",
+      "secondary": "#FFD600"
+    },
+    "default_continuity": "cop-main",
+    "grouping_schemes": [],
+    "data_dir": "cop-universe",
+    "description": "Rohit Shetty's Cop Universe films (Singham, Simmba, Sooryavanshi and sequels) and the Indian Police Force series.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "maddock-horror-comedy",
+    "name": "Maddock Horror Comedy Universe",
+    "short_name": "Maddock Horror Comedy Universe",
+    "order": 69,
+    "enabled": true,
+    "accent": {
+      "primary": "#1B5E20",
+      "secondary": "#E65100"
+    },
+    "default_continuity": "mhcu-main",
+    "grouping_schemes": [],
+    "data_dir": "maddock-horror-comedy",
+    "description": "Maddock Films' connected horror comedies: Stree, Bhediya, Munjya, Stree 2, Thamma.",
+    "last_verified": "2026-11-27"
   }
 ]

@@ -1,0 +1,2957 @@
+{
+ "mission-impossible": {
+  "continuities": [
+   {
+    "id": "mi-tv",
+    "name": "Mission: Impossible (TV series, 1966–1973 and 1988–1990)",
+    "ordered_only": true,
+    "description": "The original CBS series and the ABC revival, which Wikipedia calls a continuation of it (Jim Phelps returns; Barney Collier and Lisa Casey guest-star).",
+    "quote": "The show is a continuation of the 1966–1973 television series of the same name, and aired on ABC from October 23, 1988, to February 24, 1990. … The appearances of Barney Collier and Lisa Casey established continuity with the original series, while the episodes \"Spy\" and \"Reprisal\" established that Jim Phelps continued to work after the original series ended.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281988_TV_series%29&oldid=1387237105",
+     "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096"
+    ]
+   },
+   {
+    "id": "mi-films",
+    "name": "Mission: Impossible (film series, 1996–2025)",
+    "description": "The Tom Cruise / Ethan Hunt films. Wikipedia describes them as based on the TV series, not a continuation of it, so they form their own continuity.",
+    "quote": "Mission: Impossible is an American series of action spy films, based on the 1966 television series created by Bruce Geller. … Based on the 1966 television series of the same name and its 1988 sequel series, it is the first installment in the Mission: Impossible film series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+     "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film%29&oldid=1385100403"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "mi-1966",
+    "title": "Mission: Impossible",
+    "type": "series",
+    "wiki_article": "Mission: Impossible (1966 TV series)",
+    "continuity": "mi-tv",
+    "studio_or_developer": "Desilu Productions / Paramount Television",
+    "publisher": null,
+    "platform": "CBS",
+    "platforms": [
+     "CBS"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 28,
+      "release_date": "1966-09-17",
+      "release_end": "1967-04-22",
+      "release_quote": "|episodes1 = 28 … |start1 = {{Start date|1966|9|17}} … |end1 = {{End date|1967|4|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "The series chronicled the exploits of a small team of covert government agents, known as the Impossible Missions Force, and their sophisticated methods of deceiving, manipulating and thwarting, amongst others, hostile Iron Curtain governments, third-world dictators, corrupt industrialists, and crime lords.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 25,
+      "release_date": "1967-09-10",
+      "release_end": "1968-03-17",
+      "release_quote": "|episodes2 = 25 … |start2 = {{Start date|1967|9|10}} … |end2 = {{End date|1968|3|17}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 25,
+      "release_date": "1968-09-29",
+      "release_end": "1969-04-20",
+      "release_quote": "|episodes3 = 25 … |start3 = {{Start date|1968|9|29}} … |end3 = {{End date|1969|4|20}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 26,
+      "release_date": "1969-09-28",
+      "release_end": "1970-03-29",
+      "release_quote": "|episodes4 = 26 … |start4 = {{Start date|1969|9|28}} … |end4 = {{End date|1970|3|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 23,
+      "release_date": "1970-09-19",
+      "release_end": "1971-03-17",
+      "release_quote": "|episodes5 = 23 … |start5 = {{Start date|1970|9|19}} … |end5 = {{End date|1971|3|17}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     },
+     {
+      "key": "s6",
+      "label": "Season 6",
+      "season": 6,
+      "episodes": 22,
+      "release_date": "1971-09-18",
+      "release_end": "1972-02-26",
+      "release_quote": "|episodes6 = 22 … |start6 = {{Start date|1971|9|18}} … |end6 = {{End date|1972|2|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     },
+     {
+      "key": "s7",
+      "label": "Season 7",
+      "season": 7,
+      "episodes": 22,
+      "release_date": "1972-09-16",
+      "release_end": "1973-03-30",
+      "release_quote": "|episodes7 = 22 … |start7 = {{Start date|1972|9|16}} … |end7 = {{End date|1973|3|30}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Mission%3A_Impossible_%281966_TV_series%29_episodes&oldid=1342721159",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No in-universe year in sources; ordered by broadcast (episodic series)."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Season data from the Series overview on the episode list (transcluded in the series article). Infobox: Desilu (seasons 1–2), Paramount Television (seasons 2–7).",
+    "revid": 1387237096,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281966_TV_series%29&oldid=1387237096"
+   },
+   {
+    "id": "mi-1988",
+    "title": "Mission: Impossible",
+    "type": "series",
+    "wiki_article": "Mission: Impossible (1988 TV series)",
+    "continuity": "mi-tv",
+    "studio_or_developer": "Jeffrey Hayes Productions / Paramount Network Television",
+    "publisher": null,
+    "platform": "ABC",
+    "platforms": [
+     "ABC"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 19,
+      "release_date": "1988-10-23",
+      "release_end": "1989-05-06",
+      "release_quote": "|episodes1 = 19 … |start1 = {{Start date|1988|10|23}} … |end1 = {{End date|1989|5|6}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281988_TV_series%29&oldid=1387237105",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the 1966–73 series (Phelps called out of retirement)",
+       "confidence": "inferred",
+       "quote": "After his protégé and successor as leader of the top-secret Impossible Missions Force is killed, Jim Phelps is called out of retirement and asked to form a new IMF team and track down the assassin.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281988_TV_series%29&oldid=1387237105",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No year stated. Placed after the original series because Phelps comes out of retirement, and the revival \"established that Jim Phelps continued to work after the original series ended\"."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 16,
+      "release_date": "1989-09-21",
+      "release_end": "1990-02-24",
+      "release_quote": "|episodes2 = 16 … |start2 = {{Start date|1989|9|21}} … |end2 = {{End date|1990|2|24}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281988_TV_series%29&oldid=1387237105",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281988_TV_series%29&oldid=1387237105",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "No year stated. Placed after the original series because Phelps comes out of retirement, and the revival \"established that Jim Phelps continued to work after the original series ended\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-1966",
+      "kind": "continues",
+      "note": "Wikipedia: \"a continuation of the 1966–1973 television series\"; Phelps comes out of retirement"
+     }
+    ],
+    "notes": "Revival; Peter Graves returns as Jim Phelps. Same name as the 1966 series.",
+    "revid": 1387237105,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%281988_TV_series%29&oldid=1387237105"
+   },
+   {
+    "id": "mi-film-1",
+    "title": "Mission: Impossible",
+    "type": "film",
+    "wiki_article": "Mission: Impossible (film)",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Cruise/Wagner Productions",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1996-05-22",
+      "release_quote": "Mission: Impossible was theatrically released in the United States by Paramount Pictures on May 22, 1996.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film%29&oldid=1385100403",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "In the first film of the series, Ethan Hunt is framed for the murder of his Impossible Mission Force (IMF) team during a botched mission in Prague and accused of selling government secrets to an arms dealer known only as \"Max\".",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-1966",
+      "kind": "shares-characters",
+      "note": "film adaptation of the TV series; Jim Phelps (recast) appears; separate continuity"
+     }
+    ],
+    "notes": "",
+    "revid": 1385100403,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film%29&oldid=1385100403"
+   },
+   {
+    "id": "mi-film-2",
+    "title": "Mission: Impossible 2",
+    "type": "film",
+    "wiki_article": "Mission: Impossible 2",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Cruise/Wagner Productions",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2000-05-24",
+      "release_quote": "Mission: Impossible 2 was theatrically released in the United States by Paramount Pictures on May 24, 2000, and grossed over $546 million worldwide",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_2&oldid=1387927021",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "In the second film, Ethan Hunt goes back in action and works with a professional thief Nyah Nordoff-Hall (Thandie Newton).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-1",
+      "kind": "continues",
+      "note": "next installment"
+     }
+    ],
+    "notes": "",
+    "revid": 1387927021,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_2&oldid=1387927021"
+   },
+   {
+    "id": "mi-film-3",
+    "title": "Mission: Impossible III",
+    "type": "film",
+    "wiki_article": "Mission: Impossible III",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Cruise/Wagner Productions",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2006-05-05",
+      "release_quote": "Mission: Impossible III premiered at the Tribeca Film Festival on April 26, 2006, and was released in the United States by Paramount Pictures on May 5, 2006.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_III&oldid=1388112526",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "In the third film, Ethan is engaged to Julia Meade (Michelle Monaghan), who is unaware of his true job.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-2",
+      "kind": "continues",
+      "note": "next installment"
+     }
+    ],
+    "notes": "Release date is the US theatrical date; the premiere was earlier.",
+    "revid": 1388112526,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_III&oldid=1388112526"
+   },
+   {
+    "id": "mi-film-4",
+    "title": "Mission: Impossible – Ghost Protocol",
+    "type": "film",
+    "wiki_article": "Mission: Impossible – Ghost Protocol",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Skydance Productions / Bad Robot / TC Productions",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-12-21",
+      "release_quote": "Mission: Impossible – Ghost Protocol premiered at the Dubai International Film Festival on December 7, 2011, and was released in IMAX and select large-format theaters on December 16, before being theatrically released in the United States by Paramount Pictures on December 21.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Ghost_Protocol&oldid=1387927053",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "In the fourth film, Ethan and the entire IMF are framed for the bombing of the Kremlin while investigating an individual known only as \"Cobalt\" (Michael Nyqvist).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-3",
+      "kind": "continues",
+      "note": "next installment"
+     }
+    ],
+    "notes": "Release date is the US theatrical date; the premiere was earlier.",
+    "revid": 1387927053,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Ghost_Protocol&oldid=1387927053"
+   },
+   {
+    "id": "mi-film-5",
+    "title": "Mission: Impossible – Rogue Nation",
+    "type": "film",
+    "wiki_article": "Mission: Impossible – Rogue Nation",
+    "continuity": "mi-films",
+    "studio_or_developer": "Skydance Productions / Bad Robot / TC Productions / Alibaba Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-07-31",
+      "release_quote": "Mission: Impossible – Rogue Nation premiered at the Vienna State Opera (one of its filming locations) on July 23, 2015, and was theatrically released in the United States by Paramount Pictures a week later. … {{Film date|2015|07|23|[[Vienna State Opera]]|2015|7|31|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Rogue_Nation&oldid=1381134792",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "In the fifth film, Ethan Hunt comes under threat from the Syndicate.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-4",
+      "kind": "continues",
+      "note": "next installment"
+     }
+    ],
+    "notes": "Release date is the US theatrical date; the premiere was earlier.",
+    "revid": 1381134792,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Rogue_Nation&oldid=1381134792"
+   },
+   {
+    "id": "mi-film-6",
+    "title": "Mission: Impossible – Fallout",
+    "type": "film",
+    "wiki_article": "Mission: Impossible – Fallout",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Skydance / TC Productions / Bad Robot",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-07-27",
+      "release_quote": "Mission: Impossible – Fallout premiered in Paris on July 12, 2018, and was theatrically released in the United States on July 27.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Fallout&oldid=1388071765",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Two years after Rogue Nation",
+       "confidence": "inferred",
+       "quote": "Set two years after the events of Rogue Nation, Fallout follows Impossible Missions Force agent Ethan Hunt (Cruise) and his team in their efforts to prevent a nuclear attack by terrorist Solomon Lane (Harris) and the mysterious extremist John Lark.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Fallout&oldid=1388071765",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-5",
+      "kind": "continues",
+      "note": "set two years after Rogue Nation"
+     }
+    ],
+    "notes": "Release date is the US theatrical date; the premiere was earlier.",
+    "revid": 1388071765,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Fallout&oldid=1388071765"
+   },
+   {
+    "id": "mi-film-7",
+    "title": "Mission: Impossible – Dead Reckoning Part One",
+    "type": "film",
+    "wiki_article": "Mission: Impossible – Dead Reckoning Part One",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Skydance / TC Productions",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-07-12",
+      "release_quote": "Dead Reckoning Part One premiered in Rome on June 19, 2023, and was theatrically released in the United States on July 12, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Dead_Reckoning_Part_One&oldid=1387927034",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": "In the seventh film, an AI called the Entity is responsible for the sinking of the next-generation Russian submarine Sevastopol.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%28film_series%29&oldid=1387927042",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No in-universe year in sources; sequence from the film series article (\"In the Nth film\")."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-6",
+      "kind": "continues",
+      "note": "next installment"
+     }
+    ],
+    "notes": "Release date is the US theatrical date; the premiere was earlier.",
+    "revid": 1387927034,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_Dead_Reckoning_Part_One&oldid=1387927034"
+   },
+   {
+    "id": "mi-film-8",
+    "title": "Mission: Impossible – The Final Reckoning",
+    "type": "film",
+    "wiki_article": "Mission: Impossible – The Final Reckoning",
+    "continuity": "mi-films",
+    "studio_or_developer": "Paramount Pictures / Skydance / TC Productions",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-05-23",
+      "release_quote": "The Final Reckoning had its world premiere in Tokyo on May 5, 2025, was screened out of competition at the 78th Cannes Film Festival on May 14, and was theatrically released in the United States on May 23 by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_The_Final_Reckoning&oldid=1388071782",
+      "in_universe": {
+       "year": 2026,
+       "year_end": null,
+       "label": "2026 (two months after Dead Reckoning)",
+       "confidence": "inferred",
+       "quote": "Two months after retrieving the key to the source code for the malevolent artificial intelligence known as the Entity, rogue IMF agent Ethan Hunt receives a message from U.S. … [[Category:Films set in 2026]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_The_Final_Reckoning&oldid=1388071782",
+       "precision": "year",
+       "order_index": 7,
+       "note": "The year comes only from the article category \"Films set in 2026\"; the prose says \"two months after\" Dead Reckoning. No other MI film has a sourced year."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "mi-film-7",
+      "kind": "continues",
+      "note": "set two months after Dead Reckoning"
+     }
+    ],
+    "notes": "Release date is the US theatrical date; the premiere was earlier.",
+    "revid": 1388071782,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Mission%3A_Impossible_%E2%80%93_The_Final_Reckoning&oldid=1388071782"
+   }
+  ]
+ },
+ "transformers": {
+  "continuities": [
+   {
+    "id": "tf-g1",
+    "name": "Generation 1 (The Transformers, 1984–1987, and The Movie)",
+    "description": "The original Sunbow/Marvel animated series and its 1986 feature film, which takes place between seasons 2 and 3.",
+    "quote": "The term \"Generation 1\" (G1) covers both the animated television series The Transformers and the comic book series of the same name, which are further divided into Japanese, British and Canadian spin-offs. … The series was supplemented by a feature film, The Transformers: The Movie (1986), taking place between the second and third seasons.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Transformers&oldid=1388165025",
+     "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615"
+    ]
+   },
+   {
+    "id": "tf-beast-era",
+    "name": "Beast Wars / Beast Machines",
+    "ordered_only": true,
+    "description": "Beast Wars and its direct sequel Beast Machines. Wikipedia sets them in the future of G1, so they could be a branch of tf-g1. They are kept as their own continuity, as the brief asked, with a \"continues\" link to G1.",
+    "quote": "The series is set in the future of the \"original\" Transformers franchise, 300 years after the events of The Transformers … Sequels followed, such as the Generation 2 comic book and Beast Wars TV series, which became its own mini-universe. … It was a direct sequel to Beast Wars, taking place within the continuity of the original Transformers series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Beast_Wars%3A_Transformers&oldid=1387192068",
+     "https://en.wikipedia.org/w/index.php?title=Transformers&oldid=1388165025",
+     "https://en.wikipedia.org/w/index.php?title=Beast_Machines%3A_Transformers&oldid=1387192062"
+    ]
+   },
+   {
+    "id": "tf-live-action",
+    "name": "Live-action film series (2007–2023)",
+    "description": "The Michael Bay films, plus Bumblebee (a prequel kept in continuity with the Bay films) and its sequel Rise of the Beasts.",
+    "quote": "A live-action film series started in 2007, again distinct from previous incarnations … it is the sixth installment in the Transformers film series. … Knight originally included Megatron when storyboarding the opening battle scenes on Cybertron but used other characters instead to keep continuity with Michael Bay's Transformers. … It is the seventh installment in the Transformers film series, and a sequel to Bumblebee (2018).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Transformers&oldid=1388165025",
+     "https://en.wikipedia.org/w/index.php?title=Bumblebee_%28film%29&oldid=1387088977",
+     "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Rise_of_the_Beasts&oldid=1387177316"
+    ]
+   },
+   {
+    "id": "tf-aligned",
+    "name": "Aligned continuity (Prime and Robots in Disguise 2015)",
+    "ordered_only": true,
+    "description": "Transformers: Prime, its closing TV film Predacons Rising, and the stand-alone sequel Robots in Disguise (2015). Rescue Bots and Rescue Bots Academy are also Aligned but are not included.",
+    "quote": "For most of the 2010s, in an attempt to mitigate the wave of reboots, the \"Aligned Continuity\" was established, which included four series: Transformers: Prime and Transformers: Robots in Disguise, along with the preschool-oriented Transformers: Rescue Bots and Rescue Bots Academy.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Transformers&oldid=1388165025",
+     "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Prime&oldid=1387257859"
+    ]
+   },
+   {
+    "id": "tf-one",
+    "name": "Transformers One (2024)",
+    "ordered_only": true,
+    "description": "Animated origin film for Optimus Prime and Megatron, in a new continuity of its own.",
+    "quote": "The 2024 animated film, Transformers One, once again takes place in a new continuity, as does the animated YouTube web series Transformers: Cyberworld.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Transformers&oldid=1388165025"
+    ]
+   },
+   {
+    "id": "tf-earthspark",
+    "name": "Transformers: EarthSpark",
+    "ordered_only": true,
+    "description": "Paramount+/Nickelodeon series, separate from earlier continuities.",
+    "quote": "Another series, Transformers: EarthSpark, debuted in 2022, again separate from previous continuities.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Transformers&oldid=1388165025"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "tf-g1-series",
+    "title": "The Transformers",
+    "type": "series",
+    "wiki_article": "The Transformers (TV series)",
+    "continuity": "tf-g1",
+    "studio_or_developer": "Sunbow Productions / Marvel Productions / Toei Animation / AKOM",
+    "publisher": null,
+    "platform": "First-run syndication",
+    "platforms": [
+     "First-run syndication"
+    ],
+    "units": [
+     {
+      "key": "mini",
+      "label": "Miniseries",
+      "episodes": 3,
+      "release_date": "1984-09-17",
+      "release_end": "1984-09-19",
+      "release_quote": "| linkT0     = Miniseries … | episodes0  = 3 … | start0     = {{Start date|1984|9|17}} … | end0       = {{End date|1984|9|19}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Transformers_episodes&oldid=1379525972",
+      "in_universe": {
+       "year": 1984,
+       "year_end": null,
+       "label": "1984",
+       "confidence": "stated",
+       "quote": "The story follows Optimus Prime's heroic Autobots and Megatron's evil Decepticons as they leave their metallic homeworld of Cybertron to search for new sources of energy to revitalize their war efforts, only to crash-land on Earth, where they remain entombed and offline for 4 million years. Awakening in the year of 1984, the Decepticons set about pillaging the energy sources of Earth",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615",
+       "precision": "year",
+       "order_index": 0
+      }
+     },
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 13,
+      "release_date": "1984-10-06",
+      "release_end": "1984-12-29",
+      "release_quote": "| episodes1  = 13 … | start1     = {{Start date|1984|10|6}} … | end1       = {{End date|1984|12|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Transformers_episodes&oldid=1379525972",
+      "in_universe": {
+       "year": 1984,
+       "year_end": null,
+       "label": "1984",
+       "confidence": "inferred",
+       "quote": "The story follows Optimus Prime's heroic Autobots and Megatron's evil Decepticons as they leave their metallic homeworld of Cybertron to search for new sources of energy to revitalize their war efforts, only to crash-land on Earth, where they remain entombed and offline for 4 million years. Awakening in the year of 1984, the Decepticons set about pillaging the energy sources of Earth",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615",
+       "precision": "year",
+       "order_index": 1,
+       "note": "The awakening is stated as 1984. Season 1 follows straight on from the miniseries, so 1984 is inferred."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 49,
+      "release_date": "1985-09-23",
+      "release_end": "1986-01-09",
+      "release_quote": "| episodes2  = 49 … | start2     = {{Start date|1985|9|23}} … | end2       = {{End date|1986|1|9}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Transformers_episodes&oldid=1379525972",
+      "in_universe": {
+       "year": 1985,
+       "year_end": null,
+       "label": "c. 1985",
+       "confidence": "inferred",
+       "quote": "Set 20 years after the second season, in the year 2005, the film featured the deaths of many characters, including Optimus Prime",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615",
+       "precision": "year",
+       "order_index": 2,
+       "note": "Derived: The Movie is set in 2005, \"20 years after the second season\", which puts season 2 at about 1985."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 30,
+      "release_date": "1986-09-15",
+      "release_end": "1987-02-25",
+      "release_quote": "| episodes3  = 30 … | start3     = {{Start date|1986|9|15}} … | end3       = {{End date|1987|2|25}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Transformers_episodes&oldid=1379525972",
+      "in_universe": {
+       "year": 2005,
+       "year_end": 2006,
+       "label": "2005–2006",
+       "confidence": "inferred",
+       "quote": "The series was supplemented by a feature film, The Transformers: The Movie (1986), taking place between the second and third seasons. … [[Category:Television series set in 2005]] [[Category:Television series set in 2006]] … |Title = The Big Broadcast of 2006",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615",
+        "https://en.wikipedia.org/w/index.php?title=List_of_The_Transformers_episodes&oldid=1379525972"
+       ],
+       "precision": "year",
+       "order_index": 4,
+       "note": "Follows the 2005 film. The year range comes from the article categories and the episode title \"The Big Broadcast of 2006\"; no prose sentence gives the season's year."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4: The Rebirth",
+      "season": 4,
+      "episodes": 3,
+      "release_date": "1987-11-09",
+      "release_end": "1987-11-11",
+      "release_quote": "| episodes4  = 3 … | start4     = {{Start date|1987|11|9}} … | end4       = {{End date|1987|11|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_The_Transformers_episodes&oldid=1379525972",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 3",
+       "confidence": "inferred",
+       "quote": "The fourth season, consisting of a three-part finale miniseries named \"The Rebirth\", was broadcast in November 1987.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No year stated; finale after season 3."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Wikipedia lists the 3-episode 1984 miniseries separately from season 1, so it is its own unit (key \"mini\").",
+    "revid": 1388126615,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Transformers_%28TV_series%29&oldid=1388126615"
+   },
+   {
+    "id": "tf-g1-movie",
+    "title": "The Transformers: The Movie",
+    "type": "animated-film",
+    "wiki_article": "The Transformers: The Movie",
+    "continuity": "tf-g1",
+    "studio_or_developer": "Sunbow Productions",
+    "publisher": "De Laurentiis Entertainment Group",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1986-08-08",
+      "release_quote": "The Transformers: The Movie was released on August 8, 1986, to 990 screens in the United States",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Transformers%3A_The_Movie&oldid=1388035706",
+      "in_universe": {
+       "year": 2005,
+       "year_end": null,
+       "label": "2005",
+       "confidence": "stated",
+       "quote": "The story is set in 2005, 20 years after the TV series' second season.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Transformers%3A_The_Movie&oldid=1388035706",
+       "precision": "year",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-g1-series",
+      "kind": "continues",
+      "note": "takes place between seasons 2 and 3"
+     }
+    ],
+    "notes": "",
+    "revid": 1388035706,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Transformers%3A_The_Movie&oldid=1388035706"
+   },
+   {
+    "id": "tf-beast-wars",
+    "title": "Beast Wars: Transformers",
+    "type": "series",
+    "wiki_article": "Beast Wars: Transformers",
+    "continuity": "tf-beast-era",
+    "studio_or_developer": "Mainframe Entertainment / Alliance Communications",
+    "publisher": null,
+    "platform": "Syndication (US) / YTV (Canada)",
+    "platforms": [
+     "Syndication (US) / YTV (Canada)"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 26,
+      "release_date": "1996-09-16",
+      "release_end": "1997-04-01",
+      "release_quote": "| episodes1 = 26 … | start1 = {{Start date|1996|9|16}} … | end1 = {{End date|1997|4|1}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Beast_Wars_episodes&oldid=1350729127",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Prehistoric Earth (Maximals from about 300 years after G1)",
+       "confidence": "inferred",
+       "quote": "The series is set in the future of the \"original\" Transformers franchise, 300 years after the events of The Transformers … While engaged in battle, small teams from each faction crash land on an unknown planet, and must find a way to return home while continuing their war.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Beast_Wars%3A_Transformers&oldid=1387192068",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 13,
+      "release_date": "1997-10-26",
+      "release_end": "1998-03-13",
+      "release_quote": "| episodes2 = 13 … | start2 = {{Start date|1997|10|26}} … | end2 = {{End date|1998|3|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Beast_Wars_episodes&oldid=1350729127",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Prehistoric Earth, after season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Beast_Wars%3A_Transformers&oldid=1387192068",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 13,
+      "release_date": "1998-10-25",
+      "release_end": "1999-05-07",
+      "release_quote": "| episodes3 = 13 … | start3 = {{Start date|1998|10|25}} … | end3 = {{End date|1999|5|7}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Beast_Wars_episodes&oldid=1350729127",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Prehistoric Earth, after season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Beast_Wars%3A_Transformers&oldid=1387192068",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-g1-series",
+      "kind": "continues",
+      "note": "set 300 years after G1; Maximals and Predacons descend from the Autobots and Decepticons"
+     }
+    ],
+    "notes": "The action is on prehistoric Earth, reached from a time about 300 years after G1. No calendar year is sourced, so years are null.",
+    "revid": 1387192068,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Beast_Wars%3A_Transformers&oldid=1387192068"
+   },
+   {
+    "id": "tf-beast-machines",
+    "title": "Beast Machines: Transformers",
+    "type": "series",
+    "wiki_article": "Beast Machines: Transformers",
+    "continuity": "tf-beast-era",
+    "studio_or_developer": "Mainframe Entertainment / Hasbro",
+    "publisher": null,
+    "platform": "Fox Kids (US) / YTV (Canada)",
+    "platforms": [
+     "Fox Kids (US) / YTV (Canada)"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 13,
+      "release_date": "1999-09-18",
+      "release_end": "1999-12-18",
+      "release_quote": "| episodes1 = 13 … | start1 = {{Start date|1999|9|18}} … | end1 = {{End date|1999|12|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Beast_Machines%3A_Transformers&oldid=1387192062",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Cybertron, after Beast Wars",
+       "confidence": "inferred",
+       "quote": "It was a direct sequel to Beast Wars, taking place within the continuity of the original Transformers series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Beast_Machines%3A_Transformers&oldid=1387192062",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2: Battle for the Spark",
+      "season": 2,
+      "episodes": 13,
+      "release_date": "2000-08-05",
+      "release_end": "2000-11-18",
+      "release_quote": "| episodes2 = 13 … | start2 = {{Start date|2000|8|5}} … | end2 = {{End date|2000|11|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Beast_Machines%3A_Transformers&oldid=1387192062",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Beast_Machines%3A_Transformers&oldid=1387192062",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-beast-wars",
+      "kind": "continues",
+      "note": "direct sequel"
+     }
+    ],
+    "notes": "",
+    "revid": 1387192062,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Beast_Machines%3A_Transformers&oldid=1387192062"
+   },
+   {
+    "id": "tf-film-bumblebee",
+    "title": "Bumblebee",
+    "type": "film",
+    "wiki_article": "Bumblebee (film)",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "Allspark Pictures / di Bonaventura Pictures / Bay Films / Tencent Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-12-21",
+      "release_quote": "The film premiered on December 3, 2018, at the Sony Center in Berlin, and was released in the United States on December 21, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Bumblebee_%28film%29&oldid=1387088977",
+      "in_universe": {
+       "year": 1987,
+       "year_end": null,
+       "label": "1987",
+       "confidence": "stated",
+       "quote": "Set in 1987, the film follows Bumblebee being sent to Earth for refuge and befriending a teenage girl named Charlie.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Bumblebee_%28film%29&oldid=1387088977",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-film-2007",
+      "kind": "continues",
+      "note": "prequel to the Bay films (\"A prequel to the film series titled Bumblebee\"); some details conflict with the earlier films"
+     }
+    ],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1387088977,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Bumblebee_%28film%29&oldid=1387088977"
+   },
+   {
+    "id": "tf-film-rise-of-the-beasts",
+    "title": "Transformers: Rise of the Beasts",
+    "type": "film",
+    "wiki_article": "Transformers: Rise of the Beasts",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "Skydance Media / Hasbro / Bayhem Films / New Republic Pictures / di Bonaventura Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-06-09",
+      "release_quote": "Transformers: Rise of the Beasts premiered at Marina Bay Sands in Singapore on May 27, 2023, and was theatrically released in the United States on June 9, 2023, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Rise_of_the_Beasts&oldid=1387177316",
+      "in_universe": {
+       "year": 1994,
+       "year_end": null,
+       "label": "1994",
+       "confidence": "stated",
+       "quote": "Set in 1994, the film follows ex-military electronics expert Noah Diaz and artifact researcher Elena Wallace as they help the Autobots and the Maximals protect an artifact known as the Transwarp Key from the villainous Terrorcons.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Rise_of_the_Beasts&oldid=1387177316",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-film-bumblebee",
+      "kind": "continues",
+      "note": "sequel to Bumblebee"
+     },
+     {
+      "to": "tf-beast-wars",
+      "kind": "shares-characters",
+      "note": "features the Maximals; Beast Wars \"reworked as a hybrid adaptation\" (separate continuity)"
+     }
+    ],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1387177316,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Rise_of_the_Beasts&oldid=1387177316"
+   },
+   {
+    "id": "tf-film-2007",
+    "title": "Transformers",
+    "type": "film",
+    "wiki_article": "Transformers (film)",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "Paramount Pictures / DreamWorks Pictures / Hasbro / di Bonaventura Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-07-03",
+      "release_quote": "It premiered on June 10, 2007, at the N Seoul Tower in Seoul, South Korea, and released by Paramount Pictures in the United States on July 3.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers_%28film%29&oldid=1386430649",
+      "in_universe": {
+       "year": 2007,
+       "year_end": null,
+       "label": "2007 (prologue 1897)",
+       "confidence": "inferred",
+       "quote": "Captain Archibald Witwicky and his crew of explorers stumbled upon Megatron in 1897. … [[Category:Films set in 2007]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers_%28film%29&oldid=1386430649",
+       "precision": "year",
+       "order_index": 2,
+       "note": "The present-day year comes only from the article category \"Films set in 2007\". 1897 is a backstory event."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1386430649,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers_%28film%29&oldid=1386430649"
+   },
+   {
+    "id": "tf-film-revenge-of-the-fallen",
+    "title": "Transformers: Revenge of the Fallen",
+    "type": "film",
+    "wiki_article": "Transformers: Revenge of the Fallen",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "DreamWorks Pictures / Paramount Pictures / di Bonaventura Pictures / Hasbro Studios",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-06-24",
+      "release_quote": "It debuted on June 8, 2009, at Roppongi Hills in Tokyo, Japan and was released on June 24 by Paramount Pictures in the United States.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Revenge_of_the_Fallen&oldid=1387056258",
+      "in_universe": {
+       "year": 2009,
+       "year_end": null,
+       "label": "2009",
+       "confidence": "inferred",
+       "quote": "Set two years after the events of Transformers, the story recounts the battle between the Autobots, led by Optimus Prime (voiced by Peter Cullen), and the Decepticons, led by Megatron (voiced by Hugo Weaving). … [[Category:Films set in 2009]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Revenge_of_the_Fallen&oldid=1387056258",
+       "precision": "year",
+       "order_index": 3,
+       "note": "2007 plus 2 years, which matches the category \"Films set in 2009\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-film-2007",
+      "kind": "continues",
+      "note": "set two years later"
+     }
+    ],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1387056258,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Revenge_of_the_Fallen&oldid=1387056258"
+   },
+   {
+    "id": "tf-film-dark-of-the-moon",
+    "title": "Transformers: Dark of the Moon",
+    "type": "film",
+    "wiki_article": "Transformers: Dark of the Moon",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "Paramount Pictures / Hasbro Studios / di Bonaventura Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-06-29",
+      "release_quote": "The release date was moved from July 1 to June 29, in order to monitor an early response to footage.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Dark_of_the_Moon&oldid=1387056245",
+      "in_universe": {
+       "year": 2012,
+       "year_end": null,
+       "label": "2012 (prologue 1962–1969)",
+       "confidence": "inferred",
+       "quote": "In the present day, three years after the battle of Egypt, the Autobots help humanity prevent major conflicts. … [[Category:Films set in 2012]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Dark_of_the_Moon&oldid=1387056245",
+       "precision": "year",
+       "order_index": 4,
+       "note": "2009 plus 3 years, which matches the category \"Films set in 2012\". The prologue years 1962 and 1969 are stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-film-revenge-of-the-fallen",
+      "kind": "continues",
+      "note": "three years after the battle of Egypt"
+     }
+    ],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1387056245,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Dark_of_the_Moon&oldid=1387056245"
+   },
+   {
+    "id": "tf-film-age-of-extinction",
+    "title": "Transformers: Age of Extinction",
+    "type": "film",
+    "wiki_article": "Transformers: Age of Extinction",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "Paramount Pictures / Hasbro Studios / di Bonaventura Pictures / China Movie Channel / Jiaflix Enterprises",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-06-27",
+      "release_quote": "The film was released in the United States on June 27, 2014, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Age_of_Extinction&oldid=1387420100",
+      "in_universe": {
+       "year": 2017,
+       "year_end": null,
+       "label": "c. 2016–2017",
+       "confidence": "disputed",
+       "quote": "Five years after the Battle of Chicago, humans view Transformers as hostile and terminate all joint operations with them. … The film was not a reboot but a sequel to Dark of the Moon, taking place four years later. … [[Category:Films set in 2017]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Age_of_Extinction&oldid=1387420100",
+       "precision": "year",
+       "order_index": 5,
+       "note": "The article gives both five years (plot) and four years (production section) after Dark of the Moon, so 2016 or 2017. The plot and the category both give 2017."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-film-dark-of-the-moon",
+      "kind": "continues",
+      "note": "four or five years after the Battle of Chicago"
+     }
+    ],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1387420100,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Age_of_Extinction&oldid=1387420100"
+   },
+   {
+    "id": "tf-film-the-last-knight",
+    "title": "Transformers: The Last Knight",
+    "type": "film",
+    "wiki_article": "Transformers: The Last Knight",
+    "continuity": "tf-live-action",
+    "studio_or_developer": "Paramount Pictures / Huahua Media / The H Collective / Hasbro Studios / di Bonaventura Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-06-21",
+      "release_quote": "Transformers: The Last Knight premiered on June 18, 2017, at the Odeon Luxe Leicester Square in London and was released in the United States on June 21, by Paramount Pictures.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_The_Last_Knight&oldid=1386312052",
+      "in_universe": {
+       "year": 2019,
+       "year_end": null,
+       "label": "2019 (prologue 484 AD)",
+       "confidence": "inferred",
+       "quote": "In 484 AD, Merlin finds the Knights of Iacon, a group of Transformers hiding on Earth … In the present day, following the events of Hong Kong, Optimus Prime arrives on the ruins of Cybertron … [[Category:Films set in 2019]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_The_Last_Knight&oldid=1386312052",
+       "precision": "year",
+       "order_index": 6,
+       "note": "The present-day year comes only from the category \"Films set in 2019\"."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-film-age-of-extinction",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "Release date is the US theatrical date.",
+    "revid": 1386312052,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_The_Last_Knight&oldid=1386312052"
+   },
+   {
+    "id": "tf-prime",
+    "title": "Transformers: Prime",
+    "type": "series",
+    "wiki_article": "Transformers: Prime",
+    "continuity": "tf-aligned",
+    "studio_or_developer": "Hasbro Studios / K/O Paper Products / Darby Pop Productions",
+    "publisher": null,
+    "platform": "The Hub",
+    "platforms": [
+     "The Hub"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 26,
+      "release_date": "2010-11-26",
+      "release_end": "2011-10-15",
+      "release_quote": "| episodes1  = 26 … | start1     = {{Start date|2010|11|26}} … | end1       = {{End date|2011|10|15}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Prime_episodes&oldid=1379221938",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Modern-day Earth",
+       "confidence": "inferred",
+       "quote": "The series is notably the first work within this continuity to not focus on the Autobots and the Decepticons' war on their home planet of Cybertron (though glimpses of it are shown in various flashbacks), and instead takes place primarily on Earth during the modern era.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Prime&oldid=1387257859",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 26,
+      "release_date": "2012-02-18",
+      "release_end": "2012-11-02",
+      "release_quote": "| episodes2  = 26 … | start2     = {{Start date|2012|2|18}} … | end2       = {{End date|2012|11|2}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Prime_episodes&oldid=1379221938",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Prime&oldid=1387257859",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3: Beast Hunters",
+      "season": 3,
+      "episodes": 13,
+      "release_date": "2013-03-22",
+      "release_end": "2013-07-26",
+      "release_quote": "| episodes3  = 13 … | start3     = {{Start date|2013|3|22}} … | end3       = {{End date|2013|7|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Prime_episodes&oldid=1379221938",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Prime&oldid=1387257859",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1387257859,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Prime&oldid=1387257859"
+   },
+   {
+    "id": "tf-prime-predacons-rising",
+    "title": "Transformers Prime Beast Hunters: Predacons Rising",
+    "type": "tv-film",
+    "wiki_article": "Transformers Prime Beast Hunters: Predacons Rising",
+    "continuity": "tf-aligned",
+    "studio_or_developer": "Hasbro Studios / K/O Paper Products / Darby Pop Productions",
+    "publisher": null,
+    "platform": "Hub Network",
+    "platforms": [
+     "Hub Network"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2013-10-04",
+      "release_quote": "It was first broadcast on Hub Network on October 4, 2013.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers_Prime_Beast_Hunters%3A_Predacons_Rising&oldid=1378746058",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After Prime season 3",
+       "confidence": "inferred",
+       "quote": "Transformers Prime Beast Hunters: Predacons Rising is a 2013 American animated action adventure television film that concludes the Transformers: Prime television series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers_Prime_Beast_Hunters%3A_Predacons_Rising&oldid=1378746058",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-prime",
+      "kind": "continues",
+      "note": "concludes the series"
+     }
+    ],
+    "notes": "",
+    "revid": 1378746058,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers_Prime_Beast_Hunters%3A_Predacons_Rising&oldid=1378746058"
+   },
+   {
+    "id": "tf-rid-2015",
+    "title": "Transformers: Robots in Disguise",
+    "type": "series",
+    "wiki_article": "Transformers: Robots in Disguise (2015 TV series)",
+    "continuity": "tf-aligned",
+    "studio_or_developer": "Hasbro Studios / Polygon Pictures / Darby Pop Productions",
+    "publisher": null,
+    "platform": "Cartoon Network",
+    "platforms": [
+     "Cartoon Network"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 26,
+      "release_date": "2015-03-14",
+      "release_end": "2015-09-12",
+      "release_quote": "| episodes1  = 26 … | start1     = {{Start date|2015|3|14}} … | end1       = {{End date|2015|9|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Robots_in_Disguise_%282015_TV_series%29_episodes&oldid=1364563923",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Three years after Prime",
+       "confidence": "inferred",
+       "quote": "Three years after Megatron's exile, the Predacons' defeat, and life being restored to the planet Cybertron, a new generation of Transformers enjoy a new age of prosperity.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Robots_in_Disguise_%282015_TV_series%29&oldid=1387257874",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 13,
+      "release_date": "2016-02-20",
+      "release_end": "2016-05-14",
+      "release_quote": "| episodes2  = 13 … | start2     = {{Start date|2016|2|20}} … | end2       = {{End date|2016|5|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Robots_in_Disguise_%282015_TV_series%29_episodes&oldid=1364563923",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the previous season",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Robots_in_Disguise_%282015_TV_series%29&oldid=1387257874",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "mini",
+      "label": "Miniseries (2016)",
+      "episodes": 6,
+      "release_date": "2016-10-22",
+      "release_end": "2016-12-03",
+      "release_quote": "| linkT3     = Miniseries … | episodes3  = 6 … | start3     = {{Start date|2016|10|22}} … | end3       = {{End date|2016|12|3}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Robots_in_Disguise_%282015_TV_series%29_episodes&oldid=1364563923",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the previous season",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Robots_in_Disguise_%282015_TV_series%29&oldid=1387257874",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3: Combiner Force",
+      "season": 3,
+      "episodes": 26,
+      "release_date": "2017-04-29",
+      "release_end": "2017-11-11",
+      "release_quote": "| linkT4     = 3 … | episodes4  = 26 … | start4     = {{Start date|2017|4|29}} … | end4       = {{End date|2017|11|11}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Transformers%3A_Robots_in_Disguise_%282015_TV_series%29_episodes&oldid=1364563923",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the previous season",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Robots_in_Disguise_%282015_TV_series%29&oldid=1387257874",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tf-prime-predacons-rising",
+      "kind": "continues",
+      "note": "stand-alone sequel, set three years after Prime"
+     }
+    ],
+    "notes": "Wikipedia lists a 6-episode 2016 miniseries between seasons 2 and 3 (key \"mini\"). Season 3 is subtitled Combiner Force. The 2001 series of the same name is not included.",
+    "revid": 1387257874,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_Robots_in_Disguise_%282015_TV_series%29&oldid=1387257874"
+   },
+   {
+    "id": "tf-one",
+    "title": "Transformers One",
+    "type": "animated-film",
+    "wiki_article": "Transformers One",
+    "continuity": "tf-one",
+    "studio_or_developer": "Paramount Animation / Hasbro Entertainment / New Republic Pictures / di Bonaventura Pictures / Bayhem Films",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-09-20",
+      "release_quote": "Transformers One premiered in Sydney, Australia, on September 11, 2024, and was released by Paramount Pictures in the United States on September 20.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers_One&oldid=1386284676",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Cybertron, before the Autobot–Decepticon war",
+       "confidence": "inferred",
+       "quote": "It depicts the origins of Optimus Prime and Megatron.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers_One&oldid=1386284676",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1386284676,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers_One&oldid=1386284676"
+   },
+   {
+    "id": "tf-earthspark",
+    "title": "Transformers: EarthSpark",
+    "type": "series",
+    "wiki_article": "Transformers: EarthSpark",
+    "continuity": "tf-earthspark",
+    "studio_or_developer": "Entertainment One / Hasbro Entertainment / Nickelodeon Animation Studio",
+    "publisher": null,
+    "platform": "Paramount+",
+    "platforms": [
+     "Paramount+"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 26,
+      "release_date": "2022-11-11",
+      "release_end": "2023-07-28",
+      "release_quote": "| episodes1  = 26 … | released1A  = {{Start date|2022|11|11}} … | episodes1C = 8 … | released1C  = {{Start date|2023|07|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Fifteen years after the space bridge to Cybertron is destroyed",
+       "confidence": "inferred",
+       "quote": "Fifteen years after the space bridge to Cybertron is destroyed, ending the civil war between the Autobots and the Decepticons, the Malto family relocates from Philadelphia to the small town of Witwicky, Pennsylvania.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 10,
+      "release_date": "2024-06-07",
+      "release_end": "2024-06-07",
+      "release_quote": "| episodes2 = 10 … | released2 = {{Start date|2024|06|07}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 8,
+      "release_date": "2024-10-25",
+      "release_end": "2024-10-25",
+      "release_quote": "| episodes3 = 8 … | released3 = {{Start date|2024|10|25}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 2,
+      "release_date": "2025-12-05",
+      "release_end": "2025-12-05",
+      "release_quote": "| episodes4 = 2 … | released4 = {{Start date|2025|12|5}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 3",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Season 1 came out in three batches (Nov 11, 2022; Mar 3, 2023; Jul 28, 2023), and release_end is the last batch. Season 4 is two specials, first released on Nickelodeon International.",
+    "revid": 1387257846,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Transformers%3A_EarthSpark&oldid=1387257846"
+   }
+  ]
+ },
+ "tmnt": {
+  "continuities": [
+   {
+    "id": "tmnt-mirage",
+    "name": "Mirage Studios comics (1984–2014)",
+    "ordered_only": true,
+    "description": "The original Eastman and Laird comic, as a single title.",
+    "quote": "Teenage Mutant Ninja Turtles (TMNT) is a comic book series that was published by Mirage Studios between 1984 and 2014.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896"
+    ]
+   },
+   {
+    "id": "tmnt-1987",
+    "name": "1987 animated series",
+    "ordered_only": true,
+    "description": "The Fred Wolf Films series, much changed from the comics.",
+    "quote": "Teenage Mutant Ninja Turtles (also known as Teenage Mutant Hero Turtles in some regions) is an American animated television series produced by Fred Wolf Films and based on the comic book characters created by Kevin Eastman and Peter Laird. … The property was changed considerably from the darker-toned comics, to make it more suitable for children and families.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+    ]
+   },
+   {
+    "id": "tmnt-1990-films",
+    "name": "Live-action films (1990–1993)",
+    "description": "The New Line Cinema trilogy.",
+    "quote": "Based on the comic book characters created by Kevin Eastman and Peter Laird, it is the first film adaptation of the characters. … it is the sequel to the 1990 film Teenage Mutant Ninja Turtles … It is the sequel to Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167",
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173",
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915"
+    ]
+   },
+   {
+    "id": "tmnt-2007",
+    "name": "TMNT (2007 film)",
+    "ordered_only": true,
+    "description": "CG-animated film. Whether it continues the 1990 films is disputed: the director says it does, co-creator Peter Laird says it does not. It is kept separate (never merge) and linked to the 1990 films.",
+    "quote": "TMNT co-creator Peter Laird stated it takes place in its own universe separate from the previous films, but director Munroe says the film exists in the same continuity as the other films, which was supported by the memento wall at the end of the film.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935"
+    ]
+   },
+   {
+    "id": "tmnt-2003",
+    "name": "2003 animated series (with Turtles Forever)",
+    "description": "The 4Kids/Mirage series, including Fast Forward, Back to the Sewer and the finale film Turtles Forever.",
+    "quote": "A sequel film, Turtles Forever, serving as both the series finale of the series and a crossover with the 1987–1996 Teenage Mutant Ninja Turtles animated series (via the plot element of the multiverse), was released on November 21, 2009.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+    ]
+   },
+   {
+    "id": "tmnt-2012",
+    "name": "2012 animated series",
+    "ordered_only": true,
+    "description": "Nickelodeon reboot series.",
+    "quote": "it was one half of Nickelodeon's strategy to reboot two established brands for new viewers … The series begins with the Turtles emerging from their sewer home for the first time, using their ninjutsu training to fight enemies in present-day New York City.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+    ]
+   },
+   {
+    "id": "tmnt-2014-films",
+    "name": "Platinum Dunes films (2014–2016)",
+    "ordered_only": true,
+    "description": "The live-action/CG reboot of the film series and its sequel.",
+    "quote": "Based on the characters of the same name created by Peter Laird and Kevin Eastman, it is a reboot of the Teenage Mutant Ninja Turtles film series. … it is the sequel to the 2014 Teenage Mutant Ninja Turtles film.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648",
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790"
+    ]
+   },
+   {
+    "id": "tmnt-rise",
+    "name": "Rise of the TMNT (series and 2022 film)",
+    "ordered_only": true,
+    "description": "The re-imagined Nickelodeon series and its Netflix sequel film.",
+    "quote": "Based on the Teenage Mutant Ninja Turtles created by Kevin Eastman and Peter Laird, it is a re-imagined series that has the Turtles go on new adventures … A feature film sequel was released on Netflix on August 5, 2022, following the series finale.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110"
+    ]
+   },
+   {
+    "id": "tmnt-mutant-mayhem",
+    "name": "Mutant Mayhem (2023) and Tales of the TMNT",
+    "ordered_only": true,
+    "description": "The animated reboot film and its Paramount+ bridge series.",
+    "quote": "The film is based on the Teenage Mutant Ninja Turtles characters and is a reboot of the related film series. … it serves as a spin-off and a bridge between the 2023 film Mutant Mayhem and the sequel.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659",
+     "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "tmnt-mirage-comic",
+    "title": "Teenage Mutant Ninja Turtles",
+    "type": "comic",
+    "wiki_article": "Teenage Mutant Ninja Turtles (Mirage Studios)",
+    "continuity": "tmnt-mirage",
+    "studio_or_developer": "Mirage Studios",
+    "publisher": "Mirage Studios",
+    "platform": "print",
+    "platforms": [
+     "print"
+    ],
+    "units": [
+     {
+      "key": "run",
+      "label": "Volumes 1–4 (1984–2014)",
+      "release_date": "1984-05",
+      "release_end": "2014",
+      "release_quote": "The book premiered in May 1984 at a comic book convention in Portsmouth, New Hampshire. … Teenage Mutant Ninja Turtles (TMNT) is a comic book series that was published by Mirage Studios between 1984 and 2014.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No in-universe year sourced."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "One title for the whole Mirage run (volumes 1–4). The release date has month precision (\"1984-05\") and release_end year precision (\"2014\").",
+    "revid": 1376142896,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896"
+   },
+   {
+    "id": "tmnt-1987",
+    "title": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "wiki_article": "Teenage Mutant Ninja Turtles (1987 TV series)",
+    "continuity": "tmnt-1987",
+    "studio_or_developer": "Fred Wolf Films",
+    "publisher": null,
+    "platform": "Syndication / CBS",
+    "platforms": [
+     "Syndication / CBS"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 5,
+      "release_date": "1987-12-28",
+      "release_end": "1988-01-01",
+      "release_quote": "|episodes1=5 … |start1={{Start date|1987|12|28}} … |end1={{Start date|1988|1|1}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": "Set in New York City, the series follows the adventures of the eponymous Teenage Mutant Ninja Turtles and their allies as they battle the Shredder, Krang, and numerous other villains and criminals.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 13,
+      "release_date": "1988-10-01",
+      "release_end": "1988-12-24",
+      "release_quote": "|episodes2=13 … |start2={{Start date|1988|10|1}} … |end2={{Start date|1988|12|24}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 47,
+      "release_date": "1989-09-25",
+      "release_end": "1989-12-15",
+      "release_quote": "|episodes3=47 … |start3={{Start date|1989|9|25}} … |end3={{Start date|1989|12|15}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 41,
+      "release_date": "1990-09-08",
+      "release_end": "1991-03-29",
+      "release_quote": "|episodes4=41 … |start4={{Start date|1990|9|8}} … |end4={{Start date|1991|3|29}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 20,
+      "release_date": "1991-09-14",
+      "release_end": "1991-11-16",
+      "release_quote": "|episodes5=20 … |start5={{Start date|1991|9|14}} … |end5={{Start date|1991|11|16}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s6",
+      "label": "Season 6",
+      "season": 6,
+      "episodes": 16,
+      "release_date": "1992-09-19",
+      "release_end": "1992-11-07",
+      "release_quote": "|episodes6=16 … |start6={{Start date|1992|9|19}} … |end6={{Start date|1992|11|7}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 5,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s7",
+      "label": "Season 7",
+      "season": 7,
+      "episodes": 27,
+      "release_date": "1993-09-18",
+      "release_end": "1993-10-30",
+      "release_quote": "|episodes7=27 … |start7={{Start date|1993|9|18}} … |end7={{Start date|1993|10|30}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s8",
+      "label": "Season 8",
+      "season": 8,
+      "episodes": 8,
+      "release_date": "1994-09-17",
+      "release_end": "1994-11-05",
+      "release_quote": "|episodes8=8 … |start8={{Start date|1994|9|17}} … |end8={{Start date|1994|11|5}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s9",
+      "label": "Season 9",
+      "season": 9,
+      "episodes": 8,
+      "release_date": "1995-09-16",
+      "release_end": "1995-11-04",
+      "release_quote": "|episodes9=8 … |start9={{Start date|1995|9|16}} … |end9={{Start date|1995|11|4}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 8,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s10",
+      "label": "Season 10",
+      "season": 10,
+      "episodes": 8,
+      "release_date": "1996-09-14",
+      "release_end": "1996-11-02",
+      "release_quote": "|episodes10=8 … |start10={{Start date|1996|9|14}} … |end10={{Start date|1996|11|2}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29_episodes&oldid=1375106881",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668",
+       "precision": "relative",
+       "order_index": 9,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-mirage-comic",
+      "kind": "shares-characters",
+      "note": "adaptation of the Mirage comic characters (separate continuity)"
+     }
+    ],
+    "notes": "Season 4 aired partly in syndication (15 episodes) and partly on CBS (26). Several titles share this name; tell them apart by year.",
+    "revid": 1387255668,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+   },
+   {
+    "id": "tmnt-film-1990",
+    "title": "Teenage Mutant Ninja Turtles",
+    "type": "film",
+    "wiki_article": "Teenage Mutant Ninja Turtles (1990 film)",
+    "continuity": "tmnt-1990-films",
+    "studio_or_developer": "Golden Harvest / Limelight Productions / 888 Productions",
+    "publisher": "New Line Cinema",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1990-03-30",
+      "release_quote": "Teenage Mutant Ninja Turtles was released in the United States on March 30, 1990, by New Line Cinema, and received mixed reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-mirage-comic",
+      "kind": "shares-characters",
+      "note": "first film adaptation of the comic characters"
+     }
+    ],
+    "notes": "",
+    "revid": 1388004167,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167"
+   },
+   {
+    "id": "tmnt-film-1991",
+    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "type": "film",
+    "wiki_article": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "continuity": "tmnt-1990-films",
+    "studio_or_developer": "Golden Harvest",
+    "publisher": "New Line Cinema",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1991-03-22",
+      "release_quote": "The film was released theatrically in the United States on March 22, 1991, by New Line Cinema.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the first film",
+       "confidence": "inferred",
+       "quote": "Based on the Teenage Mutant Ninja Turtles characters, it is the sequel to the 1990 film Teenage Mutant Ninja Turtles",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-film-1990",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "",
+    "revid": 1388004173,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173"
+   },
+   {
+    "id": "tmnt-film-1993",
+    "title": "Teenage Mutant Ninja Turtles III",
+    "type": "film",
+    "wiki_article": "Teenage Mutant Ninja Turtles III",
+    "continuity": "tmnt-1990-films",
+    "studio_or_developer": "Golden Harvest",
+    "publisher": "New Line Cinema",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1993-03-19",
+      "release_quote": "The film was released theatrically in the United States on March 19, 1993, by New Line Cinema.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915",
+      "in_universe": {
+       "year": 1993,
+       "year_end": null,
+       "label": "1993 (time travel to 1603)",
+       "confidence": "inferred",
+       "quote": "The plot revolves around a mystical scepter which transports the Turtles and April back in time to feudal Japan … In 1603 feudal Japan, samurai capture Prince Kenshin after chasing him into the woods … [[Category:Films set in 1993]]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915",
+       "precision": "year",
+       "order_index": 2,
+       "note": "The present-day year comes only from the category \"Films set in 1993\". 1603 is stated as the time-travel destination."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-film-1991",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "",
+    "revid": 1387828915,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915"
+   },
+   {
+    "id": "tmnt-film-2007",
+    "title": "TMNT",
+    "type": "animated-film",
+    "wiki_article": "TMNT (film)",
+    "continuity": "tmnt-2007",
+    "studio_or_developer": "Imagi Animation Studios",
+    "publisher": "Warner Bros. Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-03-23",
+      "release_quote": "TMNT premiered at the Grauman's Chinese Theatre in Los Angeles on March 17, 2007, and was released theatrically in the United States on March 23, by Warner Bros.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the 1990–93 films (disputed)",
+       "confidence": "disputed",
+       "quote": "TMNT co-creator Peter Laird stated it takes place in its own universe separate from the previous films, but director Munroe says the film exists in the same continuity as the other films, which was supported by the memento wall at the end of the film.",
+       "source": "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "Whether it continues the 1990 films is disputed. No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-film-1993",
+      "kind": "continues",
+      "note": "disputed: the director says it shares continuity with the 1990–93 films; Laird says it does not"
+     }
+    ],
+    "notes": "",
+    "revid": 1388199935,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935"
+   },
+   {
+    "id": "tmnt-2003",
+    "title": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "wiki_article": "Teenage Mutant Ninja Turtles (2003 TV series)",
+    "continuity": "tmnt-2003",
+    "studio_or_developer": "Mirage Studios / 4Kids Entertainment",
+    "publisher": null,
+    "platform": "Fox (4Kids TV) / The CW (CW4Kids)",
+    "platforms": [
+     "Fox (4Kids TV) / The CW (CW4Kids)"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 26,
+      "release_date": "2003-02-08",
+      "release_end": "2003-11-01",
+      "release_quote": "! scope=\"row\" style=text-align:center colspan=\"2\"|[[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 1 (2003)|1]] | 26 | {{Start date|2003|2|8}} | {{End date|2003|11|1}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present-day New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 26,
+      "release_date": "2003-11-08",
+      "release_end": "2004-10-02",
+      "release_quote": "! scope=\"row\" style=text-align:center colspan=2|[[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 2 (2003–04)|2]] | 26 | {{Start date|2003|11|8}} | {{End date|2004|10|2}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present-day New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 26,
+      "release_date": "2004-10-09",
+      "release_end": "2005-04-23",
+      "release_quote": "! scope=\"row\" style=text-align:center colspan=2|[[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 3 (2004–05)|3]] | 26 | {{Start date|2004|10|9}} | {{End date|2005|4|23}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present-day New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 26,
+      "release_date": "2005-09-10",
+      "release_end": "2006-04-15",
+      "release_quote": "! scope=\"row\" style=text-align:center colspan=2|[[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 4 (2005–06)|4]] | 26 | {{Start date|2005|9|10}} | {{End date|2006|4|15}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present-day New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5: Ninja Tribunal",
+      "season": 5,
+      "episodes": 12,
+      "release_date": "2006-08-07",
+      "release_end": "2008-05-02",
+      "release_quote": "! scope=\"row\" style=text-align:center | [[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 5: Ninja Tribunal (2006–08)|5]] ! scope=\"row\" style=text-align:center | ''Ninja Tribunal'' | 12 | {{Start date|2006|8|7}} | {{End date|2008|5|2}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present day, before Fast Forward",
+       "confidence": "inferred",
+       "quote": "The \"Ninja Tribunal\" was originally intended to be the fifth and final season of the 2003 Teenage Mutant Ninja Turtles animated series, but the schedule was altered in an effort to boost interest in the series, resulting in \"Fast Forward\" becoming the fifth season in terms of airing order.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "Placed before Fast Forward because it was the intended fifth season. This is inferred, not stated."
+      }
+     },
+     {
+      "key": "s6",
+      "label": "Season 6: Fast Forward",
+      "season": 6,
+      "episodes": 26,
+      "release_date": "2006-07-29",
+      "release_end": "2007-10-27",
+      "release_quote": "! scope=\"row\" style=text-align:center | [[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 6: Fast Forward (2006–07)|6]] ! scope=\"row\" style=text-align:center | ''Fast Forward'' | 26 | {{Start date|2006|7|29}} | {{End date|2007|10|27}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": 2105,
+       "year_end": null,
+       "label": "2105",
+       "confidence": "stated",
+       "quote": "The season's plot focuses on the Turtles being transported about 100 years into the future to the year 2105; where they meet and befriend Cody Jones, the great-grandson of April and Casey.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "year",
+       "order_index": 5
+      }
+     },
+     {
+      "key": "s7",
+      "label": "Season 7: Back to the Sewer",
+      "season": 7,
+      "episodes": 13,
+      "release_date": "2008-09-13",
+      "release_end": "2009-02-28",
+      "release_quote": "! scope=\"row\" style=text-align:center | [[List of Teenage Mutant Ninja Turtles (2003 TV series) episodes#Season 7: Back to the Sewer (2008–09)|7]] ! scope=\"row\" style=text-align:center | ''Back to the Sewer'' | 13 | {{Start date|2008|9|13}} | {{End date|2009|2|28}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29_episodes&oldid=1346237661",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present day, after returning from 2105",
+       "confidence": "inferred",
+       "quote": "After returning to the present day, the Turtles must battle a cybernetic version of the Shredder which was the result of Viral merging with the data of the exiled Utrom Shredder.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674",
+       "precision": "relative",
+       "order_index": 6,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-mirage-comic",
+      "kind": "shares-characters",
+      "note": "adaptation that follows the Mirage comics more closely"
+     }
+    ],
+    "notes": "Season numbers follow Wikipedia (Ninja Tribunal is season 5). Fast Forward aired before Ninja Tribunal finished; the article says Ninja Tribunal was intended as the fifth season. Season data come from a plain wikitable, not the Series overview template.",
+    "revid": 1387255674,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+   },
+   {
+    "id": "tmnt-turtles-forever",
+    "title": "Turtles Forever",
+    "type": "tv-film",
+    "wiki_article": "Turtles Forever",
+    "continuity": "tmnt-2003",
+    "studio_or_developer": "Mirage Studios / 4Kids Entertainment",
+    "publisher": null,
+    "platform": "The CW4Kids",
+    "platforms": [
+     "The CW4Kids"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-11-21",
+      "release_quote": "Turtles Forever premiered on The CW4Kids in the United States on November 21, 2009.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Turtles_Forever&oldid=1379375078",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After Back to the Sewer (series finale)",
+       "confidence": "inferred",
+       "quote": "A crossover between the 1987 and 2003 television series, the latter of which it serves as the series finale to, Turtles Forever follows the two sets of Turtles as they save the multiverse from the wrath of Ch'Rell, the Utrom Shredder from the 2003 television series.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Turtles_Forever&oldid=1379375078",
+       "precision": "relative",
+       "order_index": 7,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-2003",
+      "kind": "continues",
+      "note": "series finale"
+     },
+     {
+      "to": "tmnt-1987",
+      "kind": "crossover",
+      "note": "the 1987 Turtles meet the 2003 Turtles through the multiverse"
+     }
+    ],
+    "notes": "",
+    "revid": 1379375078,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Turtles_Forever&oldid=1379375078"
+   },
+   {
+    "id": "tmnt-2012",
+    "title": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "wiki_article": "Teenage Mutant Ninja Turtles (2012 TV series)",
+    "continuity": "tmnt-2012",
+    "studio_or_developer": "Nickelodeon Animation Studio",
+    "publisher": null,
+    "platform": "Nickelodeon",
+    "platforms": [
+     "Nickelodeon"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 26,
+      "release_date": "2012-09-28",
+      "release_end": "2013-08-08",
+      "release_quote": "| episodes1 = 26 … | start1    = {{Start date|2012|9|28}} … | end1      = {{end date|2013|8|8}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29_episodes&oldid=1376020633",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present-day New York",
+       "confidence": "inferred",
+       "quote": "The series begins with the Turtles emerging from their sewer home for the first time, using their ninjutsu training to fight enemies in present-day New York City.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 26,
+      "release_date": "2013-10-12",
+      "release_end": "2014-09-26",
+      "release_quote": "| episodes2 = 26 … | start2    = {{Start date|2013|10|12}} … | end2      = {{End date|2014|9|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29_episodes&oldid=1376020633",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 26,
+      "release_date": "2014-10-03",
+      "release_end": "2015-09-27",
+      "release_quote": "| episodes3 = 26 … | start3    = {{Start date|2014|10|3}} … | end3      = {{End date|2015|9|27}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29_episodes&oldid=1376020633",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 26,
+      "release_date": "2015-10-25",
+      "release_end": "2017-02-26",
+      "release_quote": "| episodes4 = 26 … | start4    = {{Start date|2015|10|25}} … | end4      = {{End date|2017|2|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29_episodes&oldid=1376020633",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 3",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681",
+       "precision": "relative",
+       "order_index": 3,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5: Tales of the Teenage Mutant Ninja Turtles",
+      "season": 5,
+      "episodes": 20,
+      "release_date": "2017-03-19",
+      "release_end": "2017-11-12",
+      "release_quote": "| episodes5 = 20 … | start5    = {{Start date|2017|3|19}} … | end5      = {{End date|2017|11|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29_episodes&oldid=1376020633",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 4",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681",
+       "precision": "relative",
+       "order_index": 4,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-1987",
+      "kind": "crossover",
+      "note": "the season 4 episode \"Trans-Dimensional Turtles\" features the 1987 Turtles"
+     }
+    ],
+    "notes": "Season 5 is subtitled \"Tales of the Teenage Mutant Ninja Turtles\". It is not the 2024 series of that name. Season 5 aired on Nicktoons.",
+    "revid": 1387255681,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+   },
+   {
+    "id": "tmnt-film-2014",
+    "title": "Teenage Mutant Ninja Turtles",
+    "type": "film",
+    "wiki_article": "Teenage Mutant Ninja Turtles (2014 film)",
+    "continuity": "tmnt-2014-films",
+    "studio_or_developer": "Paramount Pictures / Nickelodeon Movies / Platinum Dunes",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-08-08",
+      "release_quote": "Teenage Mutant Ninja Turtles premiered on July 29, 2014 in Mexico City, and was released in theaters on August 8, 2014.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Contemporary New York (no year stated)",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No present-day year in the prose. The article has the category \"Films set in 1999\", presumably for the backstory (not checked), so it is not used."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-film-1990",
+      "kind": "reboot-of",
+      "note": "reboot of the film series"
+     }
+    ],
+    "notes": "",
+    "revid": 1388199648,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648"
+   },
+   {
+    "id": "tmnt-film-2016",
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "type": "film",
+    "wiki_article": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "continuity": "tmnt-2014-films",
+    "studio_or_developer": "Paramount Pictures / Nickelodeon Movies / Platinum Dunes",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2016-06-03",
+      "release_quote": "Out of the Shadows premiered at Madison Square Garden in New York City on May 22, 2016, was released in theaters in the United States on June 3, 2016.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the 2014 film",
+       "confidence": "inferred",
+       "quote": "Based on the Teenage Mutant Ninja Turtles characters, it is the sequel to the 2014 Teenage Mutant Ninja Turtles film.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-film-2014",
+      "kind": "continues",
+      "note": "sequel"
+     }
+    ],
+    "notes": "",
+    "revid": 1388199790,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790"
+   },
+   {
+    "id": "tmnt-rise",
+    "title": "Rise of the Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "wiki_article": "Rise of the Teenage Mutant Ninja Turtles",
+    "continuity": "tmnt-rise",
+    "studio_or_developer": "Nickelodeon Animation Studio",
+    "publisher": null,
+    "platform": "Nickelodeon",
+    "platforms": [
+     "Nickelodeon",
+     "Nicktoons"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 20,
+      "release_date": "2018-07-20",
+      "release_end": "2019-07-06",
+      "release_quote": "| episodes1       = 20 … | start1          = {{Start date|2018|07|20}} … | end1            = {{End date|2019|07|06}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Present-day New York",
+       "confidence": "inferred",
+       "quote": "it is a re-imagined series that has the Turtles go on new adventures as they seek to unlock the mystical secrets of New York City and their own powers to save the world from evil.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No year stated; broadcast order."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 19,
+      "release_date": "2019-10-12",
+      "release_end": "2020-08-07",
+      "release_quote": "| episodes2       = 19 … | start2          = {{Start date|2019|10|12}} … | end2            = {{End date|2020|08|07}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated; broadcast order."
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Season 2 aired on Nicktoons. Episode counts are episodes; the series overview also lists segments (36 and 34).",
+    "revid": 1387247110,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110"
+   },
+   {
+    "id": "tmnt-rise-movie",
+    "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "type": "animated-film",
+    "wiki_article": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "continuity": "tmnt-rise",
+    "studio_or_developer": "Nickelodeon Movies",
+    "publisher": "Netflix",
+    "platform": "Netflix",
+    "platforms": [
+     "Netflix"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-08-05",
+      "release_quote": "Rise of the Teenage Mutant Ninja Turtles: The Movie premiered on Netflix on August 5, 2022.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles%3A_The_Movie&oldid=1385167024",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After the series (opens in a future 2044)",
+       "confidence": "inferred",
+       "quote": "A feature film sequel was released on Netflix on August 5, 2022, following the series finale. … In the year 2044, the evil alien Krang and his army has invaded Earth, and the resistance has fallen.",
+       "source": [
+        "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+        "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles%3A_The_Movie&oldid=1385167024"
+       ],
+       "precision": "relative",
+       "order_index": 2,
+       "note": "2044 is the future Casey Jones comes from. The main action is in the present, which is not dated, so the year is null."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-rise",
+      "kind": "continues",
+      "note": "sequel film after the series finale"
+     }
+    ],
+    "notes": "",
+    "revid": 1385167024,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles%3A_The_Movie&oldid=1385167024"
+   },
+   {
+    "id": "tmnt-mutant-mayhem",
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "type": "animated-film",
+    "wiki_article": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "continuity": "tmnt-mutant-mayhem",
+    "studio_or_developer": "Paramount Pictures / Nickelodeon Movies / Point Grey Pictures",
+    "publisher": "Paramount Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-08-02",
+      "release_quote": "Mutant Mayhem was theatrically released in the United States on August 2, 2023, and was screened in various formats including Dolby Cinema, 4DX, and RealD 3D.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Fifteen years after the Turtles' mutation",
+       "confidence": "inferred",
+       "quote": "Fifteen years later, the Turtles defeat a gang of criminals to recover a stolen moped belonging to a teenager named April O'Neil, revealing themselves and their origins.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659",
+       "precision": "relative",
+       "order_index": 0,
+       "note": "No calendar year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-film-2014",
+      "kind": "reboot-of",
+      "note": "animated reboot of the film series"
+     }
+    ],
+    "notes": "",
+    "revid": 1386514659,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659"
+   },
+   {
+    "id": "tmnt-tales",
+    "title": "Tales of the Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "wiki_article": "Tales of the Teenage Mutant Ninja Turtles (TV series)",
+    "continuity": "tmnt-mutant-mayhem",
+    "studio_or_developer": "Point Grey Pictures / Nickelodeon Animation Studio",
+    "publisher": null,
+    "platform": "Paramount+",
+    "platforms": [
+     "Paramount+"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 12,
+      "release_date": "2024-08-09",
+      "release_end": "2024-08-09",
+      "release_quote": "| episodes1  = 12 … | released1  = {{Start date|2024|08|09}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Two months after Mutant Mayhem",
+       "confidence": "inferred",
+       "quote": "Picking up two months after the events of the film Teenage Mutant Ninja Turtles: Mutant Mayhem (2023), the series follows the aftermath of Superfly’s defeat, and the Turtles as they navigate their dual lives as both teenagers and heroes in New York City and before the events of the film sequel.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117",
+       "precision": "relative",
+       "order_index": 1,
+       "note": "No year stated."
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 12,
+      "release_date": "2025-12-12",
+      "release_end": "2025-12-12",
+      "release_quote": "| episodes2  = 12 … | released2  = {{Start date|2025|12|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "After season 1",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117",
+       "precision": "relative",
+       "order_index": 2,
+       "note": "No year stated."
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tmnt-mutant-mayhem",
+      "kind": "spinoff",
+      "note": "bridge between Mutant Mayhem and its sequel, starting two months after the film"
+     }
+    ],
+    "notes": "The article says the series was marketed as canon, but its arcs use an unreliable-narrator framing device. Season 2 ended the series in December 2025.",
+    "revid": 1387255117,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117"
+   }
+  ]
+ },
+ "_ranks": {
+  "mission-impossible": [
+   "mi-1966:s1",
+   "mi-1966:s2",
+   "mi-1966:s3",
+   "mi-1966:s4",
+   "mi-1966:s5",
+   "mi-1966:s6",
+   "mi-1966:s7",
+   "mi-1988:s1",
+   "mi-1988:s2",
+   "mi-film-1:film",
+   "mi-film-2:film",
+   "mi-film-3:film",
+   "mi-film-4:film",
+   "mi-film-5:film",
+   "mi-film-6:film",
+   "mi-film-7:film",
+   "mi-film-8:film"
+  ],
+  "transformers": [
+   "tf-g1-series:mini",
+   "tf-g1-series:s1",
+   "tf-g1-series:s2",
+   "tf-g1-movie:film",
+   "tf-g1-series:s3",
+   "tf-g1-series:s4",
+   "tf-beast-wars:s1",
+   "tf-beast-wars:s2",
+   "tf-beast-wars:s3",
+   "tf-beast-machines:s1",
+   "tf-beast-machines:s2",
+   "tf-film-bumblebee:film",
+   "tf-film-rise-of-the-beasts:film",
+   "tf-film-2007:film",
+   "tf-film-revenge-of-the-fallen:film",
+   "tf-film-dark-of-the-moon:film",
+   "tf-film-age-of-extinction:film",
+   "tf-film-the-last-knight:film",
+   "tf-prime:s1",
+   "tf-prime:s2",
+   "tf-prime:s3",
+   "tf-prime-predacons-rising:film",
+   "tf-rid-2015:s1",
+   "tf-rid-2015:s2",
+   "tf-rid-2015:mini",
+   "tf-rid-2015:s3",
+   "tf-one:film",
+   "tf-earthspark:s1",
+   "tf-earthspark:s2",
+   "tf-earthspark:s3",
+   "tf-earthspark:s4"
+  ],
+  "tmnt": [
+   "tmnt-mirage-comic:run",
+   "tmnt-1987:s1",
+   "tmnt-1987:s2",
+   "tmnt-1987:s3",
+   "tmnt-1987:s4",
+   "tmnt-1987:s5",
+   "tmnt-1987:s6",
+   "tmnt-1987:s7",
+   "tmnt-1987:s8",
+   "tmnt-1987:s9",
+   "tmnt-1987:s10",
+   "tmnt-film-1990:film",
+   "tmnt-film-1991:film",
+   "tmnt-film-1993:film",
+   "tmnt-film-2007:film",
+   "tmnt-2003:s1",
+   "tmnt-2003:s2",
+   "tmnt-2003:s3",
+   "tmnt-2003:s4",
+   "tmnt-2003:s5",
+   "tmnt-2003:s6",
+   "tmnt-2003:s7",
+   "tmnt-turtles-forever:film",
+   "tmnt-2012:s1",
+   "tmnt-2012:s2",
+   "tmnt-2012:s3",
+   "tmnt-2012:s4",
+   "tmnt-2012:s5",
+   "tmnt-film-2014:film",
+   "tmnt-film-2016:film",
+   "tmnt-rise:s1",
+   "tmnt-rise:s2",
+   "tmnt-rise-movie:film",
+   "tmnt-mutant-mayhem:film",
+   "tmnt-tales:s1",
+   "tmnt-tales:s2"
+  ]
+ }
+}

@@ -1,0 +1,1085 @@
+{
+ "yrf-spy-universe": {
+  "continuities": [
+   {
+    "id": "yrf-spy",
+    "name": "YRF Spy Universe",
+    "description": "Yash Raj Films shared universe of Hindi-language spy films (Tiger, War, Pathaan and Alpha strands). In-universe order uses the per-film \"set after the events of\" statements in the film articles plus dated plot summaries.",
+    "quote": "The first three films in the universe - Ek Tha Tiger (2012), Tiger Zinda Hai (2017) and War (2019) - were released as standalone films before the universe was established through Pathaan (2023) after the success of War. … films = Ek Tha Tiger (2012) | Tiger Zinda Hai (2017) | War (2019) | Pathaan (2023) | Tiger 3 (2023) | War 2 (2025) | Alpha (2026)",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=YRF_Spy_Universe&oldid=1382183808"
+    ],
+    "ordered_only": false,
+    "notes": "Not included (unreleased as of 2026-11-27): Pathaan 2 (\"In development\", release TBA) and Tiger vs Pathaan (\"later in February 2026 the project was eventually shelved due to budget constraints\"), both per the YRF Spy Universe article."
+   }
+  ],
+  "titles": [
+   {
+    "id": "ek-tha-tiger",
+    "title": "Ek Tha Tiger",
+    "type": "film",
+    "wiki_article": "Ek Tha Tiger",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2012-08-15",
+      "release_quote": "Ek Tha Tiger was released worldwide on 15 August 2012; the date coincided with Indian Independence Day.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Ek_Tha_Tiger&oldid=1387286083",
+      "in_universe": {
+       "year": 2012,
+       "year_end": null,
+       "label": "c. 2012 (five years before Tiger Zinda Hai)",
+       "confidence": "inferred",
+       "quote": "In 2017, almost five years after the events of Ek Tha Tiger, an American journalist is killed by the ISC, a terrorist organisation, in Iraq",
+       "source": "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350",
+       "precision": "year",
+       "note": "Ek Tha Tiger's own plot summary gives no year. The year is derived from the Tiger Zinda Hai plot (2017 minus almost five years, so about 2012). The article's categories also list 'Films set in 2010' and 'Films set in 2012', so the exact year is approximate.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "First instalment; released as a standalone film before the shared universe was established.",
+    "revid": 1387286083,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Ek_Tha_Tiger&oldid=1387286083"
+   },
+   {
+    "id": "tiger-zinda-hai",
+    "title": "Tiger Zinda Hai",
+    "type": "film",
+    "wiki_article": "Tiger Zinda Hai",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-12-22",
+      "release_quote": "Tiger Zinda Hai was theatrically released worldwide on 22 December 2017, to positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350",
+      "in_universe": {
+       "year": 2017,
+       "year_end": 2018,
+       "label": "2017 (epilogue a year later)",
+       "confidence": "stated",
+       "quote": "In 2017, almost five years after the events of Ek Tha Tiger, an American journalist is killed by the ISC … A year later, on 15 August, Shenoy receives a call from Tiger, who is in Greece.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "ek-tha-tiger",
+      "kind": "continues",
+      "note": "Direct sequel; Tiger and Zoya now married and in hiding."
+     }
+    ],
+    "notes": "",
+    "revid": 1388164350,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Tiger_Zinda_Hai&oldid=1388164350"
+   },
+   {
+    "id": "war-2019",
+    "title": "War",
+    "type": "film",
+    "wiki_article": "War (2019 film)",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-10-02",
+      "release_quote": "War was theatrically released on 2 October 2019, with dubbed versions of Telugu and Tamil, coinciding with Gandhi Jayanti.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=War_%282019_film%29&oldid=1387570238",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Tiger Zinda Hai",
+       "confidence": "stated",
+       "quote": "It is the third installment in the YRF Spy Universe and set after the events of Ek Tha Tiger (2012) and Tiger Zinda Hai (2017)",
+       "source": "https://en.wikipedia.org/w/index.php?title=War_%282019_film%29&oldid=1387570238",
+       "precision": "relative",
+       "note": "Placement is stated; the year is not. The plot summary gives no year (the article's categories list 2017–2019). War 2 is set 'nearly six years' after War's events.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Released as a standalone film with no connection to the Tiger films; connected retroactively through Pathaan.",
+    "revid": 1387570238,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=War_%282019_film%29&oldid=1387570238"
+   },
+   {
+    "id": "pathaan",
+    "title": "Pathaan",
+    "type": "film",
+    "wiki_article": "Pathaan (film)",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-01-25",
+      "release_quote": "It was theatrically released in India on 25 January 2023, coinciding with the Republic Day weekend.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Pathaan_%28film%29&oldid=1387847405",
+      "in_universe": {
+       "year": 2022,
+       "year_end": null,
+       "label": "2022 (prologue 2019; flashback 2020)",
+       "confidence": "stated",
+       "quote": "In 2019, the Indian Government revokes Article 370 … 2022: Pathaan, a RAW agent, captures arms dealer Raafe in Africa. … 2020: Following his recovery from a mission in Myanmar, Pathaan and Nandini establish the Joint Operations and Covert Research (J.O.C.R.) unit … 2022: Pathaan reunites with Nandini",
+       "source": "https://en.wikipedia.org/w/index.php?title=Pathaan_%28film%29&oldid=1387847405",
+       "precision": "year",
+       "note": "Placement after War is also stated: \"set after the events of Ek Tha Tiger (2012), Tiger Zinda Hai (2017) and War (2019)\".",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "war-2019",
+      "kind": "shares-characters",
+      "note": "Colonel Luthra (Ashutosh Rana) returns from War; Jim is described as Kabir's former partner."
+     },
+     {
+      "to": "tiger-zinda-hai",
+      "kind": "crossover",
+      "note": "Salman Khan cameo as Tiger, who rescues Pathaan from a train; mid-credits scene with Pathaan and Tiger."
+     }
+    ],
+    "notes": "First film to establish crossovers between the strands.",
+    "revid": 1387847405,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Pathaan_%28film%29&oldid=1387847405"
+   },
+   {
+    "id": "tiger-3",
+    "title": "Tiger 3",
+    "type": "film",
+    "wiki_article": "Tiger 3",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-11-12",
+      "release_quote": "Tiger 3 was released on 12 November 2023 in standard, IMAX, 4DX and other premium formats, coinciding with Diwali.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Tiger_3&oldid=1388026116",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Pathaan (present day; flashbacks to 1999 and 2011)",
+       "confidence": "stated",
+       "quote": "a circumquel to Ek Tha Tiger (2012) and Tiger Zinda Hai (2017), it is set after the events of War (2019) and Pathaan",
+       "source": "https://en.wikipedia.org/w/index.php?title=Tiger_3&oldid=1388026116",
+       "precision": "relative",
+       "note": "Placement is stated. The main story is 'In the present day' with no year given. Flashbacks: 'In London, October 1999' and 'in 2011'.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "tiger-zinda-hai",
+      "kind": "continues",
+      "note": "Tiger sequel."
+     },
+     {
+      "to": "pathaan",
+      "kind": "crossover",
+      "note": "Shah Rukh Khan cameo as Pathaan, who helps Tiger escape a Pakistani military prison."
+     },
+     {
+      "to": "war-2019",
+      "kind": "crossover",
+      "note": "Post-credits scene: Luthra assigns Kabir (Hrithik Roshan) a mission, leading into War 2."
+     }
+    ],
+    "notes": "",
+    "revid": 1388026116,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Tiger_3&oldid=1388026116"
+   },
+   {
+    "id": "war-2",
+    "title": "War 2",
+    "type": "film",
+    "wiki_article": "War 2 (film)",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-08-14",
+      "release_quote": "War 2 was released on 14 August 2025, coinciding with the Indian Independence Day weekend to mixed-to-negative reviews from critics",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=War_2_%28film%29&oldid=1387769306",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Tiger 3 (nearly six years after War; flashback 1999)",
+       "confidence": "stated",
+       "quote": "it is the sixth installment in the YRF Spy Universe, circumquel to the 2019 film War and set after the events of Pathaan and Tiger 3 (both 2023). … Nearly six years after going rogue and eliminating Saurabh and Rizwan Ilyasi, Kabir works as a freelance mercenary",
+       "source": "https://en.wikipedia.org/w/index.php?title=War_2_%28film%29&oldid=1387769306",
+       "precision": "relative",
+       "note": "The present-day year is not stated in the plot. The article's categories list 'Films set in 2024', but no prose quote gives it, so the year is left null. A flashback is 'In 1999'.",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "war-2019",
+      "kind": "continues",
+      "note": "Sequel to War."
+     }
+    ],
+    "notes": "Post-credits scene introduces the Alpha programme.",
+    "revid": 1387769306,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=War_2_%28film%29&oldid=1387769306"
+   },
+   {
+    "id": "alpha-2026",
+    "title": "Alpha",
+    "type": "film",
+    "wiki_article": "Alpha (2026 film)",
+    "continuity": "yrf-spy",
+    "language": "Hindi",
+    "studio_or_developer": "Yash Raj Films",
+    "publisher": null,
+    "distributor": "Yash Raj Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2026-07-03",
+      "release_quote": "Alpha was released theatrically on 3 July 2026. … It was initially slated to release on 25 December 2025 … It was later postponed to 17 April 2026, due to post-production work on visual effects.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alpha_%282026_film%29&oldid=1388113676",
+      "in_universe": {
+       "year": 2026,
+       "year_end": null,
+       "label": "2026 (prologue 1999–2002)",
+       "confidence": "stated",
+       "quote": "Twenty-four years later, in 2026, Sita systematically assassinates the scientists and military officials associated with the Alpha program … led by Vikrant, who has succeeded his late friend Sunil Luthra as the agency's chief.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alpha_%282026_film%29&oldid=1388113676",
+       "precision": "year",
+       "note": "Placement is also stated in the lead: \"Set after the events of War 2 (2025)\".",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "war-2",
+      "kind": "continues",
+      "note": "Set after War 2; Vikrant Kaul is now R&AW chief; War 2 post-credits sets up the Alpha programme."
+     },
+     {
+      "to": "war-2019",
+      "kind": "shares-characters",
+      "note": "Hrithik Roshan has an extended cameo as Kabir."
+     }
+    ],
+    "notes": "The YRF Spy Universe article cites a Bollywood Hungama headline 'Alpha locks July 10, 2026', but both articles' prose and the Alpha infobox say 3 July 2026. 3 July is used (review citations are dated 3 July 2026).",
+    "revid": 1388113676,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alpha_%282026_film%29&oldid=1388113676"
+   }
+  ]
+ },
+ "lcu": {
+  "continuities": [
+   {
+    "id": "lcu-main",
+    "name": "Lokesh Cinematic Universe",
+    "description": "Shared universe of Tamil-language action thrillers created by Lokesh Kanagaraj. Years come from the universe article's Timeline section, which says no official timeline exists.",
+    "quote": "The first film in the universe was Kaithi (2019), followed by Vikram (2022) and Leo (2023). It is set to continue with Benz, the first LCU film not to be directed by Lokesh, and Kaithi 2. … An official timeline has not been released by the makers, but the films indicate this.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826"
+    ],
+    "ordered_only": false,
+    "notes": "Not included (unreleased as of 2026-11-27): Benz (status 'Filming', release TBA; the crew table header says 2027), Kaithi 2 ('Pre-production'; 'intended to be a prequel for Dilli'), and the short film Chapter Zero ('Post-Production', TBA). Vijay's retirement led to the cancellation of Leo 2."
+   }
+  ],
+  "titles": [
+   {
+    "id": "kaithi",
+    "title": "Kaithi",
+    "type": "film",
+    "wiki_article": "Kaithi (2019 film)",
+    "continuity": "lcu-main",
+    "language": "Tamil",
+    "studio_or_developer": "Dream Warrior Pictures / Vivekananda Pictures",
+    "publisher": null,
+    "distributor": "Dream Warrior Pictures",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2019-10-25",
+      "release_quote": "Kaithi was released on October 25, 2019, ahead of the Diwali festival.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Kaithi_%282019_film%29&oldid=1388182800",
+      "in_universe": {
+       "year": 2019,
+       "year_end": null,
+       "label": "2019 (one night)",
+       "confidence": "inferred",
+       "quote": "In the cinematic universe, the events in Kaithi unfold in the year 2019, followed by the events in Vikram, which transpire three months after the events in Kaithi. Subsequently, the events in Leo occur three years later in 2022.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826",
+       "precision": "year",
+       "note": "The universe article states the year, but adds: \"An official timeline has not been released by the makers, but the films indicate this.\" The Kaithi plot summary itself gives no year (the article is in the category 'Films set in 2019').",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Membership: \"Kaithi serves as the first instalment in the planned Lokesh Cinematic Universe (LCU). In June 2022, Lokesh stated that the film was interlinked with the Kamal Haasan-starrer Vikram (2022).\"",
+    "revid": 1388182800,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Kaithi_%282019_film%29&oldid=1388182800"
+   },
+   {
+    "id": "vikram-2022",
+    "title": "Vikram",
+    "type": "film",
+    "wiki_article": "Vikram (2022 film)",
+    "continuity": "lcu-main",
+    "language": "Tamil",
+    "studio_or_developer": "Raaj Kamal Films International / Turmeric Media",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-06-03",
+      "release_quote": "Vikram was released worldwide on 3 June 2022 to positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Vikram_%282022_film%29&oldid=1388009140",
+      "in_universe": {
+       "year": 2019,
+       "year_end": null,
+       "label": "2019, about three months after Kaithi (flashback 1991)",
+       "confidence": "inferred",
+       "quote": "In the cinematic universe, the events in Kaithi unfold in the year 2019, followed by the events in Vikram, which transpire three months after the events in Kaithi. Subsequently, the events in Leo occur three years later in 2022.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826",
+       "precision": "year",
+       "note": "The universe article says 'three months after'. Its own footnote in the Vikram section says: \"The murder happens a couple of months after the drug bust in Trichy, shown in Kaithi.\" The gap is approximate. The article has no official timeline (see the Kaithi note).",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "kaithi",
+      "kind": "continues",
+      "note": "Bejoy, Anbu, Adaikalam and Stephen Raj return; Dilli is voice-only; references the Trichy drug bust."
+     }
+    ],
+    "notes": "Membership: \"it is the second instalment in Lokesh Cinematic Universe. A spiritual successor to the 1986 film of the same name\". Cross-continuity: a spiritual successor to Vikram (1986), which is not part of the LCU here.",
+    "revid": 1388009140,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Vikram_%282022_film%29&oldid=1388009140"
+   },
+   {
+    "id": "leo-2023",
+    "title": "Leo",
+    "type": "film",
+    "wiki_article": "Leo (2023 Indian film)",
+    "continuity": "lcu-main",
+    "language": "Tamil",
+    "studio_or_developer": "Seven Screen Studio",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2023-10-19",
+      "release_quote": "Leo was released worldwide on 19 October 2023 in standard and IMAX formats to mixed-to-positive reviews from critics",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Leo_%282023_Indian_film%29&oldid=1388307538",
+      "in_universe": {
+       "year": 2022,
+       "year_end": null,
+       "label": "2022 (flashback 1999)",
+       "confidence": "inferred",
+       "quote": "In the cinematic universe, the events in Kaithi unfold in the year 2019, followed by the events in Vikram, which transpire three months after the events in Kaithi. Subsequently, the events in Leo occur three years later in 2022.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Lokesh_Cinematic_Universe&oldid=1388025826",
+       "precision": "year",
+       "note": "The year comes from the universe article, which says no official timeline exists. The Leo plot dates only its flashback ('In 1999'). It confirms Leo follows Kaithi: \"Napoleon, who has been promoted due to his heroics in Tiruchirappalli\".",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "kaithi",
+      "kind": "shares-characters",
+      "note": "George Maryan returns as Napoleon."
+     },
+     {
+      "to": "vikram-2022",
+      "kind": "crossover",
+      "note": "Kamal Haasan voice cameo as Agent Vikram, who calls Parthiban at the end."
+     }
+    ],
+    "notes": "Membership: \"Produced by Seven Screen Studio, it is the third instalment in the Lokesh Cinematic Universe.\"",
+    "revid": 1388307538,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Leo_%282023_Indian_film%29&oldid=1388307538"
+   }
+  ]
+ },
+ "cop-universe": {
+  "continuities": [
+   {
+    "id": "cop-main",
+    "name": "Rohit Shetty's Cop Universe",
+    "description": "Rohit Shetty's shared universe of Hindi-language police action films and one Prime Video series. No in-universe years are sourced. The order comes from plot cross-references in the Wikipedia plot summaries.",
+    "quote": "Rohit Shetty's Cop Universe is an Indian media franchise and shared universe created by Rohit Shetty. Previously known simply as the Cop Universe, It consists of media focusing on police officers. The franchise includes films, animated series, video games and television series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Rohit_Shetty%27s_Cop_Universe&oldid=1388183561"
+    ],
+    "ordered_only": true,
+    "notes": "The animated series (Little Singham, Smashing Simmba, Baby Little Singham) and the video games are listed in the franchise infobox but are out of scope. The article says 'Simmba 2 is confirmed to be next installment', but it has no release date."
+   }
+  ],
+  "titles": [
+   {
+    "id": "singham",
+    "title": "Singham",
+    "type": "film",
+    "wiki_article": "Singham",
+    "continuity": "cop-main",
+    "language": "Hindi",
+    "studio_or_developer": "Reliance Entertainment",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-07-22",
+      "release_quote": "It was theatrically released in India on 22 July 2011 with generally positive reviews from the critics",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Singham&oldid=1388001260",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "first (Bajirao Singham as Inspector in Shivgad/Goa)",
+       "confidence": "inferred",
+       "quote": "The first two films, Singham (2011) and Singham Returns (2014) focus on Bajirao Singham, a law-abiding DCP from Shivgarh who fights for justice.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rohit_Shetty%27s_Cop_Universe&oldid=1388183561",
+       "precision": "relative",
+       "note": "No year is sourced. It is placed first as the origin film, before Singham Returns, where Singham is \"now a DCP\".",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Hindi remake of the Tamil film Singam (2010).",
+    "revid": 1388001260,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Singham&oldid=1388001260"
+   },
+   {
+    "id": "singham-returns",
+    "title": "Singham Returns",
+    "type": "film",
+    "wiki_article": "Singham Returns",
+    "continuity": "cop-main",
+    "language": "Hindi",
+    "studio_or_developer": "Reliance Entertainment / Ajay Devgn FFilms / Rohit Shetty Picturez",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-08-15",
+      "release_quote": "The film was released theatrically worldwide on 15 August 2014, during India's Independence Day.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Singham_Returns&oldid=1388001268",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Singham",
+       "confidence": "inferred",
+       "quote": "Bajirao Singham, who is now a DCP, gets transferred to Mumbai",
+       "source": "https://en.wikipedia.org/w/index.php?title=Singham_Returns&oldid=1388001268",
+       "precision": "relative",
+       "note": "Sequel. The order is inferred from the promotion (\"now a DCP\"). No year is sourced.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "singham",
+      "kind": "continues",
+      "note": "Sequel."
+     }
+    ],
+    "notes": "",
+    "revid": 1388001268,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Singham_Returns&oldid=1388001268"
+   },
+   {
+    "id": "simmba",
+    "title": "Simmba",
+    "type": "film",
+    "wiki_article": "Simmba",
+    "continuity": "cop-main",
+    "language": "Hindi",
+    "studio_or_developer": "Reliance Entertainment / Dharma Productions / Rohit Shetty Picturez",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-12-28",
+      "release_quote": "Simmba was released in countries of the Gulf Cooperation Council on 27 December 2018. The film was released in India and other international territories on the following day",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Simmba&oldid=1388001255",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Singham Returns; before Sooryavanshi",
+       "confidence": "inferred",
+       "quote": "Suddenly, DCP Bajirao Singham arrives to rescue him … in a post-credits scene, he chats with DCP Veer Sooryavanshi on the phone. and also congratulates him on his new post as the ATS chief.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Simmba&oldid=1388001255",
+       "precision": "relative",
+       "note": "Singham appears as a DCP (his rank from Singham Returns). The post-credits scene sets up Sooryavanshi. No year is sourced.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "singham-returns",
+      "kind": "crossover",
+      "note": "Ajay Devgn cameo as DCP Bajirao Singham."
+     },
+     {
+      "to": "sooryavanshi",
+      "kind": "crossover",
+      "note": "Akshay Kumar cameo as Veer Sooryavanshi (post-credits)."
+     }
+    ],
+    "notes": "Release date uses India (28 Dec 2018). The GCC release was on 27 Dec 2018. It is a remake of the Telugu film Temper (2015).",
+    "revid": 1388001255,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Simmba&oldid=1388001255"
+   },
+   {
+    "id": "sooryavanshi",
+    "title": "Sooryavanshi",
+    "type": "film",
+    "wiki_article": "Sooryavanshi",
+    "continuity": "cop-main",
+    "language": "Hindi",
+    "studio_or_developer": "Rohit Shetty Picturez / Reliance Entertainment / Dharma Productions / Cape of Good Films",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2021-11-05",
+      "release_quote": "After several delays, it finally released theatrically on 5 November 2021 coinciding with Diwali.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Sooryavanshi&oldid=1388001286",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Simmba (backstory from 1993)",
+       "confidence": "inferred",
+       "quote": "Simmba tells Surya that 7 bombs are to be planted at 7 locations in Mumbai. … Surya's friend DCP Bajirao Singham arrives and they defuse the bomb",
+       "source": "https://en.wikipedia.org/w/index.php?title=Sooryavanshi&oldid=1388001286",
+       "precision": "relative",
+       "note": "Follows Simmba's post-credits setup (Sooryavanshi's new ATS post). The present-day year is not stated; the plot opens 'During the 1993 Mumbai blasts'.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "simmba",
+      "kind": "crossover",
+      "note": "Ranveer Singh as Simmba."
+     },
+     {
+      "to": "singham",
+      "kind": "crossover",
+      "note": "Ajay Devgn as Singham joins the climax."
+     }
+    ],
+    "notes": "",
+    "revid": 1388001286,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Sooryavanshi&oldid=1388001286"
+   },
+   {
+    "id": "indian-police-force",
+    "title": "Indian Police Force",
+    "type": "series",
+    "wiki_article": "Indian Police Force (TV series)",
+    "continuity": "cop-main",
+    "language": "Hindi",
+    "studio_or_developer": "Rohit Shetty Picturez / Reliance Entertainment",
+    "publisher": null,
+    "distributor": null,
+    "platform": "prime-video",
+    "platforms": [
+     "prime-video"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 7,
+      "release_date": "2024-01-19",
+      "release_end": "2024-01-19",
+      "release_quote": "The series premiered on Amazon Prime Video on January 19, 2024 and has seven episodes.",
+      "release_source": [
+       "https://en.wikipedia.org/w/index.php?title=Rohit_Shetty%27s_Cop_Universe&oldid=1388183561",
+       "https://en.wikipedia.org/w/index.php?title=Indian_Police_Force_%28TV_series%29&oldid=1387996311"
+      ],
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "unplaced (no source links it to the films)",
+       "confidence": "inferred",
+       "quote": "Set in the Cop Universe, it is produced by Shetty under the banner of Rohit Shetty Picturez and Reliance Entertainment.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Indian_Police_Force_%28TV_series%29&oldid=1387996311",
+       "precision": "relative",
+       "note": "Membership is stated in the article lead and in the universe article's 'Television series' table. No source places it relative to the films, and it shares no characters with them in the cast tables. order_index uses release order (January 2024, between Sooryavanshi and Singham Again) only so the index is complete. This placement is a default, not a sourced fact.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [],
+    "notes": "All 7 episodes have OriginalAirDate 19 January 2024 in the episode table. num_seasons = 1.",
+    "revid": 1387996311,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Indian_Police_Force_%28TV_series%29&oldid=1387996311"
+   },
+   {
+    "id": "singham-again",
+    "title": "Singham Again",
+    "type": "film",
+    "wiki_article": "Singham Again",
+    "continuity": "cop-main",
+    "language": "Hindi",
+    "studio_or_developer": "Rohit Shetty Picturez / Jio Studios / Devgn Films / Reliance Entertainment",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-11-01",
+      "release_quote": "Singham Again was released on 1 November 2024, coinciding with Diwali, in standard and IMAX formats.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Singham_Again&oldid=1388070037",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Sooryavanshi (main story two years after the opening)",
+       "confidence": "inferred",
+       "quote": "he is attacked by the Chief of Lashkar, Omar Hafeez, who had fled from Pakistan to Sri Lanka and started selling drugs after his late sons, Riyaaz and Raza's plans were thwarted. [note: As shown in Sooryavanshi (2021)] … Two years later, Avni is hosting a theatre production of Ramlila",
+       "source": "https://en.wikipedia.org/w/index.php?title=Singham_Again&oldid=1388070037",
+       "precision": "relative",
+       "note": "Placed after Sooryavanshi through the explicit \"As shown in Sooryavanshi\" note. No year is sourced.",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "singham-returns",
+      "kind": "continues",
+      "note": "Sequel to Singham and Singham Returns (Avni returns)."
+     },
+     {
+      "to": "sooryavanshi",
+      "kind": "crossover",
+      "note": "Sooryavanshi and Omar Hafeez return."
+     },
+     {
+      "to": "simmba",
+      "kind": "crossover",
+      "note": "Simmba (Ranveer Singh) appears."
+     }
+    ],
+    "notes": "Membership: \"A sequel to Singham (2011) and Singham Returns (2014), it is the fifth installment of Shetty's Cop Universe franchise.\" Post-credits cameo: Salman Khan as Chulbul Pandey (Dabangg). That is a cross-franchise cameo, so no link is recorded.",
+    "revid": 1388070037,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Singham_Again&oldid=1388070037"
+   }
+  ]
+ },
+ "maddock-horror-comedy": {
+  "continuities": [
+   {
+    "id": "mhcu-main",
+    "name": "Maddock Horror Comedy Universe",
+    "description": "Maddock Films' shared universe of Hindi horror comedies based on Indian folklore. No in-universe years are sourced for the present-day stories. Order comes from cross-film references in the plot summaries.",
+    "quote": "The universe-building began with Bhediya, in which characters from Stree appeared. This was followed by Munjya, where characters from Bhediya and Stree appeared. Stree 2 continued by featuring characters from Bhediya. Thamma features cameos from Bhediya, Stree, Munjya, and Stree 2, making Thamma the central link connecting all five films.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Maddock_Horror_Comedy_Universe&oldid=1388026456"
+    ],
+    "ordered_only": true,
+    "notes": "Excluded: Roohi (2021) — \"removed from the official canon\" per the universe article. Not included as unreleased by 2026-11-27: Shakti Shalini (post-production; \"postponed to March 2027\"), Chhoti Stree (\"Feb/June 2028\"; an animated prequel to Stree), Stree 3, Chamunda, Bhediya 2, Maha Munjya, Pehla Mahayudh, Doosra Mahayudh, and the Thamma spin-off."
+   }
+  ],
+  "titles": [
+   {
+    "id": "stree",
+    "title": "Stree",
+    "type": "film",
+    "wiki_article": "Stree (2018 film)",
+    "continuity": "mhcu-main",
+    "language": "Hindi",
+    "studio_or_developer": "Jio Studios / Maddock Films / D2R Films",
+    "publisher": null,
+    "distributor": "AA Films",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-08-31",
+      "release_quote": "Stree was theatrically released worldwide on 31 August 2018 and received positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Stree_%282018_film%29&oldid=1382031890",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "first (epilogue a year later)",
+       "confidence": "inferred",
+       "quote": "After Stree ceases haunting Chanderi, a headless demon named Sarkata emerges and abducts an unaccompanied woman. A few years later, the townsfolk of Chanderi worship Stree",
+       "source": "https://en.wikipedia.org/w/index.php?title=Stree_2&oldid=1387758089",
+       "precision": "relative",
+       "note": "No year is sourced. Stree 2 is set 'a few years' after Stree, and Bhediya's post-credits scene shows Vicky and Bittu 'asking for his assistance in finding Stree'.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Full title \"Stree: Mard Ko Dard Hoga\". Originally produced with Raj & DK.",
+    "revid": 1382031890,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Stree_%282018_film%29&oldid=1382031890"
+   },
+   {
+    "id": "bhediya",
+    "title": "Bhediya",
+    "type": "film",
+    "wiki_article": "Bhediya",
+    "continuity": "mhcu-main",
+    "language": "Hindi",
+    "studio_or_developer": "Maddock Films / Jio Studios",
+    "publisher": null,
+    "distributor": "Pen Marudhar Entertainment (Hindi)",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-11-25",
+      "release_quote": "Bhediya was theatrically released on 25 November 2022, garnering positive reviews.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Bhediya&oldid=1388269001",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Stree; before Stree 2",
+       "confidence": "inferred",
+       "quote": "In the post-credits scene, as Jana chains Bhaskar up to contain his transformations, his friends Vicky and Bittu pay him a visit and plead with him to return home, seeking his help with a new issue and asking for his assistance in finding Stree.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Bhediya&oldid=1388269001",
+       "precision": "relative",
+       "note": "Stree 2 picks this scene up: Vicky and Bittu \"meet Jana … at the residence of his werewolf cousin Bhaskar, and convince him to return home\" (footnote: As depicted in Bhediya).",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "stree",
+      "kind": "crossover",
+      "note": "Cameos by Rajkummar Rao, Shraddha Kapoor and Aparshakti Khurana; Abhishek Banerjee as Jana."
+     }
+    ],
+    "notes": "Full title \"Bhediya: Jungle Mein Kaand\".",
+    "revid": 1388269001,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Bhediya&oldid=1388269001"
+   },
+   {
+    "id": "munjya",
+    "title": "Munjya",
+    "type": "film",
+    "wiki_article": "Munjya (film)",
+    "continuity": "mhcu-main",
+    "language": "Hindi",
+    "studio_or_developer": "Maddock Films",
+    "publisher": null,
+    "distributor": "Pen Marudhar",
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-06-07",
+      "release_quote": "Munjya was theatrically released worldwide on 7 June 2024, garnering mixed-to-positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Munjya_%28film%29&oldid=1388036008",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "present day (prologue 1952); post-credits after Stree 2",
+       "confidence": "inferred",
+       "quote": "In 1952, in a village in Konkan, a boy named Gotya is obsessed with Munni … In present-day Pune, timid young Bittu works at his mother Pammi's beauty salon … In the post-credits scene, Bhaskar is seen stranded naked in the forest. Jana brings him clothes",
+       "source": "https://en.wikipedia.org/w/index.php?title=Munjya_%28film%29&oldid=1388036008",
+       "precision": "relative",
+       "note": "No source places the main story relative to Stree 2, so release order is used. The post-credits scene is the same moment as Stree 2's post-credits (\"following his fight with Sarkata, Bhaskar finds himself stranded naked in a jungle. Jana brings him clothes [As depicted in Munjya]\"). That tag therefore falls after Stree 2's climax. The 1952 prologue is stated but is not the main setting.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "bhediya",
+      "kind": "crossover",
+      "note": "Post-credits cameo by Varun Dhawan (Bhaskar) and Abhishek Banerjee (Jana)."
+     },
+     {
+      "to": "stree-2",
+      "kind": "shares-characters",
+      "note": "Post-credits scene is the same scene as in Stree 2's post-credits."
+     }
+    ],
+    "notes": "",
+    "revid": 1388036008,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Munjya_%28film%29&oldid=1388036008"
+   },
+   {
+    "id": "stree-2",
+    "title": "Stree 2",
+    "type": "film",
+    "wiki_article": "Stree 2",
+    "continuity": "mhcu-main",
+    "language": "Hindi",
+    "studio_or_developer": "Maddock Films / Jio Studios",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-08-15",
+      "release_quote": "Stree 2 was theatrically released worldwide on 15 August 2024, coinciding with Independence Day, and received positive reviews from critics.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Stree_2&oldid=1387758089",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "a few years after Stree",
+       "confidence": "inferred",
+       "quote": "After Stree ceases haunting Chanderi, a headless demon named Sarkata emerges and abducts an unaccompanied woman. A few years later, the townsfolk of Chanderi worship Stree",
+       "source": "https://en.wikipedia.org/w/index.php?title=Stree_2&oldid=1387758089",
+       "precision": "relative",
+       "note": "It follows the Bhediya post-credits setup, with a footnote saying \"As depicted in Bhediya\". The universe article calls it the \"fourth installment and direct sequel to Stree\".",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "stree",
+      "kind": "continues",
+      "note": "Direct sequel."
+     },
+     {
+      "to": "bhediya",
+      "kind": "crossover",
+      "note": "Bhaskar (Varun Dhawan) joins the fight against Sarkata."
+     },
+     {
+      "to": "thamma",
+      "kind": "shares-characters",
+      "note": "Post-credits scene teases the vampire in Delhi (Thamma)."
+     }
+    ],
+    "notes": "Full title \"Stree 2: Sarkate Ka Aatank\".",
+    "revid": 1387758089,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Stree_2&oldid=1387758089"
+   },
+   {
+    "id": "thamma",
+    "title": "Thamma",
+    "type": "film",
+    "wiki_article": "Thamma",
+    "continuity": "mhcu-main",
+    "language": "Hindi",
+    "studio_or_developer": "Maddock Films",
+    "publisher": null,
+    "distributor": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-10-21",
+      "release_quote": "Thamma was theatrically released on 21 October 2025, coinciding with Diwali, in standard, IMAX, 4DX and D-Box formats.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Thamma&oldid=1381082962",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Stree 2",
+       "confidence": "inferred",
+       "quote": "Janardhan \"Jana\" is also with Prabhakar, seeking help for his werewolf cousin Bhaskar, who was severely injured during the fight with Sarkata, a headless monster. [note: As depicted in Stree 2]",
+       "source": "https://en.wikipedia.org/w/index.php?title=Thamma&oldid=1381082962",
+       "precision": "relative",
+       "note": "No year is sourced. The universe article calls Thamma \"the fifth installment\".",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "stree-2",
+      "kind": "continues",
+      "note": "Picks up Bhaskar's injury from the Sarkata fight."
+     },
+     {
+      "to": "bhediya",
+      "kind": "crossover",
+      "note": "Bhaskar fights Alok."
+     },
+     {
+      "to": "munjya",
+      "kind": "shares-characters",
+      "note": "Elvis Karim Prabhakar (Sathyaraj) cameo."
+     }
+    ],
+    "notes": "",
+    "revid": 1381082962,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Thamma&oldid=1381082962"
+   }
+  ]
+ },
+ "_ranks": {
+  "yrf-spy-universe": [
+   "ek-tha-tiger:film",
+   "tiger-zinda-hai:film",
+   "war-2019:film",
+   "pathaan:film",
+   "tiger-3:film",
+   "war-2:film",
+   "alpha-2026:film"
+  ],
+  "lcu": [
+   "kaithi:film",
+   "vikram-2022:film",
+   "leo-2023:film"
+  ],
+  "cop-universe": [
+   "singham:film",
+   "singham-returns:film",
+   "simmba:film",
+   "sooryavanshi:film",
+   "indian-police-force:s1",
+   "singham-again:film"
+  ],
+  "maddock-horror-comedy": [
+   "stree:film",
+   "bhediya:film",
+   "munjya:film",
+   "stree-2:film",
+   "thamma:film"
+  ]
+ }
+}

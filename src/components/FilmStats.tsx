@@ -27,7 +27,7 @@ function Amount({ m, extra, cite }: { m: Money; extra?: string; cite: (url: stri
 
 function Row({ k, children }: { k: string; children: ReactNode }) {
   return (
-    <div className="grid grid-cols-[9rem_1fr] gap-2 py-1.5 text-sm">
+    <div className="grid grid-cols-1 gap-0.5 py-1.5 text-sm sm:grid-cols-[9rem_1fr] sm:gap-2">
       <dt className="text-muted-foreground">{k}</dt>
       <dd className="min-w-0 [overflow-wrap:anywhere]">{children}</dd>
     </div>

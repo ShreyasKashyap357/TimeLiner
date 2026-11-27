@@ -256,3 +256,14 @@ test('game drawer: releases by platform, no tooltip popping up on open, no overf
   expect(over).toBeLessThanOrEqual(0);
 
 });
+
+test('film drawer: runtime, budget and box office, cited, no overflow', async ({ page }) => {
+  await page.goto('/?u=marvel&c=mcu&unit=avengers-endgame');
+  const d = page.getByRole('dialog');
+  await expect(d).toBeVisible({ timeout: 20000 });
+  await expect(d).toContainText('Box office');
+  await expect(page.getByRole('tooltip')).toHaveCount(0);
+  await d.getByText('Box office').scrollIntoViewIfNeeded();
+  expect(await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)).toBeLessThanOrEqual(0);
+
+});

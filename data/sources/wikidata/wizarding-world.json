@@ -1,0 +1,920 @@
+{
+  "fetched_at": "2026-11-27T12:24:15.134Z",
+  "license": "CC0",
+  "facts": [
+    {
+      "enwiki": "Harry Potter and the Philosopher's Stone",
+      "qid": "Q43361",
+      "label": "Harry Potter and the Philosopher's Stone",
+      "publication_dates": [
+        {
+          "date": "1997-06-30",
+          "precision": 11,
+          "place": [
+            "Q145"
+          ]
+        },
+        {
+          "date": "1998-09-01",
+          "precision": 11,
+          "place": [
+            "Q30"
+          ]
+        },
+        {
+          "date": "1997-06-26",
+          "precision": 11,
+          "place": [
+            "Q145"
+          ]
+        },
+        {
+          "date": "1999-12-08",
+          "precision": 11,
+          "place": [
+            "Q17"
+          ]
+        },
+        {
+          "date": "1998-09-28",
+          "precision": 11,
+          "place": [
+            "Q33"
+          ]
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Chamber of Secrets",
+      "qid": "Q47209",
+      "label": "Harry Potter and the Chamber of Secrets",
+      "publication_dates": [
+        {
+          "date": "1998",
+          "precision": 9,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Prisoner of Azkaban",
+      "qid": "Q47598",
+      "label": "Harry Potter and the Prisoner of Azkaban",
+      "publication_dates": [
+        {
+          "date": "1999-07",
+          "precision": 10,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Goblet of Fire",
+      "qid": "Q46751",
+      "label": "Harry Potter and the Goblet of Fire",
+      "publication_dates": [
+        {
+          "date": "2000-07-08",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Order of the Phoenix",
+      "qid": "Q80817",
+      "label": "Harry Potter and the Order of the Phoenix",
+      "publication_dates": [
+        {
+          "date": "2003-06-21",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Half-Blood Prince",
+      "qid": "Q46887",
+      "label": "Harry Potter and the Half-Blood Prince",
+      "publication_dates": [
+        {
+          "date": "2005-07-16",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2005",
+          "precision": 9,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Deathly Hallows",
+      "qid": "Q46758",
+      "label": "Harry Potter and the Deathly Hallows",
+      "publication_dates": [],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Fantastic Beasts and Where to Find Them (book)",
+      "qid": "Q194424",
+      "label": "Fantastic Beasts and Where to Find Them",
+      "publication_dates": [
+        {
+          "date": "2001",
+          "precision": 9,
+          "place": []
+        },
+        {
+          "date": "2001-12-01",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Quidditch Through the Ages",
+      "qid": "Q192258",
+      "label": "Quidditch Through the Ages",
+      "publication_dates": [
+        {
+          "date": "2001-03-12",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2001",
+          "precision": 9,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": 56
+    },
+    {
+      "enwiki": "The Tales of Beedle the Bard",
+      "qid": "Q165068",
+      "label": "The Tales of Beedle the Bard",
+      "publication_dates": [
+        {
+          "date": "2008-12-04",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Hogwarts: An Incomplete and Unreliable Guide",
+      "qid": "Q26805850",
+      "label": "Hogwarts: An Incomplete and Unreliable Guide",
+      "publication_dates": [
+        {
+          "date": "2016-09-06",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies",
+      "qid": "Q26805878",
+      "label": "Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies",
+      "publication_dates": [
+        {
+          "date": "2016-09-06",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists",
+      "qid": "Q26805866",
+      "label": "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists",
+      "publication_dates": [
+        {
+          "date": "2016-09-06",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Cursed Child",
+      "qid": "Q20711488",
+      "label": "Harry Potter and the Cursed Child",
+      "publication_dates": [
+        {
+          "date": "2016-07-31",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": null,
+      "imdb": null,
+      "pages": 352
+    },
+    {
+      "enwiki": "Harry Potter and the Philosopher's Stone (film)",
+      "qid": "Q102438",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2001-11-16",
+          "precision": 11,
+          "place": [
+            "Q30",
+            "Q16",
+            "Q145",
+            "Q27",
+            "Q233",
+            "Q865"
+          ]
+        },
+        {
+          "date": "2001-12-05",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2001-11-04",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2001-11-22",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2001-11-30",
+          "precision": 11,
+          "place": [
+            "Q29"
+          ]
+        },
+        {
+          "date": "2018-09-12",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2002-02-14",
+          "precision": 11,
+          "place": [
+            "Q213"
+          ]
+        }
+      ],
+      "duration_min": 152,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "671",
+      "tmdb_tv": null,
+      "imdb": "tt0241527",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Chamber of Secrets (film)",
+      "qid": "Q102244",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2002-11-03",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2002-11-14",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2002-12-04",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2003-02-26",
+          "precision": 11,
+          "place": [
+            "Q717"
+          ]
+        },
+        {
+          "date": "2002-11-15",
+          "precision": 11,
+          "place": [
+            "Q30",
+            "Q145"
+          ]
+        },
+        {
+          "date": "2002-11-22",
+          "precision": 11,
+          "place": [
+            "Q155",
+            "Q298",
+            "Q739"
+          ]
+        },
+        {
+          "date": "2002-11-23",
+          "precision": 11,
+          "place": [
+            "Q17"
+          ]
+        },
+        {
+          "date": "2002-11-28",
+          "precision": 11,
+          "place": [
+            "Q414",
+            "Q408"
+          ]
+        },
+        {
+          "date": "2002-11-29",
+          "precision": 11,
+          "place": [
+            "Q29",
+            "Q96",
+            "Q45"
+          ]
+        }
+      ],
+      "duration_min": 161,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "672",
+      "tmdb_tv": null,
+      "imdb": "tt0295297",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Prisoner of Azkaban (film)",
+      "qid": "Q102448",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2004-05-31",
+          "precision": 11,
+          "place": [
+            "Q145",
+            "Q753437"
+          ]
+        },
+        {
+          "date": "2004-06-03",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2004-06-02",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2004-06-04",
+          "precision": 11,
+          "place": [
+            "Q30",
+            "Q155"
+          ]
+        },
+        {
+          "date": "2004-07-29",
+          "precision": 11,
+          "place": [
+            "Q45"
+          ]
+        },
+        {
+          "date": "2004-06-10",
+          "precision": 11,
+          "place": [
+            "Q408"
+          ]
+        },
+        {
+          "date": "2022-08-18",
+          "precision": 11,
+          "place": [
+            "Q851"
+          ]
+        }
+      ],
+      "duration_min": 141,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "673",
+      "tmdb_tv": null,
+      "imdb": "tt0304141",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Goblet of Fire (film)",
+      "qid": "Q102225",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2005-11-06",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2005-11-16",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2005-11-30",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2005-11-18",
+          "precision": 11,
+          "place": [
+            "Q30",
+            "Q145",
+            "Q16",
+            "Q27",
+            "Q668",
+            "Q96"
+          ]
+        },
+        {
+          "date": "2022-11-03",
+          "precision": 11,
+          "place": [
+            "Q851"
+          ]
+        }
+      ],
+      "duration_min": 151,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "674",
+      "tmdb_tv": null,
+      "imdb": "tt0330373",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Order of the Phoenix (film)",
+      "qid": "Q102235",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2007-06-28",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2007-07-11",
+          "precision": 11,
+          "place": [
+            "Q183",
+            "Q142",
+            "Q30",
+            "Q16"
+          ]
+        },
+        {
+          "date": "2007-07-12",
+          "precision": 11,
+          "place": [
+            "Q145",
+            "Q28"
+          ]
+        },
+        {
+          "date": "2007-07-20",
+          "precision": 11,
+          "place": [
+            "Q218"
+          ]
+        }
+      ],
+      "duration_min": 133,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "675",
+      "tmdb_tv": null,
+      "imdb": "tt0373889",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Half-Blood Prince (film)",
+      "qid": "Q161687",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2009-07-16",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2009-07-23",
+          "precision": 11,
+          "place": [
+            "Q28"
+          ]
+        },
+        {
+          "date": "2009-07-15",
+          "precision": 11,
+          "place": [
+            "Q30",
+            "Q145"
+          ]
+        },
+        {
+          "date": "2009-07-06",
+          "precision": 11,
+          "place": [
+            "Q1490"
+          ]
+        },
+        {
+          "date": "2009-07-15",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        }
+      ],
+      "duration_min": 147,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "767",
+      "tmdb_tv": null,
+      "imdb": "tt0417741",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Deathly Hallows – Part 1",
+      "qid": "Q161678",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2010-11-11",
+          "precision": 11,
+          "place": []
+        },
+        {
+          "date": "2010-11-18",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2010-11-25",
+          "precision": 11,
+          "place": [
+            "Q28"
+          ]
+        },
+        {
+          "date": "2010-11-24",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2010-11-19",
+          "precision": 11,
+          "place": [
+            "Q30",
+            "Q16",
+            "Q145"
+          ]
+        }
+      ],
+      "duration_min": 147,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "12444",
+      "tmdb_tv": null,
+      "imdb": "tt0926084",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter and the Deathly Hallows – Part 2",
+      "qid": "Q232009",
+      "label": null,
+      "publication_dates": [
+        {
+          "date": "2011-07-15",
+          "precision": 11,
+          "place": [
+            "Q30"
+          ]
+        },
+        {
+          "date": "2011-07-13",
+          "precision": 11,
+          "place": [
+            "Q183",
+            "Q142"
+          ]
+        }
+      ],
+      "duration_min": 130,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "12445",
+      "tmdb_tv": null,
+      "imdb": "tt1201607",
+      "pages": null
+    },
+    {
+      "enwiki": "Fantastic Beasts and Where to Find Them (film)",
+      "qid": "Q18199330",
+      "label": "Fantastic Beasts and Where to Find Them",
+      "publication_dates": [
+        {
+          "date": "2016-11-17",
+          "precision": 11,
+          "place": [
+            "Q183",
+            "Q28"
+          ]
+        },
+        {
+          "date": "2016-11-18",
+          "precision": 11,
+          "place": [
+            "Q30"
+          ]
+        },
+        {
+          "date": "2016-11-16",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        }
+      ],
+      "duration_min": 133,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "259316",
+      "tmdb_tv": null,
+      "imdb": "tt3183660",
+      "pages": null
+    },
+    {
+      "enwiki": "Fantastic Beasts: The Crimes of Grindelwald",
+      "qid": "Q18199331",
+      "label": "Fantastic Beasts: The Crimes of Grindelwald",
+      "publication_dates": [
+        {
+          "date": "2018-11-15",
+          "precision": 11,
+          "place": [
+            "Q183",
+            "Q38",
+            "Q159",
+            "Q155",
+            "Q45",
+            "Q28"
+          ]
+        },
+        {
+          "date": "2018-11-16",
+          "precision": 11,
+          "place": [
+            "Q145",
+            "Q30",
+            "Q43"
+          ]
+        },
+        {
+          "date": "2018-11-14",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        }
+      ],
+      "duration_min": 134,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "338952",
+      "tmdb_tv": null,
+      "imdb": "tt4123430",
+      "pages": null
+    },
+    {
+      "enwiki": "Fantastic Beasts: The Secrets of Dumbledore",
+      "qid": "Q18199332",
+      "label": "Fantastic Beasts: The Secrets of Dumbledore",
+      "publication_dates": [
+        {
+          "date": "2022-04-15",
+          "precision": 11,
+          "place": [
+            "Q30"
+          ]
+        },
+        {
+          "date": "2022-04-08",
+          "precision": 11,
+          "place": [
+            "Q145"
+          ]
+        },
+        {
+          "date": "2022-04-07",
+          "precision": 11,
+          "place": [
+            "Q183"
+          ]
+        },
+        {
+          "date": "2022-04-13",
+          "precision": 11,
+          "place": [
+            "Q142"
+          ]
+        },
+        {
+          "date": "2022-04-14",
+          "precision": 11,
+          "place": [
+            "Q28"
+          ]
+        },
+        {
+          "date": "2022-04-28",
+          "precision": 11,
+          "place": [
+            "Q796"
+          ]
+        },
+        {
+          "date": "2022-04-30",
+          "precision": 11,
+          "place": [
+            "Q878"
+          ]
+        }
+      ],
+      "duration_min": 142,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "338953",
+      "tmdb_tv": null,
+      "imdb": "tt4123432",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter (TV series)",
+      "qid": "Q117662601",
+      "label": "Harry Potter",
+      "publication_dates": [],
+      "duration_min": null,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": null,
+      "tmdb_tv": "224377",
+      "imdb": "tt13918446",
+      "pages": null
+    },
+    {
+      "enwiki": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "qid": "Q110207138",
+      "label": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "publication_dates": [
+        {
+          "date": "2022-01-01",
+          "precision": 11,
+          "place": []
+        }
+      ],
+      "duration_min": 120,
+      "episodes": null,
+      "seasons": null,
+      "tmdb_movie": "899082",
+      "tmdb_tv": null,
+      "imdb": "tt16116174",
+      "pages": null
+    }
+  ]
+}

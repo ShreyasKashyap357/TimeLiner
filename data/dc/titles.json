@@ -64443,5 +64443,439 @@
       }
     ],
     "constituents": []
+  },
+  {
+    "id": "batman-unburied",
+    "title": "Batman Unburied",
+    "sort_title": null,
+    "type": "podcast",
+    "universe": "dc",
+    "continuity": "batman-unburied",
+    "studio_brand": "warner-bros-animation",
+    "label": null,
+    "platform_or_network": "spotify",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386146128",
+      "https://en.wikipedia.org/wiki/Batman_Unburied"
+    ],
+    "notes": "Infobox: 2 seasons, 18 episodes in total; per-season counts are not given. The Riddler spin-off could be its own title in this continuity. Localized versions for eight other countries are a note, not units. Where: Spotify.",
+    "units": [
+      {
+        "id": "batman-unburied-season-1",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-05-03",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: After the debut of the first two episodes on May 3, 2022, the series topped Spotify's charts"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386146128",
+          "https://en.wikipedia.org/wiki/Batman_Unburied"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "batman-unburied-the-riddler-secrets-in-the-dark",
+        "label": "The Riddler: Secrets in the Dark (spin-off)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-10-10",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: A spin-off of Batman: Unburied, entitled The Riddler: Secrets in the Dark, premiered on October 10, 2023."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386146128",
+          "https://en.wikipedia.org/wiki/Batman_Unburied"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "batman-unburied-season-2-fallen-city",
+        "label": "Season 2: Fallen City",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-11-26",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: The second season \"Fallen City\", released on November 26, 2024."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386146128",
+          "https://en.wikipedia.org/wiki/Batman_Unburied"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "harley-quinn-and-the-joker-sound-mind",
+    "title": "Harley Quinn and The Joker: Sound Mind",
+    "sort_title": null,
+    "type": "podcast",
+    "universe": "dc",
+    "continuity": "harley-quinn-sound-mind",
+    "studio_brand": "warner-bros-animation",
+    "label": null,
+    "platform_or_network": "spotify",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1345914488",
+      "https://en.wikipedia.org/wiki/Harley_Quinn_and_The_Joker:_Sound_Mind"
+    ],
+    "notes": "Optional sibling of Batman Unburied in the DC/Spotify slate. No source says whether it shares Unburied's continuity. Where: Spotify.",
+    "units": [
+      {
+        "id": "harley-quinn-and-the-joker-sound-mind",
+        "label": "Sound Mind (7 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 7,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-01-31",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Episode table: all 7 episodes share one cell, 'January 31, 2023'; infobox num_episodes = 7"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1345914488",
+          "https://en.wikipedia.org/wiki/Harley_Quinn_and_The_Joker:_Sound_Mind"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-sandman-audible",
+    "title": "The Sandman (audio drama)",
+    "sort_title": null,
+    "type": "audio-drama",
+    "universe": "dc",
+    "continuity": "sandman-audible",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "audible",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1364423228",
+      "https://en.wikipedia.org/wiki/The_Sandman_(audio_drama)"
+    ],
+    "notes": "Each act was released all at once. Acts IV and V were 'currently in production' on 10 Aug 2023, and the article lists no release. The Netflix series ('the-sandman') is a sibling adaptation of the same comics, so link it with shares-characters, not adapts. Where: Audible.",
+    "units": [
+      {
+        "id": "the-sandman-audible-act-1",
+        "label": "The Sandman (Act I, 20 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-07-15",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: The first volume of the series, The Sandman debuted on July 15, 2020, and is composed of twenty episodes covering the first three volumes of the graphic novel."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1364423228",
+          "https://en.wikipedia.org/wiki/The_Sandman_(audio_drama)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-sandman-audible-act-2",
+        "label": "The Sandman: Act II",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-09-22",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: The Sandman: Act II debuted on September 22, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1364423228",
+          "https://en.wikipedia.org/wiki/The_Sandman_(audio_drama)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-sandman-audible-act-3",
+        "label": "The Sandman: Act III",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-28",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: The Sandman: Act III debuted on September 28, 2022."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1364423228",
+          "https://en.wikipedia.org/wiki/The_Sandman_(audio_drama)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-sandman",
+        "kind": "shares-characters",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-live",
+    "title": "Batman Live",
+    "sort_title": null,
+    "type": "live-show",
+    "universe": "dc",
+    "continuity": "batman-live",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "arena-tour",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1371087828",
+      "https://en.wikipedia.org/wiki/Batman_Live"
+    ],
+    "notes": "The plot is a Robin origin story. The article also says the US leg began in September 2012 at the Honda Center, Anaheim, which differs slightly from 'Summer 2012'. Where: Arena tour; premiere at the Manchester Evening News Arena.",
+    "units": [
+      {
+        "id": "batman-live",
+        "label": "UK/Ireland and North America arena tour",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-07-19",
+          "end_date": "2012-12",
+          "year": 2011,
+          "note": "Wikipedia: It debuted on July 19, 2011 at the Manchester Evening News Arena"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1371087828",
+          "https://en.wikipedia.org/wiki/Batman_Live"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

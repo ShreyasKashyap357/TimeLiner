@@ -11850,5 +11850,166 @@
     "links": [],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "star-wars-radio-dramas",
+    "title": "Star Wars (radio series)",
+    "sort_title": null,
+    "type": "radio-drama",
+    "universe": "star-wars",
+    "continuity": "sw-radio",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "npr",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1360151172",
+      "https://en.wikipedia.org/wiki/Star_Wars_(radio_series)"
+    ],
+    "notes": "Producers per infobox: Star Wars exec producers Richard Toscan and Carol Titelman. Empire producer Tom Voegeli, exec Jon Bos. Jedi producers Tom Voegeli and Julie Hartley. The Empire end date and the Jedi end date are marked 'citation needed', so use inferred or disputed. Jedi: the lead says it 'was also broadcast on NPR', but the History section says NPR's plans were shelved and HighBridge made it. Canon status: canon per the 1994 Kausch quote, Legends after 2014. The article says the radio's added pre-film scenes conflict with Rogue One. In-universe order follows the films, but keep it inside this continuity and don't merge it with the sw-canon order. Where: NPR (NPR Playhouse) / KUSC.",
+    "units": [
+      {
+        "id": "star-wars-radio-dramas-star-wars-1981",
+        "label": "Star Wars (13 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1981-03-02",
+          "end_date": "1981-05-25",
+          "year": 1981,
+          "note": "Wikipedia: Star Wars is a 13-part (5 hour, 56 minute) radio serial originally broadcast on National Public Radio on March 2, 1981."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1360151172",
+          "https://en.wikipedia.org/wiki/Star_Wars_(radio_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-radio-dramas-the-empire-strikes-back-1983",
+        "label": "The Empire Strikes Back (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1983-02-14",
+          "end_date": "1983-04-25",
+          "year": 1983,
+          "note": "Wikipedia: The series debuted on NPR on February 14, 1983."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1360151172",
+          "https://en.wikipedia.org/wiki/Star_Wars_(radio_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "star-wars-radio-dramas-return-of-the-jedi-1996",
+        "label": "Return of the Jedi (6 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-11-05",
+          "end_date": "1996-12",
+          "year": 1996,
+          "note": "Wikipedia: It was not until 1996 that a six-part adaptation of Return of the Jedi was made by Highbridge Audio"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1360151172",
+          "https://en.wikipedia.org/wiki/Star_Wars_(radio_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "a-new-hope",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-empire-strikes-back",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "return-of-the-jedi",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
   }
 ]

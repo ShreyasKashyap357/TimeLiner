@@ -218,3 +218,18 @@ describe('James Bond, Fast & Furious, cameo sources', () => {
     for (const c of cameos) expect(c.cameo_source).toMatch(/^https:\/\/(en\.wikipedia\.org|[a-z]+\.fandom\.com)\//);
   });
 });
+
+describe('Branching timelines: Terminator, Halloween; Wizarding World', () => {
+  it('Terminator branches split after T2; Halloween 2018 splits after 1978', () => {
+    const br = (cid: string) => ds.continuities.find((c) => c.id === cid)!.branches;
+    expect(br('terminator-main').find((b) => b.id === 'dark-fate')!.parent).toBe('main');
+    expect(ds.titles.find((t) => t.id === 'terminator-dark-fate')!.units[0]!.timeline_branch).toBe('dark-fate');
+    expect(br('halloween-myers').find((b) => b.id === 'blumhouse')!.diverges_at!.y).toBe(1978);
+    expect(ds.titles.find((t) => t.id === 'terminator-genisys')!.continuity).toBe('terminator-genisys');
+  });
+  it('Wizarding World books and films are separate; Fantastic Beasts precede Harry Potter', () => {
+    expect(ds.titles.find((t) => t.id === 'harry-potter-and-the-philosophers-stone')!.continuity).toBe('wizarding-world-books');
+    const order = spine(scoped('wizarding-world', 'wizarding-world-films'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(order.indexOf('fantastic-beasts-and-where-to-find-them')).toBeLessThan(order.indexOf('harry-potter-and-the-philosophers-stone-film'));
+  });
+});

@@ -11,6 +11,10 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | D-49 | **Which games to include.** Story-relevant games only: canon or narrative games tied to a continuity (e.g. Insomniac's Spider-Man, the Arkham series, Jedi: Fallen Order, Shadow of Mordor), plus whole game-first franchises (GTA, Assassin's Creed, Halo, Fallout, The Last of Us, The Witcher). | Sports, party and minor licensed games left out (listed in DATA_NOTES). LEGO's licensed games go in their target universe's LEGO collection. |
 | D-50 | **One release date and platform per game.** Games often launch on several platforms on different days. | Earliest worldwide (or North American) release; the other platforms named in the note. |
 | D-51 | **Huge adaptation franchises** (Sherlock Holmes, Dracula, with hundreds of adaptations). | Original works plus the most notable adaptations (each its own continuity); not every adaptation. |
+| D-52 | **Terminator Genisys.** Wikipedia calls it a reboot that disregards T2's events; a Skydance executive said "nor is it exactly a reboot". | Its own continuity, linked to The Terminator. |
+| D-53 | **Terminator Zero.** Wikipedia lists all six films as canon to it ("Zero continuity"), but it is set in "an alternate 1997 Japan". | Its own continuity, linked to the films with "references". |
+| D-54 | **Halloween H20 vs films 4–6.** H20's article says it ignores them; the franchise article notes "fan debate". | H20 and Resurrection are a branch that splits off after Halloween II (1981). |
+| D-55 | **Epilogue years** (Deathly Hallows and Cursed Child's 2017; similar elsewhere). | The main story's years only; epilogues are in the note. |
 
 ## Resolved
 

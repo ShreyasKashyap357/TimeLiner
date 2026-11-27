@@ -1114,5 +1114,160 @@
       "https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Mission_Marvel"
     ],
     "notes": ""
+  },
+  {
+    "id": "marvel-wolverine-podcast",
+    "universe": "marvel",
+    "name": "Marvel's Wolverine (Stitcher podcast)",
+    "short_name": "Marvel's Wolverine",
+    "order": 13,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Marvel New Media and Stitcher announced on December 5, 2017 Wolverine: The Long Night was in production for a spring 2018 launch on Stitcher Premium and a wider release in fall 2018.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wolverine_(podcast)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvels-podcast",
+    "universe": "marvel",
+    "name": "Marvels (Stitcher podcast)",
+    "short_name": "Marvels",
+    "order": 14,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"In late 2019, a radio drama podcast adaptation of Marvels was released, with the first season focusing on the aftermath of the Fantastic Four's battle with Galactus\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvels"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvel-wastelanders",
+    "universe": "marvel",
+    "name": "Marvel's Wastelanders (SiriusXM)",
+    "short_name": "Marvel's Wastelanders",
+    "order": 15,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Marvel's Wastelanders is an interconnected series of six radio drama podcasts produced by Marvel New Media and SiriusXM in association with Wave Runner Studios and launched in June 2021.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "spider-man-turn-off-the-dark",
+    "universe": "marvel",
+    "name": "Spider-Man: Turn Off the Dark (Broadway)",
+    "short_name": "Spider-Man: Turn Off the Dark",
+    "order": 16,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Spider-Man: Turn Off the Dark had no out-of-town tryouts because of the technical requirements of the production, which were designed for the Foxwoods Theatre on Broadway.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvel-universe-live",
+    "universe": "marvel",
+    "name": "Marvel Universe Live! (Feld Entertainment)",
+    "short_name": "Marvel Universe Live!",
+    "order": 17,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"So far there have been two shows under the banner, the original and \"Age of Heroes\".\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel_Universe_Live!"
+    ],
+    "notes": ""
   }
 ]

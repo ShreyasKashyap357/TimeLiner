@@ -10937,5 +10937,78 @@
       }
     ],
     "constituents": []
+  },
+  {
+    "id": "star-trek-khan",
+    "title": "Star Trek: Khan",
+    "sort_title": null,
+    "type": "podcast",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "podcast-platforms",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1345341068",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Khan"
+    ],
+    "notes": "Not on the user's list, but notable and claimed as canon. The framing story ('lost logs' found decades later) is set later. Place it by the main story. The infobox air dates are commented out, so the dates come from the prose. Where: all major podcast platforms.",
+    "units": [
+      {
+        "id": "star-trek-khan",
+        "label": "Star Trek: Khan (9 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2267
+          },
+          "end": {
+            "y": 2285
+          },
+          "label": "2267–2285 (Khan's exile on Ceti Alpha V)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "The series explores the nearly 20 years between the Star Trek: The Original Series episode \"Space Seed\" (1967, set in 2267) and the film Star Trek II: The Wrath of Khan (1982, set in 2285)",
+          "order_index": 129,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-09-08",
+          "end_date": "2025-11-03",
+          "year": 2025,
+          "note": "Wikipedia: Star Trek: Khan premiered on all major podcast streaming platforms on September 8, 2025. The nine-episode series was released weekly until November 3."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1345341068",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Khan"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

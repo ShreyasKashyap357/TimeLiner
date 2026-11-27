@@ -3202,5 +3202,129 @@
       "https://en.wikipedia.org/wiki/Aquaman_(TV_pilot)"
     ],
     "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
+  },
+  {
+    "id": "batman-unburied",
+    "universe": "dc",
+    "name": "Batman Unburied (Spotify)",
+    "short_name": "Batman Unburied",
+    "order": 91,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"In this version, Bruce Wayne is a forensic pathologist, his parents lived, and other characters appear with alterations.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_Unburied"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "harley-quinn-sound-mind",
+    "universe": "dc",
+    "name": "Harley Quinn and The Joker: Sound Mind (Spotify)",
+    "short_name": "Harley Quinn and The Joker: Sound Mind",
+    "order": 92,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The second, Harley Quinn and The Joker: Sound Mind, was released in 2023.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Harley_Quinn_and_The_Joker:_Sound_Mind"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sandman-audible",
+    "universe": "dc",
+    "name": "The Sandman (Audible)",
+    "short_name": "The Sandman",
+    "order": 93,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The Sandman is a series of audio dramas written by Neil Gaiman based on his comic book of the same name.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Sandman_(audio_drama)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "batman-live",
+    "universe": "dc",
+    "name": "Batman Live (arena tour)",
+    "short_name": "Batman Live",
+    "order": 94,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Batman Live is a touring stage show, including theatrical, circus and stage-magic elements, that focuses on the DC Comics superhero Batman.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_Live"
+    ],
+    "notes": ""
   }
 ]

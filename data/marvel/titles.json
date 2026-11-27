@@ -49703,5 +49703,616 @@
     ],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "marvels-wolverine-podcast",
+    "title": "Marvel's Wolverine (podcast): The Long Night / The Lost Trail",
+    "sort_title": null,
+    "type": "podcast",
+    "universe": "marvel",
+    "continuity": "marvel-wolverine-podcast",
+    "studio_brand": "marvel-entertainment-group",
+    "label": null,
+    "platform_or_network": "stitcher",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386313500",
+      "https://en.wikipedia.org/wiki/Wolverine_(podcast)"
+    ],
+    "notes": "CONFLICT for season 1: the Stitcher Premium premiere was 12 March 2018, but the episode table (general release) runs 12 Sept to 7 Nov 2018. Recommend the first availability, 2018-03-12, with a note. The user's 'Wolverine: The Long Night (2018)' is season 1 of this podcast. A Spanish version, La Larga Noche, ran 21 Sept to 15 Nov 2021 on SiriusXM (a note). It shares characters with the Wolverine films but is not set in that continuity. Where: Stitcher Premium, then free/general release.",
+    "units": [
+      {
+        "id": "marvels-wolverine-podcast-s1-the-long-night",
+        "label": "Season 1: The Long Night (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-03-12",
+          "end_date": "2018-05",
+          "year": 2018,
+          "note": "Wikipedia: The first season's first two episodes debuted on March 12, 2018, on Stitcher with two episode per week to follow; it ended its first season with ten episodes in early May."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386313500",
+          "https://en.wikipedia.org/wiki/Wolverine_(podcast)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvels-wolverine-podcast-s2-the-lost-trail",
+        "label": "Season 2: The Lost Trail (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-03-25",
+          "end_date": "2019-09-01",
+          "year": 2019,
+          "note": "Wikipedia: Marvel indicated that the release date for the second season to be March 25, 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386313500",
+          "https://en.wikipedia.org/wiki/Wolverine_(podcast)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "marvels-podcast",
+    "title": "Marvels (podcast)",
+    "sort_title": null,
+    "type": "podcast",
+    "universe": "marvel",
+    "continuity": "marvels-podcast",
+    "studio_brand": "marvel-entertainment-group",
+    "label": null,
+    "platform_or_network": "stitcher",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1378058284",
+      "https://en.wikipedia.org/wiki/Marvels"
+    ],
+    "notes": "The user expected 2020, but Wikipedia says late 2019, with no exact date. The 10-episode count comes from the announcement, not from a release record. It adapts the Busiek/Ross comic, which is not in the app. Where: Stitcher.",
+    "units": [
+      {
+        "id": "marvels-podcast",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: In late 2019, a radio drama podcast adaptation of Marvels was released"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1378058284",
+          "https://en.wikipedia.org/wiki/Marvels"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "marvels-wastelanders",
+    "title": "Marvel's Wastelanders",
+    "sort_title": null,
+    "type": "podcast",
+    "universe": "marvel",
+    "continuity": "marvel-wastelanders",
+    "studio_brand": "marvel-entertainment-group",
+    "label": null,
+    "platform_or_network": "siriusxm",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+      "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+    ],
+    "notes": "Not on the user's list but notable: 60 episodes, 2021–23. Set in a variation of the Old Man Logan future, so it gets its own continuity. Dates are the first and last chapter dates in the episode tables (subscriber release). Season 1 chapters 1–2 share 1 June 2021. Where: SiriusXM; Apple Podcasts subscribers first, general release a week later.",
+    "units": [
+      {
+        "id": "marvels-wastelanders-star-lord",
+        "label": "Marvel's Wastelanders: Star-Lord (originally Old Man Star-Lord) (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-06-01",
+          "end_date": "2021-07-27",
+          "year": 2021,
+          "note": "Wikipedia: Episode table, first and last chapter dates: 2021-06-01 / 2021-07-27"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+          "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvels-wastelanders-hawkeye",
+        "label": "Marvel's Wastelanders: Hawkeye (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-10-04",
+          "end_date": "2021-11-29",
+          "year": 2021,
+          "note": "Wikipedia: Episode table, first and last chapter dates: 2021-10-04 / 2021-11-29"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+          "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvels-wastelanders-black-widow",
+        "label": "Marvel's Wastelanders: Black Widow (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-01-05",
+          "end_date": "2022-03-07",
+          "year": 2022,
+          "note": "Wikipedia: Episode table, first and last chapter dates: 2022-01-05 / 2022-03-07"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+          "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvels-wastelanders-wolverine",
+        "label": "Marvel's Wastelanders: Wolverine (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-06-12",
+          "end_date": "2022-08-08",
+          "year": 2022,
+          "note": "Wikipedia: Episode table, first and last chapter dates: 2022-06-12 / 2022-08-08"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+          "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvels-wastelanders-doom",
+        "label": "Marvel's Wastelanders: Doom (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-09-12",
+          "end_date": "2022-11-07",
+          "year": 2022,
+          "note": "Wikipedia: Episode table, first and last chapter dates: 2022-09-12 / 2022-11-07"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+          "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvels-wastelanders-wastelanders",
+        "label": "Marvel's Wastelanders (team-up finale) (10 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-12-05",
+          "end_date": "2023-01-30",
+          "year": 2022,
+          "note": "Wikipedia: Episode table, first and last chapter dates: 2022-12-05 / 2023-01-30"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386326549",
+          "https://en.wikipedia.org/wiki/Marvel's_Wastelanders"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "spider-man-turn-off-the-dark",
+    "title": "Spider-Man: Turn Off the Dark",
+    "sort_title": null,
+    "type": "musical",
+    "universe": "marvel",
+    "continuity": "spider-man-turn-off-the-dark",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "theatre",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387178861",
+      "https://en.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark"
+    ],
+    "notes": "A record 182 preview performances. A Las Vegas transfer and an arena tour were announced but never happened. Songwriters (Bono and The Edge) are not quoted from this fetch, so verify before use. Where: Foxwoods Theatre, Broadway, New York City.",
+    "units": [
+      {
+        "id": "spider-man-turn-off-the-dark",
+        "label": "Broadway (Foxwoods Theatre)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-06-14",
+          "end_date": "2014-01-04",
+          "year": 2011,
+          "note": "Wikipedia: The musical began previews at that theatre on November 28, 2010. After many delays, the official opening gala night took place on June 14, 2011."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387178861",
+          "https://en.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "marvel-universe-live",
+    "title": "Marvel Universe Live!",
+    "sort_title": null,
+    "type": "live-show",
+    "universe": "marvel",
+    "continuity": "marvel-universe-live",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "arena-tour",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387418398",
+      "https://en.wikipedia.org/wiki/Marvel_Universe_Live!"
+    ],
+    "notes": "No closing dates (the infobox finalshow is commented out). For the original show, Tampa (10 July 2014) and the 'world premiere' in New York (13 Aug 2014) differ. Recommend 10 July. Where: Touring arenas.",
+    "units": [
+      {
+        "id": "marvel-universe-live-original-2014",
+        "label": "Marvel Universe Live! (original show)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-07-10",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: On July 10, 2014, Marvel Universe Live! premiered at the Tampa Bay Times Forum with showing there until July 13."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387418398",
+          "https://en.wikipedia.org/wiki/Marvel_Universe_Live!"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "marvel-universe-live-age-of-heroes-2017",
+        "label": "Marvel Universe Live! Age of Heroes",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-07-07",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: The tour had a soft launch in New Orleans from June 23–25 before heading out West for the summer. Age of Heroes debuted at the Staples Center in Los Angeles on July 7, 2017."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387418398",
+          "https://en.wikipedia.org/wiki/Marvel_Universe_Live!"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

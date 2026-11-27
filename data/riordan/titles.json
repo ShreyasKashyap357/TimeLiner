@@ -524,8 +524,8 @@
     "notes": "Percy Jackson & the Olympians (companion). pages = \"160 + 8 plates illus.\". Riordan Wiki Timeline places \"Stolen Chariot\" between The Titan's Curse and The Battle of the Labyrinth, and \"Sword of Hades\" + \"Bronze Dragon\" between BotL and The Last Olympian; could be split into story units (placed here at the BotL/TLO slot per Wikipedia).",
     "units": [
       {
-        "id": "the-demigod-files",
-        "label": "Anthology",
+        "id": "the-demigod-files-percy-jackson-and-the-stolen-chariot",
+        "label": "Percy Jackson and the Stolen Chariot",
         "season": null,
         "episode_range": null,
         "episode_count": null,
@@ -538,11 +538,93 @@
         "in_universe": {
           "start": null,
           "end": null,
-          "label": "Between The Battle of the Labyrinth and The Last Olympian",
+          "label": "between The Titan's Curse and The Battle of the Labyrinth",
           "precision": "relative",
           "confidence": "inferred",
-          "note": "Wikipedia: \"It is set between the fourth and fifth novels, The Battle of the Labyrinth and The Last Olympian.\" Riordan Wiki Important Dates: \"December 25, 2008 - Percy Jackson, Thalia Grace, and Nico di Angelo are sent by Persephone to retrieve Hades' sword from Ethan Nakamura.\" Riordan Wiki: \"The events of Percy Jackson and the Bronze Dragon are hard to place in the timeline.\"",
-          "order_index": 70,
+          "note": "Riordan Wiki Timeline: \"The Demigod Files: Percy Jackson and the Stolen Chariot\" after the-titans-curse, before the-battle-of-the-labyrinth",
+          "order_index": 51,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-02-10",
+          "end_date": null,
+          "year": 2009,
+          "note": "First publication. Lead: \"a collection of short stories by Rick Riordan published on February 10, 2009\"; infobox \"February 10, 2009\"."
+        },
+        "status": "released",
+        "groupings": {
+          "series": "percy-jackson-olympians"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Demigod_Files",
+          "https://riordan.fandom.com/wiki/Important_Dates",
+          "https://riordan.fandom.com/wiki/Timeline"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-demigod-files-percy-jackson-and-the-sword-of-hades",
+        "label": "Percy Jackson and the Sword of Hades",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 160,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Battle of the Labyrinth, before The Bronze Dragon and The Last Olympian",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Riordan Wiki Timeline: \"The Demigod Files: Percy Jackson and the Sword of Hades\" after the-battle-of-the-labyrinth, before bronze-dragon",
+          "order_index": 61,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-02-10",
+          "end_date": null,
+          "year": 2009,
+          "note": "First publication. Lead: \"a collection of short stories by Rick Riordan published on February 10, 2009\"; infobox \"February 10, 2009\"."
+        },
+        "status": "released",
+        "groupings": {
+          "series": "percy-jackson-olympians"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Demigod_Files",
+          "https://riordan.fandom.com/wiki/Important_Dates",
+          "https://riordan.fandom.com/wiki/Timeline"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-demigod-files-percy-jackson-and-the-bronze-dragon",
+        "label": "Percy Jackson and the Bronze Dragon",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 160,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before The Last Olympian (summer of BotL or of TLO; disputed)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Riordan Wiki Timeline: \"The Demigod Files: Percy Jackson and the Bronze Dragon\" after sword-of-hades, before the-last-olympian",
+          "order_index": 62,
           "relative_to": null
         },
         "release": {
@@ -872,8 +954,8 @@
     "notes": "The Heroes of Olympus (companion). By Rick Riordan and Haley Riordan (\"Son of Magic\"). Placed at the Leo/Son of Magic slot; stories could be split.",
     "units": [
       {
-        "id": "the-demigod-diaries",
-        "label": "Anthology",
+        "id": "the-demigod-diaries-the-diary-of-luke-castellan",
+        "label": "The Diary of Luke Castellan",
         "season": null,
         "episode_range": null,
         "episode_count": null,
@@ -886,11 +968,134 @@
         "in_universe": {
           "start": null,
           "end": null,
-          "label": "Stories span pre-Lightning Thief to between The Lost Hero and The Son of Neptune",
+          "label": "before The Lightning Thief (Luke and Thalia's runaway years)",
           "precision": "relative",
           "confidence": "inferred",
-          "note": "Riordan Wiki Timeline places \"Diary of Luke Castellan\" before The Lightning Thief, \"The Staff of Hermes\" after The Last Olympian, and \"Leo Valdez and the Quest for Buford\" and \"Son of Magic\" after The Lost Hero. Heroes of Olympus article: \"The story takes place at Camp Half-Blood between The Lost Hero and The Son of Neptune.\"",
-          "order_index": 110,
+          "note": "Riordan Wiki Timeline: \"The Demigod Diaries: Diary of Luke Castellan\" before the-lightning-thief (2nd entry on Timeline, after 'My Life as a Child Outlaw')",
+          "order_index": 111,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-08-14",
+          "end_date": null,
+          "year": 2012,
+          "note": "First publication. Infobox: \"publication_date = August 14, 2012\"; body: \"The Demigod Diaries was released on August 14, 2012.\""
+        },
+        "status": "released",
+        "groupings": {
+          "series": "heroes-of-olympus"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Demigod_Diaries",
+          "https://riordan.fandom.com/wiki/Timeline",
+          "https://en.wikipedia.org/wiki/The_Heroes_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-demigod-diaries-percy-jackson-and-the-staff-of-hermes",
+        "label": "Percy Jackson and the Staff of Hermes",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 224,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Last Olympian, before Percy Jackson's Greek Gods / The Lost Hero",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Riordan Wiki Timeline: \"The Demigod Diaries: The Staff of Hermes\" after the-last-olympian (and Singer of Apollo), before percy-jacksons-greek-gods",
+          "order_index": 81,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-08-14",
+          "end_date": null,
+          "year": 2012,
+          "note": "First publication. Infobox: \"publication_date = August 14, 2012\"; body: \"The Demigod Diaries was released on August 14, 2012.\""
+        },
+        "status": "released",
+        "groupings": {
+          "series": "heroes-of-olympus"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Demigod_Diaries",
+          "https://riordan.fandom.com/wiki/Timeline",
+          "https://en.wikipedia.org/wiki/The_Heroes_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-demigod-diaries-leo-valdez-and-the-quest-for-buford",
+        "label": "Leo Valdez and the Quest for Buford",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 224,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Lost Hero (internal inconsistencies)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Riordan Wiki Timeline: \"The Demigod Diaries: Leo Valdez and the Quest for Buford\" after the-lost-hero, before son-of-magic",
+          "order_index": 101,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-08-14",
+          "end_date": null,
+          "year": 2012,
+          "note": "First publication. Infobox: \"publication_date = August 14, 2012\"; body: \"The Demigod Diaries was released on August 14, 2012.\""
+        },
+        "status": "released",
+        "groupings": {
+          "series": "heroes-of-olympus"
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Demigod_Diaries",
+          "https://riordan.fandom.com/wiki/Timeline",
+          "https://en.wikipedia.org/wiki/The_Heroes_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-demigod-diaries-son-of-magic",
+        "label": "Son of Magic (by Haley Riordan)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 224,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Lost Hero / Quest for Buford, before The Red Pyramid on the Timeline",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Riordan Wiki Timeline: \"The Demigod Diaries: Son of Magic\" after quest-for-buford, before the-red-pyramid",
+          "order_index": 102,
           "relative_to": null
         },
         "release": {
@@ -4213,6 +4418,1717 @@
         "cameo_source": null
       }
     ],
+    "constituents": []
+  },
+  {
+    "id": "the-lightning-thief-musical",
+    "title": "The Lightning Thief: The Percy Jackson Musical",
+    "sort_title": null,
+    "type": "musical",
+    "universe": "riordan",
+    "continuity": "percy-jackson-musical",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "theatre",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387989464",
+      "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+    ],
+    "notes": "The user said Off-Broadway 2017: that is the expanded revival. The original Off-Broadway run was in 2014. The Broadway sentence gives no year, so 2019 comes from the infobox and the next sentence ('closed ... January 5, 2020'). The article also lists a University of Leeds amateur UK premiere (16 Mar 2022) and a Japanese version (Tokyo, 19 Sep 2022), probably as notes. Book and score credits were not extracted. Where: Lucille Lortel Theatre (Off-Broadway); Longacre Theatre (Broadway); The Other Palace (London).",
+    "units": [
+      {
+        "id": "the-lightning-thief-musical-off-broadway-2014",
+        "label": "Original one-hour version, Off-Broadway (Theatreworks USA), then the 2015 US tour",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-07-21",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: infobox: | premiere_date = July 21, 2014 | premiere_location = Lucille Lortel Theatre, New York City"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387989464",
+          "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lightning-thief-musical-off-broadway-2017",
+        "label": "Expanded version, Off-Broadway (Lucille Lortel)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-04-04",
+          "end_date": "2017-05-06",
+          "year": 2017,
+          "note": "Wikipedia: A new version, with a new score and an updated, expanded script was produced with previews from March 23, 2017, and an official opening on April 4 and a last performance on May 6 at the Lucille Lortel Theatre."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387989464",
+          "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lightning-thief-musical-us-tour-2019",
+        "label": "Second US tour (from Chicago)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: The show began a national tour in Chicago in 2019."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387989464",
+          "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lightning-thief-musical-broadway-2019",
+        "label": "Broadway (Longacre Theatre, 16-week limited run)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-10-16",
+          "end_date": "2020-01-05",
+          "year": 2019,
+          "note": "Wikipedia: The Lightning Thief then played a 16-week limited run on Broadway, beginning previews September 20 and opened on October 16 at the Longacre Theatre"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387989464",
+          "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lightning-thief-musical-london-2024",
+        "label": "London (The Other Palace), then the 2025 UK tour",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-11-23",
+          "end_date": "2025-06-15",
+          "year": 2024,
+          "note": "Wikipedia: The musical opened at The Other Palace in London on November 23, 2024. It closed on 15th June 2025, and a UK tour started on August 15th at the Theatre Royal Windsor."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387989464",
+          "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-lightning-thief",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lightning-thief-graphic-novel",
+    "title": "The Lightning Thief: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=681179",
+      "https://riordan.fandom.com/wiki/The_Lightning_Thief_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-lightning-thief-graphic-novel",
+        "label": "The Lightning Thief: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-10-12",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 12, 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=681179",
+          "https://riordan.fandom.com/wiki/The_Lightning_Thief_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-lightning-thief",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-sea-of-monsters-graphic-novel",
+    "title": "The Sea of Monsters: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=681573",
+      "https://riordan.fandom.com/wiki/The_Sea_of_Monsters_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-sea-of-monsters-graphic-novel",
+        "label": "The Sea of Monsters: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-07-02",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = July 2, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=681573",
+          "https://riordan.fandom.com/wiki/The_Sea_of_Monsters_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-sea-of-monsters",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-titans-curse-graphic-novel",
+    "title": "The Titan's Curse: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=681553",
+      "https://riordan.fandom.com/wiki/The_Titan's_Curse_(graphic_novel)"
+    ],
+    "notes": "The Riordan Wiki says it was released the same day as The House of Hades (novel). Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-titans-curse-graphic-novel",
+        "label": "The Titan's Curse: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-08",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 8, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=681553",
+          "https://riordan.fandom.com/wiki/The_Titan's_Curse_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-titans-curse",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-battle-of-the-labyrinth-graphic-novel",
+    "title": "The Battle of the Labyrinth: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=678399",
+      "https://riordan.fandom.com/wiki/The_Battle_of_the_Labyrinth_(graphic_novel)"
+    ],
+    "notes": "No page count on the Riordan Wiki page. Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-battle-of-the-labyrinth-graphic-novel",
+        "label": "The Battle of the Labyrinth: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-10-02",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 2, 2018"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=678399",
+          "https://riordan.fandom.com/wiki/The_Battle_of_the_Labyrinth_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-battle-of-the-labyrinth",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-last-olympian-graphic-novel",
+    "title": "The Last Olympian: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=676130",
+      "https://riordan.fandom.com/wiki/The_Last_Olympian_(graphic_novel)"
+    ],
+    "notes": "The Riordan Wiki infobox has no publisher field. Hyperion is not stated on this page, so don't assume it.",
+    "units": [
+      {
+        "id": "the-last-olympian-graphic-novel",
+        "label": "The Last Olympian: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-08-13",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = August 13, 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=676130",
+          "https://riordan.fandom.com/wiki/The_Last_Olympian_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-last-olympian",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lost-hero-graphic-novel",
+    "title": "The Lost Hero: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=677720",
+      "https://riordan.fandom.com/wiki/The_Lost_Hero_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-lost-hero-graphic-novel",
+        "label": "The Lost Hero: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-10-07",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 7, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=677720",
+          "https://riordan.fandom.com/wiki/The_Lost_Hero_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-lost-hero",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-son-of-neptune-graphic-novel",
+    "title": "The Son of Neptune: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=676956",
+      "https://riordan.fandom.com/wiki/The_Son_of_Neptune_(graphic_novel)"
+    ],
+    "notes": "Wikipedia's bibliography table gives only the year 2017. The exact date is from the Riordan Wiki only. Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-son-of-neptune-graphic-novel",
+        "label": "The Son of Neptune: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-02-22",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = February 22, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=676956",
+          "https://riordan.fandom.com/wiki/The_Son_of_Neptune_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-son-of-neptune",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-mark-of-athena-graphic-novel",
+    "title": "The Mark of Athena: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=673412",
+      "https://riordan.fandom.com/wiki/The_Mark_of_Athena_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-mark-of-athena-graphic-novel",
+        "label": "The Mark of Athena: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-09-26",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = September 26, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=673412",
+          "https://riordan.fandom.com/wiki/The_Mark_of_Athena_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-mark-of-athena",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-house-of-hades-graphic-novel",
+    "title": "The House of Hades: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=673522",
+      "https://riordan.fandom.com/wiki/The_House_of_Hades_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-house-of-hades-graphic-novel",
+        "label": "The House of Hades: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-09-24",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = September 24, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=673522",
+          "https://riordan.fandom.com/wiki/The_House_of_Hades_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-house-of-hades",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-blood-of-olympus-graphic-novel",
+    "title": "The Blood of Olympus: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=679416",
+      "https://riordan.fandom.com/wiki/The_Blood_of_Olympus_(graphic_novel)"
+    ],
+    "notes": "Released two months ago. The Riordan Wiki says it came out the same day as The Wild Zone. Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-blood-of-olympus-graphic-novel",
+        "label": "The Blood of Olympus: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-09-29",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = September 29, 2026"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=679416",
+          "https://riordan.fandom.com/wiki/The_Blood_of_Olympus_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-blood-of-olympus",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-red-pyramid-graphic-novel",
+    "title": "The Red Pyramid: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=671334",
+      "https://riordan.fandom.com/wiki/The_Red_Pyramid_(graphic_novel)"
+    ],
+    "notes": "CONFLICT: Wikipedia The Kane Chronicles (revid 1373282968) says 'A graphic novel based on The Red Pyramid was published on October 12, 2010.'. That date matches the Lightning Thief GN and is probably a copy error. Wikipedia's Rick Riordan bibliography table (revid 1386989732) lists 2012, and the Riordan Wiki infobox says October 2, 2012. Use 2012-10-02 with confidence 'disputed' and a note. Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-red-pyramid-graphic-novel",
+        "label": "The Red Pyramid: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-10-02",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 2, 2012"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=671334",
+          "https://riordan.fandom.com/wiki/The_Red_Pyramid_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-red-pyramid",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-throne-of-fire-graphic-novel",
+    "title": "The Throne of Fire: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=677770",
+      "https://riordan.fandom.com/wiki/The_Throne_of_Fire_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-throne-of-fire-graphic-novel",
+        "label": "The Throne of Fire: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-10-06",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 6, 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=677770",
+          "https://riordan.fandom.com/wiki/The_Throne_of_Fire_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-throne-of-fire",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-serpents-shadow-graphic-novel",
+    "title": "The Serpent's Shadow: The Graphic Novel",
+    "sort_title": null,
+    "type": "graphic-novel",
+    "universe": "riordan",
+    "continuity": "riordan-graphic-novels",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=677749",
+      "https://riordan.fandom.com/wiki/The_Serpent's_Shadow_(graphic_novel)"
+    ],
+    "notes": "Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-serpents-shadow-graphic-novel",
+        "label": "The Serpent's Shadow: The Graphic Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-03",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = October 3, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=677749",
+          "https://riordan.fandom.com/wiki/The_Serpent's_Shadow_(graphic_novel)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-serpents-shadow",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "percy-jackson-the-ultimate-guide",
+    "title": "Percy Jackson and the Olympians: The Ultimate Guide",
+    "sort_title": null,
+    "type": "reference",
+    "universe": "riordan",
+    "continuity": "riordanverse-books",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=674923",
+      "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Olympians:_The_Ultimate_Guide"
+    ],
+    "notes": "CONFLICT: Wikipedia says 19 Jan 2010 and the Riordan Wiki says 18 Jan 2010. 19 Jan 2010 was a Tuesday, the usual US release day, so Wikipedia's date is more likely, but that is my inference. Use confidence 'disputed'. Reference book with no in-universe placement. Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "percy-jackson-the-ultimate-guide",
+        "label": "The Ultimate Guide",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-01-19",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: The Ultimate Guide is a companion book, second to the series, released on January 19, 2010."
+        },
+        "status": "released",
+        "groupings": {
+          "series": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=674923",
+          "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Olympians:_The_Ultimate_Guide"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-kane-chronicles-survival-guide",
+    "title": "The Kane Chronicles: Survival Guide",
+    "sort_title": null,
+    "type": "reference",
+    "universe": "riordan",
+    "continuity": "riordanverse-books",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=679806",
+      "https://riordan.fandom.com/wiki/The_Kane_Chronicles:_Survival_Guide"
+    ],
+    "notes": "The exact date comes only from the Riordan Wiki infobox. Authorship differs: Wikipedia says Mary-Jane Knight, while the Riordan Wiki infobox lists Rick Riordan. Where: Hyperion Books.",
+    "units": [
+      {
+        "id": "the-kane-chronicles-survival-guide",
+        "label": "Survival Guide",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-03-20",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date= March 20, 2012 ; |pages= 144 (hardcover)"
+        },
+        "status": "released",
+        "groupings": {
+          "series": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=679806",
+          "https://riordan.fandom.com/wiki/The_Kane_Chronicles:_Survival_Guide"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "demigods-of-olympus",
+    "title": "Demigods of Olympus",
+    "sort_title": null,
+    "type": "reference",
+    "universe": "riordan",
+    "continuity": "demigods-of-olympus",
+    "studio_brand": "disney-hyperion",
+    "label": null,
+    "platform_or_network": "ebook",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=648143",
+      "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+    ],
+    "notes": "Wikipedia's Rick Riordan bibliography (revid 1386989732) only says 2015, 'Interactive ebook'. The Riordan Wiki hub page is a stub. The story pages give dates and Hyperion as publisher, with no page counts. Odd: book 4 (24 Jul 2015) is dated after the collected e-book (14 Jul 2015). These stories are not on the Riordan Wiki Timeline. Authorship of the stories is not stated on the pages read. Where: Disney app (e-book).",
+    "units": [
+      {
+        "id": "demigods-of-olympus-my-two-headed-guidance-counselor",
+        "label": "My Two-Headed Guidance Counselor",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-08-07",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = August 7, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=648143",
+          "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "demigods-of-olympus-the-library-of-deadly-weapons",
+        "label": "The Library of Deadly Weapons",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-08-07",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = August 7, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=648143",
+          "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "demigods-of-olympus-my-demon-satyr-tea-party",
+        "label": "My Demon Satyr Tea Party",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-01-22",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = January 22, 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=648143",
+          "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "demigods-of-olympus-my-personal-zombie-apocalypse",
+        "label": "My Personal Zombie Apocalypse",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-24",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = July 24, 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=648143",
+          "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "demigods-of-olympus-collected-ebook",
+        "label": "Demigods of Olympus customizable e-book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-14",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: On July 14, 2015, a customizable e-book version of books came out."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=648143",
+          "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "percy-jackson-and-the-singer-of-apollo",
+    "title": "Percy Jackson and the Singer of Apollo",
+    "sort_title": null,
+    "type": "short-story",
+    "universe": "riordan",
+    "continuity": "riordanverse-books",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=663087",
+      "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Singer_of_Apollo"
+    ],
+    "notes": "Optional. It is on the Timeline and in Wikipedia's bibliography (2013). Where: Walden Pond Press (in Guys Read: Other Worlds).",
+    "units": [
+      {
+        "id": "percy-jackson-and-the-singer-of-apollo",
+        "label": "Percy Jackson and the Singer of Apollo",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Last Olympian, before The Staff of Hermes (the page says it doesn't fit cleanly)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Percy Jackson and the Singer of Apollo does not neatly fit anywhere in the timeline.",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-09-16",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Riordan Wiki infobox: |release date = September 16th, 2013 ; |pages = 29 ; |publisher = Walden Pond Press"
+        },
+        "status": "released",
+        "groupings": {
+          "series": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=663087",
+          "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Singer_of_Apollo"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "percy-jackson-lightning-thief-video-game",
+    "title": "Percy Jackson & the Olympians: The Lightning Thief (video game)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "riordan",
+    "continuity": "percy-jackson-video-game",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "nintendo-ds",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=672656",
+      "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Olympians:_The_Lightning_Thief_(video_game)"
+    ],
+    "notes": "NOTE ONLY: games are out of scope. It is based on the 2010 film. Dates differ: Wikipedia says 11 Feb 2010, the Riordan Wiki says 9 Feb 2010. Where: Nintendo DS.",
+    "units": [
+      {
+        "id": "percy-jackson-lightning-thief-video-game",
+        "label": "Nintendo DS game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-02-11",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: released exclusively for Nintendo DS on February 11, 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=672656",
+          "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Olympians:_The_Lightning_Thief_(video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "percy-jackson-the-lightning-thief-2010",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
     "constituents": []
   }
 ]

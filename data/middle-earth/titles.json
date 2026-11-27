@@ -6052,5 +6052,487 @@
       }
     ],
     "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-1955-radio",
+    "title": "The Lord of the Rings (1955 radio series)",
+    "sort_title": null,
+    "type": "radio-drama",
+    "universe": "middle-earth",
+    "continuity": "me-bbc-radio-1955",
+    "studio_brand": "bbc",
+    "label": null,
+    "platform_or_network": "bbc-third-programme",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1347650493",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1955_radio_series)"
+    ],
+    "notes": "Only years given ('During 1955 and 1956'); no air dates in the article. Series 1 = 1955 is inferred (Observer review 1955; Tolkien's Nov 1955 letter says he has 'not enjoyed the broadcasts'). Series 2 = 1956 per the lead, but Tolkien's Nov 1956 letter is about the 'production of a second series', so series 2 may have aired late 1956 or later: use 'disputed' at year precision. Audio is lost; the script was rediscovered in 2022. Where: BBC Third Programme.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-1955-radio-series-1",
+        "label": "First series (6 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1955",
+          "end_date": null,
+          "year": 1955,
+          "note": "Wikipedia: During 1955 and 1956, a condensed radio dramatisation of The Lord of the Rings, adapted and produced by Terence Tiller, was broadcast in two series of six episodes each on BBC Radio's the Third Programme."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1347650493",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1955_radio_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lord-of-the-rings-1955-radio-series-2",
+        "label": "Second series (6 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 6,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1956",
+          "end_date": null,
+          "year": 1956,
+          "note": "Wikipedia: broadcast in two series of six episodes each"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1347650493",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1955_radio_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-two-towers",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-hobbit-1968-radio",
+    "title": "The Hobbit (1968 radio series)",
+    "sort_title": null,
+    "type": "radio-drama",
+    "universe": "middle-earth",
+    "continuity": "me-bbc-radio-hobbit-1968",
+    "studio_brand": "bbc",
+    "label": null,
+    "platform_or_network": "bbc-radio-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1340507889",
+      "https://en.wikipedia.org/wiki/The_Hobbit_(radio_series)"
+    ],
+    "notes": "CONFLICT 1968 vs 1969. The radio-series article's lead says 1968 but the next sentence says 'broadcast in the autumn of 1969'. Adaptations of The Hobbit says Sept–Nov 1968. The Hobbit novel article (revid 1384221043) says 1968. The Radio Times ref is dated October 1968, and Groom (2023) calls it 'the 1968 radio series'. Most sources say autumn 1968, so 1969 is probably the error, but nothing proves it. Use month precision 1968-09 to 1968-11 with confidence 'disputed' and a note. Where: BBC Radio 4.",
+    "units": [
+      {
+        "id": "the-hobbit-1968-radio",
+        "label": "The Hobbit (8 episodes)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1968-09",
+          "end_date": "1968-11",
+          "year": 1968,
+          "note": "Wikipedia: A BBC Radio 4 series The Hobbit radio drama is an adaptation by Michael Kilgarriff, broadcast in eight parts (four total hours) from September to November 1968."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1340507889",
+          "https://en.wikipedia.org/wiki/The_Hobbit_(radio_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-hobbit",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-1981-radio",
+    "title": "The Lord of the Rings (1981 radio series)",
+    "sort_title": null,
+    "type": "radio-drama",
+    "universe": "middle-earth",
+    "continuity": "me-bbc-radio-1981",
+    "studio_brand": "bbc",
+    "label": null,
+    "platform_or_network": "bbc-radio-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1367262054",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1981_radio_series)"
+    ],
+    "notes": "Infobox: first_aired 8 March 1981, last_aired 30 August 1981, num_episodes 26. The 1982 re-edit is a rebroadcast and is better as a note. The article also mentions a vinyl/CD release on 4 December 2026, announced 22 July 2026 (a note, not a unit). Where: BBC Radio 4.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-1981-radio-serial-1981",
+        "label": "26-part serial",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1981-03-08",
+          "end_date": "1981-08-30",
+          "year": 1981,
+          "note": "Wikipedia: The serial was first broadcast from 8 March to 30 August 1981 on BBC Radio 4 on Sundays from 12 noon to 12:30pm; each episode was repeated on the following Wednesday from 10:30pm to 11:00pm."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1367262054",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1981_radio_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lord-of-the-rings-1981-radio-hour-edit-1982",
+        "label": "13 hour-long episodes (re-edit; optional unit or note)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1982-07-17",
+          "end_date": "1982-10-09",
+          "year": 1982,
+          "note": "Wikipedia: The 26-part series was edited into 13 hour-long episodes broadcast from 17 July to 9 October 1982, restoring some dialogue originally cut for timing."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1367262054",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1981_radio_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-two-towers",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-musical",
+    "title": "The Lord of the Rings (musical)",
+    "sort_title": null,
+    "type": "musical",
+    "universe": "middle-earth",
+    "continuity": "me-lotr-musical",
+    "studio_brand": "studio-not-stated",
+    "label": null,
+    "platform_or_network": "theatre",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": null,
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387741146",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)"
+    ],
+    "notes": "Recommend the official opening as release_date, with the first performance in a note. Toronto: previews 4 Feb 2006, opened 23 Mar 2006 (also the infobox premiere_date), closed 3 Sep 2006. London: previews 9 May 2007, opened 19 Jun 2007, closed 20 Jul 2008. Revival: Watermill 2023 (no day given), Chicago 19 Jul to 1 Sep 2024, Auckland Nov 2024, Sydney 7 Jan 2025, then an Australian tour and Singapore. Where: Princess of Wales Theatre, Toronto; Theatre Royal, Drury Lane, London; Watermill Theatre revival.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-musical-toronto-2006",
+        "label": "Toronto (Princess of Wales Theatre)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-03-23",
+          "end_date": "2006-09-03",
+          "year": 2006,
+          "note": "Wikipedia: The production began performances on 4 February 2006, had its opening on 23 March 2006, and its final performance on 3 September 2006."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387741146",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lord-of-the-rings-musical-london-2007",
+        "label": "London (Theatre Royal, Drury Lane)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-06-19",
+          "end_date": "2008-07-20",
+          "year": 2007,
+          "note": "Wikipedia: began previews at the Theatre Royal, Drury Lane on 9 May 2007, with its official premiere on 19 June 2007."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387741146",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-lord-of-the-rings-musical-watermill-2023",
+        "label": "Watermill Theatre revival and international tour",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Story order (no calendar)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "No in-universe year in the sources; listed by release.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: The musical was revived in 2023 at the Watermill Theatre in Berkshire"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387741146",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-two-towers",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
   }
 ]

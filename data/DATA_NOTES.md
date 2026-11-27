@@ -646,3 +646,58 @@ The research checked these wikis: Marvel Database, MCU Wiki, DC Database, DCEU W
   - For Super Friends, the dates are from its episode-list overview (the infobox's last date counts reruns).
 - **Name clash:** the 1973 and 1980 "Super Friends" series use Wikipedia's disambiguated titles.
 - **Excluded:** the cancelled Batgirl film, six rerun or package shows, and a toy line. Not researched: motion comics, small web series, unaired pilots and unscripted shows.
+
+## Terminator, Halloween, Wizarding World (2026-11-27)
+
+Generated with the generic research-to-seed generator. Revids are in the research files; the per-title source URLs are in the data.
+
+- **Terminator (9 titles).**
+  - **`terminator-main` is one continuity built from Wikipedia's "story chronology" table.** The trunk is The Terminator (1984, future war 2029), T2 (1995), T3 (2003) and Salvation (2018). Three branches leave after T2 (1995):
+    - The Sarah Connor Chronicles ("disregarding the events of Terminator 3");
+    - Dark Fate ("ignoring the events of T3, Salvation and Genisys");
+    - T2-3D ("a mini-sequel to T2").
+  - **Genisys (D-52)** is its own continuity. T2's events "are disregarded", and Wikipedia calls it a reboot, though a Skydance executive said "nor is it exactly a reboot".
+  - **Terminator Zero (D-53)** is its own continuity ("an alternate 1997 Japan"), even though its showrunner "treats all of the prior films as canon".
+  - **Date conflicts:**
+    - The Sarah Connor Chronicles moves T2 to 1997 and the future war to 2027.
+    - Judgment Day differs by branch (1997, 2003, 2011, 2017, early 2020s).
+    - The Sarah Connor Chronicles S2 and T2-3D have no stated year.
+- **Halloween (13 titles).** `halloween-myers`:
+  - **Main line:** 1978, II (same night), 4 (1988), 5 (1989), 6 (1995).
+  - **H20 branch:** H20 (1998) and Resurrection (2002). It "ignor[es] the Thorn Trilogy"; fans still debate this (D-54).
+  - **2018 branch:** 2018, Kills and Ends (2022). It is a "direct sequel … ignoring the events of all previous films".
+  - **Separate continuities:** Season of the Witch (1982) and Rob Zombie's films (2007, and II set in 2008).
+  - **Disputed:** Halloween II (2009). Its plot says "Fifteen years later", but the 2007 film says "seventeen years later".
+  - **Names:** the 1978, 2007 and 2018 films use Wikipedia's disambiguated titles.
+- **Wizarding World (28 titles).**
+  - **`wizarding-world-books`:** the 7 novels (UK Bloomsbury first editions; US Scholastic dates in the notes), the companion books, the 2016 e-books, and Cursed Child. Rowling: the play "should be considered canon". The play's first performance was 2016-06-07 and its official opening 2016-07-30. The script book is in the adjacent tier.
+  - **`wizarding-world-films`:** the 8 Harry Potter films plus Fantastic Beasts ("the Wizarding World shared universe").
+  - **`hbo-harry-potter`:** "a reboot". Season 1 is due 2026-12-25; season 2 has no date.
+  - **Years:** stated in prose for Philosopher's Stone and Chamber of Secrets (1991–93), the films' years, Fantastic Beasts (1926, 1927) and Cursed Child (2017). The rest come from Wikipedia categories and the Harry Potter Wiki (inferred).
+  - **Epilogues:** main-story years only; the 2017 epilogues are in the notes (D-55).
+  - **Conflict:** Cursed Child's Broadway opening date (22 vs 21 April 2018); 22 April is used.
+
+## Audio, stage and Riordan extras (2026-11-27)
+
+`scripts/migrations/2026-11-27-audio-stage-riordan-extras.ts` adds these. Every production is its own continuity, linked with `adapts` or `shares-characters`. Sources are Wikipedia and the Riordan Wiki at pinned revisions.
+
+- **Audio:**
+  - Middle-earth: BBC *The Lord of the Rings* 1955–56 and 1981; *The Hobbit* 1968 (disputed against autumn 1969).
+  - Star Wars: the NPR/KUSC radio dramas, 1981 and 1983, plus HighBridge in 1996 (`sw-radio`; called canon in 1994, Legends since 2014).
+  - Marvel: *Wolverine* (Stitcher), *Marvels* (late 2019), *Wastelanders*.
+  - DC: *Batman Unburied*, *Harley Quinn and The Joker: Sound Mind*, *The Sandman* (Audible).
+  - Star Trek: *Khan*, which goes in `st-prime` at 2267–2285 (inferred), between "Space Seed" and *The Wrath of Khan*.
+  - James Bond: BBC Radio 4's Toby Stephens adaptations (2008–2020), plus two other radio plays.
+- **Stage:**
+  - The Lord of the Rings musical: Toronto 2006, London 2007.
+  - Spider-Man: Turn Off the Dark: first preview 2010-11-28, opened 2011-06-14.
+  - Batman Live (2011).
+  - Marvel Universe Live! (2014, 2017).
+  - The Lightning Thief musical: Off-Broadway 2014/2017, Broadway 2019, London 2024–25.
+- **Riordan (R-46, include all):**
+  - 13 graphic novels, in `riordan-graphic-novels`, linked to each book. The Red Pyramid graphic novel is 2012-10-02, not Wikipedia's apparent copy error.
+  - The Ultimate Guide and the Kane Chronicles Survival Guide, in the adjacent tier.
+  - Demigods of Olympus, as its own continuity: a reader-created hero.
+  - Singer of Apollo.
+  - The Lightning Thief DS game, now that games are a medium.
+  - The Demigod Files and The Demigod Diaries are split into one unit per story. Each is placed by the Riordan Wiki Timeline (inferred or disputed), and the old ids are aliased.

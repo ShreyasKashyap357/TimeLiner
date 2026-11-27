@@ -96,5 +96,129 @@
       "https://en.wikipedia.org/wiki/Percy_Jackson_and_the_Olympians_(TV_series)"
     ],
     "notes": ""
+  },
+  {
+    "id": "percy-jackson-musical",
+    "universe": "riordan",
+    "name": "The Lightning Thief (stage musical)",
+    "short_name": "The Lightning Thief",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The musical was initially introduced in New York City Off-Broadway at the Lucille Lortel Theatre by Theatreworks USA in 2014 as a one-hour musical\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "riordan-graphic-novels",
+    "universe": "riordan",
+    "name": "Riordan graphic novel adaptations (Disney-Hyperion)",
+    "short_name": "Riordan graphic novel adaptations",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Four supplementary books, along with graphic novel versions of the first five books, have also been released.\"",
+    "source_urls": [
+      "https://riordan.fandom.com/wiki/The_Lightning_Thief_(graphic_novel)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "demigods-of-olympus",
+    "universe": "riordan",
+    "name": "Demigods of Olympus (interactive e-books)",
+    "short_name": "Demigods of Olympus",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Demigods of Olympus was a Disney app featuring an online e-book library of all of Rick Riordan's mythology works, as well as exclusive new interactive stories that let players create a demigod profile and choose their own paths in their adventures.\"",
+    "source_urls": [
+      "https://riordan.fandom.com/wiki/Demigods_of_Olympus"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "percy-jackson-video-game",
+    "universe": "riordan",
+    "name": "Percy Jackson & the Olympians: The Lightning Thief (Nintendo DS game)",
+    "short_name": "Percy Jackson & the Olympians: The Lightning Thief",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"A video game based on the film adaption of The Lightning Thief developed by Activision was released exclusively for Nintendo DS on February 11, 2010.\"",
+    "source_urls": [
+      "https://riordan.fandom.com/wiki/Percy_Jackson_and_the_Olympians:_The_Lightning_Thief_(video_game)"
+    ],
+    "notes": ""
   }
 ]

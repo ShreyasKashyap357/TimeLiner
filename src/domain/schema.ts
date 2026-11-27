@@ -188,7 +188,7 @@ export const Unit = z.object({
 });
 
 // 'adapts': this title adapts the linked one (e.g. a TV season adapts a novel). Adaptations stay separate continuities.
-export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters', 'adapts', 're-edit-of']);
+export const LinkKind = z.enum(['sequel', 'continues', 'spinoff', 'crossover', 'cameo', 'feeds-into', 'remake', 'shares-characters', 'adapts', 're-edit-of', 'ignores', 'reboot-of', 'references']);
 export const CreditRole = z.enum(['author', 'creator', 'director', 'writer', 'producer', 'executive-producer', 'composer', 'cast']);
 export const Credit = z.object({
   role: CreditRole,

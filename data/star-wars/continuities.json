@@ -634,5 +634,36 @@
       "https://en.wikipedia.org/wiki/Lego_Star_Wars"
     ],
     "notes": ""
+  },
+  {
+    "id": "sw-radio",
+    "universe": "star-wars",
+    "name": "Star Wars radio dramas (NPR/KUSC 1981–83; HighBridge 1996)",
+    "short_name": "Star Wars radio dramas",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"In 1994, Lucasfilm's continuity editor,  Allan Kausch, stated that \"'Gospel', or 'canon' as we refer to it, includes the screenplays, the films, the radio dramas and the novelizations.\"\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Star_Wars_(radio_series)"
+    ],
+    "notes": ""
   }
 ]

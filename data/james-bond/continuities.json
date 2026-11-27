@@ -248,5 +248,67 @@
       "https://en.wikipedia.org/wiki/Carte_Blanche_(novel)"
     ],
     "notes": ""
+  },
+  {
+    "id": "bond-bbc-radio",
+    "universe": "james-bond",
+    "name": "BBC Radio 4 Fleming adaptations (Toby Stephens, 2008–2020)",
+    "short_name": "BBC Radio 4 Fleming adaptations",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It continued the series of Bond radio adaptations featuring Jarvis and Stephens following Dr. No in 2008 and Goldfinger in 2010.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/James_Bond"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "bond-radio-other",
+    "universe": "james-bond",
+    "name": "Other Bond radio plays",
+    "short_name": "Other Bond radio plays",
+    "order": 10,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"In 1990 the novel was adapted into a 90-minute radio play for BBC Radio 4 with Michael Jayston playing James Bond.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/You_Only_Live_Twice_(novel)"
+    ],
+    "notes": ""
   }
 ]

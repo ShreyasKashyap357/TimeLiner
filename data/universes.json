@@ -564,5 +564,53 @@
     "data_dir": "fast-furious",
     "description": "The Fast Saga films in story order, the short films, Hobbs & Shaw, and the animated Spy Racers.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "terminator",
+    "name": "Terminator",
+    "short_name": "Terminator",
+    "order": 12,
+    "enabled": true,
+    "accent": {
+      "primary": "#E03C31",
+      "secondary": "#7FB2E5"
+    },
+    "default_continuity": "terminator-main",
+    "grouping_schemes": [],
+    "data_dir": "terminator",
+    "description": "The Terminator films, The Sarah Connor Chronicles, Terminator Zero and T2-3D, with the franchise's branching timelines.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "halloween",
+    "name": "Halloween",
+    "short_name": "Halloween",
+    "order": 13,
+    "enabled": true,
+    "accent": {
+      "primary": "#FF8C1A",
+      "secondary": "#B0B0B0"
+    },
+    "default_continuity": "halloween-myers",
+    "grouping_schemes": [],
+    "data_dir": "halloween",
+    "description": "The Halloween films: the original timeline and its H20 and 2018 branches, Season of the Witch, and Rob Zombie's remakes.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "wizarding-world",
+    "name": "Wizarding World (Harry Potter)",
+    "short_name": "Wizarding World",
+    "order": 14,
+    "enabled": true,
+    "accent": {
+      "primary": "#D3A625",
+      "secondary": "#AE0001"
+    },
+    "default_continuity": "wizarding-world-books",
+    "grouping_schemes": [],
+    "data_dir": "wizarding-world",
+    "description": "J. K. Rowling's Harry Potter books and companions, Cursed Child, the Harry Potter and Fantastic Beasts films, and the HBO series.",
+    "last_verified": "2026-11-27"
   }
 ]

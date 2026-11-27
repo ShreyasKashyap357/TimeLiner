@@ -1,0 +1,2497 @@
+[
+  {
+    "id": "the-terminator",
+    "title": "The Terminator",
+    "sort_title": "Terminator",
+    "type": "film",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "hemdale",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Terminator",
+      "wikidata": "Q162255",
+      "tmdb": "218",
+      "imdb": "tt0088247"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Terminator",
+      "https://en.wikipedia.org/wiki/The_Terminator"
+    ],
+    "notes": "Dark Fate article: \"May 12, 1984, the date that Kyle Reese time-travels to in the first film.\" Categories: Films set in 1984, 2029.",
+    "units": [
+      {
+        "id": "the-terminator",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 1984
+          },
+          "label": "1984 (future war 2029)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "a cyborg assassin sent back in time from the post-apocalyptic 2029 to 1984 to assassinate Sarah Connor",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-10-26",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: released = {{Film date|1984|10|26}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Terminator"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "William Wisher Jr.",
+        "qid": "Q769868",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brad Fiedel",
+        "qid": "Q896786",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Schwarzenegger",
+        "qid": "Q2685",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Biehn",
+        "qid": "Q241510",
+        "character": "Kyle Reese",
+        "character_qid": "Q592358",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Hamilton",
+        "qid": "Q208214",
+        "character": "Sarah Connor",
+        "character_qid": "Q496437",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Winfield",
+        "qid": "Q344576",
+        "character": "Ed Traxler",
+        "character_qid": "Q120736621",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Earl Boen",
+        "qid": "Q452763",
+        "character": "Peter Silberman",
+        "character_qid": "Q1401347",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lance Henriksen",
+        "qid": "Q312077",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rick Rossovich",
+        "qid": "Q1139727",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bill Paxton",
+        "qid": "Q110374",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Thompson",
+        "qid": "Q82330",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dick Miller",
+        "qid": "Q1209753",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shawn Schepps",
+        "qid": "Q2277553",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Franco Columbu",
+        "qid": "Q521172",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marianne Muellerleile",
+        "qid": "Q467496",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Wisher Jr.",
+        "qid": "Q769868",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-2",
+    "title": "Terminator 2: Judgment Day",
+    "sort_title": null,
+    "type": "film",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "carolco",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator 2: Judgment Day",
+      "wikidata": "Q170564",
+      "tmdb": "280",
+      "imdb": "tt0103064"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+      "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
+    ],
+    "notes": "Premiere 1991-07-01 (Century City); US release 1991-07-03. The last title shared by the main, TSCC, Dark Fate and T2-3D branches.",
+    "units": [
+      {
+        "id": "terminator-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 137,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1995
+          },
+          "end": {
+            "y": 1995
+          },
+          "label": "1995",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1995 Los Angeles, John's mother Sarah is incarcerated in Pescadero State Hospital for her violent efforts to prevent \"Judgment Day\"—the prophesied events of August 29, 1997",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-07-03",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: released = {{Film date|1991|7|1|[[Century City]]|1991|7|3|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-terminator",
+        "kind": "sequel",
+        "note": "\"it is the sequel to The Terminator (1984)\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "William Wisher Jr.",
+        "qid": "Q769868",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mario Kassar",
+        "qid": "Q1385214",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brad Fiedel",
+        "qid": "Q896786",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Schwarzenegger",
+        "qid": "Q2685",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edward Furlong",
+        "qid": "Q309631",
+        "character": "John Connor",
+        "character_qid": "Q376577",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Hamilton",
+        "qid": "Q208214",
+        "character": "Sarah Connor",
+        "character_qid": "Q496437",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Patrick",
+        "qid": "Q272977",
+        "character": "T-1000",
+        "character_qid": "Q2327890",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Earl Boen",
+        "qid": "Q452763",
+        "character": "Peter Silberman",
+        "character_qid": "Q1401347",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joe Morton",
+        "qid": "Q459007",
+        "character": "Miles Dyson",
+        "character_qid": "Q2478761",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "S. Epatha Merkerson",
+        "qid": "Q1198897",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Xander Berkeley",
+        "qid": "Q361610",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cástulo Guerra",
+        "qid": "Q378978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Cooksey",
+        "qid": "Q3015230",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jenette Goldstein",
+        "qid": "Q263964",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Biehn",
+        "qid": "Q241510",
+        "character": "Kyle Reese",
+        "character_qid": "Q592358",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387999615"
+      },
+      {
+        "role": "cast",
+        "name": "Michael Edwards",
+        "qid": "Q3308176",
+        "character": "John Connor",
+        "character_qid": "Q376577",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Wisher Jr.",
+        "qid": "Q769868",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nikki Cox",
+        "qid": "Q233840",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Shaw",
+        "qid": "Q7437236",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Don Lake",
+        "qid": "Q5292954",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-3",
+    "title": "Terminator 3: Rise of the Machines",
+    "sort_title": null,
+    "type": "film",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "intermedia",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator 3: Rise of the Machines",
+      "wikidata": "Q29054009",
+      "tmdb": "296",
+      "imdb": "tt0181852"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines",
+      "https://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines"
+    ],
+    "notes": "Lead: \"released on July 2, 2003, by Warner Bros.\" Franchise article: \"In Terminator 3 ... and Terminator Salvation (2009), Judgment Day was postponed to July 2003.\" Categories: Films set in 2003, 2032.",
+    "units": [
+      {
+        "id": "terminator-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 105,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2003
+          },
+          "end": {
+            "y": 2003
+          },
+          "label": "2003 (Terminator sent back from 2032)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Skynet sends the advanced T-X Terminator back in time to 2003 to eliminate John Connor ... They learn the Terminator killed John in 2032",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-07-02",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: released = {{Film date|2003|6|30|[[Fox Theater, Westwood Village|Mann Village Theater]]|2003|7|2|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "terminator-2",
+        "kind": "sequel",
+        "note": "\"a sequel to Terminator 2: Judgment Day (1991)\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Jonathan Mostow",
+        "qid": "Q707494",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Michael Ferris",
+        "qid": "Q3308192",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Brancato",
+        "qid": "Q4115521",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Mario Kassar",
+        "qid": "Q1385214",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Hal Lieberman",
+        "qid": "Q5640844",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Joel B. Michaels",
+        "qid": "Q9012349",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Andrew G. Vajna",
+        "qid": "Q383528",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marco Beltrami",
+        "qid": "Q465754",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Schwarzenegger",
+        "qid": "Q2685",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nick Stahl",
+        "qid": "Q335587",
+        "character": "John Connor",
+        "character_qid": "Q376577",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Claire Danes",
+        "qid": "Q867813",
+        "character": "Kate Brewster",
+        "character_qid": "Q3124253",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kristanna Loken",
+        "qid": "Q208339",
+        "character": "T-X",
+        "character_qid": "Q2341891",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Earl Boen",
+        "qid": "Q452763",
+        "character": "Peter Silberman",
+        "character_qid": "Q1401347",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Lawford",
+        "qid": "Q1086823",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Hardwick",
+        "qid": "Q313049",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Andrews",
+        "qid": "Q330801",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jay Acovone",
+        "qid": "Q3109076",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jon Foster",
+        "qid": "Q551596",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "M.C. Gainey",
+        "qid": "Q722038",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Gerald",
+        "qid": "Q1889482",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Papajohn",
+        "qid": "Q948751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Moira Harris",
+        "qid": "Q2075721",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William O'Leary",
+        "qid": "Q3288645",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carolyn Hennesy",
+        "qid": "Q441935",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elizabeth Morehead",
+        "qid": "Q5363239",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Timothy Dowling",
+        "qid": "Q15630234",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-salvation",
+    "title": "Terminator Salvation",
+    "sort_title": null,
+    "type": "film",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "halcyon",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator Salvation",
+      "wikidata": "Q191543",
+      "tmdb": "534",
+      "imdb": "tt0438488"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator_Salvation",
+      "https://en.wikipedia.org/wiki/Terminator_Salvation"
+    ],
+    "notes": "Distributor not extracted (infobox Plainlist); verify. Categories: Films set in 2003, 2018.",
+    "units": [
+      {
+        "id": "terminator-salvation",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 115,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2018
+          },
+          "end": {
+            "y": 2018
+          },
+          "label": "2018 (prologue 2003)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In a departure from the previous installments, Salvation is a post-apocalyptic film set in the year 2018.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-05-21",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: released = {{Film date|2009|05|21}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator_Salvation"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "terminator-3",
+        "kind": "sequel",
+        "note": "\"serving as a sequel to Terminator 3\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "McG",
+        "qid": "Q385058",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Brancato",
+        "qid": "Q4115521",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Michael Ferris",
+        "qid": "Q3308192",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Jonathan Nolan",
+        "qid": "Q372788",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Paul Haggis",
+        "qid": "Q314935",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Moritz Borman",
+        "qid": "Q114989",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Danny Elfman",
+        "qid": "Q193338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Christian Bale",
+        "qid": "Q45772",
+        "character": "John Connor",
+        "character_qid": "Q376577",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Worthington",
+        "qid": "Q82085",
+        "character": "Marcus Wright",
+        "character_qid": "Q22675639",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anton Yelchin",
+        "qid": "Q314133",
+        "character": "Kyle Reese",
+        "character_qid": "Q592358",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bryce Dallas Howard",
+        "qid": "Q229775",
+        "character": "Kate Brewster",
+        "character_qid": "Q3124253",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Moon Bloodgood",
+        "qid": "Q239112",
+        "character": "Blair Williams",
+        "character_qid": "Q125454776",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Common",
+        "qid": "Q286022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Helena Bonham Carter",
+        "qid": "Q170428",
+        "character": "Serena Kogan",
+        "character_qid": "Q60646278",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jane Alexander",
+        "qid": "Q242717",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Roland Kickinger",
+        "qid": "Q89536",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Steele",
+        "qid": "Q3644509",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Ironside",
+        "qid": "Q344973",
+        "character": "General Ashdown",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Greg Serano",
+        "qid": "Q360671",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Hamilton",
+        "qid": "Q208214",
+        "character": "Sarah Connor",
+        "character_qid": "Q496437",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Terry Crews",
+        "qid": "Q271464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jadagrace",
+        "qid": "Q16730130",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ivan G'Vera",
+        "qid": "Q6096261",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Papajohn",
+        "qid": "Q948751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Browning",
+        "qid": "Q17305722",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Treva Etienne",
+        "qid": "Q3538544",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Isaac Kappy",
+        "qid": "Q42532791",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Po Chan",
+        "qid": "Q105753366",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-genisys",
+    "title": "Terminator Genisys",
+    "sort_title": null,
+    "type": "film",
+    "universe": "terminator",
+    "continuity": "terminator-genisys",
+    "studio_brand": "skydance",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator Genisys",
+      "wikidata": "Q15140437",
+      "tmdb": "87101",
+      "imdb": "tt1340138"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator_Genisys",
+      "https://en.wikipedia.org/wiki/Terminator_Genisys"
+    ],
+    "notes": "Skydance executive: \"It's not a traditional remake, nor is it a continuation or a sequel, nor is it exactly a reboot.\" Ellison: \"For us this is Terminator 1, this is not Terminator 5\". Judgment Day \"postponed to an unspecified day in October 2017\" (franchise article). Minor conflict: the infobox gives the Berlin premiere as 2015-06-22, the prose says \"June 21\".",
+    "units": [
+      {
+        "id": "terminator-genisys",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 126,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1984
+          },
+          "end": {
+            "y": 2017
+          },
+          "label": "1984 and 2017 (also 1973, 1997, 2029)",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The film features seven different time periods, with 1984 and 2017 being the primary setting for the story.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-01",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: released = {{Film date|2015|6|22|[[Berlin]]|2015|7|1|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator_Genisys"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-terminator",
+        "kind": "reboot-of",
+        "note": "\"a reboot branching off from the timeline of the original film\" (franchise article); restages the 1984 arrival"
+      },
+      {
+        "to": "terminator-2",
+        "kind": "references",
+        "note": "\"Concepts from the second movie, such as the T-1000, are featured, but its events are disregarded\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Alan Taylor",
+        "qid": "Q1113146",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Laeta Kalogridis",
+        "qid": "Q276278",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Patrick Lussier",
+        "qid": "Q772880",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Ellison",
+        "qid": "Q5233363",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Dana Goldberg",
+        "qid": "Q16130830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Lorne Balfe",
+        "qid": "Q608628",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Schwarzenegger",
+        "qid": "Q2685",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emilia Clarke",
+        "qid": "Q235132",
+        "character": "Sarah Connor",
+        "character_qid": "Q496437",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jason Clarke",
+        "qid": "Q402764",
+        "character": "John Connor / T-3000",
+        "character_qid": "Q376577",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jai Courtney",
+        "qid": "Q604849",
+        "character": "Kyle Reese",
+        "character_qid": "Q592358",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lee Byung-hun",
+        "qid": "Q380121",
+        "character": "T-1000",
+        "character_qid": "Q2327890",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Smith",
+        "qid": "Q312385",
+        "character": "T-5000",
+        "character_qid": "Q24839006",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. K. Simmons",
+        "qid": "Q150482",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dayo Okeniyi",
+        "qid": "Q589836",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Courtney B. Vance",
+        "qid": "Q710169",
+        "character": "Miles Dyson",
+        "character_qid": "Q2478761",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Gladis",
+        "qid": "Q6420832",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sandrine Holt",
+        "qid": "Q468600",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wayne Bastrup",
+        "qid": "Q7976031",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gregory Alan Williams",
+        "qid": "Q477819",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Otto Sanchez",
+        "qid": "Q2684294",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Griff Furst",
+        "qid": "Q1546566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Afemo Omilami",
+        "qid": "Q2825721",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kerry O'Malley",
+        "qid": "Q18419251",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Douglas Smith",
+        "qid": "Q1252523",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brandon Stacy",
+        "qid": "Q898187",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Francis Murphy",
+        "qid": "Q16253434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lisa McRee",
+        "qid": "Q6558261",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeffrey Johnson",
+        "qid": "Q6176084",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sergio Kato",
+        "qid": "Q15265332",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Douglas M. Griffin",
+        "qid": "Q23537577",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-dark-fate",
+    "title": "Terminator: Dark Fate",
+    "sort_title": null,
+    "type": "film",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "skydance",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator: Dark Fate",
+      "wikidata": "Q39072454",
+      "tmdb": "290859",
+      "imdb": "tt6450804"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator:_Dark_Fate",
+      "https://en.wikipedia.org/wiki/Terminator:_Dark_Fate"
+    ],
+    "notes": "The brief mentioned 2020/2022, but this revision gives only 1998, 2020 and 2042 (categories agree). Franchise article: Judgment Day \"occurs sometime in the early 2020s in this timeline\". Distributor not extracted; verify.",
+    "units": [
+      {
+        "id": "terminator-dark-fate",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 128,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "dark-fate",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2020
+          },
+          "end": {
+            "y": 2020
+          },
+          "label": "2020 (prologue 1998; Grace from 2042)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The film is set 25 years after the events of Terminator 2, when ... Legion ... sends ... the Rev-9, back in time to 2020 ... | In 1998, three years after the destruction of Cyberdyne Systems, Sarah and John Connor have retreated to Livingston, Guatemala ... | a cybernetically enhanced soldier named Grace is sent from the year 2042 to protect her.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-11-01",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: released = {{Film date|2019|10|23|Europe|2019|11|1|United States}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator:_Dark_Fate"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "terminator-2",
+        "kind": "sequel",
+        "note": "direct sequel to T2"
+      },
+      {
+        "to": "terminator-3",
+        "kind": "ignores",
+        "note": "\"ignoring the events of T3, Salvation and Genisys\""
+      },
+      {
+        "to": "terminator-salvation",
+        "kind": "ignores",
+        "note": ""
+      },
+      {
+        "to": "terminator-genisys",
+        "kind": "ignores",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Tim Miller",
+        "qid": "Q19561563",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Billy Ray",
+        "qid": "Q2679090",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David S. Goyer",
+        "qid": "Q352010",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Josh Friedman",
+        "qid": "Q6288874",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Ellison",
+        "qid": "Q5233363",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Edward Cheng",
+        "qid": "Q67206382",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bonnie Curtis",
+        "qid": "Q2910295",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Dana Goldberg",
+        "qid": "Q66086076",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Don Granger",
+        "qid": "Q21066715",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Junkie XL",
+        "qid": "Q266429",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Schwarzenegger",
+        "qid": "Q2685",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Hamilton",
+        "qid": "Q208214",
+        "character": "Sarah Connor",
+        "character_qid": "Q496437",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Diego Boneta",
+        "qid": "Q1342932",
+        "character": "Diego Ramos",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mackenzie Davis",
+        "qid": "Q16238721",
+        "character": "Grace",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Natalia Reyes",
+        "qid": "Q6038503",
+        "character": "Dani Ramos",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gabriel Luna",
+        "qid": "Q16221878",
+        "character": "Rev-9",
+        "character_qid": "Q72289924",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Hopper",
+        "qid": "Q1190081",
+        "character": "Hadrell",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brett Azar",
+        "qid": "Q18203461",
+        "character": "Terminator",
+        "character_qid": "Q1976616",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steven Cree",
+        "qid": "Q21574198",
+        "character": "Rigby",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Enrique Arce",
+        "qid": "Q5807272",
+        "character": "Vicente",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Samantha Coughlan",
+        "qid": "Q23718953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arlette Torres",
+        "qid": "Q47091447",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stephanie Gil",
+        "qid": "Q55652024",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Oyoung",
+        "qid": "Q26155674",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alicia Borrachero",
+        "qid": "Q276393",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Geneviève Doang",
+        "qid": "Q3100623",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stuart McQuarrie",
+        "qid": "Q15456833",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nick Wittman",
+        "qid": "Q59534780",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tristán Ulloa",
+        "qid": "Q973226",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Björn Freiberg",
+        "qid": "Q20171862",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Weiler",
+        "qid": "Q23011473",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Barriscale",
+        "qid": "Q39701219",
+        "character": "US Border X-Ray Officer",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-sarah-connor-chronicles",
+    "title": "Terminator: The Sarah Connor Chronicles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "warner-bros-television",
+    "label": null,
+    "platform_or_network": "fox",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator: The Sarah Connor Chronicles",
+      "wikidata": "Q94713",
+      "tmdb": "433",
+      "imdb": "tt0851851"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles",
+      "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles",
+      "https://terminator.fandom.com/wiki/Terminator:_The_Sarah_Connor_Chronicles/Season_2 (revid 115278; gives no year)"
+    ],
+    "notes": "Infobox: num_seasons 2, num_episodes 31, runtime 41-52 min, Fox, 2008-01-13 to 2009-04-10. Judgment Day delayed to April 21, 2011 (franchise article). Series retcons (efn notes): T2 placed in 1997, future war in 2027.",
+    "units": [
+      {
+        "id": "terminator-sarah-connor-chronicles-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "sarah-connor-chronicles",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1999
+          },
+          "end": {
+            "y": 2007
+          },
+          "label": "1999, then 2007",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "In 1999, four years after the events of Terminator 2, a T-888 known as \"Cromartie\" is sent from the future to kill John. ... During the pilot episode, Cameron and the Connors make a temporal leap to Los Angeles 2007",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-01-13",
+          "end_date": "2008-03-03",
+          "year": 2008,
+          "note": "Wikipedia: episodes1 = 9 | start1 = {{Start date|2008|1|13}} | end1 = {{End date|2008|3|3}} (List of Terminator: The Sarah Connor Chronicles episodes, revid 1386411594)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "terminator-sarah-connor-chronicles-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 22,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "sarah-connor-chronicles",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 1 (2007); the finale jumps to the post-Judgment Day future",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Despite losing sight of the Turk, the Connors continue their efforts to prevent the rise of Skynet. ... He then travels to the post-Judgment Day future, using one of Weaver's time machines.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "t2-3d-battle-across-time",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2008-09-08",
+          "end_date": "2009-04-10",
+          "year": 2008,
+          "note": "Wikipedia: episodes2 = 22 | start2 = {{Start date|2008|9|8}} | end2 = {{End date|2009|4|10}} (List of Terminator: The Sarah Connor Chronicles episodes, revid 1386411594)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles",
+          "https://terminator.fandom.com/wiki/Terminator:_The_Sarah_Connor_Chronicles/Season_2 (revid 115278; gives no year)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "terminator-2",
+        "kind": "sequel",
+        "note": "\"picking up shortly after Terminator 2\""
+      },
+      {
+        "to": "terminator-3",
+        "kind": "ignores",
+        "note": "\"disregarding the events of Terminator 3\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Josh Friedman",
+        "qid": "Q6288874",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "David Nutter",
+        "qid": "Q1279660",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Bear McCreary",
+        "qid": "Q621437",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lena Headey",
+        "qid": "Q228789",
+        "character": "Sarah Connor",
+        "character_qid": "Q496437",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Dekker",
+        "qid": "Q369292",
+        "character": "John Connor",
+        "character_qid": "Q376577",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Summer Glau",
+        "qid": "Q236854",
+        "character": "Cameron",
+        "character_qid": "Q857708",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard T. Jones",
+        "qid": "Q374181",
+        "character": "James Ellison",
+        "character_qid": "Q12156698",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Austin Green",
+        "qid": "Q313311",
+        "character": "Derek Reese",
+        "character_qid": "Q12157926",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Garret Dillahunt",
+        "qid": "Q712437",
+        "character": "Cromartie",
+        "character_qid": "Q904957",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shirley Manson",
+        "qid": "Q234104",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leven Rambin",
+        "qid": "Q240558",
+        "character": "Riley Dawson",
+        "character_qid": "Q20436575",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stephanie Jacobsen",
+        "qid": "Q286184",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "terminator-zero",
+    "title": "Terminator Zero",
+    "sort_title": null,
+    "type": "animated-series",
+    "universe": "terminator",
+    "continuity": "terminator-zero",
+    "studio_brand": "production-ig",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Terminator Zero",
+      "wikidata": "Q125996495",
+      "tmdb": "239287",
+      "imdb": "tt14153236"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terminator_Zero",
+      "https://en.wikipedia.org/wiki/Terminator_Zero"
+    ],
+    "notes": "Runtime 26-30 min per episode. Cancelled after one season (February 2026). Fan wiki (revid 122257, https://terminator.fandom.com/wiki/Terminator_Zero): \"[[1997]]: The AI known as Skynet gained self-awareness\"; future events \"take place in [[2022]]\".",
+    "units": [
+      {
+        "id": "terminator-zero",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1997
+          },
+          "end": {
+            "y": 1997
+          },
+          "label": "1997 Tokyo (future war 2022)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1997 Tokyo, Malcolm Lee is developing Kokoro, an AI system intended to compete with Skynet. The day before Judgment Day, Lee finds himself and his three children pursued by an unknown robot assassin and a mysterious soldier from the year 2022 has been sent to protect him.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-08-29",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: released = {{Start date|2024|08|29}}; episode OriginalAirDate = {{Start date|2024|8|29}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Terminator_Zero"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-terminator",
+        "kind": "references",
+        "note": "\"the series treats all of the prior films as canon\" (Tomlin)"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Masashi Kudō",
+        "qid": "Q6782670",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Mattson Tomlin",
+        "qid": "Q76756512",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "t2-3d-battle-across-time",
+    "title": "T2-3D: Battle Across Time",
+    "sort_title": null,
+    "type": "special",
+    "universe": "terminator",
+    "continuity": "terminator-main",
+    "studio_brand": "landmark-entertainment",
+    "label": null,
+    "platform_or_network": "theme-park",
+    "canon_tier": "core",
+    "characters": [
+      "sarah-connor",
+      "t-800"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "T2-3D: Battle Across Time",
+      "wikidata": "Q728267",
+      "tmdb": null,
+      "imdb": "tt0117880"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/T2-3D:_Battle_Across_Time",
+      "https://terminator.fandom.com/wiki/T2_3-D:_Battle_Across_Time (revid 121529)"
+    ],
+    "notes": "Theme-park attraction film (Universal Studios Florida 1996, later Hollywood and Japan). The Wikipedia text does not give 2032; that year comes from the fan wiki only. Optional title. The requested title \"T2 3-D: Battle Across Time\" redirects to this article.",
+    "units": [
+      {
+        "id": "t2-3d-battle-across-time",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 13,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "battle-across-time",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After T2 (present day not stated); John is taken to 2032",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "He takes John back through the portal to 2032, into the future war between humans and machines.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "terminator-dark-fate",
+            "before": "terminator-sarah-connor-chronicles-s2"
+          }
+        },
+        "release": {
+          "date": "1996-04-27",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: released = {{Film date|1996|4|27|Florida}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/T2-3D:_Battle_Across_Time",
+          "https://terminator.fandom.com/wiki/T2_3-D:_Battle_Across_Time (revid 121529)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "terminator-2",
+        "kind": "sequel",
+        "note": "\"a mini-sequel to Terminator 2: Judgment Day\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Stan Winston",
+        "qid": "Q320211",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "John Bruno",
+        "qid": "Q3181135",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Scott Ross",
+        "qid": "Q965301",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Kostenko Jr.",
+        "qid": "Q5487747",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Scott Ross",
+        "qid": "Q7437154",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brad Fiedel",
+        "qid": "Q896786",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

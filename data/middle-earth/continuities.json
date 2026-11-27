@@ -376,5 +376,129 @@
       "https://en.wikipedia.org/wiki/Hobitit"
     ],
     "notes": ""
+  },
+  {
+    "id": "me-bbc-radio-1955",
+    "universe": "middle-earth",
+    "name": "The Lord of the Rings (BBC Third Programme, 1955–56)",
+    "short_name": "The Lord of the Rings",
+    "order": 8,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"These radio broadcasts were the first dramatisation of The Lord of the Rings, a book by J. R. R. Tolkien\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1955_radio_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-bbc-radio-hobbit-1968",
+    "universe": "middle-earth",
+    "name": "The Hobbit (BBC Radio 4, 1968)",
+    "short_name": "The Hobbit",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The Hobbit is a 1968 BBC Radio adaptation of J. R. R. Tolkien's 1937 children's fantasy novel of the same name.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Hobbit_(radio_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-bbc-radio-1981",
+    "universe": "middle-earth",
+    "name": "The Lord of the Rings (BBC Radio 4, 1981)",
+    "short_name": "The Lord of the Rings",
+    "order": 10,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The serial was first broadcast from 8 March to 30 August 1981 on BBC Radio 4\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1981_radio_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-lotr-musical",
+    "universe": "middle-earth",
+    "name": "The Lord of the Rings (stage musical, 2006)",
+    "short_name": "The Lord of the Rings",
+    "order": 11,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The London-based theatre producer Kevin Wallace and his partner, Saul Zaentz, who held the stage and film rights, in association with Toronto theatre owner David Mirvish and concert promoter Michael Cohl, produced a stage musical adaptation.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)"
+    ],
+    "notes": ""
   }
 ]

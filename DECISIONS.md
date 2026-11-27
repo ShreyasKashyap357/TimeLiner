@@ -9,10 +9,6 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | # | Question | Default being used |
 |---|---|---|
 | D-35 | **Cameo sources.** Cameos come from the Wikipedia article text (sentences about a cameo, matched only to people already in the cast list). You asked for the fan wikis to be checked as well, with clear citations. | In progress: fan-wiki cameo markers are being collected; each cameo will show which source marked it. |
-| D-36 | **MonsterVerse essentials.** Only one guide (Slashfilm) gives a newcomer list, so the usual "2 guides" rule would mark nothing essential. | Essential = in Slashfilm's newcomer list and in at least one other list, and not called skippable (6 of 8 entries). |
-| D-37 | **House of the Dragon season 3** is marked essential although only one guide is recent enough to include it. | Keep it essential (the other seasons are). |
-| D-38 | **Watch orders never mix continuities.** Star Trek guides put the three Kelvin films after Voyager and Enterprise, and DC guides suggest Peacemaker S1 / Blue Beetle (DCEU) before the DCU. | Each continuity gets its own order, and the cross-continuity advice is written in the order's note. |
-| D-39 | **Lobo (2000 web series).** Wikipedia says its DCAU membership "is unclear … still disputed". | In the standalone DC collection, not the DCAU. |
 
 ## Resolved
 

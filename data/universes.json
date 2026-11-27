@@ -1578,5 +1578,69 @@
     "data_dir": "foundation",
     "description": "Isaac Asimov's Robot, Galactic Empire and Foundation books (one universe, as Asimov merged them), the authorized Second Foundation trilogy, the Apple TV+ series and the 1973 BBC radio serial.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "golmaal",
+    "name": "Golmaal",
+    "short_name": "Golmaal",
+    "order": 58,
+    "enabled": true,
+    "accent": {
+      "primary": "#F2A900",
+      "secondary": "#D32F2F"
+    },
+    "default_continuity": "golmaal-standalone-collection",
+    "grouping_schemes": [],
+    "data_dir": "golmaal",
+    "description": "Rohit Shetty's Golmaal comedies. The films reuse character names but give them incompatible backstories, so they are treated as standalone.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "housefull",
+    "name": "Housefull",
+    "short_name": "Housefull",
+    "order": 59,
+    "enabled": true,
+    "accent": {
+      "primary": "#E91E63",
+      "secondary": "#FFC107"
+    },
+    "default_continuity": "housefull-2010",
+    "grouping_schemes": [],
+    "data_dir": "housefull",
+    "description": "The Housefull comedies. 'Each film starts with a fresh story unrelated with the preceding film's story', so each is its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "bhool-bhulaiyaa",
+    "name": "Bhool Bhulaiyaa",
+    "short_name": "Bhool Bhulaiyaa",
+    "order": 60,
+    "enabled": true,
+    "accent": {
+      "primary": "#6A1B9A",
+      "secondary": "#FFB300"
+    },
+    "default_continuity": "manichitrathazhu",
+    "grouping_schemes": [],
+    "data_dir": "bhool-bhulaiyaa",
+    "description": "Bhool Bhulaiyaa (a remake of Manichitrathazhu) and its standalone sequels, each its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "drishyam",
+    "name": "Drishyam",
+    "short_name": "Drishyam",
+    "order": 61,
+    "enabled": true,
+    "accent": {
+      "primary": "#37474F",
+      "secondary": "#FF7043"
+    },
+    "default_continuity": "drishyam-malayalam",
+    "grouping_schemes": [],
+    "data_dir": "drishyam",
+    "description": "The Malayalam Drishyam films and each language's remakes as separate continuities.",
+    "last_verified": "2026-11-27"
   }
 ]

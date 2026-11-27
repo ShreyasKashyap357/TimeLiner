@@ -1,0 +1,70 @@
+// Golmaal: standalone films in release order.
+// Generated from research (research-w4-c.json) on 2026-11-27 by the generic generator.
+import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
+
+export const UNIVERSE: Universe = {
+  id: 'golmaal', name: "Golmaal", short_name: "Golmaal", order: 58, enabled: true,
+  accent: { primary: '#F2A900', secondary: '#D32F2F' }, default_continuity: 'golmaal-standalone-collection', data_dir: 'golmaal', last_verified: null,
+  description: "Rohit Shetty's Golmaal comedies. The films reuse character names but give them incompatible backstories, so they are treated as standalone.", grouping_schemes: [],
+};
+export const CONTINUITIES: Continuity[] = [
+ {
+  "id": "golmaal-standalone-collection",
+  "universe": "golmaal",
+  "name": "Golmaal films (standalone collection)",
+  "short_name": "Golmaal films",
+  "order": 1,
+  "kind": "shared",
+  "calendar": {
+   "kind": "ordered-only"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Rohit Shetty's Golmaal comedies. Recurring character names (Gopal, Madhav, Lucky, Laxman) and cast, but each film resets their circumstances; ordered by release, not by an in-universe chronology. Wikipedia never states whether the films share a continuity. The same character names (Gopal, Madhav, Lucky, Laxman) recur, but each plot gives them incompatible backstories, so the films are treated as standalone stories in one release-ordered collection. Wikipedia: \"Friends Gopal, Lucky, Madhav and Laxman often dupe gullible people out of their money. … Gopal, who lives with his ever suspecting wife, Ekta … Five orphan men return to the orphanage they grew up in to attend their mentor's funeral. … This table lists the main characters who appear in the Golmaal franchise.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=Golmaal_%28film_series%29&oldid=1387531415",
+   "https://en.wikipedia.org/w/index.php?title=Golmaal_Returns&oldid=1378827418",
+   "https://en.wikipedia.org/w/index.php?title=Golmaal_3&oldid=1384011621"
+  ],
+  "notes": "Backstory conflicts, quoted from the plot sections: Golmaal Returns: \"He also lives with his sister Esha and Ekta's mute brother, his brother in law Lucky.\" Golmaal 3: \"Pritam ... His three good-for-nothing sons, Madhav ... Laxman ... and Lucky, the innocent mute\" and \"Geeta ... whose two sons, Laxman, the stammerer, and Gopal\". Golmaal Again: \"Gopal, Madhav, Laxman 1, Laxman 2, and Lucky live in an orphanage in Ooty\". Inferred standalone status: Wikipedia has no explicit statement either way."
+ }
+];
+export const STUDIOS: Studio[] = [
+ {
+  "id": "shree-ashtavinayak-cine-vision",
+  "label": "Shree Ashtavinayak Cine Vision",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "reliance-entertainment",
+  "label": "Reliance Entertainment",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ }
+];
+export const PLATFORMS: Platform[] = [];
+export const TAGS: Tag[] = [];
+export const FANDOM_PREFIXES = {};
+export const SORT_BY_YEAR = ["golmaal-standalone-collection"];

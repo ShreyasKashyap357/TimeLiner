@@ -8,17 +8,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-66 | Games whose Wikipedia infobox gives one date for several platforms with no per-platform breakdown (e.g. Halo Infinite: Windows, Xbox One, Series X/S, "December 8, 2021"; about 40 games). Should that date be recorded for every listed platform, marked as inferred? | Not recorded: only dates the infobox places under a platform header are stored (R-52). The game keeps its single release date. |
-| D-67 | **Odd but sourced film figures.** Wikidata gives Dr. Who and the Daleks a worldwide gross of $114,062, and a few limited releases show grosses of a few thousand dollars. Budgets given as ranges stay ranges (Endgame $356–400 million). Figures are not adjusted for inflation. | Shown as the source gives them, with the source wording in a tooltip. |
-| D-68 | TV viewership (R-56): units that are Doctor Who specials (Christmas/New Year specials and special runs) have no season number, so they get no figures, although the series articles list their viewers. Map them by episode title? | Not mapped; only numbered seasons get figures. |
-| D-69 | TV viewership: a two-part episode aired as one broadcast with one figure (e.g. the Smallville finale) shows that figure on both parts. Keep, or show it on the first part only? | Shown on both parts, as in the source row. |
-| D-70 | **Story order without sourced years** (The Expanse novellas, The Walking Dead shows, the procedurals, Stargate seasons). | Premiere or publication order, marked inferred. Prequels are moved only where a source says so (NCIS: Origins, Stargate Origins, Caprica). |
-| D-71 | **Brian Herbert & Kevin J. Anderson Dune books** in the same continuity as Frank Herbert's, as Wikipedia files them. Their canon is debated. | Same continuity, with the debate in the notes. |
-| D-72 | **The Madison and Lawmen: Bass Reeves** are outside the Yellowstone universe per Wikipedia (the franchise article disagrees for Bass Reeves). | Separate continuities, still listed under Yellowstone. |
-| D-73 | **Contemporary settings** (BBC Sherlock, Elementary, Amazon Jack Ryan, procedurals): set "in the present day" but no year is stated. | No story year; ordered by release. Air year is not used as the story year. |
-| D-74 | **Dragon Ball GT and the re-edits (Kai, Super: Beerus).** | GT is its own continuity (Wikipedia does not say Super replaces it). The re-edits are a separate continuity so the story is not listed twice. |
-| D-75 | **One Piece films** placed beside their tie-in arcs even though Oda "does not connect the films to his manga". | Placed there and marked disputed. |
-| D-76 | **TMNT (2007) and Beast Wars:** sources disagree on whether they continue the 1990 films and G1. | Separate continuities, linked (disputed). |
+| D-77 | **One Piece films: the Library of Ohara has no film or filler timeline.** It publishes a canon-only timeline and says Film RED, Stampede and Film Z are not canon (with canon elements). | Kept the current film positions (disputed), citing Wikipedia where it places them (Strong World between Thriller Bark and Sabaody; Film Z after the time-skip), with the Library of Ohara's canon statements credited in the notes. The retelling films link to the arcs they retell. |
+| D-78 | **Interactive world maps.** Official maps are copyrighted, and Commons is mass-deleting Middle-earth fan maps (traced from Christopher Tolkien's, in copyright until 2091). Safe, openly licensed maps exist for: Narnia (public-domain map drawn from the text), the Star Trek galaxy quadrants (public domain), the One Piece world layout (CC BY-SA), the Star Wars galaxy (CC BY-SA, Legends-era), Panem (fan-made, CC BY-SA) and the 1965 Arrakis map (US public domain only). Middle-earth, Westeros, Wheel of Time, Discworld, Cosmere and Avatar have none. | Proposed: Leaflet, bundled (no CDN). (1) Licensed maps as zoomable images with clickable, cited places linking to titles. (2) Schematic maps generated from sourced place facts where nothing is licensed. (3) OpenStreetMap for Earth-based worlds (Wizarding World, Outlander, Shadowhunters), with places from Wikidata. Credits in an About-this-map panel; fan-made maps badged. Not started; your call on scope. |
 
 ## Resolved
 
@@ -80,3 +71,9 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-54 | Halloween | D-54 | Approved; the branch and its sources must be visible in the app (the current layout is fine). |
 | R-55 | UI | Popovers | Never use the browser's native hover text anywhere; use the app's own tooltips and popovers. |
 | R-56 | data | Film and TV stats | Films: runtime, budget and box office. TV: viewers per episode and per season. |
+| R-57 | games | D-66 | Confirm shared dates from the article text and name the platforms each date applies to. Done for 31 games (102 entries); 13 games have no text tying dates to platforms and stay empty. |
+| R-58 | data | D-67, D-69, D-70, D-71, D-72, D-73, D-74, D-76 | Approved as proposed. |
+| R-59 | TV | D-68 | Map specials' viewer figures. Done by air date for 8 Doctor Who / Sarah Jane specials; the other Christmas specials are not in the parsed tables yet (TODO). |
+| R-60 | anime | D-75 | Approved. Non-canon anime material to be placed using the Library of Ohara timeline, credited. |
+| R-61 | UI | Release order | Release order must be grouped by year everywhere (the timeline's Release toggle was flat; fixed). Undated timelines show their own in-universe labels as headings. |
+| R-62 | data | Riordanverse | Year markers like other universes: Riordan Wiki years used (inferred). |

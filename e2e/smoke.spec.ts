@@ -145,7 +145,8 @@ test.describe('URL defaults and pickers (regressions)', () => {
     // The last universe is reachable by scrolling the list.
     const last = page.getByRole('option').last();
     await page.getByRole('option', { name: 'Marvel' }).hover();
-    for (let i = 0; i < 15 && !(await last.evaluate((e) => { const r = e.getBoundingClientRect(); return r.bottom <= window.innerHeight && r.top >= 0; })); i++) await page.mouse.wheel(0, 300);
+    const list = page.locator('[cmdk-list]');
+    for (let i = 0; i < 20 && !(await list.evaluate((e) => e.scrollTop + e.clientHeight >= e.scrollHeight - 2)); i++) { await page.mouse.wheel(0, 400); await page.waitForTimeout(50); }
     await expect(last).toBeInViewport();
   });
   test('a universe link without a continuity opens its default continuity', async ({ page }) => {

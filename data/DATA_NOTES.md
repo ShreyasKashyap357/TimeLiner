@@ -844,3 +844,8 @@ Same pipeline and rules as Wave 2. The judgement calls:
   - **Separate continuities:** the Apple TV+ series ("pretty much unrecognizable" from the books, with its own E.I. calendar) and the 1973 BBC Radio 4 serial.
 - **Game release dates, shared (D-66).** 31 more games have per-platform dates, but only where the article text names the platforms for a date ("released worldwide on October 25, 2013, for the PlayStation 3, Wii U, Windows, and Xbox 360"). Thirteen games stay empty because no sentence ties their dates to platforms.
 - **Doctor Who specials' viewers (D-68).** Eight specials are matched by air date to the episode tables in the series articles. A unit is filled only if the row count equals its episode count.
+- **One Piece films and the Library of Ohara (D-75, D-77).**
+  - **No placements to use:** the Library of Ohara (thelibraryofohara.com, posts by NewWorld - Artur) publishes a canon-only One Piece timeline with no film or filler placements.
+  - **What it does give:** canon statements for Film RED, Stampede and Film Z, now quoted and credited in those films' notes.
+  - **Placements:** Wikipedia places Strong World (between Thriller Bark and Sabaody) and Film Z (after the time-skip). Other film positions stay disputed.
+  - **Retelling films:** Desert Princess and Episode of Chopper Plus are linked to the anime as `adapts`; their ordering stays separate.

@@ -1099,7 +1099,7 @@
           "label": "end of season 15 (after Fish-Man Island)",
           "precision": "relative",
           "confidence": "disputed",
-          "note": "The events of the film takes place near the end of the fifteenth season of the One Piece anime series during the \"Z's Ambition\" story arc, which serves as a prologue.",
+          "note": "The events of the film takes place near the end of the fifteenth season of the One Piece anime series during the \"Z's Ambition\" story arc, which serves as a prologue. Library of Ohara (One Piece Timeline V5.0): \"Though Zephyr isn't canon, the timeline of Sakazuki and Borsalino is, as confirmed in the Vivre Cards.\" Wikipedia: \"the first One Piece film to take place in the New World, after the two-year time-skip.\"",
           "order_index": 170,
           "relative_to": null
         },
@@ -1115,7 +1115,8 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/One_Piece_Film:_Z",
-          "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Z&oldid=1373662482"
+          "https://en.wikipedia.org/w/index.php?title=One_Piece_Film%3A_Z&oldid=1373662482",
+          "https://thelibraryofohara.com/the-one-piece-timeline/"
         ],
         "notes": ""
       }
@@ -1323,7 +1324,7 @@
           "label": "start of season 20 (before Wano proper)",
           "precision": "relative",
           "confidence": "disputed",
-          "note": "Episodes 895 and 896 contain an original story arc, \"Cidre Guild\" which ties into the film One Piece: Stampede. … Other Supernovas make their way as, elsewhere, Buena Festa looks forward to a clash between Luffy and Douglas Bullet, leading to the events in One Piece: Stampede.",
+          "note": "Episodes 895 and 896 contain an original story arc, \"Cidre Guild\" which ties into the film One Piece: Stampede. … Other Supernovas make their way as, elsewhere, Buena Festa looks forward to a clash between Luffy and Douglas Bullet, leading to the events in One Piece: Stampede. Library of Ohara (NewWorld - Artur, Stampede review, 2019-08-11): \"While the movie isn't canon, it reveals certain canon things relative to the main series.\"",
           "order_index": 230,
           "relative_to": null
         },
@@ -1339,7 +1340,8 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/One_Piece:_Stampede",
-          "https://en.wikipedia.org/w/index.php?title=One_Piece_season_20&oldid=1388297406"
+          "https://en.wikipedia.org/w/index.php?title=One_Piece_season_20&oldid=1388297406",
+          "https://thelibraryofohara.com/2019/08/11/one-piece-stampede-review/"
         ],
         "notes": ""
       }
@@ -1435,7 +1437,7 @@
           "label": "after Wano (fan wiki)",
           "precision": "relative",
           "confidence": "disputed",
-          "note": "The events of the film, while not canon, would likely take place after the Wano Country Arc, given that Jinbe is part of and sailing with the Straw Hat Pirates",
+          "note": "The events of the film, while not canon, would likely take place after the Wano Country Arc, given that Jinbe is part of and sailing with the Straw Hat Pirates Library of Ohara (NewWorld - Artur, Film RED review, 2022-08-09): \"Though the film's actual events in the timeline obviously aren't, Uta's character and backstory are all canon.\" Its timeline adds: \"Film RED: confirms Shanks as a member of the Fegarland Family, an element Oda confirms as canon.\"",
           "order_index": 250,
           "relative_to": null
         },
@@ -1451,7 +1453,8 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/One_Piece_Film:_Red",
-          "https://onepiece.fandom.com/wiki/One_Piece_Film:_Red?oldid=2132023"
+          "https://onepiece.fandom.com/wiki/One_Piece_Film:_Red?oldid=2132023",
+          "https://thelibraryofohara.com/2022/08/09/one-piece-film-red-review/"
         ],
         "notes": ""
       }
@@ -2177,6 +2180,11 @@
         "to": "one-piece-anime",
         "kind": "shares-characters",
         "note": "non-canon original or retold story"
+      },
+      {
+        "to": "one-piece-anime",
+        "kind": "adapts",
+        "note": "Retells the Alabasta arc (anime season 4), per Wikipedia. Not a separate event."
       }
     ],
     "credits": [],
@@ -2252,6 +2260,11 @@
         "to": "one-piece-anime",
         "kind": "shares-characters",
         "note": "non-canon original or retold story"
+      },
+      {
+        "to": "one-piece-anime",
+        "kind": "adapts",
+        "note": "Alternate retelling of the Drum Island arc (anime season 3), per Wikipedia."
       }
     ],
     "credits": [],

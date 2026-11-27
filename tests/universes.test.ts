@@ -283,3 +283,18 @@ describe('Plain text', () => {
     }
   });
 });
+
+describe('Release order on the timeline (regression)', () => {
+  it('is grouped by release year, not one flat block', () => {
+    const r = spine(scoped('marvel', 'mcu'), 'release');
+    expect(r.sections.length).toBeGreaterThan(5);
+    expect(r.sections[0]!.label).toMatch(/^\d{4}$/);
+    const years = r.sections.filter((s) => /^\d{4}$/.test(s.label)).map((s) => Number(s.label));
+    expect([...years].sort((a, b) => a - b)).toEqual(years);
+  });
+  it('ordered-only continuities have per-entry headings (story order)', () => {
+    const r = spine(scoped('doctor-who', 'whoniverse'), 'in-universe');
+    expect(r.sections.length).toBeGreaterThan(5);
+    expect(r.sections[0]!.label).not.toBe('');
+  });
+});

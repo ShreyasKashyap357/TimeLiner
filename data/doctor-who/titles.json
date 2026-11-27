@@ -5823,9 +5823,27 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Doctor_Who_(film)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/w/index.php?title=Doctor_Who_(film)&oldid=1387414004"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "'",
+              "date": "1996-05-12",
+              "millions": 9.08
+            }
+          ],
+          "season_average": 9.08,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=Doctor_Who_(film)&oldid=1387414004",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       }
     ],
     "links": [
@@ -6117,9 +6135,27 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/w/index.php?title=Doctor_Who_series_2&oldid=1387284724"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Attack of the Graske",
+              "date": "2005-12-25",
+              "millions": null
+            }
+          ],
+          "season_average": null,
+          "season_average_kind": null,
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=Doctor_Who_series_2&oldid=1387284724",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "doctor-who-2005-s2",
@@ -6633,9 +6669,51 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2008%E2%80%932010)&oldid=1387284810"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Next Doctor",
+              "date": "2008-12-25",
+              "millions": 13.1
+            },
+            {
+              "n": 2,
+              "title": "Planet of the Dead",
+              "date": "2009-04-11",
+              "millions": 9.54
+            },
+            {
+              "n": 3,
+              "title": "The Waters of Mars",
+              "date": "2009-11-15",
+              "millions": 9.94
+            },
+            {
+              "n": 4,
+              "title": "The End of TimePart One",
+              "date": "2009-12-25",
+              "millions": 11.57
+            },
+            {
+              "n": 5,
+              "title": "The End of TimePart Two",
+              "date": "2010-01-01",
+              "millions": 11.79
+            }
+          ],
+          "season_average": 11.19,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2008%E2%80%932010)&oldid=1387284810",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "doctor-who-2005-s5",
@@ -7189,9 +7267,33 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2013)&oldid=1387214237"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Day of the Doctor",
+              "date": "2013-11-23",
+              "millions": 12.8
+            },
+            {
+              "n": 2,
+              "title": "The Time of the Doctor",
+              "date": "2013-12-25",
+              "millions": 11.14
+            }
+          ],
+          "season_average": 11.97,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2013)&oldid=1387214237",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "doctor-who-2005-s8",
@@ -8165,9 +8267,39 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2022)&oldid=1365326533"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Eve of the Daleks",
+              "date": "2022-01-01",
+              "millions": 4.4
+            },
+            {
+              "n": 2,
+              "title": "Legend of the Sea Devils",
+              "date": "2022-04-17",
+              "millions": 3.47
+            },
+            {
+              "n": 3,
+              "title": "The Power of the Doctor",
+              "date": "2022-10-23",
+              "millions": 5.3
+            }
+          ],
+          "season_average": 4.39,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2022)&oldid=1365326533",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "doctor-who-2005-specials-2023",
@@ -8205,9 +8337,39 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%932025)",
-          "https://en.wikipedia.org/wiki/The_Doctor"
+          "https://en.wikipedia.org/wiki/The_Doctor",
+          "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2023)&oldid=1384677465"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "The Star Beast",
+              "date": "2023-11-25",
+              "millions": 7.61
+            },
+            {
+              "n": 2,
+              "title": "Wild Blue Yonder",
+              "date": "2023-12-02",
+              "millions": 7.14
+            },
+            {
+              "n": 3,
+              "title": "The Giggle",
+              "date": "2023-12-09",
+              "millions": 6.85
+            }
+          ],
+          "season_average": 7.2,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=Doctor_Who_specials_(2023)&oldid=1384677465",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "doctor-who-2005-special-2023-christmas",
@@ -9181,9 +9343,27 @@
         "platform_or_network": null,
         "source_keys": {},
         "source_urls": [
-          "https://en.wikipedia.org/wiki/The_Sarah_Jane_Adventures"
+          "https://en.wikipedia.org/wiki/The_Sarah_Jane_Adventures",
+          "https://en.wikipedia.org/w/index.php?title=List_of_The_Sarah_Jane_Adventures_serials&oldid=1388139248"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "Invasion of the Bane",
+              "date": "2007-01-01",
+              "millions": 2.9
+            }
+          ],
+          "season_average": 2.9,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_The_Sarah_Jane_Adventures_serials&oldid=1388139248",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "the-sarah-jane-adventures-s1",
@@ -9305,9 +9485,27 @@
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Sarah_Jane_Adventures",
-          "https://en.wikipedia.org/wiki/List_of_The_Sarah_Jane_Adventures_serials"
+          "https://en.wikipedia.org/wiki/List_of_The_Sarah_Jane_Adventures_serials",
+          "https://en.wikipedia.org/w/index.php?title=List_of_The_Sarah_Jane_Adventures_serials&oldid=1388139248"
         ],
-        "notes": ""
+        "notes": "",
+        "viewership": {
+          "measure": "UK viewers (millions)",
+          "country": "UK",
+          "episodes": [
+            {
+              "n": 1,
+              "title": "From Raxacoricofallapatorius with Love",
+              "date": "2009-03-13",
+              "millions": 8.3
+            }
+          ],
+          "season_average": 8.3,
+          "season_average_kind": "computed",
+          "average_source_url": null,
+          "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_The_Sarah_Jane_Adventures_serials&oldid=1388139248",
+          "note": "Special without a season number: figures matched to its air dates in the episode table (D-68)."
+        }
       },
       {
         "id": "the-sarah-jane-adventures-s3",

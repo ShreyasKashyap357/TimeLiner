@@ -64,6 +64,14 @@ export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; wa
       else sections.push({ id: `s${sections.length}`, label, startY: r.unit.in_universe.start?.y ?? null, rows: [r] });
     }
     if (sort === 'unwatched') for (const s of sections) s.rows = sortRows(s.rows, 'unwatched', opts);
+  } else if (sort === 'release' || sort === 'release-desc') {
+    // Release order on the timeline is grouped by release year, like the Release view (not one flat block).
+    for (const r of sortRows(placed, sort, opts)) {
+      const label = r.unit.release.year === null ? 'TBA' : String(r.unit.release.year);
+      const last = sections.at(-1);
+      if (last && last.label === label) last.rows.push(r);
+      else sections.push({ id: `s${sections.length}`, label, startY: r.unit.release.year, rows: [r] });
+    }
   } else {
     sections.push({ id: 'all', label: '', startY: null, rows: sortRows(placed, sort, opts) });
   }

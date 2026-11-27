@@ -75,6 +75,10 @@
 ## Queue (user go-ahead 2026-11-27): work through in waves, decisions batched
 - [x] Media: audio, stage, games (types, wording, quick filters)
 - [x] Games: earliest release per platform from Wikipedia infoboxes (R-52); 138 of 182 games. Open: D-66 (one date for several platforms)
+- [x] Films: runtime, budget, box office from Wikidata / Wikipedia infobox (R-56); 408 / 281 / 276 films. Open: D-67
+- [x] TV: viewers per episode and season from Wikipedia episode tables (R-56); 236 seasons in 64 series. Streaming-only series have no published figures. Open: D-68, D-69
+- [x] No browser-native hover text: runtime e2e check over pages and the drawer (R-55)
+- [ ] Wave 2 universes: research running 2026-11-27 (TWD, Yellowstone, Breaking Bad, Twin Peaks, Stargate, BSG, Expanse, Dune, Narnia, Hunger Games, Shadowhunters, Outlander, Dark Tower, Discworld, Cosmere, Law & Order, NCIS, CSI, One Chicago)
 - [ ] Wave 1 (researching): Wizarding World; radio/stage + Riordan extras; watch orders (Arrowverse, Riordan, Middle-earth, Bond, F&F, WoT); Terminator + Halloween; games for existing universes; GTA / Assassin's Creed / Halo / Fallout / The Last of Us / The Witcher; LEGO; Doctor Who; Gundam
 - [ ] Wave 2: The Walking Dead, Yellowstone (Sheridan), Stargate, Battlestar Galactica, Breaking Bad/BCS, Law & Order / NCIS / CSI / One Chicago, Twin Peaks, Dune, Narnia, Hunger Games, Shadowhunters, The Expanse, Outlander, The Dark Tower, Discworld, Cosmere
 - [ ] Wave 3: Sherlock Holmes (D-51), Jack Ryan, Bourne, Mission: Impossible, Dragon Ball, Naruto/Boruto, One Piece, Pokémon, Ultraman, Kamen Rider, Super Sentai / Power Rangers, Avatar: The Last Airbender, Transformers, TMNT

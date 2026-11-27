@@ -159,6 +159,16 @@ export const InUniverse = z.object({
   relative_to: z.object({ after: z.string().nullable(), before: z.string().nullable() }).nullable().default(null),
 });
 
+/** A money figure as a source states it (film budget or box office). A range keeps both ends; never collapsed. */
+export const Money = z.object({
+  low: z.number(),
+  high: z.number().nullable().default(null), // set only for a stated range ("$150–200 million")
+  currency: z.string().regex(/^[A-Z]{3}$/), // ISO 4217
+  text: z.string(), // as the source words it
+  scope: z.enum(['worldwide', 'domestic', 'other']),
+  source_url: url,
+});
+
 export const EpisodeRef = z.object({ season: z.number().int().min(0), episode: z.number().int().min(1) });
 
 export const Unit = z.object({
@@ -172,6 +182,8 @@ export const Unit = z.object({
   word_count: z.number().int().nullable().default(null),
   /** Source of word_count, shown as a numbered citation next to it. */
   word_count_source: url.nullable().default(null),
+  /** Films (R-56): runtime citation, budget and box office, each cited. */
+  film_stats: z.object({ runtime_source: url.nullable(), budget: Money.nullable(), box_office: Money.nullable() }).nullish(), // optional, so unit literals elsewhere need not name it
   timeline_branch: slug,
   canon_tier: CanonTier.nullable().default(null), // null = inherit title's
   in_universe: InUniverse,
@@ -260,6 +272,7 @@ export type Platform = z.infer<typeof Platform>;
 export type Tag = z.infer<typeof Tag>;
 export type CanonTier = z.infer<typeof CanonTier>;
 export type TitleType = z.infer<typeof TitleType>;
+export type Money = z.infer<typeof Money>;
 export type Status = z.infer<typeof Status>;
 export type Credit = z.infer<typeof Credit>;
 export type CreditRole = z.infer<typeof CreditRole>;

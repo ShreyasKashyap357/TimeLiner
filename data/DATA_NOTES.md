@@ -809,3 +809,4 @@ Research came from Wikipedia revision permalinks, with fan wikis only for inferr
 - **Platforms and publishers.**
   - **Mapped to existing ids:** PS4 → PlayStation 4; direct-to-video → home media; BBC → BBC One for the 1988 Narnia serial.
   - **Publishers:** book publishers come from the infobox `publisher` field, not the author.
+- **Cross-franchise crossovers** (`2026-11-27-procedural-crossovers.ts`): SVU × Chicago P.D. (2014, 2016), the Chicago Fire / SVU / P.D. three-parters (2014, 2015), and Chicago Justice × Law & Order ("Uncertainty Principle"). Peter Stone's move to SVU is "shares-characters". All four are links only; the universes stay separate. In the details panel, a connection into another universe shows that universe's name and switches to it when clicked.

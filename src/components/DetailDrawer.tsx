@@ -67,7 +67,6 @@ export function DetailDrawer() {
   const verb = row ? doneVerb(row.type) : 'watched';
   const Verb = verb[0]!.toUpperCase() + verb.slice(1);
   const isPrint = row?.medium === 'print';
-  const firstUnitOf = (titleId: string) => rows.find((r) => r.title.id === titleId)?.key;
   // Numbered source list; facts with their own source (e.g. word counts) cite it Wikipedia-style: [n].
   const sources = row ? [...new Set([...row.unit.source_urls, ...(row.unit.word_count_source ? [row.unit.word_count_source] : []), ...filmStatSources(row.unit), ...row.title.source_urls])] : [];
   const cite = (url: string | null) => {
@@ -168,7 +167,18 @@ export function DetailDrawer() {
                       <li key={i} className="flex flex-wrap items-baseline gap-x-2">
                         <Link2 className="size-3.5 self-center text-muted-foreground" aria-hidden />
                         <span className="text-muted-foreground">{describeConnection(c)}</span>
-                        <button type="button" className="font-medium underline" onClick={() => go(firstUnitOf(c.titleId))}>{c.title}</button>
+                        {(() => {
+                          // A connection into another universe switches to it and says where it lives.
+                          const target = rows.find((r) => r.title.id === c.titleId);
+                          const other = target && target.universe.id !== row.universe.id ? target.universe : null;
+                          return (
+                            <>
+                              <button type="button" className="font-medium underline"
+                                onClick={() => (other && target ? update({ u: other.id, c: target.continuity.id, unit: target.key }, true) : go(target?.key))}>{c.title}</button>
+                              {other && <Badge variant="outline" className="text-[10px]">{other.short_name}</Badge>}
+                            </>
+                          );
+                        })()}
                         {c.note && <span className="text-xs text-muted-foreground"><SpoilerText unitKey={row.key}>({c.note})</SpoilerText></span>}
                       </li>
                     ))}

@@ -626,7 +626,13 @@
         "notes": ""
       }
     ],
-    "links": [],
+    "links": [
+      {
+        "to": "law-and-order-svu",
+        "kind": "crossover",
+        "note": "Three-part crossovers with Chicago P.D.: \"Nobody Touches Anything\" / \"Chicago Crossover\" / \"They'll Have to Go Through Me\" (November 11–12, 2014) and \"We Called Her Jellybean\" / \"The Number of Rats\" / \"Daydream Believer\" (April 28–29, 2015). Source: Wikipedia, Chicago franchise article."
+      }
+    ],
     "credits": [
       {
         "role": "creator",
@@ -2366,6 +2372,16 @@
         "to": "chicago-pd",
         "kind": "spinoff",
         "note": "\"A backdoor pilot aired on May 11, 2016, as part of the third season of Chicago P.D. before being ordered to series.\" (episode \"Justice\")"
+      },
+      {
+        "to": "law-and-order",
+        "kind": "crossover",
+        "note": "\"Uncertainty Principle\" (March 5, 2017): Law & Order's Paul Robinette faces ASA Peter Stone, \"the son of his former colleague Ben Stone\". Source: Wikipedia, Chicago franchise article."
+      },
+      {
+        "to": "law-and-order-svu",
+        "kind": "shares-characters",
+        "note": "Peter Stone moves from Chicago Justice to Law & Order: Special Victims Unit. Source: Wikipedia, Chicago franchise article."
       }
     ],
     "credits": [

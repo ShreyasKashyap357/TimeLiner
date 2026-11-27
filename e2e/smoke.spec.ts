@@ -289,3 +289,15 @@ test('long release lists render in batches with "Show more" (all universes)', as
   await page.getByRole('button', { name: /^Show \d+ more/ }).first().click();
   await expect.poll(() => page.locator('main [data-unit]').count()).toBeGreaterThan(before);
 });
+
+test('cross-universe connection: badge and switch (regression)', async ({ page }) => {
+  test.setTimeout(90_000);
+  await page.goto('/?u=law-and-order&unit=law-and-order-svu-s1');
+  const d = page.getByRole('dialog');
+  const link = d.getByRole('button', { name: 'Chicago P.D.' });
+  await expect(link).toBeVisible({ timeout: 40_000 });
+  await expect(link.locator('xpath=following-sibling::*[1]')).toHaveText('One Chicago');
+  await link.click();
+  await expect(page).toHaveURL(/u=one-chicago/);
+  await expect(page).toHaveURL(/unit=chicago-pd-s1/);
+});

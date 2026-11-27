@@ -60,10 +60,37 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "ms-dos",
+            "date": "1997-11-28",
+            "region": "EU",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_(video_game)&oldid=1387943246"
+          },
+          {
+            "platform": "windows",
+            "date": "1997-11-28",
+            "region": "EU",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_(video_game)&oldid=1387943246"
+          },
+          {
+            "platform": "playstation",
+            "date": "1997-12-12",
+            "region": "EU",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_(video_game)&oldid=1387943246"
+          },
+          {
+            "platform": "game-boy-color",
+            "date": "1999-10-22",
+            "region": "EU",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_(video_game)&oldid=1387943246"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
-          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_%28video_game%29&oldid=1387943246"
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_%28video_game%29&oldid=1387943246",
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_(video_game)&oldid=1387943246"
         ],
         "notes": ""
       }
@@ -291,6 +318,32 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation",
+            "date": "1999-10-22",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_2&oldid=1388000436"
+          },
+          {
+            "platform": "windows",
+            "date": "1999-10-22",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_2&oldid=1388000436"
+          },
+          {
+            "platform": "dreamcast",
+            "date": "2000-05-01",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_2&oldid=1388000436"
+          },
+          {
+            "platform": "game-boy-color",
+            "date": "2000-12",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_2&oldid=1388000436"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_2",
@@ -389,10 +442,55 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-2",
+            "date": "2001-10-23",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          },
+          {
+            "platform": "windows",
+            "date": "2002-05-21",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          },
+          {
+            "platform": "xbox",
+            "date": "2003-11-04",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          },
+          {
+            "platform": "macos",
+            "date": "2010-11-12",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          },
+          {
+            "platform": "android",
+            "date": "2011-12-15",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          },
+          {
+            "platform": "ios",
+            "date": "2011-12-15",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          },
+          {
+            "platform": "fire-os",
+            "date": "2014-05-15",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
-          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487"
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487",
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_III&oldid=1388140036"
         ],
         "notes": ""
       }
@@ -505,6 +603,50 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-2",
+            "date": "2002-10-29",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          },
+          {
+            "platform": "windows",
+            "date": "2003-05-13",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          },
+          {
+            "platform": "xbox",
+            "date": "2003-11-04",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          },
+          {
+            "platform": "macos",
+            "date": "2010-11-12",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          },
+          {
+            "platform": "ios",
+            "date": "2012-12-06",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          },
+          {
+            "platform": "android",
+            "date": "2012-12-12",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          },
+          {
+            "platform": "fire-os",
+            "date": "2014-05-15",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City&oldid=1388099252"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
@@ -594,6 +736,68 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-2",
+            "date": "2004-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "windows",
+            "date": "2005-06-07",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "xbox",
+            "date": "2005-06-07",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "macos",
+            "date": "2010-11-12",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "ios",
+            "date": "2013-12-12",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "android",
+            "date": "2013-12-19",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "windows-phone",
+            "date": "2014-01-27",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "fire-os",
+            "date": "2014-05-15",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2014-10-26",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          },
+          {
+            "platform": "playstation-3",
+            "date": "2015-12-01",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_San_Andreas&oldid=1387999111"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
@@ -719,6 +923,14 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "game-boy-advance",
+            "date": "2004-10-26",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Advance&oldid=1386356751"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Advance",
@@ -798,6 +1010,38 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-portable",
+            "date": "2005-10-25",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Liberty_City_Stories&oldid=1386548232"
+          },
+          {
+            "platform": "playstation-2",
+            "date": "2006-06-06",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Liberty_City_Stories&oldid=1386548232"
+          },
+          {
+            "platform": "ios",
+            "date": "2015-12-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Liberty_City_Stories&oldid=1386548232"
+          },
+          {
+            "platform": "android",
+            "date": "2016-02-11",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Liberty_City_Stories&oldid=1386548232"
+          },
+          {
+            "platform": "fire-os",
+            "date": "2016-03-11",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Liberty_City_Stories&oldid=1386548232"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Liberty_City_Stories",
@@ -877,6 +1121,20 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-portable",
+            "date": "2006-10-31",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City_Stories&oldid=1388143806"
+          },
+          {
+            "platform": "playstation-2",
+            "date": "2007-03-05",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Vice_City_Stories&oldid=1388143806"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories",
@@ -956,10 +1214,31 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2008-04-29",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV&oldid=1388223718"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2008-04-29",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV&oldid=1388223718"
+          },
+          {
+            "platform": "windows",
+            "date": "2008-12-02",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV&oldid=1388223718"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
-          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487"
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487",
+          "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV&oldid=1388223718"
         ],
         "notes": ""
       }
@@ -1045,6 +1324,26 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "xbox-360",
+            "date": "2009-02-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV%3A_The_Lost_and_Damned&oldid=1387100102"
+          },
+          {
+            "platform": "playstation-3",
+            "date": "2010-04-13",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV%3A_The_Lost_and_Damned&oldid=1387100102"
+          },
+          {
+            "platform": "windows",
+            "date": "2010-04-13",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV%3A_The_Lost_and_Damned&oldid=1387100102"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned",
@@ -1124,6 +1423,26 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "xbox-360",
+            "date": "2009-10-29",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_The_Ballad_of_Gay_Tony&oldid=1360468637"
+          },
+          {
+            "platform": "playstation-3",
+            "date": "2010-04-13",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_The_Ballad_of_Gay_Tony&oldid=1360468637"
+          },
+          {
+            "platform": "windows",
+            "date": "2010-04-13",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_The_Ballad_of_Gay_Tony&oldid=1360468637"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony",
@@ -1208,6 +1527,38 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "nintendo-ds",
+            "date": "2009-03-17",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Chinatown_Wars&oldid=1386782734"
+          },
+          {
+            "platform": "playstation-portable",
+            "date": "2009-10-20",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Chinatown_Wars&oldid=1386782734"
+          },
+          {
+            "platform": "ios",
+            "date": "2010-01-17",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Chinatown_Wars&oldid=1386782734"
+          },
+          {
+            "platform": "android",
+            "date": "2014-12-18",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Chinatown_Wars&oldid=1386782734"
+          },
+          {
+            "platform": "fire-os",
+            "date": "2014-12-18",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto%3A_Chinatown_Wars&oldid=1386782734"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars",
@@ -1288,6 +1639,50 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2013-09-17",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2013-09-17",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2014-11-18",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2014-11-18",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          },
+          {
+            "platform": "windows",
+            "date": "2015-04-14",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2022-03-15",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2022-03-15",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=1387737168"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
@@ -1432,6 +1827,50 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2013-10-01",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          },
+          {
+            "platform": "xbox-360",
+            "date": "2013-10-01",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2014-11-18",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2014-11-18",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          },
+          {
+            "platform": "windows",
+            "date": "2015-04-14",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2022-03-15",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2022-03-15",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_Online&oldid=1387554150"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Online",

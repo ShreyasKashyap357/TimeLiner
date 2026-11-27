@@ -61,11 +61,26 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2013-06-14",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_(video_game)&oldid=1386371227"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2014-07-29",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_(video_game)&oldid=1386371227"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)",
           "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_%28TV_series%29&oldid=1387229405",
-          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_%28video_game%29&oldid=1386371227"
+          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_%28video_game%29&oldid=1386371227",
+          "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_(video_game)&oldid=1386371227"
         ],
         "notes": ""
       }
@@ -181,6 +196,20 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-3",
+            "date": "2014-02-14",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us%3A_Left_Behind&oldid=1373763855"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2014-07-29",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us%3A_Left_Behind&oldid=1373763855"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Last_of_Us:_Left_Behind",
@@ -288,6 +317,20 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-5",
+            "date": "2022-09-02",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_Part_I&oldid=1388217830"
+          },
+          {
+            "platform": "windows",
+            "date": "2023-03-28",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_Part_I&oldid=1388217830"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_I",
@@ -409,6 +452,26 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2020-06-19",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_Part_II&oldid=1388159701"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2024-01-19",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_Part_II&oldid=1388159701"
+          },
+          {
+            "platform": "windows",
+            "date": "2025-04-03",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us_Part_II&oldid=1388159701"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",

@@ -60,10 +60,37 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "ms-dos",
+            "date": "1997-10-10",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_(video_game)&oldid=1386312327"
+          },
+          {
+            "platform": "windows",
+            "date": "1997-10-10",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_(video_game)&oldid=1386312327"
+          },
+          {
+            "platform": "classic-mac-os",
+            "date": "1997",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_(video_game)&oldid=1386312327"
+          },
+          {
+            "platform": "macos",
+            "date": "2002",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_(video_game)&oldid=1386312327"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Fallout_(video_game)",
-          "https://en.wikipedia.org/w/index.php?title=Fallout_%28video_game%29&oldid=1386312327"
+          "https://en.wikipedia.org/w/index.php?title=Fallout_%28video_game%29&oldid=1386312327",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_(video_game)&oldid=1386312327"
         ],
         "notes": ""
       }
@@ -161,6 +188,20 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "1998-10-29",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_2&oldid=1381743699"
+          },
+          {
+            "platform": "macos",
+            "date": "2002-08-23",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_2&oldid=1381743699"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Fallout_2",
@@ -259,6 +300,14 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2001-03-15",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_Tactics%3A_Brotherhood_of_Steel&oldid=1364798150"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Fallout_Tactics:_Brotherhood_of_Steel",
@@ -552,6 +601,44 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2015-11-10",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+          },
+          {
+            "platform": "windows",
+            "date": "2015-11-10",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2015-11-10",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2024-04-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2024-04-25",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+          },
+          {
+            "platform": "switch-2",
+            "date": "2026-02-24",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Fallout_4",
@@ -650,6 +737,38 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2018-11-14",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+          },
+          {
+            "platform": "windows",
+            "date": "2018-11-14",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2018-11-14",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+          },
+          {
+            "platform": "playstation-5",
+            "date": "2026-09-15",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+          },
+          {
+            "platform": "xbox-series",
+            "date": "2026-09-15",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/wiki/Fallout_76",

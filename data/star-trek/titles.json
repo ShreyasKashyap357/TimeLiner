@@ -11072,10 +11072,37 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2010-02-02",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_Online&oldid=1385123541"
+          },
+          {
+            "platform": "macos",
+            "date": "2014-03-11",
+            "region": "WW",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_Online&oldid=1385123541"
+          },
+          {
+            "platform": "playstation-4",
+            "date": "2016-09-06",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_Online&oldid=1385123541"
+          },
+          {
+            "platform": "xbox-one",
+            "date": "2016-09-06",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek_Online&oldid=1385123541"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1385123541",
-          "https://en.wikipedia.org/wiki/Star_Trek_Online"
+          "https://en.wikipedia.org/wiki/Star_Trek_Online",
+          "https://en.wikipedia.org/w/index.php?title=Star_Trek_Online&oldid=1385123541"
         ],
         "notes": ""
       }
@@ -11231,10 +11258,31 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "windows",
+            "date": "2000-09-15",
+            "region": "EU",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Voyager_%E2%80%93_Elite_Force&oldid=1385598225"
+          },
+          {
+            "platform": "classic-mac-os",
+            "date": "2000-11-20",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Voyager_%E2%80%93_Elite_Force&oldid=1385598225"
+          },
+          {
+            "platform": "playstation-2",
+            "date": "2001-12-11",
+            "region": "NA",
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Voyager_%E2%80%93_Elite_Force&oldid=1385598225"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1385598225",
-          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force"
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force",
+          "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Voyager_%E2%80%93_Elite_Force&oldid=1385598225"
         ],
         "notes": ""
       }
@@ -11306,10 +11354,31 @@
         "status": "released",
         "groupings": {},
         "platform_or_network": null,
+        "platform_releases": [
+          {
+            "platform": "playstation-4",
+            "date": "2017-05-30",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Bridge_Crew&oldid=1386309959"
+          },
+          {
+            "platform": "windows",
+            "date": "2017-05-30",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Bridge_Crew&oldid=1386309959"
+          },
+          {
+            "platform": "meta-quest",
+            "date": "2019-12-16",
+            "region": null,
+            "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Bridge_Crew&oldid=1386309959"
+          }
+        ],
         "source_keys": {},
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1386309959",
-          "https://en.wikipedia.org/wiki/Star_Trek:_Bridge_Crew"
+          "https://en.wikipedia.org/wiki/Star_Trek:_Bridge_Crew",
+          "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Bridge_Crew&oldid=1386309959"
         ],
         "notes": ""
       }

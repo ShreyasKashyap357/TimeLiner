@@ -535,3 +535,29 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - *The Wheel of Time Companion*: about 350,000. This is a pre-publication figure from editor Harriet McDougal, reported by The Wertzone (Worldcon 2014).
   - The Wheel of Time Wiki's books table (oldid 165374, uncited) gives different counts. These are noted on each book.
   - Not used: ReadingLength's "Guess" values (*Fire & Blood* 176,500; *The Hedge Knight* 42,000, comic edition) and a from-memory forum figure. No count was found for *The Sworn Sword*, *The Mystery Knight*, *The Rise of the Dragon*, *The Sons of the Dragon*, *The Rogue Prince* or *The World of Ice & Fire*.
+
+## Rick Riordan (books universe B3)
+
+40 titles and 42 units, built with the generic pipeline (`scripts/bootstrap/riordan.*`; the seed is generated from the 2026-11-27 research).
+
+- **Continuities**
+  - `riordanverse-books` is one shared continuity. Wikipedia says the Camp Half-Blood Chronicles, The Kane Chronicles and Magnus Chase are "the same fictional universe" (three articles agree). Each series is a **Series** grouping, filterable.
+  - `percy-jackson-films`: the 2010 and 2013 films (20th Century Fox).
+  - `percy-jackson-disney-plus`: the series, one book per season.
+  - Screen and books are linked by `adapts` and never merged.
+- **Calendar (D-40)**
+  - Story order only. The Riordan Wiki: "Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time."
+  - Order follows the wiki's Timeline page (revid 677864). For example, the Camp Half-Blood books fall between The Lightning Thief and The Sea of Monsters, and the Senior Year books between Heroes of Olympus and Trials of Apollo.
+  - The wiki's "de facto" years (Important Dates, revid 680547: 2006–2011) appear in labels as "(fan-dated)" and are rated inferred. The Ship of the Dead is disputed, because the wiki notes its Ramadan scene implies 2014–2017.
+- **Release dates**
+  - US first publication, from each novel's infobox or lead.
+  - Conflicts: The Lightning Thief is July 1, 2005, not the series infobox's June 28 (the audiobook date). The Throne of Fire is May 3, 2011, not the infobox's May 9. Chalice of the Gods is September 26, 2023, not September 23.
+  - The Wild Zone (2026-09-29) lists Random House as its publisher. The Rite of Aphrodite (2027-03-30) is upcoming and has no article of its own.
+- **Disney+ series**
+  - Seasons 1 and 2, plus season 3, which started 2026-11-20 and finishes 2026-12-11.
+  - Season 3 adapts The Titan's Curse.
+- **Characters:** series protagonists only, from each series' Wikipedia premise.
+- **Not added (D-41)**
+  - Demigods of Olympus, an interactive ebook with no place on the wiki Timeline.
+  - The graphic novels, The Ultimate Guide (not by Riordan), the musical and the video game.
+  - Unannounced books, such as Senior Year 3 and Camp Half-Blood 3–4.

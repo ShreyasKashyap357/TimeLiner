@@ -16,8 +16,10 @@ export function Credits({ credits }: { credits: Credit[] }) {
   const person = (c: Credit) => c.qid
     ? <Tip content={`Show every appearance of ${c.name}, across all universes`}><button type="button" className="underline decoration-dotted underline-offset-2 hover:decoration-solid" onClick={() => update({ people: [c.qid!], u: "all", xu: [], view: "spine", unit: null }, true)}>{c.name}</button></Tip>
     : <span>{c.name}</span>;
-  const cast = credits.filter((c) => c.role === 'cast' && !c.cameo);
-  const cameos = credits.filter((c) => c.role === 'cast' && c.cameo);
+  // Cast with a named character first (in Wikidata's billing order), then the rest (user request).
+  const byCharacter = (list: Credit[]) => [...list.filter((c) => c.character), ...list.filter((c) => !c.character)];
+  const cast = byCharacter(credits.filter((c) => c.role === 'cast' && !c.cameo));
+  const cameos = byCharacter(credits.filter((c) => c.role === 'cast' && c.cameo));
   const shownCast = allCast ? cast : cast.slice(0, 12);
   const castLine = (c: Credit) => <li key={(c.qid ?? c.name) + (c.character ?? '')} className="[overflow-wrap:anywhere]">{person(c)}{c.character && <span className="text-muted-foreground"> as {c.character}</span>}</li>;
   return (

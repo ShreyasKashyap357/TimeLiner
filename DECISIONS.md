@@ -9,6 +9,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | # | Question | Default being used |
 |---|---|---|
 | D-35 | **Cameo sources.** Cameos come from the Wikipedia article text (sentences about a cameo, matched only to people already in the cast list). You asked for the fan wikis to be checked as well, with clear citations. | In progress: fan-wiki cameo markers are being collected; each cameo will show which source marked it. |
+| D-40 | **Riordan books: story order only, no calendar.** Riordan says there is "no specific year or timeline"; the Riordan Wiki's 2006–2011 years are fan-derived. | Story order (wiki Timeline); fan years shown in labels as "(fan-dated)", rated inferred. |
+| D-41 | **Riordan scope.** Left out: Demigods of Olympus (an interactive ebook with no timeline place), the graphic novels, the musical and the game. The Demigod Files / Diaries are one entry each, though their stories sit at different points. | As listed. Say if you want graphic novels or per-story entries. |
 
 ## Resolved
 

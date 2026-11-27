@@ -176,3 +176,17 @@ describe('Round 2 data (D-12, D-11, D-31)', () => {
     for (const u of books) expect(u.word_count_source, u.id).toBeTruthy();
   });
 });
+
+describe('Rick Riordan (B3)', () => {
+  it('books share one continuity in Timeline order; screen adaptations are separate and linked', () => {
+    const t = (id: string) => ds.titles.find((x) => x.id === id)!;
+    expect(t('the-red-pyramid').continuity).toBe('riordanverse-books');
+    expect(t('the-sword-of-summer').continuity).toBe('riordanverse-books');
+    expect(t('percy-jackson-and-the-olympians-tv').continuity).toBe('percy-jackson-disney-plus');
+    const order = spine(scoped('riordan', 'riordanverse-books'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(order.indexOf('the-lightning-thief')).toBeLessThan(order.indexOf('the-last-olympian'));
+    expect(order.indexOf('the-last-olympian')).toBeLessThan(order.indexOf('the-lost-hero'));
+    const fromBook = connectionsFor('the-lightning-thief', ds).map((c) => c.titleId);
+    expect(fromBook).toEqual(expect.arrayContaining(['percy-jackson-the-lightning-thief-2010', 'percy-jackson-and-the-olympians-tv']));
+  });
+});

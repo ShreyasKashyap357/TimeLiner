@@ -56,7 +56,7 @@
 - [x] Schema/app: book types, publishers, pages, `adapts` links, "Done" wording, Books toggle, spoiler-safe mode
 - [x] B1: A Song of Ice and Fire + HBO Game of Thrones universe (AC calendar)
 - [x] B2: The Wheel of Time (NE calendar) + Amazon series
-- [ ] B3: Rick Riordan books + films + Disney+ series
+- [x] B3: Rick Riordan books + films + Disney+ series
 - [ ] B4+: Cosmere, Narnia, Dune, Witcher, Hunger Games, Shadowhunters, Discworld, Expanse, Dark Tower
 
 ## Combined decisions follow-ups (2026-11-27)

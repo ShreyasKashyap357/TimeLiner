@@ -400,5 +400,83 @@
     "data_dir": "star-trek",
     "description": "Star Trek films and series: the Prime timeline, the Kelvin timeline films, and non-canon shorts.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "riordan",
+    "name": "Rick Riordan (Riordanverse)",
+    "short_name": "Riordan",
+    "order": 8,
+    "enabled": true,
+    "accent": {
+      "primary": "#4FC3F7",
+      "secondary": "#F4A340"
+    },
+    "default_continuity": "riordanverse-books",
+    "grouping_schemes": [
+      {
+        "id": "series",
+        "label": "Series",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "percy-jackson-olympians",
+            "label": "Percy Jackson & the Olympians",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "heroes-of-olympus",
+            "label": "The Heroes of Olympus",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "senior-year-adventures",
+            "label": "Percy Jackson: The Senior Year Adventures",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "trials-of-apollo",
+            "label": "The Trials of Apollo",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "nico-di-angelo-adventures",
+            "label": "The Nico di Angelo Adventures",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "camp-half-blood",
+            "label": "Camp Half-Blood",
+            "order": 6,
+            "parent": null
+          },
+          {
+            "id": "kane-chronicles",
+            "label": "The Kane Chronicles",
+            "order": 7,
+            "parent": null
+          },
+          {
+            "id": "magnus-chase",
+            "label": "Magnus Chase and the Gods of Asgard",
+            "order": 8,
+            "parent": null
+          },
+          {
+            "id": "crossover",
+            "label": "Crossovers",
+            "order": 9,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "riordan",
+    "description": "Rick Riordan's novels (Percy Jackson, Heroes of Olympus, Trials of Apollo, Kane Chronicles, Magnus Chase and more), the Fox films and the Disney+ series.",
+    "last_verified": "2026-11-27"
   }
 ]

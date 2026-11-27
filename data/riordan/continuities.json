@@ -1,0 +1,100 @@
+[
+  {
+    "id": "riordanverse-books",
+    "universe": "riordan",
+    "name": "Riordanverse (books)",
+    "short_name": "Books",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [
+      "series"
+    ],
+    "alt_orders": [],
+    "description": "Wikipedia (Camp Half-Blood Chronicles): \"The franchise takes place in the same fictional universe as two of Riordan's other series, The Kane Chronicles … and Magnus Chase and the Gods of Asgard\". Story order follows the Riordan Wiki Timeline.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Camp_Half-Blood_Chronicles",
+      "https://en.wikipedia.org/wiki/The_Kane_Chronicles",
+      "https://en.wikipedia.org/wiki/Magnus_Chase_and_the_Gods_of_Asgard",
+      "https://riordan.fandom.com/wiki/Timeline"
+    ],
+    "notes": "Riordan Wiki: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its 2006–2011 \"de facto timeline\" years are shown in labels and rated inferred."
+  },
+  {
+    "id": "percy-jackson-films",
+    "universe": "riordan",
+    "name": "Percy Jackson films (20th Century Fox)",
+    "short_name": "Films",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"The series was distributed by 20th Century Fox and produced by 1492 Pictures.\" Two films; a third was not made.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Percy_Jackson_(film_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "percy-jackson-disney-plus",
+    "universe": "riordan",
+    "name": "Percy Jackson and the Olympians (Disney+)",
+    "short_name": "Disney+",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Disney+ series (2023–), one book per season.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Percy_Jackson_and_the_Olympians_(TV_series)"
+    ],
+    "notes": ""
+  }
+]

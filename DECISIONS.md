@@ -8,8 +8,6 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-77 | **One Piece films: the Library of Ohara has no film or filler timeline.** It publishes a canon-only timeline and says Film RED, Stampede and Film Z are not canon (with canon elements). | Kept the current film positions (disputed), citing Wikipedia where it places them (Strong World between Thriller Bark and Sabaody; Film Z after the time-skip), with the Library of Ohara's canon statements credited in the notes. The retelling films link to the arcs they retell. |
-| D-78 | **Interactive world maps.** Official maps are copyrighted, and Commons is mass-deleting Middle-earth fan maps (traced from Christopher Tolkien's, in copyright until 2091). Safe, openly licensed maps exist for: Narnia (public-domain map drawn from the text), the Star Trek galaxy quadrants (public domain), the One Piece world layout (CC BY-SA), the Star Wars galaxy (CC BY-SA, Legends-era), Panem (fan-made, CC BY-SA) and the 1965 Arrakis map (US public domain only). Middle-earth, Westeros, Wheel of Time, Discworld, Cosmere and Avatar have none. | Proposed: Leaflet, bundled (no CDN). (1) Licensed maps as zoomable images with clickable, cited places linking to titles. (2) Schematic maps generated from sourced place facts where nothing is licensed. (3) OpenStreetMap for Earth-based worlds (Wizarding World, Outlander, Shadowhunters), with places from Wikidata. Credits in an About-this-map panel; fan-made maps badged. Not started; your call on scope. |
 
 ## Resolved
 
@@ -77,3 +75,5 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-60 | anime | D-75 | Approved. Non-canon anime material to be placed using the Library of Ohara timeline, credited. |
 | R-61 | UI | Release order | Release order must be grouped by year everywhere (the timeline's Release toggle was flat; fixed). Undated timelines show their own in-universe labels as headings. |
 | R-62 | data | Riordanverse | Year markers like other universes: Riordan Wiki years used (inferred). |
+| R-63 | anime | D-77 | Approved: keep the current One Piece film positions (disputed), with the Library of Ohara's canon statements credited. |
+| R-64 | UI | D-78 | Approved: interactive maps. Licensed maps as zoomable images, schematic maps where nothing is licensed, OpenStreetMap for real-world places, all with credits. |

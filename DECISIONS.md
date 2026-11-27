@@ -8,16 +8,6 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-49 | **Which games to include.** Story-relevant games only: canon or narrative games tied to a continuity (e.g. Insomniac's Spider-Man, the Arkham series, Jedi: Fallen Order, Shadow of Mordor), plus whole game-first franchises (GTA, Assassin's Creed, Halo, Fallout, The Last of Us, The Witcher). | Sports, party and minor licensed games left out (listed in DATA_NOTES). LEGO's licensed games go in their target universe's LEGO collection. |
-| D-50 | **One release date and platform per game.** Games often launch on several platforms on different days. | Earliest worldwide (or North American) release; the other platforms named in the note. |
-| D-51 | **Huge adaptation franchises** (Sherlock Holmes, Dracula, with hundreds of adaptations). | Original works plus the most notable adaptations (each its own continuity); not every adaptation. |
-| D-52 | **Terminator Genisys.** Wikipedia calls it a reboot that disregards T2's events; a Skydance executive said "nor is it exactly a reboot". | Its own continuity, linked to The Terminator. |
-| D-53 | **Terminator Zero.** Wikipedia lists all six films as canon to it ("Zero continuity"), but it is set in "an alternate 1997 Japan". | Its own continuity, linked to the films with "references". |
-| D-54 | **Halloween H20 vs films 4–6.** H20's article says it ignores them; the franchise article notes "fan debate". | H20 and Resurrection are a branch that splits off after Halloween II (1981). |
-| D-55 | **Epilogue years** (Deathly Hallows and Cursed Child's 2017; similar elsewhere). | The main story's years only; epilogues are in the note. |
-| D-56 | **Watch-order judgement calls (second batch).** Riordan companion guides come out essential because two guides list them. *The Battle of the Five Armies* is optional because a guide says "feel free to skip 'Battle.'" *Hobbs & Shaw* is essential under the later-entries rule. *The Court of the Dead* is essential as the sequel to an essential book. | Applied as listed. Say if you want guides always optional, or the "skip Battle" advice ignored. |
-| D-57 | **Wheel of Time: when to read New Spring.** Four guides warn against reading it first. | Placed after book 10 (Crossroads of Twilight), as three guides recommend. |
-| D-58 | **Gundam placements.** Thunderbolt is in the U.C. (the manga calls it an alternate "world line"). Turn A (C.C. 2345 vs 2343–45) and AGE (A.G. 108 vs 115–164) are disputed. The Origin is one entry (U.C. 0068–0079), since its parts aren't mapped to years. | As listed. |
 
 ## Resolved
 
@@ -73,3 +63,9 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-48 | all | D-43 media | **Add radio, live / theatre and other needed media** (stage musicals and plays, audio dramas, podcasts if relevant). *Deferred until the user says go.* |
 | R-49 | all | D-44–D-48 | Approved as proposed (Spy Racers separate; Bond continuation novels later; inferred DC groupings; DC imprints included; disputed DC placements adjacent and linked). |
 | R-50 | all | Games, LEGO, more franchises | User: add the suggested franchises, games (incl. GTA), and LEGO films. Games are now a medium ("played"). |
+| R-51 | all | D-49, D-51, D-55–D-65 | Approved as proposed. |
+| R-52 | games | D-50 | **Changed:** record the earliest release on **every** platform (e.g. GTA V on PS3/360 2013, PS4/Xbox One/PC 2014–15, PS5/Series X 2022), not one date per game. |
+| R-53 | Terminator | D-52, D-53 | Approved, but the reasoning and sources must be shown in the app wherever they apply. |
+| R-54 | Halloween | D-54 | Approved; the branch and its sources must be visible in the app (the current layout is fine). |
+| R-55 | UI | Popovers | Never use the browser's native hover text anywhere; use the app's own tooltips and popovers. |
+| R-56 | data | Film and TV stats | Films: runtime, budget and box office. TV: viewers per episode and per season. |

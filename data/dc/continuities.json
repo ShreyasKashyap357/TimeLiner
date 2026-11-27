@@ -31,7 +31,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
         "as_of": "2026-11-27",
-        "note": "Primary order = the DCU (current continuity) in release order. The guides suggest Peacemaker season 1 and Blue Beetle (DCEU) as optional lead-ins; they belong to the DCEU continuity and are not mixed in here.",
+        "note": "Based on the DCU (current continuity) in release order. The guides suggest Peacemaker season 1 and Blue Beetle (DCEU) as optional lead-ins; they belong to the DCEU continuity and are not mixed in here.",
         "unit_ids": [
           "creature-commandos-s1",
           "superman-2025",
@@ -74,7 +74,7 @@
             "date": "2025-07-03"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "creature-commandos-s1": [
             0,
@@ -167,7 +167,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://editorial.rottentomatoes.com/guide/how-to-watch-the-dcu-in-order/",
         "as_of": "2026-11-27",
-        "note": "Primary order = the DCU (current continuity) in release order. DCEU in release order (sources 2, 4, 5).",
+        "note": "Based on DCEU release order (guides [3], [5], [6]).",
         "unit_ids": [
           "man-of-steel",
           "batman-v-superman",
@@ -224,7 +224,7 @@
             "date": "2025-07-03"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "man-of-steel": [
             2,
@@ -435,7 +435,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.slashfilm.com/1655514/arrowverse-shows-correct-order-watch-including-the-crossover-events/",
         "as_of": "2026-11-27",
-        "note": "Backbone = release (airing) order, which every guide uses (sources 0-5), at season granularity. Each crossover-event unit sits right after the seasons it airs in, matching where sources 0, 1 and 3 split it out.",
+        "note": "Based on release (airing) order, which every guide uses (guides [1]–[6]), at season granularity. Each crossover-event unit sits right after the seasons it airs in, matching where guides [1], [2] and [4] split it out.",
         "unit_ids": [
           "arrow-s1",
           "arrow-s2",
@@ -543,7 +543,7 @@
             "date": "2024-04-19"
           }
         ],
-        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). For this franchise, the year-by-year viewing lists of source 3 count as its recommendation; its separate list of series does not. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "arrow-s1": [
             0,
@@ -1323,7 +1323,7 @@
     "order": 16,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1354,7 +1354,7 @@
     "order": 17,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1385,7 +1385,7 @@
     "order": 18,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1416,7 +1416,7 @@
     "order": 19,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1509,7 +1509,7 @@
     "order": 22,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1540,7 +1540,7 @@
     "order": 23,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1571,7 +1571,7 @@
     "order": 24,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1602,7 +1602,7 @@
     "order": 25,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1633,7 +1633,7 @@
     "order": 26,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1664,7 +1664,7 @@
     "order": 27,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1695,7 +1695,7 @@
     "order": 28,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1726,7 +1726,7 @@
     "order": 29,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1757,7 +1757,7 @@
     "order": 30,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1788,7 +1788,7 @@
     "order": 31,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1819,7 +1819,7 @@
     "order": 32,
     "kind": "shared",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -1836,7 +1836,7 @@
     ],
     "grouping_schemes": [],
     "alt_orders": [],
-    "description": "Assault on Arkham is the only screen entry; its canon status is disputed because Suicide Squad: Kill the Justice League (2024) contradicts it. The games are out of scope.",
+    "description": "The Batman: Arkham games and the film Batman: Assault on Arkham. Story order follows the games' stated offsets (Origins is \"eight years before\" Asylum). Assault on Arkham's canon status is disputed.",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Batman:_Assault_on_Arkham"
     ],
@@ -3814,6 +3814,99 @@
     "description": "Wikipedia: \"Batman Live is a touring stage show, including theatrical, circus and stage-magic elements, that focuses on the DC Comics superhero Batman.\"",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Batman_Live"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "injustice-games",
+    "universe": "dc",
+    "name": "Injustice games",
+    "short_name": "Injustice games",
+    "order": 95,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The series' plot and premise take place within an alternate reality to the main DC Universe continuity, where Superman becomes a tyrant [Injustice (franchise), revid 1387853934]\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "telltale-batman",
+    "universe": "dc",
+    "name": "Batman: The Telltale Series",
+    "short_name": "Batman: The Telltale Series",
+    "order": 96,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The game's narrative offers a \"fresh interpretation of the universe set in current times, not tied to any existing iteration of Batman in games, film, or comics\", according to Telltale.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman:_The_Telltale_Series"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gotham-knights-game",
+    "universe": "dc",
+    "name": "Gotham Knights (2022 game)",
+    "short_name": "Gotham Knights",
+    "order": 97,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Gotham Knights features an original story wholly separate from those games [the Batman: Arkham series].\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)"
     ],
     "notes": ""
   }

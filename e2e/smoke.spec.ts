@@ -135,7 +135,18 @@ test.describe('URL defaults and pickers (regressions)', () => {
     await page.goto('/?u=asoiaf');
     await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
     await expect(page.getByRole('option', { name: 'Marvel' })).toBeInViewport();
+    // With many universes the list scrolls; it must show several rows at once, not one.
+    const visible = await page.getByRole('option').evaluateAll((els) => els.filter((e) => {
+      const r = e.getBoundingClientRect();
+      return r.height > 0 && r.top >= 0 && r.bottom <= window.innerHeight;
+    }).length);
+    expect(visible).toBeGreaterThanOrEqual(6);
     await expect(page.getByRole('option', { name: 'All universes' })).toBeInViewport();
+    // The last universe is reachable by scrolling the list.
+    const last = page.getByRole('option').last();
+    await page.getByRole('option', { name: 'Marvel' }).hover();
+    for (let i = 0; i < 15 && !(await last.evaluate((e) => { const r = e.getBoundingClientRect(); return r.bottom <= window.innerHeight && r.top >= 0; })); i++) await page.mouse.wheel(0, 300);
+    await expect(last).toBeInViewport();
   });
   test('a universe link without a continuity opens its default continuity', async ({ page }) => {
     await page.goto('/?u=star-wars&view=dual');
@@ -197,9 +208,38 @@ test('switching universe away from a watch order falls back to story order (regr
   await page.goto('/?u=marvel&c=mcu&sort=alt&alt=recommended');
   await expect(page.locator('[aria-label^="Position 1."]').first()).toBeVisible({ timeout: 20_000 });
   await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
-  await page.getByRole('option', { name: 'The Wheel of Time' }).click();
-  await expect(page.getByRole('heading', { name: '998 NE' })).toBeVisible();
+  // Halloween has no watch order, so the view must fall back to story order.
+  await page.getByRole('option', { name: 'Halloween' }).click();
   await expect(page).not.toHaveURL(/sort=alt/);
+  await expect(page.getByRole('radio', { name: 'Story (in-universe)' })).toBeChecked();
+  await expect(page.locator('[aria-label^="Position 1."]')).toHaveCount(0);
+});
+
+test('Wheel of Time story order shows both the in-universe and the release year (regression)', async ({ page }) => {
+  await page.goto('/?u=wheel-of-time');
+  await expect(page.getByRole('heading', { name: '998 NE' })).toBeVisible({ timeout: 20_000 });
   await expect(page.locator('[data-unit="the-eye-of-the-world"]')).toContainText('998 NE');
   await expect(page.locator('[data-unit="the-eye-of-the-world"]')).toContainText('1990');
+});
+
+test('a watch order kept across universes still shows both dates', async ({ page }) => {
+  await page.goto('/?u=wheel-of-time&sort=alt&alt=recommended');
+  await expect(page.locator('[data-unit="the-eye-of-the-world"]')).toContainText('998 NE', { timeout: 20_000 });
+  await expect(page.locator('[data-unit="the-eye-of-the-world"]')).toContainText('1990');
+  await expect(page.getByText(/selective:|supported_by|sources? \d/)).toHaveCount(0);
+});
+
+test('no browser-native hover text anywhere (title attributes or SVG <title>)', async ({ page }) => {
+  const nativeTips = () => page.evaluate(() => [...document.querySelectorAll('[title], svg title')]
+    .filter((e) => !(e instanceof HTMLTitleElement)).map((e) => e.outerHTML.slice(0, 120)));
+  for (const url of ['/?u=marvel&c=mcu', '/?u=marvel&c=mcu&view=lanes', '/?u=dc&view=dual', '/?u=all', '/?u=star-wars&sort=alt&alt=recommended']) {
+    await page.goto(url);
+    await page.locator('main').waitFor();
+    await page.waitForTimeout(500);
+    expect(await nativeTips(), url).toEqual([]);
+  }
+  await page.goto('/?u=marvel&c=mcu');
+  await page.locator('[data-unit]').first().click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  expect(await nativeTips(), 'detail drawer').toEqual([]);
 });

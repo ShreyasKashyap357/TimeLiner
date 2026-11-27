@@ -4756,5 +4756,230 @@
       }
     ],
     "constituents": []
+  },
+  {
+    "id": "game-of-thrones-telltale",
+    "title": "Game of Thrones: A Telltale Games Series",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "asoiaf",
+    "continuity": "got-hbo",
+    "studio_brand": "telltale-games",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Game of Thrones (2014 video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386337814",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_(2014_video_game)"
+    ],
+    "notes": "Developer: Telltale Games. Publisher: Telltale Games. Platforms: Windows, OS X, PlayStation 4, Xbox 360, Xbox One, iOS, PlayStation 3. Canon: \"Telltale's CEO Dan Connors explained that the game would not be a prequel to the television series, and that the established world and timeline of Game of Thrones allowed Telltale to explore fixed sto\" Six episodes; one unit per episode possible.",
+    "units": [
+      {
+        "id": "game-of-thrones-telltale",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 299
+          },
+          "end": {
+            "y": 300
+          },
+          "label": "End of season 3 to just before season 5 (c. 299–300 AC)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game takes place concurrently with the television series, from the end of the third season until just prior to the start of the fifth season.\" Derived: got-hbo units: s3 c. 299 AC, s4 c. 299–300 AC.",
+          "order_index": 81,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-12-02",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: Episode 1 '''Windows''', '''OS X''' WW December 2, 2014 | '''PS4''' NA December 2, 2014 | EU December 3, 2014"
+        },
+        "status": "released",
+        "groupings": {
+          "book-series": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386337814",
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_(2014_video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "game-of-thrones",
+        "kind": "references",
+        "note": "S3 end to S5 start"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "game-of-thrones-cyanide",
+    "title": "Game of Thrones (2012 video game)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "asoiaf",
+    "continuity": "got-games-standalone",
+    "studio_brand": "cyanide",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Game of Thrones (2012 video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1371803820",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_(2012_video_game)"
+    ],
+    "notes": "Developer: Cyanide. Publisher: Atlus USA (NA) / Focus Home Interactive (PAL). Platforms: Windows, PlayStation 3, Xbox 360. Article also says \"It is set 10 years before the plot of Game of Thrones\" - conflicting (maybe backstory); flag. Based on the novels (Cyanide held the book license) - not verified in fetched text.",
+    "units": [
+      {
+        "id": "game-of-thrones-cyanide",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Concurrent with season 1 (c. 298 AC)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"The game takes place concurrently with season 1 of Game of Thrones\" Derived: got-hbo s1 = c. 298 AC.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-05-15",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: NA May 15, 2012 | EU June 8, 2012 | AU June 14, 2012"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1371803820",
+          "https://en.wikipedia.org/wiki/Game_of_Thrones_(2012_video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "game-of-thrones",
+        "kind": "references",
+        "note": "season 1"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "game-of-thrones-kingsroad",
+    "title": "Game of Thrones: Kingsroad",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "asoiaf",
+    "continuity": "got-games-standalone",
+    "studio_brand": "netmarble-neo",
+    "label": null,
+    "platform_or_network": "mobile",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Game of Thrones: Kingsroad",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1375665226",
+      "https://en.wikipedia.org/wiki/Game_of_Thrones:_Kingsroad"
+    ],
+    "notes": "Developer: Netmarble Neo. Publisher: Netmarble. Platforms: Android, iOS, Windows. Placement in the show timeline not stated in Wikipedia. Live-service RPG; low priority.",
+    "units": [
+      {
+        "id": "game-of-thrones-kingsroad",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-05-21",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: It was released on May 21, 2025, for Android and iOS, and Microsoft Windows. The game had released in early access on March 26, 2025."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1375665226",
+          "https://en.wikipedia.org/wiki/Game_of_Thrones:_Kingsroad"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

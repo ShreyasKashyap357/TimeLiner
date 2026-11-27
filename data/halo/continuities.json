@@ -1,0 +1,65 @@
+[
+  {
+    "id": "halo-core",
+    "universe": "halo",
+    "name": "Halo (core canon)",
+    "short_name": "Halo",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Games, novels, Forward Unto Dawn, Nightfall and Halo Legends (all but one Legends short are canon). Wikipedia: \"Six of the stories are officially part of the Halo canon, with the seventh, made by Toei, intended to be a parody of the universe. … In addition to providing input on the script, 343 Industries had a representative on set at all times to ensure that the series did not break canon.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702",
+      "https://en.wikipedia.org/w/index.php?title=Halo_4%3A_Forward_Unto_Dawn&oldid=1387889741"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "halo-silver",
+    "universe": "halo",
+    "name": "Silver Timeline (Paramount+ series)",
+    "short_name": "Silver Timeline",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The Paramount+ Halo series. A separate canon from the games. Wikipedia: \"Executive producer Kiki Wolfkill revealed that the series is a standalone story that takes place within its own \"Silver Timeline\" that is separate from and inspired by the core canon and lore of the transmedia franchise rather than a continuation, adaptation, prequel, or sequel, explaining that they wished to give the two Halo canons a chance to evolve individually to suit their media.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Halo_%28TV_series%29&oldid=1388268937"
+    ],
+    "notes": ""
+  }
+]

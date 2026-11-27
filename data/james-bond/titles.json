@@ -13209,5 +13209,672 @@
     "links": [],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "goldeneye-007-1997",
+    "title": "GoldenEye 007",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "rare",
+    "label": null,
+    "platform_or_network": "nintendo-64",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "GoldenEye 007",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385770636",
+      "https://en.wikipedia.org/wiki/GoldenEye_007"
+    ],
+    "notes": "Developer: Rare. Publisher: Nintendo. Platforms: Nintendo 64. Year differs from the film's 1995: supports keeping games out of bond-eon-classic.",
+    "units": [
+      {
+        "id": "goldeneye-007-1997",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "1986 prologue; main story 1991",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Wikipedia: \"In 1986 Arkhangelsk, Soviet Union, MI6 has uncovered a secret chemical weapons facility at the Byelomorye Dam. ... Five years later in 1991, Bond is sent to investigate a satellite control station in Severnaya, Russia\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-08-25",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: JP 23 August 1997 | NA 25 August 1997 | UK 7 November 1997"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385770636",
+          "https://en.wikipedia.org/wiki/GoldenEye_007"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "goldeneye",
+        "kind": "adapts",
+        "note": "game dates main story 1991; the film unit is 1995"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "james-bond-007-agent-under-fire",
+    "title": "James Bond 007: Agent Under Fire",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "ea-redwood-shores",
+    "label": null,
+    "platform_or_network": "playstation-2",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "James Bond 007: Agent Under Fire",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1345794860",
+      "https://en.wikipedia.org/wiki/James_Bond_007:_Agent_Under_Fire"
+    ],
+    "notes": "Developer: EA Redwood Shores. Publisher: Electronic Arts. Platforms: PlayStation 2. Canon: \"an original Bond storyline that is unrelated to the films.\"",
+    "units": [
+      {
+        "id": "james-bond-007-agent-under-fire",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-11-13",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: '''PlayStation 2''' NA 13 November 2001 | EU 30 November 2001; '''GameCube''' NA 12 March 2002; '''Xbox''' NA 26 March 2002"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1345794860",
+          "https://en.wikipedia.org/wiki/James_Bond_007:_Agent_Under_Fire"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "james-bond-007-nightfire",
+    "title": "James Bond 007: Nightfire",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "eurocom",
+    "label": null,
+    "platform_or_network": "gamecube",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "James Bond 007: Nightfire",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384072582",
+      "https://en.wikipedia.org/wiki/James_Bond_007:_Nightfire"
+    ],
+    "notes": "Developer: Eurocom (consoles); Gearbox Software (Windows). Publisher: Electronic Arts. Platforms: GameCube, PlayStation 2, Xbox, Windows. Original story; \"The computer versions feature modifications to the storyline\".",
+    "units": [
+      {
+        "id": "james-bond-007-nightfire",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-11-19",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: '''GameCube''', '''PlayStation 2''', '''Xbox''' NA 19 November 2002 | EU 29 November 2002; '''Microsoft Windows''' NA 25 November 2002"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384072582",
+          "https://en.wikipedia.org/wiki/James_Bond_007:_Nightfire"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "james-bond-007-everything-or-nothing",
+    "title": "James Bond 007: Everything or Nothing",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "ea-redwood-shores",
+    "label": null,
+    "platform_or_network": "gamecube",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "James Bond 007: Everything or Nothing",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1381724618",
+      "https://en.wikipedia.org/wiki/James_Bond_007:_Everything_or_Nothing"
+    ],
+    "notes": "Developer: EA Redwood Shores. Publisher: Electronic Arts. Platforms: GameCube, PlayStation 2, Xbox. Strongest canon-adjacent Brosnan story; still separate per rule 3.",
+    "units": [
+      {
+        "id": "james-bond-007-everything-or-nothing",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-02-17",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: NA February 17, 2004 | EU February 27, 2004"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1381724618",
+          "https://en.wikipedia.org/wiki/James_Bond_007:_Everything_or_Nothing"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "die-another-day",
+        "kind": "references",
+        "note": "\"considered a continuation of Die Another Day\" - cross-continuity link only"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "from-russia-with-love-game",
+    "title": "From Russia with Love (video game)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "ea-redwood-shores",
+    "label": null,
+    "platform_or_network": "gamecube",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "From Russia with Love (video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386381503",
+      "https://en.wikipedia.org/wiki/From_Russia_with_Love_(video_game)"
+    ],
+    "notes": "Developer: EA Redwood Shores. Publisher: Electronic Arts (co-published by MGM Interactive). Platforms: GameCube, PlayStation 2, Xbox. Adaptation; optional.",
+    "units": [
+      {
+        "id": "from-russia-with-love-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-11-01",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: NA 1 November 2005 | NA 15 November 2005 (GC) | EU 18 November 2005; PSP NA 4 April 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386381503",
+          "https://en.wikipedia.org/wiki/From_Russia_with_Love_(video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "from-russia-with-love",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "007-quantum-of-solace-game",
+    "title": "007: Quantum of Solace",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "treyarch",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "007: Quantum of Solace",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388213612",
+      "https://en.wikipedia.org/wiki/007:_Quantum_of_Solace"
+    ],
+    "notes": "Developer: Treyarch. Publisher: Activision. Platforms: PlayStation 3, Xbox 360, Wii, Windows, PlayStation 2, Nintendo DS. Adaptation; optional.",
+    "units": [
+      {
+        "id": "007-quantum-of-solace-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-10-31",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: EU 31 October 2008 | NA 4 November 2008 | AU 19 November 2008"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388213612",
+          "https://en.wikipedia.org/wiki/007:_Quantum_of_Solace"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "casino-royale-2006",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "quantum-of-solace",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "james-bond-007-blood-stone",
+    "title": "James Bond 007: Blood Stone",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "bizarre-creations",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "James Bond 007: Blood Stone",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386314737",
+      "https://en.wikipedia.org/wiki/James_Bond_007:_Blood_Stone"
+    ],
+    "notes": "Developer: Bizarre Creations. Publisher: Activision. Platforms: Windows, Nintendo DS, PlayStation 3, Xbox 360.",
+    "units": [
+      {
+        "id": "james-bond-007-blood-stone",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between Quantum of Solace and Skyfall",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"set between Quantum of Solace (2008) and Skyfall (2012).\" Derived: bounds from bond-eon-craig units (QoS 2006, Skyfall 2012); only as a link, not merged.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-11-02",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: NA 2 November 2010 | AUS 3 November 2010 | EU 5 November 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386314737",
+          "https://en.wikipedia.org/wiki/James_Bond_007:_Blood_Stone"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "quantum-of-solace",
+        "kind": "references",
+        "note": "cross-continuity"
+      },
+      {
+        "to": "skyfall",
+        "kind": "references",
+        "note": "cross-continuity"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "goldeneye-007-2010",
+    "title": "GoldenEye 007 (2010 video game)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-games",
+    "studio_brand": "eurocom",
+    "label": null,
+    "platform_or_network": "wii",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "GoldenEye 007 (2010 video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387408930",
+      "https://en.wikipedia.org/wiki/GoldenEye_007_(2010_video_game)"
+    ],
+    "notes": "Developer: Eurocom. Publisher: Activision. Platforms: Wii, Nintendo DS. Optional.",
+    "units": [
+      {
+        "id": "goldeneye-007-2010",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between Quantum of Solace and Skyfall (reimagined GoldenEye)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set in between Quantum of Solace and Skyfall, MI6 Agents James Bond and Alec Trevelyan are tasked by M with infiltrating a chemical weapons facility in Arkhangelsk, Russia\"",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-11-02",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: Original NA 2 November 2010 | AU 3 November 2010 | EU 5 November 2010; Reloaded (PS3/X360) NA 1 November 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387408930",
+          "https://en.wikipedia.org/wiki/GoldenEye_007_(2010_video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "goldeneye",
+        "kind": "references",
+        "note": "reimagining with the Craig-era Bond"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "007-first-light",
+    "title": "007 First Light",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "james-bond",
+    "continuity": "bond-first-light",
+    "studio_brand": "io-interactive",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "007 First Light",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387955824",
+      "https://en.wikipedia.org/wiki/007_First_Light"
+    ],
+    "notes": "Developer: IO Interactive. Publisher: IO Interactive. Platforms: PlayStation 5, Windows, Xbox Series X/S. Released 27 May 2026; Switch 2 version scheduled 18 March 2027.",
+    "units": [
+      {
+        "id": "007-first-light",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Bond's origin, before 00 status (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Players control James Bond as he goes through training and executes missions to become a fully-fledged MI6 agent.\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-05-27",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: '''PS5''', '''Windows''', '''Xbox Series X/S''' 27 May 2026 | '''Nintendo Switch 2''' 18 March 2027"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387955824",
+          "https://en.wikipedia.org/wiki/007_First_Light"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

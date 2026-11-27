@@ -31,7 +31,7 @@
         "label": "Recommended reading order",
         "source_url": "https://www.penguin.co.uk/discover/childrens-articles/where-to-start-rick-riordan-books",
         "as_of": "2026-11-27",
-        "note": "Recommended READING order. Backbone = series by series in order of each series' start, as sources 1 and 3 do and source 4 does for the books it covers: PJO → Heroes of Olympus → Kane Chronicles → Magnus Chase → Trials of Apollo → Nico di Angelo books → PJO senior-year books.",
+        "note": "Based on series by series in order of each series' start, as guides [2] and [4] do and guide [5] does for the books it covers: PJO → Heroes of Olympus → Kane Chronicles → Magnus Chase → Trials of Apollo → Nico di Angelo books → PJO senior-year books.",
         "unit_ids": [
           "the-lightning-thief",
           "the-sea-of-monsters",
@@ -121,7 +121,7 @@
             "date": "2026-11-15"
           }
         ],
-        "criteria": "Essential = recommended in the reading list of at least two sources marked selective:true, with no source explicitly calling it skippable/optional/supplementary. Later books of an essential series are essential too. selective:true here means the source curates: it leaves out some books, or labels some as optional or bonus. A complete bibliography that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order) include the unit; the 'why' names which selective sources recommend it. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "the-lightning-thief": [
             0,

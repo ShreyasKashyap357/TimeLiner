@@ -243,3 +243,30 @@ describe('Gundam calendars', () => {
     expect(ds.titles.find((t) => t.id === 'mobile-suit-gundam')!.continuity).toBe('gundam-uc');
   });
 });
+
+describe('Games and new universes', () => {
+  it('places Arkham games by their offsets and Fallen Order at 14 BBY', () => {
+    const order = spine(scoped('dc', 'arkhamverse'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(order.indexOf('batman-arkham-origins')).toBeLessThan(order.indexOf('batman-arkham-asylum'));
+    expect(order.indexOf('batman-arkham-asylum')).toBeLessThan(order.indexOf('batman-arkham-knight'));
+    const fo = ds.titles.find((t) => t.id === 'star-wars-jedi-fallen-order')!;
+    expect(fo.continuity).toBe('sw-canon');
+    expect(fo.units[0]!.in_universe.start!.y).toBe(-14);
+    expect(fo.type).toBe('video-game');
+  });
+  it('Doctor Who is ordered by Doctor; GTA universes are separate', () => {
+    const order = spine(scoped('doctor-who', 'whoniverse'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(order.indexOf('doctor-who-1963-s1')).toBeLessThan(order.indexOf('doctor-who-2005-s1'));
+    expect(ds.titles.find((t) => t.id === 'gta-2')!.continuity).toBe('gta-2d');
+  });
+});
+
+describe('Watch-order text', () => {
+  it('has no internal research jargon (0-based source indices, field names)', () => {
+    const bad = /selective:|supported_by|\bindices\b|\bsources? \d|sources \[|Backbone =/i;
+    for (const c of ds.continuities) for (const a of c.alt_orders) {
+      expect(a.note, `${c.id}/${a.id} note`).not.toMatch(bad);
+      expect(a.criteria ?? '', `${c.id}/${a.id} criteria`).not.toMatch(bad);
+    }
+  });
+});

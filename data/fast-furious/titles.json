@@ -4368,5 +4368,165 @@
       }
     ],
     "constituents": []
+  },
+  {
+    "id": "fast-and-furious-showdown",
+    "title": "Fast & Furious: Showdown",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fast-furious",
+    "continuity": "ff-games",
+    "studio_brand": "firebrand-games",
+    "label": null,
+    "platform_or_network": "xbox-360",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast & Furious: Showdown",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1348689936",
+      "https://en.wikipedia.org/wiki/Fast_%26_Furious:_Showdown"
+    ],
+    "notes": "Developer: Firebrand Games. Publisher: Activision. Platforms: Xbox 360, PlayStation 3, Wii U, Nintendo 3DS, Windows.",
+    "units": [
+      {
+        "id": "fast-and-furious-showdown",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between Fast Five and Fast & Furious 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"bridges the story between the movies Fast Five and Fast & Furious 6.\" Derived: bounds from ff-main units fast-five (2011) / fast-and-furious-6 (2013).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-05-21",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: NA May 21, 2013 | AUS May 22, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1348689936",
+          "https://en.wikipedia.org/wiki/Fast_%26_Furious:_Showdown"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fast-five",
+        "kind": "references",
+        "note": ""
+      },
+      {
+        "to": "fast-and-furious-6",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "fast-and-furious-crossroads",
+    "title": "Fast & Furious Crossroads",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fast-furious",
+    "continuity": "ff-games",
+    "studio_brand": "slightly-mad-studios",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fast & Furious Crossroads",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384072617",
+      "https://en.wikipedia.org/wiki/Fast_%26_Furious_Crossroads"
+    ],
+    "notes": "Developer: Slightly Mad Studios. Publisher: Bandai Namco Entertainment. Platforms: PlayStation 4, Windows, Xbox One. Vin Diesel, Michelle Rodriguez, Tyrese Gibson voice their characters (cast list).",
+    "units": [
+      {
+        "id": "fast-and-furious-crossroads",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between The Fate of the Furious and F9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"the game bridges the story between the films The Fate of the Furious (2017), Hobbs & Shaw (2019), and F9 (2021).\" Derived: bounds from ff-main units.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-08-07",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: released = August 7, 2020"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384072617",
+          "https://en.wikipedia.org/wiki/Fast_%26_Furious_Crossroads"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fate-of-the-furious",
+        "kind": "references",
+        "note": ""
+      },
+      {
+        "to": "f9",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
   }
 ]

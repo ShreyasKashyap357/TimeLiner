@@ -1269,5 +1269,67 @@
       "https://en.wikipedia.org/wiki/Marvel_Universe_Live!"
     ],
     "notes": ""
+  },
+  {
+    "id": "insomniac-spider-man",
+    "universe": "marvel",
+    "name": "Insomniac's Marvel games (Earth-1048)",
+    "short_name": "Insomniac's Marvel games",
+    "order": 18,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Insomniac wanted to tell an original story that was not linked to an existing property, creating a unique universe (known as Earth-1048) that has since appeared in novels, merchandise, and comics.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel's_Spider-Man_(video_game)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "marvel-games-standalone",
+    "universe": "marvel",
+    "name": "Marvel games (standalone)",
+    "short_name": "Marvel games",
+    "order": 19,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Set in an original universe based on the Marvel Comics superhero team of the same name\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marvel's_Guardians_of_the_Galaxy"
+    ],
+    "notes": ""
   }
 ]

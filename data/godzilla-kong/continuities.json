@@ -29,7 +29,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.slashfilm.com/1527197/correct-order-to-watch-monsterverse-franchise",
         "as_of": "2026-11-27",
-        "note": "Backbone = release order.",
+        "note": "Based on release order.",
         "unit_ids": [
           "godzilla-2014",
           "monarch-legacy-of-monsters-s1",
@@ -76,7 +76,7 @@
             "date": "2026-02-21"
           }
         ],
-        "criteria": "Only one source (0) gives a newcomer-specific, selective list, so the general ≥2-selective rule would mark nothing essential. Franchise rule used instead: essential = in source 0 newcomer list AND listed by at least one other source AND not described by any source as skippable or disconnected; optional otherwise. supported_by = sources whose lists include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "Only one guide [1] gives a curated newcomer list, so the usual two-guide rule would mark nothing essential. Instead, an entry is essential when it is on that list, at least one other guide also lists it, and no guide calls it skippable or disconnected. Later seasons of an essential series are essential too, because they continue the same story. Everything else is optional.",
         "unit_sources": {
           "godzilla-2014": [
             0,

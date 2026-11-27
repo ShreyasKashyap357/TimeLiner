@@ -628,5 +628,243 @@
     "data_dir": "gundam",
     "description": "Mobile Suit Gundam across its separate timelines: Universal Century, Future Century, After Colony, Cosmic Era, Anno Domini, Post Disaster, Ad Stella and more.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "grand-theft-auto",
+    "name": "Grand Theft Auto",
+    "short_name": "GTA",
+    "order": 16,
+    "enabled": true,
+    "accent": {
+      "primary": "#F7C948",
+      "secondary": "#4FB4E8"
+    },
+    "default_continuity": "gta-hd",
+    "grouping_schemes": [],
+    "data_dir": "grand-theft-auto",
+    "description": "Rockstar's Grand Theft Auto series across its 2D, 3D and HD universes.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "fallout",
+    "name": "Fallout",
+    "short_name": "Fallout",
+    "order": 17,
+    "enabled": true,
+    "accent": {
+      "primary": "#F5D547",
+      "secondary": "#3E8E41"
+    },
+    "default_continuity": "fallout-main",
+    "grouping_schemes": [],
+    "data_dir": "fallout",
+    "description": "The Fallout games and the Prime Video series (canon to the games).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "the-last-of-us",
+    "name": "The Last of Us",
+    "short_name": "The Last of Us",
+    "order": 18,
+    "enabled": true,
+    "accent": {
+      "primary": "#8FB573",
+      "secondary": "#C9A227"
+    },
+    "default_continuity": "tlou-games",
+    "grouping_schemes": [],
+    "data_dir": "the-last-of-us",
+    "description": "Naughty Dog's games and the HBO series (which moves the dates).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "the-witcher",
+    "name": "The Witcher",
+    "short_name": "The Witcher",
+    "order": 19,
+    "enabled": true,
+    "accent": {
+      "primary": "#C0392B",
+      "secondary": "#B8B8B8"
+    },
+    "default_continuity": "witcher-books",
+    "grouping_schemes": [],
+    "data_dir": "the-witcher",
+    "description": "Sapkowski's books, CD Projekt Red's games and Netflix's series, each its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "halo",
+    "name": "Halo",
+    "short_name": "Halo",
+    "order": 20,
+    "enabled": true,
+    "accent": {
+      "primary": "#5BA4CF",
+      "secondary": "#7CC242"
+    },
+    "default_continuity": "halo-core",
+    "grouping_schemes": [],
+    "data_dir": "halo",
+    "description": "The Halo games and core novels, and the Paramount+ series (\"Silver Timeline\").",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "assassins-creed",
+    "name": "Assassin's Creed",
+    "short_name": "Assassin's Creed",
+    "order": 21,
+    "enabled": true,
+    "accent": {
+      "primary": "#E4E4E4",
+      "secondary": "#B22222"
+    },
+    "default_continuity": "ac-main",
+    "grouping_schemes": [],
+    "data_dir": "assassins-creed",
+    "description": "Ubisoft's Assassin's Creed games with their historical settings and modern-day frame, the film and series.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "doctor-who",
+    "name": "Doctor Who",
+    "short_name": "Doctor Who",
+    "order": 22,
+    "enabled": true,
+    "accent": {
+      "primary": "#2F6FD0",
+      "secondary": "#E8C547"
+    },
+    "default_continuity": "whoniverse",
+    "grouping_schemes": [
+      {
+        "id": "doctor",
+        "label": "Doctor",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "fugitive-doctor",
+            "label": "Fugitive Doctor (Jo Martin)",
+            "order": 0,
+            "parent": null
+          },
+          {
+            "id": "first-doctor",
+            "label": "First Doctor (William Hartnell)",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "second-doctor",
+            "label": "Second Doctor (Patrick Troughton)",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "third-doctor",
+            "label": "Third Doctor (Jon Pertwee)",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "fourth-doctor",
+            "label": "Fourth Doctor (Tom Baker)",
+            "order": 4,
+            "parent": null
+          },
+          {
+            "id": "fifth-doctor",
+            "label": "Fifth Doctor (Peter Davison)",
+            "order": 5,
+            "parent": null
+          },
+          {
+            "id": "sixth-doctor",
+            "label": "Sixth Doctor (Colin Baker)",
+            "order": 6,
+            "parent": null
+          },
+          {
+            "id": "seventh-doctor",
+            "label": "Seventh Doctor (Sylvester McCoy)",
+            "order": 7,
+            "parent": null
+          },
+          {
+            "id": "eighth-doctor",
+            "label": "Eighth Doctor (Paul McGann)",
+            "order": 8,
+            "parent": null
+          },
+          {
+            "id": "war-doctor",
+            "label": "War Doctor (John Hurt)",
+            "order": 8.5,
+            "parent": null
+          },
+          {
+            "id": "ninth-doctor",
+            "label": "Ninth Doctor (Christopher Eccleston)",
+            "order": 9,
+            "parent": null
+          },
+          {
+            "id": "tenth-doctor",
+            "label": "Tenth Doctor (David Tennant)",
+            "order": 10,
+            "parent": null
+          },
+          {
+            "id": "eleventh-doctor",
+            "label": "Eleventh Doctor (Matt Smith)",
+            "order": 11,
+            "parent": null
+          },
+          {
+            "id": "twelfth-doctor",
+            "label": "Twelfth Doctor (Peter Capaldi)",
+            "order": 12,
+            "parent": null
+          },
+          {
+            "id": "thirteenth-doctor",
+            "label": "Thirteenth Doctor (Jodie Whittaker)",
+            "order": 13,
+            "parent": null
+          },
+          {
+            "id": "fourteenth-doctor",
+            "label": "Fourteenth Doctor (David Tennant)",
+            "order": 14,
+            "parent": null
+          },
+          {
+            "id": "fifteenth-doctor",
+            "label": "Fifteenth Doctor (Ncuti Gatwa)",
+            "order": 15,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "doctor-who",
+    "description": "Doctor Who on TV (1963–), the 1996 film and its spin-offs (Torchwood, The Sarah Jane Adventures, Class), the Peter Cushing Dalek films, K9, and Big Finish audio.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "lego",
+    "name": "LEGO",
+    "short_name": "LEGO",
+    "order": 23,
+    "enabled": true,
+    "accent": {
+      "primary": "#F2C200",
+      "secondary": "#D01012"
+    },
+    "default_continuity": "lego-movie",
+    "grouping_schemes": [],
+    "data_dir": "lego",
+    "description": "The Lego Movie franchise and LEGO's own worlds: Ninjago, Bionicle, Chima, Nexo Knights, Monkie Kid, Dreamzzz, Friends and more, plus LEGO's own games. LEGO versions of other franchises live in those universes.",
+    "last_verified": "2026-11-27"
   }
 ]

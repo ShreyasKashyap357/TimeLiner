@@ -12011,5 +12011,2044 @@
     ],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "star-wars-jedi-fallen-order",
+    "title": "Star Wars Jedi: Fallen Order",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "respawn-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Jedi: Fallen Order",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384348495",
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order"
+    ],
+    "notes": "Developer: Respawn Entertainment. Publisher: Electronic Arts. Platforms: PlayStation 4, Windows, Xbox One. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\"",
+    "units": [
+      {
+        "id": "star-wars-jedi-fallen-order",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -14
+          },
+          "end": {
+            "y": -14
+          },
+          "label": "14 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The story is set in the Star Wars universe, five years after Star Wars: Episode III – Revenge of the Sith.\" Derived: revenge-of-the-sith = 19 BBY in data; +5.",
+          "order_index": 221,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-11-15",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: '''PS4, Windows, Xbox One''' November 15, 2019 | '''PS5, Xbox Series X/S''' June 11, 2021"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384348495",
+          "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "revenge-of-the-sith",
+        "kind": "references",
+        "note": "five years after"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-jedi-survivor",
+    "title": "Star Wars Jedi: Survivor",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "respawn-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Jedi: Survivor",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380829890",
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor"
+    ],
+    "notes": "Developer: Respawn Entertainment. Publisher: Electronic Arts. Platforms: PlayStation 5, Windows, Xbox Series X/S. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\"",
+    "units": [
+      {
+        "id": "star-wars-jedi-survivor",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -9
+          },
+          "end": {
+            "y": -9
+          },
+          "label": "9 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Star Wars Jedi: Survivor takes place five years after the events of Fallen Order.\" Derived: Fallen Order 14 BBY + 5.",
+          "order_index": 241,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-04-28",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: '''PS5, PC, Xbox Series X/S''' April 28, 2023 | '''PS4, Xbox One''' September 17, 2024"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1380829890",
+          "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-jedi-fallen-order",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-battlefront-ii-2017",
+    "title": "Star Wars Battlefront II",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "dice",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Battlefront II (2017 video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386472665",
+      "https://en.wikipedia.org/wiki/Star_Wars_Battlefront_II_(2017_video_game)"
+    ],
+    "notes": "Developer: DICE. Publisher: Electronic Arts. Platforms: Windows, PlayStation 4, Xbox One. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\" Only the single-player campaign is story content. Campaign continues in \"Project Resurrection\" storyline (plot section); separate Resurrection DLC date not fetched.",
+    "units": [
+      {
+        "id": "star-wars-battlefront-ii-2017",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 4
+          },
+          "end": {
+            "y": 34
+          },
+          "label": "From Return of the Jedi toward the First Order era",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The single-player campaign is set between the films Return of the Jedi and The Force Awakens ... Most of the story takes place ... during the final year of the Galactic Civil War, before the Empire's definitive defeat at the Battle of Jakku.\" Derived: bounded by return-of-the-jedi (4 ABY) and the-force-awakens (34 ABY) in data; Jakku year not in the fetched source.",
+          "order_index": 342,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-11-17",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: released = November 17, 2017"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386472665",
+          "https://en.wikipedia.org/wiki/Star_Wars_Battlefront_II_(2017_video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "return-of-the-jedi",
+        "kind": "references",
+        "note": ""
+      },
+      {
+        "to": "the-force-awakens",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-squadrons",
+    "title": "Star Wars: Squadrons",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "motive-studio",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Squadrons",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380862684",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Squadrons"
+    ],
+    "notes": "Developer: Motive Studio. Publisher: Electronic Arts. Platforms: PlayStation 4, Windows, Xbox One. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\" No year given; leave start null (relative) or 4 ABY inferred.",
+    "units": [
+      {
+        "id": "star-wars-squadrons",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the Battle of Endor (prologue earlier)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The story mode is set after the Battle of Endor and the destruction of the second Death Star.\"",
+          "order_index": 510,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-10-02",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: '''PlayStation 4, Windows, Xbox One''' October 2, 2020 | '''Xbox Series X/S''' December 3, 2020"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1380862684",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Squadrons"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "return-of-the-jedi",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-outlaws",
+    "title": "Star Wars Outlaws",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "massive-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Outlaws",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386205305",
+      "https://en.wikipedia.org/wiki/Star_Wars_Outlaws"
+    ],
+    "notes": "Developer: Massive Entertainment. Publisher: Ubisoft. Platforms: PlayStation 5, Windows, Xbox Series X/S. Canon: \"The development team, supported by Lucasfilm Games and ten other Ubisoft studios, sought to combine canonical elements of the Star Wars universe with their own ideas | Since then, most but not all new\" Story DLC (Wild Card, A Pirate's Fortune) has no Wikipedia article - not itemised.",
+    "units": [
+      {
+        "id": "star-wars-outlaws",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 4
+          },
+          "label": "3–4 ABY (between ESB and ROTJ)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set in the Star Wars universe between the events of The Empire Strikes Back (1980) and Return of the Jedi (1983)\"",
+          "order_index": 331,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-08-30",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: '''PlayStation 5''', '''Windows''', '''Xbox Series X/S''' August 30, 2024 | '''Nintendo Switch 2''' September 4, 2025"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386205305",
+          "https://en.wikipedia.org/wiki/Star_Wars_Outlaws"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-empire-strikes-back",
+        "kind": "references",
+        "note": ""
+      },
+      {
+        "to": "return-of-the-jedi",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "vader-immortal",
+    "title": "Vader Immortal: A Star Wars VR Series",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "ilmxlab",
+    "label": null,
+    "platform_or_network": "meta-quest",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Vader Immortal: A Star Wars VR Series",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1324893843",
+      "https://en.wikipedia.org/wiki/Vader_Immortal:_A_Star_Wars_VR_Series"
+    ],
+    "notes": "Developer: ILMxLAB (no developer field in infobox; named only in citations - VERIFY). Publisher: not stated - VERIFY. Platforms: Oculus Quest, Oculus Rift. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\" Three episodes; one unit per episode.",
+    "units": [
+      {
+        "id": "vader-immortal",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": 0
+          },
+          "label": "Between Revenge of the Sith and Rogue One",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The series, taking place between the events of Revenge of the Sith and Rogue One\" Derived: bounds only.",
+          "order_index": 201,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-05-21",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: Episode I: May 21, 2019 | Episode II: September 25, 2019 | Episode III: November 21, 2019 | PSVR August 24, 2020"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1324893843",
+          "https://en.wikipedia.org/wiki/Vader_Immortal:_A_Star_Wars_VR_Series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-tales-from-the-galaxys-edge",
+    "title": "Star Wars: Tales from the Galaxy's Edge",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "not-stated",
+    "label": null,
+    "platform_or_network": "meta-quest",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Tales from the Galaxy's Edge",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1356039092",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Tales_from_the_Galaxy's_Edge"
+    ],
+    "notes": "Developer: not stated (\"The graphics were designed by ILMxLab\") - VERIFY. Publisher: not stated. Platforms: Oculus Quest. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\" Anthology framing; no single placement. Low priority.",
+    "units": [
+      {
+        "id": "star-wars-tales-from-the-galaxys-edge",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Multiple eras (framing at Black Spire Outpost)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"the mechanic talks to bartender Seezelslak and find themselves in the middle of his stories that span different eras of the Star Wars timeline.\"",
+          "order_index": 520,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-11-19",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: originally released on November 19, 2020 for the Oculus Quest systems"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1356039092",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Tales_from_the_Galaxy's_Edge"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-zero-company",
+    "title": "Star Wars Zero Company",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "bit-reactor-respawn-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Zero Company",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386277939",
+      "https://en.wikipedia.org/wiki/Star_Wars_Zero_Company"
+    ],
+    "notes": "Developer: Bit Reactor / Respawn Entertainment. Publisher: Electronic Arts. Platforms: PlayStation 5, Windows, Xbox Series X/S. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\"",
+    "units": [
+      {
+        "id": "star-wars-zero-company",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -19
+          },
+          "end": {
+            "y": -18
+          },
+          "label": "19–18 BBY",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Wikipedia: \"In 19 BBY, the final year of the Clone Wars, former Galactic Republic captain Tesh Hawks leads the independent mercenary outfit Zero Company. ... One year later, Zero Company has abandoned its mission to stop the Coil\"",
+          "order_index": 202,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-08-27",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: released = August 27, 2026"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386277939",
+          "https://en.wikipedia.org/wiki/Star_Wars_Zero_Company"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-uprising",
+    "title": "Star Wars: Uprising",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-canon",
+    "studio_brand": "kabam",
+    "label": null,
+    "platform_or_network": "mobile",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Uprising",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384348576",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Uprising"
+    ],
+    "notes": "Developer: Kabam. Publisher: Disney Interactive Studios. Platforms: iOS, Android. Canon: \"Since then, most but not all new Star Wars works have been part of the official Lucasfilm canon. [Star Wars in other media, revid 1383247552; per-game canon status is NOT stated in the game's own Wiki\" Mobile RPG; optional.",
+    "units": [
+      {
+        "id": "star-wars-uprising",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 4
+          },
+          "end": {
+            "y": 4
+          },
+          "label": "Shortly after Return of the Jedi",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set shortly after the events of Return of the Jedi\"",
+          "order_index": 341,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-09-10",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: released = September 10, 2015"
+        },
+        "status": "released",
+        "groupings": {
+          "era": null
+        },
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384348576",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Uprising"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-knights-of-the-old-republic",
+    "title": "Star Wars: Knights of the Old Republic",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "bioware",
+    "label": null,
+    "platform_or_network": "xbox",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Knights of the Old Republic (video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384348513",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)"
+    ],
+    "notes": "Developer: BioWare. Publisher: LucasArts. Platforms: Xbox, Windows. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \"",
+    "units": [
+      {
+        "id": "star-wars-knights-of-the-old-republic",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -3956
+          },
+          "end": {
+            "y": -3956
+          },
+          "label": "3956 BBY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"KOTOR I is set in 3956 BBY (3956 years before the Battle of Yavin in which the first Death Star was destroyed.)\"",
+          "order_index": 5,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-07-16",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: it was released for the Xbox on July 16, 2003 and Windows on November 19, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384348513",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-knights-of-the-old-republic-ii",
+    "title": "Star Wars Knights of the Old Republic II: The Sith Lords",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "obsidian-entertainment",
+    "label": null,
+    "platform_or_network": "xbox",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Knights of the Old Republic II: The Sith Lords",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383397950",
+      "https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+    ],
+    "notes": "Developer: Obsidian Entertainment. Publisher: LucasArts. Platforms: Xbox. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \"",
+    "units": [
+      {
+        "id": "star-wars-knights-of-the-old-republic-ii",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -3951
+          },
+          "end": {
+            "y": -3951
+          },
+          "label": "3951 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game takes place five years after the events of Knights of the Old Republic and 3,919 years before Episode I: The Phantom Menace\" Derived: 3956 BBY + 5.",
+          "order_index": 6,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-12-06",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: '''Xbox''' NA December 6, 2004 | EU February 11, 2005 | AU February 15, 2005; '''Microsoft Windows''' NA February 8, 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1383397950",
+          "https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-knights-of-the-old-republic",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-the-old-republic",
+    "title": "Star Wars: The Old Republic",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "bioware",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Old Republic",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384348571",
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic"
+    ],
+    "notes": "Developer: BioWare. Publisher: Electronic Arts. Platforms: Windows. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \" MMO with many story expansions - not itemised; open-ended.",
+    "units": [
+      {
+        "id": "star-wars-the-old-republic",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -3656
+          },
+          "end": {
+            "y": -3651
+          },
+          "label": "c. 3650 BBY (300 years after KOTOR I & II)",
+          "precision": "range",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"300 years after the events of the Star Wars: Knights of the Old Republic games, and more than 3,600 years before the events in the Star Wars films\" Derived: 300 years after KOTOR I (3956) or II (3951) - ambiguous.",
+          "order_index": 7,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-12-20",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: NA/EU December 20, 2011 | AUS March 1, 2012"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384348571",
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-the-force-unleashed",
+    "title": "Star Wars: The Force Unleashed",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Force Unleashed",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386487717",
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed"
+    ],
+    "notes": "Developer: LucasArts (PS3/X360); Krome Studios (PS2/PSP/Wii). Publisher: LucasArts. Platforms: PlayStation 3, Xbox 360, PlayStation 2, PlayStation Portable, Wii, Nintendo DS, iOS. Canon: \"Following The Walt Disney Company's acquisition of Lucasfilm in 2012, the game became part of the non-canonical Star Wars Legends continuity in 2014\" Windows/Mac 2009 (Aspyr).",
+    "units": [
+      {
+        "id": "star-wars-the-force-unleashed",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -2
+          },
+          "end": {
+            "y": -2
+          },
+          "label": "Between Revenge of the Sith and A New Hope (~1.5 years before ANH)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"TFU II article: \"The game takes place approximately six months after the events of the first game, and a year before the film A New Hope\"\" Derived: TFU II ~1 BBY minus ~6 months; prologue earlier.",
+          "order_index": 105,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-09-16",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: infobox title September 16, 2008 (iOS WW September 15, 2008)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386487717",
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-the-force-unleashed-ii",
+    "title": "Star Wars: The Force Unleashed II",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: The Force Unleashed II",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386321085",
+      "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed_II"
+    ],
+    "notes": "Developer: LucasArts. Publisher: LucasArts. Platforms: PlayStation 3, Xbox 360, Wii, Windows, Nintendo DS, iOS. Canon: \"In 2014, The Force Unleashed project became part of the non-canonical Star Wars Legends continuity\"",
+    "units": [
+      {
+        "id": "star-wars-the-force-unleashed-ii",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -1
+          },
+          "end": {
+            "y": -1
+          },
+          "label": "About 1 BBY",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game takes place approximately six months after the events of the first game, and a year before the film A New Hope\"",
+          "order_index": 106,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-10-26",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: NA October 26, 2010 | AU October 27, 2010 | EU October 29, 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386321085",
+          "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed_II"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-the-force-unleashed",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-dark-forces",
+    "title": "Star Wars: Dark Forces",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Dark Forces",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1370311016",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces"
+    ],
+    "notes": "Developer: LucasArts. Publisher: LucasArts. Platforms: MS-DOS. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \" Jedi Knight article: \"four years after Dark Forces\" (5 ABY) - consistent. 2024 remaster by Nightdive.",
+    "units": [
+      {
+        "id": "star-wars-dark-forces",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 0
+          },
+          "end": {
+            "y": 1
+          },
+          "label": "Shortly before A New Hope, then a year after",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The story is set in the Star Wars expanded universe and begins shortly before the original Star Wars film, before flashing forward to a year after the film's events.\"",
+          "order_index": 41,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-03-08",
+          "end_date": null,
+          "year": 1995,
+          "note": "Wikipedia: title = March 8, 1995 '''MS-DOS''' NA March 8, 1995"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1370311016",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-jedi-knight-dark-forces-ii",
+    "title": "Star Wars Jedi Knight: Dark Forces II",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Jedi Knight: Dark Forces II",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1362107304",
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Dark_Forces_II"
+    ],
+    "notes": "Developer: LucasArts. Publisher: LucasArts. Platforms: Windows. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \"",
+    "units": [
+      {
+        "id": "star-wars-jedi-knight-dark-forces-ii",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 5
+          },
+          "end": {
+            "y": 5
+          },
+          "label": "5 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"Jedi Knight takes place in the year 5 ABY, one year after Return of the Jedi and four years after Dark Forces.\"",
+          "order_index": 92,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-10-09",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: NA October 9, 1997"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1362107304",
+          "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Dark_Forces_II"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-dark-forces",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-jedi-knight-mysteries-of-the-sith",
+    "title": "Star Wars Jedi Knight: Mysteries of the Sith",
+    "sort_title": null,
+    "type": "expansion",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Jedi Knight: Mysteries of the Sith",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1346370240",
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Mysteries_of_the_Sith"
+    ],
+    "notes": "Developer: LucasArts. Publisher: LucasArts. Platforms: Windows. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \" Expansion pack for Dark Forces II.",
+    "units": [
+      {
+        "id": "star-wars-jedi-knight-mysteries-of-the-sith",
+        "label": "Expansion",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 10
+          },
+          "end": {
+            "y": 10
+          },
+          "label": "10 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"Mysteries of the Sith is set in the year 10 ABY, six years after the events of Return of the Jedi and five years after Dark Forces II\"",
+          "order_index": 93,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-02-17",
+          "end_date": null,
+          "year": 1998,
+          "note": "Wikipedia: NA February 17, 1998"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1346370240",
+          "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Mysteries_of_the_Sith"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-jedi-knight-dark-forces-ii",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-jedi-knight-ii-jedi-outcast",
+    "title": "Star Wars Jedi Knight II: Jedi Outcast",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "raven-software",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Jedi Knight II: Jedi Outcast",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383881486",
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast"
+    ],
+    "notes": "Developer: Raven Software. Publisher: LucasArts (NA) / Activision (WW). Platforms: Windows, Mac OS. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \" GameCube/Xbox ports later.",
+    "units": [
+      {
+        "id": "star-wars-jedi-knight-ii-jedi-outcast",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 12
+          },
+          "end": {
+            "y": 12
+          },
+          "label": "12 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"The single-player story is set in 12 ABY, eight years after the events of Return of the Jedi and around two years after Mysteries of the Sith.\"",
+          "order_index": 94,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-03-28",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: title March 28, 2002 '''Windows''' NA March 28, 2002"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1383881486",
+          "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-jedi-knight-mysteries-of-the-sith",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-jedi-knight-jedi-academy",
+    "title": "Star Wars Jedi Knight: Jedi Academy",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "raven-software",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars Jedi Knight: Jedi Academy",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385529778",
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy"
+    ],
+    "notes": "Developer: Raven Software. Publisher: LucasArts (NA) / Activision (WW). Platforms: Windows, Mac OS X. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \"",
+    "units": [
+      {
+        "id": "star-wars-jedi-knight-jedi-academy",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 14
+          },
+          "end": {
+            "y": 14
+          },
+          "label": "14 ABY",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Wikipedia: \"Jedi Academy is set in 14 ABY, a decade after Return of the Jedi and two years after Jedi Outcast.\"",
+          "order_index": 95,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-16",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: title September 16, 2003 '''Windows''' NA September 16, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385529778",
+          "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-wars-jedi-knight-ii-jedi-outcast",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-shadows-of-the-empire-game",
+    "title": "Star Wars: Shadows of the Empire",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "nintendo-64",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Shadows of the Empire (video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380829795",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)"
+    ],
+    "notes": "Developer: LucasArts. Publisher: Nintendo (N64) / LucasArts (PC). Platforms: Nintendo 64. Canon: \"On April 25, 2014, Lucasfilm—which had been acquired by Disney in 2012—renamed the Expanded Universe Star Wars Legends and declared it non-canonical to the franchise. [Star Wars in other media, revid \" Part of a multimedia project (novel/comics also Legends).",
+    "units": [
+      {
+        "id": "star-wars-shadows-of-the-empire-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 3
+          },
+          "end": {
+            "y": 4
+          },
+          "label": "3–4 ABY (between ESB and ROTJ)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"It is part of the Star Wars: Shadows of the Empire multimedia project and takes place between The Empire Strikes Back and Return of the Jedi.\"",
+          "order_index": 91,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-12-02",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: '''Nintendo 64''' NA December 2, 1996 | PAL March 1, 1997; '''Windows''' NA September 9, 1997"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1380829795",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-wars-republic-commando",
+    "title": "Star Wars: Republic Commando",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-legends",
+    "studio_brand": "lucasarts",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Wars: Republic Commando",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387953147",
+      "https://en.wikipedia.org/wiki/Star_Wars:_Republic_Commando"
+    ],
+    "notes": "Developer: LucasArts. Publisher: LucasArts. Platforms: Windows, Xbox. Canon: \"Republic Commando was among the projects affected by this, as the events depicted in its campaign would no longer be considered canon. However, the game's characters remained canon thanks to Delta Squ\"",
+    "units": [
+      {
+        "id": "star-wars-republic-commando",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": -22
+          },
+          "end": {
+            "y": -22
+          },
+          "label": "Clone Wars, opening at the Battle of Geonosis (22 BBY)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"At the onset of the Clone Wars, the four members of the squad ... are deployed during the Battle of Geonosis\" Derived: Geonosis = attack-of-the-clones (22 BBY) in data.",
+          "order_index": 21,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-03-01",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: '''Windows, Xbox''' NA March 1, 2005 | EU March 4, 2005; '''Switch, PS4''' WW April 6, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387953147",
+          "https://en.wikipedia.org/wiki/Star_Wars:_Republic_Commando"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-clone-wars",
+        "kind": "references",
+        "note": "Delta Squad appears in The Clone Wars S3 \"Witches of the Mist\" (cross-continuity link only)"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-the-video-game",
+    "title": "Lego Star Wars: The Video Game",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "game-boy-advance",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars: The Video Game",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387910113",
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Video_Game"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Eidos Interactive; Giant Interactive Entertainment. Platforms: GBA, PS2, Windows, Xbox, Mac OS X, GameCube. Covers the prequel trilogy.",
+    "units": [
+      {
+        "id": "lego-star-wars-the-video-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-03-29",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: '''GBA''', '''PS2''', '''Windows'''{{Video game release|NA|29 March 2005|PAL|22 April 2005}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387910113",
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Video_Game"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-ii-the-original-trilogy",
+    "title": "Lego Star Wars II: The Original Trilogy",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "game-boy-advance",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars II: The Original Trilogy",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388140709",
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: LucasArts. Platforms: GBA, GameCube, Windows, DS, PS2, PSP, Xbox, Xbox 360, J2ME, OS X. NA 2006-09-12; earliest (UK) 2006-09-11.",
+    "units": [
+      {
+        "id": "lego-star-wars-ii-the-original-trilogy",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-12",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: {{Video game release|UK|11 September 2006|NA|12 September 2006|EU|13 September 2006|AU|15 September 2006|...}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388140709",
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-the-complete-saga",
+    "title": "Lego Star Wars: The Complete Saga",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "nintendo-ds",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars: The Complete Saga",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388170082",
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Complete_Saga"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: LucasArts. Platforms: DS, PS3, Wii, Xbox 360; later Windows, Mac OS X, iOS, Android. Combines the first two games.",
+    "units": [
+      {
+        "id": "lego-star-wars-the-complete-saga",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-11-06",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: '''Nintendo DS''', '''PlayStation 3''', '''Wii''', '''Xbox 360'''<br />{{vgrelease|NA|6 November 2007|AU|7 November 2007|...}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388170082",
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Complete_Saga"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-iii-the-clone-wars",
+    "title": "Lego Star Wars III: The Clone Wars",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars III: The Clone Wars",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388155055",
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: LucasArts. Platforms: Windows, 3DS, DS, PS3, PSP, Wii, Xbox 360, OS X.",
+    "units": [
+      {
+        "id": "lego-star-wars-iii-the-clone-wars",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-03-22",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: {{Video game release|NA|22 March 2011|EU|25 March 2011|NA|27 March 2011(3DS)|...}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388155055",
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-the-force-awakens",
+    "title": "Lego Star Wars: The Force Awakens",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "tt-fusion",
+    "label": null,
+    "platform_or_network": "3ds",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars: The Force Awakens",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385390509",
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Force_Awakens"
+    ],
+    "notes": "Developer: TT Fusion. Publisher: Warner Bros. Interactive Entertainment. Platforms: 3DS, PS3, PS4, PS Vita, Wii U, Windows, Xbox 360, Xbox One, OS X, Android, iOS. The infobox gives no region.",
+    "units": [
+      {
+        "id": "lego-star-wars-the-force-awakens",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-06-28",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: | released = 28 June 2016<br/>..."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385390509",
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Force_Awakens"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-star-wars-the-skywalker-saga",
+    "title": "Lego Star Wars: The Skywalker Saga",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-wars",
+    "continuity": "sw-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "switch",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Star Wars: The Skywalker Saga",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387527515",
+      "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Skywalker_Saga"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Games. Platforms: Switch, PS4, PS5, Windows, Xbox One, Xbox Series X/S.",
+    "units": [
+      {
+        "id": "lego-star-wars-the-skywalker-saga",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-04-05",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: ''The Skywalker Saga'' was released on 5 April 2022 for [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Windows]], [[Xbox One]], and [[Xbox Series X and Series S|Xbox Series X/S]]."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387527515",
+          "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Skywalker_Saga"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

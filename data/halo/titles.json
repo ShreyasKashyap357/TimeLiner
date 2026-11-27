@@ -1,0 +1,1871 @@
+[
+  {
+    "id": "halo-fall-of-reach",
+    "title": "Halo: The Fall of Reach",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "eric-nylund",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo: The Fall of Reach",
+      "wikidata": "Q2453886",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo:_The_Fall_of_Reach",
+      "https://en.wikipedia.org/w/index.php?title=Halo%3A_The_Fall_of_Reach&oldid=1385700488"
+    ],
+    "notes": "Optional novel. Article: \"The game Halo: Reach largely ignored the canon established in the book.\" Reissued by Tor on December 7, 2010. A full-cast audio adaptation was released November 10, 2026.",
+    "units": [
+      {
+        "id": "halo-fall-of-reach",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 352,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2517
+          },
+          "end": {
+            "y": 2552
+          },
+          "label": "2517–2552",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "The Fall of Reach takes place in the Halo universe and spans several decades, beginning in 2517 and describing events up to 2552.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-10",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: The book was released in October 2001 and is the first Halo novel."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo:_The_Fall_of_Reach",
+          "https://en.wikipedia.org/w/index.php?title=Halo%3A_The_Fall_of_Reach&oldid=1385700488"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-ce",
+        "kind": "references",
+        "note": "prelude to Combat Evolved"
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Eric Nylund",
+        "qid": "Q123392",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-ce",
+    "title": "Halo: Combat Evolved",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "bungie",
+    "label": null,
+    "platform_or_network": "xbox",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo: Combat Evolved",
+      "wikidata": "Q276217",
+      "tmdb": null,
+      "imdb": "tt0309654"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+      "https://en.wikipedia.org/w/index.php?title=Halo%3A_Combat_Evolved&oldid=1387617249",
+      "https://en.wikipedia.org/w/index.php?title=Halo%3A_Reach&oldid=1387889763"
+    ],
+    "notes": "Halo: Combat Evolved Anniversary (Xbox 360, November 15, 2011); in Halo: The Master Chief Collection (2014).",
+    "units": [
+      {
+        "id": "halo-ce",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2552
+          },
+          "end": {
+            "y": 2552
+          },
+          "label": "2552",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Halo: Combat Evolved takes place in a 26th-century science fiction setting. … In 2552, Covenant forces attack Reach and destroy the colony. … Reach takes place in a futuristic science fiction setting; the year is 2552, shortly before the events of the video game Halo: Combat Evolved",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-11-15",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: The game was released on November 15, 2001 for the Xbox, with ports to Microsoft Windows and Mac OS X released in 2003."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+          "https://en.wikipedia.org/w/index.php?title=Halo%3A_Combat_Evolved&oldid=1387617249",
+          "https://en.wikipedia.org/w/index.php?title=Halo%3A_Reach&oldid=1387889763"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "halo-2",
+    "title": "Halo 2",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "bungie",
+    "label": null,
+    "platform_or_network": "xbox",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo 2",
+      "wikidata": "Q252804",
+      "tmdb": null,
+      "imdb": "tt0357718"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_2",
+      "https://en.wikipedia.org/w/index.php?title=Halo_2&oldid=1388274106",
+      "https://en.wikipedia.org/w/index.php?title=Halo_3&oldid=1386314045"
+    ],
+    "notes": "Windows Vista port 2007.",
+    "units": [
+      {
+        "id": "halo-2",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2552
+          },
+          "end": {
+            "y": 2552
+          },
+          "label": "2552",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Halo 2 takes place in the 26th century. … Halo 3 is set in a science fiction setting during the years 2552 and 2553.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-11-09",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: Halo 2 was released on November 9, 2004, in Australia, Canada, New Zealand, and the United States."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_2",
+          "https://en.wikipedia.org/w/index.php?title=Halo_2&oldid=1388274106",
+          "https://en.wikipedia.org/w/index.php?title=Halo_3&oldid=1386314045"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-ce",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Martin O'Donnell",
+        "qid": "Q2484073",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Michael Salvatori",
+        "qid": "Q2841007",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-3-odst",
+    "title": "Halo 3: ODST",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "bungie",
+    "label": null,
+    "platform_or_network": "xbox-360",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo 3: ODST",
+      "wikidata": "Q1628364",
+      "tmdb": null,
+      "imdb": "tt1446689"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_3:_ODST",
+      "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "halo-3-odst",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2552
+          },
+          "end": {
+            "y": 2552
+          },
+          "label": "2552",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Halo 3: ODST takes place between the events of Halo 2, and Halo 3.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-09-22",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: released = September 22, 2009 … The fifth installment in the Halo franchise, it was released on the Xbox 360 in September 2009."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_3:_ODST",
+          "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-2",
+        "kind": "continues",
+        "note": "runs during the Covenant assault on New Mombasa from Halo 2"
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Martin O'Donnell",
+        "qid": "Q2484073",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-3",
+    "title": "Halo 3",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "bungie",
+    "label": null,
+    "platform_or_network": "xbox-360",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo 3",
+      "wikidata": "Q137802",
+      "tmdb": null,
+      "imdb": "tt0494232"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_3",
+      "https://en.wikipedia.org/w/index.php?title=Halo_3&oldid=1386314045"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "halo-3",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2552
+          },
+          "end": {
+            "y": 2553
+          },
+          "label": "2552–2553",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "Halo 3 is set in a science fiction setting during the years 2552 and 2553.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-09-25",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: Halo 3 was released on September 25, 2007, in three separate retail versions: \"Standard\", \"Limited\", and \"Legendary\"."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_3",
+          "https://en.wikipedia.org/w/index.php?title=Halo_3&oldid=1386314045"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-2",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Martin O'Donnell",
+        "qid": "Q2484073",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-reach",
+    "title": "Halo: Reach",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "bungie",
+    "label": null,
+    "platform_or_network": "xbox-360",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo: Reach",
+      "wikidata": "Q283878",
+      "tmdb": null,
+      "imdb": "tt1723639"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo:_Reach",
+      "https://en.wikipedia.org/w/index.php?title=Halo%3A_Reach&oldid=1387889763"
+    ],
+    "notes": "Windows/Xbox One in The Master Chief Collection, December 3, 2019.",
+    "units": [
+      {
+        "id": "halo-reach",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2552
+          },
+          "end": {
+            "y": 2552
+          },
+          "label": "2552 (epilogue 2589)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Reach takes place in a futuristic science fiction setting; the year is 2552, shortly before the events of the video game Halo: Combat Evolved, and during the events of the novel Halo: The Fall of Reach.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-14",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: Reach was released on September 14, 2010 in 25 countries."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo:_Reach",
+          "https://en.wikipedia.org/w/index.php?title=Halo%3A_Reach&oldid=1387889763"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-ce",
+        "kind": "references",
+        "note": "prequel"
+      },
+      {
+        "to": "halo-fall-of-reach",
+        "kind": "ignores",
+        "note": "article: Reach \"largely ignored the canon established in the book\""
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Martin O'Donnell",
+        "qid": "Q2484073",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-wars",
+    "title": "Halo Wars",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "ensemble-studios",
+    "label": null,
+    "platform_or_network": "xbox-360",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo Wars",
+      "wikidata": "Q747836",
+      "tmdb": null,
+      "imdb": "tt0879404"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_Wars",
+      "https://en.wikipedia.org/w/index.php?title=Halo_Wars&oldid=1386959942"
+    ],
+    "notes": "Definitive Edition (343 Industries) December 2016. The release date is the first (Australian) one; North America March 3, 2009.",
+    "units": [
+      {
+        "id": "halo-wars",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2531
+          },
+          "end": {
+            "y": 2531
+          },
+          "label": "2531",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The game is set in the science fiction universe of the Halo series in the year 2531, 21 years before the events of Halo: Combat Evolved.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-02-26",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: It was released in Australia on February 26, 2009; in Europe on February 27; and in North America on March 3."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_Wars",
+          "https://en.wikipedia.org/w/index.php?title=Halo_Wars&oldid=1386959942"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-ce",
+        "kind": "references",
+        "note": "prequel, about 20 years earlier"
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Stephen Rippy",
+        "qid": "Q5407368",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-4",
+    "title": "Halo 4",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "343-industries",
+    "label": null,
+    "platform_or_network": "xbox-360",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo 4",
+      "wikidata": "Q45028",
+      "tmdb": null,
+      "imdb": "tt2006120"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_4",
+      "https://en.wikipedia.org/w/index.php?title=Halo_4&oldid=1388086040"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "halo-4",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2557
+          },
+          "end": {
+            "y": 2557
+          },
+          "label": "2557",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Halo 4 takes place in a futuristic science fiction setting in the year 2557, four years after the events of Halo 3.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-11-06",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: Halo 4 was released in all territories except Japan on November 6, 2012; the Japanese version was released on November 8."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_4",
+          "https://en.wikipedia.org/w/index.php?title=Halo_4&oldid=1388086040"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-3",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Neil Davidge",
+        "qid": "Q3337815",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-spartan-assault",
+    "title": "Halo: Spartan Assault",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "343-industries",
+    "label": null,
+    "platform_or_network": "windows-8",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo: Spartan Assault",
+      "wikidata": "Q13427164",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo:_Spartan_Assault",
+      "https://en.wikipedia.org/w/index.php?title=Halo%3A_Spartan_Assault&oldid=1386314134"
+    ],
+    "notes": "Optional spin-off.",
+    "units": [
+      {
+        "id": "halo-spartan-assault",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "between Halo 3 and Halo 4",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Halo: Spartan Assault takes place in the 26th century between the events of Halo 3 and Halo 4.",
+          "order_index": 150,
+          "relative_to": {
+            "after": "halo-legends",
+            "before": "halo-nightfall"
+          }
+        },
+        "release": {
+          "date": "2013-07-18",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Part of the Halo franchise, the game was released on July 18, 2013, for Microsoft's Windows 8 and Windows Phone 8 platforms."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo:_Spartan_Assault",
+          "https://en.wikipedia.org/w/index.php?title=Halo%3A_Spartan_Assault&oldid=1386314134"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Tom Salta",
+        "qid": "Q2040411",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-5",
+    "title": "Halo 5: Guardians",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "343-industries",
+    "label": null,
+    "platform_or_network": "xbox-one",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo 5: Guardians",
+      "wikidata": "Q16888147",
+      "tmdb": null,
+      "imdb": "tt3467114"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_5:_Guardians",
+      "https://en.wikipedia.org/w/index.php?title=Halo_5%3A_Guardians&oldid=1384327945"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "halo-5",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2558
+          },
+          "end": {
+            "y": 2558
+          },
+          "label": "2558",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Halo 5: Guardians takes place in the year 2558, eight months after the events of Halo 4.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-10-27",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: A sequel, Halo 5: Guardians, was released for the Xbox One on October 27, 2015."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_5:_Guardians",
+          "https://en.wikipedia.org/w/index.php?title=Halo_5%3A_Guardians&oldid=1384327945"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-4",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Tim Longo",
+        "qid": "Q21584787",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Brian Reed",
+        "qid": "Q2924984",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Josh Holmes",
+        "qid": "Q16214449",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Kazuma Jinnouchi",
+        "qid": "Q21155204",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-wars-2",
+    "title": "Halo Wars 2",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "343-industries",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo Wars 2",
+      "wikidata": "Q20831013",
+      "tmdb": null,
+      "imdb": "tt6041280"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_Wars_2",
+      "https://en.wikipedia.org/w/index.php?title=Halo_Wars_2&oldid=1386806866"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "halo-wars-2",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2559
+          },
+          "end": {
+            "y": 2559
+          },
+          "label": "2559",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The game is set in 2559, 28 years after the events of Halo Wars and shortly after the events of Halo 5: Guardians.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-02-21",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: released = February 21, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_Wars_2",
+          "https://en.wikipedia.org/w/index.php?title=Halo_Wars_2&oldid=1386806866"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-wars",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "halo-infinite",
+    "title": "Halo Infinite",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "343-industries",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo Infinite",
+      "wikidata": "Q54913666",
+      "tmdb": null,
+      "imdb": "tt9437014"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_Infinite",
+      "https://en.wikipedia.org/w/index.php?title=Halo_Infinite&oldid=1387278746"
+    ],
+    "notes": "The halo-wars-2 link is the researcher's own judgement, not quoted from a source.",
+    "units": [
+      {
+        "id": "halo-infinite",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2560
+          },
+          "end": {
+            "y": 2560
+          },
+          "label": "2560 (opens December 2559)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Halo Infinite is set in the year 2560. … In December 2559, the UNSC ship Infinity arrives at Halo Installation 07.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-12-08",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: Following an open beta release of the multiplayer component on November 15, 2021, coinciding with the franchise's 20th anniversary, the campaign was released on December 8, 2021, for Windows, Xbox One, and Xbox Series X/S."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_Infinite",
+          "https://en.wikipedia.org/w/index.php?title=Halo_Infinite&oldid=1387278746"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-5",
+        "kind": "sequel",
+        "note": ""
+      },
+      {
+        "to": "halo-wars-2",
+        "kind": "continues",
+        "note": "continues the Banished storyline (not quoted)"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Joseph Staten",
+        "qid": "Q526555",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Gareth Coker",
+        "qid": "Q63278244",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Joel Corelitz",
+        "qid": "Q95776896",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-campaign-evolved",
+    "title": "Halo: Campaign Evolved",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "halo-studios",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo: Campaign Evolved",
+      "wikidata": "Q136629290",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo:_Campaign_Evolved",
+      "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+    ],
+    "notes": "First Halo game released on PlayStation.",
+    "units": [
+      {
+        "id": "halo-campaign-evolved",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2552
+          },
+          "end": {
+            "y": 2552
+          },
+          "label": "2552",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The latest installment, Halo: Campaign Evolved, a remake of the original Combat Evolved campaign newly powered by Unreal Engine 5, was released in July 2026.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-07-28",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: Halo: Campaign Evolved was released for PlayStation 5, Windows and Xbox Series X/S on July 28, 2026."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo:_Campaign_Evolved",
+          "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-ce",
+        "kind": "remake",
+        "note": "campaign remake in Unreal Engine 5"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "halo-legends",
+    "title": "Halo Legends",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "studio-4-c",
+    "label": null,
+    "platform_or_network": "home-media",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo Legends",
+      "wikidata": "Q3113058",
+      "tmdb": "573531",
+      "imdb": "tt1480660"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_Legends",
+      "https://en.wikipedia.org/w/index.php?title=Halo_Legends&oldid=1381666849"
+    ],
+    "notes": "Anthology of seven animated shorts; some streamed earlier on Halo Waypoint. Released on DVD/Blu-ray (home media).",
+    "units": [
+      {
+        "id": "halo-legends",
+        "label": "Anthology film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 119,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "various (anthology)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "While all the stories save one are considered canon, O'Connor noted that some discrepancies were the cause of artistic interpretation.",
+          "order_index": 140,
+          "relative_to": {
+            "after": "halo-infinite",
+            "before": "halo-spartan-assault"
+          }
+        },
+        "release": {
+          "date": "2010-02-16",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: Halo Legends was originally to be released on February 9, but launch was pushed back a week to February 16."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_Legends",
+          "https://en.wikipedia.org/w/index.php?title=Halo_Legends&oldid=1381666849"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Tomoki Kyoda",
+        "qid": "Q2387211",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Mamoru Oshii",
+        "qid": "Q285084",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Daisuke Nishio",
+        "qid": "Q3012184",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Shinji Aramaki",
+        "qid": "Q3482244",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Kōichi Mashimo",
+        "qid": "Q426822",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Koji Sawai",
+        "qid": "Q6426456",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Ledford",
+        "qid": "Q6244355",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Eiko Tanaka",
+        "qid": "Q5349267",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Kōzō Morishita",
+        "qid": "Q369396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Kōichi Mashimo",
+        "qid": "Q426822",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "John Ledford",
+        "qid": "Q6244355",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Mitsuhisa Ishikawa",
+        "qid": "Q6883235",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-forward-unto-dawn",
+    "title": "Halo 4: Forward Unto Dawn",
+    "sort_title": null,
+    "type": "series",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "machinima",
+    "label": null,
+    "platform_or_network": "youtube",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo 4: Forward Unto Dawn",
+      "wikidata": "Q1653800",
+      "tmdb": "56295",
+      "imdb": "tt2262308"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_4:_Forward_Unto_Dawn",
+      "https://en.wikipedia.org/w/index.php?title=Halo_4%3A_Forward_Unto_Dawn&oldid=1387889741"
+    ],
+    "notes": "Platform YouTube (Machinima). Film cut on Blu-ray/DVD December 4, 2012. Machinima credit from the franchise article (\"Machinima's Halo 4: Forward Unto Dawn\").",
+    "units": [
+      {
+        "id": "halo-forward-unto-dawn",
+        "label": "Web series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 5,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2526
+          },
+          "end": {
+            "y": 2526
+          },
+          "label": "2526 (framing 2557)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The protagonist, Thomas Lasky, is aboard a spaceship named the UNSC Infinity in 2557. … Forward Unto Dawn portrays his memory of the events on Circinius-IV in 2526, when he is a cadet at the Corbulo Academy, a training facility for the children of high-ranking UNSC officers.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-10-05",
+          "end_date": "2012-11-02",
+          "year": 2012,
+          "note": "Wikipedia: The series consists of five 15-minute shorts, the first released on October 5, 2012, with subsequent episodes released weekly."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_4:_Forward_Unto_Dawn",
+          "https://en.wikipedia.org/w/index.php?title=Halo_4%3A_Forward_Unto_Dawn&oldid=1387889741"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-4",
+        "kind": "references",
+        "note": "tie-in to Halo 4 (framing aboard Infinity)"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Stewart Hendler",
+        "qid": "Q7615818",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thom Green",
+        "qid": "Q998064",
+        "character": "Thomas Lasky",
+        "character_qid": "Q12813133",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anna Popplewell",
+        "qid": "Q229108",
+        "character": "Chyler Silva",
+        "character_qid": "Q12813135",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Cudmore",
+        "qid": "Q553181",
+        "character": "Master Chief",
+        "character_qid": "Q652022",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ayelet Zurer",
+        "qid": "Q275967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jen Taylor",
+        "qid": "Q978964",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mike Dopud",
+        "qid": "Q974103",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Osric Chau",
+        "qid": "Q117619",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ty Olsson",
+        "qid": "Q552972",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Max Carver",
+        "qid": "Q953017",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "halo-nightfall",
+    "title": "Halo: Nightfall",
+    "sort_title": null,
+    "type": "series",
+    "universe": "halo",
+    "continuity": "halo-core",
+    "studio_brand": "scott-free-productions",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo (franchise)",
+      "wikidata": "Q1747150",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_(franchise)",
+      "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+    ],
+    "notes": "Released via the Halo Channel app (Xbox One, Windows 8.1, Windows Phone); disc and streaming release March 16, 2015. Episode count and exact first date not in fetched sources.",
+    "units": [
+      {
+        "id": "halo-nightfall",
+        "label": "Digital series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Halo 5 (Locke origin)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The feature introduces a new character to the franchise, Agent Jameson Locke, played by actor Mike Colter; Nightfall is considered to be his origin story.",
+          "order_index": 160,
+          "relative_to": {
+            "after": "halo-spartan-assault",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2014-11",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: On June 9, 2014, it was announced at E3 2014 that the feature, titled Halo: Nightfall, would be included with Halo: The Master Chief Collection at its November 2014 launch."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_(franchise)",
+          "https://en.wikipedia.org/w/index.php?title=Halo_%28franchise%29&oldid=1388156702"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-5",
+        "kind": "references",
+        "note": "origin of Jameson Locke"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "halo-tv",
+    "title": "Halo",
+    "sort_title": null,
+    "type": "series",
+    "universe": "halo",
+    "continuity": "halo-silver",
+    "studio_brand": "343-industries",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Halo (TV series)",
+      "wikidata": "Q55279915",
+      "tmdb": "52814",
+      "imdb": "tt2934286"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Halo_%28TV_series%29&oldid=1388268937"
+    ],
+    "notes": "Article: \"In July 2024, the series was canceled after two seasons\". UK: episode 1 on Channel 5, June 22, 2022.",
+    "units": [
+      {
+        "id": "halo-tv-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "26th century",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Halo is set in the 26th century and follows the conflict between humanity and a formidable alien alliance known as the Covenant.",
+          "order_index": 10,
+          "relative_to": {
+            "after": null,
+            "before": "halo-tv-s2"
+          }
+        },
+        "release": {
+          "date": "2022-03-24",
+          "end_date": "2022-05-19",
+          "year": 2022,
+          "note": "Wikipedia: The first season of Halo premiered on March 24, 2022, and ran until May 19."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Halo_%28TV_series%29&oldid=1388268937"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "halo-tv-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": {
+            "after": "halo-tv-s1",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2024-02-08",
+          "end_date": "2024-03-21",
+          "year": 2024,
+          "note": "Wikipedia: A second season premiered on February 8, 2024, and ran for eight episodes until March 21."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Halo_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "halo-ce",
+        "kind": "adapts",
+        "note": "loosely inspired by the games; separate Silver Timeline"
+      }
+    ],
+    "credits": [
+      {
+        "role": "executive-producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Otto Bathurst",
+        "qid": "Q18030214",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Sean Callery",
+        "qid": "Q1974128",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Pablo Schreiber",
+        "qid": "Q26173",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Natascha McElhone",
+        "qid": "Q229237",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charlie Murphy",
+        "qid": "Q16733027",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jen Taylor",
+        "qid": "Q978964",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shabana Azmi",
+        "qid": "Q465863",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bokeem Woodbine",
+        "qid": "Q1139685",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kate Kennedy",
+        "qid": "Q115685248",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Sapani",
+        "qid": "Q16213032",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Morgan",
+        "qid": "Q313462",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cristina Rodlo",
+        "qid": "Q64201135",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Viktor Åkerblom Nilsson",
+        "qid": "Q6255124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Christina Bennington",
+        "qid": "Q88856650",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

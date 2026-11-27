@@ -712,3 +712,36 @@ Generated with the generic research-to-seed generator. Revids are in the researc
 - **More watch orders (D-56, D-57).** Arrowverse, Riordan (reading order), Middle-earth films and books, Bond classic and Craig, Fast & Furious, and The Wheel of Time.
   - Same method as before: collated guides, essential/optional, and per-entry guide support.
   - Orders now expand split units through `aliases.json`. The Demigod Files and Diaries are listed story by story.
+
+## Games, game franchises, Doctor Who, LEGO (2026-11-27)
+
+- **Game franchises** (generic generator; Wikipedia, plus witcher.fandom for inferred years).
+  - **GTA (17):** 2D, 3D and HD universes, which Wikipedia says are "considered to be separate continuities".
+  - **Fallout (8):** one continuity. The Prime Video series "is canon within the Fallout continuity".
+  - **The Last of Us (5):** games and the HBO show are separate. The show moved the dates from 2013/2033 to 2003/2023.
+  - **The Witcher (20):** books, games and Netflix are separate continuities. Book years come from the fan wiki only (inferred).
+  - **Halo (17):** core canon vs the TV series' "Silver Timeline".
+  - **Assassin's Creed (23):** one continuity (the film is "set in the same universe"). BC years are stored as negative.
+  - **Platforms:** one first-release platform per game; the others are in the note (D-50).
+- **Games for existing universes** (`2026-11-27-games-existing-universes.ts`).
+  - **Marvel:** Insomniac's Earth-1048 (Spider-Man 2018 → Miles Morales → Spider-Man 2, then Wolverine) plus standalone Marvel games.
+  - **DC Arkham:** placed in `arkhamverse` by their stated offsets: Origins ("eight years before" Asylum), Cold, Cold Heart, Blackgate, Shadow, then Asylum, City, VR, Knight, Suicide Squad. Batman: Assault on Arkham goes before Asylum (D-59).
+  - **DC, other:** Injustice, Telltale Batman and Gotham Knights each get their own continuity.
+  - **Star Wars:** canon games inserted by BBY/ABY year (e.g. Fallen Order at 14 BBY); Legends games (KOTOR at 3956 BBY…) into Legends.
+  - **Star Trek:** Online (2409) and Elite Force (2376) into Prime; Bridge Crew and the 2013 game into Kelvin.
+  - **Godzilla & Kong:** Kong: Survivor Instinct into the MonsterVerse.
+  - **Middle-earth:** Monolith's Shadow of Mordor/War get their own continuity, on the Ages calendar.
+  - **Bond, F&F, Game of Thrones:** Bond and F&F games are collections; the Telltale Game of Thrones goes into `got-hbo`.
+  - **LEGO licensed games:** in each universe's LEGO collection: Star Wars, DC, Marvel, Middle-earth, Wizarding World. Jurassic, Indiana Jones, Horizon and Fortnite aren't in the app yet.
+  - **Skipped:** sports, party, brawler and mobile games, and retellings of films (D-49).
+- **Doctor Who (25 titles, 95 units).**
+  - **`whoniverse`:** the TV series and the BBC spin-offs, in story order by the Doctor's regenerations then broadcast, with spin-offs anchored by their crossovers (D-62). There is a "Doctor" grouping filter. Seasons 4 and 21 are split at the regeneration.
+  - **Separate:** the Dalek films ("not intended to form part of the ongoing story-lines"); K9 (2009), "not a BBC production"; Big Finish audio as a collection.
+- **LEGO (54 titles, 17 continuities).** The Lego Movie (with the Ninjago Movie and Unikitty!, inferred; D-61), Ninjago (with Dragons Rising, "set in the same continuity"), Bionicle G1/G2, Chima, Nexo Knights, Monkie Kid, Dreamzzz, Friends, Elves and more, plus original LEGO games.
+  - The Lego Batman Movie stays in DC, linked to The Lego Movie.
+  - The cancelled films are left out.
+- **Ordered-only calendars (`2026-11-27-ordered-only-calendars.ts`).** Eighteen continuities had a gregorian calendar but no dated or anchored unit, so every title sat under "No confirmed placement". They now use the ordered-only calendar, so the existing story/season order (`order_index`) is shown. No dates were added.
+  - **DC:** Lucifer, Young Justice, Teen Titans, the Arkham games and others.
+  - **LEGO:** LEGO games.
+  - **Wizarding World:** "other".
+- **Watch-order wording (`2026-11-27-order-text-cleanup.ts`).** Research notes cited guides by 0-based index ("sources 0, 1 and 3") and used field names ("selective:true", "supported_by"). They now use `[n]` citations that match the numbered guide list, and the essentials rule is one plain-English statement. The MonsterVerse keeps its own rule, since only one guide gives a newcomer list. A unit test blocks the jargon from coming back.

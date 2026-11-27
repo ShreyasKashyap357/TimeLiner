@@ -52,7 +52,7 @@
         "label": "Recommended reading order",
         "source_url": "https://tolkiengateway.net/wiki/Reading_order",
         "as_of": "2026-11-27",
-        "note": "Recommended READING order. Backbone = publication order for the core: The Hobbit → The Lord of the Rings (3 volumes) → The Silmarillion.",
+        "note": "Based on publication order for the core: The Hobbit → The Lord of the Rings (3 volumes) → The Silmarillion.",
         "unit_ids": [
           "the-hobbit",
           "the-fellowship-of-the-ring",
@@ -122,7 +122,7 @@
             "date": "2024-10-14"
           }
         ],
-        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "the-hobbit": [
             0,
@@ -293,7 +293,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.thepopverse.com/movies-lord-of-the-rings-watch-order-how-to-guide",
         "as_of": "2026-11-27",
-        "note": "Backbone = release order (sources 1, 2 and 5 lead with it), changed in one place because three guides agree: the Hobbit trilogy comes before the Lord of the Rings trilogy (sources 0, 3 and 4). The alternatives are plain release order (LOTR first: sources 1 and 2, and GamesRadar calls it how most fans watched) and source 5's Fellowship → Hobbit 1-3 → Two Towers → Return of the King.",
+        "note": "Based on release order (guides [2], [3] and [6] lead with it), changed in one place because three guides agree: the Hobbit trilogy comes before the Lord of the Rings trilogy (guides [1], [4] and [5]). The alternatives are plain release order (LOTR first: guides [2] and [3], and GamesRadar calls it how most fans watched) and guide [6]'s Fellowship → Hobbit 1-3 → Two Towers → Return of the King.",
         "unit_ids": [
           "the-hobbit-an-unexpected-journey",
           "the-hobbit-the-desolation-of-smaug",
@@ -340,7 +340,7 @@
             "date": "2023-12-31"
           }
         ],
-        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "the-hobbit-an-unexpected-journey": [
             0,
@@ -796,6 +796,122 @@
     "description": "Wikipedia: \"The London-based theatre producer Kevin Wallace and his partner, Saul Zaentz, who held the stage and film rights, in association with Toronto theatre owner David Mirvish and concert promoter Michael Cohl, produced a stage musical adaptation.\"",
     "source_urls": [
       "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-monolith",
+    "universe": "middle-earth",
+    "name": "Monolith's Middle-earth games",
+    "short_name": "Monolith's Middle-earth games",
+    "order": 12,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"[Shadow of War article] Explaining why the story deviated from the Lords of the Ring canon, de Plater described the story as an \"adaptation\" of the books.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-games-standalone",
+    "universe": "middle-earth",
+    "name": "Middle-earth games (standalone)",
+    "short_name": "Middle-earth games",
+    "order": 13,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The game, set in the fictional world of Middle-earth created by J. R. R. Tolkien, takes place in between the events of The Hobbit and The Fellowship of the Ring.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Gollum"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-lego",
+    "universe": "middle-earth",
+    "name": "LEGO Middle-earth games",
+    "short_name": "LEGO Middle-earth games",
+    "order": 14,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)"
     ],
     "notes": ""
   }

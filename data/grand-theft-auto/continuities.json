@@ -1,0 +1,96 @@
+[
+  {
+    "id": "gta-2d",
+    "universe": "grand-theft-auto",
+    "name": "2D universe",
+    "short_name": "2D universe",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The top-down games: Grand Theft Auto (1997), its two London expansion packs, and Grand Theft Auto 2. Wikipedia: \"The original Grand Theft Auto, its expansions and its sequel are considered the \"2D universe\". … Each universe is considered separate with only brands, place names and background characters shared between them.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gta-3d",
+    "universe": "grand-theft-auto",
+    "name": "3D universe",
+    "short_name": "3D universe",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Grand Theft Auto III and the games in its continuity: Vice City, San Andreas, Advance, Liberty City Stories, Vice City Stories. Wikipedia: \"Grand Theft Auto III and its sequels are considered the \"3D universe\". … The universes share the names of cities, several brands, and background characters who never make physical appearances in the games (with a few exceptions), but are otherwise considered to be separate continuities.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gta-hd",
+    "universe": "grand-theft-auto",
+    "name": "HD universe",
+    "short_name": "HD universe",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Grand Theft Auto IV onward: The Lost and Damned, The Ballad of Gay Tony, Chinatown Wars, V, Online, VI. Wikipedia: \"Grand Theft Auto IV, its expansions and its sequels are considered the \"HD universe\". … The new timeline established by Grand Theft Auto IV continues with two expansion packs, The Lost and Damned and The Ballad of Gay Tony, and a sequel, Grand Theft Auto V, as well as its online component, Grand Theft Auto Online.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto&oldid=1388100487",
+      "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_IV&oldid=1388223718"
+    ],
+    "notes": ""
+  }
+]

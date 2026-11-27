@@ -11010,5 +11010,402 @@
     "links": [],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "star-trek-online",
+    "title": "Star Trek Online",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "cryptic-studios",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek Online",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385123541",
+      "https://en.wikipedia.org/wiki/Star_Trek_Online"
+    ],
+    "notes": "Developer: Cryptic Studios. Publisher: Atari (2010–2011); later Perfect World / Arc Games. Platforms: Windows. No canon statement in Wikipedia. Many expansions - not itemised. PS4/Xbox One 2016. Suggest a lower canon_tier than screen.",
+    "units": [
+      {
+        "id": "star-trek-online",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2409
+          },
+          "end": {
+            "y": 2409
+          },
+          "label": "2409 onward",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Star Trek Online is set thirty years after the events of Star Trek: Nemesis.\" Derived: nemesis = 2379 in data; +30. Ongoing MMO.",
+          "order_index": 571,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-02-02",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: '''Microsoft Windows''' NA February 2, 2010 | EU February 5, 2010 | AUS February 11, 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385123541",
+          "https://en.wikipedia.org/wiki/Star_Trek_Online"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "nemesis",
+        "kind": "references",
+        "note": "30 years after"
+      },
+      {
+        "to": "star-trek-2009",
+        "kind": "crossover",
+        "note": "\"The expansion also intersects with the alternate timeline from the reboot series\" - cross-continuity link only"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-resurgence",
+    "title": "Star Trek: Resurgence",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "dramatic-labs",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Resurgence",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1379750377",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Resurgence"
+    ],
+    "notes": "Developer: Dramatic Labs. Publisher: Bruner House. Platforms: PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S. Switch version later (date not in fetched text).",
+    "units": [
+      {
+        "id": "star-trek-resurgence",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After Star Trek: Nemesis (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set in the Star Trek universe after Star Trek: Nemesis\"",
+          "order_index": 660,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-05-23",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: released = May 23, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1379750377",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Resurgence"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "nemesis",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-voyager-elite-force",
+    "title": "Star Trek: Voyager – Elite Force",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-trek",
+    "continuity": "st-prime",
+    "studio_brand": "raven-software",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Voyager – Elite Force",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385598225",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force"
+    ],
+    "notes": "Developer: Raven Software. Publisher: Activision. Platforms: Windows. Optional (2000, cast-voiced).",
+    "units": [
+      {
+        "id": "star-trek-voyager-elite-force",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2376
+          },
+          "end": {
+            "y": 2376
+          },
+          "label": "Late in Voyager's sixth season",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The dates in the game place Elite Force's plot late in Voyager's sixth season.\" Derived: voyager-s6 = 2376 in data.",
+          "order_index": 451,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-09-20",
+          "end_date": null,
+          "year": 2000,
+          "note": "Wikipedia: '''Windows''' EU September 15, 2000 | NA September 20, 2000"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385598225",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "voyager",
+        "kind": "references",
+        "note": "season 6"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-bridge-crew",
+    "title": "Star Trek: Bridge Crew",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-trek",
+    "continuity": "st-kelvin",
+    "studio_brand": "red-storm-entertainment",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek: Bridge Crew",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386309959",
+      "https://en.wikipedia.org/wiki/Star_Trek:_Bridge_Crew"
+    ],
+    "notes": "Developer: Red Storm Entertainment. Publisher: Ubisoft. Platforms: Windows, PlayStation 4. VR, mostly co-op; light campaign.",
+    "units": [
+      {
+        "id": "star-trek-bridge-crew",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the destruction of Vulcan (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"sees the Starfleet ship USS Aegis searching for a new homeworld for the Vulcans after the destruction of their planet.\"",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-05-30",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: '''Microsoft Windows, PlayStation 4''' May 30, 2017 | '''Oculus Quest''' December 16, 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386309959",
+          "https://en.wikipedia.org/wiki/Star_Trek:_Bridge_Crew"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-trek-2009",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "star-trek-2013-game",
+    "title": "Star Trek (2013 video game)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "star-trek",
+    "continuity": "st-kelvin",
+    "studio_brand": "digital-extremes",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Star Trek (2013 video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387415910",
+      "https://en.wikipedia.org/wiki/Star_Trek_(2013_video_game)"
+    ],
+    "notes": "Developer: Digital Extremes. Publisher: Namco Bandai Games. Platforms: PlayStation 3, Xbox 360, Windows. Canon: \"In an interview in 2011, Orci explained that the storyline of the game was designed to be canon for the new Star Trek universe. He clarified in 2013 that it was \"as close to canon as any Star Trek gam\"",
+    "units": [
+      {
+        "id": "star-trek-2013-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2258
+          },
+          "end": {
+            "y": 2259
+          },
+          "label": "2258–2259 (between Star Trek and Into Darkness)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game takes place within the Star Trek alternate timeline universe, following 2009's Star Trek film and before Star Trek Into Darkness.\" Derived: film units 2258 / 2259 in data.",
+          "order_index": 11,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-04-23",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: NA April 23, 2013 | EU April 26, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387415910",
+          "https://en.wikipedia.org/wiki/Star_Trek_(2013_video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "star-trek-2009",
+        "kind": "references",
+        "note": ""
+      },
+      {
+        "to": "star-trek-into-darkness",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
   }
 ]

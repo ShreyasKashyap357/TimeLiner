@@ -100,7 +100,7 @@
     "order": 4,
     "kind": "standalone-collection",
     "calendar": {
-      "kind": "gregorian"
+      "kind": "ordered-only"
     },
     "branches": [
       {
@@ -119,6 +119,37 @@
     "alt_orders": [],
     "description": "Retrospectives about the films; not part of the story.",
     "source_urls": [],
+    "notes": ""
+  },
+  {
+    "id": "ww-lego",
+    "universe": "wizarding-world",
+    "name": "LEGO Harry Potter games",
+    "short_name": "LEGO Harry Potter games",
+    "order": 5,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Harry_Potter:_Years_1%E2%80%934"
+    ],
     "notes": ""
   }
 ]

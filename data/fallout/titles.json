@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "fallout-1",
+    "title": "Fallout",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "interplay-productions",
+    "label": null,
+    "platform_or_network": "ms-dos",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout (video game)",
+      "wikidata": "Q60102",
+      "tmdb": null,
+      "imdb": "tt0134648"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_(video_game)",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_%28video_game%29&oldid=1386312327"
+    ],
+    "notes": "Development studio inside Interplay later became Black Isle Studios (franchise article credits Black Isle).",
+    "units": [
+      {
+        "id": "fallout-1",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2161
+          },
+          "end": {
+            "y": 2161
+          },
+          "label": "2161",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The events of Fallout take place nearly a century later in 2161, and follow the Vault Dweller, a human born and raised within Vault 13, one of a number of high-tech underground fallout shelters built to protect survivors.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-10-10",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: Fallout was released on October 10, 1997, in North America for MS-DOS and Windows."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_(video_game)",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_%28video_game%29&oldid=1386312327"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "producer",
+        "name": "Tim Cain",
+        "qid": "Q129618",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Brian Fargo",
+        "qid": "Q607104",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Mark Morgan",
+        "qid": "Q4069109",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-2",
+    "title": "Fallout 2",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "black-isle-studios",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout 2",
+      "wikidata": "Q910938",
+      "tmdb": null,
+      "imdb": "tt0183066"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_2",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_2&oldid=1381743699"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "fallout-2",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2241
+          },
+          "end": {
+            "y": 2241
+          },
+          "label": "2241",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The game's story takes place in 2241, roughly 80 years after the events of Fallout and 164 years after the atomic war which reduced the vast majority of the world to a nuclear wasteland.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-10-29",
+          "end_date": null,
+          "year": 1998,
+          "note": "Wikipedia: {{Unbulleted list|Windows|October 29, 1998|Mac OS X|August 23, 2002}} … Fallout 2 was released in October 1998"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_2",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_2&oldid=1381743699"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fallout-1",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Feargus Urquhart",
+        "qid": "Q996918",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Mark Morgan",
+        "qid": "Q4069109",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-tactics",
+    "title": "Fallout Tactics: Brotherhood of Steel",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "micro-forte",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout Tactics: Brotherhood of Steel",
+      "wikidata": "Q995874",
+      "tmdb": null,
+      "imdb": "tt0246614"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_Tactics:_Brotherhood_of_Steel",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_Tactics%3A_Brotherhood_of_Steel&oldid=1364798150"
+    ],
+    "notes": "Optional spin-off (14 Degrees East is an Interplay label). Bethesda lead writer Emil Pagliarulo posted a 2024 series timeline placing it in 2197. Its canon is only partly accepted, so you may want it as disputed.",
+    "units": [
+      {
+        "id": "fallout-tactics",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2197
+          },
+          "end": {
+            "y": 2197
+          },
+          "label": "2197",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "A timeline of the series posted by him in 2024 lists the game as happening in 2197. … When the game starts in 2197, the Brotherhood is trying to claim territory surrounding Chicago.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-03-15",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: Fallout Tactics was released on March 15, 2001."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_Tactics:_Brotherhood_of_Steel",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_Tactics%3A_Brotherhood_of_Steel&oldid=1364798150"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Inon Zur",
+        "qid": "Q933777",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-3",
+    "title": "Fallout 3",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "bethesda-game-studios",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout 3",
+      "wikidata": "Q221164",
+      "tmdb": null,
+      "imdb": "tt1073664"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_3",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_3&oldid=1383531353"
+    ],
+    "notes": "Story DLCs (e.g. The Pitt, Point Lookout) are not modelled. Article: \"In 2026, Bethesda announced remasters of New Vegas and Fallout 3 were in development.\"",
+    "units": [
+      {
+        "id": "fallout-3",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2277
+          },
+          "end": {
+            "y": 2277
+          },
+          "label": "2277",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Fallout 3 takes place in the year 2277, 200 years after a nuclear war that destroyed most of the United States.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-10-28",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: Fallout 3 was released for Microsoft Windows, PlayStation 3, and Xbox 360 on October 28, 2008, in North America, October 30 in Europe and Australia, and December 4 in Japan."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_3",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_3&oldid=1383531353"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fallout-2",
+        "kind": "sequel",
+        "note": "new story and region; same continuity"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Todd Howard",
+        "qid": "Q2606967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Todd Howard",
+        "qid": "Q2606967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Inon Zur",
+        "qid": "Q933777",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-new-vegas",
+    "title": "Fallout: New Vegas",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "obsidian-entertainment",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout: New Vegas",
+      "wikidata": "Q753749",
+      "tmdb": null,
+      "imdb": "tt1706601"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+      "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+    ],
+    "notes": "Story DLCs (e.g. Honest Hearts) not modelled. The TV series does not confirm which ending is canon (\"Co-showrunner Geneva Robertson-Dworet later stated the show would not confirm which ending to the game is canon.\").",
+    "units": [
+      {
+        "id": "fallout-new-vegas",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2281
+          },
+          "end": {
+            "y": 2281
+          },
+          "label": "2281",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Fallout: New Vegas takes place in 2281, 204 years after a devastating nuclear war between the United States and China, known as the Great War.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-10-19",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: Fallout: New Vegas was released in North America for Microsoft Windows, PlayStation 3, and Xbox 360 on October 19, 2010; October 21 in Australia; and October 22 in Europe."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+          "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fallout-3",
+        "kind": "spinoff",
+        "note": "spin-off developed by Obsidian after Fallout 3"
+      },
+      {
+        "to": "fallout-2",
+        "kind": "continues",
+        "note": "returns to the West Coast factions (NCR etc.)"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Josh Sawyer",
+        "qid": "Q846794",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Inon Zur",
+        "qid": "Q933777",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-4",
+    "title": "Fallout 4",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "bethesda-game-studios",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout 4",
+      "wikidata": "Q10493813",
+      "tmdb": null,
+      "imdb": "tt4741306"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_4",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+    ],
+    "notes": "Story add-ons Far Harbor (May 19, 2016) and Nuka-World (August 30, 2016) not modelled. PS5/Series X/S update April 25, 2024; Anniversary Edition November 10, 2025; Switch 2 February 24, 2026.",
+    "units": [
+      {
+        "id": "fallout-4",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2287
+          },
+          "end": {
+            "y": 2287
+          },
+          "label": "2287 (prologue 2077)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Fallout 4 takes place in the year 2287, 10 years after the events of Fallout 3 and 210 years after the Sino-American War, a war between the United States and China over natural resources, which ended via a nuclear holocaust called the Great War. … The player's character takes shelter in Vault 111, emerging exactly 210 years later on October 23, 2287, and assuming the name of the \"Sole Survivor\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-11-10",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: The game was released for Windows, PlayStation 4 and Xbox One on November 10, 2015."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_4",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_4&oldid=1387443936"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fallout-3",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Todd Howard",
+        "qid": "Q2606967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Inon Zur",
+        "qid": "Q933777",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-76",
+    "title": "Fallout 76",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "bethesda-game-studios",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout 76",
+      "wikidata": "Q54497595",
+      "tmdb": null,
+      "imdb": "tt8495446"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_76",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+    ],
+    "notes": "Native PS5/Xbox Series X/S versions September 15, 2026.",
+    "units": [
+      {
+        "id": "fallout-76",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2102
+          },
+          "end": {
+            "y": 2102
+          },
+          "label": "2102 (story continues 2103+)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "It is set in an alternate history, and takes place in 2102, twenty-five years after a nuclear war that devastated the Earth. … In 2103, a year following the opening of Vault 76, individuals start to make their way back to Appalachia.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-11-14",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: It was released for Microsoft Windows, PlayStation 4, and Xbox One on November 14, 2018."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_76",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_76&oldid=1384828289"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fallout-4",
+        "kind": "sequel",
+        "note": "released after 4; set earliest in the timeline"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Jeff Gardiner",
+        "qid": "Q98149759",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Emil Pagliarulo",
+        "qid": "Q5371399",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Todd Howard",
+        "qid": "Q2606967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Inon Zur",
+        "qid": "Q933777",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "fallout-tv",
+    "title": "Fallout",
+    "sort_title": null,
+    "type": "series",
+    "universe": "fallout",
+    "continuity": "fallout-main",
+    "studio_brand": "kilter-films",
+    "label": null,
+    "platform_or_network": "prime-video",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Fallout (American TV series)",
+      "wikidata": "Q113127312",
+      "tmdb": "106379",
+      "imdb": "tt12637874"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fallout_(American_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_%28American_TV_series%29&oldid=1387209073",
+      "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+    ],
+    "notes": "Production per article: \"Jonathan Nolan and Lisa Joy's Kilter Films joined by Bethesda Game Studios\". Distributor/publisher not checked (left null).",
+    "units": [
+      {
+        "id": "fallout-tv-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2296
+          },
+          "end": {
+            "y": 2296
+          },
+          "label": "2296 (flashbacks to 2077)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "219 years later in 2296, a young woman, Lucy, leaves her home in Vault 33 to venture into the dangerous wasteland of a devastated Los Angeles on a quest to find her kidnapped father.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-04-10",
+          "end_date": "2024-04-10",
+          "year": 2024,
+          "note": "Wikipedia: The first season of the American post-apocalyptic drama television series Fallout premiered on April 10, 2024, with all eight episodes being released in a single day on Amazon Prime Video."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_(American_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Fallout_%28American_TV_series%29&oldid=1387209073"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fallout-tv-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2296
+          },
+          "end": {
+            "y": 2296
+          },
+          "label": "2296 (flashbacks; New Vegas)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The season takes place 15 years after the events of the game, and features flashbacks of Cooper Howard's character interacting with Mr.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-12-16",
+          "end_date": "2026-02-03",
+          "year": 2025,
+          "note": "Wikipedia: The second season of the American post-apocalyptic drama television series Fallout premiered on December 16, 2025 on Amazon Prime Video, with the remaining episodes released weekly through February 3, 2026. … The season premiered on December 16, after an announcement by Prime Video via the Las Vegas Sphere, just one day earlier than the expected December 17, 2025 release date, with the remaining e"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_(American_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Fallout%3A_New_Vegas&oldid=1387145301"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fallout-tv-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: In May 2025, the series was renewed for a third season."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Fallout_(American_TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "fallout-new-vegas",
+        "kind": "continues",
+        "note": "season 2 is set in New Vegas 15 years after the game"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Jonathan Nolan",
+        "qid": "Q372788",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Clare Kilner",
+        "qid": "Q5126192",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Fred Toye",
+        "qid": "Q3395458",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Geneva Robertson-Dworet",
+        "qid": "Q51336953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Jonathan Nolan",
+        "qid": "Q372788",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Lisa Joy",
+        "qid": "Q27663202",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Geneva Robertson-Dworet",
+        "qid": "Q51336953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Todd Howard",
+        "qid": "Q2606967",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Ramin Djawadi",
+        "qid": "Q57577",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ella Purnell",
+        "qid": "Q1331706",
+        "character": "Lucy MacLean",
+        "character_qid": "Q125510648",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Aaron Moten",
+        "qid": "Q108118281",
+        "character": "Maximus",
+        "character_qid": "Q125516490",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Walton Goggins",
+        "qid": "Q516690",
+        "character": "Cooper Howard",
+        "character_qid": "Q125511238",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kyle MacLachlan",
+        "qid": "Q207506",
+        "character": "Hank MacLean",
+        "character_qid": "Q125510691",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Moisés Arias",
+        "qid": "Q310429",
+        "character": "Norm MacLean",
+        "character_qid": "Q125510764",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sarita Choudhury",
+        "qid": "Q445995",
+        "character": "Lee Moldaver",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leslie Uggams",
+        "qid": "Q534925",
+        "character": "Betty Pearson",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Johnny Pemberton",
+        "qid": "Q28749126",
+        "character": "Thaddeus",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zach Cherry",
+        "qid": "Q63382252",
+        "character": "Woody Thomas",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luciana VanDette",
+        "qid": "Q137994603",
+        "character": "Lucy MacLean (Child)",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

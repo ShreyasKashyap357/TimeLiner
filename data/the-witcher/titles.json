@@ -1,0 +1,2058 @@
+[
+  {
+    "id": "the-last-wish",
+    "title": "The Last Wish",
+    "sort_title": "Last Wish",
+    "type": "anthology",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Last Wish",
+      "wikidata": "Q2414756",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Last_Wish",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Collection (Ostatnie życzenie). Replaced the 1990 Reporter collection \"The Witcher\" as book 1. English translation by Danusia Stok (2007).",
+    "units": [
+      {
+        "id": "the-last-wish",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 288,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1249
+          },
+          "end": {
+            "y": 1253
+          },
+          "label": "1249–1253 (frame story later)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "The short stories The Edge of the World and The Last Wish takes place … The short stories The Witcher and The Voice of Reason take place",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: Published by SuperNowa in 1993, it was preceded by 1992's Sword of Destiny, but is officially considered the first entry in the series and Sword of Destiny the second."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Last_Wish",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "sword-of-destiny",
+    "title": "Sword of Destiny",
+    "sort_title": null,
+    "type": "anthology",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Sword of Destiny",
+      "wikidata": "Q2655197",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sword_of_Destiny",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Collection (Miecz przeznaczenia).",
+    "units": [
+      {
+        "id": "sword-of-destiny",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 384,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1254
+          },
+          "end": {
+            "y": 1264
+          },
+          "label": "1254–1264",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "The short story The Bounds of Reason takes place … The short story The Sword of Destiny takes place … The short story Something More takes place",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992",
+          "end_date": null,
+          "year": 1992,
+          "note": "Wikipedia: Although published in 1992, it is officially considered the second entry in the series, behind The Last Wish, which was published the following year."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Sword_of_Destiny",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-last-wish",
+        "kind": "sequel",
+        "note": "officially book 2 though published first"
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "blood-of-elves",
+    "title": "Blood of Elves",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Blood of Elves",
+      "wikidata": "Q2652386",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Blood_of_Elves",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Krew elfów. US edition 2009 (Orbit).",
+    "units": [
+      {
+        "id": "blood-of-elves",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 320,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1267
+          },
+          "end": {
+            "y": 1267
+          },
+          "label": "1267",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Major events in {{BoE}}, {{ToC}}, {{BoF}} and {{TTotS}} take place.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994",
+          "end_date": null,
+          "year": 1994,
+          "note": "Wikipedia: Blood of Elves () is the first novel in The Witcher series written by the Polish fantasy writer Andrzej Sapkowski, first published in Poland in 1994."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Blood_of_Elves",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "sword-of-destiny",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "time-of-contempt",
+    "title": "Time of Contempt",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Time of Contempt",
+      "wikidata": "Q2045474",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Time_of_Contempt",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Czas pogardy. US edition August 27, 2013 (Orbit). Polish year from the infobox only.",
+    "units": [
+      {
+        "id": "time-of-contempt",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 352,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1267
+          },
+          "end": {
+            "y": 1267
+          },
+          "label": "1267",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Major events in {{BoE}}, {{ToC}}, {{BoF}} and {{TTotS}} take place. … 1st July - Thanedd coup",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995",
+          "end_date": null,
+          "year": 1995,
+          "note": "Wikipedia: 1995 (superNOWA) (Polish)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Time_of_Contempt",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "blood-of-elves",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "baptism-of-fire",
+    "title": "Baptism of Fire",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Baptism of Fire (novel)",
+      "wikidata": "Q4240572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baptism_of_Fire_(novel)",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Chrzest ognia.",
+    "units": [
+      {
+        "id": "baptism-of-fire",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 352,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1267
+          },
+          "end": {
+            "y": 1267
+          },
+          "label": "1267",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Major events in {{BoE}}, {{ToC}}, {{BoF}} and {{TTotS}} take place.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: Baptism of Fire () is the third novel in the Witcher Saga written by Polish fantasy writer Andrzej Sapkowski, first published in 1996 in Polish and in English in 2014."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Baptism_of_Fire_(novel)",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "time-of-contempt",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-tower-of-the-swallow",
+    "title": "The Tower of the Swallow",
+    "sort_title": "Tower of the Swallow",
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Tower of the Swallow",
+      "wikidata": "Q4080260",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Tower_of_the_Swallow",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Wieża Jaskółki. US title The Tower of Swallows.",
+    "units": [
+      {
+        "id": "the-tower-of-the-swallow",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 464,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1267
+          },
+          "end": {
+            "y": 1267
+          },
+          "label": "1267",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Major events in {{BoE}}, {{ToC}}, {{BoF}} and {{TTotS}} take place.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: The Tower of the Swallow, published as The Tower of Swallows in the United States () is the fourth novel in the Witcher Saga written by Polish fantasy writer Andrzej Sapkowski, first published in Poland in 1997."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Tower_of_the_Swallow",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "baptism-of-fire",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-lady-of-the-lake",
+    "title": "The Lady of the Lake",
+    "sort_title": "Lady of the Lake",
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lady of the Lake (Sapkowski novel)",
+      "wikidata": "Q4113386",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lady_of_the_Lake_(Sapkowski_novel)",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Pani Jeziora. Final novel of the saga.",
+    "units": [
+      {
+        "id": "the-lady-of-the-lake",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 544,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1268
+          },
+          "end": {
+            "y": 1268
+          },
+          "label": "1268",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Major events in {{TLotL}} take place",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999",
+          "end_date": null,
+          "year": 1999,
+          "note": "Wikipedia: The Lady of the Lake () is the fifth novel in The Witcher series and the final in the original Witcher Saga, written by Polish fantasy writer Andrzej Sapkowski, first published in Poland in 1999."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lady_of_the_Lake_(Sapkowski_novel)",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-tower-of-the-swallow",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "season-of-storms",
+    "title": "Season of Storms",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Season of Storms",
+      "wikidata": "Q15260619",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Season_of_Storms",
+      "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+    ],
+    "notes": "Sezon burz. Standalone prequel.",
+    "units": [
+      {
+        "id": "season-of-storms",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 384,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1251
+          },
+          "end": {
+            "y": 1251
+          },
+          "label": "1251",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "June-August - events of Season of Storms (calculation based on the rest of books)",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-11-06",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Season of Storms (Polish original title: Sezon burz) is the sixth novel and eighth overall book in the Witcher series  written by Polish fantasy writer Andrzej Sapkowski, first published in Poland on 6 November 2013."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Season_of_Storms",
+          "https://witcher.fandom.com/wiki/Timeline?oldid=645231"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-last-wish",
+        "kind": "shares-characters",
+        "note": "set between stories of The Last Wish"
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "crossroads-of-ravens",
+    "title": "Crossroads of Ravens",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "the-witcher",
+    "continuity": "witcher-books",
+    "studio_brand": "andrzej-sapkowski",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Crossroads of Ravens",
+      "wikidata": "Q131303736",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crossroads_of_Ravens",
+      "https://en.wikipedia.org/w/index.php?title=Crossroads_of_Ravens&oldid=1387041023"
+    ],
+    "notes": "Rozdroże kruków.",
+    "units": [
+      {
+        "id": "crossroads-of-ravens",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 292,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Geralt's youth (before all other stories)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Crossroads of Ravens is a prequel to all canonical stories about Geralt of Rivia published to date and tells the story of his youth.",
+          "order_index": 90,
+          "relative_to": {
+            "after": "the-lady-of-the-lake",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2024-11-29",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: Crossroads of Ravens was published in Poland on 29 November 2024 in a paperback, and on December 1 as e-book."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Crossroads_of_Ravens",
+          "https://en.wikipedia.org/w/index.php?title=Crossroads_of_Ravens&oldid=1387041023"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-last-wish",
+        "kind": "references",
+        "note": "prequel to all Geralt stories"
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Andrzej Sapkowski",
+        "qid": "Q312101",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-witcher-2007",
+    "title": "The Witcher",
+    "sort_title": "Witcher",
+    "type": "video-game",
+    "universe": "the-witcher",
+    "continuity": "witcher-games",
+    "studio_brand": "cd-projekt-red",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher (video game)",
+      "wikidata": "Q287637",
+      "tmdb": null,
+      "imdb": "tt1135081"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_(video_game)",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28video_game%29&oldid=1385167555",
+      "https://witcher.fandom.com/wiki/The_Witcher_%28game%29?oldid=645270"
+    ],
+    "notes": "Enhanced Edition 16 September 2008. Wikipedia gives Windows and Mac OS X as platforms.",
+    "units": [
+      {
+        "id": "the-witcher-2007",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1270
+          },
+          "end": {
+            "y": 1270
+          },
+          "label": "1270 (intro) or c. 1273 (book chronology)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "The game takes place around five years after the events of The Lady of the Lake. … In the game's intro, the date given is 1270, but according to the book it should be set in 1273 (five years after the end of Northern War II, which ended in 1268 and during the second Catriona outbreak, which started in 1272)",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-10-26",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: {{Video game release|EU|26 October 2007|NA|30 October 2007|AUS|9 November 2007}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(video_game)",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28video_game%29&oldid=1385167555",
+          "https://witcher.fandom.com/wiki/The_Witcher_%28game%29?oldid=645270"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-lady-of-the-lake",
+        "kind": "continues",
+        "note": "set about five years after the novels (separate continuity)"
+      }
+    ],
+    "credits": [
+      {
+        "role": "producer",
+        "name": "CD Projekt RED",
+        "qid": "Q1172164",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Adam Skorupa",
+        "qid": "Q4422401",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Paweł Błaszczak",
+        "qid": "Q4088046",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-witcher-2",
+    "title": "The Witcher 2: Assassins of Kings",
+    "sort_title": "Witcher 2: Assassins of Kings",
+    "type": "video-game",
+    "universe": "the-witcher",
+    "continuity": "witcher-games",
+    "studio_brand": "cd-projekt-red",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher 2: Assassins of Kings",
+      "wikidata": "Q917272",
+      "tmdb": null,
+      "imdb": "tt1937416"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
+    ],
+    "notes": "Enhanced Edition: Windows/Xbox 360 17 April 2012.",
+    "units": [
+      {
+        "id": "the-witcher-2",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Witcher",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is a sequel to the 2007 game, The Witcher and the second main installment in The Witchers video game series.",
+          "order_index": 30,
+          "relative_to": {
+            "after": "the-witcher-2007",
+            "before": "the-witcher-3"
+          }
+        },
+        "release": {
+          "date": "2011-05-17",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: The Witcher 2: Assassins of Kings was released for PC on 17 May 2011 at retail stores and digital distribution services such as GOG and Steam."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_2%3A_Assassins_of_Kings&oldid=1386321998"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-2007",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Adam Skorupa",
+        "qid": "Q4422401",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Krzysztof Wierzynkiewicz",
+        "qid": "Q4105894",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "sort_title": "Witcher 3: Wild Hunt",
+    "type": "video-game",
+    "universe": "the-witcher",
+    "continuity": "witcher-games",
+    "studio_brand": "cd-projekt-red",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher 3: Wild Hunt",
+      "wikidata": "Q4267401",
+      "tmdb": null,
+      "imdb": "tt2993508"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher_3%3A_Wild_Hunt&oldid=1387958478"
+    ],
+    "notes": "Switch 15 October 2019; PS5/Series X/S \"Complete Edition\" 14 December 2022; Remastered 29 September 2026. A third expansion, Songs of the Past, is announced for 2027 (CD Projekt Red with Fool's Theory).",
+    "units": [
+      {
+        "id": "the-witcher-3",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Witcher 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "It is the sequel to the 2011 game The Witcher 2: Assassins of Kings and the third game in The Witcher video game series, played in an open world with a third-person perspective.",
+          "order_index": 40,
+          "relative_to": {
+            "after": "the-witcher-2",
+            "before": "hearts-of-stone"
+          }
+        },
+        "release": {
+          "date": "2015-05-19",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: The Witcher 3: Wild Hunt was released worldwide on 19 May 2015."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_3%3A_Wild_Hunt&oldid=1387958478"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-2",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "writer",
+        "name": "Marcin Blacha",
+        "qid": "Q109991844",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "CD Projekt RED",
+        "qid": "Q1172164",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marcin Przybyłowicz",
+        "qid": "Q19005369",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Mikolai Stroinski",
+        "qid": "Q19005837",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "hearts-of-stone",
+    "title": "The Witcher 3: Wild Hunt – Hearts of Stone",
+    "sort_title": "Witcher 3: Wild Hunt – Hearts of Stone",
+    "type": "expansion",
+    "universe": "the-witcher",
+    "continuity": "witcher-games",
+    "studio_brand": "cd-projekt-red",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher 3: Wild Hunt – Hearts of Stone",
+      "wikidata": "Q24807225",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Hearts_of_Stone"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "hearts-of-stone",
+        "label": "Expansion",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during/after Wild Hunt (player-timed)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "the-witcher-3",
+            "before": "blood-and-wine"
+          }
+        },
+        "release": {
+          "date": "2015-10-13",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: Hearts of Stone was released on 13 October 2015."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Hearts_of_Stone"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-3",
+        "kind": "continues",
+        "note": "expansion"
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Marcin Przybyłowicz",
+        "qid": "Q19005369",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "blood-and-wine",
+    "title": "The Witcher 3: Wild Hunt – Blood and Wine",
+    "sort_title": "Witcher 3: Wild Hunt – Blood and Wine",
+    "type": "expansion",
+    "universe": "the-witcher",
+    "continuity": "witcher-games",
+    "studio_brand": "cd-projekt-red",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher 3: Wild Hunt – Blood and Wine",
+      "wikidata": "Q24807230",
+      "tmdb": null,
+      "imdb": "tt5667286"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Blood_and_Wine",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher_3%3A_Wild_Hunt_%E2%80%93_Blood_and_Wine&oldid=1379096106"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "blood-and-wine",
+        "label": "Expansion",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Wild Hunt",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Developed by CD Projekt Red, the expansion follows Geralt of Rivia as he travels to Toussaint, a duchy untouched by the war taking place in the base game, as he hopes to track down a mysterious beast terrorizing the region.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "hearts-of-stone",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2016-05-31",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: Blood and Wine was released on 31 May 2016."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Blood_and_Wine",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_3%3A_Wild_Hunt_%E2%80%93_Blood_and_Wine&oldid=1379096106"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-3",
+        "kind": "continues",
+        "note": "expansion"
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Marcin Przybyłowicz",
+        "qid": "Q19005369",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Piotr Musiał",
+        "qid": "Q11817853",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Mikolai Stroinski",
+        "qid": "Q19005837",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-witcher-iv",
+    "title": "The Witcher IV",
+    "sort_title": "Witcher IV",
+    "type": "video-game",
+    "universe": "the-witcher",
+    "continuity": "witcher-games",
+    "studio_brand": "cd-projekt-red",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "The Witcher IV",
+      "wikidata": "Q111023388",
+      "tmdb": null,
+      "imdb": "tt27612985"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_IV",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher_IV&oldid=1388202905"
+    ],
+    "notes": "Unreleased.",
+    "units": [
+      {
+        "id": "the-witcher-iv",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Witcher 3",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "The game is set after the events of The Witcher 3: Wild Hunt (2015).",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: The game is scheduled to release in 2028 for PlayStation 5, Windows, and Xbox Series X/S."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_IV",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_IV&oldid=1388202905"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-3",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-witcher-netflix",
+    "title": "The Witcher",
+    "sort_title": "Witcher",
+    "type": "series",
+    "universe": "the-witcher",
+    "continuity": "witcher-netflix",
+    "studio_brand": "netflix",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher (TV series)",
+      "wikidata": "Q47500433",
+      "tmdb": "71912",
+      "imdb": "tt5180504"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28TV_series%29&oldid=1387261765"
+    ],
+    "notes": "Netflix gives no in-universe years on Wikipedia. Season 1 is non-linear. Production companies not checked.",
+    "units": [
+      {
+        "id": "the-witcher-netflix-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "non-linear (Geralt, Yennefer, Ciri timelines converge)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "The story begins with Geralt of Rivia, Crown Princess Cirilla of Cintra, and the quarter-elf sorceress Yennefer of Vengerberg at different points in time, exploring formative events that shape their characters throughout the first season, before eventually merging into a single timeline.",
+          "order_index": 30,
+          "relative_to": {
+            "after": "nightmare-of-the-wolf",
+            "before": "the-witcher-netflix-s2"
+          }
+        },
+        "release": {
+          "date": "2019-12-20",
+          "end_date": "2019-12-20",
+          "year": 2019,
+          "note": "Wikipedia: The first season, consisting of eight episodes, was released on Netflix on December 20, 2019, starring Cavill in the lead role."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28TV_series%29&oldid=1387261765"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-witcher-netflix-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": {
+            "after": "the-witcher-netflix-s1",
+            "before": "blood-origin"
+          }
+        },
+        "release": {
+          "date": "2021-12-17",
+          "end_date": "2021-12-17",
+          "year": 2021,
+          "note": "Wikipedia: The second season, also consisting of eight episodes and based on the novel Blood of Elves, was released on December 17, 2021."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-witcher-netflix-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "blood-origin",
+            "before": "sirens-of-the-deep"
+          }
+        },
+        "release": {
+          "date": "2023-06-29",
+          "end_date": "2023-07-27",
+          "year": 2023,
+          "note": "Wikipedia: The third season, which also consists of eight episodes and is based on the novel Time of Contempt, was released in two volumes on June 29 and July 27, 2023."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-witcher-netflix-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "sirens-of-the-deep",
+            "before": "the-rats"
+          }
+        },
+        "release": {
+          "date": "2025-10-30",
+          "end_date": "2025-10-30",
+          "year": 2025,
+          "note": "Wikipedia: Hemsworth took over the role of Geralt of Rivia in the fourth season, based on the novel Baptism of Fire, which was released on October 30, 2025, also with eight episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-witcher-netflix-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: In the midst of filming the fourth season, Netflix renewed the series for a fifth and final season in April 2024."
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-last-wish",
+        "kind": "adapts",
+        "note": "season 1 (with Sword of Destiny)"
+      },
+      {
+        "to": "sword-of-destiny",
+        "kind": "adapts",
+        "note": "season 1"
+      },
+      {
+        "to": "blood-of-elves",
+        "kind": "adapts",
+        "note": "season 2"
+      },
+      {
+        "to": "time-of-contempt",
+        "kind": "adapts",
+        "note": "season 3"
+      },
+      {
+        "to": "baptism-of-fire",
+        "kind": "adapts",
+        "note": "season 4"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "nightmare-of-the-wolf",
+    "title": "The Witcher: Nightmare of the Wolf",
+    "sort_title": "Witcher: Nightmare of the Wolf",
+    "type": "animated-film",
+    "universe": "the-witcher",
+    "continuity": "witcher-netflix",
+    "studio_brand": "studio-mir",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher: Nightmare of the Wolf",
+      "wikidata": "Q93096991",
+      "tmdb": "666243",
+      "imdb": "tt11657662"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher:_Nightmare_of_the_Wolf",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Nightmare_of_the_Wolf&oldid=1386264329"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "nightmare-of-the-wolf",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 83,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1165
+          },
+          "end": {
+            "y": 1165
+          },
+          "label": "1165 (flashbacks to Vesemir's youth)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1165, the witcher Vesemir saves a child from a leshen in the forests of Kaedwen.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-08-23",
+          "end_date": null,
+          "year": 2021,
+          "note": "Wikipedia: An animated origin story film, Nightmare of the Wolf, was released on August 23, 2021."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher:_Nightmare_of_the_Wolf",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Nightmare_of_the_Wolf&oldid=1386264329"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-netflix",
+        "kind": "references",
+        "note": "Vesemir origin prequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kwang Il Han",
+        "qid": "Q108064178",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Beau DeMayo",
+        "qid": "Q69100746",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Lauren Schmidt Hissrich",
+        "qid": "Q23783828",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Lauren Schmidt Hissrich",
+        "qid": "Q23783828",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian D'Oliveira",
+        "qid": "Q21150509",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "blood-origin",
+    "title": "The Witcher: Blood Origin",
+    "sort_title": "Witcher: Blood Origin",
+    "type": "series",
+    "universe": "the-witcher",
+    "continuity": "witcher-netflix",
+    "studio_brand": "netflix",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher: Blood Origin",
+      "wikidata": "Q104411188",
+      "tmdb": "106541",
+      "imdb": "tt12785720"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher:_Blood_Origin",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Blood_Origin&oldid=1387261771"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "blood-origin",
+        "label": "Miniseries",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 4,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "1,200 years before the main series",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Set 1,200 years before the events of The Witcher television series, Blood Origin depicts the creation of the first Witcher, as well as the events leading to the \"Conjunction of the Spheres\".",
+          "order_index": 50,
+          "relative_to": {
+            "after": "the-witcher-netflix-s2",
+            "before": "the-witcher-netflix-s3"
+          }
+        },
+        "release": {
+          "date": "2022-12-25",
+          "end_date": "2022-12-25",
+          "year": 2022,
+          "note": "Wikipedia: The series premiered on Netflix on December 25, 2022, and consists of four episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher:_Blood_Origin",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Blood_Origin&oldid=1387261771"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-netflix",
+        "kind": "references",
+        "note": "prequel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Declan de Barra",
+        "qid": "Q1182064",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "sirens-of-the-deep",
+    "title": "The Witcher: Sirens of the Deep",
+    "sort_title": "Witcher: Sirens of the Deep",
+    "type": "animated-film",
+    "universe": "the-witcher",
+    "continuity": "witcher-netflix",
+    "studio_brand": "studio-mir",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher: Sirens of the Deep",
+      "wikidata": "Q123478480",
+      "tmdb": "1203329",
+      "imdb": "tt15495150"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher:_Sirens_of_the_Deep",
+      "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Sirens_of_the_Deep&oldid=1378435053"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "sirens-of-the-deep",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 91,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during season 1 era (Geralt and Jaskier)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The film is a loose adaptation of the short story \"A Little Sacrifice\" by Andrzej Sapkowski.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "the-witcher-netflix-s3",
+            "before": "the-witcher-netflix-s4"
+          }
+        },
+        "release": {
+          "date": "2025-02-11",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: The film was delayed and eventually released on February 11, 2025."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher:_Sirens_of_the_Deep",
+          "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Sirens_of_the_Deep&oldid=1378435053"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "sword-of-destiny",
+        "kind": "adapts",
+        "note": "loosely adapts \"A Little Sacrifice\""
+      },
+      {
+        "to": "the-witcher-netflix",
+        "kind": "shares-characters",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kang Hei Chul",
+        "qid": "Q134932001",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Mike Ostrowski",
+        "qid": "Q6848280",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Lauren Schmidt Hissrich",
+        "qid": "Q23783828",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Joseph Trapanese",
+        "qid": "Q6287481",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-rats",
+    "title": "The Rats: A Witcher Tale",
+    "sort_title": "Rats: A Witcher Tale",
+    "type": "special",
+    "universe": "the-witcher",
+    "continuity": "witcher-netflix",
+    "studio_brand": "netflix",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Witcher (TV series)",
+      "wikidata": "Q47500433",
+      "tmdb": "71912",
+      "imdb": "tt5180504"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+    ],
+    "notes": "Feature-length special; no dedicated article fetched.",
+    "units": [
+      {
+        "id": "the-rats",
+        "label": "Special",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "unknown",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 90,
+          "relative_to": {
+            "after": "the-witcher-netflix-s4",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2025-10-30",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: A feature-length special, The Rats: A Witcher Tale, was released on October 30, 2025."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-witcher-netflix",
+        "kind": "spinoff",
+        "note": "released alongside season 4"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

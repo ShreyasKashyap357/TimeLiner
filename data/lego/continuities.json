@@ -1,0 +1,527 @@
+[
+  {
+    "id": "lego-movie",
+    "universe": "lego",
+    "name": "The Lego Movie",
+    "short_name": "The Lego Movie",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"'''''The Lego Movie''''' is an American [[media franchise]] and [[shared universe]] based on [[Lego]] [[construction toy]]s.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "ninjago",
+    "universe": "lego",
+    "name": "Ninjago (TV)",
+    "short_name": "Ninjago",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"A sequel series titled ''[[Ninjago: Dragons Rising]]'', set in the same continuity, debuted on June 1, 2023.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "legends-of-chima",
+    "universe": "lego",
+    "name": "Legends of Chima",
+    "short_name": "Legends of Chima",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "nexo-knights",
+    "universe": "lego",
+    "name": "Nexo Knights",
+    "short_name": "Nexo Knights",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "monkie-kid",
+    "universe": "lego",
+    "name": "Monkie Kid",
+    "short_name": "Monkie Kid",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dreamzzz",
+    "universe": "lego",
+    "name": "Lego Dreamzzz",
+    "short_name": "Lego Dreamzzz",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-city-adventures",
+    "universe": "lego",
+    "name": "Lego City Adventures",
+    "short_name": "Lego City Adventures",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-friends-heartlake-city",
+    "universe": "lego",
+    "name": "Lego Friends (original cast, 2013–2022)",
+    "short_name": "Lego Friends",
+    "order": 8,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Animated series, TV specials, and Films based on Lego Friends have been released to accompany the product line. The story follows the adventures of the original cast in their hometown of Heartlake City.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-friends-next-chapter",
+    "universe": "lego",
+    "name": "Lego Friends: The Next Chapter",
+    "short_name": "Lego Friends: The Next Chapter",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"In October 2022, The Lego Group announced the relaunch of the brand, which introduced eight new characters in January 2023 named Aliya, Autumn, Leo, Liann, Nova, Olly, Paisley, and Zac. The lineup represents a new generation of characters accompanied by a new series.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-elves",
+    "universe": "lego",
+    "name": "Lego Elves (2015–2018)",
+    "short_name": "Lego Elves",
+    "order": 10,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-elves-secrets-of-elvendale",
+    "universe": "lego",
+    "name": "Lego Elves: Secrets of Elvendale",
+    "short_name": "Lego Elves: Secrets of Elvendale",
+    "order": 11,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The series is a more detailed retelling of the story featured in Season 3 of the webisodes (webisodes 18 - 33).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "bionicle-g1",
+    "universe": "lego",
+    "name": "Bionicle (Generation 1)",
+    "short_name": "Bionicle",
+    "order": 12,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It is a prequel to the first film, ''[[Bionicle: Mask of Light]]''.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "bionicle-g2",
+    "universe": "lego",
+    "name": "Bionicle (Generation 2)",
+    "short_name": "Bionicle",
+    "order": 13,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"A reboot of the original story, the revival chronicles the adventures of six elemental Toa heroes who protect the bio-mechanical inhabitants of the mystical island of Okoto from Makuta and his minions.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "hero-factory",
+    "universe": "lego",
+    "name": "Hero Factory",
+    "short_name": "Hero Factory",
+    "order": 14,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "galidor",
+    "universe": "lego",
+    "name": "Galidor",
+    "short_name": "Galidor",
+    "order": 15,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-games",
+    "universe": "lego",
+    "name": "LEGO original games",
+    "short_name": "LEGO original games",
+    "order": 16,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [],
+    "notes": ""
+  },
+  {
+    "id": "lego-standalone",
+    "universe": "lego",
+    "name": "LEGO standalone films",
+    "short_name": "LEGO standalone films",
+    "order": 17,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/undefined"
+    ],
+    "notes": ""
+  }
+]

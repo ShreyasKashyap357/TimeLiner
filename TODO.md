@@ -78,6 +78,12 @@
 - [ ] Wave 2: The Walking Dead, Yellowstone (Sheridan), Stargate, Battlestar Galactica, Breaking Bad/BCS, Law & Order / NCIS / CSI / One Chicago, Twin Peaks, Dune, Narnia, Hunger Games, Shadowhunters, The Expanse, Outlander, The Dark Tower, Discworld, Cosmere
 - [ ] Wave 3: Sherlock Holmes (D-51), Jack Ryan, Bourne, Mission: Impossible, Dragon Ball, Naruto/Boruto, One Piece, Pokémon, Ultraman, Kamen Rider, Super Sentai / Power Rangers, Avatar: The Last Airbender, Transformers, TMNT
 - [ ] Wave 4: Indian (YRF Spy, LCU, Maddock, Cop Universe, Baahubali, KGF/Salaar, Dhoom, Krrish, Golmaal, Bhool Bhulaiyaa, Housefull, Drishyam), Jin Yong's Condor Trilogy; Hollywood batch; other superhero; horror batch
+- [ ] Wave 5 (suggested 2026-11-27):
+  - Games-led: Resident Evil (games, Anderson films, CG films and Netflix kept separate), Metal Gear, Kingdom Hearts (official order), Final Fantasy VII compilation, Zelda (official three-branch timeline), Mass Effect, Tomb Raider, Uncharted, Mortal Kombat, Sonic, Persona.
+  - Screen: Alien/Predator, Planet of the Apes, Jurassic Park, Indiana Jones, Conjuring Universe, Evil Dead, X-Men (Fox), Spider-Verse, Pirates of the Caribbean, Toy Story/Pixar, Ghostbusters, Rocky/Creed, John Wick, The Boys, Westworld, Dexter.
+  - Books-led: Stephen King (links to The Dark Tower), Asimov Foundation/Robots, Earthsea.
+  - Anime: Evangelion (Rebuild separate), Fate (route branches), Attack on Titan, JoJo, Macross, Ghost in the Shell.
+- [ ] LEGO tie-ins for universes not in the app yet (Jurassic, Indiana Jones, Horizon, Fortnite) once those universes exist.
 
 ## Previously deferred (now unpaused)
 - [ ] New media types: radio / audio drama, live theatre (stage plays, musicals), and others needed (R-48). Then add:

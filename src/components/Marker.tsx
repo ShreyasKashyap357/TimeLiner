@@ -30,8 +30,8 @@ export function Marker({ shape, color, size = 12, title }: { shape: MarkerShape;
     case 'star': el = <path d={`M${h} 0.5 L${h + 1.8} ${h - 1.2} L${s - 0.5} ${h - 1.2} L${h + 2.6} ${h + 1.4} L${h + 3.6} ${s - 0.5} L${h} ${h + 3} L${h - 3.6} ${s - 0.5} L${h - 2.6} ${h + 1.4} L0.5 ${h - 1.2} L${h - 1.8} ${h - 1.2} Z`} {...common} />; break;
   }
   return (
-    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`} aria-hidden={title ? undefined : true} role={title ? 'img' : undefined} className="shrink-0">
-      {title ? <title>{title}</title> : null}
+    // aria-label, not an SVG <title>: <title> shows the browser-native hover text (R-55).
+    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`} aria-hidden={title ? undefined : true} role={title ? 'img' : undefined} aria-label={title} className="shrink-0">
       {el}
     </svg>
   );

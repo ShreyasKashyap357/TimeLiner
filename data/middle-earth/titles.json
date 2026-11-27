@@ -6534,5 +6534,808 @@
     ],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "middle-earth-shadow-of-mordor",
+    "title": "Middle-earth: Shadow of Mordor",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-monolith",
+    "studio_brand": "monolith-productions",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Middle-earth: Shadow of Mordor",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386317558",
+      "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor"
+    ],
+    "notes": "Developer: Monolith Productions. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 4, Windows, Xbox One. Story DLC: \"Lord of the Hunt\" (Dec 16, 2014); \"The Bright Lord\" (\"set 3,000 years before the main campaign\"; Feb 24, 2015 per a cited Game Informer headline \"Available Today\") - add as expansions if wanted.",
+    "units": [
+      {
+        "id": "middle-earth-shadow-of-mordor",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 7032
+          },
+          "label": "Between The Hobbit and The Lord of the Rings (T.A. 2941–3001 window)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game takes place in the 60-year gap between the events of Tolkien's The Hobbit and The Lord of the Rings.\" Derived: bounds = the-hobbit (6972) and fellowship start (7032); year in data/middle-earth absolute encoding (T.A. n = 4031+n).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-09-30",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: '''PlayStation 4''', '''Windows''', '''Xbox One''' NA September 30, 2014 | EU October 3, 2014 | AU October 8, 2014; PS3/X360 NA November 18, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386317558",
+          "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "lotr-the-fellowship-of-the-ring",
+        "kind": "references",
+        "note": "\"takes place between the events of The Hobbit and The Lord of the Rings film trilogies\""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "middle-earth-shadow-of-war",
+    "title": "Middle-earth: Shadow of War",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-monolith",
+    "studio_brand": "monolith-productions",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Middle-earth: Shadow of War",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385044934",
+      "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_War"
+    ],
+    "notes": "Developer: Monolith Productions. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 4, Windows, Xbox One. Story expansions \"Blade of Galadriel\" (February 2018) and \"Desolation of Mordor\" (May 2018): month precision only.",
+    "units": [
+      {
+        "id": "middle-earth-shadow-of-war",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 7032
+          },
+          "label": "Decades between The Hobbit and The Fellowship of the Ring",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"As the game takes place in the decades between the end of The Hobbit and The Fellowship of the Ring\" Derived: year in data/middle-earth absolute encoding (T.A. n = 4031+n).",
+          "order_index": 11,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-10",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: released = October 10, 2017 | '''Nintendo Switch 2''' September 30, 2026"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385044934",
+          "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_War"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "middle-earth-shadow-of-mordor",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-gollum",
+    "title": "The Lord of the Rings: Gollum",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "daedalic-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: Gollum",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386493718",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Gollum"
+    ],
+    "notes": "Developer: Daedalic Entertainment. Publisher: Nacon. Platforms: PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-gollum",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Frame story T.A. 3017; main story recounts earlier years",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"In the year 3017 of the Third Age, 66 years after Bilbo Baggins obtains the One Ring from Gollum in the Misty Mountains, Aragorn captures Gollum in the Dead Marshes and turns him over to Gandalf.\" Derived: T.A. 3017; year in data/middle-earth absolute encoding (T.A. n = 4031+n).",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-05-25",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: released = 25 May 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386493718",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Gollum"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-return-to-moria",
+    "title": "The Lord of the Rings: Return to Moria",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "free-range-games",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: Return to Moria",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1365157536",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Return_to_Moria"
+    ],
+    "notes": "Developer: Free Range Games. Publisher: North Beach Games. Platforms: Windows. Canon: \"The game is licensed by Middle-earth Enterprises.\" Survival-crafting with a light story; low priority.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-return-to-moria",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Fourth Age (year not stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game is based on the fictional world of Middle-earth created by J. R. R. Tolkien and takes place during its Fourth Age after the events of The Lord of the Rings novel.\"",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-10-24",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: '''Windows''' October 24, 2023 | '''PlayStation 5''' December 5, 2023 | '''Xbox Series X/S''' August 27, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1365157536",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Return_to_Moria"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-the-battle-for-middle-earth",
+    "title": "The Lord of the Rings: The Battle for Middle-earth",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "ea-los-angeles",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Battle for Middle-earth",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1346035912",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth"
+    ],
+    "notes": "Developer: EA Los Angeles. Publisher: EA Games. Platforms: Windows. Servers closed \"due to the expiration of The Lord of the Rings video game license\".",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-the-battle-for-middle-earth",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "War of the Ring (alternative storyline)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"It provides an alternative storyline to the book and film.\"",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-12-06",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: NA December 6, 2004"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1346035912",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "lotr-the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": "film-licensed RTS"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-the-battle-for-middle-earth-ii",
+    "title": "The Lord of the Rings: The Battle for Middle-earth II",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "ea-los-angeles",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Battle for Middle-earth II",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1374752859",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II"
+    ],
+    "notes": "Developer: EA Los Angeles. Publisher: Electronic Arts. Platforms: Windows. Expansion \"The Rise of the Witch-king\" not fetched.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-the-battle-for-middle-earth-ii",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "War of the Ring, in the north",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game is set in the northern regions of Middle-earth, during the War of the Ring.\"",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-02-28",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: '''Windows''' NA February 28, 2006 | UK March 3, 2006; '''Xbox 360''' NA July 5, 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1374752859",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-lord-of-the-rings-the-battle-for-middle-earth",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-the-third-age",
+    "title": "The Lord of the Rings: The Third Age",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "ea-redwood-shores",
+    "label": null,
+    "platform_or_network": "playstation-2",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Third Age",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1373041443",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Third_Age"
+    ],
+    "notes": "Developer: EA Redwood Shores. Publisher: EA Games. Platforms: PlayStation 2, Xbox, GameCube. Canon: \"the plot is not intended as an original canonical story to fit into the plot as developed in the films.\"",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-the-third-age",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Parallel to the film trilogy",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The story takes place concurrently to the film trilogy, and follows a party of original characters on a journey parallel to the Fellowship\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-11-02",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: '''PlayStation 2''', '''Xbox''' NA/AUS November 2, 2004"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1373041443",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Third_Age"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "lotr-the-fellowship-of-the-ring",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-war-in-the-north",
+    "title": "The Lord of the Rings: War in the North",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "snowblind-studios",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: War in the North",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380461560",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_War_in_the_North"
+    ],
+    "notes": "Developer: Snowblind Studios. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 3, Windows, Xbox 360. Based on both the novel and Jackson's films. Legacy Edition re-release by Aspyr.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-war-in-the-north",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Parallel to the War of the Ring",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"depicts a trio of adventurers whose quest runs parallel to the main narrative, occasionally intersecting with it.\"",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-11-01",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: NA November 1, 2011 | EU November 25, 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1380461560",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_War_in_the_North"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-online",
+    "title": "The Lord of the Rings Online",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-games-standalone",
+    "studio_brand": "turbine",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings Online",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387250504",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Online"
+    ],
+    "notes": "Developer: Turbine (now Standing Stone Games). Publisher: Turbine / Midway Games / Codemasters (EU); now Daybreak Game Company. Platforms: Windows, OS X (deprecated). Ongoing MMO with many expansions - not itemised. Book-licensed.",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-online",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "War of the Ring era (regions fixed at different points)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Each Region is \"fixed\" at a specific time period during the War of the Ring despite the passage of time in the main story\"",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-04-24",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: released = April 24, 2007"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387250504",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Online"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-lord-of-the-rings",
+    "title": "Lego The Lord of the Rings",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "playstation-vita",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego The Lord of the Rings (video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384049412",
+      "https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Interactive Entertainment. Platforms: PS Vita, 3DS, DS (2012-10-30); PS3, Xbox 360, Windows, Wii (2012-11-13); OS X; Android, iOS. The earliest NA date (handhelds) is used; consoles 2012-11-13.",
+    "units": [
+      {
+        "id": "lego-the-lord-of-the-rings",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-10-30",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: '''PlayStation Vita''', '''Nintendo 3DS''', '''Nintendo DS'''{{Video game release|NA|30 October 2012|EU|23 November 2012}}'''PlayStation 3''', '''Xbox 360''', '''Microsoft Windows''', '''Wii'''{{Video game release|NA|13 November 2012|EU|23 November 2012}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384049412",
+          "https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-the-hobbit",
+    "title": "Lego The Hobbit",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "middle-earth",
+    "continuity": "me-lego",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego The Hobbit",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388154308",
+      "https://en.wikipedia.org/wiki/Lego_The_Hobbit"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Interactive Entertainment. Platforms: Windows, 3DS, PS3, PS4, PS Vita, Xbox 360, Xbox One, Wii U, OS X. The article title is \"Lego The Hobbit\" (redirect from \"Lego The Hobbit (video game)\").",
+    "units": [
+      {
+        "id": "lego-the-hobbit",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-04-08",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: {{Video game release|NA|8 April 2014|EU|11 April 2014|AU|17 April 2014}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388154308",
+          "https://en.wikipedia.org/wiki/Lego_The_Hobbit"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
   }
 ]

@@ -11,6 +11,8 @@
       "before_label": "BC",
       "after_label": "AC",
       "has_year_zero": false,
+      "label_position": "after",
+      "pad": 0,
       "note": "Years counted from Aegon's Conquest: 1 AC is the year of Aegon I's coronation, and the year before it is 1 BC (there is no year 0). Inferred from A Wiki of Ice and Fire; no source states this rule in words."
     },
     "branches": [
@@ -48,6 +50,8 @@
       "before_label": "BC",
       "after_label": "AC",
       "has_year_zero": false,
+      "label_position": "after",
+      "pad": 0,
       "note": "Years counted from Aegon's Conquest: 1 AC is the year of Aegon I's coronation, and the year before it is 1 BC (there is no year 0). Inferred from A Wiki of Ice and Fire; no source states this rule in words."
     },
     "branches": [
@@ -72,7 +76,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.thepopverse.com/tv-game-of-thrones-watch-how-where-to-order-house-of-the-dragon",
         "as_of": "2026-11-27",
-        "note": "Backbone = release order.",
+        "note": "Based on release order.",
         "unit_ids": [
           "game-of-thrones-s1",
           "game-of-thrones-s2",
@@ -116,7 +120,7 @@
             "date": "2026-01-19"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "game-of-thrones-s1": [
             0,
@@ -196,6 +200,37 @@
       "https://en.wikipedia.org/wiki/Game_of_Thrones",
       "https://en.wikipedia.org/wiki/House_of_the_Dragon",
       "https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "got-games-standalone",
+    "universe": "asoiaf",
+    "name": "Game of Thrones games (standalone)",
+    "short_name": "Game of Thrones games",
+    "order": 3,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The game takes place concurrently with season 1 of Game of Thrones\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Game_of_Thrones_(2012_video_game)"
     ],
     "notes": ""
   }

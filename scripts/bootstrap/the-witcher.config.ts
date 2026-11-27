@@ -1,0 +1,152 @@
+// The Witcher: books, games and Netflix are separate continuities ("Sapkowski had no involvement with the video games").
+// Generated from research (research-game-franchises.json) on 2026-11-27 by the generic generator.
+import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
+
+export const UNIVERSE: Universe = {
+  id: 'the-witcher', name: "The Witcher", short_name: "The Witcher", order: 19, enabled: true,
+  accent: { primary: '#C0392B', secondary: '#B8B8B8' }, default_continuity: 'witcher-books', data_dir: 'the-witcher', last_verified: null,
+  description: "Sapkowski's books, CD Projekt Red's games and Netflix's series, each its own continuity.", grouping_schemes: [],
+};
+export const CONTINUITIES: Continuity[] = [
+ {
+  "id": "witcher-books",
+  "universe": "the-witcher",
+  "name": "Sapkowski's books",
+  "short_name": "Sapkowski's books",
+  "order": 1,
+  "kind": "shared",
+  "calendar": {
+   "kind": "gregorian"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "Andrzej Sapkowski's short-story collections and novels (Polish originals by SuperNowa). Wikipedia: \"Known as The Witcher Saga, he wrote one book a year until the fifth and final installment in 1999. … A standalone prequel novel, Season of Storms, was published in 2013. … Another prequel, Crossroads of Ravens, was published in 2024.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=The_Witcher&oldid=1378439132"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "witcher-games",
+  "universe": "the-witcher",
+  "name": "CD Projekt Red games",
+  "short_name": "CD Projekt Red games",
+  "order": 2,
+  "kind": "shared",
+  "calendar": {
+   "kind": "gregorian"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The games' own story, set after the novels. Sapkowski wasn't involved. Wikipedia: \"Sapkowski had no involvement with the video games, giving the studio license to create a completely new story using his characters. … The game takes place around five years after the events of The Lady of the Lake.\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=The_Witcher&oldid=1378439132",
+   "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28video_game%29&oldid=1385167555"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "witcher-netflix",
+  "universe": "the-witcher",
+  "name": "Netflix adaptation",
+  "short_name": "Netflix adaptation",
+  "order": 3,
+  "kind": "shared",
+  "calendar": {
+   "kind": "gregorian"
+  },
+  "branches": [
+   {
+    "id": "main",
+    "label": "Main",
+    "marker": "dot",
+    "description": "",
+    "placeable": true,
+    "parent": null,
+    "diverges_at": null,
+    "merges_into": null,
+    "is_main": true
+   }
+  ],
+  "grouping_schemes": [],
+  "alt_orders": [],
+  "description": "The Netflix live-action series, its prequel Blood Origin, the animated films and The Rats. An adaptation of the books, separate from the games. Wikipedia: \"In May 2017, Netflix announced the start of production on an English-language drama TV series based on the books. … Set 1,200 years before the events of The Witcher television series, Blood Origin depicts the creation of the first Witcher, as well as the events leading to the \"Conjunction of the Spheres\".\"",
+  "source_urls": [
+   "https://en.wikipedia.org/w/index.php?title=The_Witcher_%28TV_series%29&oldid=1387261765",
+   "https://en.wikipedia.org/w/index.php?title=The_Witcher%3A_Blood_Origin&oldid=1387261771"
+  ],
+  "notes": ""
+ }
+];
+export const STUDIOS: Studio[] = [
+ {
+  "id": "andrzej-sapkowski",
+  "label": "Andrzej Sapkowski",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "cd-projekt-red",
+  "label": "Cd Projekt Red",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "netflix",
+  "label": "Netflix",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ },
+ {
+  "id": "studio-mir",
+  "label": "Studio Mir",
+  "kind": "studio",
+  "short_label": null,
+  "parent": null,
+  "group": null,
+  "active": null,
+  "note": ""
+ }
+];
+export const PLATFORMS: Platform[] = [];
+export const TAGS: Tag[] = [];
+export const FANDOM_PREFIXES = {};
+export const SORT_BY_YEAR = ["witcher-books","witcher-games","witcher-netflix"];

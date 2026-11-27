@@ -35,7 +35,7 @@
         "label": "Recommended reading order",
         "source_url": "https://www.tlbranson.com/wheel-of-time-reading-order/",
         "as_of": "2026-11-27",
-        "note": "Recommended READING order. Backbone = publication order, the first-read recommendation of sources 0, 1 and 3, and source 2 apart from New Spring.",
+        "note": "Based on publication order, the first-read recommendation of guides [1], [2] and [4], and guide [3] apart from New Spring.",
         "unit_ids": [
           "the-eye-of-the-world",
           "the-great-hunt",
@@ -92,7 +92,7 @@
             "date": "2023-05-20"
           }
         ],
-        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "the-eye-of-the-world": [
             0,

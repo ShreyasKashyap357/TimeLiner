@@ -1,0 +1,34 @@
+[
+  {
+    "id": "fallout-main",
+    "universe": "fallout",
+    "name": "Fallout (games and TV series)",
+    "short_name": "Fallout",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "One shared continuity: the Interplay/Black Isle and Bethesda/Obsidian games and the Prime Video series, which is canon to the games. Wikipedia: \"The series is canon within the Fallout continuity. … The show is canonical to the games, with its 2296 setting, making it the furthest along the timeline in the franchise.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Fallout_%28American_TV_series%29&oldid=1387209073",
+      "https://en.wikipedia.org/w/index.php?title=Fallout_%28franchise%29&oldid=1387626979"
+    ],
+    "notes": ""
+  }
+]

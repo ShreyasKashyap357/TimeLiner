@@ -37167,7 +37167,7 @@
           "precision": "relative",
           "confidence": "inferred",
           "note": "The sources give no in-universe year.",
-          "order_index": 10,
+          "order_index": 50,
           "relative_to": null
         },
         "release": {
@@ -64870,6 +64870,1463 @@
         "source_urls": [
           "https://en.wikipedia.org/w/index.php?oldid=1371087828",
           "https://en.wikipedia.org/wiki/Batman_Live"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-asylum",
+    "title": "Batman: Arkham Asylum",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "rocksteady-studios",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham Asylum",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386308942",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum"
+    ],
+    "notes": "Developer: Rocksteady Studios. Publisher: Eidos Interactive / Warner Bros. Interactive Entertainment. Platforms: PlayStation 3, Xbox 360. No calendar years anywhere in the Arkham sources; order by relative offsets only (precision relative).",
+    "units": [
+      {
+        "id": "batman-arkham-asylum",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Series anchor (no calendar year)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Arkham Asylum is set in the fictional Arkham Asylum, a facility on Arkham Island off the coast of Gotham City\"",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-08-25",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: '''PlayStation 3''', '''Xbox 360''' NA August 25, 2009 | EU August 28, 2009 | AU September 3, 2009; '''Windows''' NA September 15, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386308942",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-assault-on-arkham",
+        "kind": "references",
+        "note": "Film \"takes place about two years before the events of Batman: Arkham Asylum\" (series article)"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-city",
+    "title": "Batman: Arkham City",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "rocksteady-studios",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham City",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388178067",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_City"
+    ],
+    "notes": "Developer: Rocksteady Studios. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 3, Xbox 360. Wikipedia articles disagree on the gap (1 year vs 18 months).",
+    "units": [
+      {
+        "id": "batman-arkham-city",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "One year (or eighteen months) after Arkham Asylum",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"Arkham Asylum article: \"Set one year after the events of Arkham Asylum, it is the direct sequel\"; series article: \"Set eighteen months after Arkham Asylum\"\"",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-10-18",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: '''PlayStation 3''', '''Xbox 360''' NA October 18, 2011 | AU October 19, 2011 | EU October 21, 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388178067",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_City"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-asylum",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-city-harley-quinns-revenge",
+    "title": "Batman: Arkham City – Harley Quinn's Revenge",
+    "sort_title": null,
+    "type": "expansion",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "not-stated",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386370983",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham"
+    ],
+    "notes": "Developer: not stated (parent game: Rocksteady Studios) - VERIFY. Publisher: Warner Bros. Interactive Entertainment (parent game). Platforms: PlayStation 3, Xbox 360. No standalone article; source is the series article (release quote is from the Arkham City article, revid 1388178067).",
+    "units": [
+      {
+        "id": "batman-arkham-city-harley-quinns-revenge",
+        "label": "Expansion",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After Arkham City",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Another DLC, titled Harley Quinn's Revenge, adds a second campaign, set after the main story\"",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-05-29",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: Harley Quinn's Revenge, a story-based campaign expansion, was released on May 29, 2012, for the PlayStation 3 and the Xbox 360, with a PC version coming out a week later."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386370983",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-city",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-origins",
+    "title": "Batman: Arkham Origins",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "wb-games-montre-al",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham Origins",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387278938",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins"
+    ],
+    "notes": "Developer: WB Games Montréal. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 3, Wii U, Windows, Xbox 360.",
+    "units": [
+      {
+        "id": "batman-arkham-origins",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Eight years before Arkham Asylum (Christmas Eve)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"the game's main storyline is set eight years before 2009's Batman: Arkham Asylum and follows a younger, less-refined Batman.\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-25",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: released = October 25, 2013 (some European retail Wii U/Windows: November 8, 2013)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387278938",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-asylum",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-origins-cold-cold-heart",
+    "title": "Batman: Arkham Origins – Cold, Cold Heart",
+    "sort_title": null,
+    "type": "expansion",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "not-stated",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386370983",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham"
+    ],
+    "notes": "Developer: not stated (parent game: WB Games Montréal) - VERIFY. Publisher: Warner Bros. Interactive Entertainment (parent game). Platforms: PlayStation 3, Wii U, Windows, Xbox 360. Release quote from the Arkham Origins article (revid 1387278938). Platforms assumed = parent game - VERIFY.",
+    "units": [
+      {
+        "id": "batman-arkham-origins-cold-cold-heart",
+        "label": "Expansion",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "A week after Arkham Origins (New Year's Eve)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The Cold, Cold Heart DLC adds a new story-driven campaign, set a week after the events of the main story, on New Year's Eve\"",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-04-22",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: The story-based campaign expansion, Cold, Cold Heart was released on April 22, 2014."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386370983",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-origins",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-origins-blackgate",
+    "title": "Batman: Arkham Origins Blackgate",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "armature-studio",
+    "label": null,
+    "platform_or_network": "3ds",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham Origins Blackgate",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1376367965",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins_Blackgate"
+    ],
+    "notes": "Developer: Armature Studio. Publisher: Warner Bros. Interactive Entertainment. Platforms: Nintendo 3DS, PlayStation Vita.",
+    "units": [
+      {
+        "id": "batman-arkham-origins-blackgate",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Three months after Arkham Origins",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set three months after Arkham Origins, the game follows Batman as he attempts to stop a prison riot at the Blackgate Penitentiary\"",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-25",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: '''Nintendo 3DS''', '''PS Vita''' WW October 25, 2013 | EU November 8, 2013 (3DS); Deluxe Edition Wii U/PS3/Windows/X360 NA April 1, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1376367965",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins_Blackgate"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-origins",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-shadow",
+    "title": "Batman: Arkham Shadow",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "camouflaj",
+    "label": null,
+    "platform_or_network": "meta-quest",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham Shadow",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1380880617",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_Shadow"
+    ],
+    "notes": "Developer: Camouflaj. Publisher: Oculus Studios. Platforms: Meta Quest 3, Meta Quest 3S.",
+    "units": [
+      {
+        "id": "batman-arkham-shadow",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Six months after Arkham Origins (Fourth of July)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set six months after the events of Batman: Arkham Origins and three months after the events of Batman: Arkham Origins Blackgate (2013)\"",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-10-22",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: released = {{Start date|2024|10|22}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1380880617",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_Shadow"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-origins-blackgate",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-vr",
+    "title": "Batman: Arkham VR",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "rocksteady-studios",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham VR",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1383347337",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_VR"
+    ],
+    "notes": "Developer: Rocksteady Studios. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 4 (PlayStation VR).",
+    "units": [
+      {
+        "id": "batman-arkham-vr",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between Arkham City and Arkham Knight",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game's storyline takes place between 2011's Batman: Arkham City and 2015's Batman: Arkham Knight\"",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-10-11",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: '''PlayStation 4''' October 11, 2016 | '''Windows''' April 25, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1383347337",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_VR"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-arkham-knight",
+    "title": "Batman: Arkham Knight",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "rocksteady-studios",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: Arkham Knight",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387383689",
+      "https://en.wikipedia.org/wiki/Batman:_Arkham_Knight"
+    ],
+    "notes": "Developer: Rocksteady Studios. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 4, Windows, Xbox One. Story DLC \"Batgirl: A Matter of Family\" is \"set before the events of Arkham Asylum\" (no release date in fetched text - not itemised); other Arkham Episodes are set after the main game.",
+    "units": [
+      {
+        "id": "batman-arkham-knight",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Nine months after Arkham City",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Arkham Knight is set nine months after the events of Arkham City\"",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-06-23",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: '''PS4''', '''Windows''', '''Xbox One''' June 23, 2015 | '''Nintendo Switch''' December 1, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387383689",
+          "https://en.wikipedia.org/wiki/Batman:_Arkham_Knight"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-city",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "suicide-squad-kill-the-justice-league",
+    "title": "Suicide Squad: Kill the Justice League",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "arkhamverse",
+    "studio_brand": "rocksteady-studios",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Suicide Squad: Kill the Justice League",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385978909",
+      "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"
+    ],
+    "notes": "Developer: Rocksteady Studios. Publisher: Warner Bros. Games. Platforms: PlayStation 5, Windows, Xbox Series X/S. Seasonal live-service episodes - not itemised.",
+    "units": [
+      {
+        "id": "suicide-squad-kill-the-justice-league",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Five years after Arkham Knight",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Set five years after the events of Arkham Knight\"",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-02-02",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: released = February 2, 2024 (Deluxe Edition early access January 30, 2024; Epic Games Store March 26, 2024)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385978909",
+          "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-arkham-knight",
+        "kind": "references",
+        "note": ""
+      },
+      {
+        "to": "batman-assault-on-arkham",
+        "kind": "references",
+        "note": "existing continuity note: Assault on Arkham canon is disputed because this game contradicts it"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "injustice-gods-among-us",
+    "title": "Injustice: Gods Among Us",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "injustice-games",
+    "studio_brand": "netherrealm-studios",
+    "label": null,
+    "platform_or_network": "playstation-3",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Injustice: Gods Among Us",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387669610",
+      "https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us"
+    ],
+    "notes": "Developer: NetherRealm Studios. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 3, Wii U, Xbox 360. Fighting game with a full cinematic story mode.",
+    "units": [
+      {
+        "id": "injustice-gods-among-us",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Five years after the Joker destroys Metropolis",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"In an alternate reality (known as Earth-49), the Joker tricks Superman into killing a pregnant Lois Lane, which detonates a nuclear weapon that destroys Metropolis. Five years later, in the Prime Universe, the Justice League and Teen Titans subdue various villains\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-04-16",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Original '''PS3''', '''Wii U''', '''Xbox 360''' NA April 16, 2013 | AU April 17, 2013 | EU April 19, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387669610",
+          "https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "injustice-2021",
+        "kind": "references",
+        "note": "animated film \"features an original narrative that borrows elements from both the first game and its prequel comic\" (franchise article); film is in dc-animated-standalone"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "injustice-2",
+    "title": "Injustice 2",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "injustice-games",
+    "studio_brand": "netherrealm-studios",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Injustice 2",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384932753",
+      "https://en.wikipedia.org/wiki/Injustice_2"
+    ],
+    "notes": "Developer: NetherRealm Studios. Publisher: Warner Bros. Interactive Entertainment. Platforms: PlayStation 4, Xbox One, iOS, Android. Console date used (infobox title May 9, 2017 is the mobile companion). Franchise article says Injustice 2 \"is set five years later\" - conflicts with \"2 years after\" in the game article.",
+    "units": [
+      {
+        "id": "injustice-2",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Two years after the Regime's fall",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "Wikipedia: \"In the present, 2 years after the Regime's fall, Batman and his Insurgency are attempting to restore social order.\"",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-05-16",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: '''iOS''' WW May 9, 2017 | '''Android''' WW May 11, 2017 | '''PlayStation 4''', '''Xbox One''' NA May 16, 2017 | AU May 17, 2017 | EU May 19, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384932753",
+          "https://en.wikipedia.org/wiki/Injustice_2"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "injustice-gods-among-us",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-the-telltale-series",
+    "title": "Batman: The Telltale Series",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "telltale-batman",
+    "studio_brand": "telltale-games",
+    "label": null,
+    "platform_or_network": "playstation-4",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: The Telltale Series",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1360835999",
+      "https://en.wikipedia.org/wiki/Batman:_The_Telltale_Series"
+    ],
+    "notes": "Developer: Telltale Games. Publisher: Telltale Games. Platforms: PlayStation 4, Windows, Xbox One. Canon: \"The game's narrative offers a \"fresh interpretation of the universe set in current times, not tied to any existing iteration of Batman in games, film, or comics\", according to Telltale.\" Episodic (5 episodes, 2016); one unit per episode possible.",
+    "units": [
+      {
+        "id": "batman-the-telltale-series",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "A few years into Batman's career",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The game is set a few years after Wayne decides to become Batman\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-08-02",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: Episode 1 '''PlayStation 4''', '''Windows''', & '''Xbox One''' WW August 2, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1360835999",
+          "https://en.wikipedia.org/wiki/Batman:_The_Telltale_Series"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "batman-the-enemy-within",
+    "title": "Batman: The Enemy Within",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "telltale-batman",
+    "studio_brand": "telltale-games",
+    "label": null,
+    "platform_or_network": "macos",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Batman: The Enemy Within",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384316345",
+      "https://en.wikipedia.org/wiki/Batman:_The_Enemy_Within"
+    ],
+    "notes": "Developer: Telltale Games. Publisher: Telltale Games. Platforms: macOS, PlayStation 4, Windows, Xbox One, iOS, Android. Episodic (5 episodes). Article: \"set during the mid-to-late 2010s\".",
+    "units": [
+      {
+        "id": "batman-the-enemy-within",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "About a year after The Telltale Series",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"A year after defeating the Children of Arkham, Bruce Wayne witnesses the return of the Riddler to Gotham\"",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-08-08",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: Episode 1 WW August 8, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384316345",
+          "https://en.wikipedia.org/wiki/Batman:_The_Enemy_Within"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "batman-the-telltale-series",
+        "kind": "references",
+        "note": ""
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "gotham-knights-2022-game",
+    "title": "Gotham Knights",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "gotham-knights-game",
+    "studio_brand": "wb-games-montre-al",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Gotham Knights (video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1385489063",
+      "https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)"
+    ],
+    "notes": "Developer: WB Games Montréal. Publisher: Warner Bros. Games. Platforms: PlayStation 5, Windows, Xbox Series X/S. Same name as the 2023 TV series: titleLabel() gives [2022].",
+    "units": [
+      {
+        "id": "gotham-knights-2022-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the deaths of Batman and Commissioner Gordon (no year)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"Gotham Knights is set in Gotham City after the deaths of Bruce Wayne / Batman and Police Commissioner James Gordon\"",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-10-21",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: released = October 21, 2022"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1385489063",
+          "https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-batman-the-videogame",
+    "title": "Lego Batman: The Videogame",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "lego-dc-comics",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Batman: The Videogame",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388156926",
+      "https://en.wikipedia.org/wiki/Lego_Batman:_The_Videogame"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Interactive Entertainment. Platforms: Windows, DS, PS2, PS3, PSP, Wii, Xbox 360, Mac OS X.",
+    "units": [
+      {
+        "id": "lego-batman-the-videogame",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "No year given",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-09-23",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: {{vgrelease|NA|23 September 2008|EU|10 October 2008|AU|15 October 2008}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388156926",
+          "https://en.wikipedia.org/wiki/Lego_Batman:_The_Videogame"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-batman-2-dc-super-heroes",
+    "title": "Lego Batman 2: DC Super Heroes",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "lego-dc-comics",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Batman 2: DC Super Heroes",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388153392",
+      "https://en.wikipedia.org/wiki/Lego_Batman_2:_DC_Super_Heroes"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Interactive Entertainment. Platforms: Windows, PS3, Wii, Xbox 360, PS Vita, 3DS, DS; later OS X, Wii U, iOS, Android. Its film cut is already in data/dc as lego-batman-the-movie-dc-super-heroes-unite (lego-dc-comics); add a re-edit-of link.",
+    "units": [
+      {
+        "id": "lego-batman-2-dc-super-heroes",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "No year given",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-06-19",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: | {{Video game release|NA|June 19, 2012|EU|June 22, 2012|AU|June 27, 2012}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388153392",
+          "https://en.wikipedia.org/wiki/Lego_Batman_2:_DC_Super_Heroes"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-batman-3-beyond-gotham",
+    "title": "Lego Batman 3: Beyond Gotham",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "lego-dc-comics",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Batman 3: Beyond Gotham",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1388151626",
+      "https://en.wikipedia.org/wiki/Lego_Batman_3:_Beyond_Gotham"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Interactive Entertainment. Platforms: Windows, PS3, PS4, Wii U, Xbox 360, Xbox One, 3DS, PS Vita, OS X, iOS, Android.",
+    "units": [
+      {
+        "id": "lego-batman-3-beyond-gotham",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "No year given",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-11-11",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: '''Windows, PS3, PS4, Wii U, X360, XONE, 3DS, Vita'''|{{Video game release|NA|11 November 2014|EU|14 November 2014|AU|26 November 2014}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1388151626",
+          "https://en.wikipedia.org/wiki/Lego_Batman_3:_Beyond_Gotham"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-dc-super-villains",
+    "title": "Lego DC Super-Villains",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "lego-dc-comics",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "switch",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego DC Super-Villains",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1384333323",
+      "https://en.wikipedia.org/wiki/Lego_DC_Super-Villains"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Interactive Entertainment. Platforms: Switch, PS4, Windows, Xbox One, macOS.",
+    "units": [
+      {
+        "id": "lego-dc-super-villains",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "No year given",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-10-16",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: {{Video game release|NA|16 October 2018|WW|19 October 2018}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1384333323",
+          "https://en.wikipedia.org/wiki/Lego_DC_Super-Villains"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "lego-batman-legacy-of-the-dark-knight",
+    "title": "Lego Batman: Legacy of the Dark Knight",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "dc",
+    "continuity": "lego-dc-comics",
+    "studio_brand": "travellers-tales",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Lego Batman: Legacy of the Dark Knight",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387120867",
+      "https://en.wikipedia.org/wiki/Lego_Batman:_Legacy_of_the_Dark_Knight"
+    ],
+    "notes": "Developer: Traveller's Tales. Publisher: Warner Bros. Games. Platforms: PS5, Windows, Xbox Series X/S; Switch 2 (2026-09-18). A footnote named \"Deluxe\" is attached to the date (not read); it may mark early access for a deluxe edition, so the standard release date may differ.",
+    "units": [
+      {
+        "id": "lego-batman-legacy-of-the-dark-knight",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "No year given",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-05-22",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: {{ubl|'''PS5''', '''Windows''', '''Xbox Series&nbsp;X/S'''|May 22, 2026{{efn|name=Deluxe}}|'''Nintendo Switch 2'''|September 18, 2026}}"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387120867",
+          "https://en.wikipedia.org/wiki/Lego_Batman:_Legacy_of_the_Dark_Knight"
         ],
         "notes": ""
       }

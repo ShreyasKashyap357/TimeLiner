@@ -29,7 +29,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
         "as_of": "2026-11-27",
-        "note": "Backbone = release order, which sources 1, 3 and the StarTrek.com release option (source 0, option 2) follow; source 3 explicitly advises against chronological order for beginners. The guides place the three Kelvin-timeline films after Voyager and Enterprise; they are listed in the Kelvin continuity's own order, since timelines are never mixed here.",
+        "note": "Based on release order, which guides [2], [4] and the StarTrek.com release option ([1], option 2) follow; guide [4] explicitly advises against chronological order for beginners. The guides place the three Kelvin-timeline films after Voyager and Enterprise; they are listed in the Kelvin continuity's own order, since timelines are never mixed here.",
         "unit_ids": [
           "the-original-series-s1",
           "the-original-series-s2",
@@ -165,7 +165,7 @@
             "date": "2026-02-05"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "the-original-series-s1": [
             0,
@@ -668,7 +668,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.startrek.com/news/star-trek-viewing-order-guide",
         "as_of": "2026-11-27",
-        "note": "Backbone = release order, which sources 1, 3 and the StarTrek.com release option (source 0, option 2) follow; source 3 explicitly advises against chronological order for beginners.",
+        "note": "Based on release order, which guides [2], [4] and the StarTrek.com release option ([1], option 2) follow; guide [4] explicitly advises against chronological order for beginners.",
         "unit_ids": [
           "star-trek-2009",
           "star-trek-into-darkness",
@@ -712,7 +712,7 @@
             "date": "2026-02-05"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "star-trek-2009": [
             1,

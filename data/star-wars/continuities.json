@@ -11,6 +11,8 @@
       "before_label": "BBY",
       "after_label": "ABY",
       "has_year_zero": true,
+      "label_position": "after",
+      "pad": 0,
       "note": "Years before / after the Battle of Yavin (A New Hope). The battle year is shown as 0 ABY; there is no \"0 BBY\" in canon."
     },
     "branches": [
@@ -35,7 +37,7 @@
         "label": "Recommended for new viewers",
         "source_url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
         "as_of": "2026-11-27",
-        "note": "Backbone = release order, which sources 1, 2, 3 and 5 recommend for first-time viewers (source 4 dissents in favour of chronological).",
+        "note": "Based on release order, which guides [2], [3], [4] and [6] recommend for first-time viewers (guide [5] dissents in favour of chronological).",
         "unit_ids": [
           "a-new-hope",
           "the-empire-strikes-back",
@@ -138,7 +140,7 @@
             "date": "2026-03-30"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "criteria": "An entry is essential when at least two curated guides (guides that pick a subset for newcomers, or mark some entries optional) recommend it, and no guide calls it skippable. Later seasons, books or films of an essential series are essential too, because they continue the same story (guides written before they came out cannot list them). Everything else that at least one guide lists is optional.",
         "unit_sources": {
           "a-new-hope": [
             0,
@@ -541,7 +543,7 @@
   {
     "id": "sw-legends",
     "universe": "star-wars",
-    "name": "Star Wars Legends (screen)",
+    "name": "Star Wars Legends",
     "short_name": "Legends",
     "order": 2,
     "kind": "shared",
@@ -550,6 +552,8 @@
       "before_label": "BBY",
       "after_label": "ABY",
       "has_year_zero": true,
+      "label_position": "after",
+      "pad": 0,
       "note": "Years before / after the Battle of Yavin (A New Hope). The battle year is shown as 0 ABY; there is no \"0 BBY\" in canon."
     },
     "branches": [

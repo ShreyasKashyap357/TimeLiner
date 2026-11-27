@@ -11424,5 +11424,149 @@
     ],
     "credits": [],
     "constituents": []
+  },
+  {
+    "id": "kong-survivor-instinct",
+    "title": "Kong: Survivor Instinct",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "godzilla-kong",
+    "continuity": "monsterverse",
+    "studio_brand": "7levels-sa",
+    "label": null,
+    "platform_or_network": "windows",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Kong: Survivor Instinct",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1386055884",
+      "https://en.wikipedia.org/wiki/Kong:_Survivor_Instinct"
+    ],
+    "notes": "Developer: 7levels SA. Publisher: 7levels, 4Divinity. Platforms: Windows, PlayStation 5, Nintendo Switch, Xbox Series X. Canon: \"It is set within the continuity of the MonsterVerse franchise\" Placement not stated in Wikipedia; leave unplaced. Small indie title.",
+    "units": [
+      {
+        "id": "kong-survivor-instinct",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "No year given",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-10-24",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: It was released on October 24, 2024."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1386055884",
+          "https://en.wikipedia.org/wiki/Kong:_Survivor_Instinct"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "king-kong-2005-game",
+    "title": "Peter Jackson's King Kong: The Official Game of the Movie",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "godzilla-kong",
+    "continuity": "kong-standalone",
+    "studio_brand": "ubisoft-montpellier",
+    "label": null,
+    "platform_or_network": "gamecube",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "King Kong (2005 video game)",
+      "wikidata": null,
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?oldid=1387908037",
+      "https://en.wikipedia.org/wiki/King_Kong_(2005_video_game)"
+    ],
+    "notes": "Developer: Ubisoft Montpellier. Publisher: Ubisoft. Platforms: GameCube, PlayStation 2, Windows, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Mobile. Borderline film-adaptation game; include only if tie-ins are wanted. Title per memory; Wikipedia article title is \"King Kong (2005 video game)\".",
+    "units": [
+      {
+        "id": "king-kong-2005-game",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Standalone",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe placement in the sources.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-11-17",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: infobox title 17 November 2005 (Mobile NA 14 November 2005)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/w/index.php?oldid=1387908037",
+          "https://en.wikipedia.org/wiki/King_Kong_(2005_video_game)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "king-kong-2005",
+        "kind": "adapts",
+        "note": "film tie-in"
+      }
+    ],
+    "credits": [],
+    "constituents": []
   }
 ]

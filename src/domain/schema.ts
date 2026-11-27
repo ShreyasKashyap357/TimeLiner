@@ -202,6 +202,17 @@ export const Unit = z.object({
   source_keys: z.record(z.string(), z.string()).default({}),
   source_urls: z.array(url).default([]),
   notes: z.string().default(''),
+  /** TV: viewers per episode and season average (R-56), from Wikipedia episode tables. Absent/null = no figures. */
+  viewership: z.object({
+    measure: z.string(), // the source's column wording, e.g. "U.S. viewers (millions)"
+    country: z.string().nullable(),
+    episodes: z.array(z.object({ n: z.number().int(), title: z.string(), date: isoDate.nullable(), millions: z.number().nullable() })),
+    season_average: z.number().nullable(),
+    season_average_kind: z.enum(['stated', 'computed']).nullable(), // computed = mean of the episode figures
+    source_url: url,
+    average_source_url: url.nullable().default(null), // when the stated average comes from another page
+    note: z.string().default(''),
+  }).nullable().optional(), // optional, not default(null): older migrations build Unit literals without it
 });
 
 // 'adapts': this title adapts the linked one (e.g. a TV season adapts a novel). Adaptations stay separate continuities.

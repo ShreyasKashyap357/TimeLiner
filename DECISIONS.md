@@ -9,8 +9,9 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | # | Question | Default being used |
 |---|---|---|
 | D-66 | Games whose Wikipedia infobox gives one date for several platforms with no per-platform breakdown (e.g. Halo Infinite: Windows, Xbox One, Series X/S, "December 8, 2021"; about 40 games). Should that date be recorded for every listed platform, marked as inferred? | Not recorded: only dates the infobox places under a platform header are stored (R-52). The game keeps its single release date. |
-| D-67 | **Odd but sourced film figures.** Wikidata gives Dr. Who and the Daleks a worldwide gross of | D-66 | Games whose Wikipedia infobox gives one date for several platforms with no per-platform breakdown (e.g. Halo Infinite: Windows, Xbox One, Series X/S, "December 8, 2021"; about 40 games). Should that date be recorded for every listed platform, marked as inferred? | Not recorded: only dates the infobox places under a platform header are stored (R-52). The game keeps its single release date. |
-14,062, and a few limited releases show grosses of a few thousand dollars. Budgets given as ranges stay ranges (Endgame $356–400 million). Figures are not adjusted for inflation. | Shown as the source gives them, with the source wording in a tooltip. |
+| D-67 | **Odd but sourced film figures.** Wikidata gives Dr. Who and the Daleks a worldwide gross of $114,062, and a few limited releases show grosses of a few thousand dollars. Budgets given as ranges stay ranges (Endgame $356–400 million). Figures are not adjusted for inflation. | Shown as the source gives them, with the source wording in a tooltip. |
+| D-68 | TV viewership (R-56): units that are Doctor Who specials (Christmas/New Year specials and special runs) have no season number, so they get no figures, although the series articles list their viewers. Map them by episode title? | Not mapped; only numbered seasons get figures. |
+| D-69 | TV viewership: a two-part episode aired as one broadcast with one figure (e.g. the Smallville finale) shows that figure on both parts. Keep, or show it on the first part only? | Shown on both parts, as in the source row. |
 
 ## Resolved
 

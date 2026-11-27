@@ -14,6 +14,7 @@ import { SpoilerText } from './SpoilerText';
 import { Credits } from './Credits';
 import { PlatformReleases } from './PlatformReleases';
 import { FilmStats, filmStatSources, formatRuntime } from './FilmStats';
+import { Viewership } from './Viewership';
 import { doneVerb, releaseWord } from '@/domain/model';
 import { tierText, typeText } from '@/domain/labels';
 
@@ -141,6 +142,7 @@ export function DetailDrawer() {
                 )}
               </dl>
               <PlatformReleases releases={row.unit.platform_releases ?? []} cite={cite} />
+              <Viewership unit={row.unit} unitKey={row.key} cite={cite} />
 
               {row.title.constituents.length > 0 && (
                 <Section title={`Episodes in this crossover (${row.title.constituents.length})`}>

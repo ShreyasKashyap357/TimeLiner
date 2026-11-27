@@ -625,3 +625,24 @@ The research checked these wikis: Marvel Database, MCU Wiki, DC Database, DCEU W
 - **Citations:** every cameo shows its source as a link. `[Wikipedia]` points to the article revision; `[marvel fan wiki]` and the like point to the fan-wiki page revision.
 - **Totals on 2026-11-27:** 324 cameos, 241 via Wikipedia and 83 via fan wikis.
 - **Not covered:** TV cameos are recorded on episode pages, which were not fetched.
+
+## DC: classic and one-off titles (2026-11-27)
+
+130 titles were added by `scripts/migrations/2026-11-27-dc-classic-titles.ts`, which brings DC to 307 titles in about 90 continuities. Gaps were found by checking every entry in "List of films based on DC Comics publications" (rev 1387967845) and "List of television series based on DC Comics publications" (rev 1378836384) against the dataset, then reading each article.
+
+- **What was added:**
+  - **Serials:** all 10 (Captain Marvel, Spy Smasher, Batman 1943/1949, Superman 1948/1950 and others).
+  - **Live action, 1950s–2000s:** Superman and the Mole Men with Adventures of Superman; Batman '66 (series and film); Wonder Woman (1975–79); Shazam! and Isis; Swamp Thing (films and series); Superboy; The Flash (1990); Lois & Clark; Human Target (1992 and 2010); Birds of Prey (2002); Steel, Catwoman, Constantine (2005), Jonah Hex and Green Lantern; Powerless, Naomi and Gotham Knights.
+  - **Animation:** the 17 Fleischer/Famous Superman shorts (one title, each short dated); the Filmation shows; all 7 Super Friends series; The Batman (2004); Krypto; Legion of Super Heroes; Green Lantern: TAS; Batwheels and later shows; Lego DC films; Batman Ninja; and others.
+  - **DC imprint adaptations (D-47):** e.g. V for Vendetta, Stardust, The Sandman, Preacher, Sweet Tooth.
+- **Continuities:**
+  - Groupings with a source quote: Reeves Superman (Mole Men "subsequently edited into a two-part storyline"); Batman '66 (the film "takes place between the first and second seasons"); Super Friends (all 7 "considered … one continuous canon"); the serial pairs; Swamp Thing films; Batman Ninja; Batman Unlimited; Red; The Sandman with Dead Boy Detectives.
+  - Inferred groupings (D-46): Filmation 1960s, Lego DC films.
+  - Disputed, kept in the adjacent tier (D-48): the Batman '66 animated films, Swamp Thing (1990) as a continuation of the films, and the Aquaman (2006) pilot.
+  - Linked, never merged: The Flash (1990) to the Arrowverse (Earth-90); Green Lantern: TAS to Young Justice ("canon 'adjacent'"); Aquaman: King of Atlantis to Aquaman (2018); Krypto Saves the Day! to Superman (2025); the Aquaman pilot to Smallville.
+  - Everything else goes in "DC live action (standalone)" or "DC animation (other standalone)".
+- **Dates:** US release or first air dates from infoboxes and series overviews.
+  - Stamp Day for Superman has the year only (1954); Mole Men has the month only (1951-11).
+  - For Super Friends, the dates are from its episode-list overview (the infobox's last date counts reruns).
+- **Name clash:** the 1973 and 1980 "Super Friends" series use Wikipedia's disambiguated titles.
+- **Excluded:** the cancelled Batgirl film, six rerun or package shows, and a toy line. Not researched: motion comics, small web series, unaired pilots and unscripted shows.

@@ -1506,5 +1506,1701 @@
       "https://en.wikipedia.org/wiki/My_Adventures_with_Superman"
     ],
     "notes": ""
+  },
+  {
+    "id": "reeves-superman",
+    "universe": "dc",
+    "name": "George Reeves Superman (1951–1958)",
+    "short_name": "George Reeves Superman",
+    "order": 38,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The initial feature film, Superman and the Mole Men, was subsequently edited into a two-part storyline called \"The Unknown People\"\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Adventures_of_Superman_(TV_series)",
+      "https://en.wikipedia.org/wiki/Stamp_Day_for_Superman"
+    ],
+    "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
+  },
+  {
+    "id": "batman-66",
+    "universe": "dc",
+    "name": "Batman (1966 TV series and film)",
+    "short_name": "Batman",
+    "order": 39,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"takes place between the first and second seasons\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_(1966_film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "swamp-thing-films",
+    "universe": "dc",
+    "name": "Swamp Thing Films",
+    "short_name": "Swamp Thing Films",
+    "order": 40,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"it is a sequel to the 1982 film Swamp Thing\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Return_of_Swamp_Thing"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dc-live-action-standalone",
+    "universe": "dc",
+    "name": "DC live action (standalone films & series)",
+    "short_name": "DC live action",
+    "order": 41,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Steel is a 1997 American superhero film based on the DC Comics character of the same name.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Steel_(1997_film)",
+      "https://en.wikipedia.org/wiki/Catwoman_(film)",
+      "https://en.wikipedia.org/wiki/Constantine_(film)",
+      "https://en.wikipedia.org/wiki/Jonah_Hex_(film)",
+      "https://en.wikipedia.org/wiki/Green_Lantern_(film)",
+      "https://en.wikipedia.org/wiki/Adventures_of_Captain_Marvel",
+      "https://en.wikipedia.org/wiki/Spy_Smasher_(serial)",
+      "https://en.wikipedia.org/wiki/Hop_Harrigan_(serial)",
+      "https://en.wikipedia.org/wiki/The_Vigilante",
+      "https://en.wikipedia.org/wiki/Congo_Bill_(serial)",
+      "https://en.wikipedia.org/wiki/Blackhawk_(serial)",
+      "https://en.wikipedia.org/wiki/Wonder_Woman_(1974_film)",
+      "https://en.wikipedia.org/wiki/Justice_League_of_America_(film)",
+      "https://en.wikipedia.org/wiki/It's_a_Bird..._It's_a_Plane..._It's_Superman",
+      "https://en.wikipedia.org/wiki/Legends_of_the_Superheroes",
+      "https://en.wikipedia.org/wiki/Superman's_50th_Anniversary",
+      "https://en.wikipedia.org/wiki/Return_to_the_Batcave:_The_Misadventures_of_Adam_and_Burt",
+      "https://en.wikipedia.org/wiki/V_for_Vendetta_(film)",
+      "https://en.wikipedia.org/wiki/Stardust_(2007_film)",
+      "https://en.wikipedia.org/wiki/The_Losers_(2010_film)",
+      "https://en.wikipedia.org/wiki/The_Kitchen_(2019_film)",
+      "https://en.wikipedia.org/wiki/Road_to_Perdition",
+      "https://en.wikipedia.org/wiki/A_History_of_Violence",
+      "https://en.wikipedia.org/wiki/The_League_of_Extraordinary_Gentlemen_(film)",
+      "https://en.wikipedia.org/wiki/Up_the_Academy"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "columbia-batman-serials",
+    "universe": "dc",
+    "name": "Batman serials (Columbia, 1943–1949)",
+    "short_name": "Batman serials",
+    "order": 42,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It is a sequel to the 1943 serial Batman, although with different actors.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_and_Robin_(serial)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "kirk-alyn-superman-serials",
+    "universe": "dc",
+    "name": "Superman serials (Kirk Alyn, 1948–1950)",
+    "short_name": "Superman serials",
+    "order": 43,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Stader returned in the 1950 sequel serial Atom Man vs. Superman\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Superman_(serial)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fleischer-superman",
+    "universe": "dc",
+    "name": "Superman theatrical cartoons (1941–1943)",
+    "short_name": "Superman theatrical cartoons",
+    "order": 44,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Superman is a series of seventeen American animated superhero short films released in Technicolor by Paramount Pictures\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "shazam-isis-1970s",
+    "universe": "dc",
+    "name": "Shazam! / The Secrets of Isis (1970s)",
+    "short_name": "Shazam! / The Secrets of Isis",
+    "order": 45,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Three episodes of the series featured crossover appearances by Captain Marvel (of the show's companion series, Shazam!).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Secrets_of_Isis"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "wonder-woman-1975",
+    "universe": "dc",
+    "name": "Wonder Woman",
+    "short_name": "Wonder Woman",
+    "order": 46,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"This version of the character is exclusive to the continuity of the TV series Wonder Woman\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wonder_Woman_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "superboy-1988",
+    "universe": "dc",
+    "name": "Superboy",
+    "short_name": "Superboy",
+    "order": 47,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"set in the continuity of the Superboy television series, as opposed to the regular DC Universe\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Superboy_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "swamp-thing-1990",
+    "universe": "dc",
+    "name": "Swamp Thing",
+    "short_name": "Swamp Thing",
+    "order": 48,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Actor/stuntman Dick Durock, who played Swamp Thing in both films, reprised his role for the more serious-toned TV series\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Swamp_Thing_(1990_TV_series)"
+    ],
+    "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
+  },
+  {
+    "id": "flash-1990",
+    "universe": "dc",
+    "name": "The Flash",
+    "short_name": "The Flash",
+    "order": 49,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"which established The Flash as existing on a parallel Earth to the Arrowverse series called Earth-90\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Flash_(1990_TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "human-target-1992",
+    "universe": "dc",
+    "name": "Human Target",
+    "short_name": "Human Target",
+    "order": 50,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Human_Target_(1992_TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lois-and-clark",
+    "universe": "dc",
+    "name": "Lois & Clark: The New Adventures of Superman",
+    "short_name": "Lois & Clark: The New Adventures of Superman",
+    "order": 51,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lois_%26_Clark:_The_New_Adventures_of_Superman"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "birds-of-prey-2002",
+    "universe": "dc",
+    "name": "Birds of Prey",
+    "short_name": "Birds of Prey",
+    "order": 52,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"This show or a character from this show was made canon to the Arrowverse either retroactively or via a crossover event.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_television_series_based_on_DC_Comics_publications"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "human-target-2010",
+    "universe": "dc",
+    "name": "Human Target",
+    "short_name": "Human Target",
+    "order": 53,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Human_Target_(2010_TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "powerless",
+    "universe": "dc",
+    "name": "Powerless",
+    "short_name": "Powerless",
+    "order": 54,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The series is a sitcom set within the world of the DC Universe.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Powerless_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "naomi",
+    "universe": "dc",
+    "name": "Naomi",
+    "short_name": "Naomi",
+    "order": 55,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Naomi_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gotham-knights-2023",
+    "universe": "dc",
+    "name": "Gotham Knights",
+    "short_name": "Gotham Knights",
+    "order": 56,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gotham_Knights_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "filmation-dc-1960s",
+    "universe": "dc",
+    "name": "Filmation DC cartoons (1960s)",
+    "short_name": "Filmation DC cartoons",
+    "order": 57,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It is a 30-minute version of The Superman/Aquaman Hour of Adventure, repackaged without the Superman and Superboy segments.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aquaman_(TV_series)",
+      "https://en.wikipedia.org/wiki/The_New_Adventures_of_Superman_(TV_series)",
+      "https://en.wikipedia.org/wiki/The_Adventures_of_Batman"
+    ],
+    "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
+  },
+  {
+    "id": "super-friends",
+    "universe": "dc",
+    "name": "Super Friends (1973–1986)",
+    "short_name": "Super Friends",
+    "order": 58,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"were considered by their creators to be one continuous canon\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Super_Friends_episodes"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "filmation-batman-1977",
+    "universe": "dc",
+    "name": "The New Adventures of Batman",
+    "short_name": "The New Adventures of Batman",
+    "order": 59,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_New_Adventures_of_Batman"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "plastic-man-1979",
+    "universe": "dc",
+    "name": "The Plastic Man Comedy/Adventure Show",
+    "short_name": "The Plastic Man Comedy/Adventure Show",
+    "order": 60,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Plastic_Man_Comedy%2FAdventure_Show"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "kid-super-power-hour",
+    "universe": "dc",
+    "name": "The Kid Super Power Hour with Shazam!",
+    "short_name": "The Kid Super Power Hour with Shazam!",
+    "order": 61,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Kid_Super_Power_Hour_with_Shazam!"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "superman-1988-animated",
+    "universe": "dc",
+    "name": "Superman",
+    "short_name": "Superman",
+    "order": 62,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Superman_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "swamp-thing-1991-animated",
+    "universe": "dc",
+    "name": "Swamp Thing",
+    "short_name": "Swamp Thing",
+    "order": 63,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It does not share continuity with either the films or the live-action series.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Swamp_Thing_(1982_film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "the-batman-2004",
+    "universe": "dc",
+    "name": "The Batman 2004",
+    "short_name": "The Batman 2004",
+    "order": 64,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"but it remained within its own continuity\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Batman_(TV_series)",
+      "https://en.wikipedia.org/wiki/The_Batman_vs._Dracula"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "krypto-the-superdog",
+    "universe": "dc",
+    "name": "Krypto the Superdog",
+    "short_name": "Krypto the Superdog",
+    "order": 65,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Krypto_the_Superdog_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "legion-of-super-heroes-2006",
+    "universe": "dc",
+    "name": "Legion of Super Heroes",
+    "short_name": "Legion of Super Heroes",
+    "order": 66,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"In the second season, which takes place two years after the end of the first season\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Legion_of_Super_Heroes_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "green-lantern-tas",
+    "universe": "dc",
+    "name": "Green Lantern: The Animated Series",
+    "short_name": "Green Lantern: The Animated Series",
+    "order": 67,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Young Justice producer Greg Weisman stated that Green Lantern: The Animated Series is canon \"adjacent\" to Young Justice, meaning a similar but distinct version of events happened in both shows.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Green_Lantern:_The_Animated_Series"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "aquaman-king-of-atlantis",
+    "universe": "dc",
+    "name": "Aquaman: King of Atlantis",
+    "short_name": "Aquaman: King of Atlantis",
+    "order": 68,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It is set after the events of Wan's 2018 DC Extended Universe (DCEU) film Aquaman, but is not canonical to the DCEU.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aquaman:_King_of_Atlantis"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "suicide-squad-isekai",
+    "universe": "dc",
+    "name": "Suicide Squad Isekai",
+    "short_name": "Suicide Squad Isekai",
+    "order": 69,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Suicide_Squad_Isekai"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "batwheels",
+    "universe": "dc",
+    "name": "Batwheels",
+    "short_name": "Batwheels",
+    "order": 70,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batwheels"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "merry-little-batman",
+    "universe": "dc",
+    "name": "Merry Little Batman",
+    "short_name": "Merry Little Batman",
+    "order": 71,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The series is a follow-up to the film Merry Little Batman (2023).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bat-Fam"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "wildcats-1994",
+    "universe": "dc",
+    "name": "Wild C.A.T.s",
+    "short_name": "Wild C.A.T.s",
+    "order": 72,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wild_C.A.T.s"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dc-animated-other",
+    "universe": "dc",
+    "name": "DC animation (other standalone)",
+    "short_name": "DC animation",
+    "order": 73,
+    "kind": "standalone-collection",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"the first spin-off in The Lego Movie franchise and the second installment overall\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mad_(TV_series)",
+      "https://en.wikipedia.org/wiki/DC_Nation_Shorts",
+      "https://en.wikipedia.org/wiki/The_Lego_Batman_Movie",
+      "https://en.wikipedia.org/wiki/DC_League_of_Super-Pets",
+      "https://en.wikipedia.org/wiki/Superman:_Brainiac_Attacks",
+      "https://en.wikipedia.org/wiki/JLA_Adventures:_Trapped_in_Time",
+      "https://en.wikipedia.org/wiki/Batman_vs._Teenage_Mutant_Ninja_Turtles",
+      "https://en.wikipedia.org/wiki/Happy_Halloween,_Scooby-Doo!",
+      "https://en.wikipedia.org/wiki/Justice_League_x_RWBY:_Super_Heroes_%26_Huntsmen",
+      "https://en.wikipedia.org/wiki/Scooby-Doo!_and_Krypto,_Too!",
+      "https://en.wikipedia.org/wiki/Robot_Chicken_DC_Comics_Special",
+      "https://en.wikipedia.org/wiki/Robot_Chicken_DC_Comics_Special_2:_Villains_in_Paradise",
+      "https://en.wikipedia.org/wiki/Robot_Chicken_DC_Comics_Special_III:_Magical_Friendship"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "get-jiro",
+    "universe": "dc",
+    "name": "Get Jiro",
+    "short_name": "Get Jiro",
+    "order": 74,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Get_Jiro"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gods-and-monsters",
+    "universe": "dc",
+    "name": "Justice League: Gods and Monsters Chronicles",
+    "short_name": "Justice League: Gods and Monsters Chronicles",
+    "order": 75,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"This web series takes place in the alternate reality of Justice League: Gods and Monsters.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Justice_League:_Gods_and_Monsters_Chronicles"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "deathstroke-knights-and-dragons",
+    "universe": "dc",
+    "name": "Deathstroke: Knights & Dragons",
+    "short_name": "Deathstroke: Knights & Dragons",
+    "order": 76,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Initially released on January 6, 2020, as a web series on CW Seed\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Deathstroke:_Knights_%26_Dragons"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "krypto-saves-the-day",
+    "universe": "dc",
+    "name": "Krypto Saves the Day!",
+    "short_name": "Krypto Saves the Day!",
+    "order": 77,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Although James Gunn has stated that it is not canon to the DC Universe (DCU) series of films and television series, it was released as a follow-up to the film Superman (2025)\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Krypto_Saves_the_Day!"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "batman-unlimited",
+    "universe": "dc",
+    "name": "Batman Unlimited",
+    "short_name": "Batman Unlimited",
+    "order": 78,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"A web series began airing on DC Kids' YouTube channel on May 4, 2015.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_Unlimited",
+      "https://en.wikipedia.org/wiki/Batman_Unlimited:_Animal_Instincts",
+      "https://en.wikipedia.org/wiki/Batman_Unlimited:_Monster_Mayhem",
+      "https://en.wikipedia.org/wiki/Batman_Unlimited:_Mechs_vs._Mutants"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "lego-dc-comics",
+    "universe": "dc",
+    "name": "Lego DC Comics films",
+    "short_name": "Lego DC Comics films",
+    "order": 79,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"A direct-to-video film adaptation of the game was released by Warner Premiere on May 21, 2013, as Lego Batman: The Movie – DC Super Heroes Unite.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lego_Batman_2:_DC_Super_Heroes",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_Justice_League_vs._Bizarro_League",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_Justice_League_%E2%80%93_Attack_of_the_Legion_of_Doom",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_Justice_League_%E2%80%93_Cosmic_Clash",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_Justice_League_%E2%80%93_Gotham_City_Breakout",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_The_Flash",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_Aquaman_%E2%80%93_Rage_of_Atlantis",
+      "https://en.wikipedia.org/wiki/Lego_DC_Batman:_Family_Matters",
+      "https://en.wikipedia.org/wiki/Lego_DC_Shazam!_Magic_and_Monsters",
+      "https://en.wikipedia.org/wiki/Lego_DC_Comics_Super_Heroes:_Batman_Be-Leaguered"
+    ],
+    "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
+  },
+  {
+    "id": "batman-66-animated",
+    "universe": "dc",
+    "name": "Batman 66 Animated",
+    "short_name": "Batman 66 Animated",
+    "order": 80,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"not a continuation of the TV series that first brought Batman to our screens 50 years ago\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman:_Return_of_the_Caped_Crusaders",
+      "https://en.wikipedia.org/wiki/Batman_vs._Two-Face"
+    ],
+    "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
+  },
+  {
+    "id": "batman-ninja",
+    "universe": "dc",
+    "name": "Batman Ninja",
+    "short_name": "Batman Ninja",
+    "order": 81,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It is the sequel to Batman Ninja (2018)\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batman_Ninja_vs._Yakuza_League"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "red-films",
+    "universe": "dc",
+    "name": "Red Films",
+    "short_name": "Red Films",
+    "order": 82,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"It is the sequel to Red (2010).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Red_2_(film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "izombie",
+    "universe": "dc",
+    "name": "IZombie",
+    "short_name": "IZombie",
+    "order": 83,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/IZombie_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "preacher",
+    "universe": "dc",
+    "name": "Preacher",
+    "short_name": "Preacher",
+    "order": 84,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Preacher_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sweet-tooth",
+    "universe": "dc",
+    "name": "Sweet Tooth",
+    "short_name": "Sweet Tooth",
+    "order": 85,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sweet_Tooth_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "y-the-last-man",
+    "universe": "dc",
+    "name": "Y: The Last Man",
+    "short_name": "Y: The Last Man",
+    "order": 86,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Y:_The_Last_Man_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "dmz",
+    "universe": "dc",
+    "name": "DMZ",
+    "short_name": "DMZ",
+    "order": 87,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/DMZ_(miniseries)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sandman-netflix",
+    "universe": "dc",
+    "name": "Sandman Netflix",
+    "short_name": "Sandman Netflix",
+    "order": 88,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"Gaiman later confirmed the series is set in the same continuity as The Sandman\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dead_Boy_Detectives_(TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "bodies",
+    "universe": "dc",
+    "name": "Bodies",
+    "short_name": "Bodies",
+    "order": 89,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bodies_(2023_TV_series)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "aquaman-2006-pilot",
+    "universe": "dc",
+    "name": "Aquaman",
+    "short_name": "Aquaman",
+    "order": 90,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Wikipedia: \"The concept of Aquaman stemmed from a fifth season episode of Smallville, \"Aqua\".\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aquaman_(TV_pilot)"
+    ],
+    "notes": "Grouping inferred (see DATA_NOTES); no source states a shared continuity in words."
   }
 ]

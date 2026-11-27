@@ -68,3 +68,15 @@ describe('DC deferred titles (D-11)', () => {
     expect(ds.titles.some((t) => /-extra-\d+$/.test(t.id))).toBe(false);
   });
 });
+
+describe('DC classic titles', () => {
+  it('adds the classics in their own continuities, never merged', () => {
+    const t = (id: string) => ds.titles.find((x) => x.id === id);
+    expect(t('super-friends-1973')!.continuity).toBe('super-friends');
+    expect(ds.titles.filter((x) => x.continuity === 'super-friends').length).toBe(7);
+    expect(t('the-flash-2014')!.continuity).toBe('arrowverse');
+    const flash90 = ds.titles.find((x) => x.continuity === 'flash-1990')!;
+    expect(flash90.links.some((l) => l.to === 'the-flash-2014')).toBe(true);
+    expect(ds.titles.filter((x) => x.universe === 'dc').length).toBeGreaterThan(300);
+  });
+});

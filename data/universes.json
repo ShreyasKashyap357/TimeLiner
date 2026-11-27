@@ -1530,5 +1530,53 @@
     "data_dir": "dragon-ball",
     "description": "Dragon Ball, Z, Super and Daima with the canon films on the Age calendar; GT, the re-edits, the non-canon films and Dragonball Evolution separately.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "foundation",
+    "name": "Foundation",
+    "short_name": "Foundation",
+    "order": 57,
+    "enabled": true,
+    "accent": {
+      "primary": "#C9A227",
+      "secondary": "#2B4A7A"
+    },
+    "default_continuity": "foundation-asimov",
+    "grouping_schemes": [
+      {
+        "id": "series",
+        "label": "Series",
+        "parent_scheme": null,
+        "values": [
+          {
+            "id": "robot",
+            "label": "Robot",
+            "order": 1,
+            "parent": null
+          },
+          {
+            "id": "empire",
+            "label": "Galactic Empire",
+            "order": 2,
+            "parent": null
+          },
+          {
+            "id": "foundation",
+            "label": "Foundation",
+            "order": 3,
+            "parent": null
+          },
+          {
+            "id": "second-foundation-trilogy",
+            "label": "Second Foundation trilogy",
+            "order": 4,
+            "parent": null
+          }
+        ]
+      }
+    ],
+    "data_dir": "foundation",
+    "description": "Isaac Asimov's Robot, Galactic Empire and Foundation books (one universe, as Asimov merged them), the authorized Second Foundation trilogy, the Apple TV+ series and the 1973 BBC radio serial.",
+    "last_verified": "2026-11-27"
   }
 ]

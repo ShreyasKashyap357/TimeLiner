@@ -838,3 +838,9 @@ Same pipeline and rules as Wave 2. The judgement calls:
 - **Ultraman, Kamen Rider, Super Sentai:** one unit per series.
   - **Shared continuities, only where Wikipedia states one:** Showa Ultraman and Showa Kamen Rider; Tiga + Dyna; Kuuga + Agito; Denjiman + Sun Vulcan; Power Rangers through Cosmic Fury.
   - **Links:** each Power Rangers season adapts its Super Sentai source.
+- **Foundation.**
+  - **One continuity for the books:** the Robot, Galactic Empire and Foundation books are one universe ("Asimov merged the Robot series with his Foundation series"). The estate-authorised Second Foundation trilogy (Benford, Bear, Brin) is placed by the Foundation universe article's statements.
+  - **Years:** book years come from a fan chronology cited on Wikipedia in a section tagged as original research, so they are inferred. Several are disputed against Asimov's own estimate. Asimov's G.E./F.E. dates are in the labels.
+  - **Separate continuities:** the Apple TV+ series ("pretty much unrecognizable" from the books, with its own E.I. calendar) and the 1973 BBC Radio 4 serial.
+- **Game release dates, shared (D-66).** 31 more games have per-platform dates, but only where the article text names the platforms for a date ("released worldwide on October 25, 2013, for the PlayStation 3, Wii U, Windows, and Xbox 360"). Thirteen games stay empty because no sentence ties their dates to platforms.
+- **Doctor Who specials' viewers (D-68).** Eight specials are matched by air date to the episode tables in the series articles. A unit is filled only if the row count equals its episode count.

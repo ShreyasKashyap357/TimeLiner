@@ -12,6 +12,7 @@ import { ConfidenceBadge } from './Badges';
 import { RowMarker, markerMeaning } from './Marker';
 import { SpoilerText } from './SpoilerText';
 import { Credits } from './Credits';
+import { Viewership } from './Viewership';
 import { doneVerb, releaseWord } from '@/domain/model';
 
 function Field({ k, children }: { k: string; children: React.ReactNode }) {
@@ -134,6 +135,7 @@ export function DetailDrawer() {
                   <Field k="Grouping">{Object.values(row.unit.groupings).filter(Boolean).map((v) => label.grouping(v!)).join(' · ')}</Field>
                 )}
               </dl>
+              <Viewership unit={row.unit} unitKey={row.key} cite={cite} />
 
               {row.title.constituents.length > 0 && (
                 <Section title={`Episodes in this crossover (${row.title.constituents.length})`}>

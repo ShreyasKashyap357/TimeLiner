@@ -38,6 +38,13 @@ export function Legend({ rows }: { rows: Row[] }) {
           {cal.note && <span className="text-muted-foreground"> {cal.note}</span>}
         </p>
       )}
+      {cal?.kind === 'ages' && (
+        <p className="mt-3 border-l-2 pl-3 text-sm" style={{ borderColor: 'var(--u-secondary)' }} data-testid="calendar-note">
+          <strong className="font-semibold">Calendar (Ages):</strong>{' '}
+          {cal.ages.map((a) => `${a.label} = ${a.name}${a.length ? ` (${a.length} years)` : ''}`).join('; ')}. Each Age counts its years from 1.
+          {cal.note && <span className="text-muted-foreground"> {cal.note}</span>}
+        </p>
+      )}
       <p className="mt-2 text-xs text-muted-foreground">Shapes, not just colours, distinguish branches and tiers. Hollow shapes have no fixed point; ▲ marks adjacent-tier titles.</p>
     </section>
   );

@@ -11,6 +11,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | D-35 | **Cameo sources.** Cameos come from the Wikipedia article text (sentences about a cameo, matched only to people already in the cast list). You asked for the fan wikis to be checked as well, with clear citations. | In progress: fan-wiki cameo markers are being collected; each cameo will show which source marked it. |
 | D-40 | **Riordan books: story order only, no calendar.** Riordan says there is "no specific year or timeline"; the Riordan Wiki's 2006–2011 years are fan-derived. | Story order (wiki Timeline); fan years shown in labels as "(fan-dated)", rated inferred. |
 | D-41 | **Riordan scope.** Left out: Demigods of Olympus (an interactive ebook with no timeline place), the graphic novels, the musical and the game. The Demigod Files / Diaries are one entry each, though their stories sit at different points. | As listed. Say if you want graphic novels or per-story entries. |
+| D-42 | **Middle-earth calendar: Tolkien's Ages.** A new calendar type shows "F.A./S.A./T.A./Fo.A. year". The Fourth Age starts after T.A. 3021. | Applied. Each production (books, Jackson films, Rings of Power, Rankin/Bass, Bakshi, Soviet and Finnish TV) is its own continuity. |
+| D-43 | **Radio dramas.** BBC radio's The Lord of the Rings (1955–56, 1981) and The Hobbit (1968) need a new "radio" medium. | Not added yet. Say if you want radio and audio dramas as a medium (it would also cover Star Wars, Doctor Who-style audio). |
 
 ## Resolved
 

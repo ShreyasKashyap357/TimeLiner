@@ -45,7 +45,7 @@
 - [x] Stage 6: Star Wars (Canon / Legends / Visions / LEGO, BBY/ABY calendar)
 - [x] Stage 7: Star Trek (Prime / Kelvin / non-canon)
 - [ ] Stage 8: Terminator, Halloween (branching / reboot timelines)
-- [ ] Stage 9: Wizarding World, Middle-earth
+- [ ] Stage 9: Wizarding World (Middle-earth done)
 - [ ] Stage 10: Indian universes (YRF Spy, LCU, Maddock Horror Comedy, Cop Universe)
 - [ ] Stage 11: Hollywood batch (Alien & Predator, Conjuring, Jurassic, Apes, F&F, M:I, John Wick, Bond, Transformers, Ghostbusters, Indiana Jones, Rocky/Creed, Matrix, Mad Max, Avatar)
 - [ ] Stage 12: other superhero (The Boys, Spider-Verse, Invincible, Hellboy)

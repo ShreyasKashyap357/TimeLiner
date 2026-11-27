@@ -1,0 +1,5671 @@
+[
+  {
+    "id": "the-hobbit",
+    "title": "The Hobbit",
+    "sort_title": "Hobbit",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "bilbo",
+      "gandalf"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Hobbit",
+      "wikidata": "Q74287",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Hobbit",
+      "https://en.wikipedia.org/wiki/History_of_Arda"
+    ],
+    "notes": "US: Houghton Mifflin, no exact date in the article: \"Houghton Mifflin of Boston and New York reset type for an American edition, to be released early in 1938\". Pages are the first edition.",
+    "units": [
+      {
+        "id": "the-hobbit",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 310,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 6972
+          },
+          "label": "T.A. 2941",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "History of Arda: \"The main events of ''The Hobbit'' occur in {{ME-date|TA|2941}}.\" (cites Tolkien, Appendix B \"The Third Age\")",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1937-09-21",
+          "end_date": null,
+          "year": 1937,
+          "note": "Wikipedia: Infobox: \"|publisher = [[George Allen & Unwin]] (UK) |publication_date = 21 September 1937 |pages = 310 (first edition)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Hobbit",
+          "https://en.wikipedia.org/wiki/History_of_Arda"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-fellowship-of-the-ring",
+    "title": "The Fellowship of the Ring",
+    "sort_title": "Fellowship of the Ring",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Fellowship of the Ring",
+      "wikidata": "Q208002",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+      "https://lotr.fandom.com/wiki/TA_3001",
+      "https://lotr.fandom.com/wiki/Breaking_of_the_Fellowship",
+      "https://lotr.fandom.com/wiki/TA_3018"
+    ],
+    "notes": "US first publication (Houghton Mifflin): 1954-10-21. LOTR article: \"In the United States, Houghton Mifflin published The Fellowship of the Ring on 21 October 1954, The Two Towers on 21 April 1955, and The Return of the King on 5 January 1956.\" Book I opens with the party (3001); 17-year gap to 3018.",
+    "units": [
+      {
+        "id": "the-fellowship-of-the-ring",
+        "label": "Volume",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 423,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7032
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3001–3019",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"TA 3001\": \"September 22: Bilbo's Farewell Birthday Party is held.\" LOTR Fandom \"Breaking of the Fellowship\": \"Dated at February 26, 3019, it occurred at the end of The Fellowship of the Ring and at the very beginning of The Two Towers\". Main journey starts T.A. 3018 (Fandom \"TA 3018\": \"April 12: Gandalf tells Frodo that he must leave the Shire\").",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1954-07-29",
+          "end_date": null,
+          "year": 1954,
+          "note": "Wikipedia: Infobox: \"|publisher = [[George Allen & Unwin]] |publication_date = 29 July 1954 |pages = 423 (first edition)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+          "https://lotr.fandom.com/wiki/TA_3001",
+          "https://lotr.fandom.com/wiki/Breaking_of_the_Fellowship",
+          "https://lotr.fandom.com/wiki/TA_3018"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-two-towers",
+    "title": "The Two Towers",
+    "sort_title": "Two Towers",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Two Towers",
+      "wikidata": "Q332388",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Two_Towers",
+      "https://lotr.fandom.com/wiki/Breaking_of_the_Fellowship",
+      "https://lotr.fandom.com/wiki/War_of_the_Ring"
+    ],
+    "notes": "US first publication (Houghton Mifflin): 1955-04-21. LOTR article: \"In the United States, Houghton Mifflin published The Fellowship of the Ring on 21 October 1954, The Two Towers on 21 April 1955, and The Return of the King on 5 January 1956.\"",
+    "units": [
+      {
+        "id": "the-two-towers",
+        "label": "Volume",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 352,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7050
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3019",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"Breaking of the Fellowship\": \"Dated at February 26, 3019, it occurred at the end of The Fellowship of the Ring and at the very beginning of The Two Towers\". War of the Ring infobox: \"date = February - November TA 3019\".",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1954-11-11",
+          "end_date": null,
+          "year": 1954,
+          "note": "Wikipedia: Infobox: \"|publication_date = 11 November 1954 |pages = 352 (first edition)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Two_Towers",
+          "https://lotr.fandom.com/wiki/Breaking_of_the_Fellowship",
+          "https://lotr.fandom.com/wiki/War_of_the_Ring"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-return-of-the-king",
+    "title": "The Return of the King",
+    "sort_title": "Return of the King",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Return of the King",
+      "wikidata": "Q332581",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Return_of_the_King",
+      "https://lotr.fandom.com/wiki/Battle_of_the_Pelennor_Fields",
+      "https://lotr.fandom.com/wiki/TA_3021",
+      "https://en.wikipedia.org/wiki/History_of_Arda"
+    ],
+    "notes": "US first publication (Houghton Mifflin): 1956-01-05. LOTR article: \"In the United States, Houghton Mifflin published The Fellowship of the Ring on 21 October 1954, The Two Towers on 21 April 1955, and The Return of the King on 5 January 1956.\" Includes the Appendices (Tale of Years = the source for most T.A. dates).",
+    "units": [
+      {
+        "id": "the-return-of-the-king",
+        "label": "Volume",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 416,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7050
+          },
+          "end": {
+            "y": 7052
+          },
+          "label": "T.A. 3019–3021",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"Battle of the Pelennor Fields\": \"date= March 15, TA 3019\". LOTR Fandom \"TA 3021\": \"September 29: Departure of the Ring-bearers ... The Third Age ends.\" Wikipedia History of Arda: \"As the age ends, Gandalf, Frodo and Bilbo Baggins ... sail from the Grey Havens\".",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1955-10-20",
+          "end_date": null,
+          "year": 1955,
+          "note": "Wikipedia: Infobox: \"|publication_date = 20 October 1955 |pages = 416 (first edition)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Return_of_the_King",
+          "https://lotr.fandom.com/wiki/Battle_of_the_Pelennor_Fields",
+          "https://lotr.fandom.com/wiki/TA_3021",
+          "https://en.wikipedia.org/wiki/History_of_Arda"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-silmarillion",
+    "title": "The Silmarillion",
+    "sort_title": "Silmarillion",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Silmarillion",
+      "wikidata": "Q79762",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Silmarillion",
+      "https://en.wikipedia.org/wiki/History_of_Arda"
+    ],
+    "notes": "Edited by Christopher Tolkien (with Guy Gavriel Kay); posthumous. Spans all ages; place first (relative, precision \"relative\"). No US date in article. Five parts: Ainulindalë, Valaquenta, Quenta Silmarillion, Akallabêth, Of the Rings of Power and the Third Age.",
+    "units": [
+      {
+        "id": "the-silmarillion",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 365,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Creation of the world to the end of the Third Age (mainly the First Age)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "History of Arda table row: \"First Age (cont'd) || 590 || '''''Quenta Silmarillion'''''\"; and \"The events of the ensuing War of the Ring leading to the end of the Third Age is the subject of The Lord of the Rings, and summarized in ''Of the Rings of Power and the Third Age''\".",
+          "order_index": 90,
+          "relative_to": {
+            "after": "the-return-of-the-king",
+            "before": "unfinished-tales"
+          }
+        },
+        "release": {
+          "date": "1977-09-15",
+          "end_date": null,
+          "year": 1977,
+          "note": "Wikipedia: Infobox: \"|publisher = [[George Allen & Unwin]] (UK) |publication_date = 15 September 1977 |pages = 365\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Silmarillion",
+          "https://en.wikipedia.org/wiki/History_of_Arda"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "unfinished-tales",
+    "title": "Unfinished Tales",
+    "sort_title": null,
+    "type": "anthology",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Unfinished Tales",
+      "wikidata": "Q309019",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Unfinished_Tales",
+      "https://en.wikipedia.org/wiki/Unfinished_Tales"
+    ],
+    "notes": "Full title \"Unfinished Tales of Númenor and Middle-earth\". Year only; no day or page count in the article (gap).",
+    "units": [
+      {
+        "id": "unfinished-tales",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "First, Second and Third Ages (collection)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Lead: \"Many of the tales within are retold in The Silmarillion ... the work also contains a summary of the events of The Lord of the Rings told from a less personal point of view\".",
+          "order_index": 100,
+          "relative_to": {
+            "after": "the-silmarillion",
+            "before": "the-history-of-middle-earth-the-book-of-lost-tales-1"
+          }
+        },
+        "release": {
+          "date": "1980",
+          "end_date": null,
+          "year": 1980,
+          "note": "Wikipedia: Infobox: \"|publisher = [[George Allen & Unwin]] |publication_date = 1980 |pages = \" (blank). Lead: \"edited by his son Christopher Tolkien and published in 1980\"."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Unfinished_Tales"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-history-of-middle-earth",
+    "title": "The History of Middle-earth",
+    "sort_title": "History of Middle-earth",
+    "type": "reference",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "george-allen-unwin",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "adjacent",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The History of Middle-earth",
+      "wikidata": "Q334750",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_History_of_Middle-earth",
+      "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+    ],
+    "notes": "12-volume series of drafts edited by Christopher Tolkien; infobox publisher \"George Allen & Unwin (UK) / Houghton Mifflin (US)\". Non-narrative: recommend tier adjacent, one title with 12 units. Volume years only (no days/pages per volume).",
+    "units": [
+      {
+        "id": "the-history-of-middle-earth-the-book-of-lost-tales-1",
+        "label": "1. The Book of Lost Tales, Part I",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 110,
+          "relative_to": {
+            "after": "unfinished-tales",
+            "before": "the-history-of-middle-earth-the-book-of-lost-tales-2"
+          }
+        },
+        "release": {
+          "date": "1983",
+          "end_date": null,
+          "year": 1983,
+          "note": "Wikipedia: Volumes table: \"1. ''The Book of Lost Tales, Part I'' (1983)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-book-of-lost-tales-2",
+        "label": "2. The Book of Lost Tales, Part II",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 120,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-book-of-lost-tales-1",
+            "before": "the-history-of-middle-earth-the-lays-of-beleriand"
+          }
+        },
+        "release": {
+          "date": "1984",
+          "end_date": null,
+          "year": 1984,
+          "note": "Wikipedia: Volumes table: \"2. ''The Book of Lost Tales, Part II'' (1984)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-lays-of-beleriand",
+        "label": "3. The Lays of Beleriand",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 130,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-book-of-lost-tales-2",
+            "before": "the-history-of-middle-earth-the-shaping-of-middle-earth"
+          }
+        },
+        "release": {
+          "date": "1985",
+          "end_date": null,
+          "year": 1985,
+          "note": "Wikipedia: Volumes table: \"3. ''The Lays of Beleriand'' (1985)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-shaping-of-middle-earth",
+        "label": "4. The Shaping of Middle-earth",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 140,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-lays-of-beleriand",
+            "before": "the-history-of-middle-earth-the-lost-road"
+          }
+        },
+        "release": {
+          "date": "1986",
+          "end_date": null,
+          "year": 1986,
+          "note": "Wikipedia: Volumes table: \"4. ''The Shaping of Middle-earth'' (1986)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-lost-road",
+        "label": "5. The Lost Road and Other Writings",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 150,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-shaping-of-middle-earth",
+            "before": "the-history-of-middle-earth-the-return-of-the-shadow"
+          }
+        },
+        "release": {
+          "date": "1987",
+          "end_date": null,
+          "year": 1987,
+          "note": "Wikipedia: Volumes table: \"5. ''The Lost Road and Other Writings'' (1987)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-return-of-the-shadow",
+        "label": "6. The Return of the Shadow",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 160,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-lost-road",
+            "before": "the-history-of-middle-earth-the-treason-of-isengard"
+          }
+        },
+        "release": {
+          "date": "1988",
+          "end_date": null,
+          "year": 1988,
+          "note": "Wikipedia: Volumes table: \"6. ''The Return of the Shadow'' (1988)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-treason-of-isengard",
+        "label": "7. The Treason of Isengard",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 170,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-return-of-the-shadow",
+            "before": "the-history-of-middle-earth-the-war-of-the-ring"
+          }
+        },
+        "release": {
+          "date": "1989",
+          "end_date": null,
+          "year": 1989,
+          "note": "Wikipedia: Volumes table: \"7. ''The Treason of Isengard'' (1989)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-war-of-the-ring",
+        "label": "8. The War of the Ring",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 180,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-treason-of-isengard",
+            "before": "the-history-of-middle-earth-sauron-defeated"
+          }
+        },
+        "release": {
+          "date": "1990",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: Volumes table: \"8. ''The War of the Ring'' (1990)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-sauron-defeated",
+        "label": "9. Sauron Defeated",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 190,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-war-of-the-ring",
+            "before": "the-history-of-middle-earth-morgoths-ring"
+          }
+        },
+        "release": {
+          "date": "1992",
+          "end_date": null,
+          "year": 1992,
+          "note": "Wikipedia: Volumes table: \"9. ''Sauron Defeated'' (1992)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-morgoths-ring",
+        "label": "10. Morgoth's Ring",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 200,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-sauron-defeated",
+            "before": "the-history-of-middle-earth-the-war-of-the-jewels"
+          }
+        },
+        "release": {
+          "date": "1993",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: Volumes table: \"10. ''Morgoth's Ring'' (1993)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-war-of-the-jewels",
+        "label": "11. The War of the Jewels",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 210,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-morgoths-ring",
+            "before": "the-history-of-middle-earth-the-peoples-of-middle-earth"
+          }
+        },
+        "release": {
+          "date": "1994",
+          "end_date": null,
+          "year": 1994,
+          "note": "Wikipedia: Volumes table: \"11. ''The War of the Jewels'' (1994)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-history-of-middle-earth-the-peoples-of-middle-earth",
+        "label": "12. The Peoples of Middle-earth",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Drafts and commentary (no placement)",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Infobox: \"|editor = [[Christopher Tolkien]] |publication_date = 1983 to 1996 |pages = 12 volumes\"",
+          "order_index": 220,
+          "relative_to": {
+            "after": "the-history-of-middle-earth-the-war-of-the-jewels",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "1996",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: Volumes table: \"12. ''The Peoples of Middle-earth'' (1996)\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_History_of_Middle-earth"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-children-of-hurin",
+    "title": "The Children of Húrin",
+    "sort_title": "Children of Húrin",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "harpercollins",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Children of Húrin",
+      "wikidata": "Q331651",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin",
+      "https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin",
+      "https://lotr.fandom.com/wiki/T%C3%BArin"
+    ],
+    "notes": "Edited by Christopher Tolkien; illustrated by Alan Lee. One date for UK/US in infobox.",
+    "units": [
+      {
+        "id": "the-children-of-hurin",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 320,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 464
+          },
+          "end": {
+            "y": 499
+          },
+          "label": "F.A. 464–499 (Túrin's life)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"one of Tolkien's three 'great tales' set in the First Age\". LOTR Fandom \"Túrin\": \"birth = FA 464 ... death = FA 499 (aged 35)\".",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-04-17",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: Infobox: \"|publisher = HarperCollins (UK) * Houghton Mifflin (US) |publication_date = 17 April 2007 |pages = 320\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin",
+          "https://lotr.fandom.com/wiki/T%C3%BArin"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "beren-and-luthien",
+    "title": "Beren and Lúthien",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "harpercollins",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Beren and Lúthien",
+      "wikidata": "Q4355253",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beren_and_L%C3%BAthien",
+      "https://lotr.fandom.com/wiki/Quest_for_the_Silmaril"
+    ],
+    "notes": "Compilation of versions of the tale, ed. Christopher Tolkien. Day not in article text; 2017-06-01 is the date of the cited BBC report of publication (usable with a note).",
+    "units": [
+      {
+        "id": "beren-and-luthien",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 297,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 464
+          },
+          "end": {
+            "y": 466
+          },
+          "label": "F.A. 464–466 (Quest for the Silmaril)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"Quest for the Silmaril\": \"date=FA 464 - FA 466\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: Infobox: \"|publisher = HarperCollins (UK) * Houghton Mifflin (US) |published = 2017 |pages = 297\". Cited BBC News piece \"JRR Tolkien book Beren and Lúthien published after 100 years\" is dated 1 June 2017."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Beren_and_L%C3%BAthien",
+          "https://lotr.fandom.com/wiki/Quest_for_the_Silmaril"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-fall-of-gondolin",
+    "title": "The Fall of Gondolin",
+    "sort_title": "Fall of Gondolin",
+    "type": "novel",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "harpercollins",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Fall of Gondolin",
+      "wikidata": "Q340515",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Fall_of_Gondolin",
+      "https://lotr.fandom.com/wiki/Fall_of_Gondolin"
+    ],
+    "notes": "Last of the three Great Tales. Day not in article text; 2018-08-30 is the cited Tolkien Society publication notice date.",
+    "units": [
+      {
+        "id": "the-fall-of-gondolin",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 304,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 510
+          },
+          "end": {
+            "y": 510
+          },
+          "label": "F.A. 510",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"Fall of Gondolin\": \"|date= [[FA 510]] |result = The demise of the city of Gondolin and death of Turgon\".",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: Infobox: \"|publisher = HarperCollins (UK) * Houghton Mifflin (US) |published = 2018 |pages = 304\". Cited Tolkien Society post \"The Fall of Gondolin published\" is dated 30 August 2018."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Fall_of_Gondolin",
+          "https://lotr.fandom.com/wiki/Fall_of_Gondolin"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-fall-of-numenor",
+    "title": "The Fall of Númenor",
+    "sort_title": "Fall of Númenor",
+    "type": "anthology",
+    "universe": "middle-earth",
+    "continuity": "me-legendarium",
+    "studio_brand": "harpercollins",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [
+      "galadriel",
+      "sauron"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Fall of Númenor",
+      "wikidata": "Q112731328",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Fall_of_N%C3%BAmenor",
+      "https://en.wikipedia.org/wiki/The_Fall_of_N%C3%BAmenor",
+      "https://en.wikipedia.org/wiki/History_of_Arda",
+      "https://lotr.fandom.com/wiki/Downfall_of_N%C3%BAmenor"
+    ],
+    "notes": "Edited by Brian Sibley, illustrated by Alan Lee. Full title \"The Fall of Númenor: And Other Tales from the Second Age of Middle-Earth\". No US date given.",
+    "units": [
+      {
+        "id": "the-fall-of-numenor",
+        "label": "Book",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 332,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 591
+          },
+          "end": {
+            "y": 4031
+          },
+          "label": "Second Age (S.A. 1–3441)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Lead: \"an edited 2022 collection of J. R. R. Tolkien's Second Age writings ... uses extracts from 'The Tale of Years' ... as a framework\". History of Arda table: \"Second Age || 3,441\". LOTR Fandom \"Downfall of Númenor\": \"the island's destruction ... in SA 3319\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-11-15",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: Infobox: \"|publisher = [[HarperCollins]] |published = 15 November 2022 |pages = 332\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Fall_of_N%C3%BAmenor",
+          "https://en.wikipedia.org/wiki/History_of_Arda",
+          "https://lotr.fandom.com/wiki/Downfall_of_N%C3%BAmenor"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "lotr-the-fellowship-of-the-ring",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "sort_title": "Lord of the Rings: The Fellowship of the Ring",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Fellowship of the Ring",
+      "wikidata": "Q127367",
+      "tmdb": "120",
+      "imdb": "tt0120737"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring"
+    ],
+    "notes": "US release used; premiere 2001-12-10 (London). Extended edition: \"On 12 November 2002, an extended edition was released on VHS and DVD, with 30 minutes of new material ... totalling 228 minutes.\" Film compresses the 17-year gap between party and departure.",
+    "units": [
+      {
+        "id": "lotr-the-fellowship-of-the-ring",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 178,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7032
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "Prologue in the Second Age; main story T.A. 3001–3019",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Plot: \"In the Second Age of Middle-earth, the lords of Elves, Dwarves, and Men each receive Rings of Power ... marking the beginning of the Third Age.\" Years follow the novel (see the-fellowship-of-the-ring); the film states no year.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-12-19",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|df=yes|2001|12|10|[[Odeon Leicester Square]]|2001|12|19|United States|2001|12|20|New Zealand}} | runtime = 178 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Barrie M. Osborne",
+        "qid": "Q808917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Tim Sanders",
+        "qid": "Q22676727",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Mark Ordesky",
+        "qid": "Q421488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Harvey Weinstein",
+        "qid": "Q531599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Michael Lynne",
+        "qid": "Q6832375",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bob Weinstein",
+        "qid": "Q888311",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Howard Shore",
+        "qid": "Q207773",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elijah Wood",
+        "qid": "Q483771",
+        "character": "Frodo Baggins",
+        "character_qid": "Q177329",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Liv Tyler",
+        "qid": "Q168763",
+        "character": "Arwen",
+        "character_qid": "Q206018",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Viggo Mortensen",
+        "qid": "Q171363",
+        "character": "Aragorn",
+        "character_qid": "Q180322",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Astin",
+        "qid": "Q189351",
+        "character": "Samwise Gamgee",
+        "character_qid": "Q219473",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cate Blanchett",
+        "qid": "Q80966",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Rhys-Davies",
+        "qid": "Q16455",
+        "character": "Gimli",
+        "character_qid": "Q206818",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy Boyd",
+        "qid": "Q276425",
+        "character": "Peregrin Took",
+        "character_qid": "Q219493",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dominic Monaghan",
+        "qid": "Q152165",
+        "character": "Meriadoc Brandybuck",
+        "character_qid": "Q219498",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orlando Bloom",
+        "qid": "Q44467",
+        "character": "Legolas",
+        "character_qid": "Q213480",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Lee",
+        "qid": "Q180338",
+        "character": "Saruman",
+        "character_qid": "Q216489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hugo Weaving",
+        "qid": "Q42204",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Bean",
+        "qid": "Q191104",
+        "character": "Boromir",
+        "character_qid": "Q219504",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Holm",
+        "qid": "Q223091",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andy Serkis",
+        "qid": "Q206922",
+        "character": "Gollum",
+        "character_qid": "Q15007",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Ferguson",
+        "qid": "Q3390514",
+        "character": "Gil-galad",
+        "character_qid": "Q718383",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Makoare",
+        "qid": "Q737607",
+        "character": "Lurtz",
+        "character_qid": "Q914895",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Harry Sinclair",
+        "qid": "Q3330820",
+        "character": "Isildur",
+        "character_qid": "Q206324",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sarah McLeod",
+        "qid": "Q270878",
+        "character": "Rose Cotton",
+        "character_qid": "Q7476340",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marton Csokas",
+        "qid": "Q315118",
+        "character": "Celeborn",
+        "character_qid": "Q719208",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Craig Parker",
+        "qid": "Q469179",
+        "character": "Haldir",
+        "character_qid": "Q1032885",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter McKenzie",
+        "qid": "Q3390280",
+        "character": "Elendil",
+        "character_qid": "Q719736",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Mune",
+        "qid": "Q1655613",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elizabeth Moody",
+        "qid": "Q5363234",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bret McKenzie",
+        "qid": "Q910486",
+        "character": "Figwit",
+        "character_qid": "Q7464559",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sala Baker",
+        "qid": "Q1388807",
+        "character": "Sauron",
+        "character_qid": "Q2281",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alan Howard",
+        "qid": "Q339083",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Shane Rangi",
+        "qid": "Q326323",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Weatherley",
+        "qid": "Q2598175",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bill Johnson",
+        "qid": "Q30717048",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "lotr-the-two-towers",
+    "title": "The Lord of the Rings: The Two Towers",
+    "sort_title": "Lord of the Rings: The Two Towers",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Two Towers",
+      "wikidata": "Q164963",
+      "tmdb": "121",
+      "imdb": "tt0167261"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Two_Towers",
+      "https://lotr.fandom.com/wiki/Breaking_of_the_Fellowship"
+    ],
+    "notes": "Extended edition released on home video \"a year after its release in cinemas\" (film-series article); no exact date fetched.",
+    "units": [
+      {
+        "id": "lotr-the-two-towers",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 179,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7050
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3019",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Follows the novel The Two Towers (T.A. 3019; LOTR Fandom \"Breaking of the Fellowship\": \"Dated at February 26, 3019 ... at the very beginning of The Two Towers\"); the film states no year.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-12-18",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|df=yes|2002|12|5|[[Ziegfeld Theatre (1969)|Ziegfeld Theatre]]|2002|12|18|United States|2002|12|19|New Zealand}} | runtime = 179 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Two_Towers",
+          "https://lotr.fandom.com/wiki/Breaking_of_the_Fellowship"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-two-towers",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Stephen Sinclair",
+        "qid": "Q3498652",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Barrie M. Osborne",
+        "qid": "Q808917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Robert Shaye",
+        "qid": "Q1314250",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Howard Shore",
+        "qid": "Q207773",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Astin",
+        "qid": "Q189351",
+        "character": "Samwise Gamgee",
+        "character_qid": "Q219473",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Viggo Mortensen",
+        "qid": "Q171363",
+        "character": "Aragorn",
+        "character_qid": "Q180322",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andy Serkis",
+        "qid": "Q206922",
+        "character": "Gollum",
+        "character_qid": "Q15007",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Liv Tyler",
+        "qid": "Q168763",
+        "character": "Arwen",
+        "character_qid": "Q206018",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cate Blanchett",
+        "qid": "Q80966",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Rhys-Davies",
+        "qid": "Q16455",
+        "character": "Gimli / Treebeard",
+        "character_qid": "Q206818",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orlando Bloom",
+        "qid": "Q44467",
+        "character": "Legolas",
+        "character_qid": "Q213480",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bernard Hill",
+        "qid": "Q310515",
+        "character": "Théoden",
+        "character_qid": "Q308813",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Lee",
+        "qid": "Q180338",
+        "character": "Saruman",
+        "character_qid": "Q216489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy Boyd",
+        "qid": "Q276425",
+        "character": "Peregrin Took",
+        "character_qid": "Q219493",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dominic Monaghan",
+        "qid": "Q152165",
+        "character": "Meriadoc Brandybuck",
+        "character_qid": "Q219498",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hugo Weaving",
+        "qid": "Q42204",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Miranda Otto",
+        "qid": "Q294975",
+        "character": "Éowyn",
+        "character_qid": "Q716565",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Karl Urban",
+        "qid": "Q132430",
+        "character": "Éomer",
+        "character_qid": "Q216605",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Wenham",
+        "qid": "Q296328",
+        "character": "Faramir",
+        "character_qid": "Q223468",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brad Dourif",
+        "qid": "Q329734",
+        "character": "Gríma Wormtongue",
+        "character_qid": "Q748450",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Bean",
+        "qid": "Q191104",
+        "character": "Boromir",
+        "character_qid": "Q219504",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Craig Parker",
+        "qid": "Q469179",
+        "character": "Haldir",
+        "character_qid": "Q1032885",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Hopkins",
+        "qid": "Q2445092",
+        "character": "Gamling",
+        "character_qid": "Q2601807",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Noble",
+        "qid": "Q312399",
+        "character": "Denethor",
+        "character_qid": "Q718380",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elijah Wood",
+        "qid": "Q483771",
+        "character": "Frodo Baggins",
+        "character_qid": "Q177329",
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Ure",
+        "qid": "Q1779182",
+        "character": "Grishnakh",
+        "character_qid": "Q6055107",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Calum Gittins",
+        "qid": "Q339181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Leigh",
+        "qid": "Q1700812",
+        "character": "Háma",
+        "character_qid": "Q1147638",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nathaniel Lees",
+        "qid": "Q3790484",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robbie Magasiva",
+        "qid": "Q635915",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Sala Baker",
+        "qid": "Q1388807",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Bach",
+        "qid": "Q780432",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Allpress",
+        "qid": "Q924155",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "lotr-the-return-of-the-king",
+    "title": "The Lord of the Rings: The Return of the King",
+    "sort_title": "Lord of the Rings: The Return of the King",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Return of the King",
+      "wikidata": "Q131074",
+      "tmdb": "122",
+      "imdb": "tt0167260"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Return_of_the_King",
+      "https://lotr.fandom.com/wiki/TA_3021"
+    ],
+    "notes": "Film epilogue timing (\"four years later\") conflicts with the book (3019 -> 3021); year_end left null.",
+    "units": [
+      {
+        "id": "lotr-the-return-of-the-king",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 201,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7050
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3019 (epilogue some years later)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Plot: \"The hobbits return to the Shire, where Sam marries Rosie Cotton. Four years later, Frodo ...\" In the novel Frodo sails in T.A. 3021, two years after 3019 (LOTR Fandom \"TA 3021\"), so the film epilogue does not match book chronology.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-12-17",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|df=yes|2003|12|1|[[Embassy Theatre, Wellington|Embassy Theatre]]|2003|12|17|United States|2003|12|18|New Zealand}} | runtime = 201 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Return_of_the_King",
+          "https://lotr.fandom.com/wiki/TA_3021"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Barrie M. Osborne",
+        "qid": "Q808917",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Robert Shaye",
+        "qid": "Q1314250",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Mark Ordesky",
+        "qid": "Q421488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Harvey Weinstein",
+        "qid": "Q531599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Michael Lynne",
+        "qid": "Q6832375",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Bob Weinstein",
+        "qid": "Q888311",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Howard Shore",
+        "qid": "Q207773",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elijah Wood",
+        "qid": "Q483771",
+        "character": "Frodo Baggins",
+        "character_qid": "Q177329",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andy Serkis",
+        "qid": "Q206922",
+        "character": "Gollum",
+        "character_qid": "Q15007",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Viggo Mortensen",
+        "qid": "Q171363",
+        "character": "Aragorn",
+        "character_qid": "Q180322",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Liv Tyler",
+        "qid": "Q168763",
+        "character": "Arwen",
+        "character_qid": "Q206018",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Astin",
+        "qid": "Q189351",
+        "character": "Samwise Gamgee",
+        "character_qid": "Q219473",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cate Blanchett",
+        "qid": "Q80966",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Lee",
+        "qid": "Q180338",
+        "character": "Saruman",
+        "character_qid": "Q216489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hugo Weaving",
+        "qid": "Q42204",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dominic Monaghan",
+        "qid": "Q152165",
+        "character": "Meriadoc Brandybuck",
+        "character_qid": "Q219498",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy Boyd",
+        "qid": "Q276425",
+        "character": "Peregrin Took",
+        "character_qid": "Q219493",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Rhys-Davies",
+        "qid": "Q16455",
+        "character": "Gimli",
+        "character_qid": "Q206818",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orlando Bloom",
+        "qid": "Q44467",
+        "character": "Legolas",
+        "character_qid": "Q213480",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "David Wenham",
+        "qid": "Q296328",
+        "character": "Faramir",
+        "character_qid": "Q223468",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bernard Hill",
+        "qid": "Q310515",
+        "character": "Théoden",
+        "character_qid": "Q308813",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Miranda Otto",
+        "qid": "Q294975",
+        "character": "Éowyn",
+        "character_qid": "Q716565",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Noble",
+        "qid": "Q312399",
+        "character": "Denethor",
+        "character_qid": "Q718380",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brad Dourif",
+        "qid": "Q329734",
+        "character": "Gríma Wormtongue",
+        "character_qid": "Q748450",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Karl Urban",
+        "qid": "Q132430",
+        "character": "Éomer",
+        "character_qid": "Q216605",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sean Bean",
+        "qid": "Q191104",
+        "character": "Boromir",
+        "character_qid": "Q219504",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Holm",
+        "qid": "Q223091",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Hopkins",
+        "qid": "Q2445092",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Ure",
+        "qid": "Q1779182",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Makoare",
+        "qid": "Q737607",
+        "character": "Witch-king of Angmar",
+        "character_qid": "Q559524",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sarah McLeod",
+        "qid": "Q270878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Paul Norell",
+        "qid": "Q2061535",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Phillips",
+        "qid": "Q3645492",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joel Tobeck",
+        "qid": "Q966678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bret McKenzie",
+        "qid": "Q910486",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Bruce Spence",
+        "qid": "Q704314",
+        "character": "Mouth of Sauron",
+        "character_qid": "Q261584",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Robins",
+        "qid": "Q2426862",
+        "character": "Déagol Nahald",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Marton Csokas",
+        "qid": "Q315118",
+        "character": "Celeborn the Wise",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sala Baker",
+        "qid": "Q1388807",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alan Howard",
+        "qid": "Q339083",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Bach",
+        "qid": "Q780432",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Shane Rangi",
+        "qid": "Q326323",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Harry Sinclair",
+        "qid": "Q3330820",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Hughes",
+        "qid": "Q15819828",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andrew Lesnie",
+        "qid": "Q505940",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-hobbit-an-unexpected-journey",
+    "title": "The Hobbit: An Unexpected Journey",
+    "sort_title": "Hobbit: An Unexpected Journey",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "bilbo",
+      "gandalf"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Hobbit: An Unexpected Journey",
+      "wikidata": "Q80379",
+      "tmdb": "49051",
+      "imdb": "tt0903624"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+      "https://en.wikipedia.org/wiki/The_Hobbit%3A_An_Unexpected_Journey",
+      "https://lotr.fandom.com/wiki/Quest_of_Erebor"
+    ],
+    "notes": "Also draws on the appendices of The Return of the King (\"portions of the film are adapted from the appendices\"). Frame story on Bilbo's 111th birthday (T.A. 3001). Extended editions exist (series total \"532 minutes (Extended edition)\" vs 474 theatrical).",
+    "units": [
+      {
+        "id": "the-hobbit-an-unexpected-journey",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 169,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 6972
+          },
+          "label": "T.A. 2941",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"The story is set in Middle-earth sixty years before the main events of The Lord of the Rings\". LOTR Fandom \"Quest of Erebor\": \"date = April 27 - November 23, TA 2941\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-12-14",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|df=yes|2012|11|28|Wellington premiere|2012|12|12|New Zealand|2012|12|14|United States}} | runtime = 169 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+          "https://en.wikipedia.org/wiki/The_Hobbit%3A_An_Unexpected_Journey",
+          "https://lotr.fandom.com/wiki/Quest_of_Erebor"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-hobbit",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Guillermo del Toro",
+        "qid": "Q219124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Carolynne Cunningham",
+        "qid": "Q136409",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Zane Weiner",
+        "qid": "Q8066124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Howard Shore",
+        "qid": "Q207773",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Martin Freeman",
+        "qid": "Q309486",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Richard Armitage",
+        "qid": "Q181806",
+        "character": "Thorin Oakenshield",
+        "character_qid": "Q46285",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ken Stott",
+        "qid": "Q722927",
+        "character": "Balin",
+        "character_qid": "Q780499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Graham McTavish",
+        "qid": "Q609464",
+        "character": "Dwalin",
+        "character_qid": "Q3620951",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aidan Turner",
+        "qid": "Q403905",
+        "character": "Kíli",
+        "character_qid": "Q9300837",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dean O'Gorman",
+        "qid": "Q328618",
+        "character": "Fíli",
+        "character_qid": "Q3241392",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Hadlow",
+        "qid": "Q1900087",
+        "character": "Dori",
+        "character_qid": "Q1772475",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jed Brophy",
+        "qid": "Q925680",
+        "character": "Nori",
+        "character_qid": "Q6012014",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Adam Brown",
+        "qid": "Q348900",
+        "character": "Ori",
+        "character_qid": "Q11123016",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Callen",
+        "qid": "Q1108011",
+        "character": "Óin",
+        "character_qid": "Q3356368",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Hambleton",
+        "qid": "Q2075434",
+        "character": "Glóin",
+        "character_qid": "Q3317969",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Kircher",
+        "qid": "Q691354",
+        "character": "Bifur",
+        "character_qid": "Q5115402",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Nesbitt",
+        "qid": "Q439174",
+        "character": "Bofur",
+        "character_qid": "Q3424055",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Manu Bennett",
+        "qid": "Q429595",
+        "character": "Azog",
+        "character_qid": "Q3366587",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hugo Weaving",
+        "qid": "Q42204",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Lee",
+        "qid": "Q180338",
+        "character": "Saruman",
+        "character_qid": "Q216489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Barry Humphries",
+        "qid": "Q734221",
+        "character": "Great Goblin",
+        "character_qid": "Q2465053",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Holm",
+        "qid": "Q223091",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lee Pace",
+        "qid": "Q355168",
+        "character": "Thranduil",
+        "character_qid": "Q746840",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Bret McKenzie",
+        "qid": "Q910486",
+        "character": "Lindir",
+        "character_qid": "Q11162492",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Benedict Cumberbatch",
+        "qid": "Q244674",
+        "character": "Sauron",
+        "character_qid": "Q2281",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cate Blanchett",
+        "qid": "Q80966",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elijah Wood",
+        "qid": "Q483771",
+        "character": "Frodo Baggins",
+        "character_qid": "Q177329",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Hunter",
+        "qid": "Q1033115",
+        "character": "Bombur",
+        "character_qid": "Q3357409",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Rawls",
+        "qid": "Q1282521",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Conan Stevens",
+        "qid": "Q1530432",
+        "character": "Bolg",
+        "character_qid": "Q3502914",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sylvester McCoy",
+        "qid": "Q455551",
+        "character": "Radagast",
+        "character_qid": "Q719492",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andy Serkis",
+        "qid": "Q206922",
+        "character": "Gollum",
+        "character_qid": "Q15007",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": "Girion",
+        "character_qid": "Q2533459",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Terry Notary",
+        "qid": "Q7704857",
+        "character": "Great Goblin",
+        "character_qid": "Q2465053",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Evangeline Lilly",
+        "qid": "Q160392",
+        "character": "Tauriel",
+        "character_qid": "Q3297949",
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-hobbit-the-desolation-of-smaug",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "sort_title": "Hobbit: The Desolation of Smaug",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "bilbo",
+      "gandalf"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Hobbit: The Desolation of Smaug",
+      "wikidata": "Q719915",
+      "tmdb": "57158",
+      "imdb": "tt1170358"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+      "https://lotr.fandom.com/wiki/Quest_of_Erebor",
+      "https://lotr.fandom.com/wiki/TA_2941"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-hobbit-the-desolation-of-smaug",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 161,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 6972
+          },
+          "label": "T.A. 2941",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"Quest of Erebor\": \"date = April 27 - November 23, TA 2941\"; LOTR Fandom \"TA 2941\": \"Most events of The Hobbit take place in this year.\"",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-12-13",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|df=yes|2013|12|02|Los Angeles premiere|2013|12|12|New Zealand|2013|12|13|United States}} | runtime = 161 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+          "https://lotr.fandom.com/wiki/Quest_of_Erebor",
+          "https://lotr.fandom.com/wiki/TA_2941"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-hobbit",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Guillermo del Toro",
+        "qid": "Q219124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Carolynne Cunningham",
+        "qid": "Q136409",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Howard Shore",
+        "qid": "Q207773",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Adam Brown",
+        "qid": "Q348900",
+        "character": "Ori",
+        "character_qid": "Q11123016",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aidan Turner",
+        "qid": "Q403905",
+        "character": "Kíli",
+        "character_qid": "Q9300837",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cate Blanchett",
+        "qid": "Q80966",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dean O'Gorman",
+        "qid": "Q328618",
+        "character": "Fíli",
+        "character_qid": "Q3241392",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Graham McTavish",
+        "qid": "Q609464",
+        "character": "Dwalin",
+        "character_qid": "Q3620951",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Nesbitt",
+        "qid": "Q439174",
+        "character": "Bofur",
+        "character_qid": "Q3424055",
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Jed Brophy",
+        "qid": "Q925680",
+        "character": "Nori",
+        "character_qid": "Q6012014",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Callen",
+        "qid": "Q1108011",
+        "character": "Óin",
+        "character_qid": "Q3356368",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ken Stott",
+        "qid": "Q722927",
+        "character": "Balin",
+        "character_qid": "Q780499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Makoare",
+        "qid": "Q737607",
+        "character": "Bolg",
+        "character_qid": "Q3502914",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lee Pace",
+        "qid": "Q355168",
+        "character": "Thranduil",
+        "character_qid": "Q746840",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": "Bard the Bowman",
+        "character_qid": "Q2470173",
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Manu Bennett",
+        "qid": "Q429595",
+        "character": "Azog",
+        "character_qid": "Q3366587",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Hadlow",
+        "qid": "Q1900087",
+        "character": "Dori",
+        "character_qid": "Q1772475",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Martin Freeman",
+        "qid": "Q309486",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mikael Persbrandt",
+        "qid": "Q723674",
+        "character": "Beorn",
+        "character_qid": "Q1750830",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orlando Bloom",
+        "qid": "Q44467",
+        "character": "Legolas",
+        "character_qid": "Q213480",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Hambleton",
+        "qid": "Q2075434",
+        "character": "Glóin",
+        "character_qid": "Q3317969",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Richard Armitage",
+        "qid": "Q181806",
+        "character": "Thorin Oakenshield",
+        "character_qid": "Q46285",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Fry",
+        "qid": "Q192912",
+        "character": "Master of Lake-town",
+        "character_qid": "Q20007331",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Hunter",
+        "qid": "Q1033115",
+        "character": "Bombur",
+        "character_qid": "Q3357409",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sylvester McCoy",
+        "qid": "Q455551",
+        "character": "Radagast",
+        "character_qid": "Q719492",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Kircher",
+        "qid": "Q691354",
+        "character": "Bifur",
+        "character_qid": "Q5115402",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Evangeline Lilly",
+        "qid": "Q160392",
+        "character": "Tauriel",
+        "character_qid": "Q3297949",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Benedict Cumberbatch",
+        "qid": "Q244674",
+        "character": "Smaug / Sauron",
+        "character_qid": "Q46302",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy Connolly",
+        "qid": "Q298838",
+        "character": "Dáin II Ironfoot",
+        "character_qid": "Q1767106",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Michael Mizrahi",
+        "qid": "Q2779448",
+        "character": "Thráin II",
+        "character_qid": "Q2290637",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ryan Gage",
+        "qid": "Q2178043",
+        "character": "Alfrid",
+        "character_qid": "Q18747306",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Colbert",
+        "qid": "Q212886",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Jabez Olssen",
+        "qid": "Q6110147",
+        "character": null,
+        "character_qid": null,
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Terry Notary",
+        "qid": "Q7704857",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Evelyn McGee-Colbert",
+        "qid": "Q119795483",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-hobbit-the-battle-of-the-five-armies",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "sort_title": "Hobbit: The Battle of the Five Armies",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "bilbo",
+      "gandalf"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Hobbit: The Battle of the Five Armies",
+      "wikidata": "Q919649",
+      "tmdb": "122917",
+      "imdb": "tt2310332"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+      "https://lotr.fandom.com/wiki/TA_2941",
+      "https://en.wikipedia.org/wiki/The_Hobbit%3A_The_Battle_of_the_Five_Armies"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "the-hobbit-the-battle-of-the-five-armies",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 144,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 6972
+          },
+          "label": "T.A. 2941 (coda in T.A. 3001)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "LOTR Fandom \"TA 2941\": \"The Battle of Five Armies takes place.\" Plot: \"Sixty years later, Bilbo happily receives a visit from Gandalf on his 111th birthday.\"",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-12-17",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|df=yes|2014|12|01|London premiere|2014|12|11|New Zealand|2014|12|17|United States}} | runtime = 144 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+          "https://lotr.fandom.com/wiki/TA_2941",
+          "https://en.wikipedia.org/wiki/The_Hobbit%3A_The_Battle_of_the_Five_Armies"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-hobbit",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Guillermo del Toro",
+        "qid": "Q219124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Fran Walsh",
+        "qid": "Q116861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Mark Ordesky",
+        "qid": "Q421488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Carolynne Cunningham",
+        "qid": "Q136409",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Howard Shore",
+        "qid": "Q207773",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Adam Brown",
+        "qid": "Q348900",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Aidan Turner",
+        "qid": "Q403905",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Benedict Cumberbatch",
+        "qid": "Q244674",
+        "character": "Smaug / Sauron",
+        "character_qid": "Q46302",
+        "cameo": true
+      },
+      {
+        "role": "cast",
+        "name": "Bret McKenzie",
+        "qid": "Q910486",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Christopher Lee",
+        "qid": "Q180338",
+        "character": "Saruman",
+        "character_qid": "Q216489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dean O'Gorman",
+        "qid": "Q328618",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Graham McTavish",
+        "qid": "Q609464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian Holm",
+        "qid": "Q223091",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "James Nesbitt",
+        "qid": "Q439174",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jed Brophy",
+        "qid": "Q925680",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Callen",
+        "qid": "Q1108011",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ken Stott",
+        "qid": "Q722927",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lawrence Makoare",
+        "qid": "Q737607",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lee Pace",
+        "qid": "Q355168",
+        "character": "Thranduil",
+        "character_qid": "Q746840",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Manu Bennett",
+        "qid": "Q429595",
+        "character": "Azog",
+        "character_qid": "Q3366587",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mark Hadlow",
+        "qid": "Q1900087",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mikael Persbrandt",
+        "qid": "Q723674",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Hambleton",
+        "qid": "Q2075434",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Fry",
+        "qid": "Q192912",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Hunter",
+        "qid": "Q1033115",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sylvester McCoy",
+        "qid": "Q455551",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Kircher",
+        "qid": "Q691354",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orlando Bloom",
+        "qid": "Q44467",
+        "character": "Legolas",
+        "character_qid": "Q213480",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Martin Freeman",
+        "qid": "Q309486",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Luke Evans",
+        "qid": "Q722001",
+        "character": "Bard the Bowman",
+        "character_qid": "Q2470173",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Evangeline Lilly",
+        "qid": "Q160392",
+        "character": "Tauriel",
+        "character_qid": "Q3297949",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Richard Armitage",
+        "qid": "Q181806",
+        "character": "Thorin Oakenshield",
+        "character_qid": "Q46285",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Hugo Weaving",
+        "qid": "Q42204",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cate Blanchett",
+        "qid": "Q80966",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Billy Connolly",
+        "qid": "Q298838",
+        "character": "Dáin II Ironfoot",
+        "character_qid": "Q1767106",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Debra Wilson",
+        "qid": "Q194032",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Chris Reilly",
+        "qid": "Q18638574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ryan Gage",
+        "qid": "Q2178043",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "lotr-the-war-of-the-rohirrim",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "sort_title": "Lord of the Rings: The War of the Rohirrim",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "warner-bros-animation",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The War of the Rohirrim",
+      "wikidata": "Q107210110",
+      "tmdb": "839033",
+      "imdb": "tt14824600"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim",
+      "https://en.wikipedia.org/wiki/Rohan%2C_Middle-earth",
+      "https://lotr.fandom.com/wiki/Helm_Hammerhand",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim"
+    ],
+    "notes": "Anime film (Kenji Kamiyama). Based on LOTR Appendix A: \"based on details in the appendices of Tolkien's novel The Lord of the Rings ... covering the history of Rohan's rulers.\" Continuity: \"It is connected to the film trilogy's continuity\". Infobox date 2024-12-03 is the London premiere; US release used.",
+    "units": [
+      {
+        "id": "lotr-the-war-of-the-rohirrim",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 134,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6789
+          },
+          "end": {
+            "y": 6790
+          },
+          "label": "T.A. 2758–2759",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "Wikipedia (Rohan, Middle-earth): \"In 2758, Rohan was invaded by Dunlendings under Wulf, son of Freca ... The King, Helm Hammerhand, took refuge\". LOTR Fandom \"Helm Hammerhand\": \"death = TA 2759\". Film article only says \"Set around 200 years before\" the Jackson trilogies.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-12-13",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: \"premiered on 3 December 2024, and was released theatrically by Warner Bros. Pictures in international markets from 5 December and in the United States on 13 December.\" Infobox: \"runtime = 134 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim",
+          "https://en.wikipedia.org/wiki/Rohan%2C_Middle-earth",
+          "https://lotr.fandom.com/wiki/Helm_Hammerhand",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Kenji Kamiyama",
+        "qid": "Q2518786",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Philippa Boyens",
+        "qid": "Q116854",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "lotr-the-hunt-for-gollum",
+    "title": "The Lord of the Rings: The Hunt for Gollum",
+    "sort_title": "Lord of the Rings: The Hunt for Gollum",
+    "type": "film",
+    "universe": "middle-earth",
+    "continuity": "me-jackson",
+    "studio_brand": "new-line-cinema",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Hunt for Gollum",
+      "wikidata": "Q125858982",
+      "tmdb": "1090869",
+      "imdb": "tt32328070"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Hunt_for_Gollum",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Hunt_for_Gollum"
+    ],
+    "notes": "Directed by Andy Serkis; filmed July–November 2026. No year assigned: sources conflict on when Aragorn caught Gollum (LOTR Fandom \"TA 3009\": \"According to Unfinished Tales, 352, this occurred in 3017 or early 3018\"; \"TA 3017\" puts the capture in 3017). Place relative: after BotFA, overlapping FotR. \"adapts\" is approximate (commentators expected \"material from the appendices\").",
+    "units": [
+      {
+        "id": "lotr-the-hunt-for-gollum",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Between the Hobbit and LOTR trilogies, overlapping The Fellowship of the Ring",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "\"The Hunt for Gollum is set between the events of Peter Jackson's The Hobbit (2012–2014) and The Lord of the Rings (2001–2003) film trilogies, and during the events of the film The Lord of the Rings: The Fellowship of the Ring (2001) leading up to the Company of the Ring entering the Mines of Moria.\" Placed between the Hobbit and Lord of the Rings trilogies once released.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2027-12-17",
+          "end_date": null,
+          "year": 2027,
+          "note": "Wikipedia: \"is scheduled to be released theatrically by Warner Bros. Pictures in the United States on 17 December 2027.\" Infobox: \"released = {{Film date|2027|12|17|df=y}}\""
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Hunt_for_Gollum",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Hunt_for_Gollum"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Andy Serkis",
+        "qid": "Q206922",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Peter Jackson",
+        "qid": "Q4465",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andy Serkis",
+        "qid": "Q206922",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ian McKellen",
+        "qid": "Q170510",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kate Winslet",
+        "qid": "Q202765",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Dornan",
+        "qid": "Q976022",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leo Woodall",
+        "qid": "Q75571953",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lee Pace",
+        "qid": "Q355168",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Elijah Wood",
+        "qid": "Q483771",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anya Taylor-Joy",
+        "qid": "Q20882479",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-rings-of-power",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "sort_title": "Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "universe": "middle-earth",
+    "continuity": "me-rings-of-power",
+    "studio_brand": "amazon-mgm-studios",
+    "label": null,
+    "platform_or_network": "prime-video",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings: The Rings of Power",
+      "wikidata": "Q59149852",
+      "tmdb": "84773",
+      "imdb": "tt7631058"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_1",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_2",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_3"
+    ],
+    "notes": "Infobox: \"based_on = The Lord of the Rings and appendices\" (Second Age history is in the RotK appendices). Wikipedia: \"These events take place over thousands of years in Tolkien's works but are condensed to a short time period for the series.\" So no S.A. years — order by season only. A fourth season \"had not been officially greenlit\" (May 2026).",
+    "units": [
+      {
+        "id": "the-rings-of-power-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Second Age",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Season 1 article: \"Set thousands of years before the novel in Middle-earth's Second Age, the series begins in a time of relative peace\".",
+          "order_index": 10,
+          "relative_to": {
+            "after": null,
+            "before": "the-rings-of-power-s2"
+          }
+        },
+        "release": {
+          "date": "2022-09-01",
+          "end_date": "2022-10-14",
+          "year": 2022,
+          "note": "Wikipedia: Series overview: \"episodes1 = 8 | start1 = {{Start date|2022|9|1}} | end1 = {{End date|2022|10|14}}\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_1"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-rings-of-power-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Second Age",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Season 2 article: \"Set thousands of years before the novel in Middle-earth's Second Age, the season depicts the rise of the Dark Lord Sauron\". Episode 1 opens \"At the dawn of the Second Age\" (flashback).",
+          "order_index": 20,
+          "relative_to": {
+            "after": "the-rings-of-power-s1",
+            "before": "the-rings-of-power-s3"
+          }
+        },
+        "release": {
+          "date": "2024-08-29",
+          "end_date": "2024-10-03",
+          "year": 2024,
+          "note": "Wikipedia: Series overview: \"episodes2 = 8 | start2 = {{Start date|2024|8|29}} | end2 = {{End date|2024|10|3}}\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_2"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "the-rings-of-power-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Second Age, five years after Season 2",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "Season 3 article: \"the season takes place five years after the second at the height of a war between the Elves and the Dark Lord Sauron\".",
+          "order_index": 30,
+          "relative_to": {
+            "after": "the-rings-of-power-s2",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2026-11-11",
+          "end_date": "2026-11-24",
+          "year": 2026,
+          "note": "Wikipedia: Season 3 article: \"The season premiered on the streaming service Amazon Prime Video on November 11, 2026, with its first four episodes. The next two episodes were released on November 18 and the final two on November 24.\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power",
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_3"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "J. A. Bayona",
+        "qid": "Q932019",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Wayne Yip",
+        "qid": "Q15853761",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Charlotte Brändström",
+        "qid": "Q2960951",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Jason Cahill",
+        "qid": "Q6162159",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Gennifer Hutchison",
+        "qid": "Q16203760",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Gennifer Hutchison",
+        "qid": "Q16203760",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "Jason Cahill",
+        "qid": "Q6162159",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "executive-producer",
+        "name": "J. D. Payne and Patrick McKay",
+        "qid": "Q115060934",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Bear McCreary",
+        "qid": "Q621437",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Morfydd Clark",
+        "qid": "Q24572561",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lenny Henry",
+        "qid": "Q3175896",
+        "character": "Sadoc Burrows",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Thusitha Jayasundera",
+        "qid": "Q7799483",
+        "character": "Malva",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Dylan Smith",
+        "qid": "Q62859194",
+        "character": "Largo Brandyfoot",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Markella Kavenagh",
+        "qid": "Q75669730",
+        "character": "Elanor 'Nori' Brandyfoot",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Robert Aramayo",
+        "qid": "Q21155102",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ismaël Cruz Córdova",
+        "qid": "Q16204626",
+        "character": "Arondir",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Weyman",
+        "qid": "Q4410337",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nazanin Boniadi",
+        "qid": "Q1189102",
+        "character": "Bronwyn",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Charles Edwards",
+        "qid": "Q5077317",
+        "character": "Celebrimbor",
+        "character_qid": "Q833015",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Geoff Morrell",
+        "qid": "Q5534242",
+        "character": "Waldreg",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Peter Tait",
+        "qid": "Q95831300",
+        "character": "Tredwill",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tyroe Muhafidin",
+        "qid": "Q110498075",
+        "character": "Theo",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Maxine Cunliffe",
+        "qid": "Q113754224",
+        "character": "Vilma",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Amelie Child Villiers",
+        "qid": "Q75804108",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Megan Richards",
+        "qid": "Q113754330",
+        "character": "Poppy Proudfellow",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Owain Arthur",
+        "qid": "Q23770470",
+        "character": "Durin IV",
+        "character_qid": "Q8771009",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Augustus Prew",
+        "qid": "Q2659353",
+        "character": "Médhor",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Simon Merrells",
+        "qid": "Q10900628",
+        "character": "Revion",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Cynthia Addai-Robinson",
+        "qid": "Q13100685",
+        "character": "Tar-Míriel",
+        "character_qid": "Q3234792",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ema Horvath",
+        "qid": "Q74393628",
+        "character": "Eärien",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Trystan Gravelle",
+        "qid": "Q7848821",
+        "character": "Ar-Pharazôn",
+        "character_qid": "Q1998135",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lloyd Owen",
+        "qid": "Q3382053",
+        "character": "Elendil",
+        "character_qid": "Q719736",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Charlie Vickers",
+        "qid": "Q113997917",
+        "character": "Sauron",
+        "character_qid": "Q2281",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Maxim Baldry",
+        "qid": "Q342384",
+        "character": "Isildur",
+        "character_qid": "Q206324",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sara Zwangobani",
+        "qid": "Q110498267",
+        "character": "Marigold Brandyfoot",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Mawle",
+        "qid": "Q1329519",
+        "character": "Adar",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Anthony Crum",
+        "qid": "Q107996141",
+        "character": "Ontamo",
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Alex Tarrant",
+        "qid": "Q64711811",
+        "character": "Valandil",
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-hobbit-1977",
+    "title": "The Hobbit",
+    "sort_title": "Hobbit",
+    "type": "animated-film",
+    "universe": "middle-earth",
+    "continuity": "me-rankin-bass",
+    "studio_brand": "rankin-bass-productions",
+    "label": null,
+    "platform_or_network": "nbc",
+    "canon_tier": "core",
+    "characters": [
+      "bilbo",
+      "gandalf"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Hobbit (1977 film)",
+      "wikidata": "Q74229",
+      "tmdb": "1362",
+      "imdb": "tt0077687"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Hobbit_(1977_film)",
+      "https://en.wikipedia.org/wiki/The_Hobbit_(1977_film)",
+      "https://en.wikipedia.org/wiki/History_of_Arda"
+    ],
+    "notes": "Animated TV film; same-name title -> display \"The Hobbit [1977]\". Runtime note: \"several Internet sites list the full 90 minute air time\".",
+    "units": [
+      {
+        "id": "the-hobbit-1977",
+        "label": "TV film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 77,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 6972
+          },
+          "end": {
+            "y": 6972
+          },
+          "label": "T.A. 2941",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Adapts The Hobbit, whose \"main events ... occur in TA 2941\" (History of Arda); the film states no year.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1977-11-27",
+          "end_date": null,
+          "year": 1977,
+          "note": "Wikipedia: \"it was first broadcast on NBC in the United States on Sunday, November 27, 1977.\" Infobox: \"runtime = 78 minutes ... network = [[NBC]]\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Hobbit_(1977_film)",
+          "https://en.wikipedia.org/wiki/History_of_Arda"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-hobbit",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Jules Bass",
+        "qid": "Q1442364",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Arthur Rankin Jr.",
+        "qid": "Q1983712",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Romeo Muller",
+        "qid": "Q3441196",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Arthur Rankin Jr.",
+        "qid": "Q1983712",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Jules Bass",
+        "qid": "Q1442364",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Maury Laws",
+        "qid": "Q922499",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Glenn Yarbrough",
+        "qid": "Q1531129",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-return-of-the-king-1980",
+    "title": "The Return of the King",
+    "sort_title": "Return of the King",
+    "type": "animated-film",
+    "universe": "middle-earth",
+    "continuity": "me-rankin-bass",
+    "studio_brand": "rankin-bass-productions",
+    "label": null,
+    "platform_or_network": "abc",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Return of the King (1980 film)",
+      "wikidata": "Q115285",
+      "tmdb": "1361",
+      "imdb": "tt0079802"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Return_of_the_King_(1980_film)",
+      "https://en.wikipedia.org/wiki/The_Return_of_the_King_(1980_film)"
+    ],
+    "notes": "NOT a sequel to Bakshi: \"The film is often mistaken for a sequel to Ralph Bakshi's 1978 animated film ... Rankin/Bass had always planned on making The Return of the King as a follow-up to their production of The Hobbit, even before the release of Bakshi's film.\" Warner later marketed the three as a trilogy on home video only. Infobox based_on: \"The Hobbit and The Return of the King\".",
+    "units": [
+      {
+        "id": "the-return-of-the-king-1980",
+        "label": "TV film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 98,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7050
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3019 (frame at Rivendell)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Wikipedia: \"It is a sequel to The Hobbit (1977). The film is an adaptation of The Return of the King, the third and final volume\". Year follows the novel (T.A. 3019); the film states none.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1980-05-11",
+          "end_date": null,
+          "year": 1980,
+          "note": "Wikipedia: Infobox: \"runtime = 98 minutes ... network = [[American Broadcasting Company|ABC]] | released = {{Start date|1980|05|11}}\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Return_of_the_King_(1980_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-hobbit",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Jules Bass",
+        "qid": "Q1442364",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "director",
+        "name": "Arthur Rankin Jr.",
+        "qid": "Q1983712",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Maury Laws",
+        "qid": "Q922499",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Orson Bean",
+        "qid": "Q1120700",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Theodore Bikel",
+        "qid": "Q215721",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "William Conrad",
+        "qid": "Q505831",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "John Huston",
+        "qid": "Q51575",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Roddy McDowall",
+        "qid": "Q283988",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Brother Theodore",
+        "qid": "Q990788",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Casey Kasem",
+        "qid": "Q1047230",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nellie Bellflower",
+        "qid": "Q513399",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Glenn Yarbrough",
+        "qid": "Q1531129",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-lord-of-the-rings-1978",
+    "title": "The Lord of the Rings",
+    "sort_title": "Lord of the Rings",
+    "type": "animated-film",
+    "universe": "middle-earth",
+    "continuity": "me-bakshi",
+    "studio_brand": "fantasy-films",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lord of the Rings (1978 film)",
+      "wikidata": "Q378913",
+      "tmdb": "123",
+      "imdb": "tt0077869"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)"
+    ],
+    "notes": "Ralph Bakshi, animated; produced by Saul Zaentz. \"There was no official sequel to cover the remainder of the story\". Same-name title -> \"The Lord of the Rings [1978]\".",
+    "units": [
+      {
+        "id": "the-lord-of-the-rings-1978",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 132,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7032
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3001–3019",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"adapting from the volumes The Fellowship of the Ring and The Two Towers\" ... \"covering only some of The Two Towers and none of The Return of the King\". Years follow the novel volumes.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1978-11-15",
+          "end_date": null,
+          "year": 1978,
+          "note": "Wikipedia: Infobox: \"released = {{Film date|1978|11|15|United States|1979|7|5|United Kingdom}} | runtime = 133 minutes\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-two-towers",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Ralph Bakshi",
+        "qid": "Q315441",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Peter S. Beagle",
+        "qid": "Q285007",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "Chris Conkling",
+        "qid": "Q5106231",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "writer",
+        "name": "J. R. R. Tolkien",
+        "qid": "Q892",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "producer",
+        "name": "Saul Zaentz",
+        "qid": "Q736466",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Leonard Rosenman",
+        "qid": "Q1346580",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "khraniteli",
+    "title": "Khraniteli",
+    "sort_title": null,
+    "type": "special",
+    "universe": "middle-earth",
+    "continuity": "me-khraniteli",
+    "studio_brand": "leningrad-television",
+    "label": null,
+    "platform_or_network": "leningrad-television",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Khraniteli",
+      "wikidata": "Q106382169",
+      "tmdb": "123034",
+      "imdb": "tt14358016"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khraniteli",
+      "https://en.wikipedia.org/wiki/Khraniteli"
+    ],
+    "notes": "Soviet TV play (Russian). Year only.",
+    "units": [
+      {
+        "id": "khraniteli",
+        "label": "Two parts",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 2,
+        "runtime_min": 115,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7032
+          },
+          "end": {
+            "y": 7050
+          },
+          "label": "T.A. 3001–3019",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"based on Tolkien's The Fellowship of the Ring\"; years follow the novel.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: Infobox: \"runtime = 115 minutes (2 episodes) | company = [[Leningrad Television]] | released = {{Start date|1991}}\". \"It was broadcast once in 1991 by Leningrad Television and then thought lost before being rediscovered in 2021.\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Khraniteli"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Natalya Serebryakova",
+        "qid": "Q114903858",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "composer",
+        "name": "Dyusha Romanov",
+        "qid": "Q4397148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Victor Kostetskiy",
+        "qid": "Q4235346",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Georgy Shtil",
+        "qid": "Q4526867",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Yelena Solovey",
+        "qid": "Q1964487",
+        "character": "Galadriel",
+        "character_qid": "Q204274",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Sergey Parshin",
+        "qid": "Q4346314",
+        "character": "Tom Bombadil",
+        "character_qid": "Q280608",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Andrey Tenetko",
+        "qid": "Q65153872",
+        "character": "Aragorn",
+        "character_qid": "Q180322",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Nikolay Burov",
+        "qid": "Q4099831",
+        "character": "Barliman Butterbur",
+        "character_qid": "Q1089083",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Lillian Malkina",
+        "qid": "Q4278011",
+        "character": "Lobelia Sackville-Baggins",
+        "character_qid": "Q107223341",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Regina Lyaleykite",
+        "qid": "Q18711328",
+        "character": "Goldberry",
+        "character_qid": "Q2485929",
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "hobitit",
+    "title": "Hobitit",
+    "sort_title": null,
+    "type": "series",
+    "universe": "middle-earth",
+    "continuity": "me-hobitit",
+    "studio_brand": "yle",
+    "label": null,
+    "platform_or_network": "yle-tv1",
+    "canon_tier": "core",
+    "characters": [
+      "frodo",
+      "gandalf",
+      "aragorn",
+      "gollum"
+    ],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Hobitit",
+      "wikidata": "Q11863501",
+      "tmdb": "35520",
+      "imdb": "tt0441925"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hobitit",
+      "https://en.wikipedia.org/wiki/Hobitit"
+    ],
+    "notes": "Finnish miniseries; despite the name it adapts LOTR.",
+    "units": [
+      {
+        "id": "hobitit",
+        "label": "Miniseries",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 7032
+          },
+          "end": {
+            "y": 7052
+          },
+          "label": "T.A. 3001–3021",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "\"It is based on a six-hour play, Taru sormusten herrasta (The Lord of the Rings), put on by Ryhmäteatteri\"; years follow the novel.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-03-29",
+          "end_date": "1993-05-24",
+          "year": 1993,
+          "note": "Wikipedia: Infobox: \"num_episodes = 9 | runtime = 9 × 30 minutes | channel = [[Yle TV1]] | first_aired = {{Start date|1993|03|29|df=yes}} | last_aired = {{End date|1993|05|24|df=yes}}\""
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hobitit"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-fellowship-of-the-ring",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-two-towers",
+        "kind": "adapts",
+        "note": ""
+      },
+      {
+        "to": "the-return-of-the-king",
+        "kind": "adapts",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "cast",
+        "name": "Taneli Mäkelä",
+        "qid": "Q5407500",
+        "character": "Frodo Baggins",
+        "character_qid": "Q177329",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Pertti Sveholm",
+        "qid": "Q11887547",
+        "character": "Samwise Gamgee",
+        "character_qid": "Q219473",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Kari Väänänen",
+        "qid": "Q6227752",
+        "character": "Gollum / Aragorn",
+        "character_qid": "Q15007",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jari Pehkonen",
+        "qid": "Q16989712",
+        "character": "Peregrin Took",
+        "character_qid": "Q219493",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Jarmo Hyttinen",
+        "qid": "Q16226485",
+        "character": "Meriadoc Brandybuck",
+        "character_qid": "Q219498",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Vesa Vierikko",
+        "qid": "Q7923144",
+        "character": "Gandalf",
+        "character_qid": "Q177499",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Ville Virtanen",
+        "qid": "Q513212",
+        "character": "Legolas",
+        "character_qid": "Q213480",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Tomi Salmela",
+        "qid": "Q11898026",
+        "character": "Gimli",
+        "character_qid": "Q206818",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Carl-Kristian Rundman",
+        "qid": "Q11854952",
+        "character": "Boromir",
+        "character_qid": "Q219504",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Martti Suosalo",
+        "qid": "Q6777340",
+        "character": "Bilbo Baggins",
+        "character_qid": "Q185737",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Esko Hukkanen",
+        "qid": "Q11858676",
+        "character": null,
+        "character_qid": null,
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Leif Wager",
+        "qid": "Q3321580",
+        "character": "Elrond",
+        "character_qid": "Q208426",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Matti Pellonpää",
+        "qid": "Q1351575",
+        "character": "Saruman",
+        "character_qid": "Q216489",
+        "cameo": false
+      },
+      {
+        "role": "cast",
+        "name": "Mikko Kivinen",
+        "qid": "Q11882721",
+        "character": "Barliman Butterbur",
+        "character_qid": "Q1089083",
+        "cameo": false
+      }
+    ],
+    "constituents": []
+  }
+]

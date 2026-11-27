@@ -51,6 +51,13 @@ export const Calendar = z.discriminatedUnion('kind', [
     note: z.string().default(''),
   }),
   z.object({ kind: z.literal('ordered-only') }),
+  /** Successive ages (e.g. Tolkien's First/Second/Third/Fourth Age). Years are stored as one running count
+   *  (age 1 year 1 = 1) so they sort; they are always shown as "<age label> <year in that age>". */
+  z.object({
+    kind: z.literal('ages'),
+    ages: z.array(z.object({ label: z.string(), name: z.string(), length: z.number().int().positive().nullable() })).min(1),
+    note: z.string().default(''),
+  }),
 ]);
 
 // ---------- Universe ----------

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "me-legendarium",
+    "universe": "middle-earth",
+    "name": "Tolkien's legendarium (books)",
+    "short_name": "Tolkien's legendarium",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "History of Arda: \"Tolkien situated the History of Arda as Earth's prehistory.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/History_of_Arda"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-jackson",
+    "universe": "middle-earth",
+    "name": "Peter Jackson films (New Line / Warner Bros.)",
+    "short_name": "Peter Jackson films",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "War of the Rohirrim: \"It is connected to the film trilogy's continuity\". Hunt for Gollum: \"set between the events of Peter Jackson's The Hobbit (2012–2014) and The Lord of the Rings (2001–2003) film trilogies\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-rings-of-power",
+    "universe": "middle-earth",
+    "name": "The Rings of Power (Amazon)",
+    "short_name": "The Rings of Power",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"These events take place over thousands of years in Tolkien's works but are condensed to a short time period for the series.\" Hunt for Gollum article: Warner \"wanted to distance future films from the Amazon series\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-rankin-bass",
+    "universe": "middle-earth",
+    "name": "Rankin/Bass animated",
+    "short_name": "Rankin/Bass animated",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"It is a sequel to The Hobbit (1977).\" / \"The film is often mistaken for a sequel to Ralph Bakshi's 1978 animated film\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Return_of_the_King_(1980_film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-bakshi",
+    "universe": "middle-earth",
+    "name": "Ralph Bakshi animated",
+    "short_name": "Ralph Bakshi animated",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"There was no official sequel to cover the remainder of the story\".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-khraniteli",
+    "universe": "middle-earth",
+    "name": "Khraniteli (Leningrad TV, 1991)",
+    "short_name": "Khraniteli",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"broadcast once in 1991 by Leningrad Television\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khraniteli"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "me-hobitit",
+    "universe": "middle-earth",
+    "name": "Hobitit (Yle, 1993)",
+    "short_name": "Hobitit",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ages",
+      "ages": [
+        {
+          "label": "F.A.",
+          "name": "First Age",
+          "length": 590
+        },
+        {
+          "label": "S.A.",
+          "name": "Second Age",
+          "length": 3441
+        },
+        {
+          "label": "T.A.",
+          "name": "Third Age",
+          "length": 3021
+        },
+        {
+          "label": "Fo.A.",
+          "name": "Fourth Age",
+          "length": null
+        }
+      ],
+      "note": "Years count from the start of each Age (Wikipedia, \"History of Arda\"). The Fourth Age is taken to begin after T.A. 3021 (Gondor reckoned it from 25 March 3021). Years of the Trees are not dated here."
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "\"based on a six-hour play, Taru sormusten herrasta\"",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hobitit"
+    ],
+    "notes": ""
+  }
+]

@@ -561,3 +561,32 @@ Added by `scripts/migrations/2026-11-26-add-remaining-marvel-series.ts`. Release
   - Demigods of Olympus, an interactive ebook with no place on the wiki Timeline.
   - The graphic novels, The Ultimate Guide (not by Riordan), the musical and the video game.
   - Unannounced books, such as Senior Year 3 and Camp Half-Blood 3–4.
+
+## Middle-earth (Tolkien)
+
+25 titles and 38 units, built with the generic pipeline (`scripts/bootstrap/middle-earth.*`, generated from the 2026-11-27 research). Years come from Wikipedia, plus LOTR Fandom for inferred years. Tolkien Gateway was behind a Cloudflare challenge and could not be used.
+
+- **Continuities (never merged).** One per production:
+  - `me-legendarium` (the books);
+  - `me-jackson`: Jackson's six films, *The War of the Rohirrim* ("connected to the film trilogy's continuity") and *The Hunt for Gollum* ("set between" the two trilogies; unreleased, 2027-12-17);
+  - `me-rings-of-power`;
+  - `me-rankin-bass`: the 1980 *Return of the King* "is a sequel to The Hobbit (1977)", not to Bakshi's film;
+  - `me-bakshi`;
+  - `me-khraniteli`;
+  - `me-hobitit`.
+- **Calendar (D-42).** A new `ages` calendar type:
+  - Ages: F.A. (590 years), S.A. (3,441), T.A. (3,021), then the Fourth Age. Lengths are from Wikipedia's "History of Arda" ("S.A. 3442 became T.A. 1").
+  - Storage: one running year count, so entries sort.
+  - Display: always "T.A. 2941" and so on.
+  - The Fourth Age starts after T.A. 3021. Gondor reckoned it from 25 March 3021.
+- **Years.**
+  - *The Hobbit* is T.A. 2941 (stated).
+  - The Lord of the Rings volumes and the Silmarillion-derived books come from LOTR Fandom (inferred).
+  - Screen adaptations take the book years (inferred), because none states a year on screen.
+  - Jackson's *Return of the King* is disputed: its epilogue says "Four years later", but in the book Frodo leaves in 3021.
+  - *The Rings of Power* is the Second Age only, no years. Wikipedia: the time is "condensed".
+  - *The Silmarillion*, *Unfinished Tales* and *The History of Middle-earth* span the Ages, so they are relative.
+- **`adapts` links.** *The Rings of Power*, *War of the Rohirrim* and *Hunt for Gollum* draw on the appendices, which are not a title of their own, so their links point to *The Return of the King* or *The Fellowship of the Ring*. These links are approximate.
+- **Not added (D-43).**
+  - The BBC radio dramas (1955–56, 1968 *The Hobbit*, 1981). There is no radio medium yet. The 1968 date is also disputed: the article says 1968, but its body says "autumn of 1969".
+  - Release dates still missing: US dates for *The Hobbit* ("early in 1938"), *The Silmarillion*, *Unfinished Tales* and *The Fall of Númenor*; *Unfinished Tales* has only a year.

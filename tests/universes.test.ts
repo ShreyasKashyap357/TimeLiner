@@ -190,3 +190,16 @@ describe('Rick Riordan (B3)', () => {
     expect(fromBook).toEqual(expect.arrayContaining(['percy-jackson-the-lightning-thief-2010', 'percy-jackson-and-the-olympians-tv']));
   });
 });
+
+describe('Middle-earth', () => {
+  it('formats the Ages calendar and keeps the Jackson films in story order', () => {
+    const cal = ds.continuities.find((c) => c.id === 'me-jackson')!.calendar;
+    expect(formatYear(4031 + 2941, cal)).toBe('T.A. 2941');
+    expect(formatYear(590 + 3319, cal)).toBe('S.A. 3319');
+    expect(formatYear(464, cal)).toBe('F.A. 464');
+    const order = spine(scoped('middle-earth', 'me-jackson'), 'in-universe').sections.flatMap((s) => s.rows.map((r) => r.key));
+    expect(order.indexOf('lotr-the-war-of-the-rohirrim')).toBeLessThan(order.indexOf('the-hobbit-an-unexpected-journey'));
+    expect(order.indexOf('the-hobbit-the-battle-of-the-five-armies')).toBeLessThan(order.indexOf('lotr-the-fellowship-of-the-ring'));
+    expect(ds.titles.find((t) => t.id === 'lotr-the-fellowship-of-the-ring')!.continuity).not.toBe(ds.titles.find((t) => t.id === 'the-fellowship-of-the-ring')!.continuity);
+  });
+});

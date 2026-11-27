@@ -3,7 +3,22 @@ import type { Continuity, PartialDate } from './schema.ts';
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
+/** Running-count year → [age index, year within that age] for an 'ages' calendar. */
+export function ageOf(y: number, ages: { length: number | null }[]): [number, number] {
+  let start = 1;
+  for (let i = 0; i < ages.length; i++) {
+    const len = ages[i]!.length;
+    if (len === null || y < start + len) return [i, y - start + 1];
+    start += len;
+  }
+  return [ages.length - 1, y - start + 1];
+}
+
 export function formatYear(y: number, cal: Continuity['calendar']): string {
+  if (cal.kind === 'ages') {
+    const [i, yy] = ageOf(y, cal.ages);
+    return `${cal.ages[i]!.label} ${yy}`;
+  }
   if (cal.kind === 'era') {
     if (y < 0 || (!cal.has_year_zero && y === 0)) return `${Math.abs(y)} ${cal.before_label}`;
     return `${y} ${cal.after_label}`;

@@ -478,5 +478,21 @@
     "data_dir": "riordan",
     "description": "Rick Riordan's novels (Percy Jackson, Heroes of Olympus, Trials of Apollo, Kane Chronicles, Magnus Chase and more), the Fox films and the Disney+ series.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "middle-earth",
+    "name": "Middle-earth (Tolkien)",
+    "short_name": "Middle-earth",
+    "order": 9,
+    "enabled": true,
+    "accent": {
+      "primary": "#D4AF37",
+      "secondary": "#7FA36B"
+    },
+    "default_continuity": "me-legendarium",
+    "grouping_schemes": [],
+    "data_dir": "middle-earth",
+    "description": "Tolkien's books and the adaptations: Peter Jackson's films, The Rings of Power, Rankin/Bass, Bakshi and more.",
+    "last_verified": "2026-11-27"
   }
 ]

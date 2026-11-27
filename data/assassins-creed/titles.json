@@ -944,6 +944,11 @@
         "pages": null,
         "word_count": null,
         "word_count_source": null,
+        "film_stats": {
+          "runtime_source": "https://www.wikidata.org/w/index.php?title=Q2866952&oldid=2539090421",
+          "budget": null,
+          "box_office": null
+        },
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
@@ -2067,6 +2072,25 @@
         "pages": null,
         "word_count": null,
         "word_count_source": null,
+        "film_stats": {
+          "runtime_source": "https://www.wikidata.org/w/index.php?title=Q18816889&oldid=2573539858",
+          "budget": {
+            "low": 125000000,
+            "high": null,
+            "currency": "USD",
+            "text": "125000000 USD",
+            "scope": "other",
+            "source_url": "https://www.wikidata.org/w/index.php?title=Q18816889&oldid=2573539858"
+          },
+          "box_office": {
+            "low": 240697856,
+            "high": null,
+            "currency": "USD",
+            "text": "240697856 USD",
+            "scope": "worldwide",
+            "source_url": "https://www.wikidata.org/w/index.php?title=Q18816889&oldid=2573539858"
+          }
+        },
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {

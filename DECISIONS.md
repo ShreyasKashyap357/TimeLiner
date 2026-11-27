@@ -8,15 +8,7 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-44 | **Fast & Furious: Spy Racers.** No source places it in the films' timeline. | Separate continuity. |
-| D-45 | **Bond continuation novels.** Only the period-set ones (Forever and a Day, Trigger Mortis, Colonel Sun, Devil May Care, Solo) sit in Fleming's timeline, as an adjacent tier. Of the Gardner/Benson and later novels, only Licence Renewed and Carte Blanche are in so far. | Add the rest of the continuation novels later from their articles. |
-| D-46 | **DC groupings with no source.** The four 1960s Filmation DC cartoons and the 10 Lego DC films are grouped as one continuity each, based only on packaging and numbering. | Grouped, with a note that this is inferred. |
-| D-47 | **DC imprint adaptations** (Vertigo and others: V for Vendetta, Stardust, The Sandman, Preacher, Sweet Tooth, iZombie, Y: The Last Man, Red…). These are DC publications but not DC superhero titles. | Included, each in its own continuity. Say if you want them dropped or in a separate "DC imprints" collection. |
-| D-48 | **Disputed DC placements:** the Batman '66 animated films (a critic: "not a continuation of the TV series"), Swamp Thing (1990) as a continuation of the films, and the Aquaman (2006) pilot alongside Smallville. | Kept separate (linked, not merged) and in the adjacent tier. |
-| D-40 | **Riordan books: story order only, no calendar.** Riordan says there is "no specific year or timeline"; the Riordan Wiki's 2006–2011 years are fan-derived. | Story order (wiki Timeline); fan years shown in labels as "(fan-dated)", rated inferred. |
-| D-41 | **Riordan scope.** Left out: Demigods of Olympus (an interactive ebook with no timeline place), the graphic novels, the musical and the game. The Demigod Files / Diaries are one entry each, though their stories sit at different points. | As listed. Say if you want graphic novels or per-story entries. |
-| D-42 | **Middle-earth calendar: Tolkien's Ages.** A new calendar type shows "F.A./S.A./T.A./Fo.A. year". The Fourth Age starts after T.A. 3021. | Applied. Each production (books, Jackson films, Rings of Power, Rankin/Bass, Bakshi, Soviet and Finnish TV) is its own continuity. |
-| D-43 | **Radio dramas.** BBC radio's The Lord of the Rings (1955–56, 1981) and The Hobbit (1968) need a new "radio" medium. | Not added yet. Say if you want radio and audio dramas as a medium (it would also cover Star Wars, Doctor Who-style audio). |
+| – | No open questions right now. | – |
 
 ## Resolved
 
@@ -66,3 +58,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-42 | all | D-37 later seasons | A later season of an essential series is essential too, as a general rule (guides written before a season came out can't list it). This applies to House of the Dragon S3, Strange New Worlds S4 and Monarch S2. |
 | R-43 | DC | Continuity dropdown too long | Replaced with a searchable picker, grouped automatically (shared universes, animated, live-action films & series, collections), showing each continuity's title count and years. |
 | R-44 | all | D-35 cameo sources | Fan wikis checked. Only Marvel Database, DC Database and Gojipedia mark cameos explicitly; those markers are used along with Wikipedia, and each cameo cites its source (page revision). |
+| R-45 | B3 | D-40 Riordan calendar | Approved: story order only, fan years shown as "(fan-dated)". |
+| R-46 | B3 | D-41 Riordan scope | **Include everything**: Demigods of Olympus, the graphic novels, The Ultimate Guide, the Kane Survival Guide and the other companions, the musical (theatre), and Demigod Files / Diaries split into one entry per story. *Deferred until the user says go.* |
+| R-47 | 9 | D-42 Ages calendar | Approved. The Age convention must be stated wherever it matters (the Key already does this; also add it to Middle-earth tooltips and notes). |
+| R-48 | all | D-43 media | **Add radio, live / theatre and other needed media** (stage musicals and plays, audio dramas, podcasts if relevant). *Deferred until the user says go.* |
+| R-49 | all | D-44–D-48 | Approved as proposed (Spy Racers separate; Bond continuation novels later; inferred DC groupings; DC imprints included; disputed DC placements adjacent and linked). |

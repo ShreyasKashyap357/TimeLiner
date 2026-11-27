@@ -32,7 +32,8 @@
 - [x] Schema additions: Branch.merges_into, episode-level crossover constituents (backward compatible)
 - [x] DATA_NOTES DC section; verify-data drift for DC
 - [x] CHECKPOINT 3 delivered (continuing per R-10)
-- [ ] TODO: Mister Miracle (2028) once the DCU overview links an article; split Arrowverse mid-season Earth switches if per-episode dates are added
+- [x] Mister Miracle added (2028, year only)
+- [ ] Split Arrowverse mid-season Earth switches if per-episode dates are added
 
 ## Stage 4: DC in app
 - [x] DC enabled (blue accent, continuity picker, Arrowverse Earth markers, crossover episodes in detail panel)
@@ -63,13 +64,32 @@
 - [x] D-1 Marvel Television labels; D-4 bundle (no runtime Zod in prod, lazy views, current-universe first paint)
 - [x] D-7 leak audit (e2e, 4 viewport shapes); decision codes kept out of UI text
 - [x] D-14 recommended order for new viewers (MCU); essentials-only switch
-- [ ] D-14 recommended orders for other universes (Star Wars, Star Trek, DC) from published guides
+- [x] D-14 recommended orders for Star Wars, Star Trek, DCU, DCEU, MonsterVerse, HBO Westeros (+ official StarWars.com / StarTrek.com)
 - [x] D-15/D-30 Marvel Specials with Origin filter; D-19/D-32 Toho US re-edits
 - [x] D-11 DC deferred titles (55)
 - [x] D-16 word counts (WoT, ASOIAF 1–5) + reading time; spoiler-safe covers connection notes
 - [x] D-21/D-22 calendar notes in the Key
 - [x] D-29 cast & crew from Wikidata (top-billed cast, crew, authors) in the detail panel, search, and a Cast & crew filter
 - [x] UI batch: pickers (width, full list, colour swatches, layering), phone layout, [year] titles, URL defaults
+
+## Deferred by the user (2026-11-27): do not start until asked
+- [ ] New media types: radio / audio drama, live theatre (stage plays, musicals), and others needed (R-48). Then add:
+  BBC LOTR radio (1955, 1981), The Hobbit radio (1968), The Lightning Thief musical, Harry Potter and the Cursed Child, etc.
+- [ ] Riordan "include all" (R-46): Demigods of Olympus, graphic novels, companions, musical, per-story Demigod Files/Diaries.
+- [ ] Middle-earth: state the Age convention in tooltips/notes where it matters (R-47).
+- [ ] Wizarding World (Harry Potter books, films, Fantastic Beasts, Cursed Child, the HBO series).
+- [ ] Stage 8 Terminator / Halloween; Stage 10 Indian universes; Stage 11 Hollywood batch (Alien & Predator, Conjuring,
+  Jurassic, Apes, M:I, John Wick, Transformers, Ghostbusters, Indiana Jones, Rocky/Creed, Matrix, Mad Max, Avatar);
+  Stage 12 superhero (The Boys, Spider-Verse, Invincible, Hellboy); Stage 13 horror; anime/tokusatsu; books B4+.
+- [ ] Recommended watch orders for the newer universes (Riordan, Middle-earth, Bond, F&F, Arrowverse, Wheel of Time).
+- [ ] Bond continuation novels beyond Licence Renewed / Carte Blanche (D-45).
+- [ ] Per-season split for Guardians of the Galaxy (2015) and Spider-Man (2017) animated (episode lists not found yet).
+- [ ] TV cameos at episode level (fan wikis record them on episode pages).
+- [ ] Cameo-only characters from fan wikis in the Characters picker (they have no Wikidata id yet).
+- [ ] DC not yet researched: motion comics, small web series, unaired pilots.
+- [ ] Wheel of Time short stories (no publication dates found yet).
+- [ ] Layout audit to cover every universe (currently Marvel, ASOIAF, Star Wars).
+- [ ] CI: move workflow actions off deprecated Node 20.
 
 ## Revision workflow (see PLAN.md §9)
 - [x] verify-data --refetch produces a drift report (new titles / date / status / revid changes)

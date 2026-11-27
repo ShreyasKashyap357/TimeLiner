@@ -267,3 +267,14 @@ test('film drawer: runtime, budget and box office, cited, no overflow', async ({
   expect(await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)).toBeLessThanOrEqual(0);
 
 });
+
+test('tv drawer: viewers per episode and season, no overflow', async ({ page }) => {
+  await page.goto('/?u=dc&c=arrowverse&unit=arrow-s1');
+  const d = page.getByRole('dialog');
+  await expect(d).toBeVisible({ timeout: 20000 });
+  const h = d.getByRole('heading', { name: 'Viewers' });
+  await expect(h).toBeVisible();
+  await expect(page.getByRole('tooltip')).toHaveCount(0);
+  await h.scrollIntoViewIfNeeded();
+  expect(await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)).toBeLessThanOrEqual(0);
+});

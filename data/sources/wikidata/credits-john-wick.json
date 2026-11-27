@@ -1,0 +1,988 @@
+{
+ "fetched_at": "2026-11-27T19:47:05.085Z",
+ "license": "CC0",
+ "credits": [
+  {
+   "enwiki": "The Continental: From the World of John Wick",
+   "qid": "Q47287975",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q42229",
+      "character_qids": [],
+      "character_text": "Cormac O'Connor",
+      "role_qids": []
+     },
+     {
+      "qid": "Q19985219",
+      "character_qids": [
+       "Q131100876"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q56164597",
+      "character_qids": [],
+      "character_text": "KD di Silva",
+      "role_qids": []
+     },
+     {
+      "qid": "Q138658340",
+      "character_qids": [
+       "Q131100880"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q50127038",
+      "character_qids": [],
+      "character_text": "Frankie Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q130642607",
+      "character_qids": [],
+      "character_text": "Miles Burton",
+      "role_qids": []
+     },
+     {
+      "qid": "Q17413631",
+      "character_qids": [],
+      "character_text": "Yen Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q113585665",
+      "character_qids": [],
+      "character_text": "Lou Burton",
+      "role_qids": []
+     },
+     {
+      "qid": "Q17486466",
+      "character_qids": [],
+      "character_text": "Mayhew",
+      "role_qids": []
+     },
+     {
+      "qid": "Q164534",
+      "character_qids": [],
+      "character_text": "Uncle Charlie",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q2638168",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2960951",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "John Wick (film)",
+   "qid": "Q15732802",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q43416",
+      "character_qids": [
+       "Q64417139"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q262278",
+      "character_qids": [],
+      "character_text": "Ms. Perkins",
+      "role_qids": []
+     },
+     {
+      "qid": "Q552026",
+      "character_qids": [],
+      "character_text": "Iosef Tarasov",
+      "role_qids": []
+     },
+     {
+      "qid": "Q232343",
+      "character_qids": [],
+      "character_text": "Helen Wick",
+      "role_qids": []
+     },
+     {
+      "qid": "Q240187",
+      "character_qids": [],
+      "character_text": "Addy",
+      "role_qids": []
+     },
+     {
+      "qid": "Q1095834",
+      "character_qids": [],
+      "character_text": "Harry",
+      "role_qids": []
+     },
+     {
+      "qid": "Q115932",
+      "character_qids": [],
+      "character_text": "Kirill",
+      "role_qids": []
+     },
+     {
+      "qid": "Q210076",
+      "character_qids": [],
+      "character_text": "Charlie",
+      "role_qids": []
+     },
+     {
+      "qid": "Q515415",
+      "character_qids": [],
+      "character_text": "Avi",
+      "role_qids": []
+     },
+     {
+      "qid": "Q234141",
+      "character_qids": [],
+      "character_text": "Winston Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q295233",
+      "character_qids": [],
+      "character_text": "Aurelio",
+      "role_qids": []
+     },
+     {
+      "qid": "Q280793",
+      "character_qids": [],
+      "character_text": "Francis",
+      "role_qids": []
+     },
+     {
+      "qid": "Q322056",
+      "character_qids": [],
+      "character_text": "Charon",
+      "role_qids": []
+     },
+     {
+      "qid": "Q382278",
+      "character_qids": [],
+      "character_text": "Viggo Tarasov",
+      "role_qids": []
+     },
+     {
+      "qid": "Q3525542",
+      "character_qids": [],
+      "character_text": "Jimmy",
+      "role_qids": []
+     },
+     {
+      "qid": "Q188772",
+      "character_qids": [],
+      "character_text": "Marcus",
+      "role_qids": []
+     },
+     {
+      "qid": "Q6649919",
+      "character_qids": [],
+      "character_text": "Gregory",
+      "role_qids": []
+     },
+     {
+      "qid": "Q20669310",
+      "character_qids": [],
+      "character_text": "Victor",
+      "role_qids": []
+     },
+     {
+      "qid": "Q2617121",
+      "character_qids": [],
+      "character_text": "Kuzma",
+      "role_qids": []
+     },
+     {
+      "qid": "Q318110",
+      "character_qids": [],
+      "character_text": "The Doctor",
+      "role_qids": []
+     },
+     {
+      "qid": "Q7437393",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q22277301",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5236475",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q30136697",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q163263",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5236475",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q52714247",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1345338",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "John Wick: Chapter 2",
+   "qid": "Q21451640",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q43416",
+      "character_qids": [
+       "Q64417139"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q286022",
+      "character_qids": [],
+      "character_text": "Cassian",
+      "role_qids": []
+     },
+     {
+      "qid": "Q193048",
+      "character_qids": [],
+      "character_text": "The Bowery King",
+      "role_qids": []
+     },
+     {
+      "qid": "Q133787",
+      "character_qids": [],
+      "character_text": "Santino D'Antonio",
+      "role_qids": []
+     },
+     {
+      "qid": "Q3942185",
+      "character_qids": [],
+      "character_text": "Ares",
+      "role_qids": []
+     },
+     {
+      "qid": "Q295233",
+      "character_qids": [],
+      "character_text": "Aurelio",
+      "role_qids": []
+     },
+     {
+      "qid": "Q234141",
+      "character_qids": [],
+      "character_text": "Winston Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q322056",
+      "character_qids": [],
+      "character_text": "Charon",
+      "role_qids": []
+     },
+     {
+      "qid": "Q468793",
+      "character_qids": [],
+      "character_text": "Gianna D'Antonio",
+      "role_qids": []
+     },
+     {
+      "qid": "Q232343",
+      "character_qids": [],
+      "character_text": "Helen Wick",
+      "role_qids": []
+     },
+     {
+      "qid": "Q3525542",
+      "character_qids": [],
+      "character_text": "Jimmy",
+      "role_qids": []
+     },
+     {
+      "qid": "Q210076",
+      "character_qids": [],
+      "character_text": "Charlie",
+      "role_qids": []
+     },
+     {
+      "qid": "Q311716",
+      "character_qids": [],
+      "character_text": "Julius",
+      "role_qids": []
+     },
+     {
+      "qid": "Q723256",
+      "character_qids": [],
+      "character_text": "The Sommelier",
+      "role_qids": []
+     },
+     {
+      "qid": "Q5115999",
+      "character_qids": [],
+      "character_text": "Mr. Akoni",
+      "role_qids": []
+     },
+     {
+      "qid": "Q295148",
+      "character_qids": [],
+      "character_text": "Abram Tarasov",
+      "role_qids": []
+     },
+     {
+      "qid": "Q453340",
+      "character_qids": [],
+      "character_text": "Female Assassin in Continental",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q22277301",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q30136697",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q52714247",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1345338",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "John Wick: Chapter 3 – Parabellum",
+   "qid": "Q52951815",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q43416",
+      "character_qids": [
+       "Q64417139"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q1033016",
+      "character_qids": [],
+      "character_text": "Sofia al-Azwar",
+      "role_qids": []
+     },
+     {
+      "qid": "Q234141",
+      "character_qids": [],
+      "character_text": "Winston Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q322056",
+      "character_qids": [],
+      "character_text": "Charon",
+      "role_qids": []
+     },
+     {
+      "qid": "Q193048",
+      "character_qids": [],
+      "character_text": "The Bowery King",
+      "role_qids": []
+     },
+     {
+      "qid": "Q6163031",
+      "character_qids": [],
+      "character_text": "Tick Tock Man",
+      "role_qids": []
+     },
+     {
+      "qid": "Q190998",
+      "character_qids": [],
+      "character_text": "The Director",
+      "role_qids": []
+     },
+     {
+      "qid": "Q1277708",
+      "character_qids": [],
+      "character_text": "Ernest",
+      "role_qids": []
+     },
+     {
+      "qid": "Q314200",
+      "character_qids": [],
+      "character_text": "Zero",
+      "role_qids": []
+     },
+     {
+      "qid": "Q29349327",
+      "character_qids": [],
+      "character_text": "The Adjudicator",
+      "role_qids": []
+     },
+     {
+      "qid": "Q373034",
+      "character_qids": [],
+      "character_text": "The Elder",
+      "role_qids": []
+     },
+     {
+      "qid": "Q1687736",
+      "character_qids": [],
+      "character_text": "Berrada",
+      "role_qids": []
+     },
+     {
+      "qid": "Q18156735",
+      "character_qids": [],
+      "character_text": "The Administrator",
+      "role_qids": []
+     },
+     {
+      "qid": "Q318110",
+      "character_qids": [],
+      "character_text": "The Doctor",
+      "role_qids": []
+     },
+     {
+      "qid": "Q12525054",
+      "character_qids": [],
+      "character_text": "Shinobi #2",
+      "role_qids": []
+     },
+     {
+      "qid": "Q133787",
+      "character_qids": [],
+      "character_text": "Santino d'Antonio",
+      "role_qids": []
+     },
+     {
+      "qid": "Q3978224",
+      "character_qids": [],
+      "character_text": "The Librarian",
+      "role_qids": []
+     },
+     {
+      "qid": "Q7811662",
+      "character_qids": [],
+      "character_text": "Earl",
+      "role_qids": []
+     },
+     {
+      "qid": "Q70090449",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q104491277",
+      "character_qids": [],
+      "character_text": "The Tailor",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q22277301",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q30136697",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5106222",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q52714247",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1345338",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Ballerina (2025 film)",
+   "qid": "Q84713105",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q698173",
+      "character_qids": [],
+      "character_text": "Eve Macarro",
+      "role_qids": []
+     },
+     {
+      "qid": "Q43416",
+      "character_qids": [
+       "Q64417139"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q234141",
+      "character_qids": [
+       "Q131100876"
+      ],
+      "character_text": "Winston Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q190998",
+      "character_qids": [],
+      "character_text": "The Director",
+      "role_qids": []
+     },
+     {
+      "qid": "Q296616",
+      "character_qids": [],
+      "character_text": "The Chancellor",
+      "role_qids": []
+     },
+     {
+      "qid": "Q322056",
+      "character_qids": [],
+      "character_text": "Charon",
+      "role_qids": []
+     },
+     {
+      "qid": "Q229972",
+      "character_qids": [],
+      "character_text": "Lena",
+      "role_qids": []
+     },
+     {
+      "qid": "Q503545",
+      "character_qids": [],
+      "character_text": "Daniel Pine",
+      "role_qids": []
+     },
+     {
+      "qid": "Q7490038",
+      "character_qids": [],
+      "character_text": "Nogi",
+      "role_qids": []
+     },
+     {
+      "qid": "Q20644018",
+      "character_qids": [],
+      "character_text": "Javier Macarro",
+      "role_qids": []
+     },
+     {
+      "qid": "Q565692",
+      "character_qids": [],
+      "character_text": "Prague Concierge",
+      "role_qids": []
+     },
+     {
+      "qid": "Q30334298",
+      "character_qids": [],
+      "character_text": "Dex",
+      "role_qids": []
+     },
+     {
+      "qid": "Q233385",
+      "character_qids": [],
+      "character_text": "Katla Park",
+      "role_qids": []
+     },
+     {
+      "qid": "Q12615545",
+      "character_qids": [],
+      "character_text": "Il Seong",
+      "role_qids": []
+     },
+     {
+      "qid": "Q38160",
+      "character_qids": [],
+      "character_text": "The Eye",
+      "role_qids": []
+     },
+     {
+      "qid": "Q123386756",
+      "character_qids": [],
+      "character_text": "Frank",
+      "role_qids": []
+     },
+     {
+      "qid": "Q134740318",
+      "character_qids": [],
+      "character_text": "Tatiana",
+      "role_qids": []
+     },
+     {
+      "qid": "Q115932",
+      "character_qids": [],
+      "character_text": "Scarred Eye Assassin",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q336099",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q70276767",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q16207879",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q52714247",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1345338",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q112122547",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "John Wick: Chapter 4",
+   "qid": "Q80322358",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q43416",
+      "character_qids": [
+       "Q64417139"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q193048",
+      "character_qids": [],
+      "character_text": "The Bowery King",
+      "role_qids": []
+     },
+     {
+      "qid": "Q234141",
+      "character_qids": [],
+      "character_text": "Winston Scott",
+      "role_qids": []
+     },
+     {
+      "qid": "Q322056",
+      "character_qids": [],
+      "character_text": "Charon",
+      "role_qids": []
+     },
+     {
+      "qid": "Q28840001",
+      "character_qids": [],
+      "character_text": "Shimazu Akira",
+      "role_qids": []
+     },
+     {
+      "qid": "Q311723",
+      "character_qids": [],
+      "character_text": "Caine",
+      "role_qids": []
+     },
+     {
+      "qid": "Q26703645",
+      "character_qids": [],
+      "character_text": "The Tracker / Mr. Nobody",
+      "role_qids": []
+     },
+     {
+      "qid": "Q862460",
+      "character_qids": [],
+      "character_text": "Marquis Vincent Bisset de Gramont",
+      "role_qids": []
+     },
+     {
+      "qid": "Q705522",
+      "character_qids": [],
+      "character_text": "Shimazu Koji",
+      "role_qids": []
+     },
+     {
+      "qid": "Q28310",
+      "character_qids": [],
+      "character_text": "Killa Harkan",
+      "role_qids": []
+     },
+     {
+      "qid": "Q4488",
+      "character_qids": [],
+      "character_text": "The Harbinger",
+      "role_qids": []
+     },
+     {
+      "qid": "Q612046",
+      "character_qids": [],
+      "character_text": "Chidi",
+      "role_qids": []
+     },
+     {
+      "qid": "Q232163",
+      "character_qids": [],
+      "character_text": "Katia Javanavič",
+      "role_qids": []
+     },
+     {
+      "qid": "Q21806378",
+      "character_qids": [],
+      "character_text": "The Elder",
+      "role_qids": []
+     },
+     {
+      "qid": "Q232343",
+      "character_qids": [],
+      "character_text": "Helen Wick",
+      "role_qids": []
+     },
+     {
+      "qid": "Q2371267",
+      "character_qids": [],
+      "character_text": "Klaus",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q22277301",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q70276767",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q95808687",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q1345338",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  }
+ ],
+ "labels": {
+  "Q42229": "Mel Gibson",
+  "Q19985219": "Colin Woodell",
+  "Q131100876": "Winston",
+  "Q56164597": "Mishel Prada",
+  "Q138658340": "Ayomide Adegun",
+  "Q131100880": "Charon",
+  "Q50127038": "Ben Robson",
+  "Q130642607": "Hubert Point-Du Jour",
+  "Q17413631": "Kate Nhung",
+  "Q113585665": "Jessica Allain",
+  "Q17486466": "Jeremy Bobb",
+  "Q164534": "Peter Greene",
+  "Q2638168": "Albert Hughes",
+  "Q2960951": "Charlotte Brändström",
+  "Q43416": "Keanu Reeves",
+  "Q64417139": "John Wick",
+  "Q262278": "Adrianne Palicki",
+  "Q552026": "Alfie Allen",
+  "Q232343": "Bridget Moynahan",
+  "Q240187": "Bridget Regan",
+  "Q1095834": "Clarke Peters",
+  "Q115932": "Daniel Bernhardt",
+  "Q210076": "David Patrick Kelly",
+  "Q515415": "Dean Winters",
+  "Q234141": "Ian McShane",
+  "Q295233": "John Leguizamo",
+  "Q280793": "Kevin Nash",
+  "Q322056": "Lance Reddick",
+  "Q382278": "Michael Nyqvist",
+  "Q3525542": "Thomas Sadoski",
+  "Q188772": "Willem Dafoe",
+  "Q6649919": "Omer Barnea",
+  "Q20669310": "Toby Leonard Moore",
+  "Q2617121": "Keith Jardine",
+  "Q318110": "Randall Duk Kim",
+  "Q7437393": "Scott Tixier",
+  "Q22277301": "Chad Stahelski",
+  "Q5236475": "David Leitch",
+  "Q30136697": "Derek Kolstad",
+  "Q163263": "Eva Longoria",
+  "Q52714247": "Basil Iwanyk",
+  "Q1345338": "Tyler Bates",
+  "Q286022": "Common",
+  "Q193048": "Laurence Fishburne",
+  "Q133787": "Riccardo Scamarcio",
+  "Q3942185": "Ruby Rose",
+  "Q468793": "Claudia Gerini",
+  "Q311716": "Franco Nero",
+  "Q723256": "Peter Serafinowicz",
+  "Q5115999": "Chuk Iwuji",
+  "Q295148": "Peter Stormare",
+  "Q453340": "Joan Smalls",
+  "Q1033016": "Halle Berry",
+  "Q6163031": "Jason Mantzoukas",
+  "Q190998": "Anjelica Huston",
+  "Q1277708": "Boban Marjanović",
+  "Q314200": "Mark Dacascos",
+  "Q29349327": "Asia Kate Dillon",
+  "Q373034": "Saïd Taghmaoui",
+  "Q1687736": "Jerome Flynn",
+  "Q18156735": "Robin Lord Taylor",
+  "Q12525054": "Yayan Ruhian",
+  "Q3978224": "Susan Blommaert",
+  "Q7811662": "Tobias Segal",
+  "Q70090449": "Faith Logan",
+  "Q104491277": "Luca Mosca",
+  "Q5106222": "Chris Collins",
+  "Q698173": "Ana de Armas",
+  "Q296616": "Gabriel Byrne",
+  "Q229972": "Catalina Sandino Moreno",
+  "Q503545": "Norman Reedus",
+  "Q7490038": "Sharon Duncan-Brewster",
+  "Q20644018": "David Castaneda",
+  "Q565692": "Anne Parillaud",
+  "Q30334298": "Robert Maaser",
+  "Q233385": "Sooyoung",
+  "Q12615545": "Jeong Du-hong",
+  "Q38160": "Waris Ahluwalia",
+  "Q123386756": "Abraham Popoola",
+  "Q134740318": "Juliet Doherty",
+  "Q336099": "Len Wiseman",
+  "Q70276767": "Shay Hatten",
+  "Q16207879": "Emerald Fennell",
+  "Q112122547": "Joel J. Richard",
+  "Q28840001": "Rina Sawayama",
+  "Q311723": "Donnie Yen",
+  "Q26703645": "Shamier Anderson",
+  "Q862460": "Bill Skarsgård",
+  "Q705522": "Hiroyuki Sanada",
+  "Q28310": "Scott Adkins",
+  "Q4488": "Clancy Brown",
+  "Q612046": "Marko Zaror",
+  "Q232163": "Natalia Tena",
+  "Q21806378": "George Georgiou",
+  "Q2371267": "Sven Marquardt",
+  "Q95808687": "Michael Finch"
+ }
+}

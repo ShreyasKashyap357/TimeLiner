@@ -1,0 +1,4461 @@
+[
+  {
+    "id": "prometheus",
+    "title": "Prometheus",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Prometheus (2012 film)",
+      "wikidata": "Q192686",
+      "tmdb": "70981",
+      "imdb": "tt1446714"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Prometheus_(2012_film)",
+      "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ],
+    "notes": "Release date is the UK general release (infobox: Empire premiere 2012-05-31, UK 2012-06-01, US 2012-06-08).",
+    "units": [
+      {
+        "id": "prometheus",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 124,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2093
+          },
+          "end": {
+            "y": 2093
+          },
+          "label": "2093",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Accompanied by android David 8 and hoping to discover the origins of humanity, they journey aboard the spaceship USCSS Prometheus and arrive in 2093 on the distant planet LV-223 in the Zeta2 Reticuli system, the same region of space in which the planetoid LV-426 from Alien is found. Film article plot opens \"In 2089\" (star map discovered); chronology table: \"2093 — Prometheus\".",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-06-01",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: May 31, 2012 (Empire, Leicester Square); Empire 2012 06; 01 United Kingdom 2012; 06 08 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Prometheus_(2012_film)",
+          "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Damon Lindelof",
+        "qid": "Q310556",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Jon Spaihts",
+        "qid": "Q6271612",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Michael Costigan",
+        "qid": "Q13499550",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Damon Lindelof",
+        "qid": "Q310556",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Marc Streitenfeld",
+        "qid": "Q553963",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noomi Rapace",
+        "qid": "Q228676",
+        "character": "Elizabeth Shaw",
+        "character_qid": "Q27001197",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Fassbender",
+        "qid": "Q57147",
+        "character": "David 8",
+        "character_qid": "Q123531213",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Guy Pearce",
+        "qid": "Q223745",
+        "character": "Peter Weyland",
+        "character_qid": "Q27001255",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Idris Elba",
+        "qid": "Q342604",
+        "character": "Idris Janek",
+        "character_qid": "Q27001319",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Logan Marshall-Green",
+        "qid": "Q472084",
+        "character": "Charlie Holloway",
+        "character_qid": "Q27001534",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charlize Theron",
+        "qid": "Q80046",
+        "character": "Meredith Vickers",
+        "character_qid": "Q27001563",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rafe Spall",
+        "qid": "Q1190134",
+        "character": "Rafe Millburn",
+        "character_qid": "Q27001586",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Patrick Wilson",
+        "qid": "Q351290",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter O'Toole",
+        "qid": "Q103876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sean Harris",
+        "qid": "Q1271614",
+        "character": "Sean Fifield",
+        "character_qid": "Q27001629",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harry Fowler",
+        "qid": "Q138715",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Whyte",
+        "qid": "Q1655682",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kate Dickie",
+        "qid": "Q212351",
+        "character": "Kate Ford",
+        "character_qid": "Q27001676",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Benedict Wong",
+        "qid": "Q3329808",
+        "character": "Benedict Ravel",
+        "character_qid": "Q27003234",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robin Atkin Downes",
+        "qid": "Q4346488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Giannina Facio",
+        "qid": "Q457736",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Emun Elliott",
+        "qid": "Q5374888",
+        "character": "Emun Chance",
+        "character_qid": "Q27003269",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Lebar",
+        "qid": "Q6244343",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lucy Hutchinson",
+        "qid": "Q6698371",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian MacNaughton",
+        "qid": "Q710041",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Philip McGinley",
+        "qid": "Q7184058",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-covenant",
+    "title": "Alien: Covenant",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien: Covenant",
+      "wikidata": "Q20430699",
+      "tmdb": "126889",
+      "imdb": "tt2316204"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien:_Covenant",
+      "https://en.wikipedia.org/w/index.php?title=Alien%3A_Covenant&oldid=1388332587"
+    ],
+    "notes": "Release date is UK general release (Odeon Leicester Square premiere 2017-05-04; US 2017-05-19).",
+    "units": [
+      {
+        "id": "alien-covenant",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 122,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2104
+          },
+          "end": {
+            "y": 2104
+          },
+          "label": "2104",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 2104, the spaceship Covenant is en route to colonize the planet Origae-6, carrying 2,000 colonists and 1,140 human embryos in cryogenic stasis.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-05-12",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: May 4, 2017 (Odeon Leicester Square); May 12, 2017 (United Kingdom); May 19, 2017 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien:_Covenant",
+          "https://en.wikipedia.org/w/index.php?title=Alien%3A_Covenant&oldid=1388332587"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "prometheus",
+        "kind": "sequel",
+        "note": "set eleven years after Prometheus"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Logan",
+        "qid": "Q384004",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dante Harper",
+        "qid": "Q95865009",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Jed Kurzel",
+        "qid": "Q3176338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Fassbender",
+        "qid": "Q57147",
+        "character": "Walter One / David 8",
+        "character_qid": "Q105563760",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Katherine Waterston",
+        "qid": "Q15222780",
+        "character": "Daniels",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny McBride",
+        "qid": "Q336400",
+        "character": "Tennessee",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Billy Crudup",
+        "qid": "Q313650",
+        "character": "Christopher Oram",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Demián Bichir",
+        "qid": "Q449940",
+        "character": "Dan Lope",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carmen Ejogo",
+        "qid": "Q391536",
+        "character": "Karine Oram",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amy Seimetz",
+        "qid": "Q4749378",
+        "character": "Maggie Faris",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jussie Smollett",
+        "qid": "Q6315685",
+        "character": "Ricks",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Callie Hernandez",
+        "qid": "Q24444473",
+        "character": "Upworth",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nathaniel Dean",
+        "qid": "Q3709675",
+        "character": "Tom Hallett",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Benjamin Rigby",
+        "qid": "Q25999409",
+        "character": "Ledward",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Noomi Rapace",
+        "qid": "Q228676",
+        "character": "Elizabeth Shaw",
+        "character_qid": "Q27001197",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Guy Pearce",
+        "qid": "Q223745",
+        "character": "Peter Weyland",
+        "character_qid": "Q27001255",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Franco",
+        "qid": "Q306403",
+        "character": "Jacob Branson",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Uli Latukefu",
+        "qid": "Q19875117",
+        "character": "Cole",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tess Haubrich",
+        "qid": "Q18416432",
+        "character": "Sarah Rosenthal",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Javier Botet",
+        "qid": "Q3163137",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-earth",
+    "title": "Alien: Earth",
+    "sort_title": null,
+    "type": "series",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "26-keys-productions",
+    "label": null,
+    "platform_or_network": "hulu",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien: Earth",
+      "wikidata": "Q116200246",
+      "tmdb": "157239",
+      "imdb": "tt13623632"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien:_Earth",
+      "https://en.wikipedia.org/w/index.php?title=Alien%3A_Earth&oldid=1387951243"
+    ],
+    "notes": "FX on Hulu. Only season 1 has aired per infobox (num_seasons = 1).",
+    "units": [
+      {
+        "id": "alien-earth",
+        "label": "Season 1",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2120
+          },
+          "end": {
+            "y": 2120
+          },
+          "label": "2120",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "It is the first television series in the Alien franchise and is set two years before the events of the 1979 film Alien. Year from the Alien (franchise) story chronology table: \"2120 — Alien: Earth (2025)\" (Alien is 2122).",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-08-12",
+          "end_date": "2025-09-23",
+          "year": 2025,
+          "note": "Wikipedia: first_aired = August 12, 2025; num_episodes = 8; final episode OriginalAirDate = September 23, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien:_Earth",
+          "https://en.wikipedia.org/w/index.php?title=Alien%3A_Earth&oldid=1387951243"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "alien-1979",
+        "kind": "sequel",
+        "note": "set two years before Alien"
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Noah Hawley",
+        "qid": "Q7045396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Noah Hawley",
+        "qid": "Q7045396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Dana Gonzales",
+        "qid": "Q5214733",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Noah Hawley",
+        "qid": "Q7045396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Noah Hawley",
+        "qid": "Q7045396",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "David W. Zucker",
+        "qid": "Q17145814",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Jeff Russo",
+        "qid": "Q6174877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sydney Chandler",
+        "qid": "Q113773403",
+        "character": "Wendy",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alex Lawther",
+        "qid": "Q19650398",
+        "character": "Joe Hermit",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Essie Davis",
+        "qid": "Q447717",
+        "character": "Dame Sylvia",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adarsh Gourav",
+        "qid": "Q105007708",
+        "character": "Slightly",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kit Young",
+        "qid": "Q72806279",
+        "character": "Tootles",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Timothy Olyphant",
+        "qid": "Q309835",
+        "character": "Kirsh",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Rysdahl",
+        "qid": "Q116077695",
+        "character": "Arthur Sylvia",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Samuel Blenkin",
+        "qid": "Q131760081",
+        "character": "Boy Kavalier",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adrian Edmondson",
+        "qid": "Q2160202",
+        "character": "Atom Eins",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Ajayi",
+        "qid": "Q131927667",
+        "character": "Smee",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Erana James",
+        "qid": "Q104732834",
+        "character": "Curly",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lily Newmark",
+        "qid": "Q62088373",
+        "character": "Nibs",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Moe Bar-El",
+        "qid": "Q36696993",
+        "character": "Rashidi",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Diêm Camille Gbogou",
+        "qid": "Q105359448",
+        "character": "Siberian",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Babou Ceesay",
+        "qid": "Q28039572",
+        "character": "Morrow",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sandra Yi Sencindiver",
+        "qid": "Q125573202",
+        "character": "Yutani",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-1979",
+    "title": "Alien",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien (film)",
+      "wikidata": "Q103569",
+      "tmdb": "348",
+      "imdb": "tt0078748"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "alien-1979",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 117,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2122
+          },
+          "end": {
+            "y": 2122
+          },
+          "label": "2122",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "2122 — Alien (1979) The film article itself gives no year; the year is from the Alien (franchise) story chronology table.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1979-05-25",
+          "end_date": null,
+          "year": 1979,
+          "note": "Wikipedia: May 25, 1979 (United States); September 6, 1979 (United Kingdom)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dan O'Bannon",
+        "qid": "Q498430",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Ronald Shusett",
+        "qid": "Q3056094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gordon Carroll",
+        "qid": "Q1537983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Ronald Shusett",
+        "qid": "Q3056094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Jerry Goldsmith",
+        "qid": "Q235077",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Yaphet Kotto",
+        "qid": "Q266270",
+        "character": "Dennis Monroe Parker",
+        "character_qid": "Q26988717",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Veronica Cartwright",
+        "qid": "Q283872",
+        "character": "Joan Lambert",
+        "character_qid": "Q26988720",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Skerritt",
+        "qid": "Q320093",
+        "character": "Arthur Dallas",
+        "character_qid": "Q26988721",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harry Dean Stanton",
+        "qid": "Q314290",
+        "character": "Samuel Brett",
+        "character_qid": "Q26988722",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Hurt",
+        "qid": "Q200405",
+        "character": "Gilbert Kane",
+        "character_qid": "Q26988724",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Ellen Ripley",
+        "character_qid": "Q988925",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Holm",
+        "qid": "Q223091",
+        "character": "Ash",
+        "character_qid": "Q133393",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eddie Powell",
+        "qid": "Q3047302",
+        "character": "Big Chap",
+        "character_qid": "Q129721495",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bolaji Badejo",
+        "qid": "Q323185",
+        "character": "Big Chap",
+        "character_qid": "Q129721495",
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-romulus",
+    "title": "Alien: Romulus",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "20th-century-studios",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien: Romulus",
+      "wikidata": "Q115932544",
+      "tmdb": "945961",
+      "imdb": "tt18412256"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien:_Romulus",
+      "https://en.wikipedia.org/w/index.php?title=Alien%3A_Romulus&oldid=1388333131"
+    ],
+    "notes": "US release; LA premiere 2024-08-12, Edinburgh 2024-08-15.",
+    "units": [
+      {
+        "id": "alien-romulus",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 119,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2142
+          },
+          "end": {
+            "y": 2142
+          },
+          "label": "2142",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 2142, a Weyland-Yutani probe recovers a large cocoon from the wreckage of the USCSS Nostromo.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-08-16",
+          "end_date": null,
+          "year": 2024,
+          "note": "Wikipedia: August 12, 2024 (Los Angeles); August 15, 2024 (Edinburgh International Film Festival); Edinburgh 2024 8; 16 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien:_Romulus",
+          "https://en.wikipedia.org/w/index.php?title=Alien%3A_Romulus&oldid=1388333131"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "alien-1979",
+        "kind": "sequel",
+        "note": "set between Alien and Aliens"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Fede Álvarez",
+        "qid": "Q5439920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Fede Álvarez",
+        "qid": "Q5439920",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Rodo Sayagues",
+        "qid": "Q83027896",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Ridley Scott",
+        "qid": "Q56005",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Benjamin Wallfisch",
+        "qid": "Q6056440",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cailee Spaeny",
+        "qid": "Q43387663",
+        "character": "Rain Carradine",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Isabela Merced",
+        "qid": "Q20830731",
+        "character": "Kay",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Jonsson",
+        "qid": "Q115676831",
+        "character": "Andy",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Archie Renaux",
+        "qid": "Q85678795",
+        "character": "Tyler",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Spike Fearn",
+        "qid": "Q124457667",
+        "character": "Bjorn",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Aileen Wu",
+        "qid": "Q131030310",
+        "character": "Navarro",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "aliens",
+    "title": "Aliens",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Aliens (film)",
+      "wikidata": "Q104814",
+      "tmdb": "679",
+      "imdb": "tt0090605"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aliens_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "aliens",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 137,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2179
+          },
+          "end": {
+            "y": 2179
+          },
+          "label": "2179",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "2179 — Aliens (1986) Film article: \"Ellen Ripley has been in stasis for 57 years\" (2122 + 57 = 2179).",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1986-07-18",
+          "end_date": null,
+          "year": 1986,
+          "note": "Wikipedia: July 18, 1986"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Aliens_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "alien-1979",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Ronald Shusett",
+        "qid": "Q3056094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dan O'Bannon",
+        "qid": "Q498430",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gale Anne Hurd",
+        "qid": "Q269895",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gordon Carroll",
+        "qid": "Q1537983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Gordon Carroll",
+        "qid": "Q1537983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "James Horner",
+        "qid": "Q106221",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William Hope",
+        "qid": "Q1368027",
+        "character": "Scott Gorman",
+        "character_qid": "Q26989435",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul Reiser",
+        "qid": "Q430922",
+        "character": "Carter Burke",
+        "character_qid": "Q26989882",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bill Paxton",
+        "qid": "Q110374",
+        "character": "William Hudson",
+        "character_qid": "Q26989927",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jenette Goldstein",
+        "qid": "Q263964",
+        "character": "Jenette Vasquez",
+        "character_qid": "Q26989952",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Al Matthews",
+        "qid": "Q964998",
+        "character": "Al Apone",
+        "character_qid": "Q26989987",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Rolston",
+        "qid": "Q693301",
+        "character": "Mark Drake",
+        "character_qid": "Q26990041",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ricco Ross",
+        "qid": "Q2056689",
+        "character": "Ricco Frost",
+        "character_qid": "Q26990056",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colette Hiller",
+        "qid": "Q5144700",
+        "character": "Colette Ferro",
+        "character_qid": "Q26990097",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Daniel Kash",
+        "qid": "Q727988",
+        "character": "Daniel Spunkmeyer",
+        "character_qid": "Q26990070",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tip Tipping",
+        "qid": "Q7808775",
+        "character": "Tim Crowe",
+        "character_qid": "Q26990085",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Ellen Ripley",
+        "character_qid": "Q988925",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lance Henriksen",
+        "qid": "Q312077",
+        "character": "Bishop",
+        "character_qid": "Q2037770",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Biehn",
+        "qid": "Q241510",
+        "character": "Dwayne Hicks",
+        "character_qid": "Q3513000",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carrie Henn",
+        "qid": "Q468313",
+        "character": "Newt Jorden",
+        "character_qid": "Q19708675",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cynthia Dale Scott",
+        "qid": "Q11308606",
+        "character": "Cynthia Dietrich",
+        "character_qid": "Q26990145",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jay Benedict",
+        "qid": "Q6166387",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mac McDonald",
+        "qid": "Q3273931",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387888475"
+      },
+      {
+        "role": "cast",
+        "name": "Tom Woodruff Jr.",
+        "qid": "Q12059144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-3",
+    "title": "Alien 3",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien 3",
+      "wikidata": "Q108543",
+      "tmdb": "8077",
+      "imdb": "tt0103644"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien_3",
+      "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "alien-3",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 114,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2179
+          },
+          "end": {
+            "y": 2179
+          },
+          "label": "2179",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "2179 — Alien 3 (1992) From the franchise chronology table; the film article gives no year.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-05-22",
+          "end_date": null,
+          "year": 1992,
+          "note": "Wikipedia: May 22, 1992"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien_3",
+          "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "aliens",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "David Fincher",
+        "qid": "Q184903",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Larry Ferguson",
+        "qid": "Q3218046",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gordon Carroll",
+        "qid": "Q1537983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Elliot Goldenthal",
+        "qid": "Q264565",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Ellen Ripley",
+        "character_qid": "Q988925",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1385558965"
+      },
+      {
+        "role": "cast",
+        "name": "Charles S. Dutton",
+        "qid": "Q706513",
+        "character": "Leonard Dillon",
+        "character_qid": "Q26995615",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Charles Dance",
+        "qid": "Q309690",
+        "character": "Jonathan Clemens",
+        "character_qid": "Q26995649",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Glover",
+        "qid": "Q530676",
+        "character": "Harold Andrews",
+        "character_qid": "Q26995666",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ralph Brown",
+        "qid": "Q124357",
+        "character": "Francis Aaron",
+        "character_qid": "Q26995695",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Paul McGann",
+        "qid": "Q335863",
+        "character": "Walter Golic",
+        "character_qid": "Q26995712",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Webb",
+        "qid": "Q3015315",
+        "character": "Robert Morse",
+        "character_qid": "Q26995724",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Pete Postlethwaite",
+        "qid": "Q217137",
+        "character": "David Postlethwaite",
+        "character_qid": "Q26995734",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lance Henriksen",
+        "qid": "Q312077",
+        "character": "Bishop",
+        "character_qid": "Q2037770",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Holt McCallany",
+        "qid": "Q1368141",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leon Herbert",
+        "qid": "Q5483291",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Clive Mantle",
+        "qid": "Q434869",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Guinness",
+        "qid": "Q2602031",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "DeObia Oparei",
+        "qid": "Q2686633",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Phil Davis",
+        "qid": "Q915916",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Woodruff Jr.",
+        "qid": "Q12059144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-resurrection",
+    "title": "Alien Resurrection",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "alien",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien Resurrection",
+      "wikidata": "Q458314",
+      "tmdb": "8078",
+      "imdb": "tt0118583"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien_Resurrection",
+      "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ],
+    "notes": "Release date is the first general release (France 1997-11-12); premiere 1997-11-06, US 1997-11-26.",
+    "units": [
+      {
+        "id": "alien-resurrection",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 108,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2381
+          },
+          "end": {
+            "y": 2381
+          },
+          "label": "2381",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "2381 — Alien Resurrection (1997) Film article: \"set 200 years after Alien 3\".",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-11-12",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: November 6, 1997 (Premiere); November 12, 1997 (France); November 26, 1997 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien_Resurrection",
+          "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "alien-3",
+        "kind": "sequel",
+        "note": "200 years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Jean-Pierre Jeunet",
+        "qid": "Q217324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Joss Whedon",
+        "qid": "Q298025",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gordon Carroll",
+        "qid": "Q1537983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "John Frizzell",
+        "qid": "Q331664",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Ellen Ripley",
+        "character_qid": "Q988925",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Winona Ryder",
+        "qid": "Q101797",
+        "character": "Annalee Call",
+        "character_qid": "Q117225572",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ron Perlman",
+        "qid": "Q220698",
+        "character": "Ron Johner",
+        "character_qid": "Q60743560",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dominique Pinon",
+        "qid": "Q38554",
+        "character": "Dom Vriess",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gary Dourdan",
+        "qid": "Q355038",
+        "character": "Gary Christie",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Wincott",
+        "qid": "Q707500",
+        "character": "Frank Elgyn",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brad Dourif",
+        "qid": "Q329734",
+        "character": "Dr. Jonathan Gediman",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Leland Orser",
+        "qid": "Q1320006",
+        "character": "Larry Purvis",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dan Hedaya",
+        "qid": "Q724804",
+        "character": "General Martin Perez",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "J. E. Freeman",
+        "qid": "Q3156752",
+        "character": "Dr. Mason Wren",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kim Flowers",
+        "qid": "Q3196718",
+        "character": "Sabra Hillard",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Raymond Cruz",
+        "qid": "Q1364886",
+        "character": "Vincent DiStephano",
+        "character_qid": "Q117215863",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David St. James",
+        "qid": "Q8354180",
+        "character": "Dr. Dan Sprague",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Woodruff Jr.",
+        "qid": "Q12059144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "predator-killer-of-killers",
+    "title": "Predator: Killer of Killers",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "20th-century-animation",
+    "label": null,
+    "platform_or_network": "hulu",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Predator: Killer of Killers",
+      "wikidata": "Q130639284",
+      "tmdb": "1376434",
+      "imdb": "tt36463894"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Predator:_Killer_of_Killers",
+      "https://en.wikipedia.org/w/index.php?title=Predator%3A_Killer_of_Killers&oldid=1386855890"
+    ],
+    "notes": "Animated. Released on Hulu (US) and Disney+ (international).",
+    "units": [
+      {
+        "id": "predator-killer-of-killers",
+        "label": "Film (animated)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 85,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 841
+          },
+          "end": {
+            "y": 1942
+          },
+          "label": "841–1942 (anthology)",
+          "precision": "range",
+          "confidence": "stated",
+          "note": "In Karelia in the year 841, Viking warrior Ursa leads her son Anders and their clan on an expedition to destroy the Krivich tribe and their leader, Zoran, who forced Ursa to kill her own father, Einar, the previous Earl of Ladoga, when she was a child. Anthology: segments in 841 (Viking), 1609 (\"In 1609 in Japan, brothers Kenji and Kiyoshi…\") and 1942 (\"In 1942, John J. Torres is drafted…\"), then a finale on the Yautja homeworld. Placed first by its earliest segment; the finale is after 1942, so it overlaps Prey (1719).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-06-06",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: June 6, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Predator:_Killer_of_Killers",
+          "https://en.wikipedia.org/w/index.php?title=Predator%3A_Killer_of_Killers&oldid=1386855890"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Dan Trachtenberg",
+        "qid": "Q5214505",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Joshua Wassung",
+        "qid": "Q134932002",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "prey",
+    "title": "Prey",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "20th-century-studios",
+    "label": null,
+    "platform_or_network": "hulu",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Prey (2022 film)",
+      "wikidata": "Q108329738",
+      "tmdb": "766507",
+      "imdb": "tt11866324"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Prey_(2022_film)",
+      "https://en.wikipedia.org/w/index.php?title=Prey_(2022_film)&oldid=1387393160"
+    ],
+    "notes": "Streaming release on Hulu (SDCC premiere 2022-07-21).",
+    "units": [
+      {
+        "id": "prey",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 99,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1719
+          },
+          "end": {
+            "y": 1719
+          },
+          "label": "1719",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "It is the fifth installment in the Predator franchise and a prequel to Predator (1987), set in the Northern Great Plains in 1719.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-08-05",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: July 21, 2022 (San Diego Comic-Con); August 5, 2022 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Prey_(2022_film)",
+          "https://en.wikipedia.org/w/index.php?title=Prey_(2022_film)&oldid=1387393160"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "predator-1987",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Dan Trachtenberg",
+        "qid": "Q5214505",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Patrick Aison",
+        "qid": "Q113648430",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Jhane Myers",
+        "qid": "Q72972313",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Marty Ewing",
+        "qid": "Q25291739",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Sarah Schachner",
+        "qid": "Q42602813",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Amber Midthunder",
+        "qid": "Q27493911",
+        "character": "Naru",
+        "character_qid": "Q113582555",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Thrush",
+        "qid": "Q6837272",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julian Black Antelope",
+        "qid": "Q64886373",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dane DiLiegro",
+        "qid": "Q3701496",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dakota Beavers",
+        "qid": "Q113499176",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "predator-1987",
+    "title": "Predator",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Predator (film)",
+      "wikidata": "Q200804",
+      "tmdb": "106",
+      "imdb": "tt0093773"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Predator_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Predators_(2010_film)&oldid=1386987288"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "predator-1987",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1987
+          },
+          "end": {
+            "y": 1987
+          },
+          "label": "1987",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "Isabelle identifies the captive Predator as matching the description of a creature that killed a special operations team in Guatemala before being defeated by a lone survivor in 1987. The Predator (1987) article gives no in-universe year; the year is stated in the plot of Predators (2010). Predator 2 article: \"Set ten years after the first film\" (1997), consistent.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1987-06-12",
+          "end_date": null,
+          "year": 1987,
+          "note": "Wikipedia: June 12, 1987"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Predator_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Predators_(2010_film)&oldid=1386987288"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "John McTiernan",
+        "qid": "Q270639",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Jim Thomas",
+        "qid": "Q2296549",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Thomas",
+        "qid": "Q3182596",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Thomas brothers",
+        "qid": "Q28664567",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Lawrence Gordon",
+        "qid": "Q575806",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Joel Silver",
+        "qid": "Q539718",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Alan Silvestri",
+        "qid": "Q313537",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arnold Schwarzenegger",
+        "qid": "Q2685",
+        "character": "Dutch",
+        "character_qid": "Q12325509",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carl Weathers",
+        "qid": "Q320218",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bill Duke",
+        "qid": "Q722312",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Peter Hall",
+        "qid": "Q361587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sonny Landham",
+        "qid": "Q776722",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jesse Ventura",
+        "qid": "Q311161",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shane Black",
+        "qid": "Q726126",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elpidia Carrillo",
+        "qid": "Q455010",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "R. G. Armstrong",
+        "qid": "Q1399617",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Chaves",
+        "qid": "Q460633",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sven-Ole Thorsen",
+        "qid": "Q1388769",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "predator-2",
+    "title": "Predator 2",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Predator 2",
+      "wikidata": "Q720357",
+      "tmdb": "169",
+      "imdb": "tt0100403"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Predator_2",
+      "https://en.wikipedia.org/w/index.php?title=Predator_2&oldid=1387999262"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "predator-2",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1997
+          },
+          "end": {
+            "y": 1997
+          },
+          "label": "1997",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1997, Los Angeles is experiencing a heat wave and a turf war between heavily armed Colombian and Jamaican drug cartels.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-11-21",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: November 21, 1990"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Predator_2",
+          "https://en.wikipedia.org/w/index.php?title=Predator_2&oldid=1387999262"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "predator-1987",
+        "kind": "sequel",
+        "note": "ten years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Stephen Hopkins",
+        "qid": "Q709076",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Jim Thomas",
+        "qid": "Q2296549",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Thomas",
+        "qid": "Q3182596",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Joel Silver",
+        "qid": "Q539718",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Lawrence Gordon",
+        "qid": "Q575806",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Alan Silvestri",
+        "qid": "Q313537",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Glover",
+        "qid": "Q192165",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Peter Hall",
+        "qid": "Q361587",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "María Conchita Alonso",
+        "qid": "Q271145",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gary Busey",
+        "qid": "Q312081",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bill Paxton",
+        "qid": "Q110374",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rubén Blades",
+        "qid": "Q474980",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adam Baldwin",
+        "qid": "Q312161",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Davi",
+        "qid": "Q443317",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Calvin Lockhart",
+        "qid": "Q5024455",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jsu Garcia",
+        "qid": "Q3084485",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kent McCord",
+        "qid": "Q3195290",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Morton Downey Jr.",
+        "qid": "Q2423759",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steve Kahan",
+        "qid": "Q1166925",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-predator",
+    "title": "The Predator",
+    "sort_title": "Predator",
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Predator (film)",
+      "wikidata": "Q25461297",
+      "tmdb": "346910",
+      "imdb": "tt3829266"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Predator_(film)",
+      "https://en.wikipedia.org/w/index.php?title=The_Predator_(film)&oldid=1386856166"
+    ],
+    "notes": "US release; TIFF premiere 2018-09-06.",
+    "units": [
+      {
+        "id": "the-predator",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "between Predator 2 and Predators",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is the fourth installment in the Predator franchise, set between the events of Predator 2 (1990) and Predators (2010). No year given; placement between Predator 2 and Predators is stated.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "predator-2",
+            "before": "predators"
+          }
+        },
+        "release": {
+          "date": "2018-09-14",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: September 6, 2018 (2018 Toronto International Film Festival); TIFF 2018 9; 14 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Predator_(film)",
+          "https://en.wikipedia.org/w/index.php?title=The_Predator_(film)&oldid=1386856166"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "predator-2",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Shane Black",
+        "qid": "Q726126",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Shane Black",
+        "qid": "Q726126",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Fred Dekker",
+        "qid": "Q1452257",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Thomas brothers",
+        "qid": "Q28664567",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Henry Jackman",
+        "qid": "Q1356888",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Boyd Holbrook",
+        "qid": "Q611096",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Olivia Munn",
+        "qid": "Q236475",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Jane",
+        "qid": "Q18938",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jake Busey",
+        "qid": "Q708824",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Trevante Rhodes",
+        "qid": "Q7838922",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Keegan-Michael Key",
+        "qid": "Q6382703",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sterling K. Brown",
+        "qid": "Q3295000",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jacob Tremblay",
+        "qid": "Q20965633",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Yvonne Strahovski",
+        "qid": "Q231891",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alfie Allen",
+        "qid": "Q552026",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "R. J. Palacio",
+        "qid": "Q2123852",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Niall Matter",
+        "qid": "Q1189063",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lochlyn Munro",
+        "qid": "Q73930",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "predators",
+    "title": "Predators",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Predators (2010 film)",
+      "wikidata": "Q380667",
+      "tmdb": "34851",
+      "imdb": "tt1424381"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Predators_(2010_film)"
+    ],
+    "notes": "Release date is first (international) release; US 2010-07-09.",
+    "units": [
+      {
+        "id": "predators",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 107,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after The Predator",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No year stated. Placed after The Predator, which is \"set between the events of Predator 2 (1990) and Predators (2010)\" (The Predator article). Story is on an alien game-preserve planet.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "the-predator",
+            "before": "predator-badlands"
+          }
+        },
+        "release": {
+          "date": "2010-07-07",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: July 7, 2010 (International); July 9, 2010 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Predators_(2010_film)"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "predator-1987",
+        "kind": "sequel",
+        "note": "references the 1987 Guatemala incident"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Nimród Antal",
+        "qid": "Q771774",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Alex Litvak",
+        "qid": "Q21209239",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Robert Rodriguez",
+        "qid": "Q47284",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Elizabeth Avellán Ochoa",
+        "qid": "Q465517",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "John Debney",
+        "qid": "Q48975",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adrien Brody",
+        "qid": "Q104514",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Topher Grace",
+        "qid": "Q277978",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alice Braga",
+        "qid": "Q230903",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Walton Goggins",
+        "qid": "Q516690",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Danny Trejo",
+        "qid": "Q223830",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Oleg Taktarov",
+        "qid": "Q714669",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mahershala Ali",
+        "qid": "Q360531",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Louis Ozawa Changchien",
+        "qid": "Q3798566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laurence Fishburne",
+        "qid": "Q193048",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Steele",
+        "qid": "Q3644509",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Derek Mears",
+        "qid": "Q616982",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Rodriguez",
+        "qid": "Q47284",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "predator-badlands",
+    "title": "Predator: Badlands",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "predator",
+    "studio_brand": "20th-century-studios",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Predator: Badlands",
+      "wikidata": "Q126396314",
+      "tmdb": "1242898",
+      "imdb": "tt31227572"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Predator:_Badlands",
+      "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210"
+    ],
+    "notes": "US release; TCL Chinese Theatre premiere 2025-11-03.",
+    "units": [
+      {
+        "id": "predator-badlands",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 108,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "far future, after all Alien films",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "In October 2025, Trachtenberg stated in an interview with IGN that Predator: Badlands is set in the far future after the events of all the previous Alien and Alien vs. Predator films and the Alien: Earth TV-series so as to avoid any potential continuity conflicts, considering Romulus and Earth were still in production when Badlands was being produced. No year; relative placement is a director statement (implicitly after Alien Resurrection, 2381). Last in this continuity.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "predators",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2025-11-07",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: November 3, 2025 (TCL Chinese Theatre); November 7, 2025 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Predator:_Badlands",
+          "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "alien-resurrection",
+        "kind": "crossover",
+        "note": "director: set after all Alien films; a Weyland-Yutani android (Thia) appears"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Dan Trachtenberg",
+        "qid": "Q5214505",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dan Trachtenberg",
+        "qid": "Q5214505",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Sarah Schachner",
+        "qid": "Q42602813",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Benjamin Wallfisch",
+        "qid": "Q6056440",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elle Fanning",
+        "qid": "Q228943",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "alien-vs-predator",
+    "title": "Alien vs. Predator",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "avp",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Alien vs. Predator (film)",
+      "wikidata": "Q155163",
+      "tmdb": "395",
+      "imdb": "tt0370263"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)",
+      "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210"
+    ],
+    "notes": "First (international) release 2004-08-12; US 2004-08-13.",
+    "units": [
+      {
+        "id": "alien-vs-predator",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2004
+          },
+          "end": {
+            "y": 2004
+          },
+          "label": "2004",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 2004, a Predator mothership arrives in Earth orbit to Year from the Predator (franchise) plot summary; the film article gives no year. Canon relative to the Alien and Predator series is contested (see continuity).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-08-12",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: August 12, 2004 (International); August 13, 2004 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)",
+          "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "predator-2",
+        "kind": "crossover",
+        "note": "intended as a sequel to the Predator films"
+      },
+      {
+        "to": "prometheus",
+        "kind": "crossover",
+        "note": "intended as a prequel to the Alien series; features Weyland founder Charles Bishop Weyland"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Paul W. S. Anderson",
+        "qid": "Q380608",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Shane Salerno",
+        "qid": "Q7488257",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Paul W. S. Anderson",
+        "qid": "Q380608",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gordon Carroll",
+        "qid": "Q1537983",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Henning Molfenter",
+        "qid": "Q1525056",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Harald Kloser",
+        "qid": "Q78652",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sanaa Lathan",
+        "qid": "Q241783",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lance Henriksen",
+        "qid": "Q312077",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Raoul Bova",
+        "qid": "Q381110",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ewen Bremner",
+        "qid": "Q520651",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colin Salmon",
+        "qid": "Q460898",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tommy Flanagan",
+        "qid": "Q134133",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Agathe de La Boulaye",
+        "qid": "Q391310",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carsten Norgaard",
+        "qid": "Q2940433",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Whyte",
+        "qid": "Q1655682",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Karima Adebibe",
+        "qid": "Q1994262",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Troughton",
+        "qid": "Q3041680",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liz May Brice",
+        "qid": "Q523389",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Petr Jákl",
+        "qid": "Q4382501",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kieran Bew",
+        "qid": "Q6405340",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eoin McCarthy",
+        "qid": "Q5381726",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Pavel Bezděk",
+        "qid": "Q7155574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Woodruff Jr.",
+        "qid": "Q12059144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jan Pavel Filipenský",
+        "qid": "Q6149681",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glenn Conroy",
+        "qid": "Q80572696",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alec Gillis",
+        "qid": "Q22111196",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Balderrama",
+        "qid": "Q71519397",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Carsten Voigt",
+        "qid": "Q131931993",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Andy Lucas",
+        "qid": "Q111182909",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "aliens-vs-predator-requiem",
+    "title": "Aliens vs. Predator: Requiem",
+    "sort_title": null,
+    "type": "film",
+    "universe": "alien-predator",
+    "continuity": "avp",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Aliens vs. Predator: Requiem",
+      "wikidata": "Q650076",
+      "tmdb": "440",
+      "imdb": "tt0758730"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aliens_vs._Predator:_Requiem",
+      "https://en.wikipedia.org/w/index.php?title=Aliens_vs._Predator%3A_Requiem&oldid=1386986545"
+    ],
+    "notes": "US release; Los Angeles premiere 2007-11-04.",
+    "units": [
+      {
+        "id": "aliens-vs-predator-requiem",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 94,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2004
+          },
+          "end": {
+            "y": 2004
+          },
+          "label": "2004 (immediately after AVP)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Set immediately after the events of the previous film, the film begins with a Predator ship crashing into a forest outside of Gunnison, Colorado, where an Alien-Predator hybrid known as the Predalien escapes and makes its way to the nearby small town. Year inferred from AVP (2004) plus \"immediately after\".",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-12-25",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: November 4, 2007 (Los Angeles); December 25, 2007 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Aliens_vs._Predator:_Requiem",
+          "https://en.wikipedia.org/w/index.php?title=Aliens_vs._Predator%3A_Requiem&oldid=1386986545"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "alien-vs-predator",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Colin Strause",
+        "qid": "Q14073503",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "director",
+        "name": "Greg Strause",
+        "qid": "Q14073494",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Dan O'Bannon",
+        "qid": "Q498430",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Shane Salerno",
+        "qid": "Q7488257",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Ronald Shusett",
+        "qid": "Q3056094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Jim Thomas",
+        "qid": "Q2296549",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "John Thomas",
+        "qid": "Q3182596",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "John Davis",
+        "qid": "Q931181",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "David Giler",
+        "qid": "Q2396324",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Walter Hill",
+        "qid": "Q350422",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Robbie Brenner",
+        "qid": "Q7340855",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Brian Tyler",
+        "qid": "Q251144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steven Pasquale",
+        "qid": "Q1749876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Reiko Aylesworth",
+        "qid": "Q239037",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Ortiz",
+        "qid": "Q210094",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Johnny Lewis",
+        "qid": "Q1259397",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ariel Gade",
+        "qid": "Q267413",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Trammell",
+        "qid": "Q40124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Joy",
+        "qid": "Q725247",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Paetkau",
+        "qid": "Q716169",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Françoise Yip",
+        "qid": "Q455986",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gina Holden",
+        "qid": "Q272965",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kristen Hager",
+        "qid": "Q455211",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Liam James",
+        "qid": "Q554506",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chelah Horsdal",
+        "qid": "Q1069031",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Hornsby",
+        "qid": "Q12386964",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris William Martin",
+        "qid": "Q1077865",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ty Olsson",
+        "qid": "Q552972",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom McBeath",
+        "qid": "Q1322337",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rekha Sharma",
+        "qid": "Q651681",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Victoria Bidewell",
+        "qid": "Q16682597",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Adrian Hough",
+        "qid": "Q24951338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rainbow Sun Francks",
+        "qid": "Q964607",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ryan Robbins",
+        "qid": "Q646724",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Feuer",
+        "qid": "Q1655508",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Juan Riedinger",
+        "qid": "Q3810914",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Shareeka Epps",
+        "qid": "Q275176",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Whyte",
+        "qid": "Q1655682",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Ward",
+        "qid": "Q61197252",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Tom Woodruff Jr.",
+        "qid": "Q12059144",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

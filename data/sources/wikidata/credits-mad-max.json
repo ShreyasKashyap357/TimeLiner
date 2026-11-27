@@ -1,0 +1,833 @@
+{
+ "fetched_at": "2026-11-27T19:47:19.002Z",
+ "license": "CC0",
+ "credits": [
+  {
+   "enwiki": "Mad Max (film)",
+   "qid": "Q248775",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q42229",
+      "character_qids": [
+       "Q2442950"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2777667",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q543496",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2065707",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2161934",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2526597",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q3371541",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q1885675",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q1370741",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q3528602",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q3087612",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q523976",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q523976",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q4910185",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q612067",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Mad Max 2",
+   "qid": "Q1125262",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q42229",
+      "character_qids": [
+       "Q2442950"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q6833613",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q704314",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q972991",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q3197697",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q275502",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q1336561",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q6795099",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2861579",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q543496",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5660005",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q7612918",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q7659692",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q7859979",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q437121",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2408644",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q523976",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q612067",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Mad Max Beyond Thunderdome",
+   "qid": "Q426663",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q42229",
+      "character_qids": [
+       "Q2442950"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q131814",
+      "character_qids": [],
+      "character_text": "Aunty Entity",
+      "role_qids": []
+     },
+     {
+      "qid": "Q543548",
+      "character_qids": [],
+      "character_text": "Ironbar Bassey",
+      "role_qids": []
+     },
+     {
+      "qid": "Q704314",
+      "character_qids": [],
+      "character_text": "Jedediah",
+      "role_qids": []
+     },
+     {
+      "qid": "Q370108",
+      "character_qids": [],
+      "character_text": "The Master",
+      "role_qids": []
+     },
+     {
+      "qid": "Q1601821",
+      "character_qids": [],
+      "character_text": "Savannah Nix",
+      "role_qids": []
+     },
+     {
+      "qid": "Q327356",
+      "character_qids": [],
+      "character_text": "The Collector",
+      "role_qids": []
+     },
+     {
+      "qid": "Q3371639",
+      "character_qids": [],
+      "character_text": "The Blaster",
+      "role_qids": []
+     },
+     {
+      "qid": "Q1257803",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q722091",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q6318349",
+      "character_qids": [],
+      "character_text": "Anna Goanna",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q3101803",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q437121",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q437121",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q105487",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Furiosa: A Mad Max Saga",
+   "qid": "Q100361125",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q20882479",
+      "character_qids": [
+       "Q20647453"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q54314",
+      "character_qids": [
+       "Q125740726"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q2439560",
+      "character_qids": [],
+      "character_text": "Praetorian Jack",
+      "role_qids": []
+     },
+     {
+      "qid": "Q707158",
+      "character_qids": [],
+      "character_text": "Rictus Erectus",
+      "role_qids": []
+     },
+     {
+      "qid": "Q4764239",
+      "character_qids": [],
+      "character_text": "Organic Mechanic",
+      "role_qids": []
+     },
+     {
+      "qid": "Q23928938",
+      "character_qids": [],
+      "character_text": "War Boy",
+      "role_qids": []
+     },
+     {
+      "qid": "Q5968695",
+      "character_qids": [
+       "Q85769086"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5670833",
+      "character_qids": [],
+      "character_text": "People Eater",
+      "role_qids": []
+     },
+     {
+      "qid": "Q5799862",
+      "character_qids": [],
+      "character_text": "Scrotus",
+      "role_qids": []
+     },
+     {
+      "qid": "Q54860719",
+      "character_qids": [],
+      "character_text": "Mary Jabassa",
+      "role_qids": []
+     },
+     {
+      "qid": "Q230123",
+      "character_qids": [],
+      "character_text": "Mr. Norton",
+      "role_qids": []
+     },
+     {
+      "qid": "Q86321649",
+      "character_qids": [],
+      "character_text": "War Pup",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q7028802",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q16935134",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q266429",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  },
+  {
+   "enwiki": "Mad Max: Fury Road",
+   "qid": "Q1757288",
+   "roles": {
+    "cast": [
+     {
+      "qid": "Q208026",
+      "character_qids": [
+       "Q2442950"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q80046",
+      "character_qids": [
+       "Q20647453"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q298347",
+      "character_qids": [
+       "Q25352452"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5799862",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q707158",
+      "character_qids": [],
+      "character_text": "Rictus Erectus",
+      "role_qids": []
+     },
+     {
+      "qid": "Q227129",
+      "character_qids": [],
+      "character_text": "Toast the Knowing",
+      "role_qids": []
+     },
+     {
+      "qid": "Q212006",
+      "character_qids": [],
+      "character_text": "The Splendid Angharad",
+      "role_qids": []
+     },
+     {
+      "qid": "Q254947",
+      "character_qids": [],
+      "character_text": "Capable",
+      "role_qids": []
+     },
+     {
+      "qid": "Q2065707",
+      "character_qids": [
+       "Q85769086"
+      ],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q479451",
+      "character_qids": [],
+      "character_text": "The Dag",
+      "role_qids": []
+     },
+     {
+      "qid": "Q16728739",
+      "character_qids": [],
+      "character_text": "Cheedo the Fragile",
+      "role_qids": []
+     },
+     {
+      "qid": "Q5670833",
+      "character_qids": [],
+      "character_text": "The People Eater",
+      "role_qids": []
+     },
+     {
+      "qid": "Q7324644",
+      "character_qids": [],
+      "character_text": "The Bullet Farmer",
+      "role_qids": []
+     },
+     {
+      "qid": "Q4764239",
+      "character_qids": [],
+      "character_text": "The Organic Mechanic",
+      "role_qids": []
+     },
+     {
+      "qid": "Q2245838",
+      "character_qids": [],
+      "character_text": "The Valkyrie",
+      "role_qids": []
+     },
+     {
+      "qid": "Q6812748",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5562241",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q1710007",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q35358",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q16193207",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5972922",
+      "character_qids": [],
+      "character_text": "The Doof Warrior",
+      "role_qids": []
+     }
+    ],
+    "director": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "writer": [
+     {
+      "qid": "Q4960985",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q7028802",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "producer": [
+     {
+      "qid": "Q446960",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q16935134",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q4977147",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5112210",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q3147204",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "executive-producer": [
+     {
+      "qid": "Q3147204",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q4977147",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q5112210",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     },
+     {
+      "qid": "Q141381253",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ],
+    "composer": [
+     {
+      "qid": "Q266429",
+      "character_qids": [],
+      "character_text": null,
+      "role_qids": []
+     }
+    ]
+   }
+  }
+ ],
+ "labels": {
+  "Q42229": "Mel Gibson",
+  "Q2442950": "Max Rockatansky",
+  "Q2777667": "Steve Bisley",
+  "Q543496": "Joanne Samuel",
+  "Q2065707": "Hugh Keays-Byrne",
+  "Q2161934": "Roger Ward",
+  "Q2526597": "Vincent Gil",
+  "Q3371541": "Paul Johnstone",
+  "Q1885675": "Reg Evans",
+  "Q1370741": "Steve Clark",
+  "Q3528602": "Tim Burns",
+  "Q3087612": "Jonathan Hardy",
+  "Q446960": "George Miller",
+  "Q523976": "Byron Kennedy",
+  "Q4910185": "Bill Miller",
+  "Q612067": "Brian May",
+  "Q6833613": "Michael Preston",
+  "Q704314": "Bruce Spence",
+  "Q972991": "Vernon Wells",
+  "Q3197697": "Kjell Nilsson",
+  "Q275502": "Virginia Hey",
+  "Q1336561": "Emil Minty",
+  "Q6795099": "Max Phipps",
+  "Q2861579": "Arkie Whiteley",
+  "Q5660005": "Harold Baigent",
+  "Q7612918": "Steve J. Spears",
+  "Q7659692": "Syd Heylen",
+  "Q7859979": "Tyler Coppin",
+  "Q437121": "Terry Hayes",
+  "Q2408644": "Brian Hannant",
+  "Q131814": "Tina Turner",
+  "Q543548": "Angry Anderson",
+  "Q370108": "Angelo Rossitto",
+  "Q1601821": "Helen Buday",
+  "Q327356": "Frank Thring",
+  "Q3371639": "Paul Larsson",
+  "Q1257803": "Tushka Bergen",
+  "Q722091": "Katharine Cullen",
+  "Q6318349": "Justine Clarke",
+  "Q3101803": "George Ogilvie",
+  "Q105487": "Maurice Jarre",
+  "Q20882479": "Anya Taylor-Joy",
+  "Q20647453": "Imperator Furiosa",
+  "Q54314": "Chris Hemsworth",
+  "Q125740726": "Warlord Dementus",
+  "Q2439560": "Tom Burke",
+  "Q707158": "Nathan Jones",
+  "Q4764239": "Angus Sampson",
+  "Q23928938": "Daniel Webber",
+  "Q5968695": "Lachy Hulme",
+  "Q85769086": "Immortan Joe",
+  "Q5670833": "John Howard",
+  "Q5799862": "Josh Helman",
+  "Q54860719": "Charlee Fraser",
+  "Q230123": "Elsa Pataky",
+  "Q86321649": "Quaden Bayles",
+  "Q7028802": "Nico Lathouris",
+  "Q16935134": "Doug Mitchell",
+  "Q266429": "Junkie XL",
+  "Q208026": "Tom Hardy",
+  "Q80046": "Charlize Theron",
+  "Q298347": "Nicholas Hoult",
+  "Q25352452": "Nux",
+  "Q227129": "Zoë Kravitz",
+  "Q212006": "Rosie Huntington-Whiteley",
+  "Q254947": "Riley Keough",
+  "Q479451": "Abbey Lee",
+  "Q16728739": "Courtney Eaton",
+  "Q7324644": "Richard Carter",
+  "Q2245838": "Megan Gale",
+  "Q6812748": "Melissa Jaffer",
+  "Q5562241": "Gillian Jones",
+  "Q1710007": "Joy Smithers",
+  "Q35358": "Richard Norton",
+  "Q16193207": "Lee Perry",
+  "Q5972922": "iOTA",
+  "Q4960985": "Brendan McCarthy",
+  "Q4977147": "Bruce Berman",
+  "Q5112210": "Christopher DeFaria",
+  "Q3147204": "Iain Smith",
+  "Q141381253": "Graham Burke"
+ }
+}

@@ -1,0 +1,2306 @@
+{
+ "alien-predator": {
+  "continuities": [
+   {
+    "id": "alien",
+    "name": "Alien (films and Alien: Earth)",
+    "description": "The Alien film series (including the Prometheus prequels and Alien: Romulus) and the Alien: Earth TV series, ordered by the Alien franchise article's story chronology table.",
+    "quote": "''Alien'' story chronology … 2093 — ''[[Prometheus (2012 film)|Prometheus]]'' (2012) … 2120 — ''[[Alien: Earth]]'' (2025) … 2122 — ''[[Alien (film)|Alien]]'' (1979) … 2381 — ''[[Alien Resurrection]]'' (1997)",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ]
+   },
+   {
+    "id": "predator",
+    "name": "Predator films",
+    "description": "The Predator films from Predator (1987) to Predator: Badlands (2025). Kept separate from the Alien continuity: the films reference each other (Weyland-Yutani appears in Badlands) but Wikipedia gives no shared chronology, and Badlands' placement after the Alien films is a director statement.",
+    "quote": "In October 2025, Trachtenberg stated in an interview with IGN that Predator: Badlands is set in the far future after the events of all the previous Alien and Alien vs. Predator films and the Alien: Earth TV-series so as to avoid any potential continuity conflicts, considering Romulus and Earth were still in production when Badlands was being produced.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210"
+    ]
+   },
+   {
+    "id": "avp",
+    "name": "Alien vs. Predator films",
+    "description": "The two crossover films. Their canon relative to the Alien series is contested: they were intended as a Predator sequel and Alien prequel, but the Alien franchise's story chronology omits them, and unused endings of The Predator (2018) tied the franchises together \"in a manner separate from the pre-existing Alien vs. Predator\" films. Kept as their own continuity, linked to both.",
+    "quote": "Alien vs. Predator was intended to be a sequel to the Predator films and prequel to the Alien series, Anderson was cautious of contradicting continuity in the franchises.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Alien_vs._Predator_(film)&oldid=1384246835",
+     "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "prometheus",
+    "title": "Prometheus",
+    "type": "film",
+    "wiki_article": "Prometheus (2012 film)",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century Fox / Scott Free Productions / Brandywine Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2012-06-01",
+      "release_quote": "{{Film date|2012|05|31|[[Empire, Leicester Square|Empire]]|2012|06|01|United Kingdom|2012|06|08|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Prometheus_(2012_film)&oldid=1387764389",
+      "in_universe": {
+       "year": 2093,
+       "year_end": null,
+       "label": "2093",
+       "confidence": "stated",
+       "quote": "Accompanied by android David 8 and hoping to discover the origins of humanity, they journey aboard the spaceship USCSS Prometheus and arrive in 2093 on the distant planet LV-223 in the Zeta2 Reticuli system, the same region of space in which the planetoid LV-426 from Alien is found.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020",
+       "precision": "year",
+       "note": "Film article plot opens \"In 2089\" (star map discovered); chronology table: \"2093 — Prometheus\".",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Release date is the UK general release (infobox: Empire premiere 2012-05-31, UK 2012-06-01, US 2012-06-08).",
+    "revid": 1387764389,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Prometheus_(2012_film)&oldid=1387764389"
+   },
+   {
+    "id": "alien-covenant",
+    "title": "Alien: Covenant",
+    "type": "film",
+    "wiki_article": "Alien: Covenant",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century Fox / Scott Free Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-05-12",
+      "release_quote": "{{Film date|2017|05|04|[[Odeon Leicester Square]]|2017|05|12|United Kingdom|2017|05|19|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Covenant&oldid=1388332587",
+      "in_universe": {
+       "year": 2104,
+       "year_end": null,
+       "label": "2104",
+       "confidence": "stated",
+       "quote": "In 2104, the spaceship Covenant is en route to colonize the planet Origae-6, carrying 2,000 colonists and 1,140 human embryos in cryogenic stasis.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Covenant&oldid=1388332587",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "prometheus",
+      "kind": "sequel",
+      "note": "set eleven years after Prometheus"
+     }
+    ],
+    "notes": "Release date is UK general release (Odeon Leicester Square premiere 2017-05-04; US 2017-05-19).",
+    "revid": 1388332587,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Covenant&oldid=1388332587"
+   },
+   {
+    "id": "alien-earth",
+    "title": "Alien: Earth",
+    "type": "series",
+    "wiki_article": "Alien: Earth",
+    "continuity": "alien",
+    "studio_or_developer": "26 Keys Productions / Scott Free Productions / FX Productions",
+    "publisher": null,
+    "platform": "hulu",
+    "platforms": [
+     "hulu"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2025-08-12",
+      "release_end": "2025-09-23",
+      "release_quote": "first_aired = {{Start date|2025|8|12}}; num_episodes = 8; final episode OriginalAirDate = {{Start date|2025|9|23}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Earth&oldid=1387951243",
+      "in_universe": {
+       "year": 2120,
+       "year_end": null,
+       "label": "2120",
+       "confidence": "stated",
+       "quote": "It is the first television series in the Alien franchise and is set two years before the events of the 1979 film Alien.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Earth&oldid=1387951243",
+       "precision": "year",
+       "note": "Year from the Alien (franchise) story chronology table: \"2120 — Alien: Earth (2025)\" (Alien is 2122).",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "alien-1979",
+      "kind": "prequel",
+      "note": "set two years before Alien"
+     }
+    ],
+    "notes": "FX on Hulu. Only season 1 has aired per infobox (num_seasons = 1).",
+    "revid": 1387951243,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Earth&oldid=1387951243"
+   },
+   {
+    "id": "alien-1979",
+    "title": "Alien",
+    "type": "film",
+    "wiki_article": "Alien (film)",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century-Fox / Brandywine Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1979-05-25",
+      "release_quote": "{{film date|1979|05|25|United States|1979|09|06|United Kingdom}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien_(film)&oldid=1387516614",
+      "in_universe": {
+       "year": 2122,
+       "year_end": null,
+       "label": "2122",
+       "confidence": "stated",
+       "quote": "2122 — ''[[Alien (film)|Alien]]'' (1979)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020",
+       "precision": "year",
+       "note": "The film article itself gives no year; the year is from the Alien (franchise) story chronology table.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1387516614,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien_(film)&oldid=1387516614"
+   },
+   {
+    "id": "alien-romulus",
+    "title": "Alien: Romulus",
+    "type": "film",
+    "wiki_article": "Alien: Romulus",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century Studios / Scott Free Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-08-16",
+      "release_quote": "{{film date|2024|8|12|Los Angeles|2024|8|15|[[Edinburgh International Film Festival|Edinburgh]]|2024|8|16|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Romulus&oldid=1388333131",
+      "in_universe": {
+       "year": 2142,
+       "year_end": null,
+       "label": "2142",
+       "confidence": "stated",
+       "quote": "In 2142, a Weyland-Yutani probe recovers a large cocoon from the wreckage of the USCSS Nostromo.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Romulus&oldid=1388333131",
+       "precision": "year",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "alien-1979",
+      "kind": "sequel",
+      "note": "set between Alien and Aliens"
+     }
+    ],
+    "notes": "US release; LA premiere 2024-08-12, Edinburgh 2024-08-15.",
+    "revid": 1388333131,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien%3A_Romulus&oldid=1388333131"
+   },
+   {
+    "id": "aliens",
+    "title": "Aliens",
+    "type": "film",
+    "wiki_article": "Aliens (film)",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century Fox / Brandywine Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1986-07-18",
+      "release_quote": "{{Film date|1986|7|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Aliens_(film)&oldid=1387888475",
+      "in_universe": {
+       "year": 2179,
+       "year_end": null,
+       "label": "2179",
+       "confidence": "stated",
+       "quote": "2179 — ''[[Aliens (film)|Aliens]]'' (1986)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020",
+       "precision": "year",
+       "note": "Film article: \"Ellen Ripley has been in stasis for 57 years\" (2122 + 57 = 2179).",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "alien-1979",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1387888475,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Aliens_(film)&oldid=1387888475"
+   },
+   {
+    "id": "alien-3",
+    "title": "Alien 3",
+    "type": "film",
+    "wiki_article": "Alien 3",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century Fox / Brandywine Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1992-05-22",
+      "release_quote": "{{Film date|1992|05|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien_3&oldid=1385558965",
+      "in_universe": {
+       "year": 2179,
+       "year_end": null,
+       "label": "2179",
+       "confidence": "stated",
+       "quote": "2179 — ''[[Alien 3]]'' (1992)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020",
+       "precision": "year",
+       "note": "From the franchise chronology table; the film article gives no year.",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "aliens",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1385558965,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien_3&oldid=1385558965"
+   },
+   {
+    "id": "alien-resurrection",
+    "title": "Alien Resurrection",
+    "type": "film",
+    "wiki_article": "Alien Resurrection",
+    "continuity": "alien",
+    "studio_or_developer": "20th Century Fox / Brandywine Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1997-11-12",
+      "release_quote": "{{Film date|1997|11|6|Premiere|1997|11|12|France|1997|11|26|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien_Resurrection&oldid=1388332336",
+      "in_universe": {
+       "year": 2381,
+       "year_end": null,
+       "label": "2381",
+       "confidence": "stated",
+       "quote": "2381 — ''[[Alien Resurrection]]'' (1997)",
+       "source": "https://en.wikipedia.org/w/index.php?title=Alien_(franchise)&oldid=1388333020",
+       "precision": "year",
+       "note": "Film article: \"set 200 years after Alien 3\".",
+       "order_index": 7
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "alien-3",
+      "kind": "sequel",
+      "note": "200 years later"
+     }
+    ],
+    "notes": "Release date is the first general release (France 1997-11-12); premiere 1997-11-06, US 1997-11-26.",
+    "revid": 1388332336,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien_Resurrection&oldid=1388332336"
+   },
+   {
+    "id": "predator-killer-of-killers",
+    "title": "Predator: Killer of Killers",
+    "type": "film",
+    "wiki_article": "Predator: Killer of Killers",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Animation / Lawrence Gordon Productions / Davis Entertainment",
+    "publisher": null,
+    "platform": "hulu",
+    "platforms": [
+     "hulu",
+     "disney-plus"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film (animated)",
+      "release_date": "2025-06-06",
+      "release_quote": "{{Film date|2025|6|6}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Predator%3A_Killer_of_Killers&oldid=1386855890",
+      "in_universe": {
+       "year": 841,
+       "year_end": 1942,
+       "label": "841–1942 (anthology)",
+       "confidence": "stated",
+       "quote": "In Karelia in the year 841, Viking warrior Ursa leads her son Anders and their clan on an expedition to destroy the Krivich tribe and their leader, Zoran, who forced Ursa to kill her own father, Einar, the previous Earl of Ladoga, when she was a child.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Predator%3A_Killer_of_Killers&oldid=1386855890",
+       "precision": "year",
+       "note": "Anthology: segments in 841 (Viking), 1609 (\"In 1609 in Japan, brothers Kenji and Kiyoshi…\") and 1942 (\"In 1942, John J. Torres is drafted…\"), then a finale on the Yautja homeworld. Placed first by its earliest segment; the finale is after 1942, so it overlaps Prey (1719).",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "Animated. Released on Hulu (US) and Disney+ (international).",
+    "revid": 1386855890,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Predator%3A_Killer_of_Killers&oldid=1386855890"
+   },
+   {
+    "id": "prey",
+    "title": "Prey",
+    "type": "film",
+    "wiki_article": "Prey (2022 film)",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Studios / Lawrence Gordon Productions / Davis Entertainment",
+    "publisher": null,
+    "platform": "hulu",
+    "platforms": [
+     "hulu"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-08-05",
+      "release_quote": "{{Film date|2022|7|21|[[San Diego Comic-Con]]|2022|8|5|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Prey_(2022_film)&oldid=1387393160",
+      "in_universe": {
+       "year": 1719,
+       "year_end": null,
+       "label": "1719",
+       "confidence": "stated",
+       "quote": "It is the fifth installment in the Predator franchise and a prequel to Predator (1987), set in the Northern Great Plains in 1719.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Prey_(2022_film)&oldid=1387393160",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "predator-1987",
+      "kind": "prequel",
+      "note": ""
+     }
+    ],
+    "notes": "Streaming release on Hulu (SDCC premiere 2022-07-21).",
+    "revid": 1387393160,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Prey_(2022_film)&oldid=1387393160"
+   },
+   {
+    "id": "predator-1987",
+    "title": "Predator",
+    "type": "film",
+    "wiki_article": "Predator (film)",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Fox / Davis Entertainment / Silver Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1987-06-12",
+      "release_quote": "{{Film date|1987|06|12}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Predator_(film)&oldid=1388225054",
+      "in_universe": {
+       "year": 1987,
+       "year_end": null,
+       "label": "1987",
+       "confidence": "stated",
+       "quote": "Isabelle identifies the captive Predator as matching the description of a creature that killed a special operations team in Guatemala before being defeated by a lone survivor in 1987.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Predators_(2010_film)&oldid=1386987288",
+       "precision": "year",
+       "note": "The Predator (1987) article gives no in-universe year; the year is stated in the plot of Predators (2010). Predator 2 article: \"Set ten years after the first film\" (1997), consistent.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [],
+    "notes": "",
+    "revid": 1388225054,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Predator_(film)&oldid=1388225054"
+   },
+   {
+    "id": "predator-2",
+    "title": "Predator 2",
+    "type": "film",
+    "wiki_article": "Predator 2",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Fox / Silver Pictures / Gordon Company",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1990-11-21",
+      "release_quote": "{{film date|1990|11|21}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Predator_2&oldid=1387999262",
+      "in_universe": {
+       "year": 1997,
+       "year_end": null,
+       "label": "1997",
+       "confidence": "stated",
+       "quote": "In 1997, Los Angeles is experiencing a heat wave and a turf war between heavily armed Colombian and Jamaican drug cartels.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Predator_2&oldid=1387999262",
+       "precision": "year",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "predator-1987",
+      "kind": "sequel",
+      "note": "ten years later"
+     }
+    ],
+    "notes": "",
+    "revid": 1387999262,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Predator_2&oldid=1387999262"
+   },
+   {
+    "id": "the-predator",
+    "title": "The Predator",
+    "type": "film",
+    "wiki_article": "The Predator (film)",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Fox / Davis Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-09-14",
+      "release_quote": "{{film date|2018|9|6|[[2018 Toronto International Film Festival|TIFF]]|2018|9|14|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Predator_(film)&oldid=1386856166",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "between Predator 2 and Predators",
+       "confidence": "stated",
+       "quote": "It is the fourth installment in the Predator franchise, set between the events of Predator 2 (1990) and Predators (2010).",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Predator_(film)&oldid=1386856166",
+       "precision": "relative",
+       "note": "No year given; placement between Predator 2 and Predators is stated.",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "predator-2",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; TIFF premiere 2018-09-06.",
+    "revid": 1386856166,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Predator_(film)&oldid=1386856166"
+   },
+   {
+    "id": "predators",
+    "title": "Predators",
+    "type": "film",
+    "wiki_article": "Predators (2010 film)",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Fox / Troublemaker Studios",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2010-07-07",
+      "release_quote": "{{Film date|2010|7|7|International|2010|7|9|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Predators_(2010_film)&oldid=1386987288",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after The Predator",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Predators (2010 film)",
+       "precision": "relative",
+       "note": "No year stated. Placed after The Predator, which is \"set between the events of Predator 2 (1990) and Predators (2010)\" (The Predator article). Story is on an alien game-preserve planet.",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "predator-1987",
+      "kind": "sequel",
+      "note": "references the 1987 Guatemala incident"
+     }
+    ],
+    "notes": "Release date is first (international) release; US 2010-07-09.",
+    "revid": 1386987288,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Predators_(2010_film)&oldid=1386987288"
+   },
+   {
+    "id": "predator-badlands",
+    "title": "Predator: Badlands",
+    "type": "film",
+    "wiki_article": "Predator: Badlands",
+    "continuity": "predator",
+    "studio_or_developer": "20th Century Studios / Davis Entertainment / Lawrence Gordon Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-11-07",
+      "release_quote": "{{Film date|2025|11|3|[[TCL Chinese Theatre]]|2025|11|7|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Predator%3A_Badlands&oldid=1386902308",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "far future, after all Alien films",
+       "confidence": "stated",
+       "quote": "In October 2025, Trachtenberg stated in an interview with IGN that Predator: Badlands is set in the far future after the events of all the previous Alien and Alien vs. Predator films and the Alien: Earth TV-series so as to avoid any potential continuity conflicts, considering Romulus and Earth were still in production when Badlands was being produced.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210",
+       "precision": "relative",
+       "note": "No year; relative placement is a director statement (implicitly after Alien Resurrection, 2381). Last in this continuity.",
+       "order_index": 6
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "alien-resurrection",
+      "kind": "crossover",
+      "note": "director: set after all Alien films; a Weyland-Yutani android (Thia) appears"
+     }
+    ],
+    "notes": "US release; TCL Chinese Theatre premiere 2025-11-03.",
+    "revid": 1386902308,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Predator%3A_Badlands&oldid=1386902308"
+   },
+   {
+    "id": "alien-vs-predator",
+    "title": "Alien vs. Predator",
+    "type": "film",
+    "wiki_article": "Alien vs. Predator (film)",
+    "continuity": "avp",
+    "studio_or_developer": "20th Century Fox",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2004-08-12",
+      "release_quote": "{{Film date|2004|8|12|International|2004|8|13|United States|df=yes}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Alien_vs._Predator_(film)&oldid=1384246835",
+      "in_universe": {
+       "year": 2004,
+       "year_end": null,
+       "label": "2004",
+       "confidence": "stated",
+       "quote": "In 2004, a Predator mothership arrives in Earth orbit to",
+       "source": "https://en.wikipedia.org/w/index.php?title=Predator_(franchise)&oldid=1386399210",
+       "precision": "year",
+       "note": "Year from the Predator (franchise) plot summary; the film article gives no year. Canon relative to the Alien and Predator series is contested (see continuity).",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "predator-2",
+      "kind": "crossover",
+      "note": "intended as a sequel to the Predator films"
+     },
+     {
+      "to": "prometheus",
+      "kind": "crossover",
+      "note": "intended as a prequel to the Alien series; features Weyland founder Charles Bishop Weyland"
+     }
+    ],
+    "notes": "First (international) release 2004-08-12; US 2004-08-13.",
+    "revid": 1384246835,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Alien_vs._Predator_(film)&oldid=1384246835"
+   },
+   {
+    "id": "aliens-vs-predator-requiem",
+    "title": "Aliens vs. Predator: Requiem",
+    "type": "film",
+    "wiki_article": "Aliens vs. Predator: Requiem",
+    "continuity": "avp",
+    "studio_or_developer": "20th Century Fox / Davis Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2007-12-25",
+      "release_quote": "{{Film date|2007|11|4|[[Los Angeles]]|2007|12|25|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Aliens_vs._Predator%3A_Requiem&oldid=1386986545",
+      "in_universe": {
+       "year": 2004,
+       "year_end": null,
+       "label": "2004 (immediately after AVP)",
+       "confidence": "inferred",
+       "quote": "Set immediately after the events of the previous film, the film begins with a Predator ship crashing into a forest outside of Gunnison, Colorado, where an Alien-Predator hybrid known as the Predalien escapes and makes its way to the nearby small town.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Aliens_vs._Predator%3A_Requiem&oldid=1386986545",
+       "precision": "year",
+       "note": "Year inferred from AVP (2004) plus \"immediately after\".",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "alien-vs-predator",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; Los Angeles premiere 2007-11-04.",
+    "revid": 1386986545,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Aliens_vs._Predator%3A_Requiem&oldid=1386986545"
+   }
+  ]
+ },
+ "jurassic-park": {
+  "continuities": [
+   {
+    "id": "jp-screen",
+    "name": "Jurassic Park / Jurassic World (films and animated series)",
+    "description": "The seven feature films, the short Battle at Big Rock, and the Netflix animated series Camp Cretaceous and Chaos Theory, which the franchise article places \"during the Jurassic World trilogy\".",
+    "quote": "DreamWorks Animation also produced two animated series for Netflix, Jurassic World Camp Cretaceous (2020–2022) and Jurassic World: Chaos Theory (2024–2025), both set during the Jurassic World trilogy.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(franchise)&oldid=1388102810",
+     "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+    ]
+   },
+   {
+    "id": "jp-novels",
+    "name": "Jurassic Park (Crichton novels)",
+    "description": "Michael Crichton's two novels; a separate continuity from the films, which adapt them.",
+    "quote": "The book was successful, as was Steven Spielberg's 1993 film adaptation.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(franchise)&oldid=1388102810"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "jurassic-park",
+    "title": "Jurassic Park",
+    "type": "film",
+    "wiki_article": "Jurassic Park",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures / Amblin Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1993-06-11",
+      "release_quote": "{{Film date|1993|6|9|[[Uptown Theater (Washington, D.C.)|Uptown Theater]]|1993|6|11|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park&oldid=1388319737",
+      "in_universe": {
+       "year": 1993,
+       "year_end": null,
+       "label": "1993 (inferred)",
+       "confidence": "inferred",
+       "quote": "Set twenty-two years after the events of Jurassic Park, the film takes place on the same fictional island of Isla Nublar, located off the Pacific coast of Costa Rica.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504",
+       "precision": "year",
+       "note": "Jurassic World (2015, inferred) minus 22 = 1993. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jp-novel",
+      "kind": "adapts",
+      "note": "adapts the novel"
+     }
+    ],
+    "notes": "US release; Uptown Theater premiere 1993-06-09.",
+    "revid": 1388319737,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park&oldid=1388319737"
+   },
+   {
+    "id": "the-lost-world-jurassic-park",
+    "title": "The Lost World: Jurassic Park",
+    "type": "film",
+    "wiki_article": "The Lost World: Jurassic Park",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1997-05-23",
+      "release_quote": "{{Film date|1997|5|19|Los Angeles premiere|1997|5|23|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Lost_World%3A_Jurassic_Park&oldid=1388291487",
+      "in_universe": {
+       "year": 1997,
+       "year_end": null,
+       "label": "1997 (inferred)",
+       "confidence": "inferred",
+       "quote": "Four years after the original film, John Hammond (Attenborough) loses control of his company InGen to his nephew, Peter Ludlow (Howard).",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Lost_World%3A_Jurassic_Park&oldid=1388291487",
+       "precision": "year",
+       "note": "1993 + 4. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-park",
+      "kind": "sequel",
+      "note": ""
+     },
+     {
+      "to": "lost-world-novel",
+      "kind": "adapts",
+      "note": "loosely adapts the novel"
+     }
+    ],
+    "notes": "US release; LA premiere 1997-05-19.",
+    "revid": 1388291487,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Lost_World%3A_Jurassic_Park&oldid=1388291487"
+   },
+   {
+    "id": "jurassic-park-iii",
+    "title": "Jurassic Park III",
+    "type": "film",
+    "wiki_article": "Jurassic Park III",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2001-07-18",
+      "release_quote": "{{Film date|2001|7|16|[[Universal Amphitheater]]|2001|7|18|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_III&oldid=1388292104",
+      "in_universe": {
+       "year": 2001,
+       "year_end": null,
+       "label": "2001 (inferred)",
+       "confidence": "inferred",
+       "quote": "Four years after the events of second film,",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_III&oldid=1388292104",
+       "precision": "year",
+       "note": "1997 + 4. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "the-lost-world-jurassic-park",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; Universal Amphitheater premiere 2001-07-16.",
+    "revid": 1388292104,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_III&oldid=1388292104"
+   },
+   {
+    "id": "jurassic-world",
+    "title": "Jurassic World",
+    "type": "film",
+    "wiki_article": "Jurassic World",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures / Legendary Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2015-06-12",
+      "release_quote": "{{Film date|2015|5|29|[[Le Grand Rex]]|2015|6|12|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504",
+      "in_universe": {
+       "year": 2015,
+       "year_end": null,
+       "label": "2015 (inferred)",
+       "confidence": "inferred",
+       "quote": "The film is set 22 years after the events of Jurassic Park, and is considered a direct sequel to that film; although The Lost World: Jurassic Park and Jurassic Park III remain canon in the series, Jurassic World ignores their events as they occurred on a different island.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504",
+       "precision": "year",
+       "note": "Fallen Kingdom (2018, inferred) is \"Three years after the events of Jurassic World\". Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-park",
+      "kind": "sequel",
+      "note": "direct sequel, 22 years later"
+     }
+    ],
+    "notes": "US release; Le Grand Rex premiere 2015-05-29.",
+    "revid": 1388292504,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+   },
+   {
+    "id": "jw-camp-cretaceous",
+    "title": "Jurassic World Camp Cretaceous",
+    "type": "series",
+    "wiki_article": "Jurassic World Camp Cretaceous",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Amblin Entertainment / Universal Television / DreamWorks Animation Television",
+    "publisher": null,
+    "platform": "netflix",
+    "platforms": [
+     "netflix"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 8,
+      "release_date": "2020-09-18",
+      "release_end": "2020-09-18",
+      "release_quote": "episodes1 = 8 | released1 = {{Start date|2020|9|18}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Jurassic_World_Camp_Cretaceous_episodes&oldid=1368596784",
+      "in_universe": {
+       "year": 2015,
+       "year_end": null,
+       "label": "2015 (during Jurassic World)",
+       "confidence": "inferred",
+       "quote": "It is set before, during, and after the events of the film Jurassic World (2015) and later during the events of its sequel, Jurassic World: Fallen Kingdom (2018).",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Camp_Cretaceous&oldid=1387226685",
+       "precision": "year",
+       "note": "Season 1 runs alongside Jurassic World (2015, inferred). Wikipedia gives no per-season placement beyond the series-level statement.",
+       "order_index": 4
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 8,
+      "release_date": "2021-01-22",
+      "release_end": "2021-01-22",
+      "release_quote": "episodes2 = 8 | released2 = {{Start date|2021|1|22}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Jurassic_World_Camp_Cretaceous_episodes&oldid=1368596784",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after Jurassic World, before Fallen Kingdom",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Jurassic World Camp Cretaceous",
+       "precision": "relative",
+       "note": "Series spans \"before, during, and after\" Jurassic World and later Fallen Kingdom; seasons kept in release order.",
+       "order_index": 5
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 10,
+      "release_date": "2021-05-21",
+      "release_end": "2021-05-21",
+      "release_quote": "episodes3 = 10 | released3 = {{Start date|2021|5|21}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Jurassic_World_Camp_Cretaceous_episodes&oldid=1368596784",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after season 2",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Jurassic World Camp Cretaceous",
+       "precision": "relative",
+       "note": "Release order.",
+       "order_index": 6
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 11,
+      "release_date": "2021-12-03",
+      "release_end": "2021-12-03",
+      "release_quote": "episodes4 = 11 | released4 = {{Start date|2021|12|3}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Jurassic_World_Camp_Cretaceous_episodes&oldid=1368596784",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "after season 3",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Jurassic World Camp Cretaceous",
+       "precision": "relative",
+       "note": "Release order.",
+       "order_index": 7
+      }
+     },
+     {
+      "key": "s5",
+      "label": "Season 5",
+      "season": 5,
+      "episodes": 12,
+      "release_date": "2022-07-21",
+      "release_end": "2022-11-15",
+      "release_quote": "episodes5 = 12 | released5 = {{Start date|2022|7|21}} … linkT5S = Special | released5S = {{Start date|2022|11|15}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=List_of_Jurassic_World_Camp_Cretaceous_episodes&oldid=1368596784",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "up to Fallen Kingdom",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Jurassic World Camp Cretaceous",
+       "precision": "relative",
+       "note": "Release order; the series reaches \"the events of … Fallen Kingdom (2018)\". Ordered before Fallen Kingdom. release_end is the 2022-11-15 special, folded into season 5 here.",
+       "order_index": 8
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-world",
+      "kind": "spinoff",
+      "note": "set around the events of Jurassic World"
+     }
+    ],
+    "notes": "Animated, Netflix. The special (2022-11-15) is folded into season 5.",
+    "revid": 1387226685,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Camp_Cretaceous&oldid=1387226685"
+   },
+   {
+    "id": "jurassic-world-fallen-kingdom",
+    "title": "Jurassic World: Fallen Kingdom",
+    "type": "film",
+    "wiki_article": "Jurassic World: Fallen Kingdom",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures / Amblin Entertainment / Legendary Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2018-06-22",
+      "release_quote": "released = {{Film date|2018|5|21|[[WiZink Center]]|2018|6|22|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Fallen_Kingdom&oldid=1388293168",
+      "in_universe": {
+       "year": 2018,
+       "year_end": null,
+       "label": "2018 (inferred)",
+       "confidence": "inferred",
+       "quote": "Three years after the events of Jurassic World (2015), a small mercenary team arrives on the abandoned Isla Nublar to collect DNA from its remains in the lagoon.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Fallen_Kingdom&oldid=1388293168",
+       "precision": "year",
+       "note": "Dominion (2022, inferred) is \"four years after the events of Fallen Kingdom\". Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+       "order_index": 9
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-world",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; WiZink Center premiere 2018-05-21.",
+    "revid": 1388293168,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Fallen_Kingdom&oldid=1388293168"
+   },
+   {
+    "id": "battle-at-big-rock",
+    "title": "Battle at Big Rock",
+    "type": "short",
+    "wiki_article": "Battle at Big Rock",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures / Amblin Entertainment",
+    "publisher": null,
+    "platform": "fx",
+    "platforms": [
+     "tv-fx"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Short film",
+      "release_date": "2019-09-15",
+      "release_quote": "Battle at Big Rock was announced on September 10, 2019, and it premiered five days later on FX.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Battle_at_Big_Rock&oldid=1388341590",
+      "in_universe": {
+       "year": 2019,
+       "year_end": null,
+       "label": "2019 (inferred)",
+       "confidence": "inferred",
+       "quote": "Set one year after the events of Jurassic World: Fallen Kingdom, a blended family from Oakland, California goes on a camping trip at the fictional Big Rock National Park in Northern California, approximately 20 mi (32 km) from where dinosaurs from Fallen Kingdom were let loose.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Battle_at_Big_Rock&oldid=1388341590",
+       "precision": "year",
+       "note": "2018 + 1. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+       "order_index": 10
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-world-fallen-kingdom",
+      "kind": "sequel",
+      "note": "short film, one year later"
+     }
+    ],
+    "notes": "Short film; premiered on FX.",
+    "revid": 1388341590,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Battle_at_Big_Rock&oldid=1388341590"
+   },
+   {
+    "id": "jw-chaos-theory",
+    "title": "Jurassic World: Chaos Theory",
+    "type": "series",
+    "wiki_article": "Jurassic World: Chaos Theory",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Amblin Entertainment / Universal Television / DreamWorks Animation Television",
+    "publisher": null,
+    "platform": "netflix",
+    "platforms": [
+     "netflix"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 10,
+      "release_date": "2024-05-24",
+      "release_end": "2024-05-24",
+      "release_quote": "episodes1 = 10 | released1 = {{Start date|2024|5|24}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "six years after Camp Cretaceous; before Dominion",
+       "confidence": "inferred",
+       "quote": "Six years after the events of Jurassic World Camp Cretaceous, \"the Nublar Six\" reunite and embark on an adventure to unravel a global conspiracy that threatens dinosaurs and humankind alike while learning the truth about what happened to one of their own.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694",
+       "precision": "relative",
+       "note": "\"takes place both before and during the events of Jurassic World Dominion (2022)\". Wikipedia does not say which point the six years count from, so no year is given.",
+       "order_index": 11
+      }
+     },
+     {
+      "key": "s2",
+      "label": "Season 2",
+      "season": 2,
+      "episodes": 10,
+      "release_date": "2024-10-17",
+      "release_end": "2024-10-17",
+      "release_quote": "episodes2 = 10 | released2 = {{Start date|2024|10|17}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "before Dominion",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Jurassic World: Chaos Theory",
+       "precision": "relative",
+       "note": "Release order.",
+       "order_index": 12
+      }
+     },
+     {
+      "key": "s3",
+      "label": "Season 3",
+      "season": 3,
+      "episodes": 10,
+      "release_date": "2025-04-03",
+      "release_end": "2025-04-03",
+      "release_quote": "episodes3 = 10 | released3 = {{Start date|2025|4|3}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "before Dominion",
+       "confidence": "inferred",
+       "quote": null,
+       "source": "Jurassic World: Chaos Theory",
+       "precision": "relative",
+       "note": "Release order.",
+       "order_index": 13
+      }
+     },
+     {
+      "key": "s4",
+      "label": "Season 4",
+      "season": 4,
+      "episodes": 9,
+      "release_date": "2025-11-20",
+      "release_end": "2025-11-20",
+      "release_quote": "episodes4 = 9 | released4 = {{Start date|2025|11|20}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694",
+      "in_universe": {
+       "year": 2022,
+       "year_end": null,
+       "label": "2022 (during Dominion, inferred)",
+       "confidence": "inferred",
+       "quote": "For the fourth season, Nicholas Brooks of CBR commended the intensity and focus on characters, but criticized its struggle to tie into the Jurassic franchise's films and the canonically-concurrent Jurassic World: Dominion.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694",
+       "precision": "year",
+       "note": "Season 4 is concurrent with Dominion (2022, inferred). Ordered just before Dominion because it runs alongside it.",
+       "order_index": 14
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jw-camp-cretaceous",
+      "kind": "sequel",
+      "note": "direct sequel"
+     },
+     {
+      "to": "jurassic-world-dominion",
+      "kind": "continues",
+      "note": "before and during Dominion"
+     }
+    ],
+    "notes": "Animated, Netflix.",
+    "revid": 1387226694,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694"
+   },
+   {
+    "id": "jurassic-world-dominion",
+    "title": "Jurassic World Dominion",
+    "type": "film",
+    "wiki_article": "Jurassic World Dominion",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Universal Pictures",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-06-10",
+      "release_quote": "{{Film date|2022|05|23|[[Mexico City]]|2022|06|10|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Dominion&oldid=1387905337",
+      "in_universe": {
+       "year": 2022,
+       "year_end": null,
+       "label": "2022 (inferred)",
+       "confidence": "inferred",
+       "quote": "The film is set four years after the events of Fallen Kingdom, with dinosaurs and other de-extinct prehistoric animals now living alongside humans around the world.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Dominion&oldid=1387905337",
+       "precision": "year",
+       "note": "Rebirth (2027, stated) is \"set five years after the events of Dominion\" (franchise article).",
+       "order_index": 15
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-world-fallen-kingdom",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; Mexico City premiere 2022-05-23.",
+    "revid": 1387905337,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Dominion&oldid=1387905337"
+   },
+   {
+    "id": "jurassic-world-rebirth",
+    "title": "Jurassic World Rebirth",
+    "type": "film",
+    "wiki_article": "Jurassic World Rebirth",
+    "continuity": "jp-screen",
+    "studio_or_developer": "Amblin Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-07-02",
+      "release_quote": "{{Film date|2025|6|17|[[Leicester Square]]|2025|7|2|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Rebirth&oldid=1386820667",
+      "in_universe": {
+       "year": 2027,
+       "year_end": null,
+       "label": "2027 (prologue 2010)",
+       "confidence": "stated",
+       "quote": "During 2027, most of Earth's climate is unsuitable for the de-extinct animals that InGen and other companies created.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Rebirth&oldid=1386820667",
+       "precision": "year",
+       "note": "Prologue: \"In 2010, InGen operates a dinosaur genetics laboratory on Île Saint-Hubert\". Franchise article: \"Rebirth is set five years after the events of Dominion\".",
+       "order_index": 16
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "jurassic-world-dominion",
+      "kind": "sequel",
+      "note": "five years later"
+     }
+    ],
+    "notes": "US release; Leicester Square premiere 2025-06-17.",
+    "revid": 1386820667,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Rebirth&oldid=1386820667"
+   },
+   {
+    "id": "jp-novel",
+    "title": "Jurassic Park",
+    "type": "novel",
+    "wiki_article": "Jurassic Park (novel)",
+    "continuity": "jp-novels",
+    "studio_or_developer": "Alfred A. Knopf",
+    "publisher": null,
+    "platform": "print-hardcover",
+    "platforms": [
+     "print-hardcover"
+    ],
+    "units": [
+     {
+      "key": "book",
+      "label": "Novel",
+      "release_date": "1990",
+      "release_quote": "Jurassic Park was released in October 1990.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(novel)&oldid=1387901673",
+      "in_universe": {
+       "year": 1989,
+       "year_end": null,
+       "label": "1989",
+       "confidence": "stated",
+       "quote": "In 1989, a series of unusual animal attacks occur in Costa Rica, with evidence suggesting the involvement of Procompsognathus, an extinct dinosaur.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(novel)&oldid=1387901673",
+       "precision": "year",
+       "order_index": 0
+      },
+      "release_year": 1990
+     }
+    ],
+    "links": [],
+    "notes": "Publisher Alfred A. Knopf, 399 pages (infobox). Article gives only the month (October 1990): release_date null, release_year 1990.",
+    "revid": 1387901673,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(novel)&oldid=1387901673",
+    "pages": 399,
+    "studio_or_publisher": "Alfred A. Knopf"
+   },
+   {
+    "id": "lost-world-novel",
+    "title": "The Lost World",
+    "type": "novel",
+    "wiki_article": "The Lost World (Crichton novel)",
+    "continuity": "jp-novels",
+    "studio_or_developer": "Alfred A. Knopf",
+    "publisher": null,
+    "platform": "print-hardcover",
+    "platforms": [
+     "print-hardcover"
+    ],
+    "units": [
+     {
+      "key": "book",
+      "label": "Novel",
+      "release_date": "1995",
+      "release_quote": "The Lost World is a 1995 science fiction action novel written by Michael Crichton, and the sequel to his 1990 novel Jurassic Park.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=The_Lost_World_(Crichton_novel)&oldid=1384325824",
+      "in_universe": {
+       "year": 1993,
+       "year_end": null,
+       "label": "1993",
+       "confidence": "stated",
+       "quote": "In 1993, chaos theorist Ian Malcolm, having survived the disaster at Jurassic Park four years before, gives a lecture on extinction and is challenged by paleontologist Richard Levine.",
+       "source": "https://en.wikipedia.org/w/index.php?title=The_Lost_World_(Crichton_novel)&oldid=1384325824",
+       "precision": "year",
+       "order_index": 1
+      },
+      "release_year": 1995
+     }
+    ],
+    "links": [
+     {
+      "to": "jp-novel",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "Publisher Knopf, 393 pages (infobox). Franchise article: \"Crichton's 1995 sequel novel\"; exact publication day not given in the extract: release_date null, release_year 1995.",
+    "revid": 1384325824,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=The_Lost_World_(Crichton_novel)&oldid=1384325824",
+    "pages": 393,
+    "studio_or_publisher": "Alfred A. Knopf"
+   }
+  ]
+ },
+ "planet-of-the-apes": {
+  "continuities": [
+   {
+    "id": "apes-original",
+    "name": "Planet of the Apes (1968–1973 films and 1974 TV series)",
+    "description": "The five original films (a closed time loop) and the 1974 CBS live-action series, which was conceived \"to follow the films\". The TV series is placed here on that basis; Wikipedia does not explicitly call it canon to the films.",
+    "quote": "To capitalize on this success, Arthur P. Jacobs conceived of an hour-long live-action television series to follow the films.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes&oldid=1386811298"
+    ]
+   },
+   {
+    "id": "apes-animated",
+    "name": "Return to the Planet of the Apes (1975 animated series)",
+    "description": "NBC animated series with new astronauts. Kept separate: Wikipedia describes it only as an adaptation of Planet of the Apes that loosely borrows elements of the films.",
+    "quote": "In 1975, after the failure of the live-action television series, NBC and 20th Century Fox agreed to adapt Planet of the Apes for an animated series.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes&oldid=1386811298"
+    ]
+   },
+   {
+    "id": "apes-burton",
+    "name": "Planet of the Apes (2001)",
+    "description": "Tim Burton's remake; its own continuity.",
+    "quote": "Plans for a film remake stalled in \"development hell\" for over 10 years before the 2001 release of Planet of the Apes, directed by Tim Burton.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes&oldid=1386811298"
+    ]
+   },
+   {
+    "id": "apes-reboot",
+    "name": "Planet of the Apes reboot series (2011–)",
+    "description": "Rise, Dawn, War and Kingdom.",
+    "quote": "In August, it was confirmed that any future installments would be set in the same universe first established in Rise of the Planet of the Apes (2011).",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Kingdom_of_the_Planet_of_the_Apes&oldid=1387911458",
+     "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes&oldid=1386811298"
+    ]
+   },
+   {
+    "id": "apes-novel",
+    "name": "La Planète des singes (Boulle novel)",
+    "description": "Pierre Boulle's 1963 novel; its own continuity.",
+    "quote": "La Planète des singes, published in English as Planet of the Apes in the U.S. and Monkey Planet in the UK, is a 1963 science fiction novel by French author Pierre Boulle.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(novel)&oldid=1384224309"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "escape-from-the-planet-of-the-apes",
+    "title": "Escape from the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Escape from the Planet of the Apes",
+    "continuity": "apes-original",
+    "studio_or_developer": "APJAC Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1971-05-26",
+      "release_quote": "{{Film date|1971|5|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Escape_from_the_Planet_of_the_Apes&oldid=1377373857",
+      "in_universe": {
+       "year": 1973,
+       "year_end": null,
+       "label": "1973",
+       "confidence": "stated",
+       "quote": "The shock wave of Earth's destruction sends the ship through a time warp that brings the apes to 1973 Earth.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Escape_from_the_Planet_of_the_Apes&oldid=1377373857",
+       "precision": "year",
+       "note": "The original series is a time loop: Escape sends Cornelius and Zira back to 1973, so in-universe order (Escape, Conquest, Battle, TV series, Planet of the Apes, Beneath) differs from release order.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "beneath-the-planet-of-the-apes",
+      "kind": "sequel",
+      "note": "the apes escape back in time from the end of Beneath"
+     }
+    ],
+    "notes": "",
+    "revid": 1377373857,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Escape_from_the_Planet_of_the_Apes&oldid=1377373857"
+   },
+   {
+    "id": "conquest-of-the-planet-of-the-apes",
+    "title": "Conquest of the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Conquest of the Planet of the Apes",
+    "continuity": "apes-original",
+    "studio_or_developer": "APJAC Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1972-06-14",
+      "release_quote": "{{Film date|1972|6|14}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Conquest_of_the_Planet_of_the_Apes&oldid=1382631305",
+      "in_universe": {
+       "year": 1991,
+       "year_end": null,
+       "label": "1991",
+       "confidence": "stated",
+       "quote": "Following a worldwide pandemic from a space-borne disease that wiped out all dogs and cats in 1983, the government in the year 1991 has become a series of Schutzstaffel-patterned police states that took chimpanzees, gorillas, and orangutans as pets before establishing a culture based on ape slave labor.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Conquest_of_the_Planet_of_the_Apes&oldid=1382631305",
+       "precision": "year",
+       "order_index": 1
+      },
+      "note": "Release date conflict: film infobox 1972-06-14 vs franchise article \"The film opened on June 30, 1972.\" Infobox used."
+     }
+    ],
+    "links": [
+     {
+      "to": "escape-from-the-planet-of-the-apes",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1382631305,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Conquest_of_the_Planet_of_the_Apes&oldid=1382631305"
+   },
+   {
+    "id": "battle-for-the-planet-of-the-apes",
+    "title": "Battle for the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Battle for the Planet of the Apes",
+    "continuity": "apes-original",
+    "studio_or_developer": "APJAC Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1973-06-13",
+      "release_quote": "{{Film date|1973|6|13}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Battle_for_the_Planet_of_the_Apes&oldid=1385395560",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "early 21st century (framed in 2670)",
+       "confidence": "inferred",
+       "quote": "The orangutan Lawgiver, in \"North America – 2670 A.D.\", explains to an unseen audience some key events of ape and human events in the late 20th century, then moves forward to the story of the chimpanzee Caesar in the early 21st century, years after a global nuclear war has destroyed human civilization.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Battle_for_the_Planet_of_the_Apes&oldid=1385395560",
+       "precision": "relative",
+       "note": "Main story is \"early 21st century\" (no exact year); framing scenes are 2670.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "conquest-of-the-planet-of-the-apes",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1385395560,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Battle_for_the_Planet_of_the_Apes&oldid=1385395560"
+   },
+   {
+    "id": "planet-of-the-apes-tv",
+    "title": "Planet of the Apes",
+    "type": "series",
+    "wiki_article": "Planet of the Apes (TV series)",
+    "continuity": "apes-original",
+    "studio_or_developer": "20th Century Fox Television",
+    "publisher": null,
+    "platform": "cbs",
+    "platforms": [
+     "tv-cbs"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 14,
+      "release_date": "1974-09-13",
+      "release_end": "1974-12-20",
+      "release_quote": "first_aired = {{Start date|1974|9|13}} | last_aired = {{End date|1974|12|20}} | num_episodes = 14",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(TV_series)&oldid=1387244089",
+      "in_universe": {
+       "year": 3085,
+       "year_end": null,
+       "label": "3085",
+       "confidence": "stated",
+       "quote": "Booth Colman as Councillor Zaius, the highest-ranking member of the High Council of Central City in the year 3085.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(TV_series)&oldid=1387244089",
+       "precision": "year",
+       "note": "Year appears in the cast list, not the plot. Placement in the film continuity rests on the franchise article (\"to follow the films\"), not an explicit canon statement.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "planet-of-the-apes-1968",
+      "kind": "spinoff",
+      "note": ""
+     }
+    ],
+    "notes": "One season; CBS.",
+    "revid": 1387244089,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(TV_series)&oldid=1387244089"
+   },
+   {
+    "id": "planet-of-the-apes-1968",
+    "title": "Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Planet of the Apes (1968 film)",
+    "continuity": "apes-original",
+    "studio_or_developer": "APJAC Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1968-04-03",
+      "release_quote": "{{film date|1968|02|08|[[Capitol Theatre (New York City)|Capitol Theatre]]|1968|04|03|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(1968_film)&oldid=1384986969",
+      "in_universe": {
+       "year": 3978,
+       "year_end": null,
+       "label": "3978",
+       "confidence": "stated",
+       "quote": "Before they abandon their sinking vessel, Taylor, the mission commander, reads the ship's chronometer as November 25, 3978—approximately two millennia after their departure in 1972.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(1968_film)&oldid=1384986969",
+       "precision": "year",
+       "order_index": 4
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "planet-of-the-apes-novel",
+      "kind": "adapts",
+      "note": "loose adaptation of the Boulle novel"
+     }
+    ],
+    "notes": "US release; Capitol Theatre (NYC) premiere 1968-02-08.",
+    "revid": 1384986969,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(1968_film)&oldid=1384986969"
+   },
+   {
+    "id": "beneath-the-planet-of-the-apes",
+    "title": "Beneath the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Beneath the Planet of the Apes",
+    "continuity": "apes-original",
+    "studio_or_developer": "APJAC Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "1970-05-26",
+      "release_quote": "{{Film date|1970|5|26}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Beneath_the_Planet_of_the_Apes&oldid=1387805205",
+      "in_universe": {
+       "year": 3955,
+       "year_end": null,
+       "label": "3955 (as given; follows the 1968 film)",
+       "confidence": "disputed",
+       "quote": "Brent, the only survivor, notes he is in the year 3955, but assumes he has travelled to another planet.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Beneath_the_Planet_of_the_Apes&oldid=1387805205",
+       "precision": "year",
+       "note": "The stated 3955 conflicts with the first film's 3978 although Beneath follows it directly (Brent finds Taylor). Ordered after the 1968 film.",
+       "order_index": 5
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "planet-of-the-apes-1968",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1387805205,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Beneath_the_Planet_of_the_Apes&oldid=1387805205"
+   },
+   {
+    "id": "return-to-the-planet-of-the-apes",
+    "title": "Return to the Planet of the Apes",
+    "type": "series",
+    "wiki_article": "Return to the Planet of the Apes",
+    "continuity": "apes-animated",
+    "studio_or_developer": "DePatie–Freleng Enterprises / 20th Century-Fox Television",
+    "publisher": null,
+    "platform": "nbc",
+    "platforms": [
+     "tv-nbc"
+    ],
+    "units": [
+     {
+      "key": "s1",
+      "label": "Season 1",
+      "season": 1,
+      "episodes": 13,
+      "release_date": "1975-09-06",
+      "release_end": "1975-11-29",
+      "release_quote": "first_aired = {{Start date|1975|9|6}} | last_aired = {{End date|1975|11|29}} | num_episodes = 13",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Return_to_the_Planet_of_the_Apes&oldid=1387246749",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "Earth's far future",
+       "confidence": "inferred",
+       "quote": "The plot concerns three American astronauts, Bill Hudson (Tom Williams), Jeff Allen (Austin Stoker, who played MacDonald in Battle), and Judy Franklin (Claudette Nevins), who inadvertently journey to Earth's far future.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Return_to_the_Planet_of_the_Apes&oldid=1387246749",
+       "precision": "relative",
+       "note": "No year stated.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "planet-of-the-apes-1968",
+      "kind": "remake",
+      "note": "animated retelling of the premise"
+     }
+    ],
+    "notes": "Animated; NBC Saturday morning.",
+    "revid": 1387246749,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Return_to_the_Planet_of_the_Apes&oldid=1387246749"
+   },
+   {
+    "id": "planet-of-the-apes-2001",
+    "title": "Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Planet of the Apes (2001 film)",
+    "continuity": "apes-burton",
+    "studio_or_developer": "20th Century Fox / The Zanuck Company",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2001-07-27",
+      "release_quote": "{{Film date|2001|07|27}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(2001_film)&oldid=1382522654",
+      "in_universe": {
+       "year": 2029,
+       "year_end": null,
+       "label": "2029 (start)",
+       "confidence": "stated",
+       "quote": "In 2029, aboard the space station Oberon, Leo Davidson works closely with apes who are trained for space missions.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(2001_film)&oldid=1382522654",
+       "precision": "year",
+       "note": "Opening year; Leo then passes through a time anomaly to an ape planet at an unstated time.",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "planet-of-the-apes-1968",
+      "kind": "remake",
+      "note": ""
+     }
+    ],
+    "notes": "",
+    "revid": 1382522654,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(2001_film)&oldid=1382522654"
+   },
+   {
+    "id": "rise-of-the-planet-of-the-apes",
+    "title": "Rise of the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Rise of the Planet of the Apes",
+    "continuity": "apes-reboot",
+    "studio_or_developer": "20th Century Fox / Chernin Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2011-08-05",
+      "release_quote": "{{Film date|2011|8|5}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Planet_of_the_Apes&oldid=1387231974",
+      "in_universe": {
+       "year": 2016,
+       "year_end": null,
+       "label": "2016",
+       "confidence": "stated",
+       "quote": "Set in 2016, the film follows Caesar (Serkis), a genetically enhanced chimpanzee who is first raised by chemist Will Rodman (Franco) before ultimately leading an ape uprising against humanity.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Planet_of_the_Apes&oldid=1387231974",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "planet-of-the-apes-1968",
+      "kind": "reboot-of",
+      "note": "reboot of the franchise"
+     }
+    ],
+    "notes": "",
+    "revid": 1387231974,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Planet_of_the_Apes&oldid=1387231974"
+   },
+   {
+    "id": "dawn-of-the-planet-of-the-apes",
+    "title": "Dawn of the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Dawn of the Planet of the Apes",
+    "continuity": "apes-reboot",
+    "studio_or_developer": "20th Century Fox / Chernin Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2014-07-11",
+      "release_quote": "{{Film date|2014|6|26|[[Palace of Fine Arts]]|2014|7|11|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Dawn_of_the_Planet_of_the_Apes&oldid=1383574408",
+      "in_universe": {
+       "year": 2026,
+       "year_end": null,
+       "label": "2026",
+       "confidence": "stated",
+       "quote": "The film takes place in 2026, ten years after the events of Rise and follows a group of human survivors as they battle to stay alive in the wake of a deadly pandemic, while Caesar tries to maintain control over his expanding ape community.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Dawn_of_the_Planet_of_the_Apes&oldid=1383574408",
+       "precision": "year",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "rise-of-the-planet-of-the-apes",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; Palace of Fine Arts premiere 2014-06-26.",
+    "revid": 1383574408,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Dawn_of_the_Planet_of_the_Apes&oldid=1383574408"
+   },
+   {
+    "id": "war-for-the-planet-of-the-apes",
+    "title": "War for the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "War for the Planet of the Apes",
+    "continuity": "apes-reboot",
+    "studio_or_developer": "20th Century Fox / Chernin Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2017-07-14",
+      "release_quote": "{{Film date|2017|7|10|[[School of Visual Arts|SVA Theatre]]|2017|7|14|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=War_for_the_Planet_of_the_Apes&oldid=1387751270",
+      "in_universe": {
+       "year": 2028,
+       "year_end": null,
+       "label": "2028 (inferred)",
+       "confidence": "inferred",
+       "quote": "Two years after the Battle of San Francisco, a U.S.",
+       "source": "https://en.wikipedia.org/w/index.php?title=War_for_the_Planet_of_the_Apes&oldid=1387751270",
+       "precision": "year",
+       "note": "The Battle of San Francisco is the climax of Dawn (2026); 2026 + 2.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "dawn-of-the-planet-of-the-apes",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; SVA Theatre premiere 2017-07-10.",
+    "revid": 1387751270,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=War_for_the_Planet_of_the_Apes&oldid=1387751270"
+   },
+   {
+    "id": "kingdom-of-the-planet-of-the-apes",
+    "title": "Kingdom of the Planet of the Apes",
+    "type": "film",
+    "wiki_article": "Kingdom of the Planet of the Apes",
+    "continuity": "apes-reboot",
+    "studio_or_developer": "20th Century Studios / Oddball Entertainment / Jason T. Reed Productions",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2024-05-10",
+      "release_quote": "{{Film date|2024|5|2|[[TCL Chinese Theatre]]}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Kingdom_of_the_Planet_of_the_Apes&oldid=1387911458",
+      "in_universe": {
+       "year": null,
+       "year_end": null,
+       "label": "c. 300 years after Caesar's death",
+       "confidence": "inferred",
+       "quote": "Ball stated the film was set during the \"Dark Ages\", where the apes rediscover lost items from the past in \"this grand adventure\"; Kingdom of the Planet of the Apes takes place 300 years following Caesar's death.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Kingdom_of_the_Planet_of_the_Apes&oldid=1387911458",
+       "precision": "relative",
+       "note": "Caesar dies at the end of War (2028, inferred); the lead says \"many generations after the events of War\". No exact year given, so year left null.",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "war-for-the-planet-of-the-apes",
+      "kind": "sequel",
+      "note": "generations later"
+     }
+    ],
+    "notes": "US release; TCL Chinese Theatre premiere 2024-05-02.",
+    "revid": 1387911458,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Kingdom_of_the_Planet_of_the_Apes&oldid=1387911458"
+   },
+   {
+    "id": "planet-of-the-apes-novel",
+    "title": "La Planète des singes",
+    "type": "novel",
+    "wiki_article": "Planet of the Apes (novel)",
+    "continuity": "apes-novel",
+    "studio_or_developer": "Éditions Julliard",
+    "publisher": null,
+    "platform": "print-hardcover",
+    "platforms": [
+     "print-hardcover"
+    ],
+    "units": [
+     {
+      "key": "book",
+      "label": "Novel",
+      "release_date": "1963",
+      "release_quote": "The novel was published in France in 1963 by Éditions Julliard.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(novel)&oldid=1384224309",
+      "in_universe": {
+       "year": 2500,
+       "year_end": null,
+       "label": "2500 (voyage begins)",
+       "confidence": "stated",
+       "quote": "The manuscript was written by Ulysse Mérou, a French journalist who, in 2500, was invited by Professor Antelle to accompany him and his disciple, physician Arthur Levain, to Betelgeuse.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(novel)&oldid=1384224309",
+       "precision": "year",
+       "note": "Departure year; \"Because of time dilation, centuries pass on Earth during their two years in transit.\"",
+       "order_index": 0
+      },
+      "release_year": 1963
+     }
+    ],
+    "links": [],
+    "notes": "Publisher Éditions Julliard (France, 1963); English: Vanguard Press (US, June 1963), Secker & Warburg (UK, January 1964, as Monkey Planet). Exact French publication day not given: release_date null, release_year 1963. Infobox pages field is empty.",
+    "revid": 1384224309,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Planet_of_the_Apes_(novel)&oldid=1384224309",
+    "pages": null,
+    "studio_or_publisher": "Éditions Julliard"
+   }
+  ]
+ },
+ "avatar-cameron": {
+  "continuities": [
+   {
+    "id": "avatar-main",
+    "name": "Avatar (films and canon games)",
+    "description": "James Cameron's Avatar films plus Avatar: Frontiers of Pandora, which was made to \"strictly adhere to the canon\". Avatar: The Game (2009) is described as non-canon and is excluded.",
+    "quote": "The developers had carte blanche from the film, leading to it becoming non-canon after the singular film became a franchise and the need to make Ubisoft´s followup Avatar: Frontiers of Pandora strictly adhere to the canon.",
+    "source": [
+     "https://en.wikipedia.org/w/index.php?title=Avatar%3A_The_Game&oldid=1386308790"
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "id": "avatar",
+    "title": "Avatar",
+    "type": "film",
+    "wiki_article": "Avatar (2009 film)",
+    "continuity": "avatar-main",
+    "studio_or_developer": "20th Century Fox / Lightstorm Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2009-12-18",
+      "release_quote": "{{Film date|2009|12|10|[[Odeon Leicester Square]]|2009|12|18|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Avatar_(2009_film)&oldid=1388156293",
+      "in_universe": {
+       "year": 2154,
+       "year_end": null,
+       "label": "2154",
+       "confidence": "stated",
+       "quote": "In 2154, Earth suffers from resource exhaustion and ecological collapse.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Avatar_(2009_film)&oldid=1388156293",
+       "precision": "year",
+       "order_index": 0
+      }
+     }
+    ],
+    "links": [],
+    "notes": "US release; Odeon Leicester Square premiere 2009-12-10.",
+    "revid": 1388156293,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Avatar_(2009_film)&oldid=1388156293"
+   },
+   {
+    "id": "avatar-frontiers-of-pandora",
+    "title": "Avatar: Frontiers of Pandora",
+    "type": "video-game",
+    "wiki_article": "Avatar: Frontiers of Pandora",
+    "continuity": "avatar-main",
+    "studio_or_developer": "Massive Entertainment",
+    "publisher": "Ubisoft",
+    "platform": "PlayStation 5 / Windows / Xbox Series X/S",
+    "platforms": [
+     "PlayStation 5",
+     "Windows",
+     "Xbox Series X/S"
+    ],
+    "units": [
+     {
+      "key": "game",
+      "label": "Game",
+      "release_date": "2023-12-07",
+      "release_quote": "The game is part of the Avatar franchise, and was released for PlayStation 5, Windows, and Xbox Series X/S on December 7, 2023.",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Frontiers_of_Pandora&oldid=1388296800",
+      "in_universe": {
+       "year": 2162,
+       "year_end": null,
+       "label": "2162 (prologue 2146–2154)",
+       "confidence": "stated",
+       "quote": "The students are awakened sixteen years later (2162) by Na'vi resistance fighters working with Alma.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Frontiers_of_Pandora&oldid=1388296800",
+       "precision": "year",
+       "note": "Prologue: \"In the year 2146, eight years before Jake Sully arrives on Pandora…\"; \"Eight years later (2154)…\". Main story from 2162, between Avatar (2154) and The Way of Water (2170, inferred).",
+       "order_index": 1
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "avatar",
+      "kind": "continues",
+      "note": "prologue overlaps the film's 2154 events"
+     }
+    ],
+    "notes": "Video game. DLC \"From the Ashes\" (2025-12-19) not modelled.",
+    "revid": 1388296800,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Frontiers_of_Pandora&oldid=1388296800"
+   },
+   {
+    "id": "avatar-the-way-of-water",
+    "title": "Avatar: The Way of Water",
+    "type": "film",
+    "wiki_article": "Avatar: The Way of Water",
+    "continuity": "avatar-main",
+    "studio_or_developer": "Lightstorm Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2022-12-16",
+      "release_quote": "{{Film date|2022|12|06|[[Odeon Luxe Leicester Square]]|2022|12|16|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_The_Way_of_Water&oldid=1387979886",
+      "in_universe": {
+       "year": 2170,
+       "year_end": null,
+       "label": "2170 (inferred)",
+       "confidence": "inferred",
+       "quote": "Sixteen years after the Na'vi repelled the Resources Development Administration (RDA) from Pandora, Jake Sully is chief of the Omatikaya clan.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_The_Way_of_Water&oldid=1387979886",
+       "precision": "year",
+       "note": "Avatar (2154, stated) + 16 = 2170.",
+       "order_index": 2
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "avatar",
+      "kind": "sequel",
+      "note": "sixteen years later"
+     }
+    ],
+    "notes": "US release; Odeon Luxe Leicester Square premiere 2022-12-06.",
+    "revid": 1387979886,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_The_Way_of_Water&oldid=1387979886"
+   },
+   {
+    "id": "avatar-fire-and-ash",
+    "title": "Avatar: Fire and Ash",
+    "type": "film",
+    "wiki_article": "Avatar: Fire and Ash",
+    "continuity": "avatar-main",
+    "studio_or_developer": "Lightstorm Entertainment",
+    "publisher": null,
+    "platform": "theatrical",
+    "platforms": [
+     "theatrical"
+    ],
+    "units": [
+     {
+      "key": "film",
+      "label": "Film",
+      "release_date": "2025-12-19",
+      "release_quote": "{{Film date|2025|12|1|[[Dolby Theatre]]|2025|12|19|United States}}",
+      "release_source": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Fire_and_Ash&oldid=1387792844",
+      "in_universe": {
+       "year": 2170,
+       "year_end": null,
+       "label": "2170 (inferred; shortly after The Way of Water)",
+       "confidence": "inferred",
+       "quote": "Shortly after the death of Jake and Neytiri's eldest son Neteyam, the Sully family grieves amongst the Metkayina, with Neytiri developing a deeper hatred toward humans.",
+       "source": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Fire_and_Ash&oldid=1387792844",
+       "precision": "year",
+       "note": "Neteyam dies in The Way of Water (2170, inferred); \"shortly after\".",
+       "order_index": 3
+      }
+     }
+    ],
+    "links": [
+     {
+      "to": "avatar-the-way-of-water",
+      "kind": "sequel",
+      "note": ""
+     }
+    ],
+    "notes": "US release; Dolby Theatre premiere 2025-12-01.",
+    "revid": 1387792844,
+    "wiki_url": "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Fire_and_Ash&oldid=1387792844"
+   }
+  ]
+ },
+ "_ranks": {
+  "alien-predator": [
+   "prometheus:film",
+   "alien-covenant:film",
+   "alien-earth:s1",
+   "alien-1979:film",
+   "alien-romulus:film",
+   "aliens:film",
+   "alien-3:film",
+   "alien-resurrection:film",
+   "predator-killer-of-killers:film",
+   "prey:film",
+   "predator-1987:film",
+   "predator-2:film",
+   "the-predator:film",
+   "predators:film",
+   "predator-badlands:film",
+   "alien-vs-predator:film",
+   "aliens-vs-predator-requiem:film"
+  ],
+  "jurassic-park": [
+   "jurassic-park:film",
+   "the-lost-world-jurassic-park:film",
+   "jurassic-park-iii:film",
+   "jurassic-world:film",
+   "jw-camp-cretaceous:s1",
+   "jw-camp-cretaceous:s2",
+   "jw-camp-cretaceous:s3",
+   "jw-camp-cretaceous:s4",
+   "jw-camp-cretaceous:s5",
+   "jurassic-world-fallen-kingdom:film",
+   "battle-at-big-rock:film",
+   "jw-chaos-theory:s1",
+   "jw-chaos-theory:s2",
+   "jw-chaos-theory:s3",
+   "jw-chaos-theory:s4",
+   "jurassic-world-dominion:film",
+   "jurassic-world-rebirth:film",
+   "jp-novel:book",
+   "lost-world-novel:book"
+  ],
+  "planet-of-the-apes": [
+   "escape-from-the-planet-of-the-apes:film",
+   "conquest-of-the-planet-of-the-apes:film",
+   "battle-for-the-planet-of-the-apes:film",
+   "planet-of-the-apes-tv:s1",
+   "planet-of-the-apes-1968:film",
+   "beneath-the-planet-of-the-apes:film",
+   "return-to-the-planet-of-the-apes:s1",
+   "planet-of-the-apes-2001:film",
+   "rise-of-the-planet-of-the-apes:film",
+   "dawn-of-the-planet-of-the-apes:film",
+   "war-for-the-planet-of-the-apes:film",
+   "kingdom-of-the-planet-of-the-apes:film",
+   "planet-of-the-apes-novel:book"
+  ],
+  "avatar-cameron": [
+   "avatar:film",
+   "avatar-frontiers-of-pandora:game",
+   "avatar-the-way-of-water:film",
+   "avatar-fire-and-ash:film"
+  ]
+ }
+}

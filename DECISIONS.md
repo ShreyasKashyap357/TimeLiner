@@ -10,6 +10,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 |---|---|---|
 | D-79 | OpenStreetMap tiles come straight from `tile.openstreetmap.org` (free, no SLA, may block heavy use). Keep it, or switch to a hosted provider with a key? | Use `tile.openstreetmap.org` with the attribution always shown. The tile URL is one constant in `src/views/MapsView.tsx`. |
 | D-80 | Wikidata narrative locations include countries and regions (e.g. "England", "Afghanistan"), which show as one point at the centre. Keep them, or show only cities and smaller places? | Keep them, with a note on each place saying a country or region is shown at its centre. |
+| D-81 | **Predator: Badlands and the Alien films.** Its director says it is set "after the events of all the previous Alien and Alien vs. Predator films", which suggests one shared Alien/Predator universe; the AVP films' canon is contested. | Alien, Predator and AVP stay separate continuities; Badlands has a crossover link to the Alien films. |
+| D-82 | **The Curse of La Llorona** is "set within The Conjuring Universe" but "not an official installment". | In the main Conjuring continuity, with that noted. |
 
 ## Resolved
 

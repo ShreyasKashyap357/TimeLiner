@@ -874,3 +874,21 @@ Optional `data/<universe>/maps.json` (schema `WorldMap` in `src/domain/schema.ts
 - **Real-world story locations (`story-locations`, kind `osm`).** `scripts/fetch/narrative-locations.ts <universe…>` queries Wikidata (CC0) for each title's "narrative location" (P840) and the location's "coordinate location" (P625). The cache is `data/sources/wikidata/locations-<universe>.json`, and `scripts/build/apply-locations.ts <universe…>` writes the map. Places are `stated`: one per location item, `source_url` = the location's Wikidata item, linked to every title that lists it. Locations without coordinates (usually fictional places such as Hogwarts) or without an English label are left out. Countries and regions appear at the point Wikidata gives (usually the centre). Done for wizarding-world (15 places), outlander (7), sherlock-holmes (9), james-bond (98), marvel (129), mission-impossible (37), bourne (53), jack-ryan (20), breaking-bad (4) and fast-furious (24). The data is only as good as Wikidata's P840 statements; some titles have none.
 - **Tiles.** OSM maps use `tile.openstreetmap.org` with the "© OpenStreetMap contributors" attribution (linked to the copyright page) always visible. The tiles have no SLA (D-79).
 - **Not done, needing schematic maps built from facts:** Middle-earth, Westeros/Essos, Panem, Wheel of Time, The Witcher, Dune, Star Wars galaxy and others. Commons fan maps of these are traced from official maps or under active deletion review (`Commons:Deletion requests/Maps of Middle-earth`, opened 2026-10-17), so none were used. See TODO.
+
+## Wave 5: Hollywood batch (2026-11-28)
+
+- **Alien & Predator.**
+  - **Alien order:** the franchise article's "story chronology" table, so years like Alien 2122 and Aliens 2179 come from that table.
+  - **AVP:** its own continuity (canon contested).
+  - **Badlands:** its director says it is set "after the events of all the previous Alien and Alien vs. Predator films". It stays in the Predator continuity, with a crossover link (D-81).
+- **Jurassic Park.** Only Rebirth states a year (2027); the others are worked back from each article's "N years after" (inferred). Camp Cretaceous and Chaos Theory are "set during the Jurassic World trilogy". Crichton's novels are separate, linked by `adapts`.
+- **Planet of the Apes.** Original films with the 1974 series, the 1975 animated series, Burton's 2001 film, the reboot series and Boulle's novel are separate continuities. Beneath's 3955 is disputed against the first film's 3978.
+- **Avatar.** Frontiers of Pandora was made to "strictly adhere to the canon". Avatar: The Game (2009) is excluded as "non-canon".
+- **The Conjuring.** Ordered by stated years. The Curse of La Llorona "takes place within The Conjuring Universe" but is "not an official installment" (noted on it). Annabelle: Creation's c. 1955 is worked back from its epilogue.
+- **John Wick.** Ballerina is set between Chapters 3 and 4. The Continental is "in the 1970s".
+- **The Matrix.** The Animatrix, Enter the Matrix and The Matrix Online are stated canon. Path of Neo is a separate retelling. "Approximately 2199" is disputed, since 1999 is the simulated year. The Matrix Awakens is not included.
+- **Mad Max.** "No strict chronology": Miller's "probably" puts Furiosa and Fury Road after Thunderdome. No years.
+- **Ghostbusters.** Afterlife and Frozen Empire "returned to the original canon". The 2009 game is in that continuity, with its canon status disputed. The Real Ghostbusters is one series entry, because per-season dates could not be sourced.
+- **Indiana Jones.** Stated years put Temple of Doom (1935) before Raiders (1936). The Great Circle (1937) sits between Raiders and Last Crusade.
+- **Rocky / Creed.** One continuity. Creed III's 2024 is disputed: the article's categories and a footnote disagree.
+- **Not verified.** Several studio fields in this batch were not checked against infoboxes (the research flags them).

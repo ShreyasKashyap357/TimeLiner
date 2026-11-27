@@ -1,0 +1,2894 @@
+[
+  {
+    "id": "jurassic-park",
+    "title": "Jurassic Park",
+    "sort_title": null,
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic Park",
+      "wikidata": "Q167726",
+      "tmdb": "329",
+      "imdb": "tt0107290"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_Park",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+    ],
+    "notes": "US release; Uptown Theater premiere 1993-06-09.",
+    "units": [
+      {
+        "id": "jurassic-park",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 127,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1993
+          },
+          "end": {
+            "y": 1993
+          },
+          "label": "1993 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Set twenty-two years after the events of Jurassic Park, the film takes place on the same fictional island of Isla Nublar, located off the Pacific coast of Costa Rica. Jurassic World (2015, inferred) minus 22 = 1993. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-06-11",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: June 9, 1993 (Uptown Theater (Washington, D.C.)); Uptown Theater 1993 6; 11 United States"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_Park",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jp-novel",
+        "kind": "adapts",
+        "note": "adapts the novel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Michael Crichton",
+        "qid": "Q172140",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David Koepp",
+        "qid": "Q270178",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Kathleen Kennedy",
+        "qid": "Q237207",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gerald R. Molen",
+        "qid": "Q1385337",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "John Williams",
+        "qid": "Q131285",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Attenborough",
+        "qid": "Q51506",
+        "character": "John Hammond",
+        "character_qid": "Q324322",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Goldblum",
+        "qid": "Q106706",
+        "character": "Ian Malcolm",
+        "character_qid": "Q14916129",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Samuel L. Jackson",
+        "qid": "Q172678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Neill",
+        "qid": "Q214309",
+        "character": "Alan Grant",
+        "character_qid": "Q2543708",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laura Dern",
+        "qid": "Q220901",
+        "character": "Ellie Sattler",
+        "character_qid": "Q14916141",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ariana Richards",
+        "qid": "Q264559",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wayne Knight",
+        "qid": "Q311976",
+        "character": "Dennis Nedry",
+        "character_qid": "Q13221658",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "BD Wong",
+        "qid": "Q359207",
+        "character": "Henry Wu",
+        "character_qid": "Q113382902",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Mazzello",
+        "qid": "Q447872",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Martin Ferrero",
+        "qid": "Q718338",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bob Peck",
+        "qid": "Q888194",
+        "character": "Robert Muldoon",
+        "character_qid": "Q12049518",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cameron Thor",
+        "qid": "Q3497979",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gerald R. Molen",
+        "qid": "Q1385337",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dean Cundey",
+        "qid": "Q497036",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Miguel Sandoval",
+        "qid": "Q935122",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Kiley",
+        "qid": "Q202600",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "the-lost-world-jurassic-park",
+    "title": "The Lost World: Jurassic Park",
+    "sort_title": "Lost World: Jurassic Park",
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lost World: Jurassic Park",
+      "wikidata": "Q200873",
+      "tmdb": "330",
+      "imdb": "tt0119567"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park",
+      "https://en.wikipedia.org/w/index.php?title=The_Lost_World%3A_Jurassic_Park&oldid=1388291487"
+    ],
+    "notes": "US release; LA premiere 1997-05-19.",
+    "units": [
+      {
+        "id": "the-lost-world-jurassic-park",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 128,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1997
+          },
+          "end": {
+            "y": 1997
+          },
+          "label": "1997 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Four years after the original film, John Hammond (Attenborough) loses control of his company InGen to his nephew, Peter Ludlow (Howard). 1993 + 4. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-05-23",
+          "end_date": null,
+          "year": 1997,
+          "note": "Wikipedia: May 19, 1997 (Los Angeles premiere); May 23, 1997 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park",
+          "https://en.wikipedia.org/w/index.php?title=The_Lost_World%3A_Jurassic_Park&oldid=1388291487"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-park",
+        "kind": "sequel",
+        "note": ""
+      },
+      {
+        "to": "lost-world-novel",
+        "kind": "adapts",
+        "note": "loosely adapts the novel"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David Koepp",
+        "qid": "Q270178",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Gerald R. Molen",
+        "qid": "Q1385337",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Colin Wilson",
+        "qid": "Q1708464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Kathleen Kennedy",
+        "qid": "Q237207",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "John Williams",
+        "qid": "Q131285",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Goldblum",
+        "qid": "Q106706",
+        "character": "Ian Malcolm",
+        "character_qid": "Q14916129",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julianne Moore",
+        "qid": "Q80405",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Pete Postlethwaite",
+        "qid": "Q217137",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vince Vaughn",
+        "qid": "Q107730",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Schiff",
+        "qid": "Q355209",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Stormare",
+        "qid": "Q295148",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vanessa Lee Chester",
+        "qid": "Q1321199",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Arliss Howard",
+        "qid": "Q675776",
+        "character": "Peter Ludlow",
+        "character_qid": "Q12044732",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Harvey Jason",
+        "qid": "Q1240407",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thomas F. Duffy",
+        "qid": "Q2385752",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Richard Attenborough",
+        "qid": "Q51506",
+        "character": "John Hammond",
+        "character_qid": "Q324322",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Thomas Rosales Jr.",
+        "qid": "Q1500595",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Geno Silva",
+        "qid": "Q3759876",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ariana Richards",
+        "qid": "Q264559",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joseph Mazzello",
+        "qid": "Q447872",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Camilla Belle",
+        "qid": "Q387072",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robin Sachs",
+        "qid": "Q2055117",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Koepp",
+        "qid": "Q270178",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eli Roth",
+        "qid": "Q358714",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ian Abercrombie",
+        "qid": "Q2269990",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Marjean Holden",
+        "qid": "Q6766197",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Pellegrino",
+        "qid": "Q326444",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jurassic-park-iii",
+    "title": "Jurassic Park III",
+    "sort_title": null,
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic Park III",
+      "wikidata": "Q1102220",
+      "tmdb": "331",
+      "imdb": "tt0163025"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_Park_III",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_III&oldid=1388292104"
+    ],
+    "notes": "US release; Universal Amphitheater premiere 2001-07-16.",
+    "units": [
+      {
+        "id": "jurassic-park-iii",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 92,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2001
+          },
+          "end": {
+            "y": 2001
+          },
+          "label": "2001 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Four years after the events of second film, 1997 + 4. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-07-18",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: July 16, 2001 (Universal Amphitheater); July 18, 2001 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_Park_III",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_III&oldid=1388292104"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "the-lost-world-jurassic-park",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Joe Johnston",
+        "qid": "Q352948",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Alexander Payne",
+        "qid": "Q313566",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Jim Taylor",
+        "qid": "Q1335583",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Peter Buchman",
+        "qid": "Q6797931",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Kathleen Kennedy",
+        "qid": "Q237207",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Larry J. Franco",
+        "qid": "Q521038",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Don Davis",
+        "qid": "Q207859",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Neill",
+        "qid": "Q214309",
+        "character": "Alan Grant",
+        "character_qid": "Q2543708",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "William H. Macy",
+        "qid": "Q224159",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Téa Leoni",
+        "qid": "Q202475",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alessandro Nivola",
+        "qid": "Q350424",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Trevor Morgan",
+        "qid": "Q730074",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laura Dern",
+        "qid": "Q220901",
+        "character": "Ellie Sattler",
+        "character_qid": "Q14916141",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "John Diehl",
+        "qid": "Q947748",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julio Oscar Mechoso",
+        "qid": "Q1712385",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Linda Park",
+        "qid": "Q241873",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mark Harelik",
+        "qid": "Q2447922",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Jeter",
+        "qid": "Q329716",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sarah Danielle Madison",
+        "qid": "Q536686",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jurassic-world",
+    "title": "Jurassic World",
+    "sort_title": null,
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic World",
+      "wikidata": "Q3512046",
+      "tmdb": "135397",
+      "imdb": "tt0369610"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_World",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+    ],
+    "notes": "US release; Le Grand Rex premiere 2015-05-29.",
+    "units": [
+      {
+        "id": "jurassic-world",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 124,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2015
+          },
+          "end": {
+            "y": 2015
+          },
+          "label": "2015 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The film is set 22 years after the events of Jurassic Park, and is considered a direct sequel to that film; although The Lost World: Jurassic Park and Jurassic Park III remain canon in the series, Jurassic World ignores their events as they occurred on a different island. Fallen Kingdom (2018, inferred) is \"Three years after the events of Jurassic World\". Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-06-12",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: May 29, 2015 (Le Grand Rex); June 12, 2015 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-park",
+        "kind": "sequel",
+        "note": "direct sequel, 22 years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Derek Connolly",
+        "qid": "Q5261887",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Rick Jaffa",
+        "qid": "Q17372908",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Amanda Silver",
+        "qid": "Q15069865",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Marshall",
+        "qid": "Q549570",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Thomas Tull",
+        "qid": "Q16213294",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Michael Giacchino",
+        "qid": "Q155124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Pratt",
+        "qid": "Q503706",
+        "character": "Owen Grady",
+        "character_qid": "Q20890036",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bryce Dallas Howard",
+        "qid": "Q229775",
+        "character": "Claire Dearing",
+        "character_qid": "Q113549459",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Irrfan Khan",
+        "qid": "Q360927",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vincent D'Onofrio",
+        "qid": "Q320052",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ty Simpkins",
+        "qid": "Q545357",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Omar Sy",
+        "qid": "Q357387",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jake Johnson",
+        "qid": "Q171525",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Nick Robinson",
+        "qid": "Q2985242",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brian Tee",
+        "qid": "Q913132",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "BD Wong",
+        "qid": "Q359207",
+        "character": "Henry Wu",
+        "character_qid": "Q113382902",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Judy Greer",
+        "qid": "Q236189",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Lauren Lapkus",
+        "qid": "Q15712264",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Katie McGrath",
+        "qid": "Q253440",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Andy Buckley",
+        "qid": "Q612512",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Eric Edelstein",
+        "qid": "Q20630994",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Colby Boothman",
+        "qid": "Q20630599",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jimmy Fallon",
+        "qid": "Q335680",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1388292504"
+      },
+      {
+        "role": "cast",
+        "name": "James DuMont",
+        "qid": "Q6132861",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Papajohn",
+        "qid": "Q948751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Gary Weeks",
+        "qid": "Q5526127",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brad Bird",
+        "qid": "Q310960",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1388292504"
+      },
+      {
+        "role": "cast",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jimmy Buffett",
+        "qid": "Q726071",
+        "character": null,
+        "character_qid": null,
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1388292504"
+      },
+      {
+        "role": "cast",
+        "name": "Slim Khezri",
+        "qid": "Q5896455",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Johnny Otto",
+        "qid": "Q6267426",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alan Purwin",
+        "qid": "Q20968446",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jw-camp-cretaceous",
+    "title": "Jurassic World Camp Cretaceous",
+    "sort_title": null,
+    "type": "series",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "amblin-entertainment",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic World Camp Cretaceous",
+      "wikidata": "Q96390384",
+      "tmdb": "93741",
+      "imdb": "tt10436228"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_World_Camp_Cretaceous",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Camp_Cretaceous&oldid=1387226685"
+    ],
+    "notes": "Animated, Netflix. The special (2022-11-15) is folded into season 5.",
+    "units": [
+      {
+        "id": "jw-camp-cretaceous-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2015
+          },
+          "end": {
+            "y": 2015
+          },
+          "label": "2015 (during Jurassic World)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "It is set before, during, and after the events of the film Jurassic World (2015) and later during the events of its sequel, Jurassic World: Fallen Kingdom (2018). Season 1 runs alongside Jurassic World (2015, inferred). Wikipedia gives no per-season placement beyond the series-level statement.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-09-18",
+          "end_date": "2020-09-18",
+          "year": 2020,
+          "note": "Wikipedia: episodes1 = 8 | released1 = September 18, 2020"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Camp_Cretaceous",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Camp_Cretaceous&oldid=1387226685"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-camp-cretaceous-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after Jurassic World, before Fallen Kingdom",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Series spans \"before, during, and after\" Jurassic World and later Fallen Kingdom; seasons kept in release order.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "jurassic-world-rebirth",
+            "before": "jw-camp-cretaceous-s3"
+          }
+        },
+        "release": {
+          "date": "2021-01-22",
+          "end_date": "2021-01-22",
+          "year": 2021,
+          "note": "Wikipedia: episodes2 = 8 | released2 = January 22, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Camp_Cretaceous"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-camp-cretaceous-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "jw-camp-cretaceous-s2",
+            "before": "jw-camp-cretaceous-s4"
+          }
+        },
+        "release": {
+          "date": "2021-05-21",
+          "end_date": "2021-05-21",
+          "year": 2021,
+          "note": "Wikipedia: episodes3 = 10 | released3 = May 21, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Camp_Cretaceous"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-camp-cretaceous-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 11,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "after season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "jw-camp-cretaceous-s3",
+            "before": "jw-camp-cretaceous-s5"
+          }
+        },
+        "release": {
+          "date": "2021-12-03",
+          "end_date": "2021-12-03",
+          "year": 2021,
+          "note": "Wikipedia: episodes4 = 11 | released4 = December 3, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Camp_Cretaceous"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-camp-cretaceous-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "up to Fallen Kingdom",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order; the series reaches \"the events of … Fallen Kingdom (2018)\". Ordered before Fallen Kingdom. release_end is the 2022-11-15 special, folded into season 5 here.",
+          "order_index": 90,
+          "relative_to": {
+            "after": "jw-camp-cretaceous-s4",
+            "before": "jw-chaos-theory-s1"
+          }
+        },
+        "release": {
+          "date": "2022-07-21",
+          "end_date": "2022-11-15",
+          "year": 2022,
+          "note": "Wikipedia: episodes5 = 12 | released5 = July 21, 2022 … linkT5S = Special | released5S = November 15, 2022"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Camp_Cretaceous"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-world",
+        "kind": "spinoff",
+        "note": "set around the events of Jurassic World"
+      }
+    ],
+    "credits": [
+      {
+        "role": "creator",
+        "name": "Zack Stentz",
+        "qid": "Q7475875",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Leo Birenberg",
+        "qid": "Q36745238",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jurassic-world-fallen-kingdom",
+    "title": "Jurassic World: Fallen Kingdom",
+    "sort_title": null,
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic World: Fallen Kingdom",
+      "wikidata": "Q21877685",
+      "tmdb": "351286",
+      "imdb": "tt4881806"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Fallen_Kingdom&oldid=1388293168"
+    ],
+    "notes": "US release; WiZink Center premiere 2018-05-21.",
+    "units": [
+      {
+        "id": "jurassic-world-fallen-kingdom",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 128,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2018
+          },
+          "end": {
+            "y": 2018
+          },
+          "label": "2018 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Three years after the events of Jurassic World (2015), a small mercenary team arrives on the abandoned Isla Nublar to collect DNA from its remains in the lagoon. Dominion (2022, inferred) is \"four years after the events of Fallen Kingdom\". Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-06-22",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: released = May 21, 2018 (WiZink Center); June 22, 2018 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Fallen_Kingdom&oldid=1388293168"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-world",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "J. A. Bayona",
+        "qid": "Q932019",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Derek Connolly",
+        "qid": "Q5261887",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Marshall",
+        "qid": "Q549570",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Patrick Crowley",
+        "qid": "Q24250859",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Belén Atienza Azcona",
+        "qid": "Q47509527",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Michael Giacchino",
+        "qid": "Q155124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Pratt",
+        "qid": "Q503706",
+        "character": "Owen Grady",
+        "character_qid": "Q20890036",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bryce Dallas Howard",
+        "qid": "Q229775",
+        "character": "Claire Dearing",
+        "character_qid": "Q113549459",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "BD Wong",
+        "qid": "Q359207",
+        "character": "Henry Wu",
+        "character_qid": "Q113382902",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "James Cromwell",
+        "qid": "Q299483",
+        "character": "Benjamin Lockwood",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ted Levine",
+        "qid": "Q433520",
+        "character": "Ken Wheatley",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Goldblum",
+        "qid": "Q106706",
+        "character": "Ian Malcolm",
+        "character_qid": "Q14916129",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Toby Jones",
+        "qid": "Q342419",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rafe Spall",
+        "qid": "Q1190134",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Geraldine Chaplin",
+        "qid": "Q230636",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michael Papajohn",
+        "qid": "Q948751",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Isabella Sermon",
+        "qid": "Q55873637",
+        "character": "Maisie Lockwood",
+        "character_qid": "Q113853555",
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "battle-at-big-rock",
+    "title": "Battle at Big Rock",
+    "sort_title": null,
+    "type": "special",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "fx",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Battle at Big Rock",
+      "wikidata": "Q67775520",
+      "tmdb": "630322",
+      "imdb": "tt10942816"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Battle_at_Big_Rock",
+      "https://en.wikipedia.org/w/index.php?title=Battle_at_Big_Rock&oldid=1388341590"
+    ],
+    "notes": "Short film; premiered on FX.",
+    "units": [
+      {
+        "id": "battle-at-big-rock",
+        "label": "Short film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 10,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2019
+          },
+          "end": {
+            "y": 2019
+          },
+          "label": "2019 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Set one year after the events of Jurassic World: Fallen Kingdom, a blended family from Oakland, California goes on a camping trip at the fictional Big Rock National Park in Northern California, approximately 20 mi (32 km) from where dinosaurs from Fallen Kingdom were let loose. 2018 + 1. Film years are inferred backwards from Jurassic World Rebirth, the only film whose article states a year (\"During 2027…\"), via each article's \"N years after\" statement.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-09-15",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: Battle at Big Rock was announced on September 10, 2019, and it premiered five days later on FX."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Battle_at_Big_Rock",
+          "https://en.wikipedia.org/w/index.php?title=Battle_at_Big_Rock&oldid=1388341590"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-world-fallen-kingdom",
+        "kind": "sequel",
+        "note": "short film, one year later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Marshall",
+        "qid": "Q549570",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "André Holland",
+        "qid": "Q4754805",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Natalie Martinez",
+        "qid": "Q267613",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jw-chaos-theory",
+    "title": "Jurassic World: Chaos Theory",
+    "sort_title": null,
+    "type": "series",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "amblin-entertainment",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic World: Chaos Theory",
+      "wikidata": "Q125422428",
+      "tmdb": "237512",
+      "imdb": "tt29899148"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_World:_Chaos_Theory",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694"
+    ],
+    "notes": "Animated, Netflix.",
+    "units": [
+      {
+        "id": "jw-chaos-theory-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "six years after Camp Cretaceous; before Dominion",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Six years after the events of Jurassic World Camp Cretaceous, \"the Nublar Six\" reunite and embark on an adventure to unravel a global conspiracy that threatens dinosaurs and humankind alike while learning the truth about what happened to one of their own. \"takes place both before and during the events of Jurassic World Dominion (2022)\". Wikipedia does not say which point the six years count from, so no year is given.",
+          "order_index": 120,
+          "relative_to": {
+            "after": "jw-camp-cretaceous-s5",
+            "before": "jw-chaos-theory-s2"
+          }
+        },
+        "release": {
+          "date": "2024-05-24",
+          "end_date": "2024-05-24",
+          "year": 2024,
+          "note": "Wikipedia: episodes1 = 10 | released1 = May 24, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World:_Chaos_Theory",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-chaos-theory-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Dominion",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order.",
+          "order_index": 130,
+          "relative_to": {
+            "after": "jw-chaos-theory-s1",
+            "before": "jw-chaos-theory-s3"
+          }
+        },
+        "release": {
+          "date": "2024-10-17",
+          "end_date": "2024-10-17",
+          "year": 2024,
+          "note": "Wikipedia: episodes2 = 10 | released2 = October 17, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World:_Chaos_Theory"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-chaos-theory-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 10,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "before Dominion",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Release order.",
+          "order_index": 140,
+          "relative_to": {
+            "after": "jw-chaos-theory-s2",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2025-04-03",
+          "end_date": "2025-04-03",
+          "year": 2025,
+          "note": "Wikipedia: episodes3 = 10 | released3 = April 3, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World:_Chaos_Theory"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "jw-chaos-theory-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 9,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2022
+          },
+          "end": {
+            "y": 2022
+          },
+          "label": "2022 (during Dominion, inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "For the fourth season, Nicholas Brooks of CBR commended the intensity and focus on characters, but criticized its struggle to tie into the Jurassic franchise's films and the canonically-concurrent Jurassic World: Dominion. Season 4 is concurrent with Dominion (2022, inferred). Ordered just before Dominion because it runs alongside it.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-11-20",
+          "end_date": "2025-11-20",
+          "year": 2025,
+          "note": "Wikipedia: episodes4 = 9 | released4 = November 20, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World:_Chaos_Theory",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World%3A_Chaos_Theory&oldid=1387226694"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jw-camp-cretaceous",
+        "kind": "sequel",
+        "note": "direct sequel"
+      },
+      {
+        "to": "jurassic-world-dominion",
+        "kind": "continues",
+        "note": "before and during Dominion"
+      }
+    ],
+    "credits": [
+      {
+        "role": "producer",
+        "name": "Steven Spielberg",
+        "qid": "Q8877",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jurassic-world-dominion",
+    "title": "Jurassic World Dominion",
+    "sort_title": null,
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "universal-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic World Dominion",
+      "wikidata": "Q55178974",
+      "tmdb": "507086",
+      "imdb": "tt8041270"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_World_Dominion",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Dominion&oldid=1387905337"
+    ],
+    "notes": "US release; Mexico City premiere 2022-05-23.",
+    "units": [
+      {
+        "id": "jurassic-world-dominion",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 146,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2022
+          },
+          "end": {
+            "y": 2022
+          },
+          "label": "2022 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The film is set four years after the events of Fallen Kingdom, with dinosaurs and other de-extinct prehistoric animals now living alongside humans around the world. Rebirth (2027, stated) is \"set five years after the events of Dominion\" (franchise article).",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-06-10",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: May 23, 2022 (Mexico City); June 10, 2022 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Dominion",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Dominion&oldid=1387905337"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-world-fallen-kingdom",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Emily Carmichael",
+        "qid": "Q16201878",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Colin Trevorrow",
+        "qid": "Q5145625",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Marshall",
+        "qid": "Q549570",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Patrick Crowley",
+        "qid": "Q24250859",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Michael Giacchino",
+        "qid": "Q155124",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bryce Dallas Howard",
+        "qid": "Q229775",
+        "character": "Claire Dearing",
+        "character_qid": "Q113549459",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Chris Pratt",
+        "qid": "Q503706",
+        "character": "Owen Grady",
+        "character_qid": "Q20890036",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laura Dern",
+        "qid": "Q220901",
+        "character": "Ellie Sattler",
+        "character_qid": "Q14916141",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Neill",
+        "qid": "Q214309",
+        "character": "Alan Grant",
+        "character_qid": "Q2543708",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jeff Goldblum",
+        "qid": "Q106706",
+        "character": "Ian Malcolm",
+        "character_qid": "Q14916129",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mamoudou Athie",
+        "qid": "Q40550981",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Haze",
+        "qid": "Q7436480",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dichen Lachman",
+        "qid": "Q242204",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Daniella Pineda",
+        "qid": "Q5219325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Campbell Scott",
+        "qid": "Q528527",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Isabella Sermon",
+        "qid": "Q55873637",
+        "character": "Maisie Lockwood",
+        "character_qid": "Q113853555",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Justice Smith",
+        "qid": "Q22058479",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Omar Sy",
+        "qid": "Q357387",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "DeWanda Wise",
+        "qid": "Q33026764",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "BD Wong",
+        "qid": "Q359207",
+        "character": "Henry Wu",
+        "character_qid": "Q113382902",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Elva Trill",
+        "qid": "Q108377374",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dimitri Vegas",
+        "qid": "Q12308641",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Enzo Squillino, Jr.",
+        "qid": "Q5381527",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Glynis Davies",
+        "qid": "Q64167594",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Julianne Moore",
+        "qid": "Q80405",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kristoffer Polaha",
+        "qid": "Q726708",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Téa Leoni",
+        "qid": "Q202475",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Vince Vaughn",
+        "qid": "Q107730",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jake Johnson",
+        "qid": "Q171525",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Caleb Hearon",
+        "qid": "Q107087843",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Varada Sethu",
+        "qid": "Q47459178",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jurassic-world-rebirth",
+    "title": "Jurassic World Rebirth",
+    "sort_title": null,
+    "type": "film",
+    "universe": "jurassic-park",
+    "continuity": "jp-screen",
+    "studio_brand": "amblin-entertainment",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic World Rebirth",
+      "wikidata": "Q124380480",
+      "tmdb": "1234821",
+      "imdb": "tt31036941"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_World_Rebirth",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Rebirth&oldid=1386820667"
+    ],
+    "notes": "US release; Leicester Square premiere 2025-06-17.",
+    "units": [
+      {
+        "id": "jurassic-world-rebirth",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 133,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2027
+          },
+          "end": {
+            "y": 2027
+          },
+          "label": "2027 (prologue 2010)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "During 2027, most of Earth's climate is unsuitable for the de-extinct animals that InGen and other companies created. Prologue: \"In 2010, InGen operates a dinosaur genetics laboratory on Île Saint-Hubert\". Franchise article: \"Rebirth is set five years after the events of Dominion\".",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-07-02",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: June 17, 2025 (Leicester Square); July 2, 2025 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_World_Rebirth",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_World_Rebirth&oldid=1386820667"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jurassic-world-dominion",
+        "kind": "sequel",
+        "note": "five years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "Gareth Edwards",
+        "qid": "Q2451678",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "David Koepp",
+        "qid": "Q270178",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Frank Marshall",
+        "qid": "Q549570",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Alexandre Desplat",
+        "qid": "Q313362",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jonathan Bailey",
+        "qid": "Q6272488",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scarlett Johansson",
+        "qid": "Q34436",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Manuel Garcia-Rulfo",
+        "qid": "Q26254609",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Mahershala Ali",
+        "qid": "Q360531",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Rupert Friend",
+        "qid": "Q314659",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Luna Blaise",
+        "qid": "Q25091785",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Iacono",
+        "qid": "Q123035452",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ed Skrein",
+        "qid": "Q5335413",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "jp-novel",
+    "title": "Jurassic Park",
+    "sort_title": null,
+    "type": "novel",
+    "universe": "jurassic-park",
+    "continuity": "jp-novels",
+    "studio_brand": "alfred-a-knopf",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Jurassic Park (novel)",
+      "wikidata": "Q756866",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jurassic_Park_(novel)",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(novel)&oldid=1387901673"
+    ],
+    "notes": "Publisher Alfred A. Knopf, 399 pages (infobox). Article gives only the month (October 1990): release_date null, release_year 1990.",
+    "units": [
+      {
+        "id": "jp-novel",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 399,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1989
+          },
+          "end": {
+            "y": 1989
+          },
+          "label": "1989",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1989, a series of unusual animal attacks occur in Costa Rica, with evidence suggesting the involvement of Procompsognathus, an extinct dinosaur.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: Jurassic Park was released in October 1990."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jurassic_Park_(novel)",
+          "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(novel)&oldid=1387901673"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Michael Crichton",
+        "qid": "Q172140",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "lost-world-novel",
+    "title": "The Lost World",
+    "sort_title": "Lost World",
+    "type": "novel",
+    "universe": "jurassic-park",
+    "continuity": "jp-novels",
+    "studio_brand": "alfred-a-knopf",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "The Lost World (Crichton novel)",
+      "wikidata": "Q580361",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Lost_World_(Crichton_novel)",
+      "https://en.wikipedia.org/w/index.php?title=The_Lost_World_(Crichton_novel)&oldid=1384325824"
+    ],
+    "notes": "Publisher Knopf, 393 pages (infobox). Franchise article: \"Crichton's 1995 sequel novel\"; exact publication day not given in the extract: release_date null, release_year 1995.",
+    "units": [
+      {
+        "id": "lost-world-novel",
+        "label": "Novel",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": 393,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1993
+          },
+          "end": {
+            "y": 1993
+          },
+          "label": "1993",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 1993, chaos theorist Ian Malcolm, having survived the disaster at Jurassic Park four years before, gives a lecture on extinction and is challenged by paleontologist Richard Levine.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995",
+          "end_date": null,
+          "year": 1995,
+          "note": "Wikipedia: The Lost World is a 1995 science fiction action novel written by Michael Crichton, and the sequel to his 1990 novel Jurassic Park."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/The_Lost_World_(Crichton_novel)",
+          "https://en.wikipedia.org/w/index.php?title=The_Lost_World_(Crichton_novel)&oldid=1384325824"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "jp-novel",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "author",
+        "name": "Michael Crichton",
+        "qid": "Q172140",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

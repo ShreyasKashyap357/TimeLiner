@@ -1882,5 +1882,69 @@
     "data_dir": "mad-max",
     "description": "The five Mad Max films, a loose continuity ('no strict chronology').",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "alien-predator",
+    "name": "Alien & Predator",
+    "short_name": "Alien & Predator",
+    "order": 77,
+    "enabled": true,
+    "accent": {
+      "primary": "#263238",
+      "secondary": "#76FF03"
+    },
+    "default_continuity": "alien",
+    "grouping_schemes": [],
+    "data_dir": "alien-predator",
+    "description": "The Alien films and Alien: Earth (by the franchise's stated story chronology), the Predator films, and the two Alien vs. Predator films as a separate continuity (their canon is contested).",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "jurassic-park",
+    "name": "Jurassic Park",
+    "short_name": "Jurassic Park",
+    "order": 78,
+    "enabled": true,
+    "accent": {
+      "primary": "#2E7D32",
+      "secondary": "#F9A825"
+    },
+    "default_continuity": "jp-screen",
+    "grouping_schemes": [],
+    "data_dir": "jurassic-park",
+    "description": "The Jurassic Park and Jurassic World films with the canon animated series, and Michael Crichton's novels as a separate continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "planet-of-the-apes",
+    "name": "Planet of the Apes",
+    "short_name": "Planet of the Apes",
+    "order": 79,
+    "enabled": true,
+    "accent": {
+      "primary": "#6D4C41",
+      "secondary": "#FFB74D"
+    },
+    "default_continuity": "apes-reboot",
+    "grouping_schemes": [],
+    "data_dir": "planet-of-the-apes",
+    "description": "The original films and TV series, the animated series, Tim Burton's 2001 film, the reboot series (Rise to Kingdom), and Pierre Boulle's novel, each its own continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "avatar-cameron",
+    "name": "Avatar (James Cameron)",
+    "short_name": "Avatar (James Cameron)",
+    "order": 80,
+    "enabled": true,
+    "accent": {
+      "primary": "#00838F",
+      "secondary": "#4FC3F7"
+    },
+    "default_continuity": "avatar-main",
+    "grouping_schemes": [],
+    "data_dir": "avatar-cameron",
+    "description": "James Cameron's Avatar films and Frontiers of Pandora (made to 'strictly adhere to the canon').",
+    "last_verified": "2026-11-27"
   }
 ]

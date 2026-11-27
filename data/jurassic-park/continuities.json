@@ -1,0 +1,65 @@
+[
+  {
+    "id": "jp-screen",
+    "universe": "jurassic-park",
+    "name": "Jurassic Park / Jurassic World (films and animated series)",
+    "short_name": "Jurassic Park / Jurassic World",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The seven feature films, the short Battle at Big Rock, and the Netflix animated series Camp Cretaceous and Chaos Theory, which the franchise article places \"during the Jurassic World trilogy\". Wikipedia: \"DreamWorks Animation also produced two animated series for Netflix, Jurassic World Camp Cretaceous (2020–2022) and Jurassic World: Chaos Theory (2024–2025), both set during the Jurassic World trilogy.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(franchise)&oldid=1388102810",
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=1388292504"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "jp-novels",
+    "universe": "jurassic-park",
+    "name": "Jurassic Park (Crichton novels)",
+    "short_name": "Jurassic Park",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Michael Crichton's two novels; a separate continuity from the films, which adapt them. Wikipedia: \"The book was successful, as was Steven Spielberg's 1993 film adaptation.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Jurassic_Park_(franchise)&oldid=1388102810"
+    ],
+    "notes": ""
+  }
+]

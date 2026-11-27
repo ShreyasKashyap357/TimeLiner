@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "avatar",
+    "title": "Avatar",
+    "sort_title": null,
+    "type": "film",
+    "universe": "avatar-cameron",
+    "continuity": "avatar-main",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Avatar (2009 film)",
+      "wikidata": "Q24871",
+      "tmdb": "19995",
+      "imdb": "tt0499549"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+      "https://en.wikipedia.org/w/index.php?title=Avatar_(2009_film)&oldid=1388156293"
+    ],
+    "notes": "US release; Odeon Leicester Square premiere 2009-12-10.",
+    "units": [
+      {
+        "id": "avatar",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 162,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2154
+          },
+          "end": {
+            "y": 2154
+          },
+          "label": "2154",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "In 2154, Earth suffers from resource exhaustion and ecological collapse.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-12-18",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: December 10, 2009 (Odeon Leicester Square); December 18, 2009 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+          "https://en.wikipedia.org/w/index.php?title=Avatar_(2009_film)&oldid=1388156293"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Jon Landau",
+        "qid": "Q132451",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "executive-producer",
+        "name": "Colin Wilson",
+        "qid": "Q1708464",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "James Horner",
+        "qid": "Q106221",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Simon Franglen",
+        "qid": "Q16195065",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Worthington",
+        "qid": "Q82085",
+        "character": "Jake Sully",
+        "character_qid": "Q1915132",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zoe Saldaña",
+        "qid": "Q190162",
+        "character": "Neytiri",
+        "character_qid": "Q3875745",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Lang",
+        "qid": "Q312902",
+        "character": "Miles Quaritch",
+        "character_qid": "Q115867207",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Rodriguez",
+        "qid": "Q184219",
+        "character": "Trudy Chacón",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joel David Moore",
+        "qid": "Q371786",
+        "character": "Norm Spellman",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Giovanni Ribisi",
+        "qid": "Q224081",
+        "character": "Parker Selfridge",
+        "character_qid": "Q117317183",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dileep Rao",
+        "qid": "Q1225469",
+        "character": "Max Patel",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Laz Alonso",
+        "qid": "Q302335",
+        "character": "Tsu'tey",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "CCH Pounder",
+        "qid": "Q236434",
+        "character": "Mo'at",
+        "character_qid": "Q116312761",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Wes Studi",
+        "qid": "Q350819",
+        "character": "Eytukan",
+        "character_qid": "Q116312762",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Gerald",
+        "qid": "Q1889482",
+        "character": "Lyle Wainfleet",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Peter Mensah",
+        "qid": "Q469145",
+        "character": "Akwey",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Scott Lawrence",
+        "qid": "Q1141130",
+        "character": "Venture Star Crew Chief",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Anthony Ingruber",
+        "qid": "Q20667761",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Debra Wilson",
+        "qid": "Q194032",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Grace Augustine",
+        "character_qid": "Q116257868",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alicia Vela-Bailey",
+        "qid": "Q107597956",
+        "character": "Ikeyni",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Ilram Choi",
+        "qid": "Q59211430",
+        "character": "Ka'ani",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "avatar-frontiers-of-pandora",
+    "title": "Avatar: Frontiers of Pandora",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "avatar-cameron",
+    "continuity": "avatar-main",
+    "studio_brand": "massive-entertainment",
+    "label": null,
+    "platform_or_network": "playstation-5",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Avatar: Frontiers of Pandora",
+      "wikidata": "Q107208649",
+      "tmdb": null,
+      "imdb": "tt14838040"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avatar:_Frontiers_of_Pandora",
+      "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Frontiers_of_Pandora&oldid=1388296800"
+    ],
+    "notes": "Video game. DLC \"From the Ashes\" (2025-12-19) not modelled.",
+    "units": [
+      {
+        "id": "avatar-frontiers-of-pandora",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2162
+          },
+          "end": {
+            "y": 2162
+          },
+          "label": "2162 (prologue 2146–2154)",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The students are awakened sixteen years later (2162) by Na'vi resistance fighters working with Alma. Prologue: \"In the year 2146, eight years before Jake Sully arrives on Pandora…\"; \"Eight years later (2154)…\". Main story from 2162, between Avatar (2154) and The Way of Water (2170, inferred).",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-12-07",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: The game is part of the Avatar franchise, and was released for PlayStation 5, Windows, and Xbox Series X/S on December 7, 2023."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Avatar:_Frontiers_of_Pandora",
+          "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Frontiers_of_Pandora&oldid=1388296800"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "avatar",
+        "kind": "continues",
+        "note": "prologue overlaps the film's 2154 events"
+      }
+    ],
+    "credits": [
+      {
+        "role": "composer",
+        "name": "Pınar Toprak",
+        "qid": "Q6572159",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "avatar-the-way-of-water",
+    "title": "Avatar: The Way of Water",
+    "sort_title": null,
+    "type": "film",
+    "universe": "avatar-cameron",
+    "continuity": "avatar-main",
+    "studio_brand": "lightstorm-entertainment",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Avatar: The Way of Water",
+      "wikidata": "Q3604746",
+      "tmdb": "76600",
+      "imdb": "tt1630029"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+      "https://en.wikipedia.org/w/index.php?title=Avatar%3A_The_Way_of_Water&oldid=1387979886"
+    ],
+    "notes": "US release; Odeon Luxe Leicester Square premiere 2022-12-06.",
+    "units": [
+      {
+        "id": "avatar-the-way-of-water",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 192,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2170
+          },
+          "end": {
+            "y": 2170
+          },
+          "label": "2170 (inferred)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Sixteen years after the Na'vi repelled the Resources Development Administration (RDA) from Pandora, Jake Sully is chief of the Omatikaya clan. Avatar (2154, stated) + 16 = 2170.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-12-16",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: December 6, 2022 (Odeon Luxe Leicester Square); December 16, 2022 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+          "https://en.wikipedia.org/w/index.php?title=Avatar%3A_The_Way_of_Water&oldid=1387979886"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "avatar",
+        "kind": "sequel",
+        "note": "sixteen years later"
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Josh Friedman",
+        "qid": "Q6288874",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Rick Jaffa",
+        "qid": "Q17372908",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Shane Salerno",
+        "qid": "Q7488257",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Amanda Silver",
+        "qid": "Q15069865",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Jon Landau",
+        "qid": "Q132451",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Simon Franglen",
+        "qid": "Q16195065",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Worthington",
+        "qid": "Q82085",
+        "character": "Jake Sully",
+        "character_qid": "Q1915132",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zoe Saldaña",
+        "qid": "Q190162",
+        "character": "Neytiri",
+        "character_qid": "Q3875745",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Kiri / Grace Augustine",
+        "character_qid": "Q116257896",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joel David Moore",
+        "qid": "Q371786",
+        "character": "Norm Spellman",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Lang",
+        "qid": "Q312902",
+        "character": "Miles Quaritch",
+        "character_qid": "Q115867207",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kate Winslet",
+        "qid": "Q202765",
+        "character": "Ronal",
+        "character_qid": "Q116444326",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cliff Curtis",
+        "qid": "Q359325",
+        "character": "Tonowari",
+        "character_qid": "Q116444325",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "CCH Pounder",
+        "qid": "Q236434",
+        "character": "Mo'at",
+        "character_qid": "Q116312761",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Gerald",
+        "qid": "Q1889482",
+        "character": "Lyle Wainfleet",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Giovanni Ribisi",
+        "qid": "Q224081",
+        "character": "Parker Selfridge",
+        "character_qid": "Q117317183",
+        "cameo": true,
+        "cameo_source": "https://en.wikipedia.org/w/index.php?oldid=1387979886"
+      },
+      {
+        "role": "cast",
+        "name": "Edie Falco",
+        "qid": "Q229034",
+        "character": "Frances Ardmore",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Trinity Jo-Li Bliss",
+        "qid": "Q115915090",
+        "character": "Tuktirey",
+        "character_qid": "Q116257926",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Britain Dalton",
+        "qid": "Q24851612",
+        "character": "Lo'ak",
+        "character_qid": "Q116257925",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jemaine Clement",
+        "qid": "Q439315",
+        "character": "Dr. Ian Garvin",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dileep Rao",
+        "qid": "Q1225469",
+        "character": "Max Patel",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brendan Cowell",
+        "qid": "Q4960851",
+        "character": "Mick Scoresby",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "CJ Jones",
+        "qid": "Q5012271",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Champion",
+        "qid": "Q65966450",
+        "character": "Spider",
+        "character_qid": "Q116258066",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jamie Flatters",
+        "qid": "Q75737078",
+        "character": "Neteyam",
+        "character_qid": "Q116257924",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bailey Bass",
+        "qid": "Q113324836",
+        "character": "Tsireya",
+        "character_qid": "Q116444327",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Filip Geljo",
+        "qid": "Q63140126",
+        "character": "Aonung",
+        "character_qid": "Q116444328",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Duane Evans Jr.",
+        "qid": "Q66741583",
+        "character": "Rotxo",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Robert Okumu",
+        "qid": "Q116414078",
+        "character": "Ta'unui Olo'eyktan",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jennifer Stafford",
+        "qid": "Q116414079",
+        "character": "Ta'unui Tsahik",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Keston John",
+        "qid": "Q109591664",
+        "character": "Tarsem",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sean Anthony Moran",
+        "qid": "Q17565525",
+        "character": "Sean Fike",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Alicia Vela-Bailey",
+        "qid": "Q107597956",
+        "character": "Zdinarsk",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kevin Dorman",
+        "qid": "Q96470832",
+        "character": "Mansk",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  },
+  {
+    "id": "avatar-fire-and-ash",
+    "title": "Avatar: Fire and Ash",
+    "sort_title": null,
+    "type": "film",
+    "universe": "avatar-cameron",
+    "continuity": "avatar-main",
+    "studio_brand": "lightstorm-entertainment",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Avatar: Fire and Ash",
+      "wikidata": "Q29580929",
+      "tmdb": "83533",
+      "imdb": "tt1757678"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avatar:_Fire_and_Ash",
+      "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Fire_and_Ash&oldid=1387792844"
+    ],
+    "notes": "US release; Dolby Theatre premiere 2025-12-01.",
+    "units": [
+      {
+        "id": "avatar-fire-and-ash",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 197,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2170
+          },
+          "end": {
+            "y": 2170
+          },
+          "label": "2170 (inferred; shortly after The Way of Water)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "Shortly after the death of Jake and Neytiri's eldest son Neteyam, the Sully family grieves amongst the Metkayina, with Neytiri developing a deeper hatred toward humans. Neteyam dies in The Way of Water (2170, inferred); \"shortly after\".",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-12-19",
+          "end_date": null,
+          "year": 2025,
+          "note": "Wikipedia: December 1, 2025 (Dolby Theatre); December 19, 2025 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Avatar:_Fire_and_Ash",
+          "https://en.wikipedia.org/w/index.php?title=Avatar%3A_Fire_and_Ash&oldid=1387792844"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "avatar-the-way-of-water",
+        "kind": "sequel",
+        "note": ""
+      }
+    ],
+    "credits": [
+      {
+        "role": "director",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Rick Jaffa",
+        "qid": "Q17372908",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "writer",
+        "name": "Amanda Silver",
+        "qid": "Q15069865",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "James Cameron",
+        "qid": "Q42574",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "producer",
+        "name": "Jon Landau",
+        "qid": "Q132451",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "composer",
+        "name": "Simon Franglen",
+        "qid": "Q16195065",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sam Worthington",
+        "qid": "Q82085",
+        "character": "Jake Sully",
+        "character_qid": "Q1915132",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Zoe Saldaña",
+        "qid": "Q190162",
+        "character": "Neytiri",
+        "character_qid": "Q3875745",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Stephen Lang",
+        "qid": "Q312902",
+        "character": "Miles Quaritch",
+        "character_qid": "Q115867207",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Sigourney Weaver",
+        "qid": "Q102124",
+        "character": "Kiri",
+        "character_qid": "Q116257896",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Joel David Moore",
+        "qid": "Q371786",
+        "character": "Norm Spellman",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "CCH Pounder",
+        "qid": "Q236434",
+        "character": "Mo'at",
+        "character_qid": "Q116312761",
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Michelle Yeoh",
+        "qid": "Q214289",
+        "character": "Dr. Karina Mogue",
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Giovanni Ribisi",
+        "qid": "Q224081",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Kate Winslet",
+        "qid": "Q202765",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Cliff Curtis",
+        "qid": "Q359325",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Edie Falco",
+        "qid": "Q229034",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Brendan Cowell",
+        "qid": "Q4960851",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jemaine Clement",
+        "qid": "Q439315",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Britain Dalton",
+        "qid": "Q24851612",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Trinity Jo-Li Bliss",
+        "qid": "Q115915090",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Jack Champion",
+        "qid": "Q65966450",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Bailey Bass",
+        "qid": "Q113324836",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Filip Geljo",
+        "qid": "Q63140126",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Dileep Rao",
+        "qid": "Q1225469",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Matt Gerald",
+        "qid": "Q1889482",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "David Thewlis",
+        "qid": "Q212790",
+        "character": null,
+        "character_qid": null,
+        "cameo": false,
+        "cameo_source": null
+      },
+      {
+        "role": "cast",
+        "name": "Oona Castilla Chaplin",
+        "qid": "Q459348",
+        "character": "Varang",
+        "character_qid": "Q138646647",
+        "cameo": false,
+        "cameo_source": null
+      }
+    ],
+    "constituents": []
+  }
+]

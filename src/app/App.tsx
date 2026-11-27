@@ -86,6 +86,11 @@ export function App() {
   const continuity = ds?.continuities.find((c) => c.id === state.c);
   const alt = continuity?.alt_orders.find((a) => a.id === state.alt);
   const altOrder = alt?.unit_ids;
+  // A watch order belongs to one continuity. After switching universe/continuity, a selected order that doesn't
+  // exist there falls back to story order (it used to leave a flat list without in-universe years).
+  useEffect(() => {
+    if (ds && state.sort === 'alt' && !alt) update({ sort: 'in-universe', alt: null, ess: false });
+  }, [ds, state.sort, alt, update]);
 
   const people = useMemo(() => new Map((ds?.titles ?? []).flatMap((t) => t.credits.filter((c) => c.qid).map((c) => [c.qid!, c.name] as const))), [ds]);
   const characters = useMemo(() => new Map((ds?.titles ?? []).flatMap((t) => t.credits.filter((c) => c.character_qid && c.character).map((c) => [c.character_qid!, c.character!.split(' / ')[0]!] as const))), [ds]);

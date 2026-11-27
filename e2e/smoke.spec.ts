@@ -192,3 +192,14 @@ test('continuity picker: grouped and searchable (DC has ~40 continuities)', asyn
   await page.getByRole('option', { name: /Smallville/ }).click();
   await expect(page).toHaveURL(/c=smallville/);
 });
+
+test('switching universe away from a watch order falls back to story order (regression)', async ({ page }) => {
+  await page.goto('/?u=marvel&c=mcu&sort=alt&alt=recommended');
+  await expect(page.locator('[aria-label^="Position 1."]').first()).toBeVisible({ timeout: 20_000 });
+  await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
+  await page.getByRole('option', { name: 'The Wheel of Time' }).click();
+  await expect(page.getByRole('heading', { name: '998 NE' })).toBeVisible();
+  await expect(page).not.toHaveURL(/sort=alt/);
+  await expect(page.locator('[data-unit="the-eye-of-the-world"]')).toContainText('998 NE');
+  await expect(page.locator('[data-unit="the-eye-of-the-world"]')).toContainText('1990');
+});

@@ -72,7 +72,7 @@ function SpineEntry({ row, position = null, optional = false, support }: { row: 
           {position !== null && (support
             ? <Tip content={`${kind}. ${support}`}><Badge variant="secondary" className="mr-1 mt-0.5 min-w-9 cursor-help justify-center tabular-nums" aria-label={`Position ${position}. ${kind}. ${support}`}>#{position}</Badge></Tip>
             : <Badge variant="secondary" className="mr-1 mt-0.5 min-w-9 justify-center tabular-nums" aria-label={`Position ${position}`}>#{position}</Badge>)}
-          <ul className="min-w-0 flex-1"><UnitItem row={row} meta={row.placed ? 'release' : 'in-universe'} /></ul>
+          <ul className="min-w-0 flex-1"><UnitItem row={row} meta="both" /></ul>
           {optional && <Tip content={support ? `Optional on a first watch. ${support}` : 'Optional on a first watch, per the guides behind this order'}><Badge variant="outline" className="ml-1 mt-0.5 shrink-0 text-muted-foreground">Optional</Badge></Tip>}
           <CollapsibleTrigger className="ml-1 rounded p-1 text-muted-foreground hover:text-foreground" aria-label={`${open ? 'Hide' : 'Show'} details for ${row.name}`}>
             <ChevronDown className={`size-4 transition-transform ${open ? 'rotate-180' : ''}`} aria-hidden />

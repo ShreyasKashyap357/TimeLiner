@@ -1,0 +1,2146 @@
+[
+  {
+    "id": "dragon-ball",
+    "title": "Dragon Ball",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball (TV series)",
+      "wikidata": "Q239506",
+      "tmdb": "12609",
+      "imdb": "tt0088509"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_(TV_series)",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Adapts the first 194 manga chapters.",
+    "units": [
+      {
+        "id": "dragon-ball",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 153,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 749
+          },
+          "end": {
+            "y": 756
+          },
+          "label": "Age 749–756",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "*Age 749, September 1:Bulma, on her summer vacation searching for the Dragon Balls, meets Goku … *Age 756, May 8 … Goku and Chi-Chi are married.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1986-02-26",
+          "end_date": "1989-04-19",
+          "year": 1986,
+          "note": "Wikipedia: The series premiered in Japan on Fuji TV on February 26, 1986, and ran until April 19, 1989, lasting 153 episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_(TV_series)",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dragon-ball-z",
+    "title": "Dragon Ball Z",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Z",
+      "wikidata": "Q477916",
+      "tmdb": "12971",
+      "imdb": "tt0121220"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Z",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Series-level unit; saga split not done.",
+    "units": [
+      {
+        "id": "dragon-ball-z",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 291,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 761
+          },
+          "end": {
+            "y": 784
+          },
+          "label": "Age 761–774 (epilogue Age 784)",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "*Age 761 … *Age 774, Circa November:Shenron erases everyone's memories of Majin Buu. … *Age 784, May 7:The 28th World Martial Arts Tournament takes place. Goku leaves with Uub to train him.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-04-26",
+          "end_date": "1996-01-31",
+          "year": 1989,
+          "note": "Wikipedia: It premiered in Japan on Fuji TV on April 26, 1989, taking over its predecessor's time slot, and ran for 291 episodes until its conclusion on January 31, 1996."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Z",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball",
+        "kind": "continues",
+        "note": "picks up five years later"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dragon-ball-z-kai",
+    "title": "Dragon Ball Z Kai",
+    "sort_title": null,
+    "type": "re-edit",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-reedits",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Z Kai",
+      "wikidata": "Q704651",
+      "tmdb": "61709",
+      "imdb": "tt1409055"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Z_Kai",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "\"a re-edited and remastered version of the Dragon Ball Z anime under the name Dragon Ball Kai\". It retells Z, so it duplicates Z's place in the timeline; the app may want to hide it from in-universe order. 159 episodes in Japan (167 internationally).",
+    "units": [
+      {
+        "id": "dragon-ball-z-kai-kai",
+        "label": "Dragon Ball Kai (episodes 1–97/98)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Age 761–767 (re-edit of Z: Saiyan–Cell arcs)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "*Age 761 … *Age 767, Between June and December",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-04-05",
+          "end_date": "2011-03-27",
+          "year": 2009,
+          "note": "Wikipedia: first_aired = April 5, 2009 | last_aired = March 27, 2011 (#1–97) [efn: Episode 98 did not air on the original run due to news coverage regarding the 2011 Tōhoku earthquake and tsunami]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Z_Kai",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dragon-ball-z-kai-final-chapters",
+        "label": "Dragon Ball Z Kai: The Final Chapters (episodes 99–159)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Age 773–774 (Buu arc)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "*Age 774, March 28 … *Age 774, Circa November:Shenron erases everyone's memories of Majin Buu.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-04-06",
+          "end_date": "2015-06-28",
+          "year": 2014,
+          "note": "Wikipedia: first_aired2 = April 6, 2014 | last_aired2 = June 28, 2015 (#99–159)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Z_Kai",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball-z",
+        "kind": "adapts",
+        "note": "re-edited, remastered version of Dragon Ball Z"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dragon-ball-daima",
+    "title": "Dragon Ball Daima",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Daima",
+      "wikidata": "Q123022503",
+      "tmdb": "236994",
+      "imdb": "tt29485149"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Daima",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Akira Toriyama's last work.",
+    "units": [
+      {
+        "id": "dragon-ball-daima",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 775
+          },
+          "end": {
+            "y": 775
+          },
+          "label": "Age 775",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "*Age 775:On Trunks' ninth birthday, Gomah, Degesu, and Neva travel to Earth and use its Dragon Balls to turn all those who fought Majin Buu and their friends into children or babies.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-10-11",
+          "end_date": "2025-02-28",
+          "year": 2024,
+          "note": "Wikipedia: first_aired = October 11, 2024 | last_aired = February 28, 2025 | num_episodes = 20"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Daima",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball-z",
+        "kind": "continues",
+        "note": "set after the Majin Buu Saga"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dbz-battle-of-gods",
+    "title": "Dragon Ball Z: Battle of Gods",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Z: Battle of Gods",
+      "wikidata": "Q1150595",
+      "tmdb": "126963",
+      "imdb": "tt2263944"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Battle_of_Gods",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Remade as the first arc of the Dragon Ball Super anime.",
+    "units": [
+      {
+        "id": "dbz-battle-of-gods",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 85,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 778
+          },
+          "end": {
+            "y": 778
+          },
+          "label": "Age 778",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "*Age 778, August 18:The events of Dragon Ball Z: Battle of Gods take place.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-03-30",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: released = March 30, 2013 (Japan)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Battle_of_Gods",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball-z",
+        "kind": "continues",
+        "note": "set after the Buu saga"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dbz-resurrection-f",
+    "title": "Dragon Ball Z: Resurrection 'F'",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Z: Resurrection 'F'",
+      "wikidata": "Q17476655",
+      "tmdb": "303857",
+      "imdb": "tt3819668"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Resurrection_'F'",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Remade as the second arc of the Dragon Ball Super anime.",
+    "units": [
+      {
+        "id": "dbz-resurrection-f",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 94,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 779
+          },
+          "end": {
+            "y": 779
+          },
+          "label": "Age 779",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "*Age 779:The events of Dragon Ball Z: Resurrection ‘F’ take place.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-04-18",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: released = April 18, 2015 (Japan)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Resurrection_'F'",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dbz-battle-of-gods",
+        "kind": "continues",
+        "note": "sequel film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dragon-ball-super",
+    "title": "Dragon Ball Super",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Super (TV series)",
+      "wikidata": "Q19839121",
+      "tmdb": "62715",
+      "imdb": "tt4644488"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Super_(TV_series)",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Ordered after Resurrection 'F' since its later arcs follow it.",
+    "units": [
+      {
+        "id": "dragon-ball-super",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 131,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 778
+          },
+          "end": {
+            "y": 780
+          },
+          "label": "Age 778–780",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "*Age 778 … *Age 780:Goku goes to see Zeno to remind him about the All-Universe Tournament. Shortly after, the Tournament of Power is declared.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-05",
+          "end_date": "2018-03-25",
+          "year": 2015,
+          "note": "Wikipedia: It debuted on July 5 of that year and ran as a weekly series at 9:00 am on Fuji TV on Sundays until its series finale on March 25, 2018, after 131 episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Super_(TV_series)",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dbz-resurrection-f",
+        "kind": "continues",
+        "note": "first two arcs retell Battle of Gods and Resurrection 'F'"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dbs-broly",
+    "title": "Dragon Ball Super: Broly",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Super: Broly",
+      "wikidata": "Q48781975",
+      "tmdb": "503314",
+      "imdb": "tt7961060"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Super:_Broly?oldid=2279723"
+    ],
+    "notes": "World premiere in Tokyo November 14, 2018 (films list); Japanese release December 14, 2018 used.",
+    "units": [
+      {
+        "id": "dbs-broly",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 780
+          },
+          "end": {
+            "y": 780
+          },
+          "label": "Age 780 (film itself implies 773–775)",
+          "precision": "year",
+          "confidence": "disputed",
+          "note": "Using the Ages listed in Daizenshuu 7, Dragon Ball SSSS, and the Xenoverse games, this film should occur around Age 780.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-12-14",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: The film was released in Japan on December 14, 2018, by Toei and 20th Century Fox Japan."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Super:_Broly?oldid=2279723"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball-super",
+        "kind": "continues",
+        "note": "sequel film to the anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dbs-super-hero",
+    "title": "Dragon Ball Super: Super Hero",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-main",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Super: Super Hero",
+      "wikidata": "Q107656066",
+      "tmdb": "610150",
+      "imdb": "tt14614892"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Super_Hero",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "dbs-super-hero",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 99,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 782
+          },
+          "end": {
+            "y": 783
+          },
+          "label": "Age 782–783",
+          "precision": "range",
+          "confidence": "inferred",
+          "note": "*Age 782-783 … Three months later, the events of Dragon Ball Super: Super Hero take place.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-06-11",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: released = June 11, 2022 (Japan)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Super_Hero",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dbs-broly",
+        "kind": "continues",
+        "note": "sequel film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dbs-beerus",
+    "title": "Dragon Ball Super: Beerus",
+    "sort_title": null,
+    "type": "re-edit",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-reedits",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball Super: Beerus",
+      "wikidata": "Q137883816",
+      "tmdb": "312359",
+      "imdb": "tt39395275"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Beerus",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Still airing (7 episodes so far per infobox).",
+    "units": [
+      {
+        "id": "dbs-beerus",
+        "label": "Series (airing)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 7,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Age 778–779 (re-edit of Super's first three arcs)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "*Age 778, August 18:The events of Dragon Ball Z: Battle of Gods take place. … *Age 779:The events of Dragon Ball Z: Resurrection ‘F’ take place.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-10-11",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: Dragon Ball Super: Beerus premiered on Fuji Television on October 11, 2026. It is a re-edited and remastered version of the first three arcs of Dragon Ball Super with new animation."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Beerus",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball-super",
+        "kind": "adapts",
+        "note": "remastered re-edit of the first three arcs"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dragon-ball-gt",
+    "title": "Dragon Ball GT",
+    "sort_title": null,
+    "type": "series",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-gt",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "fuji-tv",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragon Ball GT",
+      "wikidata": "Q735669",
+      "tmdb": "12697",
+      "imdb": "tt0139774"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragon_Ball_GT",
+      "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+    ],
+    "notes": "Not based on the manga; Toriyama called it a \"grand side story\". In-universe years assume it branches from the end of Z (Age 784).",
+    "units": [
+      {
+        "id": "dragon-ball-gt",
+        "label": "Series",
+        "season": null,
+        "episode_range": null,
+        "episode_count": 64,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 789
+          },
+          "end": {
+            "y": 790
+          },
+          "label": "Age 789–790 (epilogue Age 889)",
+          "precision": "range",
+          "confidence": "disputed",
+          "note": "The Funimation dub places Dragon Ball GT ten years after the end of Dragon Ball Z, while the original Japanese dub and various guides state it to be five years. The Japanese dates are used here. *Age 789 … *Age 790",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-02-07",
+          "end_date": "1997-11-19",
+          "year": 1996,
+          "note": "Wikipedia: Dragon Ball GT premiered on Fuji TV on February 7, 1996, and ran until November 19, 1997, for 64 episodes."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragon_Ball_GT",
+          "https://dragonball.fandom.com/wiki/Dragon_Ball_Timeline?oldid=2276711"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball-z",
+        "kind": "continues",
+        "note": "anime-only sequel to Z (alternate continuity)"
+      },
+      {
+        "to": "dragon-ball-super",
+        "kind": "shares-characters",
+        "note": "Super and Daima replace GT as the post-Z story in the main continuity"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-dragon-ball-curse-of-the-blood-rubies",
+    "title": "Dragon Ball: Curse of the Blood Rubies",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on the original Dragon Ball anime.",
+    "units": [
+      {
+        "id": "db-film-dragon-ball-curse-of-the-blood-rubies",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 1 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1986-12-20",
+          "end_date": null,
+          "year": 1986,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball: Curse of the Blood Rubies … | December 20, 1986 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-dragon-ball-sleeping-princess-in-devil-s-castle",
+    "title": "Dragon Ball: Sleeping Princess in Devil's Castle",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on the original Dragon Ball anime.",
+    "units": [
+      {
+        "id": "db-film-dragon-ball-sleeping-princess-in-devil-s-castle",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 2 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1987-07-18",
+          "end_date": null,
+          "year": 1987,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball: Sleeping Princess in Devil's Castle … | July 18, 1987 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-dragon-ball-mystical-adventure",
+    "title": "Dragon Ball: Mystical Adventure",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on the original Dragon Ball anime.",
+    "units": [
+      {
+        "id": "db-film-dragon-ball-mystical-adventure",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 3 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1988-07-09",
+          "end_date": null,
+          "year": 1988,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball: Mystical Adventure … | July 9, 1988 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-dead-zone",
+    "title": "Dragon Ball Z: Dead Zone",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-dead-zone",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 4 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-07-15",
+          "end_date": null,
+          "year": 1989,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Dead Zone … | July 15, 1989 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-the-world-s-strongest",
+    "title": "Dragon Ball Z: The World's Strongest",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-the-world-s-strongest",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 5 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-03-10",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: The World's Strongest … | March 10, 1990 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-the-tree-of-might",
+    "title": "Dragon Ball Z: The Tree of Might",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-the-tree-of-might",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 6 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-07-07",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: The Tree of Might … | July 7, 1990 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-lord-slug",
+    "title": "Dragon Ball Z: Lord Slug",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-lord-slug",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 7 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-03-09",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Lord Slug … | March 9, 1991 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-cooler-s-revenge",
+    "title": "Dragon Ball Z: Cooler's Revenge",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-cooler-s-revenge",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 8 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-07-20",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Cooler's Revenge … | July 20, 1991 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-the-return-of-cooler",
+    "title": "Dragon Ball Z: The Return of Cooler",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-the-return-of-cooler",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 9 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-03-07",
+          "end_date": null,
+          "year": 1992,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: The Return of Cooler … | March 7, 1992 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-super-android-13",
+    "title": "Dragon Ball Z: Super Android 13!",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-super-android-13",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 10 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-07-11",
+          "end_date": null,
+          "year": 1992,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Super Android 13! … | July 11, 1992 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-broly-the-legendary-super-saiyan",
+    "title": "Dragon Ball Z: Broly – The Legendary Super Saiyan",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-broly-the-legendary-super-saiyan",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 11 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-03-06",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Broly – The Legendary Super Saiyan … | March 6, 1993 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-bojack-unbound",
+    "title": "Dragon Ball Z: Bojack Unbound",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-bojack-unbound",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 12 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-07-10",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Bojack Unbound … | July 10, 1993 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-broly-second-coming",
+    "title": "Dragon Ball Z: Broly – Second Coming",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-broly-second-coming",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 13 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-03-12",
+          "end_date": null,
+          "year": 1994,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Broly – Second Coming … | March 12, 1994 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-bio-broly",
+    "title": "Dragon Ball Z: Bio-Broly",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-bio-broly",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 14 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-07-09",
+          "end_date": null,
+          "year": 1994,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Bio-Broly … | July 9, 1994 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-fusion-reborn",
+    "title": "Dragon Ball Z: Fusion Reborn",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-fusion-reborn",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 15 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-03-04",
+          "end_date": null,
+          "year": 1995,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Fusion Reborn … | March 4, 1995 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-wrath-of-the-dragon",
+    "title": "Dragon Ball Z: Wrath of the Dragon",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on Dragon Ball Z.",
+    "units": [
+      {
+        "id": "db-film-wrath-of-the-dragon",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 16 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-07-15",
+          "end_date": null,
+          "year": 1995,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball Z: Wrath of the Dragon … | July 15, 1995 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "db-film-dragon-ball-the-path-to-power",
+    "title": "Dragon Ball: The Path to Power",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragon-ball-noncanon-films",
+    "studio_brand": "toei-animation",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Dragon Ball films",
+      "wikidata": "Q909572",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+      "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+    ],
+    "notes": "Based on the original Dragon Ball anime.",
+    "units": [
+      {
+        "id": "db-film-dragon-ball-the-path-to-power",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "film 17 of 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by Japanese theatrical release; these films \"do not correlate with the continuity of the series\", so no in-universe placement is used.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-03-04",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: ! scope=\"row\" | Dragon Ball: The Path to Power … | March 4, 1996 [Theatrical release column]"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_films",
+          "https://en.wikipedia.org/w/index.php?title=Dragon_Ball&oldid=1386322884"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "dragonball-evolution",
+    "title": "Dragonball Evolution",
+    "sort_title": null,
+    "type": "film",
+    "universe": "dragon-ball",
+    "continuity": "dragonball-evolution",
+    "studio_brand": "fox",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Dragonball Evolution",
+      "wikidata": "Q653303",
+      "tmdb": "14164",
+      "imdb": "tt1098327"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dragonball_Evolution"
+    ],
+    "notes": "First release Japan/Hong Kong March 10, 2009; US April 10, 2009. Directed by James Wong, produced by Stephen Chow.",
+    "units": [
+      {
+        "id": "dragonball-evolution",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 82,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "single film",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason: single unit]",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-03-10",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: released = March 10, 2009 (Japan, Hong Kong); April 10, 2009 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dragonball_Evolution"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "dragon-ball",
+        "kind": "adapts",
+        "note": "loose live-action adaptation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

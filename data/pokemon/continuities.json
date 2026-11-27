@@ -1,0 +1,162 @@
+[
+  {
+    "id": "pokemon-anime",
+    "universe": "pokemon",
+    "name": "Pokémon anime (main series and films 1–19)",
+    "short_name": "Pokémon anime",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The Pokémon TV anime (Ash Ketchum series 1997–2023, then Horizons) and the main-series anime films 1–19. No calendar years; ordered by Japanese broadcast/release. Wikipedia: \"The anime franchise consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons. … Starting with the 26th season, a new cast is featured, centering on protagonists Liko and Roy. … The films star Pokémon Trainer Ash Ketchum and his partner Pokémon, Pikachu.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28TV_series%29&oldid=1388213306",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pokemon-films-alt",
+    "universe": "pokemon",
+    "name": "Pokémon films: alternate timeline trilogy",
+    "short_name": "Pokémon films: alternate timeline trilogy",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Films 20, 21 and 23 (I Choose You!, The Power of Us, Secrets of the Jungle), which form an alternate timeline separate from the TV anime. Wikipedia: \"It is the twentieth film of the Pokémon anime series and the first film of the alternate timeline trilogy. … Set in an alternate timeline, the film follows the journey of Pokémon Trainer Ash Ketchum\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_I_Choose_You%21&oldid=1382845279",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_The_Power_of_Us&oldid=1386399018",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_Secrets_of_the_Jungle&oldid=1387362347"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pokemon-mewtwo-evolution",
+    "universe": "pokemon",
+    "name": "Mewtwo Strikes Back—Evolution (CGI remake)",
+    "short_name": "Mewtwo Strikes Back—Evolution",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "2019 CGI remake of the first film; kept separate so the same story is not ordered twice in the anime continuity. Wikipedia: \"It is the twenty-second film of the Pokémon anime series and a CGI remake of Pokémon: The First Movie (1998).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon%3A_Mewtwo_Strikes_Back_%E2%80%93_Evolution&oldid=1381668735"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pokemon-detective-pikachu",
+    "universe": "pokemon",
+    "name": "Detective Pikachu (live-action)",
+    "short_name": "Detective Pikachu",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Live-action film based on the Detective Pikachu spin-off game; separate from the anime. Wikipedia: \"Detective Pikachu is based on the 2016 video game Detective Pikachu and stars Ryan Reynolds as the motion capture role of Detective Pikachu\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "pokemon-core-games",
+    "universe": "pokemon",
+    "name": "Pokémon core-series games",
+    "short_name": "Pokémon core-series games",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "One title per core-series generation; ordered by release. Wikipedia: \"The anime franchise consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. [games are the source the anime adapts, not the same continuity]\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28TV_series%29&oldid=1388213306"
+    ],
+    "notes": ""
+  }
+]

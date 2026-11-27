@@ -1,0 +1,3882 @@
+[
+  {
+    "id": "pokemon-original",
+    "title": "Pokémon (original series: Indigo League – Master Quest)",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 1 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon: Indigo League.",
+    "units": [
+      {
+        "id": "pokemon-original-s1",
+        "label": "Season 1: Indigo League",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 80,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1997-04-01",
+          "end_date": "1999-01-21",
+          "year": 1997,
+          "note": "Wikipedia: | auxA1 = Indigo League | episodes1 = 80 | start1 = | start1 = April 1, 1997 | end1 = | end1 = January 21, 1999"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-original-s2",
+        "label": "Season 2: Adventures in the Orange Islands",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 36,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-01-28",
+          "end_date": "1999-10-07",
+          "year": 1999,
+          "note": "Wikipedia: | auxA2 = Adventures in the Orange Islands | episodes2 = 36 | start2 = | start2 = January 28, 1999 | end2 = | end2 = October 7, 1999"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-original-s3",
+        "label": "Season 3: The Johto Journeys",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 41,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-10-14",
+          "end_date": "2000-07-27",
+          "year": 1999,
+          "note": "Wikipedia: | auxA3 = The Johto Journeys | episodes3 = 41 | start3 = | start3 = October 14, 1999 | end3 = | end3 = July 27, 2000"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-original-s4",
+        "label": "Season 4: Johto League Champions",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-08-03",
+          "end_date": "2001-08-02",
+          "year": 2000,
+          "note": "Wikipedia: | auxA4 = Johto League Champions | episodes4 = 52 | start4 = | start4 = August 3, 2000 | end4 = | end4 = August 2, 2001"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-original-s5",
+        "label": "Season 5: Master Quest",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 64,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-08-09",
+          "end_date": "2002-11-14",
+          "year": 2001,
+          "note": "Wikipedia: | auxA5 = Master Quest | episodes5 = 64 | start5 = | start5 = August 9, 2001 | end5 = | end5 = November 14, 2002"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-advanced",
+    "title": "Pokémon: Advanced Generation",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 2 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon: Advanced.",
+    "units": [
+      {
+        "id": "pokemon-advanced-s6",
+        "label": "Season 6: Advanced",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 40,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 110,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-11-21",
+          "end_date": "2003-08-28",
+          "year": 2002,
+          "note": "Wikipedia: | auxA6 = Advanced | episodes6 = 40 | start6 = | start6 = November 21, 2002 | end6 = | end6 = August 28, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-advanced-s7",
+        "label": "Season 7: Advanced Challenge",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 130,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-09-04",
+          "end_date": "2004-09-02",
+          "year": 2003,
+          "note": "Wikipedia: | auxA7 = Advanced Challenge | episodes7 = 52 | start7 = | start7 = September 4, 2003 | end7 = | end7 = September 2, 2004"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-advanced-s8",
+        "label": "Season 8: Advanced Battle",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 150,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-09-09",
+          "end_date": "2005-09-29",
+          "year": 2004,
+          "note": "Wikipedia: | auxA8 = Advanced Battle | episodes8 = 52 | start8 = | start8 = September 9, 2004 | end8 = | end8 = September 29, 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-advanced-s9",
+        "label": "Season 9: Battle Frontier",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 47,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 170,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-10-06",
+          "end_date": "2006-09-14",
+          "year": 2005,
+          "note": "Wikipedia: | auxA9 = Battle Frontier | episodes9 = 47 | start9 = | start9 = October 6, 2005 | end9 = | end9 = September 14, 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-original",
+        "kind": "continues",
+        "note": "next Japanese series of the same anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-dp",
+    "title": "Pokémon: Diamond and Pearl",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 3 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon the Series: Diamond and Pearl.",
+    "units": [
+      {
+        "id": "pokemon-dp-s10",
+        "label": "Season 10: Diamond and Pearl",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 51,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 190,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-28",
+          "end_date": "2007-10-25",
+          "year": 2006,
+          "note": "Wikipedia: | auxA10 = Diamond and Pearl | episodes10 = 51 | start10 = | start10 = September 28, 2006 | end10 = | end10 = October 25, 2007"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-dp-s11",
+        "label": "Season 11: Diamond and Pearl: Battle Dimension",
+        "season": 11,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 11",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 210,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-11-08",
+          "end_date": "2008-12-04",
+          "year": 2007,
+          "note": "Wikipedia: | auxA11 = Diamond and Pearl: Battle Dimension | episodes11 = 52 | start11 = | start11 = November 8, 2007 | end11 = | end11 = December 4, 2008"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "11"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-dp-s12",
+        "label": "Season 12: Diamond and Pearl: Galactic Battles",
+        "season": 12,
+        "episode_range": null,
+        "episode_count": 52,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 12",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 230,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-12-04",
+          "end_date": "2009-12-24",
+          "year": 2008,
+          "note": "Wikipedia: | auxA12 = Diamond and Pearl: Galactic Battles | episodes12 = 52 | start12 = | start12 = December 4, 2008 | end12 = | end12 = December 24, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "12"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-dp-s13",
+        "label": "Season 13: Diamond and Pearl: Sinnoh League Victors",
+        "season": 13,
+        "episode_range": null,
+        "episode_count": 34,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 13",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 250,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-01-07",
+          "end_date": "2010-09-09",
+          "year": 2010,
+          "note": "Wikipedia: | auxA13 = Diamond and Pearl: Sinnoh League Victors | episodes13 = 34 | start13 = | start13 = January 7, 2010 | end13 = | end13 = September 9, 2010"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "13"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-advanced",
+        "kind": "continues",
+        "note": "next Japanese series of the same anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-bw",
+    "title": "Pokémon: Black & White (Best Wishes)",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 4 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon the Series: Black & White.",
+    "units": [
+      {
+        "id": "pokemon-bw-s14",
+        "label": "Season 14: Black & White",
+        "season": 14,
+        "episode_range": null,
+        "episode_count": 48,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 14",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 270,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-23",
+          "end_date": "2011-09-15",
+          "year": 2010,
+          "note": "Wikipedia: | auxA14 = Black & White | episodes14 = 48 | start14 = | start14 = September 23, 2010 | end14 = | end14 = September 15, 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "14"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-bw-s15",
+        "label": "Season 15: Black & White: Rival Destinies",
+        "season": 15,
+        "episode_range": null,
+        "episode_count": 49,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 15",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 290,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-09-22",
+          "end_date": "2012-10-04",
+          "year": 2011,
+          "note": "Wikipedia: | auxA15 = Black & White: Rival Destinies | episodes15 = 49 | start15 = | start15 = September 22, 2011 | end15 = | end15 = October 4, 2012"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "15"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-bw-s16",
+        "label": "Season 16: Black & White: Adventures in Unova and Beyond",
+        "season": 16,
+        "episode_range": null,
+        "episode_count": 45,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 16",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 310,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-10-11",
+          "end_date": "2013-09-26",
+          "year": 2012,
+          "note": "Wikipedia: | auxA16 = Black & White: Adventures in Unova and Beyond | episodes16 = 45 | start16 = | start16 = October 11, 2012 | end16 = | end16 = September 26, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "16"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-dp",
+        "kind": "continues",
+        "note": "next Japanese series of the same anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-xy",
+    "title": "Pokémon the Series: XY",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 5 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon the Series: XY.",
+    "units": [
+      {
+        "id": "pokemon-xy-s17",
+        "label": "Season 17: XY",
+        "season": 17,
+        "episode_range": null,
+        "episode_count": 48,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 17",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 330,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-17",
+          "end_date": "2014-10-30",
+          "year": 2013,
+          "note": "Wikipedia: | auxA17 = XY | episodes17 = 48 | start17 = | start17 = October 17, 2013 | end17 = | end17 = October 30, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "17"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-xy-s18",
+        "label": "Season 18: XY: Kalos Quest",
+        "season": 18,
+        "episode_range": null,
+        "episode_count": 45,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 18",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 350,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-11-13",
+          "end_date": "2015-10-22",
+          "year": 2014,
+          "note": "Wikipedia: | auxA18 = XY: Kalos Quest | episodes18 = 45 | start18 = | start18 = November 13, 2014 | end18 = | end18 = October 22, 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "18"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-xy-s19",
+        "label": "Season 19: XYZ",
+        "season": 19,
+        "episode_range": null,
+        "episode_count": 48,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 19",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 370,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-10-29",
+          "end_date": "2016-10-27",
+          "year": 2015,
+          "note": "Wikipedia: | auxA19 = XYZ | episodes19 = 48 | start19 = | start19 = October 29, 2015 | end19 = | end19 = October 27, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "19"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-bw",
+        "kind": "continues",
+        "note": "next Japanese series of the same anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-sm",
+    "title": "Pokémon the Series: Sun & Moon",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 6 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon the Series: Sun & Moon.",
+    "units": [
+      {
+        "id": "pokemon-sm-s20",
+        "label": "Season 20: Sun & Moon",
+        "season": 20,
+        "episode_range": null,
+        "episode_count": 43,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 20",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 390,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-11-17",
+          "end_date": "2017-09-21",
+          "year": 2016,
+          "note": "Wikipedia: | auxA20 = Sun & Moon | episodes20 = 43 | start20 = | start20 = November 17, 2016 | end20 = | end20 = September 21, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "20"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-sm-s21",
+        "label": "Season 21: Sun & Moon: Ultra Adventures",
+        "season": 21,
+        "episode_range": null,
+        "episode_count": 48,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 21",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 400,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-10-05",
+          "end_date": "2018-10-14",
+          "year": 2017,
+          "note": "Wikipedia: | auxA21 = Sun & Moon: Ultra Adventures | episodes21 = 48 | start21 = | start21 = October 5, 2017 | end21 = | end21 = October 14, 2018"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "21"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-sm-s22",
+        "label": "Season 22: Sun & Moon: Ultra Legends",
+        "season": 22,
+        "episode_range": null,
+        "episode_count": 54,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 22",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 410,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-10-21",
+          "end_date": "2019-11-03",
+          "year": 2018,
+          "note": "Wikipedia: | auxA22 = Sun & Moon: Ultra Legends | episodes22 = 54 | start22 = | start22 = October 21, 2018 | end22 = | end22 = November 3, 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "22"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-xy",
+        "kind": "continues",
+        "note": "next Japanese series of the same anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-journeys",
+    "title": "Pokémon Journeys",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 7 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon Journeys: The Series.",
+    "units": [
+      {
+        "id": "pokemon-journeys-s23",
+        "label": "Season 23: Journeys",
+        "season": 23,
+        "episode_range": null,
+        "episode_count": 48,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 23",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 420,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-11-17",
+          "end_date": "2020-12-04",
+          "year": 2019,
+          "note": "Wikipedia: | auxA23 = Journeys | episodes23 = 48 | start23 = | start23 = November 17, 2019 | end23 = | end23 = December 4, 2020"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "23"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-journeys-s24",
+        "label": "Season 24: Master Journeys",
+        "season": 24,
+        "episode_range": null,
+        "episode_count": 42,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 24",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 430,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-12-11",
+          "end_date": "2021-12-10",
+          "year": 2020,
+          "note": "Wikipedia: | auxA24 = Master Journeys | episodes24 = 42 | start24 = | start24 = December 11, 2020 | end24 = | end24 = December 10, 2021"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "24"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-journeys-s25",
+        "label": "Season 25: Ultimate Journeys",
+        "season": 25,
+        "episode_range": null,
+        "episode_count": 54,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 25",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 440,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2021-12-17",
+          "end_date": "2023-03-24",
+          "year": 2021,
+          "note": "Wikipedia: | auxA25 = Ultimate Journeys | episodes25 = 54 | start25 = | start25 = December 17, 2021 | end25 = | end25 = March 24, 2023"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "25"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-sm",
+        "kind": "continues",
+        "note": "next Japanese series of the same anime"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-horizons",
+    "title": "Pokémon Horizons",
+    "sort_title": null,
+    "type": "series",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "tv-tokyo",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon (TV series)",
+      "wikidata": "Q239937",
+      "tmdb": "60572",
+      "imdb": "tt0168366"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+    ],
+    "notes": "Japanese series 8 of 8. Season grouping into series is editorial (by season-name prefix): the source says the anime \"consists of eight sequential series in Japan, each based on a main installment of the Pokémon video game series. In the international broadcasts, these series are split across 29 seasons.\" First-season article: Pokémon Horizons: The Series. Season 29 is still airing (end blank in source).",
+    "units": [
+      {
+        "id": "pokemon-horizons-s26",
+        "label": "Season 26: Horizons",
+        "season": 26,
+        "episode_range": null,
+        "episode_count": 45,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 26",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 450,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-04-14",
+          "end_date": "2024-03-29",
+          "year": 2023,
+          "note": "Wikipedia: | auxA26 = Horizons | episodes26 = 45 | start26 = | start26 = April 14, 2023 | end26 = | end26 = March 29, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "26"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-horizons-s27",
+        "label": "Season 27: Horizons – The Search for Laqua",
+        "season": 27,
+        "episode_range": null,
+        "episode_count": 44,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 27",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 460,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-04-12",
+          "end_date": "2025-03-21",
+          "year": 2024,
+          "note": "Wikipedia: | auxA27 = Horizons – The Search for Laqua | episodes27 = 44 | start27 = | start27 = April 12, 2024 | end27 = | end27 = March 21, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "27"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-horizons-s28",
+        "label": "Season 28: Horizons – Rising Hope",
+        "season": 28,
+        "episode_range": null,
+        "episode_count": 47,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 28",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 470,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-04-11",
+          "end_date": "2026-05-01",
+          "year": 2025,
+          "note": "Wikipedia: | auxA28 = Horizons – Rising Hope | episodes28 = 47 | start28 = | start28 = April 11, 2025 | end28 = | end28 = May 1, 2026"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "28"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "pokemon-horizons-s29",
+        "label": "Season 29: Horizons – Wonders Ahead",
+        "season": 29,
+        "episode_range": null,
+        "episode_count": 23,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "season 29",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 480,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2026-05-22",
+          "end_date": null,
+          "year": 2026,
+          "note": "Wikipedia: | auxA29 = Horizons – Wonders Ahead | episodes29 = 23 | start29 = | start29 = May 22, 2026 | end29 = (blank)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "29"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Template%3APok%C3%A9mon_series_overview&oldid=1388213318"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-journeys",
+        "kind": "continues",
+        "note": "new protagonists (Liko and Roy) in the same anime series"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-01-mewtwo-strikes-back",
+    "title": "Pokémon: The First Movie – Mewtwo Strikes Back",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 1; article \"Pokémon: The First Movie\" (revid not fetched). North American release: November 12, 1999. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-01-mewtwo-strikes-back",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Indigo League",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1998-07-18",
+          "end_date": null,
+          "year": 1998,
+          "note": "Wikipedia: | 1 || Pokémon: The First Movie – Mewtwo Strikes Back || … || July 18, 1998 || November 12, 1999"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-02-power-of-one",
+    "title": "Pokémon the Movie 2000: The Power of One",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 2; article \"Pokémon the Movie 2000\" (revid not fetched). North American release: July 21, 2000. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-02-power-of-one",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Adventures in the Orange Islands",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-07-17",
+          "end_date": null,
+          "year": 1999,
+          "note": "Wikipedia: | 2 || Pokémon the Movie 2000: The Power of One || … || July 17, 1999 || July 21, 2000"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-03-spell-of-the-unown",
+    "title": "Pokémon 3: The Movie – Spell of the Unown",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 3; article \"Pokémon 3: The Movie\" (revid not fetched). North American release: April 6, 2001. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-03-spell-of-the-unown",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during The Johto Journeys",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2000-07-08",
+          "end_date": null,
+          "year": 2000,
+          "note": "Wikipedia: | 3 || Pokémon 3: The Movie – Spell of the Unown || … || July 8, 2000 || April 6, 2001"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-04-celebi",
+    "title": "Pokémon 4Ever: Celebi – Voice of the Forest",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 4; article \"Pokémon 4Ever\" (revid not fetched). North American release: October 11, 2002. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-04-celebi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Johto League Champions",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2001-07-07",
+          "end_date": null,
+          "year": 2001,
+          "note": "Wikipedia: | 4 || Pokémon 4Ever: Celebi – Voice of the Forest || … || July 7, 2001 || October 11, 2002"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-05-heroes",
+    "title": "Pokémon Heroes: Latios and Latias",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 5; article \"Pokémon Heroes\" (revid not fetched). North American release: May 16, 2003. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-05-heroes",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Master Quest",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-07-13",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: | 5 || Pokémon Heroes: Latios and Latias || … || July 13, 2002 || May 16, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-06-jirachi",
+    "title": "Jirachi, Wish Maker",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 6; article \"Pokémon: Jirachi, Wish Maker\" (revid not fetched). North American release: June 1, 2004. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-06-jirachi",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Advanced",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 120,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2003-07-19",
+          "end_date": null,
+          "year": 2003,
+          "note": "Wikipedia: | 6 || Jirachi, Wish Maker || … || July 19, 2003 || June 1, 2004"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-07-destiny-deoxys",
+    "title": "Destiny Deoxys",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 7; article \"Pokémon: Destiny Deoxys\" (revid not fetched). North American release: January 22, 2005. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-07-destiny-deoxys",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Advanced Challenge",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 140,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2004-07-17",
+          "end_date": null,
+          "year": 2004,
+          "note": "Wikipedia: | 7 || Destiny Deoxys || … || July 17, 2004 || January 22, 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-08-lucario",
+    "title": "Lucario and the Mystery of Mew",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 8; article \"Pokémon: Lucario and the Mystery of Mew\" (revid not fetched). North American release: September 19, 2006. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-08-lucario",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Advanced Battle",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 160,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2005-07-16",
+          "end_date": null,
+          "year": 2005,
+          "note": "Wikipedia: | 8 || Lucario and the Mystery of Mew || … || July 16, 2005 || September 19, 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-09-temple-of-the-sea",
+    "title": "Pokémon Ranger and the Temple of the Sea",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 9; article \"Pokémon Ranger and the Temple of the Sea\" (revid not fetched). North American release: March 23, 2007. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-09-temple-of-the-sea",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Battle Frontier",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 180,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-07-15",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: | 9 || Pokémon Ranger and the Temple of the Sea || … || July 15, 2006 || March 23, 2007"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-10-darkrai",
+    "title": "The Rise of Darkrai",
+    "sort_title": "Rise of Darkrai",
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 10; article \"Pokémon: The Rise of Darkrai\" (revid not fetched). North American release: February 24, 2008. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-10-darkrai",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Diamond and Pearl",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 200,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-07-14",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: | 10 || The Rise of Darkrai || … || July 14, 2007 || February 24, 2008"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-11-giratina",
+    "title": "Giratina & the Sky Warrior",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 11; article \"Pokémon: Giratina & the Sky Warrior\" (revid not fetched). North American release: February 13, 2009. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-11-giratina",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Diamond and Pearl: Battle Dimension",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 220,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2008-07-19",
+          "end_date": null,
+          "year": 2008,
+          "note": "Wikipedia: | 11 || Giratina & the Sky Warrior || … || July 19, 2008 || February 13, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-12-arceus",
+    "title": "Arceus and the Jewel of Life",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 12; article \"Pokémon: Arceus and the Jewel of Life\" (revid not fetched). North American release: November 20, 2009. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-12-arceus",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Diamond and Pearl: Galactic Battles",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 240,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2009-07-18",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: | 12 || Arceus and the Jewel of Life || … || July 18, 2009 || November 20, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-13-zoroark",
+    "title": "Zoroark: Master of Illusions",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 13; article \"Pokémon—Zoroark: Master of Illusions\" (revid not fetched). North American release: February 5, 2011. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-13-zoroark",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Diamond and Pearl: Sinnoh League Victors",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 260,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-07-10",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: | 13 || Zoroark: Master of Illusions || … || July 10, 2010 || February 5, 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-14-victini",
+    "title": "Black — Victini and Reshiram / White — Victini and Zekrom",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 14; article \"Pokémon the Movie: Black—Victini and Reshiram and White—Victini and Zekrom\" (revid not fetched). North American release: December 3, 2011 / December 10, 2011. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-14-victini",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Black & White",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 280,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2011-07-16",
+          "end_date": null,
+          "year": 2011,
+          "note": "Wikipedia: | 14 || Black — Victini and Reshiram / White — Victini and Zekrom || … || July 16, 2011 || December 3, 2011 / December 10, 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-15-kyurem",
+    "title": "Kyurem vs. the Sword of Justice",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 15; article \"Pokémon the Movie: Kyurem vs. the Sword of Justice\" (revid not fetched). North American release: December 8, 2012. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-15-kyurem",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Black & White: Rival Destinies",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 300,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-07-14",
+          "end_date": null,
+          "year": 2012,
+          "note": "Wikipedia: | 15 || Kyurem vs. the Sword of Justice || … || July 14, 2012 || December 8, 2012"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-16-genesect",
+    "title": "Genesect and the Legend Awakened",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 16; article \"Pokémon the Movie: Genesect and the Legend Awakened\" (revid not fetched). North American release: October 19, 2013. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-16-genesect",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during Black & White: Adventures in Unova and Beyond",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 320,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-07-13",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: | 16 || Genesect and the Legend Awakened || … || July 13, 2013 || October 19, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-17-diancie",
+    "title": "Diancie and the Cocoon of Destruction",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 17; article \"Pokémon the Movie: Diancie and the Cocoon of Destruction\" (revid not fetched). North American release: November 8, 2014. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-17-diancie",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during XY",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 340,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-07-19",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: | 17 || Diancie and the Cocoon of Destruction || … || July 19, 2014 || November 8, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-18-hoopa",
+    "title": "Hoopa and the Clash of Ages",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 18; article \"Pokémon the Movie: Hoopa and the Clash of Ages\" (revid not fetched). North American release: December 19, 2015. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-18-hoopa",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during XY: Kalos Quest",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 360,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-07-18",
+          "end_date": null,
+          "year": 2015,
+          "note": "Wikipedia: | 18 || Hoopa and the Clash of Ages || … || July 18, 2015 || December 19, 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-19-volcanion",
+    "title": "Volcanion and the Mechanical Marvel",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-anime",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "List of Pokémon films",
+      "wikidata": "Q5352741",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Film no. 19; article \"Pokémon the Movie: Volcanion and the Mechanical Marvel\" (revid not fetched). North American release: December 5, 2016. Distributor (Toho) assumed for Japan, not verified per film.",
+    "units": [
+      {
+        "id": "film-19-volcanion",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "during XYZ",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by original Japanese broadcast/release date (seasons by premiere, films by Japanese release); the anime gives no calendar years.",
+          "order_index": 380,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-07-16",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: | 19 || Volcanion and the Mechanical Marvel || … || July 16, 2016 || December 5, 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon_films",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-20-i-choose-you",
+    "title": "Pokémon the Movie: I Choose You!",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-films-alt",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon the Movie: I Choose You!",
+      "wikidata": "Q28016163",
+      "tmdb": "436931",
+      "imdb": "tt6595896"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_I_Choose_You!",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_I_Choose_You%21&oldid=1382845279"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "film-20-i-choose-you",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 96,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "first film of the alternate timeline",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is the twentieth film of the Pokémon anime series and the first film of the alternate timeline trilogy. Loosely adapted from the anime's first episode and much of the first season",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-07-15",
+          "end_date": null,
+          "year": 2017,
+          "note": "Wikipedia: | 20 || Pokémon the Movie: I Choose You! || … || July 15, 2017 || November 25, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_I_Choose_You!",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_I_Choose_You%21&oldid=1382845279"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-original",
+        "kind": "reboot-of",
+        "note": "alternate retelling of the first season"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-21-power-of-us",
+    "title": "Pokémon the Movie: The Power of Us",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-films-alt",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon the Movie: The Power of Us",
+      "wikidata": "Q48928053",
+      "tmdb": "494407",
+      "imdb": "tt8108230"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_The_Power_of_Us",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_The_Power_of_Us&oldid=1386399018"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "film-21-power-of-us",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "second film of the alternate timeline",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is the twenty-first film of the Pokémon anime series, the second film of the alternate timeline trilogy and a sequel to Pokémon the Movie: I Choose You!",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-07-13",
+          "end_date": null,
+          "year": 2018,
+          "note": "Wikipedia: | 21 || Pokémon the Movie: The Power of Us || … || July 13, 2018 || December 8, 2018"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_The_Power_of_Us",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_The_Power_of_Us&oldid=1386399018"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "film-20-i-choose-you",
+        "kind": "continues",
+        "note": "alternate-timeline sequel"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-23-secrets-of-the-jungle",
+    "title": "Pokémon the Movie: Secrets of the Jungle",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-films-alt",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon the Movie: Secrets of the Jungle",
+      "wikidata": "Q81583691",
+      "tmdb": "662708",
+      "imdb": "tt11819890"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Secrets_of_the_Jungle",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_Secrets_of_the_Jungle&oldid=1387362347"
+    ],
+    "notes": "Delayed from July 10, 2020 to December 25, 2020 (COVID-19); US release October 8, 2021.",
+    "units": [
+      {
+        "id": "film-23-secrets-of-the-jungle",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "third film of the alternate timeline",
+          "precision": "relative",
+          "confidence": "stated",
+          "note": "It is the twenty-third film of the Pokémon animated series, the third of the alternate timeline, a sequel to Pokémon the Movie: The Power of Us",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2020-12-25",
+          "end_date": null,
+          "year": 2020,
+          "note": "Wikipedia: | 23 || Pokémon the Movie: Secrets of the Jungle || … || December 25, 2020"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Secrets_of_the_Jungle",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_the_Movie%3A_Secrets_of_the_Jungle&oldid=1387362347"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "film-21-power-of-us",
+        "kind": "continues",
+        "note": "alternate-timeline sequel"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "film-22-mewtwo-evolution",
+    "title": "Pokémon: Mewtwo Strikes Back—Evolution",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-mewtwo-evolution",
+    "studio_brand": "olm-inc",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon: Mewtwo Strikes Back – Evolution",
+      "wikidata": "Q60332508",
+      "tmdb": "571891",
+      "imdb": "tt8856470"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Mewtwo_Strikes_Back_%E2%80%93_Evolution",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon%3A_Mewtwo_Strikes_Back_%E2%80%93_Evolution&oldid=1381668735"
+    ],
+    "notes": "Continuity placement of the remake is not stated by Wikipedia; given its own continuity (default).",
+    "units": [
+      {
+        "id": "film-22-mewtwo-evolution",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 100,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "remake of film 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason: single unit] It is the twenty-second film of the Pokémon anime series and a CGI remake of Pokémon: The First Movie (1998).",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-07-12",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: | 22 || Mewtwo Strikes Back: Evolution || … || July 12, 2019 || February 27, 2020 (Netflix)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Mewtwo_Strikes_Back_%E2%80%93_Evolution",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon%3A_Mewtwo_Strikes_Back_%E2%80%93_Evolution&oldid=1381668735"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "film-01-mewtwo-strikes-back",
+        "kind": "reboot-of",
+        "note": "CGI remake of the first film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "detective-pikachu",
+    "title": "Detective Pikachu",
+    "sort_title": null,
+    "type": "film",
+    "universe": "pokemon",
+    "continuity": "pokemon-detective-pikachu",
+    "studio_brand": "legendary-pictures",
+    "label": null,
+    "platform_or_network": "platform-not-stated",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Detective Pikachu (film)",
+      "wikidata": "Q47492499",
+      "tmdb": "447404",
+      "imdb": "tt5884052"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Detective_Pikachu_(film)",
+      "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+    ],
+    "notes": "Production companies/distributors not parsed from the infobox (lists); Legendary / Warner Bros. (international) / Toho (Japan) as commonly credited; verify. US release 2019-05-10.",
+    "units": [
+      {
+        "id": "detective-pikachu",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 104,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Ryme City",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason: single unit] In Ryme City, where humans and Pokémon live together, Tim Goodman partners with a talking Detective Pikachu",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-05-03",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: released = May 3, 2019 (Japan); May 10, 2019 (United States)"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Detective_Pikachu_(film)",
+          "https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon_films&oldid=1385073438"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen1",
+        "kind": "shares-characters",
+        "note": "franchise characters; the film is based on the 2016 Detective Pikachu spin-off game (not in this dataset)"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen1",
+    "title": "Pokémon Red and Green (Generation I)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "game-boy",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Red, Blue, and Yellow",
+      "wikidata": "Q637137",
+      "tmdb": null,
+      "imdb": "tt0236617"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted). Japanese originals were Red and Green; Blue (Oct 1996) and Yellow followed; international release was Red and Blue (1998).",
+    "units": [
+      {
+        "id": "pokemon-gen1",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-02-27",
+          "end_date": null,
+          "year": 1996,
+          "note": "Wikipedia: Pocket Monsters Red and Green JP: February 27, 1996"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen2",
+    "title": "Pokémon Gold and Silver (Generation II)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "game-boy-color",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Gold and Silver",
+      "wikidata": "Q837346",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen2",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1999-11-21",
+          "end_date": null,
+          "year": 1999,
+          "note": "Wikipedia: released = JP: November 21, 1999; AUS: October 13, 2000; NA: October 15, 2000; EU: April 6, 2001; KR: April 24, 2002"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen1",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen3",
+    "title": "Pokémon Ruby and Sapphire (Generation III)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "game-boy-advance",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Ruby and Sapphire",
+      "wikidata": "Q721822",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_and_Sapphire",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen3",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2002-11-21",
+          "end_date": null,
+          "year": 2002,
+          "note": "Wikipedia: released = JP: November 21, 2002; NA: March 19, 2003; AUS: April 3, 2003; EU: July 25, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_and_Sapphire",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen2",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen4",
+    "title": "Pokémon Diamond and Pearl (Generation IV)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "nintendo-ds",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Diamond and Pearl",
+      "wikidata": "Q645494",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen4",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-09-28",
+          "end_date": null,
+          "year": 2006,
+          "note": "Wikipedia: released = JP: September 28, 2006; NA: April 22, 2007; AU: June 21, 2007; EU: July 27, 2007; KOR: February 14, 2008"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen3",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen5",
+    "title": "Pokémon Black and White (Generation V)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "nintendo-ds",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Black and White",
+      "wikidata": "Q816034",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen5",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 5",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2010-09-18",
+          "end_date": null,
+          "year": 2010,
+          "note": "Wikipedia: released = JP: 18 September 2010; EU: 4 March 2011; NA: 6 March 2011; AUS: 10 March 2011"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen4",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen6",
+    "title": "Pokémon X and Y (Generation VI)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "nintendo-3ds",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon X and Y",
+      "wikidata": "Q2769164",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen6",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 6",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-12",
+          "end_date": null,
+          "year": 2013,
+          "note": "Wikipedia: released = WW: 12 October 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen5",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen7",
+    "title": "Pokémon Sun and Moon (Generation VII)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "nintendo-3ds",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Sun and Moon",
+      "wikidata": "Q22954794",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen7",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 7",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-11-18",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: released = WW: 18 November 2016; EU: 23 November 2016"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen6",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen8",
+    "title": "Pokémon Sword and Shield (Generation VIII)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "switch",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Sword and Shield",
+      "wikidata": "Q61897498",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen8",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 8",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-11-15",
+          "end_date": null,
+          "year": 2019,
+          "note": "Wikipedia: released = 15 November 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen7",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen9",
+    "title": "Pokémon Scarlet and Violet (Generation IX)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "switch",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Pokémon Scarlet and Violet",
+      "wikidata": "Q111028839",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Scarlet_and_Violet",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen9",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 9",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-11-18",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: released = November 18, 2022"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Scarlet_and_Violet",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen8",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "pokemon-gen10",
+    "title": "Pokémon Winds and Waves (Generation X)",
+    "sort_title": null,
+    "type": "video-game",
+    "universe": "pokemon",
+    "continuity": "pokemon-core-games",
+    "studio_brand": "game-freak",
+    "label": null,
+    "platform_or_network": "switch-2",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "upcoming",
+    "external_ids": {
+      "enwiki": "Pokémon Winds and Waves",
+      "wikidata": "Q138499194",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Winds_and_Waves",
+      "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+    ],
+    "notes": "One title per generation (first paired release only; remakes and third versions omitted).",
+    "units": [
+      {
+        "id": "pokemon-gen10",
+        "label": "Game",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "generation 10",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "[ordering reason] Ordered by release (generation) order; sources give no in-universe years for the core games.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": null,
+          "end_date": null,
+          "year": null,
+          "note": "Wikipedia: released = WW: 2027"
+        },
+        "status": "upcoming",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Winds_and_Waves",
+          "https://en.wikipedia.org/w/index.php?title=Pok%C3%A9mon_%28video_game_series%29&oldid=1387923079"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "pokemon-gen9",
+        "kind": "continues",
+        "note": "next core-series generation"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

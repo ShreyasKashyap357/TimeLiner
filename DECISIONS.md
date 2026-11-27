@@ -15,6 +15,10 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | D-70 | **Story order without sourced years** (The Expanse novellas, The Walking Dead shows, the procedurals, Stargate seasons). | Premiere or publication order, marked inferred. Prequels are moved only where a source says so (NCIS: Origins, Stargate Origins, Caprica). |
 | D-71 | **Brian Herbert & Kevin J. Anderson Dune books** in the same continuity as Frank Herbert's, as Wikipedia files them. Their canon is debated. | Same continuity, with the debate in the notes. |
 | D-72 | **The Madison and Lawmen: Bass Reeves** are outside the Yellowstone universe per Wikipedia (the franchise article disagrees for Bass Reeves). | Separate continuities, still listed under Yellowstone. |
+| D-73 | **Contemporary settings** (BBC Sherlock, Elementary, Amazon Jack Ryan, procedurals): set "in the present day" but no year is stated. | No story year; ordered by release. Air year is not used as the story year. |
+| D-74 | **Dragon Ball GT and the re-edits (Kai, Super: Beerus).** | GT is its own continuity (Wikipedia does not say Super replaces it). The re-edits are a separate continuity so the story is not listed twice. |
+| D-75 | **One Piece films** placed beside their tie-in arcs even though Oda "does not connect the films to his manga". | Placed there and marked disputed. |
+| D-76 | **TMNT (2007) and Beast Wars:** sources disagree on whether they continue the 1990 films and G1. | Separate continuities, linked (disputed). |
 
 ## Resolved
 

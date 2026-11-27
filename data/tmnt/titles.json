@@ -1,0 +1,2007 @@
+[
+  {
+    "id": "tmnt-mirage-comic",
+    "title": "Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "comic",
+    "universe": "tmnt",
+    "continuity": "tmnt-mirage",
+    "studio_brand": "mirage-studios",
+    "label": null,
+    "platform_or_network": "print-hardcover",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles (Mirage Studios)",
+      "wikidata": "Q2594023",
+      "tmdb": null,
+      "imdb": null
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(Mirage_Studios)",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896"
+    ],
+    "notes": "One title for the whole Mirage run (volumes 1–4). The release date has month precision (\"1984-05\") and release_end year precision (\"2014\").",
+    "units": [
+      {
+        "id": "tmnt-mirage-comic",
+        "label": "Volumes 1–4 (1984–2014)",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1984-05",
+          "end_date": "2014",
+          "year": 1984,
+          "note": "Wikipedia: The book premiered in May 1984 at a comic book convention in Portsmouth, New Hampshire. … Teenage Mutant Ninja Turtles (TMNT) is a comic book series that was published by Mirage Studios between 1984 and 2014."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(Mirage_Studios)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-1987",
+    "title": "Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "tmnt",
+    "continuity": "tmnt-1987",
+    "studio_brand": "fred-wolf-films",
+    "label": null,
+    "platform_or_network": "first-run-syndication",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles (1987 TV series)",
+      "wikidata": "Q249056",
+      "tmdb": "160",
+      "imdb": "tt0131613"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+    ],
+    "notes": "Season 4 aired partly in syndication (15 episodes) and partly on CBS (26). Several titles share this name; tell them apart by year.",
+    "units": [
+      {
+        "id": "tmnt-1987-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 5,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Set in New York City, the series follows the adventures of the eponymous Teenage Mutant Ninja Turtles and their allies as they battle the Shredder, Krang, and numerous other villains and criminals.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1987-12-28",
+          "end_date": "1988-01-01",
+          "year": 1987,
+          "note": "Wikipedia: |episodes1=5 … |start1=December 28, 1987 … |end1=January 1, 1988"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1988-10-01",
+          "end_date": "1988-12-24",
+          "year": 1988,
+          "note": "Wikipedia: |episodes2=13 … |start2=October 1, 1988 … |end2=December 24, 1988"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 47,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1989-09-25",
+          "end_date": "1989-12-15",
+          "year": 1989,
+          "note": "Wikipedia: |episodes3=47 … |start3=September 25, 1989 … |end3=December 15, 1989"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 41,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1990-09-08",
+          "end_date": "1991-03-29",
+          "year": 1990,
+          "note": "Wikipedia: |episodes4=41 … |start4=September 8, 1990 … |end4=March 29, 1991"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s5",
+        "label": "Season 5",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1991-09-14",
+          "end_date": "1991-11-16",
+          "year": 1991,
+          "note": "Wikipedia: |episodes5=20 … |start5=September 14, 1991 … |end5=November 16, 1991"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s6",
+        "label": "Season 6",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 16,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 60,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1992-09-19",
+          "end_date": "1992-11-07",
+          "year": 1992,
+          "note": "Wikipedia: |episodes6=16 … |start6=September 19, 1992 … |end6=November 7, 1992"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s7",
+        "label": "Season 7",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 27,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 70,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-09-18",
+          "end_date": "1993-10-30",
+          "year": 1993,
+          "note": "Wikipedia: |episodes7=27 … |start7=September 18, 1993 … |end7=October 30, 1993"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s8",
+        "label": "Season 8",
+        "season": 8,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 80,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1994-09-17",
+          "end_date": "1994-11-05",
+          "year": 1994,
+          "note": "Wikipedia: |episodes8=8 … |start8=September 17, 1994 … |end8=November 5, 1994"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "8"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s9",
+        "label": "Season 9",
+        "season": 9,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 90,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1995-09-16",
+          "end_date": "1995-11-04",
+          "year": 1995,
+          "note": "Wikipedia: |episodes9=8 … |start9=September 16, 1995 … |end9=November 4, 1995"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "9"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-1987-s10",
+        "label": "Season 10",
+        "season": 10,
+        "episode_range": null,
+        "episode_count": 8,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 100,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1996-09-14",
+          "end_date": "1996-11-02",
+          "year": 1996,
+          "note": "Wikipedia: |episodes10=8 … |start10=September 14, 1996 … |end10=November 2, 1996"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "10"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1987_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-mirage-comic",
+        "kind": "shares-characters",
+        "note": "adaptation of the Mirage comic characters (separate continuity)"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-film-1990",
+    "title": "Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "film",
+    "universe": "tmnt",
+    "continuity": "tmnt-1990-films",
+    "studio_brand": "golden-harvest",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles (1990 film)",
+      "wikidata": "Q58439",
+      "tmdb": "1498",
+      "imdb": "tt0100758"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1990_film)",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-film-1990",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 93,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": {
+            "after": "tmnt-film-1993",
+            "before": "tmnt-film-1991"
+          }
+        },
+        "release": {
+          "date": "1990-03-30",
+          "end_date": null,
+          "year": 1990,
+          "note": "Wikipedia: Teenage Mutant Ninja Turtles was released in the United States on March 30, 1990, by New Line Cinema, and received mixed reviews from critics."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1990_film)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-mirage-comic",
+        "kind": "shares-characters",
+        "note": "first film adaptation of the comic characters"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-film-1991",
+    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "sort_title": null,
+    "type": "film",
+    "universe": "tmnt",
+    "continuity": "tmnt-1990-films",
+    "studio_brand": "golden-harvest",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "wikidata": "Q1326619",
+      "tmdb": "1497",
+      "imdb": "tt0103060"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_II:_The_Secret_of_the_Ooze",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-film-1991",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 88,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the first film",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Based on the Teenage Mutant Ninja Turtles characters, it is the sequel to the 1990 film Teenage Mutant Ninja Turtles",
+          "order_index": 30,
+          "relative_to": {
+            "after": "tmnt-film-1990",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "1991-03-22",
+          "end_date": null,
+          "year": 1991,
+          "note": "Wikipedia: The film was released theatrically in the United States on March 22, 1991, by New Line Cinema."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_II:_The_Secret_of_the_Ooze",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-film-1990",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-film-1993",
+    "title": "Teenage Mutant Ninja Turtles III",
+    "sort_title": null,
+    "type": "film",
+    "universe": "tmnt",
+    "continuity": "tmnt-1990-films",
+    "studio_brand": "golden-harvest",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles III",
+      "wikidata": "Q1463466",
+      "tmdb": "1499",
+      "imdb": "tt0108308"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_III",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-film-1993",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 92,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 1993
+          },
+          "end": {
+            "y": 1993
+          },
+          "label": "1993 (time travel to 1603)",
+          "precision": "year",
+          "confidence": "inferred",
+          "note": "The plot revolves around a mystical scepter which transports the Turtles and April back in time to feudal Japan … In 1603 feudal Japan, samurai capture Prince Kenshin after chasing him into the woods … Category:Films set in 1993",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "1993-03-19",
+          "end_date": null,
+          "year": 1993,
+          "note": "Wikipedia: The film was released theatrically in the United States on March 19, 1993, by New Line Cinema."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_III",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-film-1991",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-film-2007",
+    "title": "TMNT",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "tmnt",
+    "continuity": "tmnt-2007",
+    "studio_brand": "imagi-animation-studios",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "TMNT (film)",
+      "wikidata": "Q203108",
+      "tmdb": "1273",
+      "imdb": "tt0453556"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/TMNT_(film)",
+      "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-film-2007",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 87,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the 1990–93 films (disputed)",
+          "precision": "relative",
+          "confidence": "disputed",
+          "note": "TMNT co-creator Peter Laird stated it takes place in its own universe separate from the previous films, but director Munroe says the film exists in the same continuity as the other films, which was supported by the memento wall at the end of the film.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2007-03-23",
+          "end_date": null,
+          "year": 2007,
+          "note": "Wikipedia: TMNT premiered at the Grauman's Chinese Theatre in Los Angeles on March 17, 2007, and was released theatrically in the United States on March 23, by Warner Bros."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/TMNT_(film)",
+          "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-film-1993",
+        "kind": "continues",
+        "note": "disputed: the director says it shares continuity with the 1990–93 films; Laird says it does not"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-2003",
+    "title": "Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "tmnt",
+    "continuity": "tmnt-2003",
+    "studio_brand": "mirage-studios",
+    "label": null,
+    "platform_or_network": "fox",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles (2003 TV series)",
+      "wikidata": "Q158869",
+      "tmdb": "2284",
+      "imdb": "tt0318913"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+    ],
+    "notes": "Season numbers follow Wikipedia (Ninja Tribunal is season 5). Fast Forward aired before Ninja Tribunal finished; the article says Ninja Tribunal was intended as the fifth season. Season data come from a plain wikitable, not the Series overview template.",
+    "units": [
+      {
+        "id": "tmnt-2003-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present-day New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": {
+            "after": "tmnt-2003-s6",
+            "before": "tmnt-2003-s2"
+          }
+        },
+        "release": {
+          "date": "2003-02-08",
+          "end_date": "2003-11-01",
+          "year": 2003,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center colspan=\"2\"|1 | 26 | February 8, 2003 | November 1, 2003"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2003-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present-day New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": {
+            "after": "tmnt-2003-s1",
+            "before": "tmnt-2003-s3"
+          }
+        },
+        "release": {
+          "date": "2003-11-08",
+          "end_date": "2004-10-02",
+          "year": 2003,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center colspan=2|2 | 26 | November 8, 2003 | October 2, 2004"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2003-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present-day New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": {
+            "after": "tmnt-2003-s2",
+            "before": "tmnt-2003-s4"
+          }
+        },
+        "release": {
+          "date": "2004-10-09",
+          "end_date": "2005-04-23",
+          "year": 2004,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center colspan=2|3 | 26 | October 9, 2004 | April 23, 2005"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2003-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present-day New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": {
+            "after": "tmnt-2003-s3",
+            "before": "tmnt-2003-s5"
+          }
+        },
+        "release": {
+          "date": "2005-09-10",
+          "end_date": "2006-04-15",
+          "year": 2005,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center colspan=2|4 | 26 | September 10, 2005 | April 15, 2006"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2003-s5",
+        "label": "Season 5: Ninja Tribunal",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present day, before Fast Forward",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The \"Ninja Tribunal\" was originally intended to be the fifth and final season of the 2003 Teenage Mutant Ninja Turtles animated series, but the schedule was altered in an effort to boost interest in the series, resulting in \"Fast Forward\" becoming the fifth season in terms of airing order.",
+          "order_index": 60,
+          "relative_to": {
+            "after": "tmnt-2003-s4",
+            "before": "tmnt-2003-s7"
+          }
+        },
+        "release": {
+          "date": "2006-08-07",
+          "end_date": "2008-05-02",
+          "year": 2006,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center | 5 ! scope=\"row\" style=text-align:center | Ninja Tribunal | 12 | August 7, 2006 | May 2, 2008"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2003-s6",
+        "label": "Season 6: Fast Forward",
+        "season": 6,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": {
+            "y": 2105
+          },
+          "end": {
+            "y": 2105
+          },
+          "label": "2105",
+          "precision": "year",
+          "confidence": "stated",
+          "note": "The season's plot focuses on the Turtles being transported about 100 years into the future to the year 2105; where they meet and befriend Cody Jones, the great-grandson of April and Casey.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2006-07-29",
+          "end_date": "2007-10-27",
+          "year": 2006,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center | 6 ! scope=\"row\" style=text-align:center | Fast Forward | 26 | July 29, 2006 | October 27, 2007"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "6"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2003-s7",
+        "label": "Season 7: Back to the Sewer",
+        "season": 7,
+        "episode_range": null,
+        "episode_count": 13,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present day, after returning from 2105",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "After returning to the present day, the Turtles must battle a cybernetic version of the Shredder which was the result of Viral merging with the data of the exiled Utrom Shredder.",
+          "order_index": 70,
+          "relative_to": {
+            "after": "tmnt-2003-s5",
+            "before": "tmnt-turtles-forever"
+          }
+        },
+        "release": {
+          "date": "2008-09-13",
+          "end_date": "2009-02-28",
+          "year": 2008,
+          "note": "Wikipedia: ! scope=\"row\" style=text-align:center | 7 ! scope=\"row\" style=text-align:center | Back to the Sewer | 13 | September 13, 2008 | February 28, 2009"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "7"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-mirage-comic",
+        "kind": "shares-characters",
+        "note": "adaptation that follows the Mirage comics more closely"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-turtles-forever",
+    "title": "Turtles Forever",
+    "sort_title": null,
+    "type": "film",
+    "universe": "tmnt",
+    "continuity": "tmnt-2003",
+    "studio_brand": "mirage-studios",
+    "label": null,
+    "platform_or_network": "the-cw4kids",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Turtles Forever",
+      "wikidata": "Q2000709",
+      "tmdb": "34003",
+      "imdb": "tt1543920"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turtles_Forever",
+      "https://en.wikipedia.org/w/index.php?title=Turtles_Forever&oldid=1379375078"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-turtles-forever",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 81,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After Back to the Sewer (series finale)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "A crossover between the 1987 and 2003 television series, the latter of which it serves as the series finale to, Turtles Forever follows the two sets of Turtles as they save the multiverse from the wrath of Ch'Rell, the Utrom Shredder from the 2003 television series.",
+          "order_index": 80,
+          "relative_to": {
+            "after": "tmnt-2003-s7",
+            "before": null
+          }
+        },
+        "release": {
+          "date": "2009-11-21",
+          "end_date": null,
+          "year": 2009,
+          "note": "Wikipedia: Turtles Forever premiered on The CW4Kids in the United States on November 21, 2009."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Turtles_Forever",
+          "https://en.wikipedia.org/w/index.php?title=Turtles_Forever&oldid=1379375078"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-2003",
+        "kind": "continues",
+        "note": "series finale"
+      },
+      {
+        "to": "tmnt-1987",
+        "kind": "crossover",
+        "note": "the 1987 Turtles meet the 2003 Turtles through the multiverse"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-2012",
+    "title": "Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "tmnt",
+    "continuity": "tmnt-2012",
+    "studio_brand": "nickelodeon-animation-studio",
+    "label": null,
+    "platform_or_network": "nickelodeon",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles (2012 TV series)",
+      "wikidata": "Q501338",
+      "tmdb": "51817",
+      "imdb": "tt1877889"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+    ],
+    "notes": "Season 5 is subtitled \"Tales of the Teenage Mutant Ninja Turtles\". It is not the 2024 series of that name. Season 5 aired on Nicktoons.",
+    "units": [
+      {
+        "id": "tmnt-2012-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present-day New York",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "The series begins with the Turtles emerging from their sewer home for the first time, using their ninjutsu training to fight enemies in present-day New York City.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2012-09-28",
+          "end_date": "2013-08-08",
+          "year": 2012,
+          "note": "Wikipedia: | episodes1 = 26 … | start1 = September 28, 2012 … | end1 = August 8, 2013"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2012-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2013-10-12",
+          "end_date": "2014-09-26",
+          "year": 2013,
+          "note": "Wikipedia: | episodes2 = 26 … | start2 = October 12, 2013 … | end2 = September 26, 2014"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2012-s3",
+        "label": "Season 3",
+        "season": 3,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 2",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-10-03",
+          "end_date": "2015-09-27",
+          "year": 2014,
+          "note": "Wikipedia: | episodes3 = 26 … | start3 = October 3, 2014 … | end3 = September 27, 2015"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "3"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2012-s4",
+        "label": "Season 4",
+        "season": 4,
+        "episode_range": null,
+        "episode_count": 26,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 3",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 40,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2015-10-25",
+          "end_date": "2017-02-26",
+          "year": 2015,
+          "note": "Wikipedia: | episodes4 = 26 … | start4 = October 25, 2015 … | end4 = February 26, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "4"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-2012-s5",
+        "label": "Season 5: Tales of the Teenage Mutant Ninja Turtles",
+        "season": 5,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 4",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 50,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2017-03-19",
+          "end_date": "2017-11-12",
+          "year": 2017,
+          "note": "Wikipedia: | episodes5 = 20 … | start5 = March 19, 2017 … | end5 = November 12, 2017"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "5"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2012_TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-1987",
+        "kind": "crossover",
+        "note": "the season 4 episode \"Trans-Dimensional Turtles\" features the 1987 Turtles"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-film-2014",
+    "title": "Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "film",
+    "universe": "tmnt",
+    "continuity": "tmnt-2014-films",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles (2014 film)",
+      "wikidata": "Q9653404",
+      "tmdb": "98566",
+      "imdb": "tt1291150"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_film)",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-film-2014",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 101,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Contemporary New York (no year stated)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2014-08-08",
+          "end_date": null,
+          "year": 2014,
+          "note": "Wikipedia: Teenage Mutant Ninja Turtles premiered on July 29, 2014 in Mexico City, and was released in theaters on August 8, 2014."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_film)",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-film-1990",
+        "kind": "reboot-of",
+        "note": "reboot of the film series"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-film-2016",
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "sort_title": null,
+    "type": "film",
+    "universe": "tmnt",
+    "continuity": "tmnt-2014-films",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+      "wikidata": "Q19842746",
+      "tmdb": "308531",
+      "imdb": "tt3949660"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-film-2016",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 112,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the 2014 film",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Based on the Teenage Mutant Ninja Turtles characters, it is the sequel to the 2014 Teenage Mutant Ninja Turtles film.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2016-06-03",
+          "end_date": null,
+          "year": 2016,
+          "note": "Wikipedia: Out of the Shadows premiered at Madison Square Garden in New York City on May 22, 2016, was released in theaters in the United States on June 3, 2016."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-film-2014",
+        "kind": "continues",
+        "note": "sequel"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-rise",
+    "title": "Rise of the Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "tmnt",
+    "continuity": "tmnt-rise",
+    "studio_brand": "nickelodeon-animation-studio",
+    "label": null,
+    "platform_or_network": "nickelodeon",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rise of the Teenage Mutant Ninja Turtles",
+      "wikidata": "Q28938169",
+      "tmdb": "81026",
+      "imdb": "tt6601082"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rise_of_the_Teenage_Mutant_Ninja_Turtles",
+      "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110"
+    ],
+    "notes": "Season 2 aired on Nicktoons. Episode counts are episodes; the series overview also lists segments (36 and 34).",
+    "units": [
+      {
+        "id": "tmnt-rise-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 20,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Present-day New York",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "it is a re-imagined series that has the Turtles go on new adventures as they seek to unlock the mystical secrets of New York City and their own powers to save the world from evil.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2018-07-20",
+          "end_date": "2019-07-06",
+          "year": 2018,
+          "note": "Wikipedia: | episodes1 = 20 … | start1 = July 20, 2018 … | end1 = July 6, 2019"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rise_of_the_Teenage_Mutant_Ninja_Turtles",
+          "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-rise-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 19,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2019-10-12",
+          "end_date": "2020-08-07",
+          "year": 2019,
+          "note": "Wikipedia: | episodes2 = 19 … | start2 = October 12, 2019 … | end2 = August 7, 2020"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rise_of_the_Teenage_Mutant_Ninja_Turtles",
+          "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-rise-movie",
+    "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "tmnt",
+    "continuity": "tmnt-rise",
+    "studio_brand": "nickelodeon-movies",
+    "label": null,
+    "platform_or_network": "netflix",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+      "wikidata": "Q111958728",
+      "tmdb": "765172",
+      "imdb": "tt9784708"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rise_of_the_Teenage_Mutant_Ninja_Turtles:_The_Movie",
+      "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+      "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles%3A_The_Movie&oldid=1385167024"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-rise-movie",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 87,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After the series (opens in a future 2044)",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "A feature film sequel was released on Netflix on August 5, 2022, following the series finale. … In the year 2044, the evil alien Krang and his army has invaded Earth, and the resistance has fallen.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2022-08-05",
+          "end_date": null,
+          "year": 2022,
+          "note": "Wikipedia: Rise of the Teenage Mutant Ninja Turtles: The Movie premiered on Netflix on August 5, 2022."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rise_of_the_Teenage_Mutant_Ninja_Turtles:_The_Movie",
+          "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110",
+          "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles%3A_The_Movie&oldid=1385167024"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-rise",
+        "kind": "continues",
+        "note": "sequel film after the series finale"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-mutant-mayhem",
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "sort_title": null,
+    "type": "animated-film",
+    "universe": "tmnt",
+    "continuity": "tmnt-mutant-mayhem",
+    "studio_brand": "paramount-pictures",
+    "label": null,
+    "platform_or_network": "theatrical",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "wikidata": "Q110271518",
+      "tmdb": "614930",
+      "imdb": "tt8589698"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Mutant_Mayhem",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659"
+    ],
+    "notes": "",
+    "units": [
+      {
+        "id": "tmnt-mutant-mayhem",
+        "label": "Film",
+        "season": null,
+        "episode_range": null,
+        "episode_count": null,
+        "runtime_min": 99,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Fifteen years after the Turtles' mutation",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Fifteen years later, the Turtles defeat a gang of criminals to recover a stolen moped belonging to a teenager named April O'Neil, revealing themselves and their origins.",
+          "order_index": 10,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2023-08-02",
+          "end_date": null,
+          "year": 2023,
+          "note": "Wikipedia: Mutant Mayhem was theatrically released in the United States on August 2, 2023, and was screened in various formats including Dolby Cinema, 4DX, and RealD 3D."
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {},
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Mutant_Mayhem",
+          "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-film-2014",
+        "kind": "reboot-of",
+        "note": "animated reboot of the film series"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  },
+  {
+    "id": "tmnt-tales",
+    "title": "Tales of the Teenage Mutant Ninja Turtles",
+    "sort_title": null,
+    "type": "series",
+    "universe": "tmnt",
+    "continuity": "tmnt-mutant-mayhem",
+    "studio_brand": "point-grey-pictures",
+    "label": null,
+    "platform_or_network": "paramount-plus",
+    "canon_tier": "core",
+    "characters": [],
+    "franchises": [],
+    "status": "released",
+    "external_ids": {
+      "enwiki": "Tales of the Teenage Mutant Ninja Turtles (TV series)",
+      "wikidata": "Q121287737",
+      "tmdb": "231394",
+      "imdb": "tt28521741"
+    },
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tales_of_the_Teenage_Mutant_Ninja_Turtles_(TV_series)",
+      "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117"
+    ],
+    "notes": "The article says the series was marketed as canon, but its arcs use an unreliable-narrator framing device. Season 2 ended the series in December 2025.",
+    "units": [
+      {
+        "id": "tmnt-tales-s1",
+        "label": "Season 1",
+        "season": 1,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "Two months after Mutant Mayhem",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "Picking up two months after the events of the film Teenage Mutant Ninja Turtles: Mutant Mayhem (2023), the series follows the aftermath of Superfly’s defeat, and the Turtles as they navigate their dual lives as both teenagers and heroes in New York City and before the events of the film sequel.",
+          "order_index": 20,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2024-08-09",
+          "end_date": "2024-08-09",
+          "year": 2024,
+          "note": "Wikipedia: | episodes1 = 12 … | released1 = August 9, 2024"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "1"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tales_of_the_Teenage_Mutant_Ninja_Turtles_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "tmnt-tales-s2",
+        "label": "Season 2",
+        "season": 2,
+        "episode_range": null,
+        "episode_count": 12,
+        "runtime_min": null,
+        "pages": null,
+        "word_count": null,
+        "word_count_source": null,
+        "timeline_branch": "main",
+        "canon_tier": null,
+        "in_universe": {
+          "start": null,
+          "end": null,
+          "label": "After season 1",
+          "precision": "relative",
+          "confidence": "inferred",
+          "note": "No in-universe year in the sources.",
+          "order_index": 30,
+          "relative_to": null
+        },
+        "release": {
+          "date": "2025-12-12",
+          "end_date": "2025-12-12",
+          "year": 2025,
+          "note": "Wikipedia: | episodes2 = 12 … | released2 = December 12, 2025"
+        },
+        "status": "released",
+        "groupings": {},
+        "platform_or_network": null,
+        "source_keys": {
+          "release-season": "2"
+        },
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tales_of_the_Teenage_Mutant_Ninja_Turtles_(TV_series)",
+          "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117"
+        ],
+        "notes": ""
+      }
+    ],
+    "links": [
+      {
+        "to": "tmnt-mutant-mayhem",
+        "kind": "spinoff",
+        "note": "bridge between Mutant Mayhem and its sequel, starting two months after the film"
+      }
+    ],
+    "credits": [],
+    "constituents": []
+  }
+]

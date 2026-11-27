@@ -1434,5 +1434,101 @@
     "data_dir": "bourne",
     "description": "Robert Ludlum's Bourne novels and their continuations, the 1988 miniseries, and the film series with Treadstone.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "mission-impossible",
+    "name": "Mission: Impossible",
+    "short_name": "Mission: Impossible",
+    "order": 51,
+    "enabled": true,
+    "accent": {
+      "primary": "#C62828",
+      "secondary": "#E0E0E0"
+    },
+    "default_continuity": "mi-tv",
+    "grouping_schemes": [],
+    "data_dir": "mission-impossible",
+    "description": "The 1966 series with its 1988 revival, and the film series (1996–2025) as a separate continuity.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "transformers",
+    "name": "Transformers",
+    "short_name": "Transformers",
+    "order": 52,
+    "enabled": true,
+    "accent": {
+      "primary": "#B71C1C",
+      "secondary": "#5E35B1"
+    },
+    "default_continuity": "tf-g1",
+    "grouping_schemes": [],
+    "data_dir": "transformers",
+    "description": "Major Transformers screen continuities: Generation 1, Beast Wars/Beast Machines, the live-action films (with Bumblebee and Rise of the Beasts), Aligned (Prime), Transformers One and EarthSpark.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "tmnt",
+    "name": "Teenage Mutant Ninja Turtles",
+    "short_name": "Teenage Mutant Ninja Turtles",
+    "order": 53,
+    "enabled": true,
+    "accent": {
+      "primary": "#2E7D32",
+      "secondary": "#F57C00"
+    },
+    "default_continuity": "tmnt-mirage",
+    "grouping_schemes": [],
+    "data_dir": "tmnt",
+    "description": "The TMNT screen continuities (1987, the 1990 films, 2003, 2007, 2012, the 2014 films, Rise, Mutant Mayhem) and the Mirage comic.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "avatar-tla",
+    "name": "Avatar: The Last Airbender",
+    "short_name": "Avatar: The Last Airbender",
+    "order": 54,
+    "enabled": true,
+    "accent": {
+      "primary": "#E0912F",
+      "secondary": "#2F7FA8"
+    },
+    "default_continuity": "avatarverse",
+    "grouping_schemes": [],
+    "data_dir": "avatar-tla",
+    "description": "The Avatarverse (ATLA, Korra, the novels, comics and new series) on its AG/BG calendar, plus the 2010 film and the Netflix series.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "short_name": "Pokémon",
+    "order": 55,
+    "enabled": true,
+    "accent": {
+      "primary": "#FFCB05",
+      "secondary": "#3D7DCA"
+    },
+    "default_continuity": "pokemon-anime",
+    "grouping_schemes": [],
+    "data_dir": "pokemon",
+    "description": "The Pokémon anime series and films, the alternate-timeline films, Detective Pikachu and the core games by generation.",
+    "last_verified": "2026-11-27"
+  },
+  {
+    "id": "dragon-ball",
+    "name": "Dragon Ball",
+    "short_name": "Dragon Ball",
+    "order": 56,
+    "enabled": true,
+    "accent": {
+      "primary": "#F57C00",
+      "secondary": "#1565C0"
+    },
+    "default_continuity": "dragon-ball-main",
+    "grouping_schemes": [],
+    "data_dir": "dragon-ball",
+    "description": "Dragon Ball, Z, Super and Daima with the canon films on the Age calendar; GT, the re-edits, the non-canon films and Dragonball Evolution separately.",
+    "last_verified": "2026-11-27"
   }
 ]

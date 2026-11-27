@@ -810,3 +810,31 @@ Research came from Wikipedia revision permalinks, with fan wikis only for inferr
   - **Mapped to existing ids:** PS4 → PlayStation 4; direct-to-video → home media; BBC → BBC One for the 1988 Narnia serial.
   - **Publishers:** book publishers come from the infobox `publisher` field, not the author.
 - **Cross-franchise crossovers** (`2026-11-27-procedural-crossovers.ts`): SVU × Chicago P.D. (2014, 2016), the Chicago Fire / SVU / P.D. three-parters (2014, 2015), and Chicago Justice × Law & Order ("Uncertainty Principle"). Peter Stone's move to SVU is "shares-characters". All four are links only; the universes stay separate. In the details panel, a connection into another universe shows that universe's name and switches to it when clicked.
+
+## Wave 3 universes (2026-11-27)
+
+Same pipeline and rules as Wave 2. The judgement calls:
+- **Contemporary settings get no story year:** BBC Sherlock, Elementary, the Amazon Jack Ryan series, Treadstone and the wartime Universal Rathbone films. Research had set their years to the broadcast year; that was removed, and they are ordered by release. This matches the procedurals.
+- **Sherlock Holmes (limited scope, D-51):** Doyle's canon plus six notable adaptation families, each its own continuity. The Abominable Bride's 1895 is imagined within the show, so it is kept in the label only.
+- **Jack Ryan:** the novels follow the Ryanverse's chronological-order table. Each screen recasting is a separate continuity. The 2021 Without Remorse film is its own continuity.
+- **Bourne:** the films plus Treadstone ("a prequel to The Bourne Identity and a sequel to Jason Bourne") form one continuity. Brian Freeman's novels have year-only dates.
+- **Mission: Impossible:** the 1988 revival is "a continuation" of the 1966 series and is named with its year. The films are separate.
+- **Transformers:**
+  - Bumblebee and Rise of the Beasts are in the live-action continuity.
+  - Beast Wars is separate but linked to G1. Wikipedia points both ways on this.
+  - Some film years come from article categories only (inferred).
+- **TMNT:** the 2007 film is its own continuity, with a disputed link to the 1990 films (the director and Peter Laird disagree).
+- **Avatar:** AG/BG years come from the Avatar Wiki (inferred), backed by Wikipedia's "seventy years after" and "225 years after". The Aang film is disputed: 113 AG vs c. 110 AG.
+- **Pokémon:** no story years; ordered by Japanese broadcast. The "alternate timeline trilogy" films (20, 21, 23) and Mewtwo Strikes Back Evolution are separate. Grouping 29 seasons into 8 series is a judgement call.
+- **Dragon Ball:**
+  - Age years come from the guidebooks via the Dragon Ball Wiki (inferred).
+  - GT is separate: Wikipedia does not say Super supersedes it.
+  - Kai and Super: Beerus are re-edits, so they get their own continuity to avoid listing the same story twice.
+  - Broly and GT are disputed.
+- **Naruto and One Piece:**
+  - The manga is separate from the anime (filler).
+  - The Last and the Boruto film are placed where Wikipedia states.
+  - The One Piece films sit beside their tie-in arcs but are disputed: Oda "does not connect the films to his manga".
+- **Ultraman, Kamen Rider, Super Sentai:** one unit per series.
+  - **Shared continuities, only where Wikipedia states one:** Showa Ultraman and Showa Kamen Rider; Tiga + Dyna; Kuuga + Agito; Denjiman + Sun Vulcan; Power Rangers through Cosmic Fury.
+  - **Links:** each Power Rangers season adapts its Super Sentai source.

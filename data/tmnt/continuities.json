@@ -1,0 +1,285 @@
+[
+  {
+    "id": "tmnt-mirage",
+    "universe": "tmnt",
+    "name": "Mirage Studios comics (1984–2014)",
+    "short_name": "Mirage Studios comics",
+    "order": 1,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The original Eastman and Laird comic, as a single title. Wikipedia: \"Teenage Mutant Ninja Turtles (TMNT) is a comic book series that was published by Mirage Studios between 1984 and 2014.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%28Mirage_Studios%29&oldid=1376142896"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-1987",
+    "universe": "tmnt",
+    "name": "1987 animated series",
+    "short_name": "1987 animated series",
+    "order": 2,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The Fred Wolf Films series, much changed from the comics. Wikipedia: \"Teenage Mutant Ninja Turtles (also known as Teenage Mutant Hero Turtles in some regions) is an American animated television series produced by Fred Wolf Films and based on the comic book characters created by Kevin Eastman and Peter Laird. … The property was changed considerably from the darker-toned comics, to make it more suitable for children and families.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281987_TV_series%29&oldid=1387255668"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-1990-films",
+    "universe": "tmnt",
+    "name": "Live-action films (1990–1993)",
+    "short_name": "Live-action films",
+    "order": 3,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The New Line Cinema trilogy. Wikipedia: \"Based on the comic book characters created by Kevin Eastman and Peter Laird, it is the first film adaptation of the characters. … it is the sequel to the 1990 film Teenage Mutant Ninja Turtles … It is the sequel to Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991).\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%281990_film%29&oldid=1388004167",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_II%3A_The_Secret_of_the_Ooze&oldid=1388004173",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_III&oldid=1387828915"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-2007",
+    "universe": "tmnt",
+    "name": "TMNT (2007 film)",
+    "short_name": "TMNT",
+    "order": 4,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "CG-animated film. Whether it continues the 1990 films is disputed: the director says it does, co-creator Peter Laird says it does not. It is kept separate (never merge) and linked to the 1990 films. Wikipedia: \"TMNT co-creator Peter Laird stated it takes place in its own universe separate from the previous films, but director Munroe says the film exists in the same continuity as the other films, which was supported by the memento wall at the end of the film.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=TMNT_%28film%29&oldid=1388199935"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-2003",
+    "universe": "tmnt",
+    "name": "2003 animated series (with Turtles Forever)",
+    "short_name": "2003 animated series",
+    "order": 5,
+    "kind": "shared",
+    "calendar": {
+      "kind": "gregorian"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The 4Kids/Mirage series, including Fast Forward, Back to the Sewer and the finale film Turtles Forever. Wikipedia: \"A sequel film, Turtles Forever, serving as both the series finale of the series and a crossover with the 1987–1996 Teenage Mutant Ninja Turtles animated series (via the plot element of the multiverse), was released on November 21, 2009.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282003_TV_series%29&oldid=1387255674"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-2012",
+    "universe": "tmnt",
+    "name": "2012 animated series",
+    "short_name": "2012 animated series",
+    "order": 6,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "Nickelodeon reboot series. Wikipedia: \"it was one half of Nickelodeon's strategy to reboot two established brands for new viewers … The series begins with the Turtles emerging from their sewer home for the first time, using their ninjutsu training to fight enemies in present-day New York City.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282012_TV_series%29&oldid=1387255681"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-2014-films",
+    "universe": "tmnt",
+    "name": "Platinum Dunes films (2014–2016)",
+    "short_name": "Platinum Dunes films",
+    "order": 7,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The live-action/CG reboot of the film series and its sequel. Wikipedia: \"Based on the characters of the same name created by Peter Laird and Kevin Eastman, it is a reboot of the Teenage Mutant Ninja Turtles film series. … it is the sequel to the 2014 Teenage Mutant Ninja Turtles film.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles_%282014_film%29&oldid=1388199648",
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Out_of_the_Shadows&oldid=1388199790"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-rise",
+    "universe": "tmnt",
+    "name": "Rise of the TMNT (series and 2022 film)",
+    "short_name": "Rise of the TMNT",
+    "order": 8,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The re-imagined Nickelodeon series and its Netflix sequel film. Wikipedia: \"Based on the Teenage Mutant Ninja Turtles created by Kevin Eastman and Peter Laird, it is a re-imagined series that has the Turtles go on new adventures … A feature film sequel was released on Netflix on August 5, 2022, following the series finale.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Rise_of_the_Teenage_Mutant_Ninja_Turtles&oldid=1387247110"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "tmnt-mutant-mayhem",
+    "universe": "tmnt",
+    "name": "Mutant Mayhem (2023) and Tales of the TMNT",
+    "short_name": "Mutant Mayhem (2023) and Tales of the TMNT",
+    "order": 9,
+    "kind": "shared",
+    "calendar": {
+      "kind": "ordered-only"
+    },
+    "branches": [
+      {
+        "id": "main",
+        "label": "Main",
+        "marker": "dot",
+        "description": "",
+        "placeable": true,
+        "parent": null,
+        "diverges_at": null,
+        "merges_into": null,
+        "is_main": true
+      }
+    ],
+    "grouping_schemes": [],
+    "alt_orders": [],
+    "description": "The animated reboot film and its Paramount+ bridge series. Wikipedia: \"The film is based on the Teenage Mutant Ninja Turtles characters and is a reboot of the related film series. … it serves as a spin-off and a bridge between the 2023 film Mutant Mayhem and the sequel.\"",
+    "source_urls": [
+      "https://en.wikipedia.org/w/index.php?title=Teenage_Mutant_Ninja_Turtles%3A_Mutant_Mayhem&oldid=1386514659",
+      "https://en.wikipedia.org/w/index.php?title=Tales_of_the_Teenage_Mutant_Ninja_Turtles_%28TV_series%29&oldid=1387255117"
+    ],
+    "notes": ""
+  }
+]

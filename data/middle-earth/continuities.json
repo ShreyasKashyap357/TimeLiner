@@ -46,7 +46,194 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended reading order",
+        "source_url": "https://tolkiengateway.net/wiki/Reading_order",
+        "as_of": "2026-11-27",
+        "note": "Recommended READING order. Backbone = publication order for the core: The Hobbit → The Lord of the Rings (3 volumes) → The Silmarillion.",
+        "unit_ids": [
+          "the-hobbit",
+          "the-fellowship-of-the-ring",
+          "the-two-towers",
+          "the-return-of-the-king",
+          "the-silmarillion",
+          "the-children-of-hurin",
+          "beren-and-luthien",
+          "the-fall-of-gondolin",
+          "unfinished-tales",
+          "the-fall-of-numenor",
+          "the-history-of-middle-earth-the-book-of-lost-tales-1",
+          "the-history-of-middle-earth-the-book-of-lost-tales-2",
+          "the-history-of-middle-earth-the-lays-of-beleriand",
+          "the-history-of-middle-earth-the-shaping-of-middle-earth",
+          "the-history-of-middle-earth-the-lost-road",
+          "the-history-of-middle-earth-the-return-of-the-shadow",
+          "the-history-of-middle-earth-the-treason-of-isengard",
+          "the-history-of-middle-earth-the-war-of-the-ring",
+          "the-history-of-middle-earth-sauron-defeated",
+          "the-history-of-middle-earth-morgoths-ring",
+          "the-history-of-middle-earth-the-war-of-the-jewels",
+          "the-history-of-middle-earth-the-peoples-of-middle-earth"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "the-fall-of-gondolin",
+          "unfinished-tales",
+          "the-fall-of-numenor",
+          "the-history-of-middle-earth-the-book-of-lost-tales-1",
+          "the-history-of-middle-earth-the-book-of-lost-tales-2",
+          "the-history-of-middle-earth-the-lays-of-beleriand",
+          "the-history-of-middle-earth-the-shaping-of-middle-earth",
+          "the-history-of-middle-earth-the-lost-road",
+          "the-history-of-middle-earth-the-return-of-the-shadow",
+          "the-history-of-middle-earth-the-treason-of-isengard",
+          "the-history-of-middle-earth-the-war-of-the-ring",
+          "the-history-of-middle-earth-sauron-defeated",
+          "the-history-of-middle-earth-morgoths-ring",
+          "the-history-of-middle-earth-the-war-of-the-jewels",
+          "the-history-of-middle-earth-the-peoples-of-middle-earth"
+        ],
+        "sources": [
+          {
+            "url": "https://tolkiengateway.net/wiki/Reading_order",
+            "title": "Reading order (Tolkien Gateway)",
+            "date": "2023-04-16"
+          },
+          {
+            "url": "https://fivebooks.com/best-books/lord-of-the-rings-books-in-order/",
+            "title": "Lord of the Rings Books in Order (Five Books)",
+            "date": "2026-01-23"
+          },
+          {
+            "url": "https://aleteia.org/2023/09/04/aleteias-reading-guide-to-the-books-of-j-r-r-tolkien/",
+            "title": "Aleteia's reading guide to the books of J.R.R. Tolkien",
+            "date": "2023-09-04"
+          },
+          {
+            "url": "https://erikjampa.substack.com/p/tolkien-reading-order",
+            "title": "Tolkien Reading Order: A Recommended Guide for Reading Tolkien's Legendarium (Erik Jampa Andersson)",
+            "date": "2024-10-09"
+          },
+          {
+            "url": "https://epicstream.com/article/the-lord-of-the-rings-books-in-order-chronologically-and-by-release-date",
+            "title": "The Lord of the Rings Books in Order: Chronologically and by Release Date",
+            "date": "2024-10-14"
+          }
+        ],
+        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "the-hobbit": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-fellowship-of-the-ring": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-two-towers": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-return-of-the-king": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-silmarillion": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-children-of-hurin": [
+            0,
+            3,
+            4
+          ],
+          "beren-and-luthien": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "the-fall-of-gondolin": [
+            0,
+            3,
+            4
+          ],
+          "unfinished-tales": [
+            0,
+            3,
+            4
+          ],
+          "the-fall-of-numenor": [
+            3
+          ],
+          "the-history-of-middle-earth-the-book-of-lost-tales-1": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-book-of-lost-tales-2": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-lays-of-beleriand": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-shaping-of-middle-earth": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-lost-road": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-return-of-the-shadow": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-treason-of-isengard": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-war-of-the-ring": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-sauron-defeated": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-morgoths-ring": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-war-of-the-jewels": [
+            3,
+            4
+          ],
+          "the-history-of-middle-earth-the-peoples-of-middle-earth": [
+            3,
+            4
+          ]
+        }
+      }
+    ],
     "description": "History of Arda: \"Tolkien situated the History of Arda as Earth's prehistory.\"",
     "source_urls": [
       "https://en.wikipedia.org/wiki/History_of_Arda"
@@ -100,7 +287,118 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.thepopverse.com/movies-lord-of-the-rings-watch-order-how-to-guide",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order (sources 1, 2 and 5 lead with it), changed in one place because three guides agree: the Hobbit trilogy comes before the Lord of the Rings trilogy (sources 0, 3 and 4). The alternatives are plain release order (LOTR first: sources 1 and 2, and GamesRadar calls it how most fans watched) and source 5's Fellowship → Hobbit 1-3 → Two Towers → Return of the King.",
+        "unit_ids": [
+          "the-hobbit-an-unexpected-journey",
+          "the-hobbit-the-desolation-of-smaug",
+          "the-hobbit-the-battle-of-the-five-armies",
+          "lotr-the-fellowship-of-the-ring",
+          "lotr-the-two-towers",
+          "lotr-the-return-of-the-king",
+          "lotr-the-war-of-the-rohirrim"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "the-hobbit-the-battle-of-the-five-armies",
+          "lotr-the-war-of-the-rohirrim"
+        ],
+        "sources": [
+          {
+            "url": "https://www.thepopverse.com/movies-lord-of-the-rings-watch-order-how-to-guide",
+            "title": "Watch The Lord of the Rings in release and chronological order, from the animation to The Hobbit to War of the Rohirrim",
+            "date": "2025-08-15"
+          },
+          {
+            "url": "https://editorial.rottentomatoes.com/guide/lord-of-the-rings-in-order",
+            "title": "How to Watch the Lord of the Rings In Order",
+            "date": "2026-01-16"
+          },
+          {
+            "url": "https://www.gamesradar.com/how-to-watch-lord-of-the-rings-in-order-movies-shows",
+            "title": "How to watch The Lord of the Rings movies and shows in order (release date and chronological)",
+            "date": "2026-11-25"
+          },
+          {
+            "url": "https://www.themarysue.com/this-is-the-best-watch-order-for-lord-of-the-rings/",
+            "title": "Here's the best Lord of the Rings and Hobbit Movies watch order",
+            "date": "2025-02-27"
+          },
+          {
+            "url": "https://www.slashfilm.com/1400961/correct-order-to-watch-lord-of-the-rings/",
+            "title": "The Correct Order To Watch The Lord Of The Rings Movies",
+            "date": "2023-09-23"
+          },
+          {
+            "url": "https://www.pocket-lint.com/tv/news/155647-lord-of-the-rings-the-hobbit-best-movie-order/",
+            "title": "The best order to watch Lord of the Rings and The Hobbit movies",
+            "date": "2023-12-31"
+          }
+        ],
+        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "the-hobbit-an-unexpected-journey": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-hobbit-the-desolation-of-smaug": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-hobbit-the-battle-of-the-five-armies": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "lotr-the-fellowship-of-the-ring": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "lotr-the-two-towers": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "lotr-the-return-of-the-king": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "lotr-the-war-of-the-rohirrim": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      }
+    ],
     "description": "War of the Rohirrim: \"It is connected to the film trilogy's continuity\". Hunt for Gollum: \"set between the events of Peter Jackson's The Hobbit (2012–2014) and The Lord of the Rings (2001–2003) film trilogies\".",
     "source_urls": [
       "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim"

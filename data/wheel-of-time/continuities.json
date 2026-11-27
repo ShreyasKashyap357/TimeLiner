@@ -29,7 +29,202 @@
     "grouping_schemes": [
       "author"
     ],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended reading order",
+        "source_url": "https://www.tlbranson.com/wheel-of-time-reading-order/",
+        "as_of": "2026-11-27",
+        "note": "Recommended READING order. Backbone = publication order, the first-read recommendation of sources 0, 1 and 3, and source 2 apart from New Spring.",
+        "unit_ids": [
+          "the-eye-of-the-world",
+          "the-great-hunt",
+          "the-dragon-reborn",
+          "the-shadow-rising",
+          "the-fires-of-heaven",
+          "lord-of-chaos",
+          "a-crown-of-swords",
+          "the-path-of-daggers",
+          "winters-heart",
+          "crossroads-of-twilight",
+          "new-spring",
+          "knife-of-dreams",
+          "the-gathering-storm",
+          "towers-of-midnight",
+          "a-memory-of-light",
+          "the-world-of-robert-jordans-the-wheel-of-time",
+          "the-wheel-of-time-companion"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "the-world-of-robert-jordans-the-wheel-of-time",
+          "the-wheel-of-time-companion"
+        ],
+        "sources": [
+          {
+            "url": "https://www.tlbranson.com/wheel-of-time-reading-order/",
+            "title": "Wheel of Time Books in Order: All 15 Books + Chronological Order",
+            "date": "2026-07-11"
+          },
+          {
+            "url": "https://winteriscoming.net/how-many-wheel-of-time-books-are-there-and-what-s-the-best-reading-order",
+            "title": "How many Wheel of Time books are there? (And what's the best reading order?)",
+            "date": "2025-04-21"
+          },
+          {
+            "url": "https://www.whattowatch.com/how-to/how-to-read-the-wheel-of-time-books-in-order",
+            "title": "How to read the Wheel of Time books in order",
+            "date": "2025-03-10"
+          },
+          {
+            "url": "https://www.readersgrotto.com/?p=771",
+            "title": "The Best Wheel of Time Reading Order",
+            "date": "2021-09-22"
+          },
+          {
+            "url": "https://manofmany.com/entertainment/wheel-of-time-books-in-order",
+            "title": "Wheel of Time Books in Order (Man of Many)",
+            "date": "2025-04-13"
+          },
+          {
+            "url": "https://themarysue.com/heres-how-to-read-the-wheel-of-time-books-in-order",
+            "title": "Here's How To Read 'The Wheel of Time' Books in Order",
+            "date": "2023-05-20"
+          }
+        ],
+        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "the-eye-of-the-world": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-great-hunt": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-dragon-reborn": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-shadow-rising": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-fires-of-heaven": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "lord-of-chaos": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "a-crown-of-swords": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-path-of-daggers": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "winters-heart": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "crossroads-of-twilight": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "new-spring": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "knife-of-dreams": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-gathering-storm": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "towers-of-midnight": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "a-memory-of-light": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-world-of-robert-jordans-the-wheel-of-time": [
+            0,
+            2
+          ],
+          "the-wheel-of-time-companion": [
+            0,
+            2
+          ]
+        }
+      }
+    ],
     "description": "14 novels plus the prequel New Spring, and two companion books.",
     "source_urls": [
       "https://en.wikipedia.org/wiki/The_Wheel_of_Time"

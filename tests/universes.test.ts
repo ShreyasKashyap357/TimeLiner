@@ -233,3 +233,13 @@ describe('Branching timelines: Terminator, Halloween; Wizarding World', () => {
     expect(order.indexOf('fantastic-beasts-and-where-to-find-them')).toBeLessThan(order.indexOf('harry-potter-and-the-philosophers-stone-film'));
   });
 });
+
+describe('Gundam calendars', () => {
+  it('formats prefix calendars with padding and keeps timelines separate', () => {
+    const cal = (id: string) => ds.continuities.find((c) => c.id === id)!.calendar;
+    expect(formatYear(79, cal('gundam-uc'))).toBe('U.C. 0079');
+    expect(formatYear(71, cal('gundam-ce'))).toBe('C.E. 71');
+    expect(formatYear(2307, cal('gundam-ad'))).toBe('2307 AD');
+    expect(ds.titles.find((t) => t.id === 'mobile-suit-gundam')!.continuity).toBe('gundam-uc');
+  });
+});

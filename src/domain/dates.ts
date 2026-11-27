@@ -20,8 +20,10 @@ export function formatYear(y: number, cal: Continuity['calendar']): string {
     return `${cal.ages[i]!.label} ${yy}`;
   }
   if (cal.kind === 'era') {
-    if (y < 0 || (!cal.has_year_zero && y === 0)) return `${Math.abs(y)} ${cal.before_label}`;
-    return `${y} ${cal.after_label}`;
+    const before = y < 0 || (!cal.has_year_zero && y === 0);
+    const n = String(Math.abs(y)).padStart(cal.pad ?? 0, '0');
+    const label = before ? cal.before_label : cal.after_label;
+    return cal.label_position === 'before' ? `${label} ${n}` : `${n} ${label}`;
   }
   return y < 0 ? `${Math.abs(y)} BC` : String(y);
 }

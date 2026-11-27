@@ -47,6 +47,9 @@ export const Calendar = z.discriminatedUnion('kind', [
     before_label: z.string(), // e.g. "BBY"
     after_label: z.string(), // e.g. "ABY"
     has_year_zero: z.boolean(),
+    /** Display: "U.C. 0079"-style label before the year (default after: "32 BBY"), and zero-padding. */
+    label_position: z.enum(['before', 'after']).default('after'),
+    pad: z.number().int().min(0).max(6).default(0),
     /** Plain-language explanation shown in the Key (e.g. how the epoch and year 0 work, and the source). */
     note: z.string().default(''),
   }),

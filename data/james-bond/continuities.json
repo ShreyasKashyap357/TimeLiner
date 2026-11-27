@@ -25,7 +25,222 @@
     "grouping_schemes": [
       "actor"
     ],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.denofgeek.com/movies/best-james-bond-movie-watch-order-007-roadmap",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order. Sources 0, 3 and 5 name it as the default full watch, and source 2 prints it as its complete list.",
+        "unit_ids": [
+          "dr-no",
+          "from-russia-with-love",
+          "goldfinger",
+          "thunderball",
+          "you-only-live-twice",
+          "on-her-majestys-secret-service",
+          "diamonds-are-forever",
+          "live-and-let-die",
+          "the-man-with-the-golden-gun",
+          "the-spy-who-loved-me",
+          "moonraker",
+          "for-your-eyes-only",
+          "octopussy",
+          "a-view-to-a-kill",
+          "the-living-daylights",
+          "licence-to-kill",
+          "goldeneye",
+          "tomorrow-never-dies",
+          "the-world-is-not-enough",
+          "die-another-day"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "from-russia-with-love",
+          "thunderball",
+          "you-only-live-twice",
+          "on-her-majestys-secret-service",
+          "diamonds-are-forever",
+          "live-and-let-die",
+          "the-man-with-the-golden-gun",
+          "moonraker",
+          "for-your-eyes-only",
+          "octopussy",
+          "a-view-to-a-kill",
+          "the-living-daylights",
+          "licence-to-kill",
+          "tomorrow-never-dies",
+          "the-world-is-not-enough",
+          "die-another-day"
+        ],
+        "sources": [
+          {
+            "url": "https://www.denofgeek.com/movies/best-james-bond-movie-watch-order-007-roadmap",
+            "title": "The Best James Bond Movie Watch Orders for Your Next 007 Binge",
+            "date": "2024-10-05"
+          },
+          {
+            "url": "https://www.looper.com/1830895/james-bond-best-movies-beginners/",
+            "title": "5 Best James Bond Movies For Beginners",
+            "date": "2025-04-14"
+          },
+          {
+            "url": "https://www.digitalcitizen.life/james-bond-movies-in-order/",
+            "title": "All James Bond Movies in Order",
+            "date": "2026-01-09"
+          },
+          {
+            "url": "https://www.cinemablend.com/news/2471737/all-james-bond-movies-in-order-from-sean-connery-to-daniel-craig",
+            "title": "The James Bond Movies In Order: How To Watch All Of The 007 Movies",
+            "date": "2024-01-08"
+          },
+          {
+            "url": "https://www.thewrap.com/which-james-bond-movies-are-worth-watching/",
+            "title": "Which James Bond Movies Are Worth Watching? The 9 Essentials",
+            "date": "2021-10-06"
+          },
+          {
+            "url": "https://manofmany.com/entertainment/movies-tv/james-bond-movies-in-order",
+            "title": "How to Watch the James Bond 007 Movies in Order",
+            "date": "2025-04-16"
+          }
+        ],
+        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "dr-no": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "from-russia-with-love": [
+            0,
+            2,
+            3,
+            4,
+            5
+          ],
+          "goldfinger": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "thunderball": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "you-only-live-twice": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "on-her-majestys-secret-service": [
+            0,
+            2,
+            3,
+            4,
+            5
+          ],
+          "diamonds-are-forever": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "live-and-let-die": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "the-man-with-the-golden-gun": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "the-spy-who-loved-me": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "moonraker": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "for-your-eyes-only": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "octopussy": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "a-view-to-a-kill": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "the-living-daylights": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "licence-to-kill": [
+            0,
+            2,
+            3,
+            4,
+            5
+          ],
+          "goldeneye": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "tomorrow-never-dies": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "the-world-is-not-enough": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "die-another-day": [
+            0,
+            2,
+            3,
+            5
+          ]
+        }
+      }
+    ],
     "description": "\"It is also the first Bond film not to be part of the franchise's original loose continuity. Following Die Another Day (2002), Eon decided to reboot the franchise\"",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Casino_Royale_(2006_film)"
@@ -56,7 +271,92 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.denofgeek.com/movies/best-james-bond-movie-watch-order-007-roadmap",
+        "as_of": "2026-11-27",
+        "note": "Backbone = release order, which is also story order. Sources 2, 3 and 5 present the Craig films as one serial in this order, and source 2 says \"Only the Daniel Craig films require strict order\".",
+        "unit_ids": [
+          "casino-royale-2006",
+          "quantum-of-solace",
+          "skyfall",
+          "spectre",
+          "no-time-to-die"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [],
+        "sources": [
+          {
+            "url": "https://www.denofgeek.com/movies/best-james-bond-movie-watch-order-007-roadmap",
+            "title": "The Best James Bond Movie Watch Orders for Your Next 007 Binge",
+            "date": "2024-10-05"
+          },
+          {
+            "url": "https://www.looper.com/1830895/james-bond-best-movies-beginners/",
+            "title": "5 Best James Bond Movies For Beginners",
+            "date": "2025-04-14"
+          },
+          {
+            "url": "https://www.digitalcitizen.life/james-bond-movies-in-order/",
+            "title": "All James Bond Movies in Order",
+            "date": "2026-01-09"
+          },
+          {
+            "url": "https://www.cinemablend.com/news/2471737/all-james-bond-movies-in-order-from-sean-connery-to-daniel-craig",
+            "title": "The James Bond Movies In Order: How To Watch All Of The 007 Movies",
+            "date": "2024-01-08"
+          },
+          {
+            "url": "https://www.thewrap.com/which-james-bond-movies-are-worth-watching/",
+            "title": "Which James Bond Movies Are Worth Watching? The 9 Essentials",
+            "date": "2021-10-06"
+          },
+          {
+            "url": "https://manofmany.com/entertainment/movies-tv/james-bond-movies-in-order",
+            "title": "How to Watch the James Bond 007 Movies in Order",
+            "date": "2025-04-16"
+          }
+        ],
+        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "casino-royale-2006": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quantum-of-solace": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "skyfall": [
+            0,
+            2,
+            3,
+            4,
+            5
+          ],
+          "spectre": [
+            0,
+            2,
+            3,
+            5
+          ],
+          "no-time-to-die": [
+            0,
+            2,
+            3,
+            5
+          ]
+        }
+      }
+    ],
     "description": "\"Craig first played Bond in the 2006 film Casino Royale, an adaptation of Fleming's novel of the same name and a reboot of the Eon series, which saw Bond earn his 00 status.\" / \"The rebooted series spanned five films - Casino Royale (2006), Quantum of Solace (2008), Skyfall (2012), Spectre (2015), and No Time to Die (2021) - all starring Craig.\"",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Portrayal_of_James_Bond_in_film%3B_James_Bond_(Daniel_Craig)"

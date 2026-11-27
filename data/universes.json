@@ -612,5 +612,21 @@
     "data_dir": "wizarding-world",
     "description": "J. K. Rowling's Harry Potter books and companions, Cursed Child, the Harry Potter and Fantastic Beasts films, and the HBO series.",
     "last_verified": "2026-11-27"
+  },
+  {
+    "id": "gundam",
+    "name": "Gundam",
+    "short_name": "Gundam",
+    "order": 15,
+    "enabled": true,
+    "accent": {
+      "primary": "#E94F4F",
+      "secondary": "#2E6FD8"
+    },
+    "default_continuity": "gundam-uc",
+    "grouping_schemes": [],
+    "data_dir": "gundam",
+    "description": "Mobile Suit Gundam across its separate timelines: Universal Century, Future Century, After Colony, Cosmic Era, Anno Domini, Post Disaster, Ad Stella and more.",
+    "last_verified": "2026-11-27"
   }
 ]

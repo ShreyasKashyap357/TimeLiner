@@ -23,7 +23,168 @@
       }
     ],
     "grouping_schemes": [],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended for new viewers",
+        "source_url": "https://www.justwatch.com/us/guide/fast-and-furious-movies",
+        "as_of": "2026-11-27",
+        "note": "Backbone = chronological story order, the order sources 1 and 5 recommend and sources 2, 3 and 4 print. It is identical to release order except for one move, which five guides agree on: Tokyo Drift goes after Fast & Furious 6.",
+        "unit_ids": [
+          "the-fast-and-the-furious",
+          "turbo-charged-prelude",
+          "2-fast-2-furious",
+          "los-bandoleros",
+          "fast-and-furious-2009",
+          "fast-five",
+          "fast-and-furious-6",
+          "tokyo-drift",
+          "furious-7",
+          "the-fate-of-the-furious",
+          "hobbs-and-shaw",
+          "f9",
+          "fast-x"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "turbo-charged-prelude",
+          "los-bandoleros"
+        ],
+        "sources": [
+          {
+            "url": "https://www.justwatch.com/us/guide/fast-and-furious-movies",
+            "title": "All The 'Fast And Furious' Movies In Order",
+            "date": "2026-09-16"
+          },
+          {
+            "url": "https://www.gamesradar.com/fast-and-furious-movies-in-order",
+            "title": "How to watch the Fast and Furious movies in order (release date and chronological)",
+            "date": "2025-09-08"
+          },
+          {
+            "url": "https://www.techradar.com/how-to/how-to-watch-the-fast-and-furious-movies-in-order",
+            "title": "How to watch the Fast and Furious movies in order (chronological and release date)",
+            "date": "2024-09-22"
+          },
+          {
+            "url": "https://www.tomsguide.com/how-to/fast-and-furious-movies-in-order",
+            "title": "How to watch 'Fast and Furious' movies in order online",
+            "date": "2025-05-16"
+          },
+          {
+            "url": "https://editorial.rottentomatoes.com/guide/fast-furious-movies-in-order",
+            "title": "Fast & Furious Movies In Order: How to Watch Fast Saga Chronologically",
+            "date": "2023-06-09"
+          },
+          {
+            "url": "https://justwatch.com/uk/guide/fast-and-furious-movies-in-order",
+            "title": "How to Watch Fast and Furious Movies in Order: Your Route Through the Fast Universe",
+            "date": "2024-05-29"
+          }
+        ],
+        "criteria": "Essential = recommended for newcomers by at least two sources marked selective:true, with no source explicitly calling it skippable/optional. Later seasons/books/films of an essential series are essential too. selective:true means the source curates: it recommends a subset (a beginner list, a 'best of', an 'essential' list), or labels some entries optional or skippable. A complete list that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order they print) include the unit; the 'why' names which selective sources recommend it ('Recommended for newcomers by sources [...]'). Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "the-fast-and-the-furious": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "turbo-charged-prelude": [
+            1,
+            2,
+            3
+          ],
+          "2-fast-2-furious": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "los-bandoleros": [
+            1,
+            2,
+            3
+          ],
+          "fast-and-furious-2009": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "fast-five": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "fast-and-furious-6": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "tokyo-drift": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "furious-7": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "the-fate-of-the-furious": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "hobbs-and-shaw": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "f9": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "fast-x": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      }
+    ],
     "description": "Los Bandoleros article: \"Los Bandoleros is said to \"hold together the entire Fast & Furious timeline\" and to ensure a certain continuity in the franchise.\" Franchise article: \"Given the apparent death of the character in the third film, the timeline of the franchise was altered to account for his appearance.\"",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Fast_%26_Furious%3B_Los_Bandoleros_(film)"

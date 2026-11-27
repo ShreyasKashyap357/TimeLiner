@@ -25,7 +25,336 @@
     "grouping_schemes": [
       "series"
     ],
-    "alt_orders": [],
+    "alt_orders": [
+      {
+        "id": "recommended",
+        "label": "Recommended reading order",
+        "source_url": "https://www.penguin.co.uk/discover/childrens-articles/where-to-start-rick-riordan-books",
+        "as_of": "2026-11-27",
+        "note": "Recommended READING order. Backbone = series by series in order of each series' start, as sources 1 and 3 do and source 4 does for the books it covers: PJO → Heroes of Olympus → Kane Chronicles → Magnus Chase → Trials of Apollo → Nico di Angelo books → PJO senior-year books.",
+        "unit_ids": [
+          "the-lightning-thief",
+          "the-sea-of-monsters",
+          "the-titans-curse",
+          "the-battle-of-the-labyrinth",
+          "the-last-olympian",
+          "the-demigod-files-percy-jackson-and-the-stolen-chariot",
+          "the-demigod-files-percy-jackson-and-the-sword-of-hades",
+          "the-demigod-files-percy-jackson-and-the-bronze-dragon",
+          "percy-jacksons-greek-gods",
+          "percy-jacksons-greek-heroes",
+          "the-lost-hero",
+          "the-son-of-neptune",
+          "the-mark-of-athena",
+          "the-house-of-hades",
+          "the-blood-of-olympus",
+          "the-demigod-diaries-the-diary-of-luke-castellan",
+          "the-demigod-diaries-percy-jackson-and-the-staff-of-hermes",
+          "the-demigod-diaries-leo-valdez-and-the-quest-for-buford",
+          "the-demigod-diaries-son-of-magic",
+          "camp-jupiter-classified",
+          "the-red-pyramid",
+          "the-throne-of-fire",
+          "the-serpents-shadow",
+          "demigods-and-magicians",
+          "brooklyn-house-magicians-manual",
+          "the-sword-of-summer",
+          "the-hammer-of-thor",
+          "the-ship-of-the-dead",
+          "hotel-valhalla-guide-to-the-norse-worlds",
+          "nine-from-the-nine-worlds",
+          "the-hidden-oracle",
+          "the-dark-prophecy",
+          "the-burning-maze",
+          "the-tyrants-tomb",
+          "the-tower-of-nero",
+          "camp-half-blood-confidential",
+          "the-sun-and-the-star",
+          "the-court-of-the-dead",
+          "the-chalice-of-the-gods",
+          "wrath-of-the-triple-goddess"
+        ],
+        "kind": "recommended",
+        "optional_unit_ids": [
+          "the-demigod-files-percy-jackson-and-the-stolen-chariot",
+          "the-demigod-files-percy-jackson-and-the-sword-of-hades",
+          "the-demigod-files-percy-jackson-and-the-bronze-dragon",
+          "percy-jacksons-greek-gods",
+          "percy-jacksons-greek-heroes",
+          "the-demigod-diaries-the-diary-of-luke-castellan",
+          "the-demigod-diaries-percy-jackson-and-the-staff-of-hermes",
+          "the-demigod-diaries-leo-valdez-and-the-quest-for-buford",
+          "the-demigod-diaries-son-of-magic",
+          "camp-jupiter-classified",
+          "demigods-and-magicians",
+          "camp-half-blood-confidential"
+        ],
+        "sources": [
+          {
+            "url": "https://www.penguin.co.uk/discover/childrens-articles/where-to-start-rick-riordan-books",
+            "title": "Where to start with Rick Riordan's books",
+            "date": "2026-03-25"
+          },
+          {
+            "url": "https://readings.com.au/news/a-beginners-guide-to-rick-riordan",
+            "title": "A beginner's guide to Rick Riordan",
+            "date": "2024-09-12"
+          },
+          {
+            "url": "https://youtini.com/article/your-guide-to-rick-riordans-epic-world",
+            "title": "Your Guide to Rick Riordan's Epic World",
+            "date": "2024-04-05"
+          },
+          {
+            "url": "https://www.themarysue.com/unsure-where-to-start-with-rick-riordan/",
+            "title": "Where To Start With Rick Riordan's Books After Watching Disney+'s 'Percy Jackson'",
+            "date": "2023-12-18"
+          },
+          {
+            "url": "https://winteriscoming.net/2023/11/04/how-to-read-the-rick-riordan-verse-percy-jackson-and-the-olympians",
+            "title": "Before the new Percy Jackson show: How to read the Rick Riordan-verse",
+            "date": "2023-11-04"
+          },
+          {
+            "url": "https://rickriordan.com/books/",
+            "title": "Rick Riordan (official site): Books",
+            "date": "2026-11-15"
+          }
+        ],
+        "criteria": "Essential = recommended in the reading list of at least two sources marked selective:true, with no source explicitly calling it skippable/optional/supplementary. Later books of an essential series are essential too. selective:true here means the source curates: it leaves out some books, or labels some as optional or bonus. A complete bibliography that only states an order is selective:false. Everything else that at least one source lists is optional. supported_by = indices of sources whose lists (any order) include the unit; the 'why' names which selective sources recommend it. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
+        "unit_sources": {
+          "the-lightning-thief": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-sea-of-monsters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-titans-curse": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-battle-of-the-labyrinth": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-last-olympian": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-demigod-files-percy-jackson-and-the-stolen-chariot": [
+            1,
+            3
+          ],
+          "the-demigod-files-percy-jackson-and-the-sword-of-hades": [
+            1,
+            3
+          ],
+          "the-demigod-files-percy-jackson-and-the-bronze-dragon": [
+            1,
+            3
+          ],
+          "percy-jacksons-greek-gods": [
+            1,
+            3,
+            4
+          ],
+          "percy-jacksons-greek-heroes": [
+            1,
+            3,
+            4
+          ],
+          "the-lost-hero": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-son-of-neptune": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-mark-of-athena": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-house-of-hades": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-blood-of-olympus": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "the-demigod-diaries-the-diary-of-luke-castellan": [
+            1,
+            3,
+            4
+          ],
+          "the-demigod-diaries-percy-jackson-and-the-staff-of-hermes": [
+            1,
+            3,
+            4
+          ],
+          "the-demigod-diaries-leo-valdez-and-the-quest-for-buford": [
+            1,
+            3,
+            4
+          ],
+          "the-demigod-diaries-son-of-magic": [
+            1,
+            3,
+            4
+          ],
+          "camp-jupiter-classified": [
+            1
+          ],
+          "the-red-pyramid": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-throne-of-fire": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-serpents-shadow": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "demigods-and-magicians": [
+            1,
+            3
+          ],
+          "brooklyn-house-magicians-manual": [
+            0,
+            1,
+            3
+          ],
+          "the-sword-of-summer": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-hammer-of-thor": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-ship-of-the-dead": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "hotel-valhalla-guide-to-the-norse-worlds": [
+            0,
+            1,
+            3
+          ],
+          "nine-from-the-nine-worlds": [
+            0,
+            1
+          ],
+          "the-hidden-oracle": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-dark-prophecy": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-burning-maze": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-tyrants-tomb": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-tower-of-nero": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "camp-half-blood-confidential": [
+            3
+          ],
+          "the-sun-and-the-star": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "the-court-of-the-dead": [],
+          "the-chalice-of-the-gods": [
+            1,
+            2
+          ],
+          "wrath-of-the-triple-goddess": [
+            1,
+            2
+          ]
+        }
+      }
+    ],
     "description": "Wikipedia (Camp Half-Blood Chronicles): \"The franchise takes place in the same fictional universe as two of Riordan's other series, The Kane Chronicles … and Magnus Chase and the Gods of Asgard\". Story order follows the Riordan Wiki Timeline.",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Camp_Half-Blood_Chronicles",

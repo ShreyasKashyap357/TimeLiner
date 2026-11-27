@@ -3,7 +3,7 @@
 import type { Continuity, Platform, Studio, Tag, Universe } from '../../src/domain/schema.ts';
 
 const W = 'https://en.wikipedia.org/wiki/';
-const YAVIN = { kind: 'era' as const, before_label: 'BBY', after_label: 'ABY', has_year_zero: true, note: "Years before / after the Battle of Yavin (A New Hope). The battle year is shown as 0 ABY; there is no \"0 BBY\" in canon." };
+const YAVIN = { kind: 'era' as const, label_position: 'after' as const, pad: 0, before_label: 'BBY', after_label: 'ABY', has_year_zero: true, note: "Years before / after the Battle of Yavin (A New Hope). The battle year is shown as 0 ABY; there is no \"0 BBY\" in canon." };
 const main = { id: 'main', label: 'Main', marker: 'dot' as const, description: '', placeable: true, parent: null, diverges_at: null, merges_into: null, is_main: true };
 
 export const UNIVERSE: Universe = {

@@ -15,6 +15,9 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | D-53 | **Terminator Zero.** Wikipedia lists all six films as canon to it ("Zero continuity"), but it is set in "an alternate 1997 Japan". | Its own continuity, linked to the films with "references". |
 | D-54 | **Halloween H20 vs films 4–6.** H20's article says it ignores them; the franchise article notes "fan debate". | H20 and Resurrection are a branch that splits off after Halloween II (1981). |
 | D-55 | **Epilogue years** (Deathly Hallows and Cursed Child's 2017; similar elsewhere). | The main story's years only; epilogues are in the note. |
+| D-56 | **Watch-order judgement calls (second batch).** Riordan companion guides come out essential because two guides list them. *The Battle of the Five Armies* is optional because a guide says "feel free to skip 'Battle.'" *Hobbs & Shaw* is essential under the later-entries rule. *The Court of the Dead* is essential as the sequel to an essential book. | Applied as listed. Say if you want guides always optional, or the "skip Battle" advice ignored. |
+| D-57 | **Wheel of Time: when to read New Spring.** Four guides warn against reading it first. | Placed after book 10 (Crossroads of Twilight), as three guides recommend. |
+| D-58 | **Gundam placements.** Thunderbolt is in the U.C. (the manga calls it an alternate "world line"). Turn A (C.C. 2345 vs 2343–45) and AGE (A.G. 108 vs 115–164) are disputed. The Origin is one entry (U.C. 0068–0079), since its parts aren't mapped to years. | As listed. |
 
 ## Resolved
 

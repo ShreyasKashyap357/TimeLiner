@@ -701,3 +701,14 @@ Generated with the generic research-to-seed generator. Revids are in the researc
   - Singer of Apollo.
   - The Lightning Thief DS game, now that games are a medium.
   - The Demigod Files and The Demigod Diaries are split into one unit per story. Each is placed by the Riordan Wiki Timeline (inferred or disputed), and the old ids are aliased.
+
+## Gundam and watch orders, batch 2 (2026-11-27)
+
+- **Gundam (40 titles, 13 continuities).** Each calendar is its own continuity: U.C., the GQuuuuuuX alternate U.C., F.C., A.C., A.W., C.C., C.E., AD (Gundam 00), A.G., P.D., R.C., A.S., and the Build series (story order only).
+  - Era calendars can now put the label before the year and zero-pad it ("U.C. 0079").
+  - Years come from article prose. Where prose is silent, they come from the "Timeline and year" table in Wikipedia's Gundam franchise article.
+  - Release dates are US where Wikipedia gives a full day, otherwise the Japanese premiere (the note says which).
+  - Not included: SD Gundam, Twilight Axis, Silver Phantom, the 2027 titles, and the compilation films.
+- **More watch orders (D-56, D-57).** Arrowverse, Riordan (reading order), Middle-earth films and books, Bond classic and Craig, Fast & Furious, and The Wheel of Time.
+  - Same method as before: collated guides, essential/optional, and per-entry guide support.
+  - Orders now expand split units through `aliases.json`. The Demigod Files and Diaries are listed story by story.

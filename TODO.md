@@ -116,6 +116,16 @@
 - [x] Scheduled GitHub Action (weekly + manual) opening a "Data drift report" issue
 - [ ] update:propose script → PR for mechanical fields only
 
+## Maps (R-64)
+- [x] Leaflet Maps view (lazy chunk), `maps.json` schema + integrity, credits panel
+- [x] Image maps: Narnia, Star Trek quadrants, One Piece (Commons, PD / CC BY-SA)
+- [x] Wikidata narrative-location maps: wizarding-world, outlander, sherlock-holmes, james-bond, marvel, mission-impossible, bourne, jack-ryan, breaking-bad, fast-furious
+- [ ] Schematic maps from facts (topology + cited relative positions, no tracing): Middle-earth, Westeros/Essos, Panem, Wheel of Time, The Witcher, Dune, Star Wars galaxy
+- [ ] Narnia: larger CC BY-SA 4.0 "Narnian world map" (David Bedell, VRT ticket) as a second map
+- [ ] Run narrative-locations for more universes (DC, Doctor Who, Law & Order, NCIS, Yellowstone, Twin Peaks, ...)
+- [ ] `verify --refetch`: compare stored map licences with Commons extmetadata and flag `{{delete}}` templates
+- [ ] Filter Wikidata locations whose item is a fictional entity, if any slip through with coordinates
+
 ## Open follow-ups
 - [ ] Re-check Avengers: Doomsday + Born Again S3 placement after release (Doomsday: 2026-12-18)
 - [x] Windows: run vitest from `C:\` (documented in README/CLAUDE.md)

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "world-of-narnia",
+    "universe": "narnia",
+    "title": "The world of Narnia (simplified)",
+    "kind": "image",
+    "continuity": null,
+    "image": {
+      "path": "maps/narnia/simplified-narnia-map.svg",
+      "width": 540,
+      "height": 600
+    },
+    "credit": {
+      "title": "File:Simplified-Narnia-map.svg",
+      "author": "AnonMoos",
+      "licence": "Public domain",
+      "licence_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Simplified-Narnia-map.svg",
+      "modified": false,
+      "fan_made": true,
+      "note": "An intentionally simplified map drawn from scratch from the descriptions in C. S. Lewis's books; it does not copy any published map. Telmar lies off the map to the west, and Calormen extends further south and west than shown."
+    },
+    "places": [
+      {
+        "id": "cair-paravel",
+        "name": "Cair Paravel",
+        "x": 379,
+        "y": 210,
+        "title_ids": [
+          "the-lion-the-witch-and-the-wardrobe",
+          "the-silver-chair",
+          "the-last-battle"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Narnia_(world)&oldid=1385078102",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (Narnia): \"The seat of government is the castle of Cair Paravel ... at the mouth of the Great River on the coast of the Great Eastern Ocean.\" The book articles place scenes there: the Pevensies \"are then crowned kings and queens of Narnia at Cair Paravel\" (The Lion, the Witch and the Wardrobe); Jill and Eustace are given \"rooms in Cair Paravel\" (The Silver Chair); the Calormenes \"have taken Cair Paravel\" (The Last Battle)."
+      },
+      {
+        "id": "stone-table",
+        "name": "Stone Table",
+        "x": 245,
+        "y": 262,
+        "title_ids": [
+          "the-lion-the-witch-and-the-wardrobe"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=The_Lion%2C_the_Witch_and_the_Wardrobe&oldid=1388161554",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (The Lion, the Witch and the Wardrobe): \"The children and the Beavers reach the Stone Table and meet Aslan and his army.\""
+      },
+      {
+        "id": "anvard",
+        "name": "Anvard",
+        "x": 251,
+        "y": 321,
+        "title_ids": [
+          "the-horse-and-his-boy"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=The_Horse_and_His_Boy&oldid=1384237536",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (The Horse and His Boy): \"The Narnians ... arrive at the Archenland capital of Anvard, and defeat the Calormenes.\""
+      },
+      {
+        "id": "tashbaan",
+        "name": "Tashbaan",
+        "x": 379,
+        "y": 459,
+        "title_ids": [
+          "the-horse-and-his-boy"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=The_Horse_and_His_Boy&oldid=1384237536",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (The Horse and His Boy): \"In Tashbaan, the capital of Calormen, a party of Narnians mistake Shasta for Corin.\""
+      }
+    ]
+  }
+]

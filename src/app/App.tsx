@@ -3,7 +3,7 @@ import { Ctx, type AppCtx } from './context';
 import { useUrlState } from '@/state/url';
 import { useWatched } from '@/state/watched';
 import { usePrefs } from '@/state/prefs';
-import { loadDataset, universes as allUniverses } from '@/state/data';
+import { hasMaps, loadDataset, universes as allUniverses } from '@/state/data';
 import { buildRows, type Dataset } from '@/domain/model';
 import { applyFilters, CONTINUITY_VIEWS, VIEWS, type ViewId, type SortId } from '@/domain/filters';
 import { nextUp, orderedForView, progress } from '@/domain/views';
@@ -31,10 +31,12 @@ const ContinuitiesView = lazy(() => lanes().then((m) => ({ default: m.Continuiti
 const charts = () => import('@/views/ChartViews');
 const DualAxisView = lazy(() => charts().then((m) => ({ default: m.DualAxisView })));
 const ConnectionsView = lazy(() => charts().then((m) => ({ default: m.ConnectionsView })));
+// Leaflet and its CSS live only in this chunk.
+const MapsView = lazy(() => import('@/views/MapsView').then((m) => ({ default: m.MapsView })));
 
 export const VIEW_LABELS: Record<ViewId, string> = {
   spine: 'In-universe', release: 'Release order', platform: 'Platform', studio: 'Studio', groupings: 'Phase / Saga',
-  tags: 'Characters', continuities: 'Continuities', dual: 'Dual axis', connections: 'Connections',
+  tags: 'Characters', continuities: 'Continuities', dual: 'Dual axis', connections: 'Connections', maps: 'Maps',
 };
 const CONTINUITY_SCOPED: ViewId[] = CONTINUITY_VIEWS;
 /** Universe's default continuity ("all" uses the first enabled universe's). Module-level so it is a stable reference. */
@@ -132,6 +134,8 @@ export function App() {
     { id: 'unwatched', label: 'Unwatched first' },
   ];
 
+  // The Maps view is offered only for universes that have maps (data/<universe>/maps.json).
+  const views = VIEWS.filter((v) => v !== 'maps' || hasMaps(state.u));
   const changeView = (v: string) => {
     const view = v as ViewId;
     const sort: SortId = CONTINUITY_SCOPED.includes(view) ? (state.sort === 'release' || state.sort === 'in-universe' ? 'in-universe' : state.sort) : (state.sort === 'in-universe' || state.sort === 'alt' ? 'release' : state.sort);
@@ -149,11 +153,11 @@ export function App() {
               {/* Phones: one full-width view picker instead of a tab strip that would be cut off. */}
               <div className="pb-2 sm:hidden">
                 <HeaderSelect label="View" hint="Choose how to look at the timeline" value={state.view} minRem={0}
-                  options={VIEWS.map((v) => ({ value: v, label: VIEW_LABELS[v] }))} onChange={changeView} />
+                  options={views.map((v) => ({ value: v, label: VIEW_LABELS[v] }))} onChange={changeView} />
               </div>
               <div className="-mx-4 overflow-x-auto px-4 pb-2 max-sm:hidden">
                 <TabsList aria-label="Views" className="w-max">
-                  {VIEWS.map((v) => <TabsTrigger key={v} value={v} data-view={v}>{VIEW_LABELS[v]}</TabsTrigger>)}
+                  {views.map((v) => <TabsTrigger key={v} value={v} data-view={v}>{VIEW_LABELS[v]}</TabsTrigger>)}
                 </TabsList>
               </div>
             </div>
@@ -186,6 +190,9 @@ export function App() {
                           ? <p className="border border-border bg-muted/40 p-4 text-sm text-muted-foreground">The dual-axis chart compares release dates with in-universe dates inside one continuity (calendars differ between continuities and are never merged). Pick a single universe and continuity{state.people.length || state.chars.length ? ', or clear the person / character filter,' : ''} to see it.</p>
                           : <DualAxisView rows={filtered} />)}
                         {v === 'connections' && <ConnectionsView rows={filtered} />}
+                        {v === 'maps' && (hasMaps(state.u)
+                          ? <MapsView universe={state.u} />
+                          : <p className="border border-border bg-muted/40 p-4 text-sm text-muted-foreground">There are no maps for {state.u === 'all' ? 'all universes at once. Pick a single universe' : 'this universe yet. Pick another view'} to continue.</p>)}
                       </Suspense>
                     )}
                   </TabsContent>

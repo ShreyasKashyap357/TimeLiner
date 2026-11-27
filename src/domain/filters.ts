@@ -2,7 +2,7 @@
 import type { CanonTier, Status, TitleType } from './schema.ts';
 import type { Row } from './model.ts';
 
-export const VIEWS = ['spine', 'release', 'platform', 'studio', 'groupings', 'tags', 'continuities', 'dual', 'connections'] as const;
+export const VIEWS = ['spine', 'release', 'platform', 'studio', 'groupings', 'tags', 'continuities', 'dual', 'connections', 'maps'] as const;
 export type ViewId = (typeof VIEWS)[number];
 export type Quick = 'all' | 'movies' | 'series' | 'animated' | 'books' | 'audio' | 'stage' | 'games';
 export type SortId = 'in-universe' | 'release' | 'release-desc' | 'alt' | 'title' | 'runtime' | 'unwatched';

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "wizarding-world",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "berlin-q64",
+        "name": "Berlin",
+        "lat": 52.516666666,
+        "lng": 13.383333333,
+        "title_ids": [
+          "fantastic-beasts-the-secrets-of-dumbledore"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q64",
+        "confidence": "stated"
+      },
+      {
+        "id": "bhutan-q917",
+        "name": "Bhutan",
+        "lat": 27.45,
+        "lng": 90.5,
+        "title_ids": [
+          "fantastic-beasts-the-secrets-of-dumbledore"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q917",
+        "confidence": "stated"
+      },
+      {
+        "id": "england-q21",
+        "name": "England",
+        "lat": 53,
+        "lng": -1,
+        "title_ids": [
+          "harry-potter-and-the-philosophers-stone",
+          "harry-potter-and-the-philosophers-stone-film",
+          "harry-potter-and-the-chamber-of-secrets-film",
+          "harry-potter-and-the-prisoner-of-azkaban-film",
+          "harry-potter-and-the-goblet-of-fire-film",
+          "harry-potter-and-the-order-of-the-phoenix-film",
+          "harry-potter-and-the-half-blood-prince-film",
+          "harry-potter-and-the-deathly-hallows-part-1",
+          "harry-potter-and-the-deathly-hallows-part-2"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q21",
+        "confidence": "stated"
+      },
+      {
+        "id": "forest-of-dean-q902997",
+        "name": "Forest of Dean",
+        "lat": 51.79,
+        "lng": -2.54,
+        "title_ids": [
+          "harry-potter-and-the-deathly-hallows"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q902997",
+        "confidence": "stated"
+      },
+      {
+        "id": "guilin-q189633",
+        "name": "Guilin",
+        "lat": 25.266666666,
+        "lng": 110.283333333,
+        "title_ids": [
+          "fantastic-beasts-the-secrets-of-dumbledore"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q189633",
+        "confidence": "stated"
+      },
+      {
+        "id": "lambeth-bridge-q1130666",
+        "name": "Lambeth Bridge",
+        "lat": 51.494636,
+        "lng": -0.123877,
+        "title_ids": [
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1130666",
+        "confidence": "stated"
+      },
+      {
+        "id": "london-q84",
+        "name": "London",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "title_ids": [
+          "harry-potter-and-the-philosophers-stone",
+          "harry-potter-and-the-prisoner-of-azkaban",
+          "harry-potter-and-the-half-blood-prince",
+          "harry-potter-and-the-philosophers-stone-film",
+          "harry-potter-and-the-chamber-of-secrets-film",
+          "harry-potter-and-the-prisoner-of-azkaban-film",
+          "harry-potter-and-the-order-of-the-phoenix-film",
+          "harry-potter-and-the-half-blood-prince-film",
+          "harry-potter-and-the-deathly-hallows-part-1",
+          "harry-potter-and-the-deathly-hallows-part-2",
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q84",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-york-city-q60",
+        "name": "New York City",
+        "lat": 40.712777777,
+        "lng": -74.006111111,
+        "title_ids": [
+          "fantastic-beasts-and-where-to-find-them",
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q60",
+        "confidence": "stated"
+      },
+      {
+        "id": "paris-q90",
+        "name": "Paris",
+        "lat": 48.856666666,
+        "lng": 2.352222222,
+        "title_ids": [
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q90",
+        "confidence": "stated"
+      },
+      {
+        "id": "pere-lachaise-cemetery-q311",
+        "name": "Père Lachaise Cemetery",
+        "lat": 48.861111111,
+        "lng": 2.394166666,
+        "title_ids": [
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q311",
+        "confidence": "stated"
+      },
+      {
+        "id": "queens-q18424",
+        "name": "Queens",
+        "lat": 40.713611111,
+        "lng": -73.828055555,
+        "title_ids": [
+          "fantastic-beasts-the-secrets-of-dumbledore"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q18424",
+        "confidence": "stated"
+      },
+      {
+        "id": "scotland-q22",
+        "name": "Scotland",
+        "lat": 57,
+        "lng": -5,
+        "title_ids": [
+          "harry-potter-and-the-philosophers-stone",
+          "harry-potter-and-the-chamber-of-secrets",
+          "harry-potter-and-the-prisoner-of-azkaban",
+          "harry-potter-and-the-goblet-of-fire",
+          "harry-potter-and-the-order-of-the-phoenix",
+          "harry-potter-and-the-deathly-hallows",
+          "harry-potter-and-the-goblet-of-fire-film",
+          "harry-potter-and-the-half-blood-prince-film"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q22",
+        "confidence": "stated"
+      },
+      {
+        "id": "st-paul-s-cathedral-q173882",
+        "name": "St Paul's Cathedral",
+        "lat": 51.513777777,
+        "lng": -0.098305555,
+        "title_ids": [
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q173882",
+        "confidence": "stated"
+      },
+      {
+        "id": "trafalgar-square-q129143",
+        "name": "Trafalgar Square",
+        "lat": 51.508055555,
+        "lng": -0.128055555,
+        "title_ids": [
+          "fantastic-beasts-the-crimes-of-grindelwald"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q129143",
+        "confidence": "stated"
+      },
+      {
+        "id": "united-kingdom-q145",
+        "name": "United Kingdom",
+        "lat": 54.6,
+        "lng": -2,
+        "title_ids": [
+          "harry-potter-and-the-philosophers-stone"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q145",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

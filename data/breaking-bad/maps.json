@@ -1,0 +1,71 @@
+[
+  {
+    "id": "story-locations",
+    "universe": "breaking-bad",
+    "title": "Real-world story locations",
+    "kind": "osm",
+    "continuity": null,
+    "credit": {
+      "title": "Wikidata: narrative location (P840) and coordinate location (P625)",
+      "author": "Wikidata contributors",
+      "licence": "CC0 1.0",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_url": "https://www.wikidata.org/wiki/Property:P840",
+      "modified": false,
+      "fan_made": false,
+      "note": "Fetched from Wikidata on 2026-11-27. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors."
+    },
+    "places": [
+      {
+        "id": "alaska-q797",
+        "name": "Alaska",
+        "lat": 64,
+        "lng": -150,
+        "title_ids": [
+          "el-camino"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q797",
+        "confidence": "stated"
+      },
+      {
+        "id": "albuquerque-q34804",
+        "name": "Albuquerque",
+        "lat": 35.084444444,
+        "lng": -106.650277777,
+        "title_ids": [
+          "breaking-bad-series"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q34804",
+        "confidence": "stated"
+      },
+      {
+        "id": "cicero-q578221",
+        "name": "Cicero",
+        "lat": 41.845555555,
+        "lng": -87.753888888,
+        "title_ids": [
+          "slippin-jimmy"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q578221",
+        "confidence": "stated"
+      },
+      {
+        "id": "new-mexico-q1522",
+        "name": "New Mexico",
+        "lat": 34,
+        "lng": -106,
+        "title_ids": [
+          "breaking-bad-series",
+          "better-call-saul",
+          "el-camino"
+        ],
+        "note": "Wikidata lists this as a narrative location (where the story is set) of the linked titles; the point is the location item's coordinates, so a country or region is shown at its centre.",
+        "source_url": "https://www.wikidata.org/wiki/Q1522",
+        "confidence": "stated"
+      }
+    ]
+  }
+]

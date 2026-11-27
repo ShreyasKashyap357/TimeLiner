@@ -8,6 +8,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
+| D-79 | OpenStreetMap tiles come straight from `tile.openstreetmap.org` (free, no SLA, may block heavy use). Keep it, or switch to a hosted provider with a key? | Use `tile.openstreetmap.org` with the attribution always shown. The tile URL is one constant in `src/views/MapsView.tsx`. |
+| D-80 | Wikidata narrative locations include countries and regions (e.g. "England", "Afghanistan"), which show as one point at the centre. Keep them, or show only cities and smaller places? | Keep them, with a note on each place saying a country or region is shown at its centre. |
 
 ## Resolved
 

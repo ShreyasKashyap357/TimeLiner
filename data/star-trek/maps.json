@@ -1,0 +1,64 @@
+[
+  {
+    "id": "galactic-quadrants",
+    "universe": "star-trek",
+    "title": "Galactic quadrants",
+    "kind": "image",
+    "continuity": null,
+    "image": {
+      "path": "maps/star-trek/galactic-quadrant-star-trek.png",
+      "width": 1000,
+      "height": 1000
+    },
+    "credit": {
+      "title": "File:Galactic Quadrant Star Trek.png",
+      "author": "NASA/JPL-Caltech/R. Hurt (Milky Way image); Star Trek overlay by Codehydro",
+      "licence": "Public domain",
+      "licence_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Galactic_Quadrant_Star_Trek.png",
+      "modified": false,
+      "fan_made": true,
+      "note": "NASA's artist's concept of the Milky Way with the Star Trek quadrants and the main powers overlaid. The file page says the overlay used information from the Canadian Galactic Plane Survey and StarTrek.com."
+    },
+    "places": [
+      {
+        "id": "delta-quadrant",
+        "name": "Delta Quadrant",
+        "x": 750,
+        "y": 250,
+        "title_ids": [
+          "voyager",
+          "prodigy"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Voyager&oldid=1387478205",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Wikipedia (Star Trek: Voyager): the ship \"attempts to return home to the Alpha Quadrant after being stranded in the Delta Quadrant\". Wikipedia (Star Trek: Prodigy): \"a group of young aliens from the distant Delta Quadrant\"."
+      },
+      {
+        "id": "gamma-quadrant",
+        "name": "Gamma Quadrant",
+        "x": 370,
+        "y": 350,
+        "title_ids": [
+          "deep-space-nine"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Deep_Space_Nine&oldid=1387274174",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Placed at the map's \"Dominion\" label. Wikipedia (Star Trek: Deep Space Nine): the station is \"located adjacent to a wormhole leading to the Gamma Quadrant\", and the Dominion is \"a powerful empire in the Gamma Quadrant\"."
+      },
+      {
+        "id": "federation",
+        "name": "United Federation of Planets",
+        "x": 500,
+        "y": 678,
+        "title_ids": [
+          "deep-space-nine",
+          "voyager"
+        ],
+        "source_url": "https://en.wikipedia.org/w/index.php?title=Star_Trek%3A_Deep_Space_Nine&oldid=1387274174",
+        "confidence": "inferred",
+        "note": "Position read from the map image (the label or dot drawn on the source file). Placed at the map's \"Federation\" label, in the Alpha Quadrant. Wikipedia (Star Trek: Deep Space Nine and Star Trek: Voyager): \"Set in the 24th century, when Earth is part of a United Federation of Planets\"."
+      }
+    ]
+  }
+]

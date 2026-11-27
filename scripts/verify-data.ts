@@ -9,7 +9,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { z } from 'zod';
 import {
-  AliasesFile, ContinuitiesFile, PlatformsFile, StudiosFile, TagsFile, TitlesFile, UniversesFile,
+  AliasesFile, ContinuitiesFile, MapsFile, PlatformsFile, StudiosFile, TagsFile, TitlesFile, UniversesFile,
   type Title, type Unit,
 } from '../src/domain/schema.ts';
 import { checkIntegrity, type Dataset, type Issue } from '../src/domain/integrity.ts';
@@ -49,6 +49,15 @@ export async function loadDataset(issues: Issue[]): Promise<Dataset | null> {
     if (t) ds.titles.push(...t);
     ds.tags[u.id] = g ?? [];
     ds.aliases[u.id] = a ?? {};
+    const mapsFile = path.join(dir, 'maps.json');
+    if (existsSync(mapsFile)) {
+      const m = await readJson(mapsFile, MapsFile, issues);
+      for (const x of m ?? []) {
+        if (x.universe !== u.id) issues.push({ level: 'error', code: 'map-universe', where: mapsFile, message: `map "${x.id}" says universe "${x.universe}"` });
+        if (x.image && !existsSync(path.join('public', x.image.path))) issues.push({ level: 'error', code: 'map-image-missing', where: `map:${u.id}/${x.id}`, message: `public/${x.image.path} not found` });
+      }
+      (ds.maps ??= []).push(...(m ?? []));
+    }
   }
   return ds;
 }

@@ -1,5 +1,5 @@
 // Pure integrity checks over a loaded dataset. Used by scripts/verify-data.ts and tests.
-import type { Continuity, Platform, Studio, Tag, Title, Universe } from './schema.ts';
+import type { Continuity, Platform, Studio, Tag, Title, Universe, WorldMap } from './schema.ts';
 
 export interface Dataset {
   universes: Universe[];
@@ -9,6 +9,7 @@ export interface Dataset {
   studios: Studio[];
   platforms: Platform[];
   aliases: Record<string, Record<string, string[]>>; // per universe
+  maps?: WorldMap[]; // optional data/<universe>/maps.json, all universes
 }
 
 export interface Issue {
@@ -174,5 +175,42 @@ export function checkIntegrity(ds: Dataset, today: string): Issue[] {
       for (const t of targets) if (!units.has(t)) err('ref-alias', `${uid}/${oldId}`, `alias target "${t}" missing`);
     }
   }
+  checkMaps(ds, titles, conts, universes, err, warn);
   return issues;
+}
+
+type Report = (code: string, where: string, message: string) => void;
+/** Maps: ids unique, references resolve, places match the map kind and sit inside the image. */
+function checkMaps(ds: Dataset, titles: Map<string, Title>, conts: Map<string, Continuity>, universes: Map<string, Universe>, err: Report, warn: Report) {
+  const maps = ds.maps ?? [];
+  const seen = new Set<string>();
+  for (const m of maps) {
+    const w = `map:${m.universe}/${m.id}`;
+    if (seen.has(`${m.universe}/${m.id}`)) err('dup-map', w, 'duplicate map id');
+    seen.add(`${m.universe}/${m.id}`);
+    if (!universes.has(m.universe)) err('ref-map-universe', w, `unknown universe "${m.universe}"`);
+    if (m.continuity) {
+      const c = conts.get(m.continuity);
+      if (!c || c.universe !== m.universe) err('ref-map-continuity', w, `continuity "${m.continuity}" missing or not in universe`);
+    }
+    if (m.image && !m.image.path.startsWith(`maps/${m.universe}/`)) err('map-image-path', w, `image must live under public/maps/${m.universe}/`);
+    const placeIds = new Set<string>();
+    for (const p of m.places) {
+      const pw = `${w}#${p.id}`;
+      if (placeIds.has(p.id)) err('dup-place', pw, 'duplicate place id');
+      placeIds.add(p.id);
+      const pixel = p.x !== undefined && p.y !== undefined;
+      if (m.kind === 'image' && !pixel) err('place-coords', pw, 'image map place needs x and y');
+      if (m.kind === 'osm' && pixel) err('place-coords', pw, 'osm map place needs lat and lng');
+      if (pixel && m.image && (p.x! < 0 || p.y! < 0 || p.x! > m.image.width || p.y! > m.image.height)) err('place-outside', pw, 'place lies outside the image');
+      for (const id of p.title_ids) {
+        const t = titles.get(id);
+        if (!t) err('ref-place-title', pw, `unknown title "${id}"`);
+        else if (t.universe !== m.universe) err('ref-place-title', pw, `title "${id}" is in another universe`);
+        else if (m.continuity && t.continuity !== m.continuity) err('ref-place-title', pw, `title "${id}" is outside the map's continuity`);
+      }
+      if (p.confidence !== 'stated' && !p.note.trim()) err('place-note', pw, 'non-stated place needs a note');
+      if (!p.title_ids.length) warn('place-no-titles', pw, 'place is not linked to any title');
+    }
+  }
 }

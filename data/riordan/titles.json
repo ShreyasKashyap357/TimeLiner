@@ -43,10 +43,14 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2006
+          },
+          "end": {
+            "y": 2006
+          },
           "label": "Summer 2006 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"Percy Jackson is a 12-year-old boy...\" Riordan Wiki Important Dates: \"June 11, 2006 - Percy Jackson, Annabeth Chase, and Grover Underwood begin their quest for Master Bolt.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 10,
@@ -132,7 +136,10 @@
           "confidence": "inferred",
           "note": "Camp Half-Blood Chronicles: \"Camp Half-Blood is an upcoming quadrilogy of novels set in the autumn between The Lightning Thief and The Sea of Monsters.\" Riordan Wiki Timeline lists The Wild Zone right after The Lightning Thief.",
           "order_index": 20,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-lightning-thief",
+            "before": "the-sea-of-monsters"
+          }
         },
         "release": {
           "date": "2026-09-29",
@@ -205,7 +212,10 @@
           "confidence": "inferred",
           "note": "Camp Half-Blood Chronicles: quadrilogy \"set in the autumn between The Lightning Thief and The Sea of Monsters\". Riordan Wiki Timeline lists The Rite of Aphrodite after The Wild Zone.",
           "order_index": 30,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-lightning-thief",
+            "before": "the-sea-of-monsters"
+          }
         },
         "release": {
           "date": "2027-03-30",
@@ -275,10 +285,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2007,
+            "m": 6
+          },
+          "end": {
+            "y": 2007,
+            "m": 6
+          },
           "label": "June 2007 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"thirteen-year-old demigod Percy Jackson\". Riordan Wiki Important Dates: \"June 8, 2007 - Tantalus assigns Clarisse La Rue a quest to retrieve the Golden Fleece\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 40,
@@ -362,10 +378,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2007,
+            "m": 12
+          },
+          "end": {
+            "y": 2007,
+            "m": 12
+          },
           "label": "December 2007 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"the 14-year-old demigod Percy Jackson\"; \"the gods' winter solstice meeting\". Riordan Wiki Important Dates: \"December 21, 2007 - Zoë Nightshade dies\". Riordan Wiki Timeline: \"These pieces of evidence from the original pentology date The Titan's Curse as taking place in December 2007.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 50,
@@ -449,10 +471,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2008,
+            "m": 6
+          },
+          "end": {
+            "y": 2008,
+            "m": 6
+          },
           "label": "June 2008 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"modern-day fourteen-year-old demigod Percy Jackson\". Riordan Wiki Important Dates: \"June 5, 2008 - The Quest for Daedalus begins\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 60,
@@ -543,7 +571,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline: \"The Demigod Files: Percy Jackson and the Stolen Chariot\" after the-titans-curse, before the-battle-of-the-labyrinth",
           "order_index": 51,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-titans-curse",
+            "before": "the-battle-of-the-labyrinth"
+          }
         },
         "release": {
           "date": "2009-02-10",
@@ -584,7 +615,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline: \"The Demigod Files: Percy Jackson and the Sword of Hades\" after the-battle-of-the-labyrinth, before bronze-dragon",
           "order_index": 61,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-battle-of-the-labyrinth",
+            "before": "the-last-olympian"
+          }
         },
         "release": {
           "date": "2009-02-10",
@@ -625,7 +659,10 @@
           "confidence": "disputed",
           "note": "Riordan Wiki Timeline: \"The Demigod Files: Percy Jackson and the Bronze Dragon\" after sword-of-hades, before the-last-olympian",
           "order_index": 62,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-battle-of-the-labyrinth",
+            "before": "the-last-olympian"
+          }
         },
         "release": {
           "date": "2009-02-10",
@@ -705,10 +742,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2009,
+            "m": 8
+          },
+          "end": {
+            "y": 2009,
+            "m": 8
+          },
           "label": "August 2009 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"He begins a romantic relationship with Annabeth Chase on his sixteenth birthday near the end of the book\". Riordan Wiki Important Dates: \"August 16, 2009 - The Battle of Manhattan begins.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 80,
@@ -797,7 +840,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists Percy Jackson's Greek Gods after \"The Staff of Hermes\" and before The Lost Hero.",
           "order_index": 90,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-last-olympian",
+            "before": "the-lost-hero"
+          }
         },
         "release": {
           "date": "2014-08-19",
@@ -878,10 +924,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2009,
+            "m": 12
+          },
+          "end": {
+            "y": 2009,
+            "m": 12
+          },
           "label": "December 2009 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"The novel begins six months after the events of The Last Olympian\". Riordan Wiki Important Dates: \"December 18, 2009 - Jason, Leo, and Piper begin their quest to save Hera.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 100,
@@ -973,7 +1025,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline: \"The Demigod Diaries: Diary of Luke Castellan\" before the-lightning-thief (2nd entry on Timeline, after 'My Life as a Child Outlaw')",
           "order_index": 111,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-lost-hero",
+            "before": "the-red-pyramid"
+          }
         },
         "release": {
           "date": "2012-08-14",
@@ -1014,7 +1069,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline: \"The Demigod Diaries: The Staff of Hermes\" after the-last-olympian (and Singer of Apollo), before percy-jacksons-greek-gods",
           "order_index": 81,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-last-olympian",
+            "before": "the-lost-hero"
+          }
         },
         "release": {
           "date": "2012-08-14",
@@ -1055,7 +1113,10 @@
           "confidence": "disputed",
           "note": "Riordan Wiki Timeline: \"The Demigod Diaries: Leo Valdez and the Quest for Buford\" after the-lost-hero, before son-of-magic",
           "order_index": 101,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-lost-hero",
+            "before": "the-red-pyramid"
+          }
         },
         "release": {
           "date": "2012-08-14",
@@ -1096,7 +1157,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline: \"The Demigod Diaries: Son of Magic\" after quest-for-buford, before the-red-pyramid",
           "order_index": 102,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-lost-hero",
+            "before": "the-red-pyramid"
+          }
         },
         "release": {
           "date": "2012-08-14",
@@ -1175,10 +1239,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2009,
+            "m": 12
+          },
+          "end": {
+            "y": 2009,
+            "m": 12
+          },
           "label": "December 2009 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"Carter Kane – the 14-year-old son\"; \"Sadie Kane – the 12-year-old daughter\". Riordan Wiki Important Dates: \"December 25, 2009 - Carter and Sadie decide to go to the forbidden library...\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 120,
@@ -1260,10 +1330,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2010,
+            "m": 3
+          },
+          "end": {
+            "y": 2010,
+            "m": 3
+          },
           "label": "March 2010 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"The book takes place roughly three months after the first book\". Riordan Wiki Important Dates: \"March 21, 2010 - Spring equinox. Carter and Sadie successfully awakens Ra using the Book of Ra\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 130,
@@ -1349,10 +1425,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2010,
+            "m": 6
+          },
+          "end": {
+            "y": 2010,
+            "m": 6
+          },
           "label": "June 2010 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"Almost a year after Percy Jackson's defense of Mount Olympus in The Last Olympian\"; Heroes of Olympus article: \"This book is set in June.\" Riordan Wiki Important Dates: \"June 20, 2010 - Percy Jackson, Hazel Levesque, and Frank Zhang begin their quest to rescue Thanatos.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 140,
@@ -1439,10 +1521,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2010,
+            "m": 6
+          },
+          "end": {
+            "y": 2010,
+            "m": 6
+          },
           "label": "June–July 2010 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"Six months after the events of The Lost Hero\"; Heroes of Olympus article: \"This book is set between June and July.\" Riordan Wiki Important Dates: \"July 1, 2010 - Final day of the Quest for the Athena Parthenos.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 150,
@@ -1528,10 +1616,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2010,
+            "m": 7
+          },
+          "end": {
+            "y": 2010,
+            "m": 7
+          },
           "label": "July 2010 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Heroes of Olympus article: \"This book is set in the first half of July.\" Riordan Wiki Important Dates: \"July 18, 2010 - The quest to close the Doors of Death ends.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 160,
@@ -1618,10 +1712,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2010,
+            "m": 7
+          },
+          "end": {
+            "y": 2010,
+            "m": 7
+          },
           "label": "July 2010 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Heroes of Olympus article: \"This book is set in the second half of July.\" Riordan Wiki Important Dates (2010, July 18 entry): \"Reyna begins her quest, with Nico and Hedge, to return the Athena Parthenos to the Greeks.\" Trials of Apollo article: \"The Blood of Olympus, takes place about six months before The Trials of Apollo.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 170,
@@ -1705,10 +1805,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2010,
+            "m": 9
+          },
+          "end": {
+            "y": 2010,
+            "m": 9
+          },
           "label": "September 2010 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"This book begins six months after the events of the preceding novel\". Riordan Wiki Important Dates: \"September 23, 2010 - Autumn equinox. Final confrontation of the War against Apophis.\" Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 180,
@@ -1798,7 +1904,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists \"Demigods & Magicians: The Son of Sobek / The Staff of Serapis / The Crown of Ptolemy\" after The Serpent's Shadow and before The Chalice of the Gods.",
           "order_index": 190,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-serpents-shadow",
+            "before": "the-sword-of-summer"
+          }
         },
         "release": {
           "date": "2016-04-05",
@@ -1874,7 +1983,10 @@
           "confidence": "inferred",
           "note": "Wikipedia: \"taking place after the events of the series The Heroes of Olympus but before The Trials of Apollo series.\" No year given. Riordan Wiki Timeline notes a COVID-19 reference in \"Un Natale Mezzosangue\", later referenced in The Senior Year Adventures, implying Percy \"was 18 in or around the year 2020\", contradicting the 2006-2011 de facto timeline.",
           "order_index": 200,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-serpents-shadow",
+            "before": "the-sword-of-summer"
+          }
         },
         "release": {
           "date": "2023-09-26",
@@ -1959,7 +2071,10 @@
           "confidence": "inferred",
           "note": "Wikipedia: \"taking place after the events of The Chalice of the Gods. It follows Percy Jackson adventuring during his senior year of high school.\" Plot: \"A week before Halloween, the goddess of magic Hecate enlists Percy Jackson\". No year stated.",
           "order_index": 210,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-serpents-shadow",
+            "before": "the-sword-of-summer"
+          }
         },
         "release": {
           "date": "2024-09-24",
@@ -2043,7 +2158,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists Percy Jackson's Greek Heroes after \"Wrath of the Triple Goddess Sequel\" and before \"The Sword of Summer/The Hidden Oracle\".",
           "order_index": 220,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-serpents-shadow",
+            "before": "the-sword-of-summer"
+          }
         },
         "release": {
           "date": "2015-08-18",
@@ -2110,10 +2228,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011,
+            "m": 1
+          },
+          "end": {
+            "y": 2011,
+            "m": 1
+          },
           "label": "January 2011 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"Magnus Chase, 16-year-old demigod\". Riordan Wiki Important Dates: \"January 13, 2011 - Magnus Chase dies fighting Surt on the Longfellow Bridge\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 230,
@@ -2194,10 +2318,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011,
+            "m": 1
+          },
+          "end": {
+            "y": 2011,
+            "m": 1
+          },
           "label": "January 2011 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia (Trials of Apollo): \"The Blood of Olympus, takes place about six months before The Trials of Apollo.\" Riordan Wiki Important Dates: \"January 2011 - The events of The Sword of Summer and The Hidden Oracle occur\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 240,
@@ -2285,7 +2415,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists Camp Half-Blood Confidential right after \"The Sword of Summer/The Hidden Oracle\".",
           "order_index": 250,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-hidden-oracle",
+            "before": "the-dark-prophecy"
+          }
         },
         "release": {
           "date": "2017-08-15",
@@ -2360,7 +2493,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists it after Camp Half-Blood Confidential. Wikipedia: \"a side plot line continuing from Demigods and Magicians\".",
           "order_index": 260,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-hidden-oracle",
+            "before": "the-dark-prophecy"
+          }
         },
         "release": {
           "date": "2018-05-01",
@@ -2443,7 +2579,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists it after Brooklyn House Magician's Manual and before Hotel Valhalla Guide.",
           "order_index": 270,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-hidden-oracle",
+            "before": "the-dark-prophecy"
+          }
         },
         "release": {
           "date": "2020-05-05",
@@ -2516,7 +2655,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists Hotel Valhalla Guide after Camp Jupiter Classified and before \"The Dark Prophecy/The Hammer of Thor\".",
           "order_index": 280,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-hidden-oracle",
+            "before": "the-dark-prophecy"
+          }
         },
         "release": {
           "date": "2016-08-16",
@@ -2593,10 +2735,14 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011
+          },
+          "end": {
+            "y": 2011
+          },
           "label": "Early 2011 (six weeks after The Hidden Oracle) (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"Six weeks after losing Meg McCaffrey to Nero and receiving the first prophecy\". Riordan Wiki Important Dates lists Dark Prophecy events under 2011 (e.g. \"Apollo and Meg locate the Throne of Memory\"). Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 290,
@@ -2677,10 +2823,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011,
+            "m": 3
+          },
+          "end": {
+            "y": 2011,
+            "m": 3
+          },
           "label": "March 2011 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"The novel takes place six weeks after the events of the preceding story, The Sword of Summer\". Riordan Wiki Important Dates: \"March 15, 2011 - Quest to Find Mjolnir begins\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 300,
@@ -2761,10 +2913,14 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011
+          },
+          "end": {
+            "y": 2011
+          },
           "label": "Spring 2011 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Wikipedia: \"The story begins a few days after the events of The Dark Prophecy.\" Riordan Wiki Important Dates: \"April 1, 2011 - End of the Burning Maze\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 310,
@@ -2844,10 +3000,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011,
+            "m": 4
+          },
+          "end": {
+            "y": 2011,
+            "m": 4
+          },
           "label": "April 2011 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "inferred",
           "note": "Riordan Wiki Important Dates: \"April 5, 2011 - Quest to Tarquin's Tomb\"; \"April 8, 2011 - Quest to Sutro Tower and Battle of San Francisco Bay\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 320,
@@ -2928,10 +3090,16 @@
         "timeline_branch": "main",
         "canon_tier": null,
         "in_universe": {
-          "start": null,
-          "end": null,
+          "start": {
+            "y": 2011,
+            "m": 6
+          },
+          "end": {
+            "y": 2011,
+            "m": 6
+          },
           "label": "June 2011 (fan-dated)",
-          "precision": "relative",
+          "precision": "year",
           "confidence": "disputed",
           "note": "Riordan Wiki Important Dates: \"June 4th, 2011- Magnus Chase and the crew of the Big Banana arrive to beat Loki\". Riordan Wiki Timeline: \"In 2011, Ramadan was observed in August, creating a contradiction. Ramadan as depicted implies the year is 2014-2017\". Riordan Wiki Important Dates carries a dispute banner and says: \"Rick Riordan has stated that there is no specific year or timeline that the series takes place as book time is not tied to real time.\" Its Timeline page calls 2006-2011 a \"de facto timeline\".",
           "order_index": 330,
@@ -3019,7 +3187,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists \"The Ship of the Dead/The Tower of Nero\" in one slot after The Tyrant's Tomb. Important Dates has no dated entry for it (only a category tag), so the year is left null.",
           "order_index": 340,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2020-10-06",
@@ -3102,7 +3273,10 @@
           "confidence": "inferred",
           "note": "Wikipedia: \"Two months after the defeat of Nero and Python, the Oracle of Delphi (Rachel Elizabeth Dare) provides the prophecy for ... Nico di Angelo and Will Solace\".",
           "order_index": 350,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2023-05-02",
@@ -3193,7 +3367,10 @@
           "confidence": "inferred",
           "note": "Wikipedia: \"Three months after their quest to Tartarus, ... Nico di Angelo and Will Solace ... have been helping Dionysus and Chiron deal with a massive influx of new campers.\"",
           "order_index": 360,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2025-09-23",
@@ -3284,7 +3461,10 @@
           "confidence": "inferred",
           "note": "Riordan Wiki Timeline lists \"9 from the Nine Worlds\" after The Court of the Dead, near the end of the list.",
           "order_index": 370,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2018-10-02",
@@ -5706,7 +5886,10 @@
           "confidence": "stated",
           "note": "No in-universe year in the sources; listed by release.",
           "order_index": 380,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2010-01-19",
@@ -5777,7 +5960,10 @@
           "confidence": "stated",
           "note": "No in-universe year in the sources; listed by release.",
           "order_index": 390,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2012-03-20",
@@ -6069,7 +6255,10 @@
           "confidence": "disputed",
           "note": "Percy Jackson and the Singer of Apollo does not neatly fit anywhere in the timeline.",
           "order_index": 400,
-          "relative_to": null
+          "relative_to": {
+            "after": "the-ship-of-the-dead",
+            "before": null
+          }
         },
         "release": {
           "date": "2013-09-16",

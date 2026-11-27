@@ -55,7 +55,10 @@ export function spine(rows: Row[], sort: SortId, opts: { altOrder?: string[]; wa
   const sections: SpineSection[] = [];
   if (sort === 'in-universe' || sort === 'unwatched') {
     for (const r of sortRows(placed, 'in-universe')) {
-      const label = r.placed ? r.unit.in_universe.label.replace(/\s*\(.*\)$/, '') : r.continuity.calendar.kind === 'ordered-only' ? '' : 'No year given';
+      // Undated entries (ordered-only continuities, relative placements) are headed by their own in-universe
+      // label ("Season 1", "Autumn between X and Y") so every timeline has markers, not one unnamed block.
+      const own = r.unit.in_universe.label.replace(/\s*\(.*\)$/, '').trim();
+      const label = r.placed ? own : own || (r.continuity.calendar.kind === 'ordered-only' ? '' : 'No year given');
       const last = sections.at(-1);
       if (last && last.label === label) last.rows.push(r);
       else sections.push({ id: `s${sections.length}`, label, startY: r.unit.in_universe.start?.y ?? null, rows: [r] });

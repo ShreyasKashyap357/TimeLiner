@@ -74,7 +74,7 @@
             "date": "2025-07-03"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
         "unit_sources": {
           "creature-commandos-s1": [
             0,
@@ -224,7 +224,7 @@
             "date": "2025-07-03"
           }
         ],
-        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit.",
+        "criteria": "Essential = the unit is in the new-viewer recommended list of at least two sources marked selective:true (sources that recommend a subset, or explicitly recommend an order/starting point for newcomers), and no source explicitly calls it skippable. Everything else that at least one source lists is optional. A series-level entry in a source (e.g. 'Andor') counts for every season released before that source's date. supported_by = indices of sources whose lists (any order they print) include the unit. Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).",
         "unit_sources": {
           "man-of-steel": [
             2,

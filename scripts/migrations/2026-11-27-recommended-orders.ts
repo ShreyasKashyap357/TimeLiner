@@ -3,7 +3,7 @@
 // recommended-*.json). Recommended orders for other universes are added to ORDERS as they are researched.
 // Idempotent: sets criteria/unit_sources on existing orders; creates full orders when given unit_ids.
 import { readFile, writeFile } from 'node:fs/promises';
-import { ContinuitiesFile, type AltOrder } from '../../src/domain/schema.ts';
+import { ContinuitiesFile, TitlesFile, type AltOrder } from '../../src/domain/schema.ts';
 
 interface Patch { dir: string; continuity: string; id: string; criteria: string; unit_sources: Record<string, number[]>; create?: Omit<AltOrder, 'criteria' | 'unit_sources'> }
 const ORDERS: Patch[] = [
@@ -29,6 +29,22 @@ for (const o of ORDERS) {
   if (!a) throw new Error(`no order ${o.id} in ${o.continuity}`);
   a.criteria = o.criteria;
   a.unit_sources = Object.fromEntries(Object.entries(o.unit_sources).filter(([u]) => a!.unit_ids.includes(u)));
+  // Rule (user, D-37): a later season of an essential series is essential too; it continues the same story.
+  // Guides written before a season came out cannot list it, so this must not depend on guide coverage.
+  if (a.kind === 'recommended') {
+    const titles = TitlesFile.parse(JSON.parse(await readFile(`data/${o.dir}/titles.json`, 'utf8')));
+    const titleOf = new Map(titles.flatMap((t) => t.units.map((u) => [u.id, t.id] as const)));
+    const opt = new Set(a.optional_unit_ids);
+    const seenEssential = new Set<string>();
+    for (const u of a.unit_ids) {
+      const t = titleOf.get(u)!;
+      if (!opt.has(u)) seenEssential.add(t);
+      else if (seenEssential.has(t)) opt.delete(u);
+    }
+    a.optional_unit_ids = a.optional_unit_ids.filter((u) => opt.has(u));
+    const RULE = ' Later seasons of an essential series also count as essential, because they continue the same story (guides written before a season came out cannot list it).';
+    if (!a.criteria.includes('Later seasons of an essential series')) a.criteria += RULE;
+  }
   await writeFile(file, JSON.stringify(conts, null, 2) + '\n');
   console.log(`${o.continuity}/${o.id}: criteria + support for ${Object.keys(a.unit_sources).length} entries`);
 }

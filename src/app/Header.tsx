@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useApp } from './context';
 import { universes as allUniverses } from '@/state/data';
 import { HeaderSelect } from './HeaderSelect';
+import { ContinuityPicker } from './ContinuityPicker';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Command, CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command';
@@ -28,10 +29,8 @@ export function HeaderBar() {
         <HeaderSelect label="Universe" hint="Franchise universe" value={state.u}
           options={[...universes.map((u) => ({ value: u.id, label: u.name, color: u.accent.primary })), ...(universes.length > 1 ? [{ value: 'all', label: 'All universes' }] : [])]}
           onChange={(u) => { const uni = allUniverses.find((x) => x.id === u); update({ u, c: uni ? uni.default_continuity : state.c, unit: null }, true); }} />
-        <HeaderSelect label="Continuity (in-universe views)" hint="Continuity used by the In-universe and Dual-axis views. In-universe order only exists within one continuity."
-          value={state.u === 'all' ? '' : state.c ?? ''} placeholder={state.u === 'all' ? 'All continuities' : 'Continuity'} minRem={9} disabled={state.u === 'all'}
-          options={conts.map((c) => ({ value: c.id, label: c.name }))}
-          onChange={(c) => update({ c, unit: null }, true)} />
+        <ContinuityPicker ds={ds} conts={conts} value={state.u === 'all' ? '' : state.c ?? ''} disabled={state.u === 'all'}
+          placeholder={state.u === 'all' ? 'All continuities' : 'Continuity'} onChange={(c) => update({ c, unit: null }, true)} />
       </div>
       <div className="ml-auto flex min-w-0 max-w-full flex-[1_1_auto] flex-wrap items-center justify-end gap-2 sm:flex-none">
         <FilterBox />

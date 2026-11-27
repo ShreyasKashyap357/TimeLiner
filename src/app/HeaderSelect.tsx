@@ -4,6 +4,8 @@ import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip
 
 // Last input modality, tracked app-wide: ':focus-visible' is unreliable when a Select hands focus back.
 let lastInput: 'keyboard' | 'pointer' = 'pointer';
+/** Last input modality (for tooltips that should open on keyboard focus but not on focus return). */
+export const lastInputWasKeyboard = () => lastInput === 'keyboard';
 if (typeof window !== 'undefined') {
   window.addEventListener('keydown', (e) => { if (e.key === 'Tab') lastInput = 'keyboard'; }, true);
   window.addEventListener('pointerdown', () => { lastInput = 'pointer'; }, true);

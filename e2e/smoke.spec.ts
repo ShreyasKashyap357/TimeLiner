@@ -6,7 +6,7 @@ const VIEW_NAMES: Record<string, string> = { release: 'Release order', platform:
 test.describe('TimeLiner smoke', () => {
   test('in-universe spine renders the MCU in order', async ({ page }) => {
     await page.goto('/?u=marvel&c=mcu');
-    await expect(page.getByRole('heading', { name: '1260 BC' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: '1260 BC' })).toBeVisible({ timeout: 20_000 }); // first test: cold server
     const first = page.locator('[data-unit]').first();
     await expect(first).toHaveAttribute('data-unit', 'eyes-of-wakanda-ep1');
     await expect(page.locator('[data-unit="iron-man"]')).toBeVisible();
@@ -182,4 +182,13 @@ test('a person across universes shows an Appearances list, not a timeline', asyn
   await expect(section.getByText('Kong: Skull Island')).toBeVisible();
   await expect(section.getByText('as Nick Fury').first()).toBeVisible();
   await expect(page.getByRole('group', { name: 'Universes shown' })).toBeVisible();
+});
+
+test('continuity picker: grouped and searchable (DC has ~40 continuities)', async ({ page }) => {
+  await page.goto('/?u=dc&c=dcu');
+  await page.getByRole('combobox', { name: 'Continuity (in-universe views)' }).click();
+  await expect(page.getByText(/^Shared universes \(\d+\)$/)).toBeVisible();
+  await page.getByPlaceholder(/Search \d+ continuities/).fill('smallv');
+  await page.getByRole('option', { name: /Smallville/ }).click();
+  await expect(page).toHaveURL(/c=smallville/);
 });

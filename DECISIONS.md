@@ -8,7 +8,7 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-35 | **Where cameos come from.** Wikidata has no cameo marker. So a cast member counts as a cameo when the title's Wikipedia article mentions them, or their character, in a sentence about a cameo (e.g. Endgame: Stan Lee, Ken Jeong, Yvette Nicole Brown). This finds 141 Marvel cameos but will miss any the article doesn't mention. | Use this rule, and label it "cameo (per Wikipedia)". |
+| D-35 | **Cameo sources.** Cameos come from the Wikipedia article text (sentences about a cameo, matched only to people already in the cast list). You asked for the fan wikis to be checked as well, with clear citations. | In progress: fan-wiki cameo markers are being collected; each cameo will show which source marked it. |
 | D-36 | **MonsterVerse essentials.** Only one guide (Slashfilm) gives a newcomer list, so the usual "2 guides" rule would mark nothing essential. | Essential = in Slashfilm's newcomer list and in at least one other list, and not called skippable (6 of 8 entries). |
 | D-37 | **House of the Dragon season 3** is marked essential although only one guide is recent enough to include it. | Keep it essential (the other seasons are). |
 | D-38 | **Watch orders never mix continuities.** Star Trek guides put the three Kelvin films after Voyager and Enterprise, and DC guides suggest Peacemaker S1 / Blue Beetle (DCEU) before the DCU. | Each continuity gets its own order, and the cross-continuity advice is written in the order's note. |
@@ -58,3 +58,6 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-38 | B | D-31 word counts | Wikipedia-style [n] citations next to word counts. Added The Wheel of Time Companion (about 350,000, editor's figure). Fan-wiki counts are noted where they differ. ReadingLength "guesses" are not used. |
 | R-39 | 7 | D-33, D-34 Star Trek | Contradictions are marked disputed, with both values shown in the badge tooltip. StarTrek.com's official chronological order is added. StarWars.com's official order is also added. |
 | R-40 | all | Watch orders (D-14 follow-up) | Recommended orders for Star Wars, Star Trek (Prime, Kelvin), DCU, DCEU, MonsterVerse and HBO Westeros, each showing its criteria and, per entry, which guides support it. |
+| R-41 | all | D-36, D-38, D-39 | Approved as proposed. |
+| R-42 | all | D-37 later seasons | A later season of an essential series is essential too, as a general rule (guides written before a season came out can't list it). This applies to House of the Dragon S3, Strange New Worlds S4 and Monarch S2. |
+| R-43 | DC | Continuity dropdown too long | Replaced with a searchable picker, grouped automatically (shared universes, animated, live-action films & series, collections), showing each continuity's title count and years. |

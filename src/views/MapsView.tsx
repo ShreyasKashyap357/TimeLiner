@@ -6,7 +6,7 @@ import './maps.css';
 import L from 'leaflet';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { createPortal } from 'react-dom';
-import { CircleCheck, CircleHelp, ExternalLink, MapPin, TriangleAlert } from 'lucide-react';
+import { CircleCheck, CircleHelp, ExternalLink, Maximize, MapPin, Minimize, MoveHorizontal, MoveVertical, Scan, TriangleAlert } from 'lucide-react';
 import { useApp } from '@/app/context';
 import { loadMaps } from '@/state/data';
 import { titleLabel } from '@/domain/model';
@@ -18,6 +18,16 @@ import { SearchablePicker } from '@/app/SearchablePicker';
 
 const OSM_TILES = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 const OSM_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+
+type Fit = 'width' | 'height' | 'all';
+
+/** Zoom that fits the map's width, height or whole extent into the panel (any CRS; zoomSnap 0 makes it exact). */
+function fitView(m: L.Map, b: L.LatLngBounds, fit: Fit) {
+  const c = b.getCenter();
+  const box = fit === 'width' ? L.latLngBounds([c.lat, b.getWest()], [c.lat, b.getEast()])
+    : fit === 'height' ? L.latLngBounds([b.getSouth(), c.lng], [b.getNorth(), c.lng]) : b;
+  m.setView(c, m.getBoundsZoom(box, false), { animate: false });
+}
 
 const CONF = {
   stated: { label: 'Stated', icon: CircleCheck, cls: 'border-emerald-400/60 text-emerald-200', help: 'The source gives this place directly.' },
@@ -104,10 +114,36 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
   select.current = onSelect;
   const kbd = useRef(false); // last place was opened from the keyboard: focus moves into the popup and back
   const lastPlace = useRef<string | null>(null);
+  const extent = useRef<L.LatLngBounds | null>(null);
+  const wrap = useRef<HTMLDivElement>(null);
+  const [full, setFull] = useState(false);
+  const fit = (f: Fit) => { if (lmap.current && extent.current) fitView(lmap.current, extent.current, f); };
+
+  // Full screen: the browser's Fullscreen API where it exists, and a fixed, viewport-filling panel either way
+  // (iPhone Safari has no element full screen). Esc leaves both.
+  useEffect(() => {
+    const onChange = () => { if (!document.fullscreenElement) setFull(false); };
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape' && full && !document.querySelector('.tl-map.has-popup')) setFull(false); };
+    document.addEventListener('fullscreenchange', onChange);
+    document.addEventListener('keydown', onKey);
+    return () => { document.removeEventListener('fullscreenchange', onChange); document.removeEventListener('keydown', onKey); };
+  }, [full]);
+  useEffect(() => {
+    const m = lmap.current;
+    if (!m) return;
+    const t = setTimeout(() => { m.invalidateSize(); if (map.kind === 'image') fit('width'); }, 50);
+    return () => clearTimeout(t);
+  }, [full]); // eslint-disable-line react-hooks/exhaustive-deps
+  const toggleFull = () => {
+    if (full) { if (document.fullscreenElement) void document.exitFullscreen().catch(() => {}); setFull(false); return; }
+    setFull(true);
+    if (wrap.current?.requestFullscreen) void wrap.current.requestFullscreen().catch(() => {});
+  };
 
   useEffect(() => {
     const node = el.current!;
-    const m = L.map(node, { crs: map.kind === 'image' ? L.CRS.Simple : L.CRS.EPSG3857, zoomSnap: map.image?.tiles ? 1 : 0.25, attributionControl: true, worldCopyJump: map.kind === 'osm' });
+    const img = map.kind === 'image';
+    const m = L.map(node, { crs: img ? L.CRS.Simple : L.CRS.EPSG3857, zoomSnap: img ? 0 : 1, zoomDelta: img ? 0.5 : 1, wheelPxPerZoomLevel: 120, attributionControl: true, worldCopyJump: map.kind === 'osm' });
     m.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
     let bounds: L.LatLngBounds;
     if (map.kind === 'image' && map.image?.tiles) {
@@ -116,19 +152,20 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
       bounds = L.latLngBounds([-map.image.height / k, 0], [0, map.image.width / k]);
       const dir = map.image.path.slice(0, map.image.path.lastIndexOf('/'));
       L.tileLayer(`${import.meta.env.BASE_URL}${dir}/{z}/{y}/{x}.webp`, {
-        tileSize: 256, minZoom: -4, minNativeZoom: 0, maxNativeZoom: z, maxZoom: z + 1, noWrap: true, bounds, keepBuffer: 2,
+        tileSize: 256, minZoom: -4, minNativeZoom: 0, maxNativeZoom: z, maxZoom: z + 1, noWrap: true, bounds, keepBuffer: 2, className: 'tl-seamless',
       }).addTo(m);
-      m.fitBounds(bounds);
-      m.setMinZoom(m.getZoom() - 1);
+      m.setMinZoom(m.getBoundsZoom(bounds, false) - 1);
       m.setMaxZoom(z + 1);
       m.setMaxBounds(bounds.pad(0.25));
+      fitView(m, bounds, 'width');
     } else if (map.kind === 'image' && map.image) {
       bounds = L.latLngBounds([0, 0], [map.image.height, map.image.width]);
       L.imageOverlay(`${import.meta.env.BASE_URL}${map.image.path}`, bounds, { alt: `Map: ${map.title}` }).addTo(m);
-      m.fitBounds(bounds);
-      m.setMinZoom(m.getZoom() - 1);
-      m.setMaxZoom(m.getZoom() + 4);
+      const all = m.getBoundsZoom(bounds, false);
+      m.setMinZoom(all - 1);
+      m.setMaxZoom(all + 4);
       m.setMaxBounds(bounds.pad(0.25));
+      fitView(m, bounds, 'width');
     } else {
       L.tileLayer(OSM_TILES, { maxZoom: 19, attribution: OSM_ATTRIBUTION }).addTo(m);
       const pts = map.places.map((p) => placeLatLng(map, p));
@@ -169,11 +206,15 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
     m.on('popupopen', () => { node.classList.add('has-popup'); stripTitles(node); });
     stripTitles(node);
     lmap.current = m;
+    extent.current = bounds;
     // The container can change size (sidebar, phone rotation); keep tiles and bounds right.
     const ro = new ResizeObserver(() => m.invalidateSize());
     ro.observe(node);
+    // the popup's content can grow or shrink (Show more); keep the popup placed on its marker
+    const pro = new ResizeObserver(() => { if (popup.current?.isOpen()) popup.current.update(); });
+    pro.observe(popupEl);
     const all = markers.current;
-    return () => { ro.disconnect(); popupEl.removeEventListener('keydown', onPopupKey); m.remove(); lmap.current = null; all.clear(); };
+    return () => { ro.disconnect(); pro.disconnect(); popupEl.removeEventListener('keydown', onPopupKey); m.remove(); lmap.current = null; all.clear(); };
   }, [map, popupEl]);
 
   // open the shared popup on the selected place; React renders its content into popupEl through a portal
@@ -195,11 +236,26 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
 
   const place = map.places.find((p) => p.id === placeId);
   return (
-    <>
-      <div ref={el} role="region" aria-label={`Interactive map: ${map.title}. Use the place list below to visit each place.`}
-        className="tl-map relative isolate z-0 h-[min(78dvh,50rem)] min-h-80 w-full overflow-hidden border border-border" />
-      {place && createPortal(<PlaceCard place={place} />, popupEl)}
-    </>
+    <div ref={wrap} className={cn('flex flex-col gap-2', full && 'fixed inset-0 z-50 bg-background p-2')} data-testid="map-frame" data-full={full || undefined}>
+      <div role="toolbar" aria-label="Map view" className="flex items-center gap-1">
+        {map.kind === 'image' && <>
+          <Button size="sm" variant="outline" onClick={() => fit('width')}><MoveHorizontal aria-hidden /><span className="sr-only sm:not-sr-only">Fit width</span></Button>
+          <Button size="sm" variant="outline" onClick={() => fit('height')}><MoveVertical aria-hidden /><span className="sr-only sm:not-sr-only">Fit height</span></Button>
+          <Button size="sm" variant="outline" onClick={() => fit('all')}><Scan aria-hidden /><span className="sr-only sm:not-sr-only">Whole map</span></Button>
+        </>}
+        <Button size="sm" variant="outline" className="ml-auto" aria-pressed={full} onClick={toggleFull} data-testid="map-fullscreen">
+          {full ? <Minimize aria-hidden /> : <Maximize aria-hidden />}{full ? 'Exit full screen' : 'Full screen'}
+        </Button>
+      </div>
+      {/* Leaflet adds its own classes to the map node, so its className never changes; the wrapper sizes it. An image
+          map's panel takes the image's shape (no empty bands above and below), within 20rem..78% of the screen. */}
+      <div className={cn('relative w-full', full ? 'min-h-0 flex-1' : 'max-h-[min(78dvh,50rem)] min-h-80', !full && map.kind !== 'image' && 'h-[min(78dvh,50rem)]')}
+        style={!full && map.image ? { aspectRatio: `${map.image.width} / ${map.image.height}` } : undefined}>
+        <div ref={el} role="region" aria-label={`Interactive map: ${map.title}. Use the place list below to visit each place.`}
+          className="tl-map absolute inset-0 isolate z-0 overflow-hidden border border-border" />
+      </div>
+      {place && createPortal(<PlaceCard key={place.id} place={place} />, popupEl)}
+    </div>
   );
 }
 
@@ -217,16 +273,21 @@ function ConfidenceTag({ c }: { c: MapPlace['confidence'] }) {
 function PlaceCard({ place }: { place: MapPlace }) {
   const { ds, update } = useApp();
   const titles = place.title_ids.map((id) => ds.titles.find((t) => t.id === id)).filter((t) => t && t.units.length);
+  const [more, setMore] = useState(false);
+  const long = place.note.length > 180; // notes that quote several sources start folded to three lines
   return (
     <div className="space-y-2 text-sm" data-testid="place-card">
       <div className="flex flex-wrap items-center gap-2">
         <strong className="text-base font-semibold">{place.name}</strong>
         <ConfidenceTag c={place.confidence} />
       </div>
-      {place.note && <p className="text-muted-foreground">{place.note}</p>}
+      {place.note && <>
+        <p className={cn('text-muted-foreground', long && !more && 'line-clamp-3')}>{place.note}</p>
+        {long && <button type="button" className="text-xs underline" aria-expanded={more} onClick={() => setMore(!more)}>{more ? 'Show less' : 'Show more'}</button>}
+      </>}
       {titles.length > 0 && (
         <div>
-          <div className="mb-1 text-xs font-medium uppercase tracking-wide text-muted-foreground">Set here</div>
+          <div className="mb-1 text-xs font-medium uppercase tracking-wide text-muted-foreground">Appears in</div>
           <ul className="flex max-h-40 flex-col gap-1 overflow-y-auto">
             {titles.map((t) => (
               <li key={t!.id}>

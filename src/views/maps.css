@@ -23,3 +23,9 @@
 .tl-map .leaflet-control-attribution a { color: var(--foreground); text-decoration: underline; }
 .tl-map .leaflet-popup-content a { color: var(--foreground); }
 .tl-map.has-popup .leaflet-control-zoom { display: none; } /* the popup pane sits under the controls; hide zoom while a popup is open */
+/* Tiled images: at fractional zoom or a fractional device-pixel ratio, tile edges land on sub-pixels and leave
+   hairline seams. Leaflet's own fix (mix-blend-mode: plus-lighter) still shows seams in Chromium and adds colours
+   wherever tiles overlap, so it is turned off here; instead each tile is drawn one pixel larger and covers the
+   seam (the stretch is 0.4%, under a pixel at any zoom). */
+.tl-map .tl-seamless img.leaflet-tile { mix-blend-mode: normal; width: 257px !important; height: 257px !important; }
+.tl-map { scroll-margin-top: 6rem; } /* jumping to a place from the list keeps the map clear of the sticky header */

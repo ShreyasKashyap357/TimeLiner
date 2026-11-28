@@ -355,7 +355,6 @@ test.describe('maps', () => {
     await card.getByRole('button', { name: 'The Horse and His Boy' }).click();
     await expect(page).toHaveURL(/unit=/);
     await expect(page.getByRole('dialog')).toBeVisible();
-    await page.keyboard.press('Escape');
     expect(await overflowX(page)).toBeLessThanOrEqual(1);
     expect(await nativeTitles(page)).toEqual([]);
   });
@@ -401,6 +400,35 @@ test.describe('maps', () => {
     await page.getByPlaceholder(/Search \d+ maps/).fill('dorne');
     await page.getByRole('option', { name: /^Houses of Dorne/ }).click();
     await expect(page.getByRole('heading', { name: 'Houses of Dorne' })).toBeVisible();
+    expect(await nativeTitles(page)).toEqual([]);
+    expect(await overflowX(page)).toBeLessThanOrEqual(1);
+  });
+
+  test('atlas: tiled map opens fitted to width, has pinned places, fit controls and full screen', async ({ page }) => {
+    await page.goto('/?u=asoiaf&view=maps');
+    const map = page.locator('.tl-map');
+    await expect(map.locator('img.leaflet-tile').first()).toBeVisible({ timeout: 30_000 });
+    // fit to width: the tile layer spans the panel's width (within a few pixels)
+    const span = async () => map.evaluate((el) => {
+      const r = el.getBoundingClientRect();
+      const tiles = [...el.querySelectorAll('img.leaflet-tile')].map((t) => t.getBoundingClientRect());
+      return { w: r.width, left: Math.min(...tiles.map((t) => t.left)) - r.left, right: r.right - Math.max(...tiles.map((t) => t.right)) };
+    });
+    const s = await span();
+    expect(s.left).toBeLessThanOrEqual(4);
+    expect(s.right).toBeLessThanOrEqual(4);
+    // places are pinned and open a card listing the titles they appear in
+    await expect(page.getByTestId('place-list')).toBeVisible();
+    await page.getByTestId('place-list').getByRole('button', { name: /^Winterfell/ }).click();
+    await expect(page.getByTestId('place-card')).toContainText('A Game of Thrones');
+    await page.getByRole('button', { name: 'Whole map' }).click();
+    await page.getByRole('button', { name: 'Fit height' }).click();
+    await page.getByTestId('map-fullscreen').click();
+    await expect(page.getByTestId('map-frame')).toHaveAttribute('data-full', 'true');
+    const box = await map.boundingBox();
+    expect(box!.height).toBeGreaterThan((page.viewportSize()!.height) * 0.7);
+    await page.getByTestId('map-fullscreen').click();
+    await expect(page.getByTestId('map-frame')).not.toHaveAttribute('data-full', 'true');
     expect(await nativeTitles(page)).toEqual([]);
     expect(await overflowX(page)).toBeLessThanOrEqual(1);
   });

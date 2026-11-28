@@ -125,6 +125,7 @@
 - [ ] Run narrative-locations for more universes (DC, Doctor Who, Law & Order, NCIS, Yellowstone, Twin Peaks, ...)
 - [ ] `verify --refetch`: compare stored map licences with Commons extmetadata and flag `{{delete}}` templates
 - [ ] Filter Wikidata locations whose item is a fictional entity, if any slip through with coordinates
+- [ ] R-65: replace live OSM tiles with a downloaded base map served from `public/` (Natural Earth vector, public domain; no bulk tile downloads, per OSM policy), plus an offline check in e2e that the Maps view makes no third-party requests
 
 ## Open follow-ups
 - [ ] Re-check Avengers: Doomsday + Born Again S3 placement after release (Doomsday: 2026-12-18)

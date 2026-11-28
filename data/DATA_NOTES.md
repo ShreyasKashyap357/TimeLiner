@@ -934,3 +934,18 @@ Optional `data/<universe>/maps.json` (schema `WorldMap` in `src/domain/schema.ts
 - Periods such as "c. 950 BC" were read from thumbnails and are not verified, so they are left out of the captions. Each map shows its own caption on the image.
 - Groups and titles are mine, taken from the post titles and the map cartouches.
 - Images over 4 megapixels are cut into 256-px WebP zoom tiles. Smaller ones become a single WebP. Sources, hashes and sizes are in `data/sources/maps/asoiaf.lock.json`.
+
+## Atlas: A Song of Ice and Fire place pins (2026-11-28)
+- 56 places are pinned on "The Known World (2019 map)", and the 42 that lie in Westeros are also pinned on "Westeros (2019 map)". Positions and links are in `data/sources/maps/asoiaf.places.json`; `scripts/build/pin-places.ts asoiaf` applies them.
+- **Positions.**
+  - Each position is the pixel of the symbol the map maker drew for the place, read from gridded crops of the full-size image. They are rounded to a few pixels and marked `inferred`.
+  - The two 2019 maps share one drawing. Winterfell, Castle Black and Sunspear sit on the same pixels (±1) on both, so Westeros positions are reused on the Known World map. Essos positions were read from the Known World map only.
+- **Title links.**
+  - Wikipedia plot summaries come first: pinned oldids, with the sentence that names the place.
+  - For the five main novels, A Wiki of Ice and Fire's "Recent Events" section for that book is used where Wikipedia is silent. It is pinned by oldid and quoted with the sentence naming the place. A short quote with attribution; the wiki is CC BY-SA.
+  - Those sections cover anything that involves a place, including mentions, not only scenes set there. So the place card says "Appears in" (for every universe), and each title's quoted sentence is in the note.
+  - The Dunk & Egg and Fire & Blood links come from Wikipedia only (Ashford, Whitewalls, Stoney Sept, King's Landing, Dragonstone, Storm's End).
+- **Left out:**
+  - The Tower of Joy, Starfall and Old Ghis: no cited events.
+  - Wikipedia sentences that only use a name as an epithet ("Brienne of Tarth", "Thoros of Myr") or only plan travel there.
+- **Maps without pins.** The other 116 maps have no pins yet. Their drawings differ, so positions would have to be read map by map.

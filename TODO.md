@@ -119,7 +119,9 @@
 ## Maps (R-64)
 - [x] Atlas (R-71): button by the logo, grouped searchable map picker, deep-zoom tiles (`scripts/build/import-maps.ts`, manifests in `data/sources/maps/`), removal-on-request credits
 - [x] A Song of Ice and Fire: 118 maps (Atlas of Ice and Fire + the two ImgBB maps)
-- [ ] Places on the ASOIAF maps (pins linked to titles), and map captions/periods verified at full resolution
+- [x] ASOIAF place pins: 56 on the Known World 2019 map, 42 on Westeros 2019; cited links (`scripts/build/pin-places.ts`)
+- [x] Map viewer: fit width by default, fit height / whole map / full screen, seamless tiles at fractional zoom and DPR
+- [ ] Pins on the other ASOIAF maps (regional, history and journey maps) and map captions/periods verified at full resolution
 - [ ] More Atlas of Ice and Fire worlds: Wheel of Time (Westlands, nations, city and journey maps), The Witcher, Dune (Arrakis, Imperium star maps), Avatar: The Last Airbender, Fallout, Battlestar Galactica, Star Trek (Bajor)
 - [ ] Atlas for Foundation, Star Wars, Star Trek, Marvel, DC: find fan maps (credited, removed on request) per R-70
 - [ ] ASOIAF houses layer with CC BY-SA 3.0 coats of arms (Hielo y Fuego wiki), each with its licence

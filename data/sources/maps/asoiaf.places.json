@@ -1,0 +1,1922 @@
+{
+ "universe": "asoiaf",
+ "about": "Place pins for the Atlas maps. Positions are pixel coordinates in each full-size source image, read from the label or symbol the map maker drew. Title links quote the Wikipedia plot summary (fixed revision) that sets a scene there. Applied by scripts/build/pin-places.ts.",
+ "maps": {
+  "known-world-2019": {
+   "castle-black": [
+    1931,
+    2243
+   ],
+   "eastwatch": [
+    2074,
+    2245
+   ],
+   "shadow-tower": [
+    1716,
+    2286
+   ],
+   "crasters-keep": [
+    1841,
+    2157
+   ],
+   "moles-town": [
+    1946,
+    2261
+   ],
+   "queenscrown": [
+    1883,
+    2364
+   ],
+   "last-hearth": [
+    1957,
+    2512
+   ],
+   "deepwood-motte": [
+    1379,
+    2651
+   ],
+   "winterfell": [
+    1631,
+    2889
+   ],
+   "the-dreadfort": [
+    2054,
+    2821
+   ],
+   "torrhens-square": [
+    1384,
+    3051
+   ],
+   "barrowton": [
+    1341,
+    3258
+   ],
+   "moat-cailin": [
+    1670,
+    3390
+   ],
+   "greywater-watch": [
+    1561,
+    3641
+   ],
+   "the-twins": [
+    1587,
+    3832
+   ],
+   "the-eyrie": [
+    2075,
+    3986
+   ],
+   "gulltown": [
+    2419,
+    4069
+   ],
+   "riverrun": [
+    1520,
+    4162
+   ],
+   "raventree-hall": [
+    1547,
+    4087
+   ],
+   "inn-at-the-crossroads": [
+    1838,
+    4168
+   ],
+   "harrenhal": [
+    1823,
+    4282
+   ],
+   "saltpans": [
+    1980,
+    4229
+   ],
+   "whitewalls": [
+    1864,
+    4313
+   ],
+   "stoney-sept": [
+    1571,
+    4434
+   ],
+   "pyke": [
+    1051,
+    4043
+   ],
+   "casterly-rock": [
+    1027,
+    4476
+   ],
+   "lannisport": [
+    1026,
+    4501
+   ],
+   "golden-tooth": [
+    1296,
+    4309
+   ],
+   "kings-landing": [
+    1955,
+    4620
+   ],
+   "dragonstone": [
+    2346,
+    4406
+   ],
+   "storms-end": [
+    2256,
+    4957
+   ],
+   "summerhall": [
+    1910,
+    5020
+   ],
+   "tarth": [
+    2413,
+    4918
+   ],
+   "highgarden": [
+    1266,
+    5082
+   ],
+   "oldtown": [
+    1031,
+    5360
+   ],
+   "ashford": [
+    1563,
+    5025
+   ],
+   "yronwood": [
+    1784,
+    5395
+   ],
+   "sunspear": [
+    2404,
+    5599
+   ],
+   "water-gardens": [
+    2394,
+    5614
+   ],
+   "hardhome": [
+    2150,
+    2031
+   ],
+   "fist-of-the-first-men": [
+    1677,
+    2058
+   ],
+   "nightfort": [
+    1858,
+    2244
+   ],
+   "braavos": [
+    2900,
+    3710
+   ],
+   "lorath": [
+    3297,
+    3827
+   ],
+   "pentos": [
+    2897,
+    4588
+   ],
+   "norvos": [
+    3458,
+    4279
+   ],
+   "qohor": [
+    3940,
+    4587
+   ],
+   "myr": [
+    3100,
+    5125
+   ],
+   "tyrosh": [
+    2700,
+    5196
+   ],
+   "lys": [
+    2945,
+    5611
+   ],
+   "volantis": [
+    3825,
+    5627
+   ],
+   "meereen": [
+    5421,
+    5370
+   ],
+   "yunkai": [
+    5288,
+    5496
+   ],
+   "astapor": [
+    5217,
+    5834
+   ],
+   "vaes-dothrak": [
+    6394,
+    4351
+   ],
+   "qarth": [
+    6883,
+    6196
+   ]
+  },
+  "westeros-2019": {
+   "castle-black": [
+    1931,
+    2243
+   ],
+   "eastwatch": [
+    2074,
+    2245
+   ],
+   "shadow-tower": [
+    1716,
+    2286
+   ],
+   "crasters-keep": [
+    1841,
+    2157
+   ],
+   "moles-town": [
+    1946,
+    2261
+   ],
+   "queenscrown": [
+    1883,
+    2364
+   ],
+   "last-hearth": [
+    1957,
+    2512
+   ],
+   "deepwood-motte": [
+    1379,
+    2651
+   ],
+   "winterfell": [
+    1631,
+    2889
+   ],
+   "the-dreadfort": [
+    2054,
+    2821
+   ],
+   "torrhens-square": [
+    1384,
+    3051
+   ],
+   "barrowton": [
+    1341,
+    3258
+   ],
+   "moat-cailin": [
+    1670,
+    3390
+   ],
+   "greywater-watch": [
+    1561,
+    3641
+   ],
+   "the-twins": [
+    1587,
+    3832
+   ],
+   "the-eyrie": [
+    2075,
+    3986
+   ],
+   "gulltown": [
+    2419,
+    4069
+   ],
+   "riverrun": [
+    1520,
+    4162
+   ],
+   "raventree-hall": [
+    1547,
+    4087
+   ],
+   "inn-at-the-crossroads": [
+    1838,
+    4168
+   ],
+   "harrenhal": [
+    1823,
+    4282
+   ],
+   "saltpans": [
+    1980,
+    4229
+   ],
+   "whitewalls": [
+    1864,
+    4313
+   ],
+   "stoney-sept": [
+    1571,
+    4434
+   ],
+   "pyke": [
+    1051,
+    4043
+   ],
+   "casterly-rock": [
+    1027,
+    4476
+   ],
+   "lannisport": [
+    1026,
+    4501
+   ],
+   "golden-tooth": [
+    1296,
+    4309
+   ],
+   "kings-landing": [
+    1955,
+    4620
+   ],
+   "dragonstone": [
+    2346,
+    4406
+   ],
+   "storms-end": [
+    2256,
+    4957
+   ],
+   "summerhall": [
+    1910,
+    5020
+   ],
+   "tarth": [
+    2413,
+    4918
+   ],
+   "highgarden": [
+    1266,
+    5082
+   ],
+   "oldtown": [
+    1031,
+    5360
+   ],
+   "ashford": [
+    1563,
+    5025
+   ],
+   "yronwood": [
+    1784,
+    5395
+   ],
+   "sunspear": [
+    2404,
+    5599
+   ],
+   "water-gardens": [
+    2394,
+    5614
+   ],
+   "hardhome": [
+    2150,
+    2031
+   ],
+   "fist-of-the-first-men": [
+    1677,
+    2058
+   ],
+   "nightfort": [
+    1858,
+    2244
+   ]
+  }
+ },
+ "places": [
+  {
+   "id": "castle-black",
+   "name": "Castle Black",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "At the Wall, Sam guides them to Coldhands and returns to the Night's Watch's headquarters at Castle Black, having sworn to keep Bran's survival secret even from Jon Snow, Bran's bastard brother and Sam's fellow Watchman."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363780",
+     "source_title": "A Wiki of Ice and Fire: Castle Black",
+     "quote": "Jon Snow and Samwell Tarly are trained by Ser Alliser Thorne as recruits of the Night's Watch at Castle Black."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363780",
+     "source_title": "A Wiki of Ice and Fire: Castle Black",
+     "quote": "Two hundred men from Castle Black accompany Lord Commander Mormont during the great ranging north of the Wall."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363780",
+     "source_title": "A Wiki of Ice and Fire: Castle Black",
+     "quote": "Samwell searches in Castle Black's library for information about the Others."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363780",
+     "source_title": "A Wiki of Ice and Fire: Castle Black",
+     "quote": "Castle Black hosts the army of King Stannis."
+    }
+   ]
+  },
+  {
+   "id": "eastwatch",
+   "name": "Eastwatch-by-the-Sea",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363806",
+     "source_title": "A Wiki of Ice and Fire: Eastwatch-by-the-Sea",
+     "quote": "There are fewer than two hundred men stationed at Eastwatch under the command of Cotter Pyke."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363806",
+     "source_title": "A Wiki of Ice and Fire: Eastwatch-by-the-Sea",
+     "quote": "Tyrion, the acting Hand of the King, sends Janos Slynt and Allar Deem to join the Night's Watch, discreetly arranging for Allar to be tossed from Summer's Dream while the carrack sails for Eastwatch."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363806",
+     "source_title": "A Wiki of Ice and Fire: Eastwatch-by-the-Sea",
+     "quote": "Free folk are said to be massing near Eastwatch, and Maester Aemon sends ravens from Castle Black to warn Eastwatch and the Shadow Tower that Thenn raiders led by Styr are south of the Wall."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363806",
+     "source_title": "A Wiki of Ice and Fire: Eastwatch-by-the-Sea",
+     "quote": "Aboard Blackbird, Samwell Tarly, Maester Aemon, and Dareon sail from Eastwatch to Braavos."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363806",
+     "source_title": "A Wiki of Ice and Fire: Eastwatch-by-the-Sea",
+     "quote": "Lord Davos Seaworth and Salladhor Saan sail from Eastwatch for White Harbor, while Selyse and her queen's men travel from Eastwatch to Castle Black."
+    }
+   ]
+  },
+  {
+   "id": "shadow-tower",
+   "name": "Shadow Tower",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363824",
+     "source_title": "A Wiki of Ice and Fire: Shadow Tower",
+     "quote": "Ser Denys Mallister writes that increasing numbers of wildlings are slipping past the Shadow Tower, and his rangers find abandoned villages beyond the Wall."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363824",
+     "source_title": "A Wiki of Ice and Fire: Shadow Tower",
+     "quote": "Jeor Mormont, Lord Commander of the Night's Watch, considers re-garrisoning Stonedoor using men from the Shadow Tower."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363824",
+     "source_title": "A Wiki of Ice and Fire: Shadow Tower",
+     "quote": "Qhorin's second-in-command, Blane, commands the Shadow Tower men in his absence during the fight at the Fist."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363824",
+     "source_title": "A Wiki of Ice and Fire: Shadow Tower",
+     "quote": "The Weeper is said to be gathering free folk to cross the Bridge of Skulls and threaten the Shadow Tower."
+    }
+   ]
+  },
+  {
+   "id": "crasters-keep",
+   "name": "Craster's Keep",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=358525",
+     "source_title": "A Wiki of Ice and Fire: Craster's Keep",
+     "quote": "The Night's Watch stays at Craster's Keep during their great ranging north of the Wall."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=358525",
+     "source_title": "A Wiki of Ice and Fire: Craster's Keep",
+     "quote": "Plotting to mutiny against the Lord Commander, Chett decides he will claim Craster's Keep and wives for himself."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=358525",
+     "source_title": "A Wiki of Ice and Fire: Craster's Keep",
+     "quote": "The betrayers from the Night's Watch reside at Craster's Keep."
+    }
+   ]
+  },
+  {
+   "id": "moles-town",
+   "name": "Mole's Town",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350825",
+     "source_title": "A Wiki of Ice and Fire: Mole's Town",
+     "quote": "The sword's pommel is decorated with garnets purchased by Samwell Tarly in Mole's Town."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350825",
+     "source_title": "A Wiki of Ice and Fire: Mole's Town",
+     "quote": "Before embarking on the great ranging, many rangers go drinking and whoring in Mole's Town."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350825",
+     "source_title": "A Wiki of Ice and Fire: Mole's Town",
+     "quote": "Having escaped from Styr at Queenscrown, Jon warns the people of Mole's Town of the upcoming attack by raiders of the free folk and Thenns, with three quarters of the villagers choosing to escape to Castle Black."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350825",
+     "source_title": "A Wiki of Ice and Fire: Mole's Town",
+     "quote": "After the battle beneath the Wall, Stannis Baratheon investigates Mole's Town."
+    }
+   ]
+  },
+  {
+   "id": "queenscrown",
+   "name": "Queenscrown",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359415",
+     "source_title": "A Wiki of Ice and Fire: Queenscrown",
+     "quote": "Bran Stark, Hodor, and Meera Reed and Jojen Reed stop at Queenscrown on their march to the Wall."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359415",
+     "source_title": "A Wiki of Ice and Fire: Queenscrown",
+     "quote": "Exploring the vicinity of Castle Black, Stannis Baratheon travels the kingsroad almost as far as Queenscrown."
+    }
+   ]
+  },
+  {
+   "id": "last-hearth",
+   "name": "Last Hearth",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360927",
+     "source_title": "A Wiki of Ice and Fire: Last Hearth",
+     "quote": "In the absence of its lord, Last Hearth is administered by joint castellans, Mors Crowfood and Hother Whoresbane, uncles of the Greatjon."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360927",
+     "source_title": "A Wiki of Ice and Fire: Last Hearth",
+     "quote": "Bran and his companions consider stealing horses and riding to Last Hearth, but Bran decides they should find the three-eyed crow beyond the Wall instead."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360927",
+     "source_title": "A Wiki of Ice and Fire: Last Hearth",
+     "quote": "It is unknown who holds Last Hearth in the brothers' absence."
+    }
+   ]
+  },
+  {
+   "id": "deepwood-motte",
+   "name": "Deepwood Motte",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=344437",
+     "source_title": "A Wiki of Ice and Fire: Deepwood Motte",
+     "quote": "Asha Greyjoy is sent by her father Balon, Lord of the Iron Islands, to attack Deepwood Motte from the north, and she captures it with a thousand ironborn after a moon's turn."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=344437",
+     "source_title": "A Wiki of Ice and Fire: Deepwood Motte",
+     "quote": "Maester Aemon sends a raven to Deepwood Motte and other northern seats in a plea for help to defend Castle Black from wildlings."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=344437",
+     "source_title": "A Wiki of Ice and Fire: Deepwood Motte",
+     "quote": "Following the selection of Euron Greyjoy as King of the Isles and the North at the kingsmoot on Old Wyk, Asha returns to Deepwood Motte with Lady Glover, whose children remain at Ten Towers."
+    }
+   ]
+  },
+  {
+   "id": "winterfell",
+   "name": "Winterfell",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Game_of_Thrones&oldid=1387552979",
+     "source_title": "Wikipedia: A Game of Thrones",
+     "quote": "After the death of Lord Jon Arryn, King Robert Baratheon recruits his childhood friend Eddard \"Ned\" Stark, the lord of the northern castle of Winterfell, to replace Arryn as Hand of the King and betroths his son Joffrey to Ned's daughter Sansa."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Clash_of_Kings&oldid=1384231488",
+     "source_title": "Wikipedia: A Clash of Kings",
+     "quote": "Theon betrays Robb and attacks Winterfell, taking the castle and capturing Bran and the youngest Stark, Rickon."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Dance_with_Dragons&oldid=1386507747",
+     "source_title": "Wikipedia: A Dance with Dragons",
+     "quote": "Mance, thanks to Melisandre's magic, is alive, and he is sent to the Starks' ancestral castle, Winterfell, now occupied by the Boltons, to rescue Arya."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363772",
+     "source_title": "A Wiki of Ice and Fire: Winterfell",
+     "quote": "The surviving women and children of Winterfell are taken to the Dreadfort by Ramsay Snow, who also holds Theon Greyjoy as a hostage."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363772",
+     "source_title": "A Wiki of Ice and Fire: Winterfell",
+     "quote": "Asha Greyjoy informs Lord Rodrik Harlaw that when she and her ironborn searched Winterfell for Theon they found only scattered bodies scavenged by wolves."
+    }
+   ]
+  },
+  {
+   "id": "the-dreadfort",
+   "name": "The Dreadfort",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360976",
+     "source_title": "A Wiki of Ice and Fire: Dreadfort",
+     "quote": "Dreadfort men under the command of Lord Roose Bolton join the northern host called by Robb Stark at Winterfell."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360976",
+     "source_title": "A Wiki of Ice and Fire: Dreadfort",
+     "quote": "Lady Donella Hornwood learns that Ramsay Snow, the bastard son of Roose, is massing men at the Dreadfort."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360976",
+     "source_title": "A Wiki of Ice and Fire: Dreadfort",
+     "quote": "According to Big Walder Frey, the women and children who survived the sack of Winterfell, which allegedly was caused by Theon's ironborn, were taken to safety at the Dreadfort by the Bastard of Bolton."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360976",
+     "source_title": "A Wiki of Ice and Fire: Dreadfort",
+     "quote": "Ramsay serves as castellan of the Dreadfort, while Beth Cassel, Turnip, Palla, Bandy, Shyra (respectively, the daughters of Rodrik Cassel, Gage, Farlen, and Joseth), Kyra, and Old Nan remains captives at the Dreadfort."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360976",
+     "source_title": "A Wiki of Ice and Fire: Dreadfort",
+     "quote": "Arnolf writes to Stannis Baratheon at Castle Black that the Dreadfort is weakly garrisoned with fewer than fifty men, half of them servants."
+    }
+   ]
+  },
+  {
+   "id": "torrhens-square",
+   "name": "Torrhen's Square",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350901",
+     "source_title": "A Wiki of Ice and Fire: Torrhen's Square",
+     "quote": "With Ser Helman Tallhart, the Master of Torrhen's Square, and the best Tallhart men on campaign with Robb Stark in the south, the castle is left in the hands of its castellan, Helman's brother Leobald."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350901",
+     "source_title": "A Wiki of Ice and Fire: Torrhen's Square",
+     "quote": "Maester Aemon sends a raven to Torrhen's Square in a plea for help to defend Castle Black from wildlings."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350901",
+     "source_title": "A Wiki of Ice and Fire: Torrhen's Square",
+     "quote": "Dagmer holds captive the surviving Tallharts at Torrhen's Square."
+    }
+   ]
+  },
+  {
+   "id": "barrowton",
+   "name": "Barrowton",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363808",
+     "source_title": "A Wiki of Ice and Fire: Barrowton",
+     "quote": "Barbrey Dustin, the Lady of Barrowton, sends a minimal number of troops from Barrowton when Robb Stark marches south to rescue his father, Lord Eddard Stark."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363808",
+     "source_title": "A Wiki of Ice and Fire: Barrowton",
+     "quote": "Barrowton men in service to House Dustin are slain during the Red Wedding."
+    }
+   ]
+  },
+  {
+   "id": "moat-cailin",
+   "name": "Moat Cailin",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359305",
+     "source_title": "A Wiki of Ice and Fire: Moat Cailin",
+     "quote": "Lord Eddard Stark, the Hand of the King to Robert I Baratheon, instructs his wife Catelyn to have Ser Helman Tallhart and Galbart Glover fortify Moat Cailin with a hundred bowmen each."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359305",
+     "source_title": "A Wiki of Ice and Fire: Moat Cailin",
+     "quote": "Victarion Greyjoy, Lord Captain of the Iron Fleet, is sent by his brother Balon, Lord of the Iron Islands, to take Moat Cailin."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359305",
+     "source_title": "A Wiki of Ice and Fire: Moat Cailin",
+     "quote": "At Hag's Mire, upon receiving the news of Balon's death at Pyke from the captain of the Myraham, Robb plans to march on Moat Cailin."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359305",
+     "source_title": "A Wiki of Ice and Fire: Moat Cailin",
+     "quote": "Upon hearing of Balon's death and the return of his hated brother, Euron, Victarion leaves a token force to defend Moat Cailin under the command of Ralf Kenning and returns to the Iron Islands with his fleet to decide on the succession."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359305",
+     "source_title": "A Wiki of Ice and Fire: Moat Cailin",
+     "quote": "Men from Houses Ryswell and Dustin surprise the remaining ironmen on the Fever River and burn their longships, cutting off the garrison of Moat Cailin from naval support."
+    }
+   ]
+  },
+  {
+   "id": "greywater-watch",
+   "name": "Greywater Watch",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363832",
+     "source_title": "A Wiki of Ice and Fire: Greywater Watch",
+     "quote": "Robb Stark sends word to Lord Howland Reed at Greywater Watch to have the crannogmen defend the Neck if Lord Tywin Lannister marches up the causeway."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363832",
+     "source_title": "A Wiki of Ice and Fire: Greywater Watch",
+     "quote": "At Greywater, Jojen Reed dreams of black waves of salt water overcoming Winterfell."
+    }
+   ]
+  },
+  {
+   "id": "the-twins",
+   "name": "The Twins",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350905",
+     "source_title": "A Wiki of Ice and Fire: Twins",
+     "quote": "Hoster Tully, the Lord Paramount of the Trident, is ill at Riverrun and does not attend the wedding of Walder and his eighth wife, Lady Joyeuse Erenford, at the Twins."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350905",
+     "source_title": "A Wiki of Ice and Fire: Twins",
+     "quote": "Having gathered his host to the Twins, Roose Bolton marries Walda Frey, one of Lord Walder's granddaughters, in a ceremony at the Twins."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350905",
+     "source_title": "A Wiki of Ice and Fire: Twins",
+     "quote": "Lords Tytos Brax and Regenard Estren are held captive at the Twins after the battle in the Whispering Wood."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350905",
+     "source_title": "A Wiki of Ice and Fire: Twins",
+     "quote": "Captives held at the Twins include the Greatjon and Ser Marq Piper."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350905",
+     "source_title": "A Wiki of Ice and Fire: Twins",
+     "quote": "Roose Bolton marches from the Twins to Moat Cailin via the causeway."
+    }
+   ]
+  },
+  {
+   "id": "the-eyrie",
+   "name": "The Eyrie",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "At the Eyrie, Sansa is disguised as an illegitimate daughter of Littlefinger, and Littlefinger and Lysa are married."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Feast_for_Crows&oldid=1384537627",
+     "source_title": "Wikipedia: A Feast for Crows",
+     "quote": "In the remote castle of the Eyrie, Sansa poses as Littlefinger's illegitimate daughter Alayne Stone, befriending the young Lord Robert Arryn, managing the household, and receiving informal training in politics."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362628",
+     "source_title": "A Wiki of Ice and Fire: Eyrie",
+     "quote": "After the death in King's Landing of Jon Arryn, Lord of the Eyrie and Hand of the King to Robert I Baratheon, his widow Lysa travels to the Eyrie with their young son, Lord Robert Arryn."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362628",
+     "source_title": "A Wiki of Ice and Fire: Eyrie",
+     "quote": "Ser Marwyn Belmore becomes the new captain of the guards at the Eyrie after Vardis's death."
+    }
+   ]
+  },
+  {
+   "id": "gulltown",
+   "name": "Gulltown",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=365220",
+     "source_title": "A Wiki of Ice and Fire: Gulltown",
+     "quote": "After the trial by battle of Tyrion Lannister at the Eyrie, Lady Catelyn Stark and Ser Rodrik Cassel sail from Gulltown to White Harbor."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=365220",
+     "source_title": "A Wiki of Ice and Fire: Gulltown",
+     "quote": "Conwy brings men from a lord's dungeon near Gulltown to Castle Black as recruits for the Night's Watch."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=365220",
+     "source_title": "A Wiki of Ice and Fire: Gulltown",
+     "quote": "Robb Stark, King in the North, asks permission to return to the north by passing the Bloody Gate and then sailing from Gulltown for White Harbor."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=365220",
+     "source_title": "A Wiki of Ice and Fire: Gulltown",
+     "quote": "Arya Stark spots trading ships from Gulltown, including Brazen Monkey at Ragman's Harbor in Braavos."
+    }
+   ]
+  },
+  {
+   "id": "riverrun",
+   "name": "Riverrun",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "At her father's castle of Riverrun, Robb's mother, Catelyn Stark, releases the captive Jaime Lannister"
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Feast_for_Crows&oldid=1384537627",
+     "source_title": "Wikipedia: A Feast for Crows",
+     "quote": "He unsuccessfully negotiates with Robb's great-uncle Brynden \"the Blackfish\" Tully to surrender the castle of Riverrun in exchange for his nephew Edmure's life"
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353186",
+     "source_title": "A Wiki of Ice and Fire: Riverrun",
+     "quote": "With Lord Hoster Tully ill at the start of the War of the Five Kings, Ser Edmure Tully is defeated by Ser Jaime Lannister in a battle under the walls of Riverrun."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353186",
+     "source_title": "A Wiki of Ice and Fire: Riverrun",
+     "quote": "Lord Hoster's solar in the keep of Riverrun is used as his sickroom."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353186",
+     "source_title": "A Wiki of Ice and Fire: Riverrun",
+     "quote": "After resolving the siege of Raventree, Jaime is said to have disappeared while returning to Riverrun."
+    }
+   ]
+  },
+  {
+   "id": "raventree-hall",
+   "name": "Raventree Hall",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350849",
+     "source_title": "A Wiki of Ice and Fire: Raventree Hall",
+     "quote": "Tytos leads the liberation of Raventree Hall."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350849",
+     "source_title": "A Wiki of Ice and Fire: Raventree Hall",
+     "quote": "Raventree is besieged by Lord Jonos Bracken after the Red Wedding."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350849",
+     "source_title": "A Wiki of Ice and Fire: Raventree Hall",
+     "quote": "In the wake of the Red Wedding and the submissions of Riverrun and Seagard, Raventree Hall is the last castle in the riverlands refusing to declare for King Tommen I Baratheon."
+    }
+   ]
+  },
+  {
+   "id": "inn-at-the-crossroads",
+   "name": "Inn at the Crossroads",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359435",
+     "source_title": "A Wiki of Ice and Fire: Inn at the crossroads",
+     "quote": "While traveling to King's Landing, the royal retinue of King Robert I Baratheon stops at the crossroads inn."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359435",
+     "source_title": "A Wiki of Ice and Fire: Inn at the crossroads",
+     "quote": "Brienne of Tarth, Podrick Payne, Meribald, and Ser Hyle Hunt travel to the crossroads inn."
+    }
+   ]
+  },
+  {
+   "id": "harrenhal",
+   "name": "Harrenhal",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Clash_of_Kings&oldid=1384231488",
+     "source_title": "Wikipedia: A Clash of Kings",
+     "quote": "The recruits are attacked by Lannister forces, and the survivors are taken to the gigantic castle of Harrenhal, which is controlled by Joffrey's grandfather, Tywin Lannister."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362305",
+     "source_title": "A Wiki of Ice and Fire: Harrenhal",
+     "quote": "Ser Willis Wode, a landed knight sworn to Lady Shella Whent of Harrenhal, supports Catelyn Stark when she arrests Tyrion Lannister at the crossroads inn."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362305",
+     "source_title": "A Wiki of Ice and Fire: Harrenhal",
+     "quote": "Vargo had changed his allegiance from House Lannister to House Stark in order to receive Harrenhal from Roose Bolton."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362305",
+     "source_title": "A Wiki of Ice and Fire: Harrenhal",
+     "quote": "It is reported that Harrenhal's former lady, Shella Whent, has died, as has Gregor Clegane."
+    }
+   ]
+  },
+  {
+   "id": "saltpans",
+   "name": "Saltpans",
+   "links": [
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Feast_for_Crows&oldid=1384537627",
+     "source_title": "Wikipedia: A Feast for Crows",
+     "quote": "someone wearing his helmet has massacred the town of Saltpans."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362911",
+     "source_title": "A Wiki of Ice and Fire: Saltpans",
+     "quote": "Arya Stark arrives at Saltpans six days after abandoning the dying Sandor Clegane by the banks of the Trident."
+    }
+   ]
+  },
+  {
+   "id": "whitewalls",
+   "name": "Whitewalls",
+   "links": [
+    {
+     "title_id": "the-mystery-knight",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=Tales_of_Dunk_and_Egg&oldid=1385205054",
+     "source_title": "Wikipedia: Tales of Dunk and Egg",
+     "quote": "a group of knights and minor lords traveling to a tourney in honor of the wedding of Lord Butterwell of Whitewalls to a Frey of the Crossing, wherein the victor's prize is a dragon egg."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=359405",
+     "source_title": "A Wiki of Ice and Fire: Whitewalls",
+     "quote": "While recounting the history of the inn at the crossroads, Septon Meribald tells Brienne of Tarth about the ferry that once brought travelers across the Trident towards Whitewalls."
+    }
+   ]
+  },
+  {
+   "id": "stoney-sept",
+   "name": "Stoney Sept",
+   "links": [
+    {
+     "title_id": "the-mystery-knight",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=Tales_of_Dunk_and_Egg&oldid=1385205054",
+     "source_title": "Wikipedia: Tales of Dunk and Egg",
+     "quote": "The story begins with Dunk and Egg leaving Stoney Sept for Winterfell"
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=356759",
+     "source_title": "A Wiki of Ice and Fire: Stoney Sept",
+     "quote": "Besides Lannisters, Stoney Sept is also attacked by Brave Companions and northmen, possibly Karstarks, as they were searching for Ser Jaime Lannister."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=356759",
+     "source_title": "A Wiki of Ice and Fire: Stoney Sept",
+     "quote": "Lord Jon Connington is still haunted by the Battle of the Bells and its outcome, recalling a conversation with the late Ser Myles Toyne from his first year of exile, in which Jon explained he could not have done more at Stoney Sept."
+    }
+   ]
+  },
+  {
+   "id": "pyke",
+   "name": "Pyke",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353612",
+     "source_title": "A Wiki of Ice and Fire: Pyke",
+     "quote": "Ravens are sent from Riverrun and Seagard to Pyke informing Lord Balon Greyjoy that his son, Theon, is being sent as an envoy of Robb Stark, King in the North, but there is no reply."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353612",
+     "source_title": "A Wiki of Ice and Fire: Pyke",
+     "quote": "It is reported that Balon, King of the Isles and the North, fell to his death when a bridge of Pyke was torn to pieces by the wind."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353612",
+     "source_title": "A Wiki of Ice and Fire: Pyke",
+     "quote": "Euron Crow's Eye has Maester Wendamyr summon the ironborn captains to Pyke to pay homage to their new king, but his brother Aeron instead calls for a kingsmoot on Old Wyk."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353612",
+     "source_title": "A Wiki of Ice and Fire: Pyke",
+     "quote": "Erik Ironmaker serves as castellan of Pyke and Lord Steward of the Iron Islands."
+    }
+   ]
+  },
+  {
+   "id": "casterly-rock",
+   "name": "Casterly Rock",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363778",
+     "source_title": "A Wiki of Ice and Fire: Casterly Rock",
+     "quote": "King Robert I Baratheon tells Lord Eddard Stark that he wanted young Robert Arryn to be fostered at Casterly Rock with Lord Tywin Lannister, but the boy's mother took him to the Eyrie after the death of Lord Jon Arryn."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363778",
+     "source_title": "A Wiki of Ice and Fire: Casterly Rock",
+     "quote": "Ser Stafford Lannister begins raising a new host at Casterly Rock during the War of the Five Kings, but Stafford and his westermen are defeated by Robb Stark, King in the North, in the Battle of Oxcross."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363778",
+     "source_title": "A Wiki of Ice and Fire: Casterly Rock",
+     "quote": "Tyrion demands his birthright of the lordship of Casterly Rock from his father, Tywin, and is harshly rejected."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363778",
+     "source_title": "A Wiki of Ice and Fire: Casterly Rock",
+     "quote": "Tywin's brother, Ser Kevan Lannister, advises Cersei to return to the westerlands to take her place as Lady of Casterly Rock."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363778",
+     "source_title": "A Wiki of Ice and Fire: Casterly Rock",
+     "quote": "An exile in Essos, Tyrion considers hiring the Golden Company to help him gain Casterly Rock, but the sellswords follow Prince Aegon Targaryen."
+    }
+   ]
+  },
+  {
+   "id": "lannisport",
+   "name": "Lannisport",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363791",
+     "source_title": "A Wiki of Ice and Fire: Lannisport",
+     "quote": "Tyrion Lannister tells Lord Commander Jeor Mormont that the fisherfolk of Lannisport often claim to have seen merlings."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363791",
+     "source_title": "A Wiki of Ice and Fire: Lannisport",
+     "quote": "Ser Stafford Lannister gathers a new host of westermen, including green boys from the stews of Lannisport, to Casterly Rock."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363791",
+     "source_title": "A Wiki of Ice and Fire: Lannisport",
+     "quote": "Stafford's son, Ser Daven Lannister, reforms survivors of Oxcross at Lannisport."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363791",
+     "source_title": "A Wiki of Ice and Fire: Lannisport",
+     "quote": "Lady Genna Lannister brings the singer Whitesmile Wat from Lannisport to the siege of Riverrun by Daven, the new Warden of the West."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363791",
+     "source_title": "A Wiki of Ice and Fire: Lannisport",
+     "quote": "The crew of the Shy Maid is told that Tyrion is Hugor Hill, also called Yollo, a bastard from Lannisport."
+    }
+   ]
+  },
+  {
+   "id": "golden-tooth",
+   "name": "Golden Tooth",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362432",
+     "source_title": "A Wiki of Ice and Fire: Golden Tooth",
+     "quote": "Ser Edmure Tully sends Lords Piper and Vance to prevent any Lannister army from entering the riverlands from the Golden Tooth."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362432",
+     "source_title": "A Wiki of Ice and Fire: Golden Tooth",
+     "quote": "During the War of the Five Kings, an army under the command of Robb Stark, King in the North, circumvents the Golden Tooth and the passage it blocks by using a narrow goat path found by his direwolf, Grey Wind."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362432",
+     "source_title": "A Wiki of Ice and Fire: Golden Tooth",
+     "quote": "In return for the release of Robett Glover from Duskendale, Robb tasks Ser Rolph Spicer with bringing Martyn Lannister to the Golden Tooth."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=362432",
+     "source_title": "A Wiki of Ice and Fire: Golden Tooth",
+     "quote": "Jaime worries the group will be attacked by the outlaws of Lord Beric Dondarrion before they reach the Golden Tooth."
+    }
+   ]
+  },
+  {
+   "id": "kings-landing",
+   "name": "King's Landing",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Game_of_Thrones&oldid=1387552979",
+     "source_title": "Wikipedia: A Game of Thrones",
+     "quote": "Ned brings his daughters Sansa and Arya to the capital city, King's Landing, and finds that Robert is an ineffective king whose only interests are hunting, drinking, and womanizing."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Clash_of_Kings&oldid=1384231488",
+     "source_title": "Wikipedia: A Clash of Kings",
+     "quote": "Tyrion Lannister, Joffrey's uncle, arrives at the capital city of King's Landing as acting Hand of the King, the senior adviser to Joffrey's reign."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "King's Landing, Dragonstone, and the Eyrie"
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Feast_for_Crows&oldid=1384537627",
+     "source_title": "Wikipedia: A Feast for Crows",
+     "quote": "The eight-year-old King Tommen Baratheon now rules in King's Landing under the regency of his mother, Cersei Lannister."
+    },
+    {
+     "title_id": "the-princess-and-the-queen",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=The_Princess_and_the_Queen&oldid=1384395009",
+     "source_title": "Wikipedia: The Princess and the Queen",
+     "quote": "After some early Greens victories, Rhaenyra successfully turns the tide and assaults the capital, King's Landing, expelling Aegon II and capturing large numbers of Green members."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360548",
+     "source_title": "A Wiki of Ice and Fire: King's Landing",
+     "quote": "As atonement for her confessed sins, Cersei walks from the Great Sept of Baelor to the Red Keep amidst the smallfolk of King's Landing."
+    }
+   ]
+  },
+  {
+   "id": "dragonstone",
+   "name": "Dragonstone",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "King's Landing, Dragonstone, and the Eyrie"
+    },
+    {
+     "title_id": "the-princess-and-the-queen",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=The_Princess_and_the_Queen&oldid=1384395009",
+     "source_title": "Wikipedia: The Princess and the Queen",
+     "quote": "After Rhaenyra is crowned Queen by her followers at the Targaryen ancestral seat of Dragonstone"
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360497",
+     "source_title": "A Wiki of Ice and Fire: Dragonstone",
+     "quote": "Stannis Baratheon, Lord of Dragonstone, leaves King's Landing to return to his seat shortly after King Robert I Baratheon travels north to offer the position of Hand of the King to Lord Eddard Stark after the death of Lord Jon Arryn."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360497",
+     "source_title": "A Wiki of Ice and Fire: Dragonstone",
+     "quote": "During the War of the Five Kings, the poor lands of Dragonstone give King Stannis too few supporters to engage the Lannisters in battle."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360497",
+     "source_title": "A Wiki of Ice and Fire: Dragonstone",
+     "quote": "She judges that two thousand Lannister soldiers should be enough to battle the small garrison which Stannis had left behind on Dragonstone, and so keeps them in King's Landing to await the arrival of Lord Paxter Redwyne's ships which will carry them from Blackwater Bay to Dragonstone."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360497",
+     "source_title": "A Wiki of Ice and Fire: Dragonstone",
+     "quote": "Loras remains at Dragonstone, still dying of his wounds."
+    }
+   ]
+  },
+  {
+   "id": "storms-end",
+   "name": "Storm's End",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Clash_of_Kings&oldid=1384231488",
+     "source_title": "Wikipedia: A Clash of Kings",
+     "quote": "Stannis besieges Storm's End, Renly's castle"
+    },
+    {
+     "title_id": "the-princess-and-the-queen",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=The_Princess_and_the_Queen&oldid=1384395009",
+     "source_title": "Wikipedia: The Princess and the Queen",
+     "quote": "her second-born son Lucerys Velaryon and King Aegon's younger brother Aemond both take their dragons to seek the support of Lord Borros Baratheon of Storm's End."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363782",
+     "source_title": "A Wiki of Ice and Fire: Storm's End",
+     "quote": "Renly Baratheon, Lord of Storm's End, flees King's Landing with Ser Loras Tyrell after the death of his brother, King Robert I Baratheon."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363782",
+     "source_title": "A Wiki of Ice and Fire: Storm's End",
+     "quote": "Following the Battle of the Blackwater, Stannis's Hand of the King, Lord Alester Florent, negotiates with the Iron Throne, suggesting that Stannis relinquish his royal claim and remain Lord of Dragonstone and Storm's End."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363782",
+     "source_title": "A Wiki of Ice and Fire: Storm's End",
+     "quote": "Princess Arianne Martell believes that Storm's End belongs to Tommen Baratheon by rights, but that the Iron Throne belongs to his elder sister, Myrcella Baratheon."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363782",
+     "source_title": "A Wiki of Ice and Fire: Storm's End",
+     "quote": "Lord Jon Connington next plans to take Storm's End by guile and use it as a base for further campaigns of the Golden Company."
+    }
+   ]
+  },
+  {
+   "id": "summerhall",
+   "name": "Summerhall",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363538",
+     "source_title": "A Wiki of Ice and Fire: Summerhall",
+     "quote": "Tyrion Lannister expects that when Doran Martell comes to King's Landing, he will take the Boneway from Dorne to Summerhall, and then head east to the kingsroad."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363538",
+     "source_title": "A Wiki of Ice and Fire: Summerhall",
+     "quote": "Maester Aemon tells Samwell Tarly how he believed Rhaegar Targaryen's birth during the tragedy at Summerhall was a sign he was the prince that was promised], but that Rhaegar later thought the prophecy was associated with his own son, Aegon."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363538",
+     "source_title": "A Wiki of Ice and Fire: Summerhall",
+     "quote": "While Barristan believes the woods witch died in the tragedy of Summerhall, his description of her fits the still-living ghost of High Heart."
+    }
+   ]
+  },
+  {
+   "id": "tarth",
+   "name": "Tarth",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360971",
+     "source_title": "A Wiki of Ice and Fire: Tarth",
+     "quote": "Lord Selwyn Tarth meets with Ser Davos Seaworth in a midnight grove, where Davos is informed House Tarth will not support Stannis Baratheon during the War of the Five Kings."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360971",
+     "source_title": "A Wiki of Ice and Fire: Tarth",
+     "quote": "Catelyn Stark tasks Brienne of Tarth with bringing Ser Jaime Lannister from Riverrun to King's Landing."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360971",
+     "source_title": "A Wiki of Ice and Fire: Tarth",
+     "quote": "In Maidenpool, Lord Randyll Tarly threatens to have Brienne shipped back to Tarth, but Brienne reveals she is on the king's business by searching for Sansa Stark."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360971",
+     "source_title": "A Wiki of Ice and Fire: Tarth",
+     "quote": "It is reported that sellswords have landed on Tarth and other islands in the narrow sea after the Golden Company begins their invasion."
+    }
+   ]
+  },
+  {
+   "id": "highgarden",
+   "name": "Highgarden",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363784",
+     "source_title": "A Wiki of Ice and Fire: Highgarden",
+     "quote": "Following the death of King Robert I Baratheon, his younger brother, Lord Renly Baratheon, and Ser Loras Tyrell flee from King's Landing to Highgarden."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363784",
+     "source_title": "A Wiki of Ice and Fire: Highgarden",
+     "quote": "Brienne of Tarth travels to Highgarden, where she is falsely courted by some of Renly's men."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363784",
+     "source_title": "A Wiki of Ice and Fire: Highgarden",
+     "quote": "Many of the Tyrells travel to King's Landing, but Willas Tyrell, Mace's heir, remains at Highgarden."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363784",
+     "source_title": "A Wiki of Ice and Fire: Highgarden",
+     "quote": "Ser Garlan Tyrell takes half the Tyrell strength back to Highgarden, and Lady Olenna Tyrell returns as well."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363784",
+     "source_title": "A Wiki of Ice and Fire: Highgarden",
+     "quote": "Laswell Peake tells Aegon Targaryen that the power of Highgarden may not be what Lord Mace Tyrell imagines, as some members of the Golden Company still have friends in the Reach."
+    }
+   ]
+  },
+  {
+   "id": "oldtown",
+   "name": "Oldtown",
+   "links": [
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Feast_for_Crows&oldid=1384537627",
+     "source_title": "Wikipedia: A Feast for Crows",
+     "quote": "Pate is a young apprentice at the Citadel in Oldtown, training to become a member of the ancient order of scholar-healers known as maesters."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363775",
+     "source_title": "A Wiki of Ice and Fire: Oldtown",
+     "quote": "The Myraham sails from Oldtown to Seagard."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363775",
+     "source_title": "A Wiki of Ice and Fire: Oldtown",
+     "quote": "Carellen Smallwood is sent from Acorn Hall to safety at a motherhouse in Oldtown during the War of the Five Kings."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363775",
+     "source_title": "A Wiki of Ice and Fire: Oldtown",
+     "quote": "Jon Snow sends from Castle Black to Oldtown for more maesters."
+    }
+   ]
+  },
+  {
+   "id": "ashford",
+   "name": "Ashford",
+   "links": [
+    {
+     "title_id": "the-hedge-knight",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=Tales_of_Dunk_and_Egg&oldid=1385205054",
+     "source_title": "Wikipedia: Tales of Dunk and Egg",
+     "quote": "Eager to claim the glory Arlan never found in life, Dunk sets out for the town of Ashford, where a tourney is due to be held."
+    }
+   ]
+  },
+  {
+   "id": "yronwood",
+   "name": "Yronwood",
+   "links": [
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=350929",
+     "source_title": "A Wiki of Ice and Fire: Yronwood",
+     "quote": "Anders Yronwood, Lord of Yronwood, feasts Ser Balon Swann for a fortnight at Yronwood during the Kingsguard's journey from King's Landing to Sunspear."
+    }
+   ]
+  },
+  {
+   "id": "sunspear",
+   "name": "Sunspear",
+   "links": [
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360966",
+     "source_title": "A Wiki of Ice and Fire: Sunspear",
+     "quote": "Ser Balon Swann brings the Mountain's skull to the court of Doran in Sunspear."
+    }
+   ]
+  },
+  {
+   "id": "water-gardens",
+   "name": "Water Gardens",
+   "links": [
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=361025",
+     "source_title": "A Wiki of Ice and Fire: Water Gardens",
+     "quote": "Doran Martell, Prince of Dorne, resides at the tranquil Water Gardens, having moved there from Sunspear in ."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=361025",
+     "source_title": "A Wiki of Ice and Fire: Water Gardens",
+     "quote": "Prince Quentyn Martell recalls that while visiting his father, Doran, at the Water Gardens, Doran explained his plan to wed Quentyn to Daenerys Targaryen."
+    }
+   ]
+  },
+  {
+   "id": "hardhome",
+   "name": "Hardhome",
+   "links": [
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363843",
+     "source_title": "A Wiki of Ice and Fire: Hardhome",
+     "quote": "After Mance Rayder's force trying to get south of the Wall is defeated by Stannis Baratheon and the Night's Watch in the battle beneath the Wall, Mother Mole leads thousands of free folk to Hardhome."
+    }
+   ]
+  },
+  {
+   "id": "fist-of-the-first-men",
+   "name": "Fist of the First Men",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=345376",
+     "source_title": "A Wiki of Ice and Fire: Fist of the First Men",
+     "quote": "The Night's Watch make their camp at the Fist of the First Men while searching for the wildling masses during the great ranging."
+    }
+   ]
+  },
+  {
+   "id": "nightfort",
+   "name": "Nightfort",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363841",
+     "source_title": "A Wiki of Ice and Fire: Nightfort",
+     "quote": "Bran Stark, Hodor, and Meera and Jojen Reed arrive at the Nightfort to go beyond the Wall."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363841",
+     "source_title": "A Wiki of Ice and Fire: Nightfort",
+     "quote": "Jon Snow, the new Lord Commander of the Night's Watch, gives the Nightfort to Stannis after he demands it as payment for assisting with the wildling attack on the Wall."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363841",
+     "source_title": "A Wiki of Ice and Fire: Nightfort",
+     "quote": "After Jon cedes the Nightfort to Stannis, it is discovered that it will take half a year to make it fit for habitation."
+    }
+   ]
+  },
+  {
+   "id": "braavos",
+   "name": "Braavos",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "She takes a ship to the Free City of Braavos, where the assassin Jaqen H'ghar had told her she could find him."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Feast_for_Crows&oldid=1384537627",
+     "source_title": "Wikipedia: A Feast for Crows",
+     "quote": "Arriving in the foreign city of Braavos, Arya Stark finds her way to the cult of face-changing assassins known as the Faceless Men."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Dance_with_Dragons&oldid=1386507747",
+     "source_title": "Wikipedia: A Dance with Dragons",
+     "quote": "In the Free City of Braavos, Arya is an acolyte of the guild of assassins known as the Faceless Men."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363774",
+     "source_title": "A Wiki of Ice and Fire: Braavos",
+     "quote": "Eddard Stark, Hand of the King to Robert I Baratheon, learns that the Iron Throne borrowed money from moneylenders out of Braavos."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363774",
+     "source_title": "A Wiki of Ice and Fire: Braavos",
+     "quote": "Stannis Baratheon plans to send letters to Braavos and the other Free Cities, announcing his claim to the Iron Throne during the War of the Five Kings, and telling them about Queen Cersei Lannister's infamy."
+    }
+   ]
+  },
+  {
+   "id": "lorath",
+   "name": "Lorath",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363802",
+     "source_title": "A Wiki of Ice and Fire: Lorath",
+     "quote": "Arya Stark meets Jaqen H'ghar, who claims to be Lorathi."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363802",
+     "source_title": "A Wiki of Ice and Fire: Lorath",
+     "quote": "Because of their geographical isolation, Jon considers sending Arya to Lorath or the Port of Ibben for her own safety once she arrives."
+    }
+   ]
+  },
+  {
+   "id": "pentos",
+   "name": "Pentos",
+   "links": [
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Dance_with_Dragons&oldid=1386507747",
+     "source_title": "Wikipedia: A Dance with Dragons",
+     "quote": "the dwarf Tyrion Lannister is smuggled out of Westeros to the city of Pentos by the spymaster Varys, where he is sheltered by the merchant Illyrio Mopatis."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=361448",
+     "source_title": "A Wiki of Ice and Fire: Pentos",
+     "quote": "A Dothraki khalasar led by Khal Drogo arrives at the city, leading the magisters of Pentos to double the city guard."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=361448",
+     "source_title": "A Wiki of Ice and Fire: Pentos",
+     "quote": "Arstan Whitebeard and Strong Belwas sail from Pentos to New Ghis and then on to Qarth, where they meet Daenerys with the intent to give her transportation back to Pentos."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=361448",
+     "source_title": "A Wiki of Ice and Fire: Pentos",
+     "quote": "Led by Groleo, Illyrio's three ships sail from Qarth for Pentos with Daenerys, her people, and her three dragons aboard them."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=361448",
+     "source_title": "A Wiki of Ice and Fire: Pentos",
+     "quote": "Seastrider sails from Oldtown to Tyrosh, Pentos, Duskendale, and Maidenpool."
+    }
+   ]
+  },
+  {
+   "id": "norvos",
+   "name": "Norvos",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363813",
+     "source_title": "A Wiki of Ice and Fire: Norvos",
+     "quote": "Daenerys Targaryen passes Norvos during the journey of Khal Drogo's khalasar from Pentos to Vaes Dothrak."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363813",
+     "source_title": "A Wiki of Ice and Fire: Norvos",
+     "quote": "Areo Hotah, the captain of Doran Martell's guards, is from Norvos, where he was raised and trained."
+    }
+   ]
+  },
+  {
+   "id": "qohor",
+   "name": "Qohor",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363812",
+     "source_title": "A Wiki of Ice and Fire: Qohor",
+     "quote": "Daenerys Targaryen passes Qohor during the journey of Khal Drogo's khalasar from Pentos to Vaes Dothrak."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363812",
+     "source_title": "A Wiki of Ice and Fire: Qohor",
+     "quote": "Garin tells Arianne Martell that according to sailors in Planky Town, followers of R'hllor rioted in Qohor and tried to burn down the Black Goat."
+    }
+   ]
+  },
+  {
+   "id": "myr",
+   "name": "Myr",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363788",
+     "source_title": "A Wiki of Ice and Fire: Myr",
+     "quote": "In the Western Market of Vaes Dothrak, Daenerys Targaryen smells garlic and roast pepper in the air and is reminded days long gone in the alleys of Myr and Tyrosh, which brings a fond smile to her face."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363788",
+     "source_title": "A Wiki of Ice and Fire: Myr",
+     "quote": "Tyrion Lannister provides King Joffrey I Baratheon with a Myrish crossbow which can fire three quarrels at once."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363788",
+     "source_title": "A Wiki of Ice and Fire: Myr",
+     "quote": "When Tyrosh and Lys are on the verge of war, they both attempt to make Myr their ally."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363788",
+     "source_title": "A Wiki of Ice and Fire: Myr",
+     "quote": "Queen Regent Cersei Lannister befriends Taena of Myr, the wife of Lord Orton Merryweather."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363788",
+     "source_title": "A Wiki of Ice and Fire: Myr",
+     "quote": "Tyrion discovers that the manse of Illyrio Mopatis has wine from Myr in the cellar, and Tyrion and Illyrio drink Myrish fire wine after they depart Pentos."
+    }
+   ]
+  },
+  {
+   "id": "tyrosh",
+   "name": "Tyrosh",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363783",
+     "source_title": "A Wiki of Ice and Fire: Tyrosh",
+     "quote": "King Robert I Baratheon is in debt to several Tyroshi trading cartels."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363783",
+     "source_title": "A Wiki of Ice and Fire: Tyrosh",
+     "quote": "Theon Greyjoy spots a Tyroshi galley at Lordsport."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363783",
+     "source_title": "A Wiki of Ice and Fire: Tyrosh",
+     "quote": "Tyrosh is on the verge of going to war with Lys."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363783",
+     "source_title": "A Wiki of Ice and Fire: Tyrosh",
+     "quote": "Going by the name of Alayne Stone in the Vale of Arryn, Sansa Stark dyes her auburn hair a burnt brown with a wash from Tyrosh."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363783",
+     "source_title": "A Wiki of Ice and Fire: Tyrosh",
+     "quote": "Young Griff says his mother was Tyroshi, and they dye their hair in her memory."
+    }
+   ]
+  },
+  {
+   "id": "lys",
+   "name": "Lys",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363779",
+     "source_title": "A Wiki of Ice and Fire: Lys",
+     "quote": "One of Daenerys Targaryen's servants is Doreah, whom Magister Illyrio Mopatis of Pentos had found in a Lysene pillow house."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363779",
+     "source_title": "A Wiki of Ice and Fire: Lys",
+     "quote": "King Stannis Baratheon brings sellswords from Lys and Myr to Dragonstone."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363779",
+     "source_title": "A Wiki of Ice and Fire: Lys",
+     "quote": "A pale Lyseni, one of the Brave Companions, is killed by Nymeria's great pack of wolves."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363779",
+     "source_title": "A Wiki of Ice and Fire: Lys",
+     "quote": "Taena Merryweather tells Cersei Lannister that she has friends in Lys."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363779",
+     "source_title": "A Wiki of Ice and Fire: Lys",
+     "quote": "Edric is in hiding in Lys with his guardian and protectors."
+    }
+   ]
+  },
+  {
+   "id": "volantis",
+   "name": "Volantis",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353519",
+     "source_title": "A Wiki of Ice and Fire: Volantis",
+     "quote": "After Melisandre and Selyse Florent burn Lord Guncer Sunglass at Dragonstone, his brother and heir, the new Lord Sunglass, flees for Volantis."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=353519",
+     "source_title": "A Wiki of Ice and Fire: Volantis",
+     "quote": "Prince Quentyn Martell and his two companions, Ser Gerris Drinkwater and Ser Archibald Yronwood, search for a ship in Volantis to take them to Meereen, but have no luck."
+    }
+   ]
+  },
+  {
+   "id": "meereen",
+   "name": "Meereen",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "Meereen soon falls and, in retaliation for the murdered child slaves, Daenerys has the city's rulers put to death."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Dance_with_Dragons&oldid=1386507747",
+     "source_title": "Wikipedia: A Dance with Dragons",
+     "quote": "Daenerys has conquered the city of Meereen and banned slavery, but struggles to maintain peace among various factions within the city"
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363777",
+     "source_title": "A Wiki of Ice and Fire: Meereen",
+     "quote": "Ser Jorah Mormont advises Khal Drogo to drive his slaves to Meereen since it has suffered from a plague last year."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363777",
+     "source_title": "A Wiki of Ice and Fire: Meereen",
+     "quote": "In Qarth, Daenerys Targaryen meets Belwas, a veteran of the fighting pits of Meereen."
+    }
+   ]
+  },
+  {
+   "id": "yunkai",
+   "name": "Yunkai",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "Daenerys's army then conquers the slave city of Yunkai"
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363789",
+     "source_title": "A Wiki of Ice and Fire: Yunkai",
+     "quote": "After Daenerys's departure, Yunkai returns to slaving and begins preparing for the next conflict by hiring other sellswords, such as the Long Lances, the Windblown, and the Company of the Cat."
+    }
+   ]
+  },
+  {
+   "id": "astapor",
+   "name": "Astapor",
+   "links": [
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Storm_of_Swords&oldid=1384231497",
+     "source_title": "Wikipedia: A Storm of Swords",
+     "quote": "Daenerys Targaryen learns that large slave armies can be bought in Astapor, one of the cities of Slaver's Bay, and buys the entire host of the warrior-eunuch Unsullied by offering one of her infant dragons in exchange."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363796",
+     "source_title": "A Wiki of Ice and Fire: Astapor",
+     "quote": "The Sunblaze sails from Astapor to Qarth."
+    },
+    {
+     "title_id": "a-feast-for-crows",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363796",
+     "source_title": "A Wiki of Ice and Fire: Astapor",
+     "quote": "Princess Arianne Martell learns about a slave revolt in Astapor."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=363796",
+     "source_title": "A Wiki of Ice and Fire: Astapor",
+     "quote": "Lord Ghael brings news to Daenerys, now the queen in Meereen, that the Yunkai'i have attacked Astapor."
+    }
+   ]
+  },
+  {
+   "id": "vaes-dothrak",
+   "name": "Vaes Dothrak",
+   "links": [
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=356509",
+     "source_title": "A Wiki of Ice and Fire: Vaes Dothrak",
+     "quote": "Magister Illyrio Mopatis of Pentos is said to have friends in Vaes Dothrak."
+    },
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=356509",
+     "source_title": "A Wiki of Ice and Fire: Vaes Dothrak",
+     "quote": "Daenerys thinks that other khals would attempt to slay her meager khalasar and drag her back to Vaes Dothrak to join the dosh khaleen."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=356509",
+     "source_title": "A Wiki of Ice and Fire: Vaes Dothrak",
+     "quote": "Following the siege of Meereen, the envoy Ghael informs Daenerys that Yunkai has dispatched riders to Vaes Dothrak to bring a khalasar against her."
+    }
+   ]
+  },
+  {
+   "id": "qarth",
+   "name": "Qarth",
+   "links": [
+    {
+     "title_id": "a-clash-of-kings",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=A_Clash_of_Kings&oldid=1384231488",
+     "source_title": "Wikipedia: A Clash of Kings",
+     "quote": "At the city of Qarth, Daenerys's dragons make her notorious."
+    },
+    {
+     "title_id": "a-game-of-thrones",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360958",
+     "source_title": "A Wiki of Ice and Fire: Qarth",
+     "quote": "Samwell Tarly mentions the city to Jon Snow, telling Jon that in one of his efforts to cure Sam of his timidity Lord Randyll Tarly once brought two warlocks from Qarth to his castle at Horn Hill."
+    },
+    {
+     "title_id": "a-storm-of-swords",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360958",
+     "source_title": "A Wiki of Ice and Fire: Qarth",
+     "quote": "Jorah admits that the last report that he made to Varys had been made from Qarth."
+    },
+    {
+     "title_id": "a-dance-with-dragons",
+     "source_url": "https://awoiaf.westeros.org/index.php?oldid=360958",
+     "source_title": "A Wiki of Ice and Fire: Qarth",
+     "quote": "Xaro arrives in Meereen as a representative of Qarth to visit Queen Daenerys."
+    }
+   ]
+  }
+ ]
+}

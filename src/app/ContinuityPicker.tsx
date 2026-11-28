@@ -42,6 +42,9 @@ export function ContinuityPicker({ ds, conts, value, onChange, disabled, placeho
   const closedAt = useRef(0);
   const infos = useMemo(() => describe(ds, conts), [ds, conts]);
   const current = infos.find((i) => i.c.id === value);
+  // "All continuities" (like "All universes"): every continuity, each with its own timeline in its own card
+  const all = infos.length > 1 && !disabled;
+  const allSpan = (() => { const ys = infos.flatMap((i) => (i.first === null ? [] : [i.first, i.last!])); return ys.length ? `${Math.min(...ys)}–${Math.max(...ys)}` : ''; })();
   const hint = disabled ? 'Pick a single universe to choose a continuity.' : 'Continuity used by the In-universe and Dual-axis views. In-universe order only exists within one continuity.';
   return (
     <Tooltip open={(hover || kbd) && !open} onOpenChange={(o) => { if (!o) { setHover(false); setKbd(false); } }}>
@@ -59,7 +62,8 @@ export function ContinuityPicker({ ds, conts, value, onChange, disabled, placeho
                 {/* All names stacked in one cell: natural width = the longest, so the button doesn't jump. */}
                 <span className="grid min-w-0 flex-1 grid-cols-[minmax(0,1fr)] text-left">
                   {infos.map((i) => <span key={i.c.id} aria-hidden={i.c.id !== value} className={`col-start-1 row-start-1 truncate ${i.c.id === value ? '' : 'invisible'}`}>{i.c.name}</span>)}
-                  {!current && <span className="col-start-1 row-start-1 truncate text-muted-foreground">{placeholder}</span>}
+                  {all && <span aria-hidden={value !== 'all'} className={`col-start-1 row-start-1 truncate ${value === 'all' ? '' : 'invisible'}`}>All continuities</span>}
+                  {!current && !(all && value === 'all') && <span className="col-start-1 row-start-1 truncate text-muted-foreground">{placeholder}</span>}
                 </span>
                 <ChevronDown aria-hidden className="size-4 shrink-0 text-muted-foreground" />
               </button>
@@ -71,6 +75,15 @@ export function ContinuityPicker({ ds, conts, value, onChange, disabled, placeho
             <CommandInput placeholder={`Search ${infos.length} continuities…`} />
             <CommandList className="max-h-[min(28rem,calc(100dvh-10rem))]">
               <CommandEmpty>No continuity matches.</CommandEmpty>
+              {all && (
+                <CommandGroup>
+                  <CommandItem value="All continuities" onSelect={() => { onChange('all'); setOpen(false); }}>
+                    <Check aria-hidden className={`size-4 shrink-0 ${value === 'all' ? 'opacity-100' : 'opacity-0'}`} />
+                    <span className="min-w-0 flex-1">All continuities</span>
+                    <span className="shrink-0 text-muted-foreground tabular-nums">{infos.reduce((n, i) => n + i.titles, 0)} · {allSpan}</span>
+                  </CommandItem>
+                </CommandGroup>
+              )}
               {GROUPS.map((g) => {
                 const items = infos.filter((i) => i.group === g);
                 if (!items.length) return null;
@@ -90,7 +103,7 @@ export function ContinuityPicker({ ds, conts, value, onChange, disabled, placeho
           </Command>
         </PopoverContent>
       </Popover>
-      <TooltipContent className="max-w-xs">{current ? <><strong className="font-semibold">{current.c.name}</strong><br /></> : null}{hint}</TooltipContent>
+      <TooltipContent className="max-w-xs">{current ? <><strong className="font-semibold">{current.c.name}</strong><br /></> : value === 'all' && all ? <><strong className="font-semibold">All continuities</strong><br /></> : null}{hint}</TooltipContent>
     </Tooltip>
   );
 }

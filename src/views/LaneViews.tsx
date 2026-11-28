@@ -6,6 +6,11 @@ import { UnitItem } from '@/components/UnitItem';
 import { Badge } from '@/components/ui/badge';
 import { Marker } from '@/components/Marker';
 import { Empty } from './SpineView';
+import type { ReactNode } from 'react';
+import type { Continuity } from '@/domain/schema';
+import { formatYear } from '@/domain/dates';
+import { markerColor, markerShape } from '@/components/Marker';
+import { ChartTip, PointShape, RowTip, usePinnedTip } from '@/components/ChartTip';
 
 function Lane({ title, subtitle, rows, meta = 'release' }: { title: string; subtitle?: string; rows: Row[]; meta?: 'release' | 'in-universe' | 'both' }) {
   return (
@@ -92,46 +97,115 @@ export function TagsView({ rows, allScoped }: { rows: Row[]; allScoped: Row[] })
 type LaneBranch = ReturnType<typeof continuityLanes>[number]['branches'][number];
 const when = (d: { y: number; m?: number } | null | undefined) => (d ? `${d.m ? new Date(2000, d.m - 1).toLocaleString('en-US', { month: 'short' }) + ' ' : ''}${d.y}` : '');
 
-/** Schematic of how branches relate: branches that merge converge into their target; branches with a parent
- *  split off from it. Drawn only when a continuity has merges or splits. Text below says the same in words. */
-function BranchMap({ branches }: { branches: LaneBranch[] }) {
+/** Interactive graph of how a continuity's branches relate (drawn only when branches split or merge): one lane
+ *  per placeable branch, each title a mark at its place in story order (so marks never overlap), year labels
+ *  underneath, and curves where a branch splits off or merges. Hover or focus shows a summary; click pins it.
+ *  The sentences below say the same in words. */
+export function BranchMap({ branches, calendar }: { branches: LaneBranch[]; calendar?: Continuity['calendar'] }) {
+  const tip = usePinnedTip<{ row?: Row; text?: ReactNode }>();
+  const { update } = useApp();
   const merging = branches.filter((b) => b.merges_into && branches.some((t) => t.id === b.merges_into!.branch));
   const splitting = branches.filter((b) => b.parent && branches.some((t) => t.id === b.parent));
   if (!merging.length && !splitting.length) return null;
-  const order = branches.map((b) => b.id);
-  const rowH = 26, W = 640, mid = 360, H = order.length * rowH + 8;
-  const y = (id: string) => 14 + order.indexOf(id) * rowH;
-  const targets = new Set(merging.map((b) => b.merges_into!.branch));
-  const color = (b: LaneBranch) => (b.placeable ? 'var(--u-secondary)' : 'var(--marker-unplaced)');
+  const lanes = branches.filter((b) => b.placeable && b.rows.length);
+  const unplaced = branches.filter((b) => !b.placeable);
+  const pts = lanes.flatMap((b) => b.rows.map((r) => ({ r, lane: b.id }))).sort((a, b) => a.r.unit.in_universe.order_index - b.r.unit.in_universe.order_index);
+  const rank = new Map(pts.map((p, i) => [p.r.key, i]));
+  const L = 168, step = 30, rowH = 44, top = 22;
+  const W = Math.max(640, L + pts.length * step + 24), H = top + lanes.length * rowH + 34;
+  const x = (i: number) => L + i * step + step / 2;
+  const laneY = (id: string) => top + lanes.findIndex((b) => b.id === id) * rowH;
+  const year = (y: number) => (calendar ? formatYear(y, calendar) : String(y));
+  /** x just before the first title set in or after a given year (where a split or merge happens) */
+  const atYear = (y: number) => { const i = pts.findIndex((p) => (p.r.unit.in_universe.start?.y ?? -Infinity) >= y); return i < 0 ? x(pts.length - 1) + step / 2 : x(i) - step / 2; };
+  const span = (b: LaneBranch) => { const is = b.rows.map((r) => rank.get(r.key)!); return [x(Math.min(...is)), x(Math.max(...is))] as const; };
+  const splitX = new Map(splitting.filter((b) => lanes.includes(b)).map((b) => [b.id, b.diverges_at ? atYear(b.diverges_at.y) : span(b)[0] - step / 2]));
+  const mergeX = new Map(merging.filter((b) => lanes.includes(b)).map((b) => [b.id, b.merges_into!.at ? atYear(b.merges_into!.at.y) : span(b)[1] + step / 2]));
+  // a parent lane runs at least as far as the points where children leave it or merge into it
+  const reach = new Map(lanes.map((b) => [b.id, span(b)]));
+  for (const b of lanes) {
+    const sx = splitX.get(b.id); if (sx !== undefined && b.parent && reach.has(b.parent)) { const [a, c] = reach.get(b.parent)!; reach.set(b.parent, [Math.min(a, sx - 20), Math.max(c, sx - 20)]); }
+    const mx = mergeX.get(b.id); if (mx !== undefined && reach.has(b.merges_into!.branch)) { const t = b.merges_into!.branch; const [a, c] = reach.get(t)!; reach.set(t, [Math.min(a, mx), Math.max(c, mx)]); }
+  }
+  // year labels under the axis wherever the year changes, spaced so they never collide
+  const ticks: { x: number; label: string }[] = [];
+  let lastY: number | null = null, lastX = -Infinity;
+  pts.forEach((p, i) => {
+    const y = p.r.unit.in_universe.start?.y;
+    if (y === undefined || y === lastY) return;
+    lastY = y;
+    if (x(i) - lastX < 46) return;
+    ticks.push({ x: x(i), label: year(y) }); lastX = x(i);
+  });
   const desc = [
-    ...[...targets].map((t) => {
-      const from = merging.filter((b) => b.merges_into!.branch === t);
-      const tb = branches.find((b) => b.id === t)!;
-      return `${from.map((b) => b.label).join(', ')} merge into ${tb.label}${from[0]!.merges_into!.at ? ` (${when(from[0]!.merges_into!.at)})` : ''}${from[0]!.merges_into!.note ? `: ${from[0]!.merges_into!.note}` : ''}.`;
-    }),
+    ...merging.map((b) => { const t = branches.find((x) => x.id === b.merges_into!.branch)!; const m = b.merges_into!; return `${b.label} merges into ${t.label}${m.at ? ` (${when(m.at)})` : ''}${m.note ? `: ${m.note}` : ''}.`; }),
     ...splitting.map((b) => `${b.label} splits off from ${branches.find((x) => x.id === b.parent)!.label}${b.diverges_at ? ` (${when(b.diverges_at)})` : ''}.`),
+    ...unplaced.map((b) => `${b.label}: no fixed point on this timeline (${b.rows.length} ${b.rows.length === 1 ? 'entry' : 'entries'}, listed below).`),
   ];
+  const branchTip = (b: LaneBranch) => (
+    <div className="space-y-1 text-sm">
+      <div className="font-semibold">{b.label}</div>
+      {b.description && <div className="text-muted-foreground">{b.description}</div>}
+      <div className="text-xs text-muted-foreground">{b.rows.length} {b.rows.length === 1 ? 'entry' : 'entries'}</div>
+    </div>
+  );
+  const color = (b: LaneBranch, i: number) => (i === 0 ? 'var(--marker-main)' : 'var(--u-secondary)');
   return (
-    <figure className="mb-3 min-w-0 rounded-md border border-dashed border-border p-2">
-      <figcaption className="mb-1 text-sm font-semibold">How the branches connect</figcaption>
+    <figure className="mb-3 min-w-0 rounded-md border border-dashed border-border p-2" data-testid="branch-graph">
+      <figcaption className="mb-1 text-sm font-semibold">How the branches connect <span className="font-normal text-muted-foreground">(story order, left to right; hover a mark for a summary, click to keep it open)</span></figcaption>
       <div className="overflow-x-auto">
-        <svg viewBox={`0 0 ${W} ${H}`} className="h-auto w-full min-w-[480px]" role="img" aria-label={desc.join(' ')}>
-          {branches.map((b) => {
-            const yy = y(b.id);
-            const m = b.merges_into && targets.has(b.merges_into.branch) ? b.merges_into : null;
-            const startsMid = targets.has(b.id) || splitting.includes(b);
-            const x0 = startsMid ? mid : 150, x1 = m ? mid : W - 10;
-            return (
-              <g key={b.id}>
-                <text x={4} y={yy + 4} className="fill-current text-[11px]">{b.label}</text>
-                <line x1={x0} y1={yy} x2={x1 - (m ? 30 : 0)} y2={yy} stroke={color(b)} strokeWidth={3} strokeDasharray={b.placeable ? undefined : '4 4'} />
-                {m && <path d={`M ${x1 - 30} ${yy} C ${x1 - 10} ${yy}, ${x1 - 10} ${y(m.branch)}, ${x1 + 6} ${y(m.branch)}`} fill="none" stroke={color(b)} strokeWidth={3} />}
-                {b.parent && splitting.includes(b) && <path d={`M ${mid - 30} ${y(b.parent)} C ${mid - 10} ${y(b.parent)}, ${mid - 10} ${yy}, ${mid} ${yy}`} fill="none" stroke={color(b)} strokeWidth={3} />}
-              </g>
-            );
-          })}
-          <line x1={mid} y1={2} x2={mid} y2={H - 2} stroke="currentColor" strokeOpacity={0.25} strokeDasharray="2 3" />
-        </svg>
+        <div className="relative" style={{ width: W }}>
+          <svg viewBox={`0 0 ${W} ${H}`} width={W} height={H} role="group" aria-label={`Branch graph. ${desc.join(' ')}`}>
+            {lanes.map((b, li) => {
+              const y = laneY(b.id), [x0, x1] = reach.get(b.id)!;
+              const sx = splitX.get(b.id), mx = mergeX.get(b.id);
+              const start = sx ?? x0 - 10, end = mx !== undefined ? mx - 20 : x1 + 10;
+              const k = `lane:${b.id}`;
+              return (
+                <g key={b.id}>
+                  <text x={4} y={y + 4} className="fill-current text-[11px]">{b.label.length > 26 ? b.label.slice(0, 25) + '…' : b.label}</text>
+                  <g tabIndex={0} role="button" aria-label={`${b.label}${b.description ? `: ${b.description}` : ''}`} className="cursor-pointer focus:outline-none"
+                    {...tip.mark({ key: k, x: (start + end) / 2, y, content: { text: branchTip(b) } })} onKeyDown={(e) => { if (e.key === 'Escape') tip.close(); }}>
+                    <line x1={start} y1={y} x2={end} y2={y} stroke="transparent" strokeWidth={14} />
+                    <line x1={start} y1={y} x2={end} y2={y} stroke={color(b, li)} strokeWidth={tip.active(k) ? 5 : 3} strokeLinecap="round" />
+                    {sx !== undefined && b.parent && reach.has(b.parent) && <path d={`M ${sx - 20} ${laneY(b.parent)} C ${sx - 6} ${laneY(b.parent)}, ${sx - 14} ${y}, ${sx} ${y}`} fill="none" stroke={color(b, li)} strokeWidth={3} />}
+                    {mx !== undefined && <path d={`M ${mx - 20} ${y} C ${mx - 6} ${y}, ${mx - 14} ${laneY(b.merges_into!.branch)}, ${mx} ${laneY(b.merges_into!.branch)}`} fill="none" stroke={color(b, li)} strokeWidth={3} />}
+                  </g>
+                </g>
+              );
+            })}
+            {[...splitX].map(([id, sx]) => {
+              const b = lanes.find((l) => l.id === id)!;
+              if (!b.parent || !reach.has(b.parent)) return null;
+              const k = `split:${id}`, py = laneY(b.parent);
+              const text = <div className="space-y-1 text-sm"><div className="font-semibold">{b.label} splits off</div><div className="text-muted-foreground">From {branches.find((x) => x.id === b.parent)!.label}{b.diverges_at ? ` in ${when(b.diverges_at)}` : ''}.</div>{b.description && <div className="text-xs text-muted-foreground">{b.description}</div>}</div>;
+              return (
+                <g key={k} tabIndex={0} role="button" aria-label={`${b.label} splits off${b.diverges_at ? ` in ${when(b.diverges_at)}` : ''}`} className="cursor-pointer focus:outline-none"
+                  {...tip.mark({ key: k, x: sx - 20, y: py, content: { text } })} onKeyDown={(e) => { if (e.key === 'Escape') tip.close(); }}>
+                  <circle cx={sx - 20} cy={py} r={9} fill="transparent" />
+                  <circle cx={sx - 20} cy={py} r={tip.active(k) ? 6 : 4} fill="var(--card)" stroke="var(--u-primary)" strokeWidth={2} />
+                </g>
+              );
+            })}
+            {pts.map((p, i) => {
+              const k = p.r.key, cx = x(i), cy = laneY(p.lane);
+              return (
+                <g key={k} tabIndex={0} role="button" aria-label={`${p.r.name}: ${p.r.unit.in_universe.label}`} className="cursor-pointer focus:outline-none"
+                  {...tip.mark({ key: k, x: cx, y: cy, content: { row: p.r } })}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); update({ unit: k }); } if (e.key === 'Escape') tip.close(); }}>
+                  <circle cx={cx} cy={cy} r={12} fill="transparent" />
+                  {tip.active(k) && <circle cx={cx} cy={cy} r={10} fill="none" stroke="var(--u-primary)" strokeWidth={2} />}
+                  <PointShape shape={markerShape(p.r)} x={cx} y={cy} color={markerColor(p.r)} />
+                </g>
+              );
+            })}
+            <line x1={L} x2={W - 10} y1={H - 26} y2={H - 26} stroke="var(--border)" />
+            {ticks.map((t) => <g key={t.x}><line x1={t.x} x2={t.x} y1={H - 30} y2={H - 22} stroke="var(--border)" /><text x={t.x} y={H - 8} textAnchor="middle" fontSize="10" fill="var(--muted-foreground)">{t.label}</text></g>)}
+          </svg>
+          {tip.tip && <ChartTip x={tip.tip.x} y={tip.tip.y} w={W} h={H} pinned={tip.pinned} cardRef={tip.card}>
+            {tip.tip.content.row ? <RowTip row={tip.tip.content.row} pinned={tip.pinned} /> : tip.tip.content.text}
+          </ChartTip>}
+        </div>
       </div>
       <ul className="mt-1 space-y-0.5 text-xs text-muted-foreground">{desc.map((d) => <li key={d}>{d}</li>)}</ul>
     </figure>
@@ -152,7 +226,7 @@ export function ContinuitiesView({ rows }: { rows: Row[] }) {
             <span className="text-sm text-muted-foreground">{l.count} entries · released {l.first}–{l.last}</span>
             <button type="button" className="text-sm underline" onClick={() => update({ view: 'spine', c: l.id }, true)}>Open in-universe timeline →</button>
           </div>
-          <BranchMap branches={l.branches} />
+          <BranchMap branches={l.branches} calendar={ds.continuities.find((c) => c.id === l.id)?.calendar} />
           <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
             {l.branches.map((b) => (
               // Every branch box gets a dashed border so each scrollable list is visibly its own area (user request);

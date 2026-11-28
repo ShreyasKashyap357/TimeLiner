@@ -14,11 +14,14 @@ import { SpoilerText } from '@/components/SpoilerText';
 import { Switch } from '@/components/ui/switch';
 import { Tip } from '@/components/Tip';
 import { Label } from '@/components/ui/label';
+import { Button } from '@/components/ui/button';
+import type { Continuity } from '@/domain/schema';
 
-/** In-universe chronology of one continuity, drawn as a vertical spine (as in the reference image). */
-export function SpineView({ rows }: { rows: Row[] }) {
+/** In-universe chronology of one continuity, drawn as a vertical spine (as in the reference image). With
+ *  `cont` it draws that continuity inside the "All continuities" overview (no watch-order card of its own). */
+export function SpineView({ rows, cont: only }: { rows: Row[]; cont?: Continuity }) {
   const { state, altOrder, alt, watched, ds } = useApp();
-  const cont = ds.continuities.find((c) => c.id === state.c);
+  const cont = only ?? ds.continuities.find((c) => c.id === state.c);
   const optional = new Set(state.sort === 'alt' ? alt?.optional_unit_ids ?? [] : []);
   /** Recommended orders: which guides recommend this entry (shown on hover). */
   const support = (key: string) => {
@@ -37,7 +40,7 @@ export function SpineView({ rows }: { rows: Row[] }) {
   if (!rows.length) return <Empty />;
   return (
     <div className="space-y-8">
-      <WatchOrderCard />
+      {!only && <WatchOrderCard />}
       {calendarless && (
         <p className="border border-border bg-muted/40 p-3 text-sm text-muted-foreground">
           {cont!.name} has no in-universe calendar in the sources, so entries are shown in story order only.
@@ -57,8 +60,8 @@ export function SpineView({ rows }: { rows: Row[] }) {
         ))}
       </ol>
       {res.unplaced.map((lane) => (
-        <section key={lane.lane} aria-labelledby={`lane-${lane.lane}`} className="border border-dashed border-border p-4">
-          <h3 id={`lane-${lane.lane}`} className="font-heading text-base font-semibold text-muted-foreground">{lane.label}</h3>
+        <section key={lane.lane} aria-labelledby={`lane-${cont?.id ?? ''}-${lane.lane}`} className="border border-dashed border-border p-4">
+          <h3 id={`lane-${cont?.id ?? ''}-${lane.lane}`} className="font-heading text-base font-semibold text-muted-foreground">{lane.label}</h3>
           <p className="mb-2 text-xs text-muted-foreground">{lane.lane === 'not-in-order' ? 'These entries do not appear in the selected order (for example titles not available on that service).' : lane.lane === 'optional' ? 'The guides behind this order treat these as optional on a first watch. They are listed in order.' : 'No fixed point on this timeline. Shown in relative order where sources give one.'}</p>
           <ul className="space-y-0.5">{lane.rows.map((r) => <SpineEntry key={r.key} row={r} position={lane.lane === 'optional' ? altPosition(altOrder, r.key) : null} optional={lane.lane === 'optional'} support={support(r.key)} />)}</ul>
         </section>
@@ -97,6 +100,37 @@ function SpineEntry({ row, position = null, optional = false, support }: { row: 
   );
 }
 
+/** "All continuities": every continuity of the universe that has entries, each in its own card with its own
+ *  timeline (never one merged order). The card body scrolls so long timelines don't bury the ones after them. */
+export function AllContinuities({ rows, render }: { rows: Row[]; render?: (rows: Row[], cont: Continuity) => React.ReactNode }) {
+  const { ds, update } = useApp();
+  const conts = ds.continuities.filter((c) => rows.some((r) => r.continuity.id === c.id)).sort((a, b) => a.order - b.order);
+  if (!rows.length) return <Empty />;
+  return (
+    <div className="space-y-4">
+      {!render && <WatchOrderCard />}
+      <p className="text-sm text-muted-foreground">{conts.length} continuities, each with its own timeline. In-universe order is never mixed between them.</p>
+      <div className="grid items-start gap-4 xl:grid-cols-2">
+        {conts.map((c) => {
+          const rs = rows.filter((r) => r.continuity.id === c.id);
+          const years = rs.map((r) => r.unit.release.year).filter((y): y is number => y !== null);
+          return (
+            <section key={c.id} aria-labelledby={`cont-${c.id}`} className="min-w-0 border border-border bg-card" data-testid="continuity-card">
+              <header className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1 border-b border-border p-3">
+                <h2 id={`cont-${c.id}`} className="font-heading text-lg font-bold" style={{ color: 'var(--u-primary)' }}>{c.name}</h2>
+                <span className="text-sm text-muted-foreground">{rs.length} {rs.length === 1 ? 'entry' : 'entries'}{years.length ? ` · released ${Math.min(...years)}–${Math.max(...years)}` : ''}</span>
+                {c.description && <p className="basis-full text-sm text-muted-foreground">{c.description}</p>}
+                <Button size="sm" variant="outline" onClick={() => update({ c: c.id, unit: null }, true)}>Open on its own</Button>
+              </header>
+              <div className="max-h-[40rem] overflow-y-auto p-3">{render ? render(rs, c) : <SpineView rows={rs} cont={c} />}</div>
+            </section>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 export function Empty() {
   return <p className="py-12 text-center text-muted-foreground">Nothing matches the current filters.</p>;
 }
@@ -112,6 +146,7 @@ function WatchOrderCard() {
     ? 'Release order: the order in which the titles were first released.'
     : current?.kind === 'recommended' ? `${current.label}: collated from ${current.sources.length} published guides for new viewers. ${current.note}`
     : current ? `${current.label}: the official order published for this continuity. ${current.note}`
+    : state.c === 'all' ? 'Story order: chronological by when events happen in-universe, inside each continuity (continuities are never merged).'
     : 'Story order: chronological by when events happen in-universe (this continuity only).';
   return (
     <Card size="sm">

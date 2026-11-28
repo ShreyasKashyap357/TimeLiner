@@ -18,7 +18,7 @@ import { DetailDrawer } from '@/components/DetailDrawer';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Toaster } from '@/components/ui/sonner';
 import { TooltipProvider } from '@/components/ui/tooltip';
-import { SpineView } from '@/views/SpineView';
+import { AllContinuities, SpineView } from '@/views/SpineView';
 import { AppearancesView } from '@/views/AppearancesView';
 // Secondary views are split into lazy chunks (D-4); the default story view stays in the main bundle.
 const ReleaseView = lazy(() => import('@/views/ReleaseView').then((m) => ({ default: m.ReleaseView })));
@@ -30,6 +30,7 @@ const TagsView = lazy(() => lanes().then((m) => ({ default: m.TagsView })));
 const ContinuitiesView = lazy(() => lanes().then((m) => ({ default: m.ContinuitiesView })));
 const charts = () => import('@/views/ChartViews');
 const DualAxisView = lazy(() => charts().then((m) => ({ default: m.DualAxisView })));
+const AllDualAxisView = lazy(() => charts().then((m) => ({ default: m.AllDualAxisView })));
 const ConnectionsView = lazy(() => charts().then((m) => ({ default: m.ConnectionsView })));
 // Leaflet and its CSS live only in this chunk.
 const MapsView = lazy(() => import('@/views/MapsView').then((m) => ({ default: m.MapsView })));
@@ -112,7 +113,7 @@ export function App() {
   const scoped = useMemo(() => {
     const continuityScoped = CONTINUITY_SCOPED.includes(state.view) && !crossScope;
     // scope only (universe/continuity), for filter option counts
-    return rows.filter((r) => (state.u === 'all' || r.universe.id === state.u) && (!continuityScoped || !state.c || r.continuity.id === state.c));
+    return rows.filter((r) => (state.u === 'all' || r.universe.id === state.u) && (!continuityScoped || !state.c || state.c === 'all' || r.continuity.id === state.c));
   }, [rows, state.u, state.c, state.view, crossScope]);
   const filtered = useMemo(() => applyFilters(scoped, state, { scopeContinuity: false, scopeUniverse: false, watched: watched.set }), [scoped, state, watched.set]);
   const tagScoped = useMemo(() => applyFilters(scoped, { ...state, tags: [] }, { scopeContinuity: false, scopeUniverse: false, watched: watched.set }), [scoped, state, watched.set]);
@@ -135,6 +136,7 @@ export function App() {
   ];
 
   const atlas = state.view === 'maps';
+  const allConts = state.c === 'all' && !crossScope;
   // The Atlas (maps) view is offered only for universes that have maps (data/<universe>/maps.json).
   const views = VIEWS.filter((v) => v !== 'maps' || hasMaps(state.u));
   const changeView = (v: string) => {
@@ -173,7 +175,7 @@ export function App() {
                 </div>
               </aside>
               <main id="main" tabIndex={-1} className="min-w-0 pb-16" aria-busy={false}>
-                <h1 className="sr-only">{VIEW_LABELS[state.view]}{CONTINUITY_SCOPED.includes(state.view) && continuity ? ` — ${continuity.name}` : ''}</h1>
+                <h1 className="sr-only">{VIEW_LABELS[state.view]}{CONTINUITY_SCOPED.includes(state.view) && (continuity || allConts) ? ` — ${continuity?.name ?? 'All continuities'}` : ''}</h1>
                 <UniverseChips />
                 {!atlas && <ActiveFilters />}
                 <p className="sr-only" aria-live="polite" data-testid="result-count">{filtered.length} of {scoped.length} entries</p>
@@ -181,14 +183,14 @@ export function App() {
                   <TabsContent key={v} value={v} tabIndex={-1}>
                     {state.view === v && (
                       <Suspense fallback={<p className="p-6 text-sm text-muted-foreground" role="status">Loading view…</p>}>
-                        {v === 'spine' && (crossScope || ctx.multiUniverse ? <AppearancesView rows={filtered} /> : <SpineView rows={filtered} />)}
+                        {v === 'spine' && (crossScope || ctx.multiUniverse ? <AppearancesView rows={filtered} /> : allConts ? <AllContinuities rows={filtered} /> : <SpineView rows={filtered} />)}
                         {v === 'release' && <ReleaseView rows={filtered} />}
                         {v === 'platform' && <PlatformView rows={filtered} />}
                         {v === 'studio' && <StudioView rows={filtered} />}
                         {v === 'groupings' && <GroupingsView rows={filtered} />}
                         {v === 'tags' && <TagsView rows={filtered} allScoped={tagScoped} />}
                         {v === 'continuities' && <ContinuitiesView rows={filtered} />}
-                        {v === 'dual' && (crossScope || new Set(filtered.map((r) => r.continuity.id)).size > 1
+                        {v === 'dual' && (allConts ? <AllDualAxisView rows={filtered} /> : crossScope || new Set(filtered.map((r) => r.continuity.id)).size > 1
                           ? <p className="border border-border bg-muted/40 p-4 text-sm text-muted-foreground">The dual-axis chart compares release dates with in-universe dates inside one continuity (calendars differ between continuities and are never merged). Pick a single universe and continuity{state.people.length || state.chars.length ? ', or clear the person / character filter,' : ''} to see it.</p>
                           : <DualAxisView rows={filtered} />)}
                         {v === 'connections' && <ConnectionsView rows={filtered} />}

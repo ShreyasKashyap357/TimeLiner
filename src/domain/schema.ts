@@ -294,11 +294,23 @@ export const MapPlace = z.object({
   /** osm maps: WGS84 coordinates. */
   lat: z.number().min(-90).max(90).optional(),
   lng: z.number().min(-180).max(180).optional(),
+  /** galaxy maps: the source's grid square (e.g. "L-9") and/or region id from the map's `galaxy.regions`. */
+  grid: z.string().regex(/^[A-Z]+-\d+$/).optional(),
+  region: slug.optional(),
   title_ids: z.array(slug).default([]),
   note: z.string().default(''),
   source_url: url,
   confidence: Confidence,
-}).refine((p) => (p.x !== undefined && p.y !== undefined) !== (p.lat !== undefined && p.lng !== undefined), 'a place needs either x+y (image map) or lat+lng (osm map)');
+}).refine((p) => [p.x !== undefined && p.y !== undefined, p.lat !== undefined && p.lng !== undefined, p.grid !== undefined || p.region !== undefined].filter(Boolean).length === 1,
+  'a place needs exactly one of x+y (image map), lat+lng (osm map) or grid/region (galaxy map)');
+/** A galaxy (or any space setting) drawn by the app from data: a lettered grid as the source gives it, and/or
+ *  regions as concentric rings (innermost first, `r` = outer radius as a share of the galaxy's radius). */
+export const GalaxyLayout = z.object({
+  grid: z.object({ cols: z.array(z.string().regex(/^[A-Z]+$/)).min(1), rows: z.number().int().positive() }).optional(),
+  regions: z.array(z.object({ id: slug, label: nonEmpty, r: z.number().gt(0).max(1) })).default([]),
+  /** what the drawing means and what it does not (e.g. "positions inside a grid square are not meaningful") */
+  note: nonEmpty,
+}).refine((g) => g.grid || g.regions.length, 'a galaxy layout needs a grid or regions');
 export const WorldMap = z.object({
   id: slug,
   universe: slug,
@@ -307,7 +319,7 @@ export const WorldMap = z.object({
   group: z.string().default(''),
   /** Short caption, e.g. the period a historical map shows (from the source). */
   description: z.string().default(''),
-  kind: z.enum(['image', 'osm']),
+  kind: z.enum(['image', 'osm', 'galaxy']),
   /** null = the map covers the whole universe. */
   continuity: slug.nullable().default(null),
   image: z.object({
@@ -316,9 +328,11 @@ export const WorldMap = z.object({
     /** Large images: zoom tiles at <path's folder>/{z}/{y}/{x}.webp (deepest level = full size); `path` is a small preview. */
     tiles: z.object({ max_zoom: z.number().int().min(0).max(10) }).optional(),
   }).optional(),
+  galaxy: GalaxyLayout.optional(),
   credit: MapCredit,
   places: z.array(MapPlace).default([]),
-}).refine((m) => (m.kind === 'image') === !!m.image, 'image maps need image; osm maps must not have one');
+}).refine((m) => (m.kind === 'image') === !!m.image, 'image maps need image; other maps must not have one')
+  .refine((m) => (m.kind === 'galaxy') === !!m.galaxy, 'galaxy maps need galaxy; other maps must not have one');
 export const MapsFile = z.array(WorldMap);
 
 /** old unit id -> replacement unit ids (watched-state migration). */

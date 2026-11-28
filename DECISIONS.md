@@ -8,7 +8,8 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| | Nothing open. | |
+| D-85 | Galaxy maps: Star Wars worlds are placed by the grid square Wookieepedia gives (canon only; Legends not mapped yet), and Foundation worlds only where a source names their region (6 of ~30). Positions inside a square or round a ring are arbitrary and the map says so. OK, or do you want a fan galaxy map image (credited, removed on request) behind the grid? | Drawn from data, no image |
+| D-86 | "All continuities" shows every continuity's timeline in its own scrolling card (2 per row on wide screens). Watch orders (official/recommended) only apply to a single continuity, so they are hidden there. OK? | As described |
 
 ## Resolved
 

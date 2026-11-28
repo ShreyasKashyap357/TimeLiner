@@ -201,7 +201,16 @@ function checkMaps(ds: Dataset, titles: Map<string, Title>, conts: Map<string, C
       placeIds.add(p.id);
       const pixel = p.x !== undefined && p.y !== undefined;
       if (m.kind === 'image' && !pixel) err('place-coords', pw, 'image map place needs x and y');
-      if (m.kind === 'osm' && pixel) err('place-coords', pw, 'osm map place needs lat and lng');
+      if (m.kind === 'osm' && (pixel || p.lat === undefined)) err('place-coords', pw, 'osm map place needs lat and lng');
+      if (m.kind === 'galaxy') {
+        if (p.grid === undefined && p.region === undefined) err('place-coords', pw, 'galaxy map place needs a grid square or region');
+        if (p.grid !== undefined) {
+          const g = m.galaxy?.grid, [col, row] = p.grid.split('-');
+          if (!g) err('place-grid', pw, 'map has no grid');
+          else if (!g.cols.includes(col!) || Number(row) < 1 || Number(row) > g.rows) err('place-grid', pw, `grid square ${p.grid} is outside the map's grid`);
+        }
+        if (p.region !== undefined && !m.galaxy?.regions.some((r) => r.id === p.region)) err('place-region', pw, `unknown region "${p.region}"`);
+      }
       if (pixel && m.image && (p.x! < 0 || p.y! < 0 || p.x! > m.image.width || p.y! > m.image.height)) err('place-outside', pw, 'place lies outside the image');
       for (const id of p.title_ids) {
         const t = titles.get(id);

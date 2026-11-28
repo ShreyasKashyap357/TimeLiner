@@ -1,0 +1,164 @@
+{
+ "map": {
+  "id": "galaxy",
+  "title": "The Galaxy (centre to Periphery)",
+  "group": "Galaxy",
+  "description": "Worlds of the Foundation novels by the region their sources name, linked to the books set there.",
+  "continuity": "foundation-asimov",
+  "galaxy": {
+   "regions": [
+    {
+     "id": "core",
+     "label": "Galactic centre",
+     "r": 0.2
+    },
+    {
+     "id": "between",
+     "label": "Between the centre and the Periphery",
+     "r": 0.72
+    },
+    {
+     "id": "periphery",
+     "label": "The Periphery",
+     "r": 1
+    }
+   ],
+   "note": "Drawn by TimeLiner from data, not a map image. The novels give no coordinates, only regions: each world sits on the ring of the region its source names (the centre or the Periphery). The rings' widths and a world's position round its ring mean nothing; worlds whose sources name no region are not shown."
+  },
+  "credit": {
+   "title": "Asimov Wiki planet articles; Wikipedia: Foundation (Asimov novel)",
+   "author": "Asimov Wiki and Wikipedia contributors",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source_url": "https://asimov.fandom.com/wiki/Terminus?oldid=11833",
+   "modified": false,
+   "fan_made": true,
+   "note": "Regions and books are read from each world's article (revision linked from the place). No map image is used."
+  }
+ },
+ "places": [
+  {
+   "id": "terminus",
+   "name": "Terminus",
+   "region": "periphery",
+   "where": {
+    "source_url": "https://asimov.fandom.com/wiki/Terminus?oldid=11833",
+    "quote": "Asimov Wiki: \"It is the capital planet of the First Foundation, located at the edge of the Galaxy.\""
+   },
+   "links": [
+    {
+     "title_id": "foundation-novel",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=Foundation_(Asimov_novel)&oldid=1384225785",
+     "source_title": "Wikipedia: Foundation (Asimov novel)",
+     "quote": "\"the Encyclopedia Foundation, tasked with preserving the Empire's knowledge, is established on the mineral-poor agricultural planet Terminus\""
+    }
+   ]
+  },
+  {
+   "id": "anacreon",
+   "name": "Anacreon",
+   "region": "periphery",
+   "where": {
+    "source_url": "https://asimov.fandom.com/wiki/Anacreon?oldid=13228",
+    "quote": "Asimov Wiki: \"Anacreon (also known as Anacreon A II) is a planet near the outer end of the Periphery\""
+   },
+   "links": [
+    {
+     "title_id": "foundation-novel",
+     "source_url": "https://en.wikipedia.org/w/index.php?title=Foundation_(Asimov_novel)&oldid=1384225785",
+     "source_title": "Wikipedia: Foundation (Asimov novel)",
+     "quote": "\"During a visit of the Foundation's Mayor Hardin to the kingdom of Anacreon\""
+    }
+   ]
+  },
+  {
+   "id": "trantor",
+   "name": "Trantor",
+   "region": "core",
+   "where": {
+    "source_url": "https://asimov.fandom.com/wiki/Trantor?oldid=11835",
+    "quote": "Asimov Wiki: \"It is an ecumenopolis world near the galactic core\""
+   },
+   "links": [
+    {
+     "title_id": "prelude-to-foundation",
+     "source_url": "https://asimov.fandom.com/wiki/Trantor?oldid=11835",
+     "source_title": "Asimov Wiki: Trantor",
+     "quote": "infobox sources \"Prelude to Foundation, Foundation, Second Foundation\""
+    },
+    {
+     "title_id": "foundation-novel",
+     "source_url": "https://asimov.fandom.com/wiki/Trantor?oldid=11835",
+     "source_title": "Asimov Wiki: Trantor",
+     "quote": "infobox sources \"Prelude to Foundation, Foundation, Second Foundation\""
+    },
+    {
+     "title_id": "second-foundation",
+     "source_url": "https://asimov.fandom.com/wiki/Trantor?oldid=11835",
+     "source_title": "Asimov Wiki: Trantor",
+     "quote": "infobox sources \"Prelude to Foundation, Foundation, Second Foundation\""
+    }
+   ]
+  },
+  {
+   "id": "neotrantor",
+   "name": "Neotrantor",
+   "region": "core",
+   "where": {
+    "source_url": "https://asimov.fandom.com/wiki/Neotrantor?oldid=11922",
+    "quote": "Asimov Wiki: \"a small agricultural planet located near the center of the galaxy, near Trantor\""
+   },
+   "links": [
+    {
+     "title_id": "foundation-and-empire",
+     "source_url": "https://asimov.fandom.com/wiki/Neotrantor?oldid=11922",
+     "source_title": "Asimov Wiki: Neotrantor",
+     "quote": "\"In Foundation and Empire, Toran and Bayta Darell, Ebling Mis, and the Mule visit Neotrantor\""
+    }
+   ]
+  },
+  {
+   "id": "kalgan",
+   "name": "Kalgan",
+   "region": "periphery",
+   "where": {
+    "source_url": "https://asimov.fandom.com/wiki/Kalgan?oldid=12952",
+    "quote": "Asimov Wiki: \"A planet located in the Periphery\""
+   },
+   "links": [
+    {
+     "title_id": "foundation-and-empire",
+     "source_url": "https://asimov.fandom.com/wiki/Kalgan?oldid=12952",
+     "source_title": "Asimov Wiki: Kalgan",
+     "quote": "\"Kalgan is a planet in Isaac Asimov's science-fiction novels Foundation and Empire and Second Foundation\""
+    },
+    {
+     "title_id": "second-foundation",
+     "source_url": "https://asimov.fandom.com/wiki/Kalgan?oldid=12952",
+     "source_title": "Asimov Wiki: Kalgan",
+     "quote": "\"Kalgan is a planet in Isaac Asimov's science-fiction novels Foundation and Empire and Second Foundation\""
+    }
+   ]
+  },
+  {
+   "id": "sayshell",
+   "name": "Sayshell",
+   "region": "periphery",
+   "where": {
+    "source_url": "https://asimov.fandom.com/wiki/Sayshell?oldid=11834",
+    "quote": "Asimov Wiki: \"Sayshell was a planet in the Periphery.\""
+   },
+   "links": [
+    {
+     "title_id": "foundations-edge",
+     "source_url": "https://asimov.fandom.com/wiki/Sayshell?oldid=11834",
+     "source_title": "Asimov Wiki: Sayshell",
+     "quote": "listed under Appearances: \"Foundation's Edge\""
+    }
+   ]
+  }
+ ],
+ "not_placed": [
+  "Siwenna, Smyrno, Askone, Korell, Santanni, Gaia, Comporellon, Helicon, Synnax, Florina, Sark, Rhodia, Tyrann, Lingane, Aurora, Solaria, Earth, Melpomenia, Alpha, Libair, Cinna, Wencory, Arcturus: the Asimov Wiki article names no region (or the page is missing: Haven, Radole, Rossem, Tazenda, Daribow, Konom, Loris)"
+ ]
+}

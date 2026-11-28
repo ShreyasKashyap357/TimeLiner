@@ -1,0 +1,2391 @@
+{
+ "map": {
+  "id": "galaxy",
+  "title": "The galaxy (Standard Galactic Grid)",
+  "group": "Galaxy",
+  "description": "Canon worlds in their grid squares, linked to the films, series and games set there.",
+  "continuity": "sw-canon",
+  "galaxy": {
+   "grid": {
+    "cols": [
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I",
+     "J",
+     "K",
+     "L",
+     "M",
+     "N",
+     "O",
+     "P",
+     "Q",
+     "R",
+     "S",
+     "T",
+     "U",
+     "V",
+     "W"
+    ],
+    "rows": 21
+   },
+   "note": "Drawn by TimeLiner from data, not a map image. Each world sits in the grid square Wookieepedia gives for it (letters run galactic west to east, numbers north to south). The grid covers the squares Wookieepedia files locations under (C to W, 1 to 21). Where a square holds several worlds they are spread round its centre: the spot inside a square means nothing."
+  },
+  "credit": {
+   "title": "Wookieepedia: Standard Galactic Grid and planet articles",
+   "author": "Wookieepedia contributors",
+   "licence": "CC BY-SA 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source_url": "https://starwars.fandom.com/wiki/Standard_Galactic_Grid?oldid=15720063",
+   "modified": false,
+   "fan_made": true,
+   "note": "Grid squares and appearances are read from each world's Wookieepedia article (revision linked from the place). No map image is used."
+  }
+ },
+ "places": [
+  {
+   "id": "ahch-to",
+   "name": "Ahch-To",
+   "grid": "F-13",
+   "region_text": "Unknown Regions",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ahch-To?oldid=15814274",
+    "quote": "Infobox coordinates: Standard Galactic Grid F-13; region: Unknown Regions"
+   },
+   "links": [
+    {
+     "title_id": "the-force-awakens",
+     "source_url": "https://starwars.fandom.com/wiki/Ahch-To?oldid=15814274",
+     "source_title": "Wookieepedia: Ahch-To",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-last-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Ahch-To?oldid=15814274",
+     "source_title": "Wookieepedia: Ahch-To",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Ahch-To?oldid=15814274",
+     "source_title": "Wookieepedia: Ahch-To",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Porg Problems\")"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Ahch-To?oldid=15814274",
+     "source_title": "Wookieepedia: Ahch-To",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "ajan-kloss",
+   "name": "Ajan Kloss",
+   "grid": "L-5",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ajan_Kloss?oldid=15880932",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-5; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Ajan_Kloss?oldid=15880932",
+     "source_title": "Wookieepedia: Ajan Kloss",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Ajan_Kloss?oldid=15880932",
+     "source_title": "Wookieepedia: Ajan Kloss",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "akiva",
+   "name": "Akiva",
+   "grid": "O-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Akiva?oldid=15794088",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-outlaws",
+     "source_url": "https://starwars.fandom.com/wiki/Akiva?oldid=15794088",
+     "source_title": "Wookieepedia: Akiva",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "alderaan",
+   "name": "Alderaan",
+   "grid": "M-10",
+   "region_text": "Core Worlds",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-10; region: Core Worlds"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+     "source_title": "Wookieepedia: Alderaan",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Lethal Trackdown\")"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+     "source_title": "Wookieepedia: Alderaan",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Unexpected Company\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+     "source_title": "Wookieepedia: Alderaan",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+     "source_title": "Wookieepedia: Alderaan",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Part I\")"
+    },
+    {
+     "title_id": "a-new-hope",
+     "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+     "source_title": "Wookieepedia: Alderaan",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-squadrons",
+     "source_url": "https://starwars.fandom.com/wiki/Alderaan?oldid=15873483",
+     "source_title": "Wookieepedia: Alderaan",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "aldhani",
+   "name": "Aldhani",
+   "grid": "M-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Aldhani?oldid=15770707",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Aldhani?oldid=15770707",
+     "source_title": "Wookieepedia: Aldhani",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Aldhani (episode)\")"
+    }
+   ]
+  },
+  {
+   "id": "arvala-7",
+   "name": "Arvala-7",
+   "grid": "S-15",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Arvala-7?oldid=15814584",
+    "quote": "Infobox coordinates: Standard Galactic Grid S-15; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Arvala-7?oldid=15814584",
+     "source_title": "Wookieepedia: Arvala-7",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Chapter 1: The Mandalorian\")"
+    }
+   ]
+  },
+  {
+   "id": "at-attin",
+   "name": "At Attin",
+   "grid": "N-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/At_Attin?oldid=15805315",
+    "quote": "Infobox coordinates: Standard Galactic Grid N-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "skeleton-crew",
+     "source_url": "https://starwars.fandom.com/wiki/At_Attin?oldid=15805315",
+     "source_title": "Wookieepedia: At Attin",
+     "quote": "Listed under Appearances (6 episodes, e.g. \"This Could Be a Real Adventure\")"
+    }
+   ]
+  },
+  {
+   "id": "atollon",
+   "name": "Atollon",
+   "grid": "T-7",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Atollon?oldid=15805344",
+    "quote": "Infobox coordinates: Standard Galactic Grid T-7; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Atollon?oldid=15805344",
+     "source_title": "Wookieepedia: Atollon",
+     "quote": "Listed under Appearances (15 episodes, e.g. \"The Forgotten Droid\")"
+    }
+   ]
+  },
+  {
+   "id": "batuu",
+   "name": "Batuu",
+   "grid": "G-15",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Batuu?oldid=15876083",
+    "quote": "Infobox coordinates: Standard Galactic Grid G-15; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "young-jedi-adventures",
+     "source_url": "https://starwars.fandom.com/wiki/Batuu?oldid=15876083",
+     "source_title": "Wookieepedia: Batuu",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"The Tale of Short Spire\")"
+    },
+    {
+     "title_id": "star-wars-tales-from-the-galaxys-edge",
+     "source_url": "https://starwars.fandom.com/wiki/Batuu?oldid=15876083",
+     "source_title": "Wookieepedia: Batuu",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "bespin",
+   "name": "Bespin",
+   "grid": "K-18",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+    "quote": "Infobox coordinates: Standard Galactic Grid K-18; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+     "source_title": "Wookieepedia: Bespin",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+     "source_title": "Wookieepedia: Bespin",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-empire-strikes-back",
+     "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+     "source_title": "Wookieepedia: Bespin",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "return-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+     "source_title": "Wookieepedia: Bespin",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-uprising",
+     "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+     "source_title": "Wookieepedia: Bespin",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Bespin?oldid=15809641",
+     "source_title": "Wookieepedia: Bespin",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "bracca",
+   "name": "Bracca",
+   "grid": "P-9",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Bracca?oldid=15809902",
+    "quote": "Infobox coordinates: Standard Galactic Grid P-9; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "young-jedi-adventures",
+     "source_url": "https://starwars.fandom.com/wiki/Bracca?oldid=15809902",
+     "source_title": "Wookieepedia: Bracca",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Finders Keepers\")"
+    },
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Bracca?oldid=15809902",
+     "source_title": "Wookieepedia: Bracca",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Battle Scars\")"
+    },
+    {
+     "title_id": "star-wars-jedi-fallen-order",
+     "source_url": "https://starwars.fandom.com/wiki/Bracca?oldid=15809902",
+     "source_title": "Wookieepedia: Bracca",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "brendok",
+   "name": "Brendok",
+   "grid": "Q-2",
+   "region_text": "Wild Space",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Brendok?oldid=15809934",
+    "quote": "Infobox coordinates: Standard Galactic Grid Q-2; region: Wild Space"
+   },
+   "links": [
+    {
+     "title_id": "the-acolyte",
+     "source_url": "https://starwars.fandom.com/wiki/Brendok?oldid=15809934",
+     "source_title": "Wookieepedia: Brendok",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Choice\")"
+    }
+   ]
+  },
+  {
+   "id": "cantonica",
+   "name": "Cantonica",
+   "grid": "S-4",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Cantonica?oldid=15705064",
+    "quote": "Infobox coordinates: Standard Galactic Grid S-4; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-outlaws",
+     "source_url": "https://starwars.fandom.com/wiki/Cantonica?oldid=15705064",
+     "source_title": "Wookieepedia: Cantonica",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-last-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Cantonica?oldid=15705064",
+     "source_title": "Wookieepedia: Cantonica",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Cantonica?oldid=15705064",
+     "source_title": "Wookieepedia: Cantonica",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Shuttle Shock\")"
+    }
+   ]
+  },
+  {
+   "id": "chandrila",
+   "name": "Chandrila",
+   "grid": "L-9",
+   "region_text": "Core Worlds",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Chandrila?oldid=15835637",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-9; region: Core Worlds"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Chandrila?oldid=15835637",
+     "source_title": "Wookieepedia: Chandrila",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"One Year Later\")"
+    }
+   ]
+  },
+  {
+   "id": "christophsis",
+   "name": "Christophsis",
+   "grid": "Q-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Christophsis?oldid=15705490",
+    "quote": "Infobox coordinates: Standard Galactic Grid Q-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Christophsis?oldid=15705490",
+     "source_title": "Wookieepedia: Christophsis",
+     "quote": "Listed under Appearances (5 episodes, e.g. \"Cat and Mouse\")"
+    },
+    {
+     "title_id": "the-clone-wars-film",
+     "source_url": "https://starwars.fandom.com/wiki/Christophsis?oldid=15705490",
+     "source_title": "Wookieepedia: Christophsis",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "corellia",
+   "name": "Corellia",
+   "grid": "M-11",
+   "region_text": "Core Worlds",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Corellia?oldid=15820501",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-11; region: Core Worlds"
+   },
+   "links": [
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Corellia?oldid=15820501",
+     "source_title": "Wookieepedia: Corellia",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Decommissioned\")"
+    },
+    {
+     "title_id": "solo",
+     "source_url": "https://starwars.fandom.com/wiki/Corellia?oldid=15820501",
+     "source_title": "Wookieepedia: Corellia",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Corellia?oldid=15820501",
+     "source_title": "Wookieepedia: Corellia",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part Two: Toil and Trouble\")"
+    }
+   ]
+  },
+  {
+   "id": "coruscant",
+   "name": "Coruscant",
+   "grid": "L-9",
+   "region_text": "Core Worlds",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-9; region: Core Worlds"
+   },
+   "links": [
+    {
+     "title_id": "young-jedi-adventures",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"The Young Jedi\")"
+    },
+    {
+     "title_id": "the-acolyte",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Lost / Found\")"
+    },
+    {
+     "title_id": "tales-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Choices\")"
+    },
+    {
+     "title_id": "the-phantom-menace",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "attack-of-the-clones",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (74 episodes, e.g. \"The Hidden Enemy\")"
+    },
+    {
+     "title_id": "the-clone-wars-film",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Teach You, I Will\")"
+    },
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "tales-of-the-empire",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Devoted\")"
+    },
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (8 episodes, e.g. \"The Solitary Clone\")"
+    },
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Part I\")"
+    },
+    {
+     "title_id": "star-wars-jedi-survivor",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (20 episodes, e.g. \"Aldhani (episode)\")"
+    },
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "return-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-book-of-boba-fett",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Chapter 6: From the Desert Comes a Stranger\")"
+    },
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Chapter 19: The Convert\")"
+    },
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Coruscant?oldid=15860969",
+     "source_title": "Wookieepedia: Coruscant",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part Seven: Dreams and Madness\")"
+    }
+   ]
+  },
+  {
+   "id": "crait",
+   "name": "Crait",
+   "grid": "N-17",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Crait?oldid=15829012",
+    "quote": "Infobox coordinates: Standard Galactic Grid N-17; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Crait?oldid=15829012",
+     "source_title": "Wookieepedia: Crait",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-last-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Crait?oldid=15829012",
+     "source_title": "Wookieepedia: Crait",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-tales-from-the-galaxys-edge",
+     "source_url": "https://starwars.fandom.com/wiki/Crait?oldid=15829012",
+     "source_title": "Wookieepedia: Crait",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "dqar",
+   "name": "D'Qar",
+   "grid": "O-17",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/D'Qar?oldid=15814342",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-17; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/D'Qar?oldid=15814342",
+     "source_title": "Wookieepedia: D'Qar",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/D'Qar?oldid=15814342",
+     "source_title": "Wookieepedia: D'Qar",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Ever Been to Ghorman?\")"
+    },
+    {
+     "title_id": "the-force-awakens",
+     "source_url": "https://starwars.fandom.com/wiki/D'Qar?oldid=15814342",
+     "source_title": "Wookieepedia: D'Qar",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-last-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/D'Qar?oldid=15814342",
+     "source_title": "Wookieepedia: D'Qar",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-resistance",
+     "source_url": "https://starwars.fandom.com/wiki/D'Qar?oldid=15814342",
+     "source_title": "Wookieepedia: D'Qar",
+     "quote": "Listed under Appearances (1 episode, e.g. \"A Quick Salvage Run\")"
+    }
+   ]
+  },
+  {
+   "id": "dagobah",
+   "name": "Dagobah",
+   "grid": "M-19",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Dagobah?oldid=15811388",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-19; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Dagobah?oldid=15811388",
+     "source_title": "Wookieepedia: Dagobah",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Voices\")"
+    },
+    {
+     "title_id": "the-empire-strikes-back",
+     "source_url": "https://starwars.fandom.com/wiki/Dagobah?oldid=15811388",
+     "source_title": "Wookieepedia: Dagobah",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Dagobah?oldid=15811388",
+     "source_title": "Wookieepedia: Dagobah",
+     "quote": "Listed under Appearances (1 episode, e.g. \"The Path Ahead\")"
+    },
+    {
+     "title_id": "return-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Dagobah?oldid=15811388",
+     "source_title": "Wookieepedia: Dagobah",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "dantooine",
+   "name": "Dantooine",
+   "grid": "L-4",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Dantooine?oldid=15811450",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-4; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Dantooine?oldid=15811450",
+     "source_title": "Wookieepedia: Dantooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Dantooine?oldid=15811450",
+     "source_title": "Wookieepedia: Dantooine",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Secret Cargo\")"
+    },
+    {
+     "title_id": "a-new-hope",
+     "source_url": "https://starwars.fandom.com/wiki/Dantooine?oldid=15811450",
+     "source_title": "Wookieepedia: Dantooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-resistance",
+     "source_url": "https://starwars.fandom.com/wiki/Dantooine?oldid=15811450",
+     "source_title": "Wookieepedia: Dantooine",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Rebuilding the Resistance\")"
+    }
+   ]
+  },
+  {
+   "id": "dathomir",
+   "name": "Dathomir",
+   "grid": "O-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+     "source_title": "Wookieepedia: Dathomir",
+     "quote": "Listed under Appearances (7 episodes, e.g. \"Nightsisters (episode)\")"
+    },
+    {
+     "title_id": "tales-of-the-empire",
+     "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+     "source_title": "Wookieepedia: Dathomir",
+     "quote": "Listed under Appearances (1 episode, e.g. \"The Path of Fear\")"
+    },
+    {
+     "title_id": "tales-of-the-underworld",
+     "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+     "source_title": "Wookieepedia: Dathomir",
+     "quote": "Listed under Appearances (1 episode, e.g. \"A Way Forward\")"
+    },
+    {
+     "title_id": "star-wars-jedi-fallen-order",
+     "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+     "source_title": "Wookieepedia: Dathomir",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+     "source_title": "Wookieepedia: Dathomir",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Visions and Voices\")"
+    },
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Dathomir?oldid=15811537",
+     "source_title": "Wookieepedia: Dathomir",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part Eight: The Jedi, the Witch, and the Warlord\")"
+    }
+   ]
+  },
+  {
+   "id": "eadu",
+   "name": "Eadu",
+   "grid": "U-10",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Eadu?oldid=15708066",
+    "quote": "Infobox coordinates: Standard Galactic Grid U-10; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Eadu?oldid=15708066",
+     "source_title": "Wookieepedia: Eadu",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "endor",
+   "name": "Endor",
+   "grid": "H-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Endor?oldid=15832056",
+    "quote": "Infobox coordinates: Standard Galactic Grid H-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Endor?oldid=15832056",
+     "source_title": "Wookieepedia: Endor",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "return-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Endor?oldid=15832056",
+     "source_title": "Wookieepedia: Endor",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Endor?oldid=15832056",
+     "source_title": "Wookieepedia: Endor",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Ewok Escape\")"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Endor?oldid=15832056",
+     "source_title": "Wookieepedia: Endor",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "exegol",
+   "name": "Exegol",
+   "grid": "F-7",
+   "region_text": "Unknown Regions",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Exegol?oldid=15880918",
+    "quote": "Infobox coordinates: Standard Galactic Grid F-7; region: Unknown Regions"
+   },
+   "links": [
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Exegol?oldid=15880918",
+     "source_title": "Wookieepedia: Exegol",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "felucia",
+   "name": "Felucia",
+   "grid": "R-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Felucia?oldid=15812327",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Felucia?oldid=15812327",
+     "source_title": "Wookieepedia: Felucia",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Felucia?oldid=15812327",
+     "source_title": "Wookieepedia: Felucia",
+     "quote": "Listed under Appearances (6 episodes, e.g. \"Holocron Heist\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Felucia?oldid=15812327",
+     "source_title": "Wookieepedia: Felucia",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "ferrix",
+   "name": "Ferrix",
+   "grid": "Q-3",
+   "region_text": "New Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ferrix?oldid=15814371",
+    "quote": "Infobox coordinates: Standard Galactic Grid Q-3; region: New Territories"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Ferrix?oldid=15814371",
+     "source_title": "Wookieepedia: Ferrix",
+     "quote": "Listed under Appearances (11 episodes, e.g. \"Kassa (episode)\")"
+    }
+   ]
+  },
+  {
+   "id": "florrum",
+   "name": "Florrum",
+   "grid": "R-5",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Florrum?oldid=15708892",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-5; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Florrum?oldid=15708892",
+     "source_title": "Wookieepedia: Florrum",
+     "quote": "Listed under Appearances (9 episodes, e.g. \"Dooku Captured\")"
+    },
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Florrum?oldid=15708892",
+     "source_title": "Wookieepedia: Florrum",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "fondor",
+   "name": "Fondor",
+   "grid": "L-13",
+   "region_text": "Colonies",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Fondor?oldid=15695302",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-13; region: Colonies"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Fondor?oldid=15695302",
+     "source_title": "Wookieepedia: Fondor",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "geonosis",
+   "name": "Geonosis",
+   "grid": "R-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+     "source_title": "Wookieepedia: Geonosis",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "attack-of-the-clones",
+     "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+     "source_title": "Wookieepedia: Geonosis",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+     "source_title": "Wookieepedia: Geonosis",
+     "quote": "Listed under Appearances (8 episodes, e.g. \"Bounty Hunters (episode)\")"
+    },
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+     "source_title": "Wookieepedia: Geonosis",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part I\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+     "source_title": "Wookieepedia: Geonosis",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"The Honorable Ones\")"
+    },
+    {
+     "title_id": "the-book-of-boba-fett",
+     "source_url": "https://starwars.fandom.com/wiki/Geonosis?oldid=15812749",
+     "source_title": "Wookieepedia: Geonosis",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Chapter 1: Stranger in a Strange Land\")"
+    }
+   ]
+  },
+  {
+   "id": "ghorman",
+   "name": "Ghorman",
+   "grid": "L-13",
+   "region_text": "Colonies",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ghorman?oldid=15814388",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-13; region: Colonies"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Ghorman?oldid=15814388",
+     "source_title": "Wookieepedia: Ghorman",
+     "quote": "Listed under Appearances (5 episodes, e.g. \"Ever Been to Ghorman?\")"
+    }
+   ]
+  },
+  {
+   "id": "hosnian-prime",
+   "name": "Hosnian Prime",
+   "grid": "M-12",
+   "region_text": "Core Worlds",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Hosnian_Prime?oldid=15866987",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-12; region: Core Worlds"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-squadrons",
+     "source_url": "https://starwars.fandom.com/wiki/Hosnian_Prime?oldid=15866987",
+     "source_title": "Wookieepedia: Hosnian Prime",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-force-awakens",
+     "source_url": "https://starwars.fandom.com/wiki/Hosnian_Prime?oldid=15866987",
+     "source_title": "Wookieepedia: Hosnian Prime",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "hoth",
+   "name": "Hoth",
+   "grid": "K-18",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Hoth?oldid=15813274",
+    "quote": "Infobox coordinates: Standard Galactic Grid K-18; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Hoth?oldid=15813274",
+     "source_title": "Wookieepedia: Hoth",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Hoth?oldid=15813274",
+     "source_title": "Wookieepedia: Hoth",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Beasts of Echo Base\")"
+    },
+    {
+     "title_id": "the-empire-strikes-back",
+     "source_url": "https://starwars.fandom.com/wiki/Hoth?oldid=15813274",
+     "source_title": "Wookieepedia: Hoth",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-uprising",
+     "source_url": "https://starwars.fandom.com/wiki/Hoth?oldid=15813274",
+     "source_title": "Wookieepedia: Hoth",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "ilum",
+   "name": "Ilum",
+   "grid": "G-7",
+   "region_text": "Unknown Regions",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+    "quote": "Infobox coordinates: Standard Galactic Grid G-7; region: Unknown Regions"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"The Gathering (episode)\")"
+    },
+    {
+     "title_id": "star-wars-jedi-fallen-order",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-resistance",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"The Recruit\")"
+    },
+    {
+     "title_id": "the-force-awakens",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Perilous Pursuit\")"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Ilum?oldid=15711004",
+     "source_title": "Wookieepedia: Ilum",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "jabiim",
+   "name": "Jabiim",
+   "grid": "S-7",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Jabiim?oldid=15727416",
+    "quote": "Infobox coordinates: Standard Galactic Grid S-7; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Jabiim?oldid=15727416",
+     "source_title": "Wookieepedia: Jabiim",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Part IV\")"
+    }
+   ]
+  },
+  {
+   "id": "jakku",
+   "name": "Jakku",
+   "grid": "I-13",
+   "region_text": "Inner Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Jakku?oldid=15829106",
+    "quote": "Infobox coordinates: Standard Galactic Grid I-13; region: Inner Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Jakku?oldid=15829106",
+     "source_title": "Wookieepedia: Jakku",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Jakku?oldid=15829106",
+     "source_title": "Wookieepedia: Jakku",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"The Happabore Hazard\")"
+    },
+    {
+     "title_id": "the-force-awakens",
+     "source_url": "https://starwars.fandom.com/wiki/Jakku?oldid=15829106",
+     "source_title": "Wookieepedia: Jakku",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Jakku?oldid=15829106",
+     "source_title": "Wookieepedia: Jakku",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "jedha",
+   "name": "Jedha",
+   "grid": "H-10",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Jedha?oldid=15823864",
+    "quote": "Infobox coordinates: Standard Galactic Grid H-10; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-jedi-survivor",
+     "source_url": "https://starwars.fandom.com/wiki/Jedha?oldid=15823864",
+     "source_title": "Wookieepedia: Jedha",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Jedha?oldid=15823864",
+     "source_title": "Wookieepedia: Jedha",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Jedha, Kyber, Erso\")"
+    },
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Jedha?oldid=15823864",
+     "source_title": "Wookieepedia: Jedha",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "kashyyyk",
+   "name": "Kashyyyk",
+   "grid": "P-9",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+    "quote": "Infobox coordinates: Standard Galactic Grid P-9; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "young-jedi-adventures",
+     "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+     "source_title": "Wookieepedia: Kashyyyk",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Life Day (episode)\")"
+    },
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+     "source_title": "Wookieepedia: Kashyyyk",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+     "source_title": "Wookieepedia: Kashyyyk",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Pursuit of Peace\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+     "source_title": "Wookieepedia: Kashyyyk",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+     "source_title": "Wookieepedia: Kashyyyk",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Tribe\")"
+    },
+    {
+     "title_id": "star-wars-jedi-fallen-order",
+     "source_url": "https://starwars.fandom.com/wiki/Kashyyyk?oldid=15823030",
+     "source_title": "Wookieepedia: Kashyyyk",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "kef-bir",
+   "name": "Kef Bir",
+   "grid": "H-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Kef_Bir?oldid=15814715",
+    "quote": "Infobox coordinates: Standard Galactic Grid H-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Kef_Bir?oldid=15814715",
+     "source_title": "Wookieepedia: Kef Bir",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "kessel",
+   "name": "Kessel",
+   "grid": "T-10",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Kessel?oldid=15870796",
+    "quote": "Infobox coordinates: Standard Galactic Grid T-10; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Kessel?oldid=15870796",
+     "source_title": "Wookieepedia: Kessel",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Kessel?oldid=15870796",
+     "source_title": "Wookieepedia: Kessel",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Deal No Deal\")"
+    },
+    {
+     "title_id": "solo",
+     "source_url": "https://starwars.fandom.com/wiki/Kessel?oldid=15870796",
+     "source_title": "Wookieepedia: Kessel",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Kessel?oldid=15870796",
+     "source_title": "Wookieepedia: Kessel",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Spark of Rebellion\")"
+    },
+    {
+     "title_id": "a-new-hope",
+     "source_url": "https://starwars.fandom.com/wiki/Kessel?oldid=15870796",
+     "source_title": "Wookieepedia: Kessel",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "khofar",
+   "name": "Khofar",
+   "grid": "M-5",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Khofar?oldid=15815232",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-5; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-acolyte",
+     "source_url": "https://starwars.fandom.com/wiki/Khofar?oldid=15815232",
+     "source_title": "Wookieepedia: Khofar",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Revenge / Justice\")"
+    }
+   ]
+  },
+  {
+   "id": "kijimi",
+   "name": "Kijimi",
+   "grid": "R-8",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Kijimi?oldid=15815301",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-8; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-outlaws",
+     "source_url": "https://starwars.fandom.com/wiki/Kijimi?oldid=15815301",
+     "source_title": "Wookieepedia: Kijimi",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Kijimi?oldid=15815301",
+     "source_title": "Wookieepedia: Kijimi",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "koboh",
+   "name": "Koboh",
+   "grid": "H-19",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Koboh?oldid=15826832",
+    "quote": "Infobox coordinates: Standard Galactic Grid H-19; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-jedi-survivor",
+     "source_url": "https://starwars.fandom.com/wiki/Koboh?oldid=15826832",
+     "source_title": "Wookieepedia: Koboh",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "lahmu",
+   "name": "Lah'mu",
+   "grid": "L-3",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Lah'mu?oldid=15869554",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-3; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Lah'mu?oldid=15869554",
+     "source_title": "Wookieepedia: Lah'mu",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "lira-san",
+   "name": "Lira San",
+   "grid": "O-20",
+   "region_text": "Wild Space",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Lira_San?oldid=15530883",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-20; region: Wild Space"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Lira_San?oldid=15530883",
+     "source_title": "Wookieepedia: Lira San",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Legends of the Lasat\")"
+    }
+   ]
+  },
+  {
+   "id": "lothal",
+   "name": "Lothal",
+   "grid": "U-7",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Lothal?oldid=15828693",
+    "quote": "Infobox coordinates: Standard Galactic Grid U-7; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Lothal?oldid=15828693",
+     "source_title": "Wookieepedia: Lothal",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Lothal?oldid=15828693",
+     "source_title": "Wookieepedia: Lothal",
+     "quote": "Listed under Appearances (37 episodes, e.g. \"Art Attack\")"
+    },
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Lothal?oldid=15828693",
+     "source_title": "Wookieepedia: Lothal",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Part One: Master and Apprentice\")"
+    }
+   ]
+  },
+  {
+   "id": "malachor",
+   "name": "Malachor",
+   "grid": "S-4",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Malachor?oldid=15836327",
+    "quote": "Infobox coordinates: Standard Galactic Grid S-4; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Malachor?oldid=15836327",
+     "source_title": "Wookieepedia: Malachor",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Missing in Action\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Malachor?oldid=15836327",
+     "source_title": "Wookieepedia: Malachor",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Twilight of the Apprentice\")"
+    }
+   ]
+  },
+  {
+   "id": "mandalore",
+   "name": "Mandalore",
+   "grid": "O-7",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-7; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+     "source_title": "Wookieepedia: Mandalore",
+     "quote": "Listed under Appearances (12 episodes, e.g. \"The Mandalore Plot\")"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+     "source_title": "Wookieepedia: Mandalore",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Art History\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+     "source_title": "Wookieepedia: Mandalore",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Heroes of Mandalore\")"
+    },
+    {
+     "title_id": "the-book-of-boba-fett",
+     "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+     "source_title": "Wookieepedia: Mandalore",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Chapter 5: Return of the Mandalorian\")"
+    },
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+     "source_title": "Wookieepedia: Mandalore",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Chapter 18: The Mines of Mandalore\")"
+    },
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Mandalore?oldid=15816283",
+     "source_title": "Wookieepedia: Mandalore",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part Five: Shadow Warrior\")"
+    }
+   ]
+  },
+  {
+   "id": "mimban",
+   "name": "Mimban",
+   "grid": "O-12",
+   "region_text": "Expansion Region",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Mimban?oldid=15822911",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-12; region: Expansion Region"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Mimban?oldid=15822911",
+     "source_title": "Wookieepedia: Mimban",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Rookies (episode)\")"
+    },
+    {
+     "title_id": "solo",
+     "source_url": "https://starwars.fandom.com/wiki/Mimban?oldid=15822911",
+     "source_title": "Wookieepedia: Mimban",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "mon-cala",
+   "name": "Mon Cala",
+   "grid": "U-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Mon_Cala?oldid=15836192",
+    "quote": "Infobox coordinates: Standard Galactic Grid U-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Mon_Cala?oldid=15836192",
+     "source_title": "Wookieepedia: Mon Cala",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Water War\")"
+    },
+    {
+     "title_id": "star-wars-squadrons",
+     "source_url": "https://starwars.fandom.com/wiki/Mon_Cala?oldid=15836192",
+     "source_title": "Wookieepedia: Mon Cala",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "morak",
+   "name": "Morak",
+   "grid": "H-18",
+   "region_text": "Wild Space",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Morak?oldid=15816807",
+    "quote": "Infobox coordinates: Standard Galactic Grid H-18; region: Wild Space"
+   },
+   "links": [
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Morak?oldid=15816807",
+     "source_title": "Wookieepedia: Morak",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Chapter 15: The Believer\")"
+    }
+   ]
+  },
+  {
+   "id": "morlana-one",
+   "name": "Morlana One",
+   "grid": "Q-3",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Morlana_One?oldid=15868653",
+    "quote": "Infobox coordinates: Standard Galactic Grid Q-3; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Morlana_One?oldid=15868653",
+     "source_title": "Wookieepedia: Morlana One",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Kassa (episode)\")"
+    }
+   ]
+  },
+  {
+   "id": "mortis",
+   "name": "Mortis",
+   "grid": "K-2",
+   "region_text": "Wild Space",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Mortis?oldid=15878607",
+    "quote": "Infobox coordinates: Standard Galactic Grid K-2; region: Wild Space"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Mortis?oldid=15878607",
+     "source_title": "Wookieepedia: Mortis",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Overlords\")"
+    }
+   ]
+  },
+  {
+   "id": "mustafar",
+   "name": "Mustafar",
+   "grid": "L-19",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-19; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Children of the Force\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "tales-of-the-empire",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Devoted\")"
+    },
+    {
+     "title_id": "star-wars-jedi-fallen-order",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances (5 episodes, e.g. \"Part I\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Fire Across the Galaxy\")"
+    },
+    {
+     "title_id": "vader-immortal",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"I\")"
+    },
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Mustafar?oldid=15816882",
+     "source_title": "Wookieepedia: Mustafar",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "naboo",
+   "name": "Naboo",
+   "grid": "O-17",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-17; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "young-jedi-adventures",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Journey to the Bottom of Naboo\")"
+    },
+    {
+     "title_id": "the-phantom-menace",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Monster Misunderstanding\")"
+    },
+    {
+     "title_id": "attack-of-the-clones",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances (6 episodes, e.g. \"Blue Shadow Virus (episode)\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "tales-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Resolve (episode)\")"
+    },
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part I\")"
+    },
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Make It Stop\")"
+    },
+    {
+     "title_id": "return-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Naboo?oldid=15816928",
+     "source_title": "Wookieepedia: Naboo",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "narkina-5",
+   "name": "Narkina 5",
+   "grid": "S-15",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Narkina_5?oldid=15816956",
+    "quote": "Infobox coordinates: Standard Galactic Grid S-15; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Narkina_5?oldid=15816956",
+     "source_title": "Wookieepedia: Narkina 5",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Narkina 5 (episode)\")"
+    }
+   ]
+  },
+  {
+   "id": "nevarro",
+   "name": "Nevarro",
+   "grid": "K-20",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Nevarro?oldid=15876027",
+    "quote": "Infobox coordinates: Standard Galactic Grid K-20; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Nevarro?oldid=15876027",
+     "source_title": "Wookieepedia: Nevarro",
+     "quote": "Listed under Appearances (10 episodes, e.g. \"Chapter 1: The Mandalorian\")"
+    },
+    {
+     "title_id": "the-mandalorian-and-grogu",
+     "source_url": "https://starwars.fandom.com/wiki/Nevarro?oldid=15876027",
+     "source_title": "Wookieepedia: Nevarro",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "niamos",
+   "name": "Niamos",
+   "grid": "R-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Niamos?oldid=15834854",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Niamos?oldid=15834854",
+     "source_title": "Wookieepedia: Niamos",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Announcement\")"
+    }
+   ]
+  },
+  {
+   "id": "onderon",
+   "name": "Onderon",
+   "grid": "O-9",
+   "region_text": "Inner Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Onderon?oldid=15817231",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-9; region: Inner Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Onderon?oldid=15817231",
+     "source_title": "Wookieepedia: Onderon",
+     "quote": "Listed under Appearances (5 episodes, e.g. \"A War on Two Fronts\")"
+    },
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Onderon?oldid=15817231",
+     "source_title": "Wookieepedia: Onderon",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Aftermath (episode)\")"
+    }
+   ]
+  },
+  {
+   "id": "ord-mantell",
+   "name": "Ord Mantell",
+   "grid": "L-7",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ord_Mantell?oldid=15715218",
+    "quote": "Infobox coordinates: Standard Galactic Grid L-7; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Ord_Mantell?oldid=15715218",
+     "source_title": "Wookieepedia: Ord Mantell",
+     "quote": "Listed under Appearances (12 episodes, e.g. \"Rampage (episode)\")"
+    },
+    {
+     "title_id": "forces-of-destiny",
+     "source_url": "https://starwars.fandom.com/wiki/Ord_Mantell?oldid=15715218",
+     "source_title": "Wookieepedia: Ord Mantell",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Triplecross\")"
+    },
+    {
+     "title_id": "the-empire-strikes-back",
+     "source_url": "https://starwars.fandom.com/wiki/Ord_Mantell?oldid=15715218",
+     "source_title": "Wookieepedia: Ord Mantell",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "pasaana",
+   "name": "Pasaana",
+   "grid": "O-13",
+   "region_text": "Expansion Region",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Pasaana?oldid=15880928",
+    "quote": "Infobox coordinates: Standard Galactic Grid O-13; region: Expansion Region"
+   },
+   "links": [
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Pasaana?oldid=15880928",
+     "source_title": "Wookieepedia: Pasaana",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "rodia",
+   "name": "Rodia",
+   "grid": "R-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Rodia?oldid=15818400",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Rodia?oldid=15818400",
+     "source_title": "Wookieepedia: Rodia",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Ambush\")"
+    }
+   ]
+  },
+  {
+   "id": "ryloth",
+   "name": "Ryloth",
+   "grid": "R-17",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-17; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+     "source_title": "Wookieepedia: Ryloth",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+     "source_title": "Wookieepedia: Ryloth",
+     "quote": "Listed under Appearances (7 episodes, e.g. \"Supply Lines\")"
+    },
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+     "source_title": "Wookieepedia: Ryloth",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-bad-batch",
+     "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+     "source_title": "Wookieepedia: Ryloth",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Devil's Deal\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+     "source_title": "Wookieepedia: Ryloth",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Homecoming\")"
+    },
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Ryloth?oldid=15818531",
+     "source_title": "Wookieepedia: Ryloth",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Part Five: Shadow Warrior\")"
+    }
+   ]
+  },
+  {
+   "id": "savareen",
+   "name": "Savareen",
+   "grid": "Q-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Savareen?oldid=15669062",
+    "quote": "Infobox coordinates: Standard Galactic Grid Q-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "solo",
+     "source_url": "https://starwars.fandom.com/wiki/Savareen?oldid=15669062",
+     "source_title": "Wookieepedia: Savareen",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "scarif",
+   "name": "Scarif",
+   "grid": "S-15",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Scarif?oldid=15818687",
+    "quote": "Infobox coordinates: Standard Galactic Grid S-15; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Scarif?oldid=15818687",
+     "source_title": "Wookieepedia: Scarif",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Scarif?oldid=15818687",
+     "source_title": "Wookieepedia: Scarif",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Rix Road (episode)\")"
+    },
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Scarif?oldid=15818687",
+     "source_title": "Wookieepedia: Scarif",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "seatos",
+   "name": "Seatos",
+   "grid": "M-19",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Seatos?oldid=15818731",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-19; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "ahsoka",
+     "source_url": "https://starwars.fandom.com/wiki/Seatos?oldid=15818731",
+     "source_title": "Wookieepedia: Seatos",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"Part Two: Toil and Trouble\")"
+    }
+   ]
+  },
+  {
+   "id": "sorgan",
+   "name": "Sorgan",
+   "grid": "Q-17",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Sorgan?oldid=15873053",
+    "quote": "Infobox coordinates: Standard Galactic Grid Q-17; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Sorgan?oldid=15873053",
+     "source_title": "Wookieepedia: Sorgan",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Chapter 4: Sanctuary\")"
+    }
+   ]
+  },
+  {
+   "id": "takodana",
+   "name": "Takodana",
+   "grid": "J-16",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Takodana?oldid=15820310",
+    "quote": "Infobox coordinates: Standard Galactic Grid J-16; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Takodana?oldid=15820310",
+     "source_title": "Wookieepedia: Takodana",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-force-awakens",
+     "source_url": "https://starwars.fandom.com/wiki/Takodana?oldid=15820310",
+     "source_title": "Wookieepedia: Takodana",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "tatooine",
+   "name": "Tatooine",
+   "grid": "R-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "young-jedi-adventures",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Kai's Bad Day\")"
+    },
+    {
+     "title_id": "the-phantom-menace",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "attack-of-the-clones",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars-film",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances (11 episodes, e.g. \"Ambush\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "obi-wan-kenobi-series",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances (3 episodes, e.g. \"Part I\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Twin Suns (episode)\")"
+    },
+    {
+     "title_id": "a-new-hope",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-outlaws",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "return-of-the-jedi",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances (5 episodes, e.g. \"Chapter 5: The Gunslinger\")"
+    },
+    {
+     "title_id": "the-book-of-boba-fett",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances (7 episodes, e.g. \"Chapter 1: Stranger in a Strange Land\")"
+    },
+    {
+     "title_id": "the-rise-of-skywalker",
+     "source_url": "https://starwars.fandom.com/wiki/Tatooine?oldid=15820404",
+     "source_title": "Wookieepedia: Tatooine",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "toshara",
+   "name": "Toshara",
+   "grid": "T-8",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Toshara?oldid=15820954",
+    "quote": "Infobox coordinates: Standard Galactic Grid T-8; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-outlaws",
+     "source_url": "https://starwars.fandom.com/wiki/Toshara?oldid=15820954",
+     "source_title": "Wookieepedia: Toshara",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "toydaria",
+   "name": "Toydaria",
+   "grid": "R-11",
+   "region_text": "The Slice",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Toydaria?oldid=15800966",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-11; region: The Slice"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Toydaria?oldid=15800966",
+     "source_title": "Wookieepedia: Toydaria",
+     "quote": "Listed under Appearances (5 episodes, e.g. \"Supply Lines\")"
+    }
+   ]
+  },
+  {
+   "id": "trask",
+   "name": "Trask",
+   "grid": "R-16",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Trask?oldid=15867481",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-16; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Trask?oldid=15867481",
+     "source_title": "Wookieepedia: Trask",
+     "quote": "Listed under Appearances (2 episodes, e.g. \"Chapter 10: The Passenger\")"
+    }
+   ]
+  },
+  {
+   "id": "tython",
+   "name": "Tython",
+   "grid": "K-10",
+   "region_text": "Deep Core",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Tython?oldid=15873065",
+    "quote": "Infobox coordinates: Standard Galactic Grid K-10; region: Deep Core"
+   },
+   "links": [
+    {
+     "title_id": "the-mandalorian",
+     "source_url": "https://starwars.fandom.com/wiki/Tython?oldid=15873065",
+     "source_title": "Wookieepedia: Tython",
+     "quote": "Listed under Appearances (1 episode, e.g. \"Chapter 14: The Tragedy\")"
+    }
+   ]
+  },
+  {
+   "id": "umbara",
+   "name": "Umbara",
+   "grid": "P-10",
+   "region_text": "Expansion Region",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Umbara?oldid=15821250",
+    "quote": "Infobox coordinates: Standard Galactic Grid P-10; region: Expansion Region"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Umbara?oldid=15821250",
+     "source_title": "Wookieepedia: Umbara",
+     "quote": "Listed under Appearances (6 episodes, e.g. \"Darkness on Umbara\")"
+    },
+    {
+     "title_id": "star-wars-zero-company",
+     "source_url": "https://starwars.fandom.com/wiki/Umbara?oldid=15821250",
+     "source_title": "Wookieepedia: Umbara",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "utapau",
+   "name": "Utapau",
+   "grid": "N-19",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Utapau?oldid=15821915",
+    "quote": "Infobox coordinates: Standard Galactic Grid N-19; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "the-clone-wars",
+     "source_url": "https://starwars.fandom.com/wiki/Utapau?oldid=15821915",
+     "source_title": "Wookieepedia: Utapau",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"A Death on Utapau\")"
+    },
+    {
+     "title_id": "revenge-of-the-sith",
+     "source_url": "https://starwars.fandom.com/wiki/Utapau?oldid=15821915",
+     "source_title": "Wookieepedia: Utapau",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "wobani",
+   "name": "Wobani",
+   "grid": "R-8",
+   "region_text": "Mid Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Wobani?oldid=15825056",
+    "quote": "Infobox coordinates: Standard Galactic Grid R-8; region: Mid Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Wobani?oldid=15825056",
+     "source_title": "Wookieepedia: Wobani",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "yavin-4",
+   "name": "Yavin 4",
+   "grid": "P-6",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+    "quote": "Infobox coordinates: Standard Galactic Grid P-6; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-battlefront-ii-2017",
+     "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+     "source_title": "Wookieepedia: Yavin 4",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "andor",
+     "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+     "source_title": "Wookieepedia: Yavin 4",
+     "quote": "Listed under Appearances (6 episodes, e.g. \"One Year Later\")"
+    },
+    {
+     "title_id": "star-wars-rebels",
+     "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+     "source_title": "Wookieepedia: Yavin 4",
+     "quote": "Listed under Appearances (4 episodes, e.g. \"In the Name of the Rebellion\")"
+    },
+    {
+     "title_id": "rogue-one",
+     "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+     "source_title": "Wookieepedia: Yavin 4",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "a-new-hope",
+     "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+     "source_title": "Wookieepedia: Yavin 4",
+     "quote": "Listed under Appearances"
+    },
+    {
+     "title_id": "star-wars-squadrons",
+     "source_url": "https://starwars.fandom.com/wiki/Yavin_4?oldid=15822433",
+     "source_title": "Wookieepedia: Yavin 4",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  },
+  {
+   "id": "zeffo",
+   "name": "Zeffo",
+   "grid": "M-3",
+   "region_text": "Outer Rim Territories",
+   "where": {
+    "source_url": "https://starwars.fandom.com/wiki/Zeffo?oldid=15725521",
+    "quote": "Infobox coordinates: Standard Galactic Grid M-3; region: Outer Rim Territories"
+   },
+   "links": [
+    {
+     "title_id": "star-wars-jedi-fallen-order",
+     "source_url": "https://starwars.fandom.com/wiki/Zeffo?oldid=15725521",
+     "source_title": "Wookieepedia: Zeffo",
+     "quote": "Listed under Appearances"
+    }
+   ]
+  }
+ ],
+ "not_placed": [
+  "Kamino",
+  "Vandor-1",
+  "Peridea",
+  "Kuat (no matching appearance)",
+  "Starkiller Base"
+ ]
+}

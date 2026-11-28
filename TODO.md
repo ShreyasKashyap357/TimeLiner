@@ -123,7 +123,12 @@
 - [x] Map viewer: fit width by default, fit height / whole map / full screen, seamless tiles at fractional zoom and DPR
 - [ ] Pins on the other ASOIAF maps (regional, history and journey maps) and map captions/periods verified at full resolution
 - [ ] More Atlas of Ice and Fire worlds: Wheel of Time (Westlands, nations, city and journey maps), The Witcher, Dune (Arrakis, Imperium star maps), Avatar: The Last Airbender, Fallout, Battlestar Galactica, Star Trek (Bajor)
-- [ ] Atlas for Foundation, Star Wars, Star Trek, Marvel, DC: find fan maps (credited, removed on request) per R-70
+- [x] Galaxy maps drawn from data (`kind: "galaxy"`, `scripts/build/galaxy-map.ts`): Star Wars canon (78 worlds on the Standard Galactic Grid, Wookieepedia), Foundation (6 worlds on centre/Periphery rings, Asimov Wiki + Wikipedia)
+- [ ] Galaxy maps: Star Wars Legends; more Foundation worlds if a source names their region; Star Trek (quadrants are already an image map), Dune (Imperium), The Expanse (Sol system), Halo, Mass-Effect-style settings in the dataset
+- [ ] Atlas for Star Trek, Marvel, DC: find fan maps (credited, removed on request) per R-70
+- [x] Map places: hover previews the card, click pins it until a click outside or Esc
+- [x] Charts (dual axis, connections, branch graph): hover summary, click pins a card with its links; branch diagram is now an interactive graph of titles along each branch
+- [x] "All continuities" in the continuity picker: each continuity's timeline (and dual-axis chart) in its own card
 - [ ] ASOIAF houses layer with CC BY-SA 3.0 coats of arms (Hielo y Fuego wiki), each with its licence
 - [x] Leaflet Maps view (lazy chunk), `maps.json` schema + integrity, credits panel
 - [x] Image maps: Narnia, Star Trek quadrants, One Piece (Commons, PD / CC BY-SA)

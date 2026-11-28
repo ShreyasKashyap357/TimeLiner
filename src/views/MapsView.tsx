@@ -1,6 +1,7 @@
 // Maps view: per-universe maps from data/<universe>/maps.json, drawn with Leaflet (lazy chunk).
 // Image maps use CRS.Simple + an image overlay (places in image pixels); 'osm' maps use OpenStreetMap tiles
-// (places in lat/lng). Nothing franchise-specific here: maps, places and credits are all data.
+// (places in lat/lng); 'galaxy' maps are drawn here from data (a lettered grid and/or region rings, see
+// src/domain/galaxy.ts). Nothing franchise-specific here: maps, places and credits are all data.
 import 'leaflet/dist/leaflet.css';
 import './maps.css';
 import L from 'leaflet';
@@ -10,6 +11,7 @@ import { CircleCheck, CircleHelp, ExternalLink, Maximize, MapPin, Minimize, Move
 import { useApp } from '@/app/context';
 import { loadMaps } from '@/state/data';
 import { titleLabel } from '@/domain/model';
+import { galaxyGeometry, galaxyPositions, galaxySvg, galaxyWhere } from '@/domain/galaxy';
 import type { MapPlace, WorldMap } from '@/domain/schema';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -37,7 +39,13 @@ const CONF = {
 
 /** Leaflet position of a place: image pixels (y down) become CRS.Simple lat/lng (y up). Tiled images use the
  *  tile pyramid's scale (pixel / 2^max_zoom, y negative), so tiles and places line up at every zoom. */
+const galaxyCache = new WeakMap<WorldMap, ReturnType<typeof galaxyPositions>>();
 export function placeLatLng(m: WorldMap, p: MapPlace): L.LatLngExpression {
+  if (m.kind === 'galaxy') {
+    if (!galaxyCache.has(m)) galaxyCache.set(m, galaxyPositions(m));
+    const pos = galaxyCache.get(m)!.get(p.id) ?? { x: 0, y: 0 };
+    return [galaxyGeometry(m).h - pos.y, pos.x];
+  }
   if (m.kind === 'image' && m.image?.tiles) { const k = 2 ** m.image.tiles.max_zoom; return [-p.y! / k, p.x! / k]; }
   if (m.kind === 'image' && m.image) return [m.image.height - p.y!, p.x!];
   return [p.lat!, p.lng!];
@@ -112,6 +120,14 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
   const popup = useRef<L.Popup | null>(null);
   const select = useRef(onSelect);
   select.current = onSelect;
+  // Hover shows a place's card (a preview, no map panning); a click pins it until a click outside it or Esc.
+  const [hoverId, setHoverId] = useState<string | null>(null);
+  const pinned = useRef(placeId);
+  pinned.current = placeId;
+  const hoverT = useRef<number | undefined>(undefined);
+  const hoverOn = useRef((id: string) => { window.clearTimeout(hoverT.current); setHoverId(id); });
+  const hoverOff = useRef(() => { window.clearTimeout(hoverT.current); hoverT.current = window.setTimeout(() => setHoverId(null), 250); });
+  const shown = placeId ?? hoverId;
   const kbd = useRef(false); // last place was opened from the keyboard: focus moves into the popup and back
   const lastPlace = useRef<string | null>(null);
   const extent = useRef<L.LatLngBounds | null>(null);
@@ -131,7 +147,7 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
   useEffect(() => {
     const m = lmap.current;
     if (!m) return;
-    const t = setTimeout(() => { m.invalidateSize(); if (map.kind === 'image') fit('width'); }, 50);
+    const t = setTimeout(() => { m.invalidateSize(); if (map.kind === 'image') fit('width'); else if (map.kind === 'galaxy') fit('all'); }, 50);
     return () => clearTimeout(t);
   }, [full]); // eslint-disable-line react-hooks/exhaustive-deps
   const toggleFull = () => {
@@ -142,7 +158,7 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
 
   useEffect(() => {
     const node = el.current!;
-    const img = map.kind === 'image';
+    const img = map.kind !== 'osm'; // image and galaxy maps use flat drawing coordinates
     const m = L.map(node, { crs: img ? L.CRS.Simple : L.CRS.EPSG3857, zoomSnap: img ? 0 : 1, zoomDelta: img ? 0.5 : 1, wheelPxPerZoomLevel: 120, attributionControl: true, worldCopyJump: map.kind === 'osm' });
     m.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
     let bounds: L.LatLngBounds;
@@ -158,6 +174,19 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
       m.setMaxZoom(z + 1);
       m.setMaxBounds(bounds.pad(0.25));
       fitView(m, bounds, 'width');
+    } else if (map.kind === 'galaxy') {
+      const geo = galaxyGeometry(map);
+      bounds = L.latLngBounds([0, 0], [geo.h, geo.w]);
+      const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      svg.setAttribute('viewBox', `0 0 ${geo.w} ${geo.h}`);
+      svg.setAttribute('aria-hidden', 'true');
+      svg.innerHTML = galaxySvg(map);
+      L.svgOverlay(svg, bounds).addTo(m);
+      const all = m.getBoundsZoom(bounds, false);
+      m.setMinZoom(all - 1);
+      m.setMaxZoom(all + 4);
+      m.setMaxBounds(bounds.pad(0.25));
+      fitView(m, bounds, 'all');
     } else if (map.kind === 'image' && map.image) {
       bounds = L.latLngBounds([0, 0], [map.image.height, map.image.width]);
       L.imageOverlay(`${import.meta.env.BASE_URL}${map.image.path}`, bounds, { alt: `Map: ${map.title}` }).addTo(m);
@@ -181,7 +210,9 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
       const icon = mk.getElement();
       icon?.setAttribute('aria-label', p.name);
       icon?.setAttribute('data-place', p.id);
-      mk.on('click', () => { kbd.current = false; select.current(p.id); });
+      mk.on('click', () => { kbd.current = false; window.clearTimeout(hoverT.current); setHoverId(null); select.current(p.id); });
+      mk.on('mouseover', () => hoverOn.current(p.id));
+      mk.on('mouseout', () => hoverOff.current());
       // Leaflet only opens bound popups from the keyboard; markers here act as buttons (Enter / Space)
       icon?.addEventListener('keydown', (e) => {
         if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); e.stopPropagation(); kbd.current = true; select.current(p.id); }
@@ -192,11 +223,24 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
     popup.current = L.popup({ content: popupEl, maxWidth: width, minWidth: Math.min(200, width), maxHeight: Math.max(160, node.clientHeight - 90), autoPanPadding: [16, 16], className: 'tl-map-popup' });
     const onPopupKey = (e: KeyboardEvent) => { if (e.key === 'Escape') { e.stopPropagation(); m.closePopup(); } };
     popupEl.addEventListener('keydown', onPopupKey);
+    // moving the pointer from a marker into its card keeps the card open
+    const keep = () => window.clearTimeout(hoverT.current);
+    const leave = () => { if (!pinned.current) hoverOff.current(); };
+    popupEl.addEventListener('mouseenter', keep);
+    popupEl.addEventListener('mouseleave', leave);
+    // a pinned card closes on a click anywhere outside it (Leaflet already closes it on clicks on the map)
+    const outside = (e: PointerEvent) => {
+      const t = e.target as Element | null;
+      if (!pinned.current || !t || popupEl.contains(t) || t.closest('.tl-map-marker, [data-place-select]')) return;
+      if (!node.contains(t)) select.current(null);
+    };
+    document.addEventListener('pointerdown', outside);
     m.on('popupclose', () => {
       node.classList.remove('has-popup');
       setTimeout(() => {
         if (popup.current?.isOpen()) return;
         select.current(null);
+        setHoverId(null);
         // keyboard users go back to the marker they opened
         if (kbd.current && lastPlace.current && (!document.activeElement || document.activeElement === document.body || popupEl.contains(document.activeElement) || node.contains(document.activeElement))) {
           markers.current.get(lastPlace.current)?.getElement()?.focus();
@@ -214,7 +258,11 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
     const pro = new ResizeObserver(() => { if (popup.current?.isOpen()) popup.current.update(); });
     pro.observe(popupEl);
     const all = markers.current;
-    return () => { ro.disconnect(); pro.disconnect(); popupEl.removeEventListener('keydown', onPopupKey); m.remove(); lmap.current = null; all.clear(); };
+    return () => {
+      ro.disconnect(); pro.disconnect(); window.clearTimeout(hoverT.current);
+      popupEl.removeEventListener('keydown', onPopupKey); popupEl.removeEventListener('mouseenter', keep); popupEl.removeEventListener('mouseleave', leave);
+      document.removeEventListener('pointerdown', outside);
+      m.remove(); lmap.current = null; all.clear(); };
   }, [map, popupEl]);
 
   // open the shared popup on the selected place; React renders its content into popupEl through a portal
@@ -223,22 +271,24 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
     const pop = popup.current;
     if (!m || !pop) return;
     for (const [id, mk] of markers.current) mk.getElement()?.classList.toggle('is-selected', id === placeId);
-    const mk = placeId ? markers.current.get(placeId) : undefined;
+    const mk = shown ? markers.current.get(shown) : undefined;
     if (!mk) { if (pop.isOpen()) m.closePopup(pop); return; }
-    lastPlace.current = placeId;
+    if (placeId) lastPlace.current = placeId;
+    pop.options.autoPan = !!placeId; // a hover preview never moves the map under the pointer
+    pop.getElement()?.classList.toggle('is-preview', !placeId);
     pop.setLatLng(mk.getLatLng());
     if (!pop.isOpen()) pop.openOn(m);
     const raf = requestAnimationFrame(() => { pop.update(); stripTitles(el.current!); });
     // after the popup's fade-in/auto-pan (focus() is ignored while it is still animating)
     const t = kbd.current ? setTimeout(() => popupEl.querySelector<HTMLElement>('button, a[href]')?.focus(), 300) : undefined;
     return () => { cancelAnimationFrame(raf); clearTimeout(t); };
-  }, [placeId, popupEl]);
+  }, [placeId, shown, popupEl]);
 
-  const place = map.places.find((p) => p.id === placeId);
+  const place = map.places.find((p) => p.id === shown);
   return (
     <div ref={wrap} className={cn('flex flex-col gap-2', full && 'fixed inset-0 z-50 bg-background p-2')} data-testid="map-frame" data-full={full || undefined}>
       <div role="toolbar" aria-label="Map view" className="flex items-center gap-1">
-        {map.kind === 'image' && <>
+        {map.kind !== 'osm' && <>
           <Button size="sm" variant="outline" onClick={() => fit('width')}><MoveHorizontal aria-hidden /><span className="sr-only sm:not-sr-only">Fit width</span></Button>
           <Button size="sm" variant="outline" onClick={() => fit('height')}><MoveVertical aria-hidden /><span className="sr-only sm:not-sr-only">Fit height</span></Button>
           <Button size="sm" variant="outline" onClick={() => fit('all')}><Scan aria-hidden /><span className="sr-only sm:not-sr-only">Whole map</span></Button>
@@ -249,12 +299,12 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
       </div>
       {/* Leaflet adds its own classes to the map node, so its className never changes; the wrapper sizes it. An image
           map's panel takes the image's shape (no empty bands above and below), within 20rem..78% of the screen. */}
-      <div className={cn('relative w-full', full ? 'min-h-0 flex-1' : 'max-h-[min(78dvh,50rem)] min-h-80', !full && map.kind !== 'image' && 'h-[min(78dvh,50rem)]')}
-        style={!full && map.image ? { aspectRatio: `${map.image.width} / ${map.image.height}` } : undefined}>
+      <div className={cn('relative w-full', full ? 'min-h-0 flex-1' : 'max-h-[min(78dvh,50rem)] min-h-80', !full && map.kind === 'osm' && 'h-[min(78dvh,50rem)]')}
+        style={full ? undefined : map.image ? { aspectRatio: `${map.image.width} / ${map.image.height}` } : map.kind === 'galaxy' ? { aspectRatio: `${galaxyGeometry(map).w} / ${galaxyGeometry(map).h}` } : undefined}>
         <div ref={el} role="region" aria-label={`Interactive map: ${map.title}. Use the place list below to visit each place.`}
           className="tl-map absolute inset-0 isolate z-0 overflow-hidden border border-border" />
       </div>
-      {place && createPortal(<PlaceCard key={place.id} place={place} />, popupEl)}
+      {place && createPortal(<PlaceCard key={place.id} place={place} preview={!placeId} where={map.kind === 'galaxy' ? galaxyWhere(map, place) : ''} />, popupEl)}
     </div>
   );
 }
@@ -270,7 +320,7 @@ function ConfidenceTag({ c }: { c: MapPlace['confidence'] }) {
 }
 
 /** Popup body: name, confidence, note, source and the linked titles (open the detail drawer). */
-function PlaceCard({ place }: { place: MapPlace }) {
+function PlaceCard({ place, preview, where }: { place: MapPlace; preview: boolean; where: string }) {
   const { ds, update } = useApp();
   const titles = place.title_ids.map((id) => ds.titles.find((t) => t.id === id)).filter((t) => t && t.units.length);
   const [more, setMore] = useState(false);
@@ -281,6 +331,7 @@ function PlaceCard({ place }: { place: MapPlace }) {
         <strong className="text-base font-semibold">{place.name}</strong>
         <ConfidenceTag c={place.confidence} />
       </div>
+      {where && <p className="text-xs font-medium">{where}</p>}
       {place.note && <>
         <p className={cn('text-muted-foreground', long && !more && 'line-clamp-3')}>{place.note}</p>
         {long && <button type="button" className="text-xs underline" aria-expanded={more} onClick={() => setMore(!more)}>{more ? 'Show less' : 'Show more'}</button>}
@@ -303,6 +354,7 @@ function PlaceCard({ place }: { place: MapPlace }) {
       <a href={place.source_url} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 text-xs underline">
         Source <ExternalLink aria-hidden className="size-3" />
       </a>
+      {preview && <p className="text-xs text-muted-foreground">Click the marker to keep this open.</p>}
     </div>
   );
 }
@@ -318,7 +370,7 @@ function PlaceList({ map, placeId, onSelect }: { map: WorldMap; placeId: string 
           <ul className="flex max-h-72 flex-col gap-1 overflow-y-auto pr-1" data-testid="place-list">
             {places.map((p) => (
               <li key={p.id}>
-                <button type="button" aria-pressed={p.id === placeId}
+                <button type="button" aria-pressed={p.id === placeId} data-place-select
                   onClick={() => { onSelect(p.id); document.querySelector('.tl-map')?.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }}
                   className={cn('flex w-full items-center gap-2 px-2 py-1 text-left text-sm hover:bg-muted focus-visible:outline-2 focus-visible:outline-ring', p.id === placeId && 'bg-muted font-medium')}>
                   <MapPin aria-hidden className="size-3.5 shrink-0 text-[var(--u-primary)]" />
@@ -364,6 +416,7 @@ function AboutMap({ map }: { map: WorldMap }) {
         </>}
       </dl>
       {c.note && <p className="text-muted-foreground">{c.note}</p>}
+      {map.galaxy && <p className="border-l-2 border-[var(--u-secondary)] pl-2 text-muted-foreground" data-testid="galaxy-note">{map.galaxy.note}</p>}
       {map.places.length > 0 && (
         <p className="text-muted-foreground">
           {counts.stated > 0 && `${counts.stated} ${counts.stated === 1 ? 'place is' : 'places are'} stated by the source. `}

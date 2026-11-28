@@ -433,8 +433,82 @@ test.describe('maps', () => {
     expect(await overflowX(page)).toBeLessThanOrEqual(1);
   });
 
+  test('atlas: hovering a place previews its card; a click pins it until a click outside', async ({ page, isMobile }) => {
+    test.skip(isMobile, 'hover only');
+    await page.goto('/?u=asoiaf&view=maps');
+    const marker = page.locator('.tl-map [data-place="winterfell"]');
+    await expect(marker).toBeVisible({ timeout: 30_000 });
+    const card = page.getByTestId('place-card');
+    await marker.hover();
+    await expect(card).toContainText('Winterfell');
+    await expect(card).toContainText('Click the marker to keep this open');
+    await page.mouse.move(5, 5);
+    await expect(card).toHaveCount(0);
+    await marker.click();
+    await expect(card).toBeVisible();
+    await expect(card).not.toContainText('Click the marker to keep this open');
+    await page.mouse.move(5, 5);
+    await page.waitForTimeout(400);
+    await expect(card).toBeVisible(); // pinned: leaving does not close it
+    await page.getByRole('heading', { name: 'Places' }).click();
+    await expect(card).toHaveCount(0);
+  });
+
+  test('atlas: galaxy maps are drawn from data with worlds in their grid squares or regions', async ({ page }) => {
+    await page.goto('/?u=star-wars&view=maps');
+    await expect(page.getByTestId('galaxy-note')).toContainText('grid square', { timeout: 30_000 });
+    await expect.poll(() => page.locator('.tl-map [data-place]').count()).toBeGreaterThan(50);
+    await page.getByTestId('place-list').getByRole('button', { name: /^Tatooine/ }).click();
+    const card = page.getByTestId('place-card');
+    await expect(card).toContainText('Grid R-16');
+    await expect(card).toContainText('A New Hope');
+    await page.goto('/?u=foundation&view=maps');
+    await expect(page.getByTestId('galaxy-note')).toContainText('regions', { timeout: 30_000 });
+    await page.getByTestId('place-list').getByRole('button', { name: /^Terminus/ }).click();
+    await expect(page.getByTestId('place-card')).toContainText('The Periphery');
+    expect(await nativeTitles(page)).toEqual([]);
+    expect(await overflowX(page)).toBeLessThanOrEqual(1);
+  });
+
   test('atlas: button is disabled where a universe has no maps', async ({ page }) => {
     await page.goto('/?u=dune');
     await expect(page.getByTestId('atlas-button')).toBeDisabled();
   });
+});
+
+const titlesIn = (page: import('@playwright/test').Page) => page.evaluate(() => [...document.querySelectorAll('[title], svg title')].filter((e) => !(e instanceof HTMLTitleElement)).map((e) => e.outerHTML.slice(0, 120)));
+const overflowOf = (page: import('@playwright/test').Page) => page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+
+test('branch graph: marks show a summary on hover and a pinned card on click', async ({ page, isMobile }) => {
+  await page.goto('/?u=marvel&view=continuities');
+  const graph = page.getByTestId('branch-graph').filter({ hasText: 'Revised timeline' }).first();
+  await expect(graph).toBeVisible({ timeout: 20_000 });
+  const mark = graph.getByRole('button', { name: /^X-Men: Days of Future Past/ }).first();
+  if (!isMobile) {
+    await mark.hover();
+    await expect(page.getByRole('tooltip')).toContainText('Days of Future Past');
+  }
+  await mark.click();
+  const card = page.getByRole('dialog', { name: 'Details' });
+  await expect(card).toContainText('Days of Future Past');
+  await card.getByRole('button', { name: 'Open details' }).click();
+  await expect(page).toHaveURL(/unit=/);
+  expect(await titlesIn(page)).toEqual([]);
+});
+
+test('all continuities: every continuity in its own card, for the timeline and dual-axis views', async ({ page }) => {
+  await page.goto('/?u=marvel&c=mcu');
+  await page.getByRole('combobox', { name: 'Continuity (in-universe views)' }).click();
+  await page.getByRole('option', { name: /^All continuities/ }).click();
+  await expect(page).toHaveURL(/c=all/);
+  const cards = page.getByTestId('continuity-card');
+  await expect.poll(() => cards.count(), { timeout: 20_000 }).toBeGreaterThan(3);
+  await expect(page.getByRole('heading', { name: 'X-Men film series (20th Century Fox)' })).toBeVisible();
+  await page.goto('/?u=marvel&c=all&view=dual');
+  await expect.poll(() => cards.count(), { timeout: 20_000 }).toBeGreaterThan(3);
+  await expect(page.getByRole('group', { name: /Scatter plot .* Fox/ }).first()).toBeVisible();
+  await cards.filter({ hasText: 'X-Men film series' }).getByRole('button', { name: 'Open on its own' }).click();
+  await expect(page).toHaveURL(/c=fox-x-men/);
+  expect(await overflowOf(page)).toBeLessThanOrEqual(1);
+  expect(await titlesIn(page)).toEqual([]);
 });

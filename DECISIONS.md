@@ -8,7 +8,7 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| | Nothing open. | |
+| D-84 | **High-quality maps for Westeros, Middle-earth and other book worlds.** The official maps (books, HBO, wiki uploads) are copyrighted, and crediting them does not make re-hosting them on the public site allowed. Options: freely licensed high-resolution fan maps (CC BY / CC BY-SA); asking map makers for permission; linking out to the official map. | Only maps that are freely licensed or used with written permission, credited in full. Research per world first; draft permission requests where the best map isn't free. |
 
 ## Resolved
 

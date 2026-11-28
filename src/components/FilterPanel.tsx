@@ -1,4 +1,4 @@
-import { useId, useMemo } from 'react';
+import { useId, useMemo, useState } from 'react';
 import { useApp } from '@/app/context';
 import { defaultState, type FilterState, type SortId } from '@/domain/filters';
 import { formatYear } from '@/domain/dates';
@@ -12,6 +12,11 @@ import { Button } from '@/components/ui/button';
 import { Slider } from '@/components/ui/slider';
 import { TIER_TEXT, TYPE_TEXT } from '@/domain/labels';
 import { Separator } from '@/components/ui/separator';
+import { Input } from '@/components/ui/input';
+
+/** Lists longer than this get a search box and scroll inside a fixed height (studios across all universes run to hundreds). */
+const SEARCH_FROM = 10;
+const fold = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
 
 function toggleIn<T>(list: T[], v: T, on: boolean): T[] {
@@ -22,12 +27,23 @@ function CheckGroup({ legend, options, value, onChange, hint }: {
   legend: string; options: { id: string; label: string; count: number; help?: string; indent?: boolean }[]; value: string[]; onChange: (v: string[]) => void; hint?: string;
 }) {
   const uid = useId();
+  const [query, setQuery] = useState('');
   if (!options.length) return null;
+  const searchable = options.length > SEARCH_FROM;
+  const q = fold(query.trim());
+  // Ticked options stay visible while searching, so they can always be unticked.
+  const shown = q ? options.filter((o) => value.includes(o.id) || fold(o.label).includes(q)) : options;
   return (
     <fieldset className="space-y-1.5">
       <legend className="mb-1 text-sm font-semibold">{legend}</legend>
       {hint && <p className="text-xs text-muted-foreground">{hint}</p>}
-      {options.map((o) => {
+      {searchable && (
+        <Input type="search" value={query} onChange={(e) => setQuery(e.target.value)} placeholder={`Search ${options.length}…`}
+          aria-label={`Search ${legend.toLowerCase()}`} className="h-8 text-sm" />
+      )}
+      <div className={searchable ? 'max-h-64 space-y-1.5 overflow-y-auto pr-1' : 'space-y-1.5'}>
+      {searchable && !shown.length && <p className="text-xs text-muted-foreground">No matches.</p>}
+      {shown.map((o) => {
         const id = `${uid}-${o.id}`.replace(/[^\w-]+/g, '-');
         return (
           <div key={o.id} className={o.indent ? 'flex items-start gap-2 pl-5' : 'flex items-start gap-2'}>
@@ -41,6 +57,7 @@ function CheckGroup({ legend, options, value, onChange, hint }: {
           </div>
         );
       })}
+      </div>
     </fieldset>
   );
 }

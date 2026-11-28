@@ -909,3 +909,13 @@ Optional `data/<universe>/maps.json` (schema `WorldMap` in `src/domain/schema.ts
 - **Texas Chain Saw.** Four continuities, exactly as the franchise article tables them. The 1974 film sits in the original one, and the others link to it.
 - **Universal Monsters.** 1931–1955, release order, with sequels and crossovers as links.
 - **Studios.** For this batch, studios are the infobox distributors; production companies were not checked.
+
+## Universe categories (2026-11-28)
+`category` on each universe groups the Universe picker (migration `2026-11-28-universe-categories.ts`). The categories are browsing aids, not canon. Judgement calls:
+- Krrish is under Indian cinema, not Superheroes, so all Indian franchises stay together.
+- Godzilla & Kong, Ghostbusters, The Hunger Games, Mad Max and Planet of the Apes are under Science fiction.
+- Outlander and The Dark Tower are under Fantasy.
+- Sherlock Holmes and Rocky are under Action, spy & adventure, which is the closest of the existing groups.
+- The Walking Dead is under Horror. Twin Peaks is under TV drama & procedurals.
+- Universes are kept whole: each one sits in a single category even when its continuities span several media.
+- New universes can set `category` in their bootstrap config. Without one they appear under "Other".

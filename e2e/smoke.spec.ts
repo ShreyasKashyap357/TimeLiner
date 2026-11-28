@@ -134,7 +134,7 @@ test.describe('URL defaults and pickers (regressions)', () => {
   test('an opened picker shows its whole list, even after choosing a lower option', async ({ page }) => {
     await page.goto('/?u=asoiaf');
     await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
-    await expect(page.getByRole('option', { name: 'Marvel' })).toBeInViewport();
+    await expect(page.getByRole('option', { name: /^Marvel Marvel Cinematic/ })).toBeInViewport();
     // With many universes the list scrolls; it must show several rows at once, not one.
     const visible = await page.getByRole('option').evaluateAll((els) => els.filter((e) => {
       const r = e.getBoundingClientRect();
@@ -144,7 +144,7 @@ test.describe('URL defaults and pickers (regressions)', () => {
     await expect(page.getByRole('option', { name: 'All universes' })).toBeInViewport();
     // The last universe is reachable by scrolling the list.
     const last = page.getByRole('option').last();
-    await page.getByRole('option', { name: 'Marvel' }).hover();
+    await page.getByRole('option', { name: /^Marvel Marvel Cinematic/ }).hover();
     const list = page.locator('[cmdk-list]');
     for (let i = 0; i < 20 && !(await list.evaluate((e) => e.scrollTop + e.clientHeight >= e.scrollHeight - 2)); i++) { await page.mouse.wheel(0, 400); await page.waitForTimeout(50); }
     await expect(last).toBeInViewport();
@@ -308,10 +308,30 @@ test('Universe picker: type to search, All universes pinned on top', async ({ pa
   await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
   await expect(page.getByRole('option').first()).toHaveText(/All universes/);
   await page.getByPlaceholder(/Search \d+ universes/).fill('dune');
-  await expect(page.getByRole('option', { name: 'Dune' })).toBeVisible();
-  await expect(page.getByRole('option', { name: 'Marvel' })).toHaveCount(0);
-  await page.getByRole('option', { name: 'Dune' }).click();
+  await expect(page.getByRole('option', { name: /^Dune Frank/ })).toBeVisible();
+  await expect(page.getByRole('option', { name: /^Marvel Marvel Cinematic/ })).toHaveCount(0);
+  await page.getByRole('option', { name: /^Dune Frank/ }).click();
   await expect(page).toHaveURL(/u=dune/);
+});
+
+test('Universe picker: grouped by category, descriptions are searchable', async ({ page }) => {
+  await page.goto('/?u=marvel&c=mcu');
+  await page.getByRole('combobox', { name: 'Universe', exact: true }).click();
+  await expect(page.getByRole('group', { name: /^Fantasy \(\d+\)$/ })).toBeVisible();
+  await page.getByPlaceholder(/Search \d+ universes/).fill('percy jackson');
+  await expect(page.getByRole('option', { name: /Rick Riordan/ })).toBeVisible();
+});
+
+test('filters: long checkbox lists get a search box', async ({ page, isMobile }) => {
+  await page.goto('/?u=marvel&view=release');
+  if (isMobile) await page.getByRole('button', { name: 'Filters' }).click();
+  const scope = isMobile ? page.getByRole('dialog') : page.getByRole('complementary', { name: 'Filters sidebar' });
+  const box = scope.getByRole('searchbox', { name: 'Search studio / label' });
+  await box.fill('sony');
+  const studios = scope.getByRole('group', { name: 'Studio / label' });
+  await expect(studios.getByRole('checkbox').first()).toBeVisible();
+  await expect(studios.getByText(/Sony Pictures/).first()).toBeVisible();
+  await expect(studios.getByText(/Marvel Studios/)).toHaveCount(0);
 });
 
 test.describe('maps', () => {

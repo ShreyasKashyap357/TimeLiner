@@ -5,12 +5,29 @@ import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip
 import { Check, ChevronDown } from 'lucide-react';
 import { lastInputWasKeyboard, Swatch, type HeaderOption } from './HeaderSelect';
 
+/** `group` puts the option under a heading (groups keep the order of their first option); `detail` is a second,
+ *  muted line that is also searched (e.g. "Percy Jackson" finds the Riordanverse). */
+export interface PickerOption extends HeaderOption { group?: string; detail?: string }
+
+const fold = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+/** Plain substring search (cmdk's default fuzzy match finds "d…u…n…e" in nearly every long description):
+ *  name and id matches rank above description-only matches. */
+function pickerFilter(value: string, search: string, keywords?: string[]): number {
+  const q = fold(search.trim());
+  if (!q) return 1;
+  const v = fold(value);
+  if (v.startsWith(q)) return 1;
+  if (v.includes(q)) return 0.8;
+  return keywords?.some((k) => fold(k).includes(q)) ? 0.3 : 0;
+}
+
 /**
  * Header picker with type-to-search, for long lists (the Universe list has 50+ entries). Same trigger look,
- * tooltip timing and keyboard behaviour as HeaderSelect. `pinned` options (e.g. "All universes") stay on top.
+ * tooltip timing and keyboard behaviour as HeaderSelect. `pinned` options (e.g. "All universes") stay on top;
+ * the rest are grouped like the Continuity picker when options carry a `group`.
  */
 export function SearchablePicker({ label, hint, value, options, onChange, pinned = [], noun }: {
-  label: string; hint: string; value: string; options: HeaderOption[]; onChange: (v: string) => void; pinned?: string[]; noun: string;
+  label: string; hint: string; value: string; options: PickerOption[]; onChange: (v: string) => void; pinned?: string[]; noun: string;
 }) {
   const [open, setOpen] = useState(false);
   const [hover, setHover] = useState(false);
@@ -21,11 +38,16 @@ export function SearchablePicker({ label, hint, value, options, onChange, pinned
   const top = options.filter((o) => pinned.includes(o.value));
   const rest = options.filter((o) => !pinned.includes(o.value));
   const anyColor = options.some((o) => o.color);
-  const item = (o: HeaderOption) => (
-    <CommandItem key={o.value} value={`${o.label} ${o.value}`} onSelect={() => { onChange(o.value); setOpen(false); }}>
-      <Check aria-hidden className={`size-4 shrink-0 ${o.value === value ? 'opacity-100' : 'opacity-0'}`} />
+  const groups = [...new Set(rest.map((o) => o.group ?? ''))];
+  const item = (o: PickerOption) => (
+    <CommandItem key={o.value} value={`${o.label} ${o.value}`} keywords={o.detail ? [o.detail] : undefined} onSelect={() => { onChange(o.value); setOpen(false); }}
+      className={o.detail ? 'items-start' : undefined}>
+      <Check aria-hidden className={`size-4 shrink-0 ${o.detail ? 'mt-0.5 ' : ''}${o.value === value ? 'opacity-100' : 'opacity-0'}`} />
       <Swatch color={o.color} reserve={anyColor} />
-      <span className="min-w-0 flex-1 [overflow-wrap:anywhere]">{o.label}</span>
+      <span className="min-w-0 flex-1">
+        <span className="block [overflow-wrap:anywhere]">{o.label}</span>
+        {o.detail && <span className="line-clamp-1 text-xs text-muted-foreground">{o.detail}</span>}
+      </span>
     </CommandItem>
   );
   return (
@@ -51,13 +73,16 @@ export function SearchablePicker({ label, hint, value, options, onChange, pinned
             </PopoverTrigger>
           </div>
         </TooltipTrigger>
-        <PopoverContent align="start" className="w-[min(22rem,calc(100vw-1rem))] p-0">
-          <Command>
+        <PopoverContent align="start" className="w-[min(26rem,calc(100vw-1rem))] p-0">
+          <Command filter={pickerFilter}>
             <CommandInput placeholder={`Search ${rest.length} ${noun}…`} />
             <CommandList className="max-h-[min(28rem,calc(100dvh-10rem))]">
               <CommandEmpty>No {noun.replace(/s$/, '')} matches.</CommandEmpty>
               {top.length > 0 && <CommandGroup>{top.map(item)}</CommandGroup>}
-              <CommandGroup>{rest.map(item)}</CommandGroup>
+              {groups.map((g) => {
+                const items = rest.filter((o) => (o.group ?? '') === g);
+                return <CommandGroup key={g} heading={g ? `${g} (${items.length})` : undefined}>{items.map(item)}</CommandGroup>;
+              })}
             </CommandList>
           </Command>
         </PopoverContent>

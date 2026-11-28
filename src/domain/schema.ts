@@ -86,6 +86,8 @@ export const Universe = z.object({
   default_continuity: slug,
   grouping_schemes: z.array(GroupingScheme).default([]),
   data_dir: z.string(), // relative to data/, e.g. "marvel"
+  /** Picker group (e.g. "Fantasy"). Groups appear in the order of their first universe. */
+  category: z.string().optional(),
   description: z.string().default(''),
   last_verified: isoDate.nullable(),
 });

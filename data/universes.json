@@ -142,6 +142,7 @@
       }
     ],
     "data_dir": "marvel",
+    "category": "Superheroes",
     "description": "Marvel Cinematic Universe plus related Marvel film and animation continuities.",
     "last_verified": "2026-11-26"
   },
@@ -172,6 +173,7 @@
       }
     ],
     "data_dir": "dc",
+    "category": "Superheroes",
     "description": "DC Universe (Gunn), DC Extended Universe, Arrowverse, Batman film continuities, DC live-action TV and DC animation.",
     "last_verified": "2026-11-26"
   },
@@ -220,6 +222,7 @@
       }
     ],
     "data_dir": "godzilla-kong",
+    "category": "Science fiction",
     "description": "Toho's Godzilla eras, Legendary's Monsterverse, TriStar's Godzilla and the King Kong films and series.",
     "last_verified": "2026-11-26"
   },
@@ -280,6 +283,7 @@
       }
     ],
     "data_dir": "asoiaf",
+    "category": "Fantasy",
     "description": "George R. R. Martin's novels and novellas, and HBO's Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms.",
     "last_verified": "2026-11-26"
   },
@@ -316,6 +320,7 @@
       }
     ],
     "data_dir": "wheel-of-time",
+    "category": "Fantasy",
     "description": "Robert Jordan's novels (completed by Brandon Sanderson) and the Amazon Prime Video series.",
     "last_verified": "2026-11-26"
   },
@@ -382,6 +387,7 @@
       }
     ],
     "data_dir": "star-wars",
+    "category": "Science fiction",
     "description": "Star Wars films and series: Lucasfilm canon, Legends, and the non-canon Visions and LEGO productions.",
     "last_verified": "2026-11-26"
   },
@@ -398,6 +404,7 @@
     "default_continuity": "st-prime",
     "grouping_schemes": [],
     "data_dir": "star-trek",
+    "category": "Science fiction",
     "description": "Star Trek films and series: the Prime timeline, the Kelvin timeline films, and non-canon shorts.",
     "last_verified": "2026-11-27"
   },
@@ -476,6 +483,7 @@
       }
     ],
     "data_dir": "riordan",
+    "category": "Fantasy",
     "description": "Rick Riordan's novels (Percy Jackson, Heroes of Olympus, Trials of Apollo, Kane Chronicles, Magnus Chase and more), the Fox films and the Disney+ series.",
     "last_verified": "2026-11-27"
   },
@@ -492,6 +500,7 @@
     "default_continuity": "me-legendarium",
     "grouping_schemes": [],
     "data_dir": "middle-earth",
+    "category": "Fantasy",
     "description": "Tolkien's books and the adaptations: Peter Jackson's films, The Rings of Power, Rankin/Bass, Bakshi and more.",
     "last_verified": "2026-11-27"
   },
@@ -546,6 +555,7 @@
       }
     ],
     "data_dir": "james-bond",
+    "category": "Action, spy & adventure",
     "description": "The Eon films (classic and Craig eras), the non-Eon films, and Ian Fleming's books with continuation novels.",
     "last_verified": "2026-11-27"
   },
@@ -562,6 +572,7 @@
     "default_continuity": "ff-main",
     "grouping_schemes": [],
     "data_dir": "fast-furious",
+    "category": "Action, spy & adventure",
     "description": "The Fast Saga films in story order, the short films, Hobbs & Shaw, and the animated Spy Racers.",
     "last_verified": "2026-11-27"
   },
@@ -578,6 +589,7 @@
     "default_continuity": "terminator-main",
     "grouping_schemes": [],
     "data_dir": "terminator",
+    "category": "Science fiction",
     "description": "The Terminator films, The Sarah Connor Chronicles, Terminator Zero and T2-3D, with the franchise's branching timelines.",
     "last_verified": "2026-11-27"
   },
@@ -594,6 +606,7 @@
     "default_continuity": "halloween-myers",
     "grouping_schemes": [],
     "data_dir": "halloween",
+    "category": "Horror",
     "description": "The Halloween films: the original timeline and its H20 and 2018 branches, Season of the Witch, and Rob Zombie's remakes.",
     "last_verified": "2026-11-27"
   },
@@ -610,6 +623,7 @@
     "default_continuity": "wizarding-world-books",
     "grouping_schemes": [],
     "data_dir": "wizarding-world",
+    "category": "Fantasy",
     "description": "J. K. Rowling's Harry Potter books and companions, Cursed Child, the Harry Potter and Fantastic Beasts films, and the HBO series.",
     "last_verified": "2026-11-27"
   },
@@ -626,6 +640,7 @@
     "default_continuity": "gundam-uc",
     "grouping_schemes": [],
     "data_dir": "gundam",
+    "category": "Anime & tokusatsu",
     "description": "Mobile Suit Gundam across its separate timelines: Universal Century, Future Century, After Colony, Cosmic Era, Anno Domini, Post Disaster, Ad Stella and more.",
     "last_verified": "2026-11-27"
   },
@@ -642,6 +657,7 @@
     "default_continuity": "gta-hd",
     "grouping_schemes": [],
     "data_dir": "grand-theft-auto",
+    "category": "Video games",
     "description": "Rockstar's Grand Theft Auto series across its 2D, 3D and HD universes.",
     "last_verified": "2026-11-27"
   },
@@ -658,6 +674,7 @@
     "default_continuity": "fallout-main",
     "grouping_schemes": [],
     "data_dir": "fallout",
+    "category": "Video games",
     "description": "The Fallout games and the Prime Video series (canon to the games).",
     "last_verified": "2026-11-27"
   },
@@ -674,6 +691,7 @@
     "default_continuity": "tlou-games",
     "grouping_schemes": [],
     "data_dir": "the-last-of-us",
+    "category": "Video games",
     "description": "Naughty Dog's games and the HBO series (which moves the dates).",
     "last_verified": "2026-11-27"
   },
@@ -690,6 +708,7 @@
     "default_continuity": "witcher-books",
     "grouping_schemes": [],
     "data_dir": "the-witcher",
+    "category": "Fantasy",
     "description": "Sapkowski's books, CD Projekt Red's games and Netflix's series, each its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -706,6 +725,7 @@
     "default_continuity": "halo-core",
     "grouping_schemes": [],
     "data_dir": "halo",
+    "category": "Video games",
     "description": "The Halo games and core novels, and the Paramount+ series (\"Silver Timeline\").",
     "last_verified": "2026-11-27"
   },
@@ -722,6 +742,7 @@
     "default_continuity": "ac-main",
     "grouping_schemes": [],
     "data_dir": "assassins-creed",
+    "category": "Video games",
     "description": "Ubisoft's Assassin's Creed games with their historical settings and modern-day frame, the film and series.",
     "last_verified": "2026-11-27"
   },
@@ -848,6 +869,7 @@
       }
     ],
     "data_dir": "doctor-who",
+    "category": "Science fiction",
     "description": "Doctor Who on TV (1963–), the 1996 film and its spin-offs (Torchwood, The Sarah Jane Adventures, Class), the Peter Cushing Dalek films, K9, and Big Finish audio.",
     "last_verified": "2026-11-27"
   },
@@ -864,6 +886,7 @@
     "default_continuity": "lego-movie",
     "grouping_schemes": [],
     "data_dir": "lego",
+    "category": "Animation & toys",
     "description": "The Lego Movie franchise and LEGO's own worlds: Ninjago, Bionicle, Chima, Nexo Knights, Monkie Kid, Dreamzzz, Friends and more, plus LEGO's own games. LEGO versions of other franchises live in those universes.",
     "last_verified": "2026-11-27"
   },
@@ -880,6 +903,7 @@
     "default_continuity": "law-and-order-main",
     "grouping_schemes": [],
     "data_dir": "law-and-order",
+    "category": "TV drama & procedurals",
     "description": "Dick Wolf's Law & Order franchise: the US series and Exiled in one shared continuity, the international adaptations separately.",
     "last_verified": "2026-11-27"
   },
@@ -896,6 +920,7 @@
     "default_continuity": "ncis-main",
     "grouping_schemes": [],
     "data_dir": "ncis",
+    "category": "TV drama & procedurals",
     "description": "JAG, NCIS and its spin-offs in one shared continuity (NCIS began as a JAG backdoor pilot).",
     "last_verified": "2026-11-27"
   },
@@ -912,6 +937,7 @@
     "default_continuity": "csi-main",
     "grouping_schemes": [],
     "data_dir": "csi",
+    "category": "TV drama & procedurals",
     "description": "CSI and its spin-offs (Miami, NY, Cyber, Vegas) in one shared continuity.",
     "last_verified": "2026-11-27"
   },
@@ -928,6 +954,7 @@
     "default_continuity": "one-chicago-main",
     "grouping_schemes": [],
     "data_dir": "one-chicago",
+    "category": "TV drama & procedurals",
     "description": "Chicago Fire, P.D., Med and Justice: one shared continuity with regular crossovers.",
     "last_verified": "2026-11-27"
   },
@@ -944,6 +971,7 @@
     "default_continuity": "twd-tv",
     "grouping_schemes": [],
     "data_dir": "the-walking-dead",
+    "category": "Horror",
     "description": "The Walking Dead TV universe, the Image comic universe (with the Telltale and Overkill games), and the separate VR and Destinies games.",
     "last_verified": "2026-11-27"
   },
@@ -960,6 +988,7 @@
     "default_continuity": "yellowstone-main",
     "grouping_schemes": [],
     "data_dir": "yellowstone",
+    "category": "TV drama & procedurals",
     "description": "Taylor Sheridan's Dutton family saga (Yellowstone, 1883, 1923 and spin-offs), plus Lawmen: Bass Reeves and The Madison, which Wikipedia now places outside it.",
     "last_verified": "2026-11-27"
   },
@@ -976,6 +1005,7 @@
     "default_continuity": "breaking-bad-main",
     "grouping_schemes": [],
     "data_dir": "breaking-bad",
+    "category": "TV drama & procedurals",
     "description": "Breaking Bad, Better Call Saul and El Camino in one continuity; the Slippin' Jimmy shorts separately.",
     "last_verified": "2026-11-27"
   },
@@ -992,6 +1022,7 @@
     "default_continuity": "twin-peaks-main",
     "grouping_schemes": [],
     "data_dir": "twin-peaks",
+    "category": "TV drama & procedurals",
     "description": "Twin Peaks on TV and film, The Missing Pieces, and the tie-in books (canon per Wikipedia, with contradictions).",
     "last_verified": "2026-11-27"
   },
@@ -1008,6 +1039,7 @@
     "default_continuity": "narnia-books",
     "grouping_schemes": [],
     "data_dir": "narnia",
+    "category": "Fantasy",
     "description": "C. S. Lewis's seven novels and the screen adaptations, each adaptation family its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1024,6 +1056,7 @@
     "default_continuity": "hunger-games-books",
     "grouping_schemes": [],
     "data_dir": "hunger-games",
+    "category": "Science fiction",
     "description": "Suzanne Collins's novels and the film series, as separate continuities.",
     "last_verified": "2026-11-27"
   },
@@ -1040,6 +1073,7 @@
     "default_continuity": "shadowhunters-books",
     "grouping_schemes": [],
     "data_dir": "shadowhunters",
+    "category": "Fantasy",
     "description": "Cassandra Clare's Shadowhunter Chronicles, the 2013 film and the Freeform series, as separate continuities.",
     "last_verified": "2026-11-27"
   },
@@ -1056,6 +1090,7 @@
     "default_continuity": "outlander-books",
     "grouping_schemes": [],
     "data_dir": "outlander",
+    "category": "Fantasy",
     "description": "Diana Gabaldon's Outlander novels and Lord John books, and the Starz series with Blood of My Blood.",
     "last_verified": "2026-11-27"
   },
@@ -1072,6 +1107,7 @@
     "default_continuity": "dark-tower-novels",
     "grouping_schemes": [],
     "data_dir": "the-dark-tower",
+    "category": "Fantasy",
     "description": "Stephen King's Dark Tower novels, the Marvel comics, the 2017 film (a canonical sequel), and King's books tied to the series.",
     "last_verified": "2026-11-27"
   },
@@ -1150,6 +1186,7 @@
       }
     ],
     "data_dir": "discworld",
+    "category": "Fantasy",
     "description": "Terry Pratchett's 41 Discworld novels, grouped by sub-series, and the screen adaptations.",
     "last_verified": "2026-11-27"
   },
@@ -1240,6 +1277,7 @@
       }
     ],
     "data_dir": "cosmere",
+    "category": "Fantasy",
     "description": "Brandon Sanderson's Cosmere books, grouped by world.",
     "last_verified": "2026-11-27"
   },
@@ -1256,6 +1294,7 @@
     "default_continuity": "stargate-sg1",
     "grouping_schemes": [],
     "data_dir": "stargate",
+    "category": "Science fiction",
     "description": "The 1994 film, the SG-1 / Atlantis / Universe continuity with its films and Origins, and the non-canon Infinity.",
     "last_verified": "2026-11-27"
   },
@@ -1272,6 +1311,7 @@
     "default_continuity": "bsg-reimagined",
     "grouping_schemes": [],
     "data_dir": "battlestar-galactica",
+    "category": "Science fiction",
     "description": "The original 1978 series with Galactica 1980, and the re-imagined continuity (2003 miniseries, 2004 series, Razor, The Plan, Caprica, Blood & Chrome).",
     "last_verified": "2026-11-27"
   },
@@ -1288,6 +1328,7 @@
     "default_continuity": "expanse-books",
     "grouping_schemes": [],
     "data_dir": "the-expanse",
+    "category": "Science fiction",
     "description": "James S. A. Corey's novels and novellas, and the TV series (with the Telltale prequel game).",
     "last_verified": "2026-11-27"
   },
@@ -1304,6 +1345,7 @@
     "default_continuity": "dune-books",
     "grouping_schemes": [],
     "data_dir": "dune",
+    "category": "Science fiction",
     "description": "Frank Herbert's novels with the Brian Herbert and Kevin J. Anderson books, and each screen adaptation family as its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1320,6 +1362,7 @@
     "default_continuity": "ultra-showa",
     "grouping_schemes": [],
     "data_dir": "ultraman",
+    "category": "Anime & tokusatsu",
     "description": "Tsuburaya's Ultraman TV series from Ultra Q (1966) on, with Shin Ultraman and Ultraman: Rising. Showa is one shared continuity; most later series stand alone.",
     "last_verified": "2026-11-27"
   },
@@ -1336,6 +1379,7 @@
     "default_continuity": "kr-showa",
     "grouping_schemes": [],
     "data_dir": "kamen-rider",
+    "category": "Anime & tokusatsu",
     "description": "Every Kamen Rider TV series (Showa as one continuity; Heisei and Reiwa series mostly standalone), Shin Kamen Rider, Dragon Knight and Masked Rider.",
     "last_verified": "2026-11-27"
   },
@@ -1352,6 +1396,7 @@
     "default_continuity": "pr-main",
     "grouping_schemes": [],
     "data_dir": "super-sentai",
+    "category": "Anime & tokusatsu",
     "description": "Every Super Sentai series (each its own universe) and Power Rangers from Mighty Morphin to Cosmic Fury as one continuity, plus the 1995 and 2017 films.",
     "last_verified": "2026-11-27"
   },
@@ -1368,6 +1413,7 @@
     "default_continuity": "naruto-anime",
     "grouping_schemes": [],
     "data_dir": "naruto",
+    "category": "Anime & tokusatsu",
     "description": "The Naruto and Boruto anime with the canon films, the manga as a separate continuity, and the non-canon films.",
     "last_verified": "2026-11-27"
   },
@@ -1384,6 +1430,7 @@
     "default_continuity": "one-piece-anime",
     "grouping_schemes": [],
     "data_dir": "one-piece",
+    "category": "Anime & tokusatsu",
     "description": "The One Piece anime with the tie-in films placed by their arcs (canon disputed), the manga, the older films, and the Netflix live-action series.",
     "last_verified": "2026-11-27"
   },
@@ -1400,6 +1447,7 @@
     "default_continuity": "sherlock-holmes-canon",
     "grouping_schemes": [],
     "data_dir": "sherlock-holmes",
+    "category": "Action, spy & adventure",
     "description": "Arthur Conan Doyle's stories and the most notable adaptations (Rathbone films, Granada with Jeremy Brett, BBC Sherlock, Elementary, the Ritchie films, Enola Holmes), each its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1416,6 +1464,7 @@
     "default_continuity": "ryanverse-novels",
     "grouping_schemes": [],
     "data_dir": "jack-ryan",
+    "category": "Action, spy & adventure",
     "description": "Tom Clancy's Ryanverse novels in their stated chronological order, and each screen recasting (Ford/Baldwin, Affleck, Pine, Amazon) as its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1432,6 +1481,7 @@
     "default_continuity": "bourne-films",
     "grouping_schemes": [],
     "data_dir": "bourne",
+    "category": "Action, spy & adventure",
     "description": "Robert Ludlum's Bourne novels and their continuations, the 1988 miniseries, and the film series with Treadstone.",
     "last_verified": "2026-11-27"
   },
@@ -1448,6 +1498,7 @@
     "default_continuity": "mi-tv",
     "grouping_schemes": [],
     "data_dir": "mission-impossible",
+    "category": "Action, spy & adventure",
     "description": "The 1966 series with its 1988 revival, and the film series (1996–2025) as a separate continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1464,6 +1515,7 @@
     "default_continuity": "tf-g1",
     "grouping_schemes": [],
     "data_dir": "transformers",
+    "category": "Animation & toys",
     "description": "Major Transformers screen continuities: Generation 1, Beast Wars/Beast Machines, the live-action films (with Bumblebee and Rise of the Beasts), Aligned (Prime), Transformers One and EarthSpark.",
     "last_verified": "2026-11-27"
   },
@@ -1480,6 +1532,7 @@
     "default_continuity": "tmnt-mirage",
     "grouping_schemes": [],
     "data_dir": "tmnt",
+    "category": "Animation & toys",
     "description": "The TMNT screen continuities (1987, the 1990 films, 2003, 2007, 2012, the 2014 films, Rise, Mutant Mayhem) and the Mirage comic.",
     "last_verified": "2026-11-27"
   },
@@ -1496,6 +1549,7 @@
     "default_continuity": "avatarverse",
     "grouping_schemes": [],
     "data_dir": "avatar-tla",
+    "category": "Animation & toys",
     "description": "The Avatarverse (ATLA, Korra, the novels, comics and new series) on its AG/BG calendar, plus the 2010 film and the Netflix series.",
     "last_verified": "2026-11-27"
   },
@@ -1512,6 +1566,7 @@
     "default_continuity": "pokemon-anime",
     "grouping_schemes": [],
     "data_dir": "pokemon",
+    "category": "Anime & tokusatsu",
     "description": "The Pokémon anime series and films, the alternate-timeline films, Detective Pikachu and the core games by generation.",
     "last_verified": "2026-11-27"
   },
@@ -1528,6 +1583,7 @@
     "default_continuity": "dragon-ball-main",
     "grouping_schemes": [],
     "data_dir": "dragon-ball",
+    "category": "Anime & tokusatsu",
     "description": "Dragon Ball, Z, Super and Daima with the canon films on the Age calendar; GT, the re-edits, the non-canon films and Dragonball Evolution separately.",
     "last_verified": "2026-11-27"
   },
@@ -1576,6 +1632,7 @@
       }
     ],
     "data_dir": "foundation",
+    "category": "Science fiction",
     "description": "Isaac Asimov's Robot, Galactic Empire and Foundation books (one universe, as Asimov merged them), the authorized Second Foundation trilogy, the Apple TV+ series and the 1973 BBC radio serial.",
     "last_verified": "2026-11-27"
   },
@@ -1592,6 +1649,7 @@
     "default_continuity": "golmaal-standalone-collection",
     "grouping_schemes": [],
     "data_dir": "golmaal",
+    "category": "Indian cinema",
     "description": "Rohit Shetty's Golmaal comedies. The films reuse character names but give them incompatible backstories, so they are treated as standalone.",
     "last_verified": "2026-11-27"
   },
@@ -1608,6 +1666,7 @@
     "default_continuity": "housefull-2010",
     "grouping_schemes": [],
     "data_dir": "housefull",
+    "category": "Indian cinema",
     "description": "The Housefull comedies. 'Each film starts with a fresh story unrelated with the preceding film's story', so each is its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1624,6 +1683,7 @@
     "default_continuity": "manichitrathazhu",
     "grouping_schemes": [],
     "data_dir": "bhool-bhulaiyaa",
+    "category": "Indian cinema",
     "description": "Bhool Bhulaiyaa (a remake of Manichitrathazhu) and its standalone sequels, each its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1640,6 +1700,7 @@
     "default_continuity": "drishyam-malayalam",
     "grouping_schemes": [],
     "data_dir": "drishyam",
+    "category": "Indian cinema",
     "description": "The Malayalam Drishyam films and each language's remakes as separate continuities.",
     "last_verified": "2026-11-27"
   },
@@ -1656,6 +1717,7 @@
     "default_continuity": "baahubali-main",
     "grouping_schemes": [],
     "data_dir": "baahubali",
+    "category": "Indian cinema",
     "description": "The Baahubali films, the prequel novels and animated series, and the 2025 re-edit, in one continuity in story order.",
     "last_verified": "2026-11-27"
   },
@@ -1672,6 +1734,7 @@
     "default_continuity": "kgf",
     "grouping_schemes": [],
     "data_dir": "kgf-salaar",
+    "category": "Indian cinema",
     "description": "Prashanth Neel's KGF films and Salaar, kept as separate continuities (no source says they share a universe).",
     "last_verified": "2026-11-27"
   },
@@ -1688,6 +1751,7 @@
     "default_continuity": "krrish-films",
     "grouping_schemes": [],
     "data_dir": "krrish",
+    "category": "Indian cinema",
     "description": "Koi... Mil Gaya and the Krrish films, plus the Kid Krrish TV films and J Bole Toh Jadoo as separate continuities.",
     "last_verified": "2026-11-27"
   },
@@ -1704,6 +1768,7 @@
     "default_continuity": "dhoom",
     "grouping_schemes": [],
     "data_dir": "dhoom",
+    "category": "Indian cinema",
     "description": "The Dhoom films, one continuity with Jai and Ali throughout.",
     "last_verified": "2026-11-27"
   },
@@ -1720,6 +1785,7 @@
     "default_continuity": "yrf-spy",
     "grouping_schemes": [],
     "data_dir": "yrf-spy-universe",
+    "category": "Indian cinema",
     "description": "Yash Raj Films' spy films (Ek Tha Tiger, Tiger Zinda Hai, War, Pathaan, Tiger 3, War 2, Alpha) in one shared continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1736,6 +1802,7 @@
     "default_continuity": "lcu-main",
     "grouping_schemes": [],
     "data_dir": "lcu",
+    "category": "Indian cinema",
     "description": "Lokesh Kanagaraj's connected Tamil films: Kaithi, Vikram and Leo.",
     "last_verified": "2026-11-27"
   },
@@ -1752,6 +1819,7 @@
     "default_continuity": "cop-main",
     "grouping_schemes": [],
     "data_dir": "cop-universe",
+    "category": "Indian cinema",
     "description": "Rohit Shetty's Cop Universe films (Singham, Simmba, Sooryavanshi and sequels) and the Indian Police Force series.",
     "last_verified": "2026-11-27"
   },
@@ -1768,6 +1836,7 @@
     "default_continuity": "mhcu-main",
     "grouping_schemes": [],
     "data_dir": "maddock-horror-comedy",
+    "category": "Indian cinema",
     "description": "Maddock Films' connected horror comedies: Stree, Bhediya, Munjya, Stree 2, Thamma.",
     "last_verified": "2026-11-27"
   },
@@ -1784,6 +1853,7 @@
     "default_continuity": "ghostbusters-original",
     "grouping_schemes": [],
     "data_dir": "ghostbusters",
+    "category": "Science fiction",
     "description": "The original Ghostbusters films with Afterlife and Frozen Empire (and the 2009 game, canon status disputed), the 2016 reboot, and the animated series.",
     "last_verified": "2026-11-27"
   },
@@ -1800,6 +1870,7 @@
     "default_continuity": "indiana-jones-main",
     "grouping_schemes": [],
     "data_dir": "indiana-jones",
+    "category": "Action, spy & adventure",
     "description": "The five Indiana Jones films, The Young Indiana Jones Chronicles and The Great Circle game, in one continuity by their stated years.",
     "last_verified": "2026-11-27"
   },
@@ -1816,6 +1887,7 @@
     "default_continuity": "rocky-main",
     "grouping_schemes": [],
     "data_dir": "rocky",
+    "category": "Action, spy & adventure",
     "description": "The Rocky and Creed films in one continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1832,6 +1904,7 @@
     "default_continuity": "conjuring-main",
     "grouping_schemes": [],
     "data_dir": "conjuring",
+    "category": "Horror",
     "description": "The Conjuring, Annabelle and The Nun films in story order by their stated years (The Curse of La Llorona is set in the universe but not an official installment).",
     "last_verified": "2026-11-27"
   },
@@ -1848,6 +1921,7 @@
     "default_continuity": "john-wick-main",
     "grouping_schemes": [],
     "data_dir": "john-wick",
+    "category": "Action, spy & adventure",
     "description": "The John Wick films, Ballerina and The Continental.",
     "last_verified": "2026-11-27"
   },
@@ -1864,6 +1938,7 @@
     "default_continuity": "matrix-main",
     "grouping_schemes": [],
     "data_dir": "matrix",
+    "category": "Science fiction",
     "description": "The Matrix films with The Animatrix, Enter the Matrix and The Matrix Online (stated as canon); Path of Neo as a separate retelling.",
     "last_verified": "2026-11-27"
   },
@@ -1880,6 +1955,7 @@
     "default_continuity": "mad-max-main",
     "grouping_schemes": [],
     "data_dir": "mad-max",
+    "category": "Science fiction",
     "description": "The five Mad Max films, a loose continuity ('no strict chronology').",
     "last_verified": "2026-11-27"
   },
@@ -1896,6 +1972,7 @@
     "default_continuity": "alien",
     "grouping_schemes": [],
     "data_dir": "alien-predator",
+    "category": "Science fiction",
     "description": "The Alien films and Alien: Earth (by the franchise's stated story chronology), the Predator films, and the two Alien vs. Predator films as a separate continuity (their canon is contested).",
     "last_verified": "2026-11-27"
   },
@@ -1912,6 +1989,7 @@
     "default_continuity": "jp-screen",
     "grouping_schemes": [],
     "data_dir": "jurassic-park",
+    "category": "Science fiction",
     "description": "The Jurassic Park and Jurassic World films with the canon animated series, and Michael Crichton's novels as a separate continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1928,6 +2006,7 @@
     "default_continuity": "apes-reboot",
     "grouping_schemes": [],
     "data_dir": "planet-of-the-apes",
+    "category": "Science fiction",
     "description": "The original films and TV series, the animated series, Tim Burton's 2001 film, the reboot series (Rise to Kingdom), and Pierre Boulle's novel, each its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1944,6 +2023,7 @@
     "default_continuity": "avatar-main",
     "grouping_schemes": [],
     "data_dir": "avatar-cameron",
+    "category": "Science fiction",
     "description": "James Cameron's Avatar films and Frontiers of Pandora (made to 'strictly adhere to the canon').",
     "last_verified": "2026-11-27"
   },
@@ -1960,6 +2040,7 @@
     "default_continuity": "the-boys-tv",
     "grouping_schemes": [],
     "data_dir": "the-boys",
+    "category": "Superheroes",
     "description": "The Boys, Gen V and Diabolical on Prime Video (one shared continuity), and Garth Ennis's comic as a separate continuity.",
     "last_verified": "2026-11-27"
   },
@@ -1976,6 +2057,7 @@
     "default_continuity": "spider-verse-animated",
     "grouping_schemes": [],
     "data_dir": "spider-verse",
+    "category": "Superheroes",
     "description": "Sony Pictures Animation's Spider-Verse films (the live-action Marvel Spider-Man is in the Marvel universe).",
     "last_verified": "2026-11-27"
   },
@@ -1992,6 +2074,7 @@
     "default_continuity": "invincible-tv",
     "grouping_schemes": [],
     "data_dir": "invincible",
+    "category": "Superheroes",
     "description": "The Invincible animated series with the Atom Eve special, and the Image comic as a separate continuity.",
     "last_verified": "2026-11-27"
   },
@@ -2008,6 +2091,7 @@
     "default_continuity": "hellboy-del-toro",
     "grouping_schemes": [],
     "data_dir": "hellboy",
+    "category": "Superheroes",
     "description": "Guillermo del Toro's Hellboy films, the 2019 reboot, The Crooked Man (2024), and the animated films, each its own continuity.",
     "last_verified": "2026-11-27"
   },
@@ -2024,6 +2108,7 @@
     "default_continuity": "scream-films",
     "grouping_schemes": [],
     "data_dir": "scream",
+    "category": "Horror",
     "description": "The seven Scream films (one continuity), the MTV series (not canon to the films) and its rebooted third season.",
     "last_verified": "2026-11-27"
   },
@@ -2040,6 +2125,7 @@
     "default_continuity": "saw-main",
     "grouping_schemes": [],
     "data_dir": "saw",
+    "category": "Horror",
     "description": "The Saw films in the franchise's stated story chronology (Saw X is set between Saw and Saw II).",
     "last_verified": "2026-11-27"
   },
@@ -2056,6 +2142,7 @@
     "default_continuity": "evil-dead-ash",
     "grouping_schemes": [],
     "data_dir": "evil-dead",
+    "category": "Horror",
     "description": "The Ash trilogy with Ash vs Evil Dead, the 2013 soft reboot, and Evil Dead Rise with its sequel.",
     "last_verified": "2026-11-27"
   },
@@ -2072,6 +2159,7 @@
     "default_continuity": "f13-main",
     "grouping_schemes": [],
     "data_dir": "friday-the-13th",
+    "category": "Horror",
     "description": "The twelve Friday the 13th films (with Jason X and Freddy vs. Jason) and Crystal Lake, and the 2009 remake as a separate continuity.",
     "last_verified": "2026-11-27"
   },
@@ -2088,6 +2176,7 @@
     "default_continuity": "tcm-original",
     "grouping_schemes": [],
     "data_dir": "texas-chain-saw",
+    "category": "Horror",
     "description": "The four Texas Chainsaw continuities as Wikipedia lays them out: the original sequels, the Platinum Dunes remake and prequel, the Millennium films, and the 2022 direct sequel.",
     "last_verified": "2026-11-27"
   },
@@ -2104,6 +2193,7 @@
     "default_continuity": "universal-monsters-classic",
     "grouping_schemes": [],
     "data_dir": "universal-monsters",
+    "category": "Horror",
     "description": "Universal's classic monster films (1931–1955) with their stated sequels and crossovers.",
     "last_verified": "2026-11-27"
   }

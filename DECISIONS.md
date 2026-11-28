@@ -8,7 +8,7 @@ Defaults are in use until you answer. Answered items are under Resolved.
 
 | # | Question | Default being used |
 |---|---|---|
-| D-84 | **High-quality maps for Westeros, Middle-earth and other book worlds.** The official maps (books, HBO, wiki uploads) are copyrighted, and crediting them does not make re-hosting them on the public site allowed. Options: freely licensed high-resolution fan maps (CC BY / CC BY-SA); asking map makers for permission; linking out to the official map. | Only maps that are freely licensed or used with written permission, credited in full. Research per world first; draft permission requests where the best map isn't free. |
+| | Nothing open. | |
 
 ## Resolved
 
@@ -83,3 +83,5 @@ Defaults are in use until you answer. Answered items are under Resolved.
 | R-67 | data | D-81 | Approved: Alien, Predator and AVP stay separate continuities; Badlands has a crossover link. |
 | R-68 | data | D-82 | Approved: La Llorona stays in the main Conjuring continuity, noted. |
 | R-69 | data | D-83 | Approved: Scream TV season 3 is its own continuity. |
+| R-70 | maps | D-84 | Use the fan maps with full credit even without a licence, and remove any map whose maker asks (the user's call; permission requests not needed). Sources: Adam Whitehead's Atlas of Ice and Fire maps (his own maps only: the posts' character art, castle paintings and HBO stills are left out), and two uncredited ImgBB uploads the user supplied (one apparently based on HBO's map). Openly licensed extras (e.g. CC BY-SA coats of arms) may be added with their licences. |
+| R-71 | UI | Atlas | An Atlas button next to the TimeLiner logo opens the universe's maps (grouped, searchable, deep zoom), in the style of westerosatlas.com; to be extended to Dune, Foundation, Star Wars, Star Trek, Marvel, DC and the other worlds. |

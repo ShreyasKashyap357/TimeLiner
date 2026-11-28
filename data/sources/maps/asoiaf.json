@@ -1,0 +1,1087 @@
+{
+  "universe": "asoiaf",
+  "defaults": {
+    "author": "Adam Whitehead (The Atlas of Ice and Fire)",
+    "licence": "No licence stated: fan work shown with credit, removed on request",
+    "licence_url": "https://atlasoficeandfireblog.wordpress.com/about/",
+    "fan_made": true,
+    "removal_on_request": true,
+    "continuity": "asoiaf-books",
+    "note": "Fan map by Adam Whitehead, drawn from the books and the official world guides. Shown here with credit; it is not licensed for reuse and will be removed if the author asks."
+  },
+  "maps": [
+    {
+      "id": "known-world-2019",
+      "title": "The Known World (2019 map)",
+      "group": "Overview",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2019/12/asoiaf-known-world-new-mountains.jpg",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2019/12/23/a-new-song-of-ice-and-fire-game-of-thrones-world-map/",
+      "source_title": "The Atlas of Ice and Fire: A New Song of Ice and Fire/Game of Thrones World Map"
+    },
+    {
+      "id": "westeros-2019",
+      "title": "Westeros (2019 map)",
+      "group": "Overview",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2019/10/westeros.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2019/10/08/a-new-map-of-westeros/",
+      "source_title": "The Atlas of Ice and Fire: A New Map of Westeros"
+    },
+    {
+      "id": "known-world-latitude",
+      "title": "The Known World, with latitude",
+      "group": "Overview",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/the-world-of-ice-and-fire-with-latitude.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/20/geographic-map-1-the-known-world/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 1: The Known World"
+    },
+    {
+      "id": "continent-of-westeros",
+      "title": "The continent of Westeros",
+      "group": "Overview",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/the-continent-of-westeros.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/30/geographic-map-2-westeros/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 2: Westeros"
+    },
+    {
+      "id": "planetos",
+      "title": "The whole world",
+      "group": "Overview",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2019/01/planetosnewcanon-line.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2019/01/06/journeys-of-blood-and-fire-the-voyage-of-the-sun-chaser-balerions-trip-to-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Journeys of Blood and Fire: The Voyage of the Sun Chaser & Balerion's Trip to Valyria"
+    },
+    {
+      "id": "westeros-regions",
+      "title": "The regions of Westeros",
+      "group": "Overview",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/03/westeros-regions-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/03/26/the-internal-borders-of-westeros/",
+      "source_title": "The Atlas of Ice and Fire: The Internal Borders of Westeros"
+    },
+    {
+      "id": "lands-beyond-the-wall",
+      "title": "The Lands Beyond the Wall",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/01/westeros-the-lands-beyond-the-wall.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/01/07/geographic-map-3-the-lands-beyond-the-wall/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 3: The Lands Beyond the Wall"
+    },
+    {
+      "id": "the-wall",
+      "title": "The Wall",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/01/the-wall.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/01/18/geographic-map-4-the-wall-skagos/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 4: The Wall & Skagos"
+    },
+    {
+      "id": "skagos",
+      "title": "Skagos",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/01/skagos.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/01/18/geographic-map-4-the-wall-skagos/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 4: The Wall & Skagos"
+    },
+    {
+      "id": "the-north",
+      "title": "The North",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/01/westeros-the-north.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/01/25/geographic-map-5-the-north/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 5: The North"
+    },
+    {
+      "id": "the-riverlands",
+      "title": "The Riverlands",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-riverlands1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/04/geographic-map-6-the-riverlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 6: The Riverlands"
+    },
+    {
+      "id": "the-vale",
+      "title": "The Vale of Arryn",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-vale-of-arryn.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/12/geographic-map-7-the-vale/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 7: The Vale"
+    },
+    {
+      "id": "the-iron-islands",
+      "title": "The Iron Islands",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-iron-islands.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/14/geographic-map-8-the-iron-islands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 8: The Iron Islands"
+    },
+    {
+      "id": "the-iron-islands-lands",
+      "title": "The lands of the Iron Islands",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-iron-islands-names.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/14/geographic-map-8-the-iron-islands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 8: The Iron Islands"
+    },
+    {
+      "id": "the-westerlands",
+      "title": "The Westerlands",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-westerlands.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/17/geographic-map-9-the-westerlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 9: The Westerlands"
+    },
+    {
+      "id": "the-reach",
+      "title": "The Reach",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-reach.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/18/geographic-map-10-the-reach/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 10: The Reach"
+    },
+    {
+      "id": "dorne",
+      "title": "Dorne",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-dorne.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/23/geographic-map-11-dorne/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 11: Dorne"
+    },
+    {
+      "id": "the-stormlands",
+      "title": "The Stormlands",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-stormlands.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/25/geographic-map-12-the-stormlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 12: The Stormlands"
+    },
+    {
+      "id": "the-crownlands",
+      "title": "The Crownlands",
+      "group": "Regions of Westeros",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/03/westeros-the-crownlands.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/03/18/geographic-map-13-the-crownlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 13: The Crownlands"
+    },
+    {
+      "id": "houses-of-westeros",
+      "title": "The noble houses of Westeros",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2019/09/houses-of-westeros.jpg",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2019/09/07/the-noble-houses-of-westeros/",
+      "source_title": "The Atlas of Ice and Fire: The Noble Houses of Westeros"
+    },
+    {
+      "id": "houses-north",
+      "title": "Houses of the North",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/01/westeros-the-north-houses-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/01/25/geographic-map-5-the-north/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 5: The North"
+    },
+    {
+      "id": "houses-riverlands",
+      "title": "Houses of the Riverlands",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-riverlands-houses-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/04/geographic-map-6-the-riverlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 6: The Riverlands"
+    },
+    {
+      "id": "houses-vale",
+      "title": "Houses of the Vale",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-vale-houses-named-with-wildlings.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/12/geographic-map-7-the-vale/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 7: The Vale"
+    },
+    {
+      "id": "houses-iron-islands",
+      "title": "Houses of the Iron Islands",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-iron-islands-houses-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/14/geographic-map-8-the-iron-islands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 8: The Iron Islands"
+    },
+    {
+      "id": "houses-westerlands",
+      "title": "Houses of the Westerlands",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-westerlands-houses1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/17/geographic-map-9-the-westerlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 9: The Westerlands"
+    },
+    {
+      "id": "houses-reach",
+      "title": "Houses of the Reach",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-reach-houses-named1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/18/geographic-map-10-the-reach/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 10: The Reach"
+    },
+    {
+      "id": "houses-dorne",
+      "title": "Houses of Dorne",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-dorne-houses-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/23/geographic-map-11-dorne/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 11: Dorne"
+    },
+    {
+      "id": "houses-stormlands",
+      "title": "Houses of the Stormlands",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/02/westeros-the-stormlands-houses-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/02/25/geographic-map-12-the-stormlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 12: The Stormlands"
+    },
+    {
+      "id": "houses-crownlands",
+      "title": "Houses of the Crownlands",
+      "group": "Houses",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/03/westeros-the-crownlands-houses-named.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/03/18/geographic-map-13-the-crownlands/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 13: The Crownlands"
+    },
+    {
+      "id": "essos",
+      "title": "Essos",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/06/essos-geographic-with-names.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/06/18/geographic-map-14-essos/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 14: Essos"
+    },
+    {
+      "id": "free-cities",
+      "title": "The Nine Free Cities",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/08/free-cities.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/08/20/geographic-map-15-the-free-cities/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 15: The Free Cities"
+    },
+    {
+      "id": "fallen-valyria",
+      "title": "Fallen Valyria",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/valyria.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/01/geographic-map-16-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 16: Valyria"
+    },
+    {
+      "id": "slavers-bay",
+      "title": "Slaver's Bay",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/slavers-bay1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/08/geographic-map-17-slavers-bay/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 17: Slaver's Bay"
+    },
+    {
+      "id": "dothraki-sea",
+      "title": "The Dothraki Sea",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/dothraki-sea.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/14/geographic-map-18-the-dothraki-sea/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 18: The Dothraki Sea"
+    },
+    {
+      "id": "ibben",
+      "title": "Ibben",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/ibben.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/14/geographic-map-19-ibben-and-the-bone-mountains/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 19: Ibben and the Bone Mountains"
+    },
+    {
+      "id": "bone-mountains",
+      "title": "The Bone Mountains",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/the-bone-mountains.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/14/geographic-map-19-ibben-and-the-bone-mountains/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 19: Ibben and the Bone Mountains"
+    },
+    {
+      "id": "red-waste",
+      "title": "The Red Waste, the Jade Gates and Great Moraq",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/the-red-waste-jade-gates-and-great-moraq.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/21/geographic-map-20-the-red-waste-jade-gates-and-great-moraq/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 20: The Red Waste, Jade Gates and Great Moraq"
+    },
+    {
+      "id": "yi-ti",
+      "title": "The Golden Empire of Yi Ti",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/yi-ti.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/29/geographic-map-23-yi-ti/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 23: Yi Ti"
+    },
+    {
+      "id": "distant-east",
+      "title": "The Distant East",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/the-distant-east.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/29/geographic-map-24-the-distant-east/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 24: The Distant East"
+    },
+    {
+      "id": "asshai",
+      "title": "Asshai and the Shadow",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/asshai-and-the-shadow.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/29/geographic-map-25-asshai-the-shadow-and-beyond/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 25: Asshai, the Shadow and Beyond"
+    },
+    {
+      "id": "ulthos",
+      "title": "Ulthos",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/ulthos.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/29/geographic-map-25-asshai-the-shadow-and-beyond/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 25: Asshai, the Shadow and Beyond"
+    },
+    {
+      "id": "sothoryos",
+      "title": "Sothoryos",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/sothoryos1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/21/geographic-map-21-sothoryos/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 21: Sothoryos"
+    },
+    {
+      "id": "sothoryos-hypothetical",
+      "title": "Sothoryos (the map maker's guess at its full extent)",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/sothoryos-hypothetical.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/21/geographic-map-21-sothoryos/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 21: Sothoryos"
+    },
+    {
+      "id": "summer-isles",
+      "title": "The Summer Isles",
+      "group": "Essos and beyond",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2017/10/the-summer-islands.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2017/10/29/geographic-map-22-the-summer-isles/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 22: The Summer Isles"
+    },
+    {
+      "id": "dawn-of-days",
+      "title": "Westeros and Essos at the Dawn of Days",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/westeros-and-essos-in-the-dawn-of-days.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/20/historical-map-1-the-dawn-of-days/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 1: The Dawn of Days"
+    },
+    {
+      "id": "silver-sea",
+      "title": "The Silver Sea",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/silver-sea.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/20/historical-map-1-the-dawn-of-days/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 1: The Dawn of Days"
+    },
+    {
+      "id": "arm-of-dorne",
+      "title": "The Arm of Dorne",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/the-arm-of-dorne.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/20/historical-map-1-the-dawn-of-days/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 1: The Dawn of Days"
+    },
+    {
+      "id": "valyria-unbroken",
+      "title": "Valyria unbroken",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/valyria-unbroken.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/20/historical-map-1-the-dawn-of-days/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 1: The Dawn of Days"
+    },
+    {
+      "id": "black-stone",
+      "title": "Structures of the oily black stone",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/black-stone.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/20/historical-map-1-the-dawn-of-days/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 1: The Dawn of Days"
+    },
+    {
+      "id": "first-men",
+      "title": "The invasion of the First Men",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/war-of-the-first-men-and-children.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/24/historical-map-2-the-arrival-of-the-first-men/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 2: The Arrival of the First Men"
+    },
+    {
+      "id": "age-of-heroes",
+      "title": "The Age of Heroes",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/age-of-heroes.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/25/historical-map-3-the-age-of-heroes-the-long-night/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 3: The Age of Heroes & The Long Night"
+    },
+    {
+      "id": "long-night",
+      "title": "The Long Night and the War for the Dawn",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/09/the-long-night.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/09/25/historical-map-3-the-age-of-heroes-the-long-night/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 3: The Age of Heroes & The Long Night"
+    },
+    {
+      "id": "ancient-essos",
+      "title": "Ancient Essos",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/ancient-essos.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/05/historical-map-4-ancient-essos/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 4: Ancient Essos"
+    },
+    {
+      "id": "ancient-sarnor",
+      "title": "Ancient Sarnor",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/sarnor.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/05/historical-map-4-ancient-essos/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 4: Ancient Essos"
+    },
+    {
+      "id": "ancient-ghis",
+      "title": "Ancient Ghis",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/ghis.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/05/historical-map-4-ancient-essos/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 4: Ancient Essos"
+    },
+    {
+      "id": "andalos",
+      "title": "Andalos",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/andalos.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/06/historical-map-5-the-andal-invasion/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 5: The Andal Invasion"
+    },
+    {
+      "id": "andal-invasion",
+      "title": "The Andal invasion",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-andal-invasion.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/06/historical-map-5-the-andal-invasion/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 5: The Andal Invasion"
+    },
+    {
+      "id": "valyrian-freehold",
+      "title": "The Valyrian Freehold",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-valyrian-freehold1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/08/historical-map-6-the-rise-of-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 6: The Rise of Valyria"
+    },
+    {
+      "id": "valyrian-annexations",
+      "title": "The Valyrian empire and its annexations",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/valyrian-empire-with-annexations.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/08/historical-map-6-the-rise-of-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 6: The Rise of Valyria"
+    },
+    {
+      "id": "valyrian-roads",
+      "title": "The Valyrian empire and its roads",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/valyrian-empire-with-roads1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/08/historical-map-6-the-rise-of-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 6: The Rise of Valyria"
+    },
+    {
+      "id": "cities-of-the-rhoyne",
+      "title": "Cities of the Rhoyne",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-rhoynar.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/09/historical-map-7-the-flight-of-the-rhoynar/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 7: The Flight of the Rhoynar"
+    },
+    {
+      "id": "valyria-950-bc",
+      "title": "The Valyrian Freehold, c. 950 BC",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/valyria-950-bc1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/09/historical-map-7-the-flight-of-the-rhoynar/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 7: The Flight of the Rhoynar"
+    },
+    {
+      "id": "fall-of-the-rhoynar",
+      "title": "The fall of the Rhoynar",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-rhoynish-wars-with-labels.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/09/historical-map-7-the-flight-of-the-rhoynar/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 7: The Flight of the Rhoynar"
+    },
+    {
+      "id": "exodus-of-the-rhoynar",
+      "title": "The exodus of the Rhoynar",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/flight-of-the-rhoynar.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/09/historical-map-7-the-flight-of-the-rhoynar/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 7: The Flight of the Rhoynar"
+    },
+    {
+      "id": "nymerias-war",
+      "title": "Nymeria's War",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-unification-of-dorne.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/09/historical-map-7-the-flight-of-the-rhoynar/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 7: The Flight of the Rhoynar"
+    },
+    {
+      "id": "old-valyria",
+      "title": "Valyria before the Doom",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/03/old-valyria-with-cities-and-labelled.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/03/28/valyria-before-the-doom/",
+      "source_title": "The Atlas of Ice and Fire: Valyria Before the Doom"
+    },
+    {
+      "id": "valyria-doom",
+      "title": "Valyria before and after the Doom",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/valyria-before-and-after-the-doom.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/12/historical-map-8-the-doom-of-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 8: The Doom of Valyria"
+    },
+    {
+      "id": "founding-of-braavos",
+      "title": "The founding of Braavos",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/flight-of-the-braavosi.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/12/historical-map-8-the-doom-of-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 8: The Doom of Valyria"
+    },
+    {
+      "id": "narrow-sea-100-bc",
+      "title": "Cities of the Narrow Sea",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-narrow-sea-c-100-bc.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/12/historical-map-8-the-doom-of-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 8: The Doom of Valyria"
+    },
+    {
+      "id": "century-of-blood-volantis",
+      "title": "The Century of Blood: Volantene aggression",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-century-of-blood-volantene-aggression.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/15/historical-map-9-the-century-of-blood/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 9: The Century of Blood"
+    },
+    {
+      "id": "century-of-blood-sarnor",
+      "title": "The Century of Blood: the fall of Sarnor",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-century-of-blood-the-fall-of-sarnor.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/15/historical-map-9-the-century-of-blood/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 9: The Century of Blood"
+    },
+    {
+      "id": "century-of-blood-end",
+      "title": "The end of the Century of Blood",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-century-of-blood-volantis-defeated.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/15/historical-map-9-the-century-of-blood/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 9: The Century of Blood"
+    },
+    {
+      "id": "eight-kingdoms",
+      "title": "The eight kingdoms of Westeros",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-seven-kingdoms-450-bc.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/20/historical-map-10-westeros-before-the-conquest/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 10: Westeros Before the Conquest"
+    },
+    {
+      "id": "storm-kingdom-riverlands",
+      "title": "The Storm Kingdom and the Riverlands",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/storm-kingdom-and-riverlands.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/20/historical-map-10-westeros-before-the-conquest/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 10: Westeros Before the Conquest"
+    },
+    {
+      "id": "seven-kingdoms-2-bc",
+      "title": "The Seven Kingdoms on the eve of the Conquest",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-seven-kingdoms-2-bc.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/20/historical-map-10-westeros-before-the-conquest/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 10: Westeros Before the Conquest"
+    },
+    {
+      "id": "blackwater-bay-2-bc",
+      "title": "Blackwater Bay",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-conquest-blackwater-bay.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/22/historical-map-11-the-conquest-the-fall-of-harrenhal-storms-end/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 11: The Conquest - The Fall of Harrenhal & Storm's End"
+    },
+    {
+      "id": "houses-of-the-east-2-bc",
+      "title": "Houses of the East",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-conquest-blackwater-bay-houses.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/22/historical-map-11-the-conquest-the-fall-of-harrenhal-storms-end/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 11: The Conquest - The Fall of Harrenhal & Storm's End"
+    },
+    {
+      "id": "conquest-early",
+      "title": "Early victories of the Targaryen Conquest",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-conquest-early-battles.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/22/historical-map-11-the-conquest-the-fall-of-harrenhal-storms-end/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 11: The Conquest - The Fall of Harrenhal & Storm's End"
+    },
+    {
+      "id": "last-storm",
+      "title": "The Last Storm (battle)",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-conquest-the-last-storm2.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/22/historical-map-11-the-conquest-the-fall-of-harrenhal-storms-end/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 11: The Conquest - The Fall of Harrenhal & Storm's End"
+    },
+    {
+      "id": "conquest-later",
+      "title": "The War of Conquest: the later course of the war",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-conquest-road-to-the-field-of-fire.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/26/historical-map-12-the-conquest-the-field-of-fire-and-aegons-crowning/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 12: The Conquest -The Field of Fire and Aegon's Crowning"
+    },
+    {
+      "id": "field-of-fire",
+      "title": "The Field of Fire (battle)",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/10/the-field-of-fire.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/10/26/historical-map-12-the-conquest-the-field-of-fire-and-aegons-crowning/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 12: The Conquest -The Field of Fire and Aegon's Crowning"
+    },
+    {
+      "id": "invasion-of-dorne",
+      "title": "The invasion of Dorne",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-first-dornish-war-the-invasion-of-dorne1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/01/historical-map-13-the-first-dornish-war/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 13: The First Dornish War"
+    },
+    {
+      "id": "first-dornish-war",
+      "title": "The First Dornish War",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-first-dornish-war-the-dragons-wroth1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/01/historical-map-13-the-first-dornish-war/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 13: The First Dornish War"
+    },
+    {
+      "id": "three-rebellions",
+      "title": "The Three Rebellions",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/aenys-i-the-three-rebellions.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/06/historical-map-14-the-three-rebellions-and-the-faith-militant-uprising/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 14: The Three Rebellions and The Faith Militant Uprising"
+    },
+    {
+      "id": "faith-militant",
+      "title": "The Faith Militant uprising",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-war-of-the-faith-militant.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/06/historical-map-14-the-three-rebellions-and-the-faith-militant-uprising/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 14: The Three Rebellions and The Faith Militant Uprising"
+    },
+    {
+      "id": "jaehaerys-i",
+      "title": "Westeros under Jaehaerys I",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/jaehaerys-i.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/06/historical-map-14-the-three-rebellions-and-the-faith-militant-uprising/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 14: The Three Rebellions and The Faith Militant Uprising"
+    },
+    {
+      "id": "sea-snake",
+      "title": "The voyages of the Sea Snake",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/voyages-of-the-sea-snake.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/06/historical-map-15-the-voyages-of-the-sea-snake/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 15: The Voyages of the Sea Snake"
+    },
+    {
+      "id": "war-for-the-stepstones",
+      "title": "The War for the Stepstones",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/war-for-the-stepstones.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/06/historical-map-15-the-voyages-of-the-sea-snake/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 15: The Voyages of the Sea Snake"
+    },
+    {
+      "id": "dance-allegiances",
+      "title": "The Dance of the Dragons: allegiances",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/dance-of-dragons-initial-dispositions1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/19/historical-map-16-the-dance-of-dragons-prelude-to-war/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 16: The Dance of Dragons - Prelude to War"
+    },
+    {
+      "id": "dance-of-the-dragons",
+      "title": "The Dance of the Dragons",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/dance-of-dragons-battles.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/20/historical-map-17-the-dance-of-dragons-fire-and-blood/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 17: The Dance of Dragons - Fire and Blood"
+    },
+    {
+      "id": "second-dornish-war",
+      "title": "The Second Dornish War",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-second-dornish-war-157-159.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/24/historical-map-18-the-second-dornish-war/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 18: The Second Dornish War"
+    },
+    {
+      "id": "baelors-march",
+      "title": "Baelor the Blessed's march",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/baelors-march.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/24/historical-map-18-the-second-dornish-war/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 18: The Second Dornish War"
+    },
+    {
+      "id": "nine-mistresses",
+      "title": "The nine mistresses of Aegon IV",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-nine-mistresses-of-aegon-iv.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/25/historical-map-19-reign-of-decadence/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 19: Reign of Decadence"
+    },
+    {
+      "id": "blackfyre-factions",
+      "title": "The First Blackfyre Rebellion: factions",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-first-blackfyre-rebellion-factions.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/29/historical-map-20-the-first-blackfyre-rebellion-the-great-spring-sickness/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 20: The First Blackfyre Rebellion & The Great Spring Sickness"
+    },
+    {
+      "id": "redgrass-field",
+      "title": "The Battle of the Redgrass Field",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-battle-of-redgrass-field.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/29/historical-map-20-the-first-blackfyre-rebellion-the-great-spring-sickness/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 20: The First Blackfyre Rebellion & The Great Spring Sickness"
+    },
+    {
+      "id": "great-spring-sickness",
+      "title": "The Great Spring Sickness",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/11/the-great-spring-sickness.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/11/29/historical-map-20-the-first-blackfyre-rebellion-the-great-spring-sickness/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 20: The First Blackfyre Rebellion & The Great Spring Sickness"
+    },
+    {
+      "id": "three-kings",
+      "title": "Three kings, many rebellions",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/three-kings-many-rebellions.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/02/historical-map-21-three-kings-many-rebellions/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 21: Three Kings, Many Rebellions"
+    },
+    {
+      "id": "ninepenny-kings",
+      "title": "The War of the Ninepenny Kings",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/the-war-of-the-ninepenny-kings.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/03/historical-map-22-the-war-of-the-ninepenny-kings-the-fall-of-castamere/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 22: The War of the Ninepenny Kings & The Fall of Castamere"
+    },
+    {
+      "id": "reyne-tarbeck",
+      "title": "The Tarbeck–Reyne rebellion",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/the-tarbeck-castamere-rebellion1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/03/historical-map-22-the-war-of-the-ninepenny-kings-the-fall-of-castamere/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 22: The War of the Ninepenny Kings & The Fall of Castamere"
+    },
+    {
+      "id": "crownlands-277",
+      "title": "The Crownlands",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/the-crownlands-277.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/04/historical-map-23-the-reign-of-the-mad-king/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 23: The Reign of the Mad King"
+    },
+    {
+      "id": "westeros-281",
+      "title": "The Seven Kingdoms in the year of the false spring",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/westeros-281-ac.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/04/historical-map-23-the-reign-of-the-mad-king/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 23: The Reign of the Mad King"
+    },
+    {
+      "id": "rebellion-factions",
+      "title": "Robert's Rebellion: factions",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/roberts-rebellion-factions.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/06/historical-map-24-roberts-rebellion/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 24: Robert's Rebellion"
+    },
+    {
+      "id": "rebellion-battles",
+      "title": "The battles of Robert's Rebellion",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/roberts-rebellion-battles1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/06/historical-map-24-roberts-rebellion/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 24: Robert's Rebellion"
+    },
+    {
+      "id": "rebellion-journeys",
+      "title": "The movements of Eddard Stark and Robert Baratheon in the rebellion",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/journeys-robert-and-ned-rebellion.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/06/historical-map-24-roberts-rebellion/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 24: Robert's Rebellion"
+    },
+    {
+      "id": "greyjoy-rebellion",
+      "title": "The Greyjoy Rebellion",
+      "group": "History",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/the-greyjoy-rebellion.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/08/historical-map-25-the-baratheon-reign/",
+      "source_title": "The Atlas of Ice and Fire: Historical Map 25: The Baratheon Reign"
+    },
+    {
+      "id": "daenerys-journey",
+      "title": "The journey of Daenerys Targaryen",
+      "group": "Journeys",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/04/daeneryss-journey-version-2.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/04/25/mapping-the-journey-of-daenerys-targaryen/",
+      "source_title": "The Atlas of Ice and Fire: Mapping the Journey of Daenerys Targaryen"
+    },
+    {
+      "id": "sun-chaser",
+      "title": "The voyage of the Sun Chaser",
+      "group": "Journeys",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2019/01/voyage-of-the-sun-chaser.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2019/01/06/journeys-of-blood-and-fire-the-voyage-of-the-sun-chaser-balerions-trip-to-valyria/",
+      "source_title": "The Atlas of Ice and Fire: Journeys of Blood and Fire: The Voyage of the Sun Chaser & Balerion's Trip to Valyria"
+    },
+    {
+      "id": "political-known-world",
+      "title": "A political map of the Known World",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/03/world-of-ice-and-fire-world-map-political.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/03/05/a-political-map-of-the-known-world/",
+      "source_title": "The Atlas of Ice and Fire: A Political Map of the Known World"
+    },
+    {
+      "id": "borders-free-cities",
+      "title": "Borders of the Free Cities",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/03/borders-free-cities.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/03/05/a-political-map-of-the-known-world/",
+      "source_title": "The Atlas of Ice and Fire: A Political Map of the Known World"
+    },
+    {
+      "id": "borders-far-east",
+      "title": "Borders of the far east",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/03/borders-far-east.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/03/05/a-political-map-of-the-known-world/",
+      "source_title": "The Atlas of Ice and Fire: A Political Map of the Known World"
+    },
+    {
+      "id": "population-westeros",
+      "title": "The population of Westeros",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2016/12/westeros-population.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2016/12/30/geographic-map-2-westeros/",
+      "source_title": "The Atlas of Ice and Fire: Geographic Map 2: Westeros"
+    },
+    {
+      "id": "economy-westeros",
+      "title": "The economy of Westeros",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2018/05/westeros-economy-and-trade.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2018/05/03/an-economic-map-of-the-seven-kingdoms/",
+      "source_title": "The Atlas of Ice and Fire: An Economic Map of the Seven Kingdoms"
+    },
+    {
+      "id": "trade-routes",
+      "title": "Major trade routes of the Seven Kingdoms",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2018/05/westeros-trade-routes-big.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2018/05/03/an-economic-map-of-the-seven-kingdoms/",
+      "source_title": "The Atlas of Ice and Fire: An Economic Map of the Seven Kingdoms"
+    },
+    {
+      "id": "languages-dawn-of-days",
+      "title": "Languages at the Dawn of Days",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2018/04/languages-dawn-of-days.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2018/04/22/languages-of-the-known-world/",
+      "source_title": "The Atlas of Ice and Fire: Languages of the Known World"
+    },
+    {
+      "id": "languages",
+      "title": "Languages of the Known World",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2018/04/languages1.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2018/04/22/languages-of-the-known-world/",
+      "source_title": "The Atlas of Ice and Fire: Languages of the Known World"
+    },
+    {
+      "id": "distance-westeros",
+      "title": "Travel distances in Westeros",
+      "group": "Politics, people and trade",
+      "description": "",
+      "url": "https://atlasoficeandfireblog.wordpress.com/wp-content/uploads/2020/09/westeros-2020-isochrone.png",
+      "source_url": "https://atlasoficeandfireblog.wordpress.com/2020/09/29/a-distance-map-of-westeros/",
+      "source_title": "The Atlas of Ice and Fire: A Distance Map of Westeros"
+    },
+    {
+      "id": "known-world-imgbb",
+      "title": "The Known World (fan map)",
+      "group": "Overview",
+      "description": "",
+      "url": "https://i.ibb.co/BT2yDhG/The-Known-World.jpg",
+      "source_url": "https://i.ibb.co/BT2yDhG/The-Known-World.jpg",
+      "licence_url": "https://i.ibb.co/BT2yDhG/The-Known-World.jpg",
+      "licence": "No licence stated: shown with credit to its upload, removed on request",
+      "source_title": "The-Known-World.jpg (ImgBB upload)",
+      "author": "Unknown (uploaded to ImgBB; the file carries no credit)",
+      "continuity": null,
+      "note": "A fan map shared without a credit. The maker is unknown, so it is credited to its upload and will be removed on request."
+    },
+    {
+      "id": "known-world-hbo",
+      "title": "The Known World (HBO series)",
+      "group": "Game of Thrones (HBO)",
+      "description": "",
+      "url": "https://i.ibb.co/TqWCwyF/The-known-world-HBO.jpg",
+      "source_url": "https://i.ibb.co/TqWCwyF/The-known-world-HBO.jpg",
+      "licence_url": "https://i.ibb.co/TqWCwyF/The-known-world-HBO.jpg",
+      "licence": "No licence stated: shown with credit to its upload, removed on request",
+      "source_title": "The-known-world-HBO.jpg (ImgBB upload)",
+      "author": "Unknown (uploaded to ImgBB; the file carries no credit)",
+      "continuity": "got-hbo",
+      "fan_made": false,
+      "note": "Shared without a credit and apparently based on the map in HBO's Game of Thrones. The maker is unknown, so it is credited to its upload and will be removed on request."
+    }
+  ]
+}

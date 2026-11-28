@@ -919,3 +919,18 @@ Optional `data/<universe>/maps.json` (schema `WorldMap` in `src/domain/schema.ts
 - The Walking Dead is under Horror. Twin Peaks is under TV drama & procedurals.
 - Universes are kept whole: each one sits in a single category even when its continuities span several media.
 - New universes can set `category` in their bootstrap config. Without one they appear under "Other".
+
+## Atlas: A Song of Ice and Fire maps (2026-11-28, R-70)
+- Source: Adam Whitehead's blog The Atlas of Ice and Fire. 214 images were collected from 70 map posts (via the WordPress posts API) and checked one by one on contact sheets.
+- Kept: 116 of his own maps. Left out:
+  - character portraits, castle and dragon paintings, and HBO stills (other artists' work);
+  - a satellite photo of Lake Toba;
+  - a real-world 1914 isochrone map (#190);
+  - the language-tree diagram;
+  - near-duplicate versions;
+  - Forgotten Realms maps matched by the post filter.
+- Also kept: the two ImgBB maps the user linked. Neither has a credit, and one is apparently based on HBO's map, so it sits in the HBO continuity.
+- No licence is stated for any of these. They are shown with credit and a removal-on-request notice, as the user decided (R-70).
+- Periods such as "c. 950 BC" were read from thumbnails and are not verified, so they are left out of the captions. Each map shows its own caption on the image.
+- Groups and titles are mine, taken from the post titles and the map cartouches.
+- Images over 4 megapixels are cut into 256-px WebP zoom tiles. Smaller ones become a single WebP. Sources, hashes and sizes are in `data/sources/maps/asoiaf.lock.json`.

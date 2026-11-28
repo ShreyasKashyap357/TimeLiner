@@ -124,6 +124,7 @@ test.describe('TimeLiner smoke', () => {
       expect(res.violations.map((v) => `${v.id}: ${v.nodes.length} (${v.nodes[0]?.target})`)).toEqual([]);
     }
   });
+
 });
 
 test.describe('URL defaults and pickers (regressions)', () => {
@@ -379,13 +380,33 @@ test.describe('maps', () => {
     await page.getByTestId('result-count').waitFor({ state: 'attached', timeout: 30_000 });
     if (isMobile) {
       await page.getByRole('combobox', { name: 'View', exact: true }).click();
-      await expect(page.getByRole('option', { name: 'Maps', exact: true })).toHaveCount(0);
+      await expect(page.getByRole('option', { name: 'Atlas', exact: true })).toHaveCount(0);
     } else await expect(page.locator('[data-view="maps"]')).toHaveCount(0);
     await page.goto('/?u=narnia');
     await page.getByTestId('result-count').waitFor({ state: 'attached', timeout: 30_000 });
     if (isMobile) {
       await page.getByRole('combobox', { name: 'View', exact: true }).click();
-      await expect(page.getByRole('option', { name: 'Maps', exact: true })).toHaveCount(1);
+      await expect(page.getByRole('option', { name: 'Atlas', exact: true })).toHaveCount(1);
     } else await expect(page.locator('[data-view="maps"]')).toHaveCount(1);
+  });
+  test('atlas: button next to the logo opens tiled, grouped maps with credits', async ({ page }) => {
+    await page.goto('/?u=asoiaf');
+    await page.getByTestId('atlas-button').click();
+    await expect(page).toHaveURL(/view=maps/);
+    await expect(page.getByTestId('map-credit')).toContainText('Adam Whitehead', { timeout: 30_000 });
+    await expect(page.getByTestId('map-removal')).toBeVisible();
+    await expect(page.locator('.tl-map img.leaflet-tile').first()).toBeVisible({ timeout: 30_000 });
+    await page.getByRole('combobox', { name: 'Map', exact: true }).click();
+    await expect(page.getByRole('group', { name: /^Houses \(\d+\)$/ })).toBeVisible();
+    await page.getByPlaceholder(/Search \d+ maps/).fill('dorne');
+    await page.getByRole('option', { name: /^Houses of Dorne/ }).click();
+    await expect(page.getByRole('heading', { name: 'Houses of Dorne' })).toBeVisible();
+    expect(await nativeTitles(page)).toEqual([]);
+    expect(await overflowX(page)).toBeLessThanOrEqual(1);
+  });
+
+  test('atlas: button is disabled where a universe has no maps', async ({ page }) => {
+    await page.goto('/?u=dune');
+    await expect(page.getByTestId('atlas-button')).toBeDisabled();
   });
 });

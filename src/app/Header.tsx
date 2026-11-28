@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { useApp } from './context';
-import { universes as allUniverses } from '@/state/data';
+import { universes as allUniverses, hasMaps } from '@/state/data';
 import { ContinuityPicker } from './ContinuityPicker';
 import { SearchablePicker } from './SearchablePicker';
 import { Button } from '@/components/ui/button';
@@ -11,7 +11,7 @@ import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, D
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from 'sonner';
-import { Search, ListChecks, EyeOff, Eye } from 'lucide-react';
+import { Search, ListChecks, EyeOff, Eye, Map as MapIcon } from 'lucide-react';
 import { RowMarker } from '@/components/Marker';
 import { Tip } from '@/components/Tip';
 
@@ -25,6 +25,7 @@ export function HeaderBar() {
       <a href={import.meta.env.BASE_URL} className="mr-1 flex items-baseline gap-2" aria-label="TimeLiner home">
         <span className="font-heading text-xl font-bold tracking-widest" style={{ color: 'var(--u-primary)' }}>TIMELINER</span>
       </a>
+      <AtlasButton />
       <div className="flex min-w-0 flex-[1_1_auto] items-center gap-2">
         <SearchablePicker label="Universe" hint="Franchise universe. Type to search." noun="universes" pinned={['all']} value={state.u}
           options={[...(universes.length > 1 ? [{ value: 'all', label: 'All universes' }] : []), ...universes.map((u) => ({ value: u.id, label: u.name, color: u.accent.primary, group: u.category || 'Other', detail: u.description }))]}
@@ -166,5 +167,26 @@ function WatchedMenu() {
         </DialogContent>
       </Dialog>
     </>
+  );
+}
+
+/** Atlas: the universe's maps (the Maps view), one click from the brand. Disabled where a universe has no maps. */
+function AtlasButton() {
+  const { state, update } = useApp();
+  const available = hasMaps(state.u);
+  const active = state.view === 'maps';
+  const open = () => update({ view: 'maps', sort: state.sort === 'in-universe' || state.sort === 'alt' ? 'release' : state.sort, alt: null }, true);
+  const hint = available ? (active ? 'You are in the Atlas.' : 'Open the Atlas: maps of this universe.')
+    : state.u === 'all' ? 'Pick a single universe to see its maps.' : 'There are no maps for this universe yet.';
+  return (
+    <Tip content={hint}>
+      {/* a span keeps the tooltip working while the button is disabled */}
+      <span className="inline-flex">
+        <Button type="button" size="sm" variant={active ? 'default' : 'outline'} aria-pressed={active} disabled={!available} onClick={open}
+          className="gap-1.5" data-testid="atlas-button">
+          <MapIcon aria-hidden className="size-4" />Atlas
+        </Button>
+      </span>
+    </Tip>
   );
 }

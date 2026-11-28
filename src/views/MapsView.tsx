@@ -14,6 +14,7 @@ import type { MapPlace, WorldMap } from '@/domain/schema';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import { SearchablePicker } from '@/app/SearchablePicker';
 
 const OSM_TILES = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 const OSM_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
@@ -24,10 +25,34 @@ const CONF = {
   disputed: { label: 'Disputed', icon: TriangleAlert, cls: 'border-amber-400/70 text-amber-200', help: 'Sources disagree or are shaky; see the note.' },
 } as const;
 
-/** Leaflet position of a place: image pixels (y down) become CRS.Simple lat/lng (y up). */
+/** Leaflet position of a place: image pixels (y down) become CRS.Simple lat/lng (y up). Tiled images use the
+ *  tile pyramid's scale (pixel / 2^max_zoom, y negative), so tiles and places line up at every zoom. */
 export function placeLatLng(m: WorldMap, p: MapPlace): L.LatLngExpression {
+  if (m.kind === 'image' && m.image?.tiles) { const k = 2 ** m.image.tiles.max_zoom; return [-p.y! / k, p.x! / k]; }
   if (m.kind === 'image' && m.image) return [m.image.height - p.y!, p.x!];
   return [p.lat!, p.lng!];
+}
+
+/** Searchable, grouped map picker for universes with many maps; a row of buttons for a few. */
+function MapPicker({ maps, value, onChange }: { maps: WorldMap[]; value: string; onChange: (id: string) => void }) {
+  if (maps.length <= 6) {
+    return (
+      <div role="group" aria-label="Choose a map" className="flex flex-wrap gap-2">
+        {maps.map((m) => (
+          <Button key={m.id} size="sm" variant={m.id === value ? 'default' : 'outline'} aria-pressed={m.id === value}
+            className="h-auto min-h-8 max-w-full whitespace-normal text-left" onClick={() => onChange(m.id)}>
+            {m.title}
+          </Button>
+        ))}
+      </div>
+    );
+  }
+  return (
+    <div className="max-w-xl">
+      <SearchablePicker label="Map" hint="Choose a map. Type to search." noun="maps" value={value} onChange={onChange}
+        options={maps.map((m) => ({ value: m.id, label: m.title, group: m.group || 'Maps', detail: m.description || undefined }))} />
+    </div>
+  );
 }
 
 /** Native `title` attributes are banned in the UI (they show the browser's plain tooltip); Leaflet adds some. */
@@ -55,17 +80,11 @@ export function MapsView({ universe }: { universe: string }) {
 
   return (
     <section aria-labelledby="map-heading" className="space-y-4" data-testid="maps-view">
-      {maps.length > 1 && (
-        <div role="group" aria-label="Choose a map" className="flex flex-wrap gap-2">
-          {maps.map((m) => (
-            <Button key={m.id} size="sm" variant={m.id === map.id ? 'default' : 'outline'} aria-pressed={m.id === map.id}
-              className="h-auto min-h-8 max-w-full whitespace-normal text-left" onClick={() => { setMapId(m.id); setPlaceId(null); }}>
-              {m.title}
-            </Button>
-          ))}
-        </div>
-      )}
-      <h2 id="map-heading" className="text-lg font-semibold">{map.title}</h2>
+      {maps.length > 1 && <MapPicker maps={maps} value={map.id} onChange={(id) => { setMapId(id); setPlaceId(null); }} />}
+      <div>
+        <h2 id="map-heading" className="text-lg font-semibold">{map.title}</h2>
+        {(map.group || map.description) && <p className="text-sm text-muted-foreground">{[map.group, map.description].filter(Boolean).join(' · ')}</p>}
+      </div>
       <LeafletMap key={`${universe}/${map.id}`} map={map} placeId={placeId} onSelect={setPlaceId} />
       <div className="grid gap-4 md:grid-cols-2">
         <PlaceList map={map} placeId={placeId} onSelect={setPlaceId} />
@@ -88,10 +107,22 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
 
   useEffect(() => {
     const node = el.current!;
-    const m = L.map(node, { crs: map.kind === 'image' ? L.CRS.Simple : L.CRS.EPSG3857, zoomSnap: 0.25, attributionControl: true, worldCopyJump: map.kind === 'osm' });
+    const m = L.map(node, { crs: map.kind === 'image' ? L.CRS.Simple : L.CRS.EPSG3857, zoomSnap: map.image?.tiles ? 1 : 0.25, attributionControl: true, worldCopyJump: map.kind === 'osm' });
     m.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
     let bounds: L.LatLngBounds;
-    if (map.kind === 'image' && map.image) {
+    if (map.kind === 'image' && map.image?.tiles) {
+      // Zoom tiles ({z}/{y}/{x}.webp next to the preview): only the tiles in view are downloaded.
+      const z = map.image.tiles.max_zoom, k = 2 ** z;
+      bounds = L.latLngBounds([-map.image.height / k, 0], [0, map.image.width / k]);
+      const dir = map.image.path.slice(0, map.image.path.lastIndexOf('/'));
+      L.tileLayer(`${import.meta.env.BASE_URL}${dir}/{z}/{y}/{x}.webp`, {
+        tileSize: 256, minZoom: -4, minNativeZoom: 0, maxNativeZoom: z, maxZoom: z + 1, noWrap: true, bounds, keepBuffer: 2,
+      }).addTo(m);
+      m.fitBounds(bounds);
+      m.setMinZoom(m.getZoom() - 1);
+      m.setMaxZoom(z + 1);
+      m.setMaxBounds(bounds.pad(0.25));
+    } else if (map.kind === 'image' && map.image) {
       bounds = L.latLngBounds([0, 0], [map.image.height, map.image.width]);
       L.imageOverlay(`${import.meta.env.BASE_URL}${map.image.path}`, bounds, { alt: `Map: ${map.title}` }).addTo(m);
       m.fitBounds(bounds);
@@ -166,7 +197,7 @@ function LeafletMap({ map, placeId, onSelect }: { map: WorldMap; placeId: string
   return (
     <>
       <div ref={el} role="region" aria-label={`Interactive map: ${map.title}. Use the place list below to visit each place.`}
-        className="tl-map relative isolate z-0 h-[min(70dvh,36rem)] min-h-80 w-full overflow-hidden border border-border" />
+        className="tl-map relative isolate z-0 h-[min(78dvh,50rem)] min-h-80 w-full overflow-hidden border border-border" />
       {place && createPortal(<PlaceCard place={place} />, popupEl)}
     </>
   );
@@ -253,6 +284,12 @@ function AboutMap({ map }: { map: WorldMap }) {
         {c.fan_made && <Badge variant="outline">Fan-made</Badge>}
         {c.modified && <Badge variant="outline">Modified</Badge>}
       </div>
+      {c.removal_on_request && (
+        <p className="border-l-2 border-[var(--u-primary)] pl-2 text-muted-foreground" data-testid="map-removal">
+          Shown with credit as a fan work, without a licence. The map maker can ask for it to be removed at any time{' '}
+          (<a href="https://github.com/ShreyasKashyap357/TimeLiner/issues" target="_blank" rel="noreferrer" className="underline">open an issue</a>).
+        </p>
+      )}
       <dl className="grid grid-cols-[auto_1fr] gap-x-3 gap-y-1">
         <dt className="text-muted-foreground">Source</dt>
         <dd className="min-w-0 break-words"><a href={c.source_url} target="_blank" rel="noreferrer" className="underline">{c.title}</a></dd>

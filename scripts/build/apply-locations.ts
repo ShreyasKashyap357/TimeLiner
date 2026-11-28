@@ -35,14 +35,14 @@ export function locationsToMap(cache: LocationsCache, titles: { id: string; exte
   const titleOrder = new Map(titles.map((t, i) => [t.id, i]));
   for (const p of places.values()) p.title_ids.sort((a, b) => titleOrder.get(a)! - titleOrder.get(b)!);
   return {
-    id: STORY_MAP_ID, universe: cache.universe, title: 'Real-world story locations', kind: 'osm', continuity: null,
+    id: STORY_MAP_ID, universe: cache.universe, title: 'Real-world story locations', group: '', description: '', kind: 'osm', continuity: null,
     credit: {
       title: 'Wikidata: narrative location (P840) and coordinate location (P625)',
       author: 'Wikidata contributors',
       licence: 'CC0 1.0',
       licence_url: 'https://creativecommons.org/publicdomain/zero/1.0/',
       source_url: 'https://www.wikidata.org/wiki/Property:P840',
-      modified: false, fan_made: false,
+      modified: false, fan_made: false, removal_on_request: false,
       note: `Fetched from Wikidata on ${cache.fetched}. Only places with coordinates are shown; fictional places are left out. Map tiles © OpenStreetMap contributors.`,
     },
     places: [...places.values()].sort((a, b) => a.name.localeCompare(b.name)),

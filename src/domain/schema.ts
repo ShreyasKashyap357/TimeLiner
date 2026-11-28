@@ -281,6 +281,8 @@ export const MapCredit = z.object({
   source_url: url, // the file page (or data source) the licence was read from
   modified: z.boolean(), // true when the image was altered from the source file
   fan_made: z.boolean(),
+  /** No licence: shown with credit as a fan work and taken down if the author asks (decision R-70). */
+  removal_on_request: z.boolean().default(false),
   note: z.string().default(''),
 });
 export const MapPlace = z.object({
@@ -301,10 +303,19 @@ export const WorldMap = z.object({
   id: slug,
   universe: slug,
   title: nonEmpty,
+  /** Atlas section heading (e.g. "Regions of Westeros"); maps keep file order within a group. */
+  group: z.string().default(''),
+  /** Short caption, e.g. the period a historical map shows (from the source). */
+  description: z.string().default(''),
   kind: z.enum(['image', 'osm']),
   /** null = the map covers the whole universe. */
   continuity: slug.nullable().default(null),
-  image: z.object({ path: z.string().regex(/^maps\/[a-z0-9-]+\/[a-z0-9._-]+\.(svg|png|jpe?g|webp)$/, 'path under public/maps/<universe>/'), width: z.number().int().positive(), height: z.number().int().positive() }).optional(),
+  image: z.object({
+    path: z.string().regex(/^maps\/[a-z0-9-]+\/([a-z0-9._-]+\/)?[a-z0-9._-]+\.(svg|png|jpe?g|webp)$/, 'path under public/maps/<universe>/'),
+    width: z.number().int().positive(), height: z.number().int().positive(),
+    /** Large images: zoom tiles at <path's folder>/{z}/{y}/{x}.webp (deepest level = full size); `path` is a small preview. */
+    tiles: z.object({ max_zoom: z.number().int().min(0).max(10) }).optional(),
+  }).optional(),
   credit: MapCredit,
   places: z.array(MapPlace).default([]),
 }).refine((m) => (m.kind === 'image') === !!m.image, 'image maps need image; osm maps must not have one');
